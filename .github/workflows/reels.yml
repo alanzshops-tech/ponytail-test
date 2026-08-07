@@ -1,10 +1,22 @@
 name: Reels rendern
 
-# Manuell startbar, plus optional wöchentlich.
-# Der Runner hat vollen Netzzugang – deshalb läuft hier, was in einer
+# Drei Wege, den Lauf auszulösen:
+#   push              — sobald sich Skript oder Konfiguration ändern
+#   workflow_dispatch — Knopf in der Actions-Oberfläche (erst ab main verfügbar)
+#   schedule          — wöchentlich
+#
+# Der Runner hat freien Netzzugang. Deshalb läuft hier, was in einer
 # abgeschotteten Umgebung nicht geht: Bilder von der Shopify-CDN holen,
-# mit FFmpeg rendern, zu Cloudinary hochladen.
+# mit FFmpeg rendern, Ergebnis öffentlich bereitstellen.
 on:
+  push:
+    branches:
+      - "claude/**"
+      - main
+    paths:
+      - "reels.config.json"
+      - "scripts/make_reels.py"
+      - ".github/workflows/reels.yml"
   workflow_dispatch:
     inputs:
       nur:
@@ -12,16 +24,18 @@ on:
         required: false
         default: ""
   schedule:
-    # Montags 04:00 UTC. Auskommentiert lassen, bis der erste Lauf gut aussieht.
     - cron: "0 4 * * 1"
 
+# contents: write wird gebraucht, um die fertigen MP4s als Release-Assets
+# zu veröffentlichen. Das gibt jedem Video eine dauerhafte öffentliche URL,
+# ohne die Videos ins Git zu committen.
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - uses: actions/checkout@v4
@@ -30,7 +44,10 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          echo "--- Version ---"
           ffmpeg -version | head -1
+          echo "--- drawtext vorhanden? ---"
+          ffmpeg -hide_banner -filters | grep -c " drawtext " || echo "FEHLT"
 
       - uses: actions/setup-python@v5
         with:
@@ -50,14 +67,34 @@ jobs:
             --out dist \
             ${{ inputs.nur && format('--nur {0}', inputs.nur) || '' }}
 
-      - name: Ergebnis anzeigen
+      - name: Dauer und Format prüfen
         run: |
-          echo "### Gerenderte Reels" >> $GITHUB_STEP_SUMMARY
-          echo '```json' >> $GITHUB_STEP_SUMMARY
-          cat dist/reels.json >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
+          for f in dist/*.mp4; do
+            echo "--- $f ---"
+            ffprobe -v error -show_entries format=duration,size \
+              -show_entries stream=codec_name,width,height,r_frame_rate \
+              -of default=noprint_wrappers=1 "$f"
+          done
 
-      # Die MP4s bleiben 30 Tage als Download verfügbar – auch ohne Cloudinary.
+      # Öffentliche URLs ohne Cloudinary: Release-Assets eines öffentlichen
+      # Repos sind ohne Anmeldung abrufbar. Metricool kann sie damit laden.
+      - name: Als Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="reels-$(date +%Y%m%d-%H%M%S)"
+          gh release create "$TAG" dist/*.mp4 \
+            --title "Reels $TAG" \
+            --notes "Automatisch gerendert aus reels.config.json" \
+            --target "${{ github.sha }}"
+          echo "### Öffentliche Reel-URLs" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          for f in dist/*.mp4; do
+            n=$(basename "$f")
+            echo "- \`$n\` → https://github.com/${{ github.repository }}/releases/download/$TAG/$n" \
+              >> $GITHUB_STEP_SUMMARY
+          done
+
       - uses: actions/upload-artifact@v4
         with:
           name: reels
