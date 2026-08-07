@@ -1,0 +1,53 @@
+{
+  "_hinweis": "Jedes Produkt ergibt ein Reel. Bild-URLs stammen aus der Shopify-CDN (Produkt -> Medien -> Bild-URL kopieren). 4 Bilder = ~6,5 Sekunden, 6 Bilder = ~10,5 Sekunden.",
+  "produkte": [
+    {
+      "name": "samt-sessel",
+      "hook": "Die Ecke, um die\ngestritten wird",
+      "preis": "124 EUR",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/892ae31c-9e6c-4154-8a64-c9f8bb2f6c2e.jpg?v=1767905836",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2cdf505b-657f-4f40-a67d-0442ca2dc18d.jpg?v=1767905834",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/886e43be-aabd-45b0-a73b-218e27e5923c.jpg?v=1767905835",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dda10fcf-e8ee-483a-9afa-02790e956263.jpg?v=1767905837",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/52bf35bc-38ca-41ed-928b-013b44111e8b.jpg?v=1767905838"
+      ]
+    },
+    {
+      "name": "rattan-sonnenliege",
+      "hook": "Der Platz, von dem du\nnicht mehr aufstehst",
+      "preis": "399 EUR",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/22518de9-7042-42cf-a097-43a5e9ea9847.jpg?v=1767908816",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/26b9d07f-b50c-47a8-8840-ef83f3669fd2.jpg?v=1767908816",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2f555755-ec1b-44af-8e4d-75c53998049c.jpg?v=1767908818",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/51cbe1fb-b1d6-4f0d-9dd6-53beaff00f8f.jpg?v=1767908819",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1524c4d0-a9aa-428d-861d-6118aeb0724d.jpg?v=1767908820"
+      ]
+    },
+    {
+      "name": "waschmaschinenschrank",
+      "hook": "Ueber deiner Waschmaschine\nist ein Meter Luft",
+      "preis": "ab 69,99 EUR",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/17277e9d-60da-41cd-9c66-583e64861b77.jpg?v=1768041101",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3086bf18-5131-4825-8b79-574a7b368df8.jpg?v=1768041102",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6b15b5d5-f083-44fd-8792-bc43a2e66352.jpg?v=1768041103",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3a566ad0-596b-4084-91a5-f57b0a9c0028.jpg?v=1768041105",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8d438026-4be9-4f13-a80b-322dae323623.jpg?v=1768041106"
+      ]
+    },
+    {
+      "name": "hundesofa",
+      "hook": "Dein Hund hat laengst\nein Lieblingsmoebel",
+      "preis": "94,99 EUR",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/d82cd27c-81d6-43da-b55c-c5ada4a75f2d.jpg?v=1767654251",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/338c69e4-0f43-4fac-8990-6a6b1e594be1.jpg?v=1767654253",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e86d63cf-894d-48cc-82b1-1d6366c2e8a6.jpg?v=1767654252",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0fa3a529-553b-4fc4-924c-d87dcf2b1690.jpg?v=1767654253",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1e9f6cd9-1ca8-473f-996b-597edbc26bda.jpg?v=1767654254"
+      ]
+    }
+  ]
+}

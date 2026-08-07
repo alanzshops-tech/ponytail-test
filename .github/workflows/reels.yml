@@ -1,0 +1,65 @@
+name: Reels rendern
+
+# Manuell startbar, plus optional wöchentlich.
+# Der Runner hat vollen Netzzugang – deshalb läuft hier, was in einer
+# abgeschotteten Umgebung nicht geht: Bilder von der Shopify-CDN holen,
+# mit FFmpeg rendern, zu Cloudinary hochladen.
+on:
+  workflow_dispatch:
+    inputs:
+      nur:
+        description: "Nur ein Produkt rendern (name aus reels.config.json), leer = alle"
+        required: false
+        default: ""
+  schedule:
+    # Montags 04:00 UTC. Auskommentiert lassen, bis der erste Lauf gut aussieht.
+    - cron: "0 4 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: FFmpeg und Schriften installieren
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          ffmpeg -version | head -1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: pip install --quiet requests
+
+      - name: Reels rendern
+        env:
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: |
+          python3 scripts/make_reels.py \
+            --config reels.config.json \
+            --out dist \
+            ${{ inputs.nur && format('--nur {0}', inputs.nur) || '' }}
+
+      - name: Ergebnis anzeigen
+        run: |
+          echo "### Gerenderte Reels" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          cat dist/reels.json >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      # Die MP4s bleiben 30 Tage als Download verfügbar – auch ohne Cloudinary.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reels
+          path: dist/
+          retention-days: 30
