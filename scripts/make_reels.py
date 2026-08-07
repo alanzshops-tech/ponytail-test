@@ -176,16 +176,21 @@ def zusammenfuegen(ff: str, clips: list[Path], hook: str, preis: str,
         cmd += ["-i", str(stimme)]
         ton_idx.append(len(clips) + len(ton_idx))
         # Sprache auf volle Laenge bringen und leicht anheben.
+        # Mit Musik wird die Spur zweimal gebraucht (als Sidechain-Ausloeser
+        # und als Tonspur im Mix). Ein Filter-Ausgang darf in FFmpeg aber nur
+        # EINMAL verbraucht werden – deshalb asplit. Ohne Musik entfaellt das,
+        # denn ein unbenutzter Ausgang wuerde den Graphen ungueltig machen.
+        basis = (f"[{ton_idx[-1]}:a]apad,atrim=0:{dauer:.3f},volume=1.5")
         ton_filter.append(
-            f"[{ton_idx[-1]}:a]apad,atrim=0:{dauer:.3f},volume=1.5[spr]")
+            f"{basis},asplit=2[spr1][spr2]" if musik else f"{basis}[spr]")
 
     if musik and stimme:
         # Musik unter der Sprache absenken (Sidechain-Ducking), dann
         # auf einheitliche Lautheit bringen.
         ton_filter.append(
-            "[mus][spr]sidechaincompress=threshold=0.05:ratio=6:attack=20:"
+            "[mus][spr1]sidechaincompress=threshold=0.05:ratio=6:attack=20:"
             "release=350[musduck]")
-        ton_filter.append("[musduck][spr]amix=inputs=2:duration=first:"
+        ton_filter.append("[musduck][spr2]amix=inputs=2:duration=first:"
                           "normalize=0,loudnorm=I=-16:TP=-1.5:LRA=11[a]")
     elif stimme:
         ton_filter.append("[spr]loudnorm=I=-16:TP=-1.5:LRA=11[a]")
