@@ -1,10 +1,12 @@
 {
-  "_hinweis": "Jedes Produkt ergibt ein Reel. Bild-URLs stammen aus der Shopify-CDN (Produkt -> Medien -> Bild-URL kopieren). 4 Bilder = ~6,5 Sekunden, 6 Bilder = ~10,5 Sekunden.",
+  "_hinweis": "Jedes Produkt ergibt ein Reel. 'sprecher' wird per Piper vertont und bestimmt das Tempo der Bildfolge — je länger der Text, desto länger stehen die Bilder. 'hook' und 'preis' sind Textebenen im Bild. 'stimmung' steuert das Musikbett: ruhig oder hell.",
   "produkte": [
     {
       "name": "samt-sessel",
       "hook": "Die Ecke, um die\ngestritten wird",
       "preis": "124 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Jedes Wohnzimmer hat eine Ecke, die niemand nutzt. Ein Sessel ändert das. Samtbezug mit Steppung, massive Holzbeine, belastbar bis hundertzehn Kilo. Plötzlich ist es der Platz, um den gestritten wird.",
       "bilder": [
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/892ae31c-9e6c-4154-8a64-c9f8bb2f6c2e.jpg?v=1767905836",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2cdf505b-657f-4f40-a67d-0442ca2dc18d.jpg?v=1767905834",
@@ -17,6 +19,8 @@
       "name": "rattan-sonnenliege",
       "hook": "Der Platz, von dem du\nnicht mehr aufstehst",
       "preis": "399 EUR",
+      "stimmung": "hell",
+      "sprecher": "Der beste Platz im Garten ist der, von dem man nicht mehr aufstehen will. Extra groß gebaut, mit ausklappbarem Sonnendach und wetterfestem Rattan. Sie darf das ganze Jahr draußen bleiben.",
       "bilder": [
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/22518de9-7042-42cf-a097-43a5e9ea9847.jpg?v=1767908816",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/26b9d07f-b50c-47a8-8840-ef83f3669fd2.jpg?v=1767908816",
@@ -27,8 +31,10 @@
     },
     {
       "name": "waschmaschinenschrank",
-      "hook": "Ueber deiner Waschmaschine\nist ein Meter Luft",
+      "hook": "Ein Meter Luft,\nwortwoertlich verschenkt",
       "preis": "ab 69,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Über deiner Waschmaschine ist ein Meter Luft. Wortwörtlich verschenkt. Dieser Schrank wird einfach darüber gestellt. Die Stellfläche bleibt gleich, der Stauraum verdreifacht sich.",
       "bilder": [
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/17277e9d-60da-41cd-9c66-583e64861b77.jpg?v=1768041101",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3086bf18-5131-4825-8b79-574a7b368df8.jpg?v=1768041102",
@@ -41,6 +47,8 @@
       "name": "hundesofa",
       "hook": "Dein Hund hat laengst\nein Lieblingsmoebel",
       "preis": "94,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Dein Hund hat längst ein Lieblingsmöbel. Es ist deins. Dieses Hundesofa sieht aus wie ein Möbelstück, nicht wie ein Körbchen. Erhöhter Schlafplatz, Samtbezug, stabil bis fünfzig Kilo. Und es darf im Wohnzimmer stehen.",
       "bilder": [
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/d82cd27c-81d6-43da-b55c-c5ada4a75f2d.jpg?v=1767654251",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/338c69e4-0f43-4fac-8990-6a6b1e594be1.jpg?v=1767654253",

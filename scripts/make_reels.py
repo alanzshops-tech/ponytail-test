@@ -30,7 +30,20 @@ import subprocess
 import sys
 import time
 import urllib.request
+import wave
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import make_music  # noqa: E402
+
+# Piper-Stimmen in Wunschreihenfolge. Die erste, die sich laden lässt,
+# wird genommen — der Katalog ändert sich gelegentlich, deshalb mehrere.
+STIMMEN = [
+    "de_DE-thorsten-high",
+    "de_DE-thorsten-medium",
+    "de_DE-ramona-low",
+    "de_DE-kerstin-low",
+]
 
 # --- Reel-Parameter ---------------------------------------------------------
 # 2 s pro Bild entspricht der Empfehlung aus der Recherche (1,5–2,5 s).
@@ -95,10 +108,10 @@ def dt_escape(s: str) -> str:
     return s
 
 
-def clip_rendern(ff: str, bild: Path, ziel: Path) -> Path:
+def clip_rendern(ff: str, bild: Path, ziel: Path, sekunden: float) -> Path:
     """Stufe 1: ein Standbild zu einem Clip mit langsamer Zoomfahrt."""
     vw, vh = int(BREITE * VORSKALIERUNG), int(HOEHE * VORSKALIERUNG)
-    frames = int(SEK_PRO_BILD * FPS)
+    frames = int(sekunden * FPS)
     schritt = (ZOOM_MAX - 1) / frames
     vf = (
         f"scale={vw}:{vh}:force_original_aspect_ratio=increase,crop={vw}:{vh},"
@@ -109,7 +122,7 @@ def clip_rendern(ff: str, bild: Path, ziel: Path) -> Path:
     )
     subprocess.run(
         [ff, "-y", "-loglevel", "error",
-         "-loop", "1", "-framerate", str(FPS), "-t", str(SEK_PRO_BILD), "-i", str(bild),
+         "-loop", "1", "-framerate", str(FPS), "-t", str(sekunden), "-i", str(bild),
          "-vf", vf, "-c:v", "libx264", "-crf", "20", "-preset", "veryfast",
          "-r", str(FPS), str(ziel)],
         check=True)
@@ -117,17 +130,19 @@ def clip_rendern(ff: str, bild: Path, ziel: Path) -> Path:
 
 
 def zusammenfuegen(ff: str, clips: list[Path], hook: str, preis: str,
-                   ziel: Path, font: str | None, textfaehig: bool) -> Path:
-    """Stufe 2: Clips überblenden, Text drauflegen, stille Tonspur anhängen."""
+                   ziel: Path, font: str | None, textfaehig: bool,
+                   sek_pro_bild: float, musik: Path | None = None,
+                   stimme: Path | None = None) -> Path:
+    """Stufe 2: Clips überblenden, Text drauflegen, Ton mischen."""
     n = len(clips)
     teile, letzte = [], "0"
-    offset = SEK_PRO_BILD - UEBERBLENDUNG
+    offset = sek_pro_bild - UEBERBLENDUNG
     for i in range(1, n):
         neu = f"x{i}"
         teile.append(f"[{letzte}][{i}]xfade=transition=fade:"
                      f"duration={UEBERBLENDUNG}:offset={offset:.3f}[{neu}]")
         letzte = neu
-        offset += SEK_PRO_BILD - UEBERBLENDUNG
+        offset += sek_pro_bild - UEBERBLENDUNG
 
     kette = f"[{letzte}]"
     if textfaehig and font and (hook or preis):
@@ -144,22 +159,88 @@ def zusammenfuegen(ff: str, clips: list[Path], hook: str, preis: str,
     kette += "format=yuv420p[v]"
     teile.append(kette)
 
+    dauer = n * sek_pro_bild - (n - 1) * UEBERBLENDUNG
+
     cmd = [ff, "-y", "-loglevel", "error", "-stats"]
     for c in clips:
         cmd += ["-i", str(c)]
-    # Instagram lehnt Reels ohne Audiostream ab -> stille Tonspur.
-    cmd += ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
-    # Dauer explizit setzen. -shortest greift hier nicht, weil anullsrc endlos
-    # laeuft und die Videospur aus dem Filtergraph kein Input-Ende meldet –
-    # ohne -t kommt ein 123-Sekunden-Video heraus statt eines 5-Sekunden-Reels.
-    dauer = n * SEK_PRO_BILD - (n - 1) * UEBERBLENDUNG
-    cmd += ["-filter_complex", ";".join(teile),
-            "-map", "[v]", "-map", f"{n}:a",
+
+    # Tonspur zusammenstellen. Instagram lehnt Reels ohne Audiostream ab,
+    # deshalb gibt es immer eine – notfalls Stille.
+    ton_idx, ton_filter = [], []
+    if musik:
+        cmd += ["-i", str(musik)]
+        ton_idx.append(len(clips) + len(ton_idx))
+        ton_filter.append(f"[{ton_idx[-1]}:a]volume=0.34[mus]")
+    if stimme:
+        cmd += ["-i", str(stimme)]
+        ton_idx.append(len(clips) + len(ton_idx))
+        # Sprache auf volle Laenge bringen und leicht anheben.
+        ton_filter.append(
+            f"[{ton_idx[-1]}:a]apad,atrim=0:{dauer:.3f},volume=1.5[spr]")
+
+    if musik and stimme:
+        # Musik unter der Sprache absenken (Sidechain-Ducking), dann
+        # auf einheitliche Lautheit bringen.
+        ton_filter.append(
+            "[mus][spr]sidechaincompress=threshold=0.05:ratio=6:attack=20:"
+            "release=350[musduck]")
+        ton_filter.append("[musduck][spr]amix=inputs=2:duration=first:"
+                          "normalize=0,loudnorm=I=-16:TP=-1.5:LRA=11[a]")
+    elif stimme:
+        ton_filter.append("[spr]loudnorm=I=-16:TP=-1.5:LRA=11[a]")
+    elif musik:
+        ton_filter.append("[mus]loudnorm=I=-18:TP=-1.5:LRA=11[a]")
+    else:
+        cmd += ["-f", "lavfi", "-i",
+                "anullsrc=channel_layout=stereo:sample_rate=44100"]
+        ton_filter.append(f"[{len(clips)}:a]anull[a]")
+
+    # Dauer explizit setzen: -shortest greift nicht auf Filter-Ausgaben, und
+    # eine endlose Tonquelle wuerde das Video sonst massiv verlaengern.
+    cmd += ["-filter_complex", ";".join(teile + ton_filter),
+            "-map", "[v]", "-map", "[a]",
             "-c:v", "libx264", "-profile:v", "high", "-preset", "medium", "-crf", "20",
             "-pix_fmt", "yuv420p", "-r", str(FPS),
-            "-c:a", "aac", "-b:a", "128k", "-ar", "44100",
+            "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
             "-t", f"{dauer:.3f}", "-movflags", "+faststart", str(ziel)]
     subprocess.run(cmd, check=True)
+    return ziel
+
+
+def wav_dauer(p: Path) -> float:
+    with wave.open(str(p)) as w:
+        return w.getnframes() / w.getframerate()
+
+
+def stimme_holen(ordner: Path) -> Path | None:
+    """Lädt die erste verfügbare deutsche Piper-Stimme herunter."""
+    ordner.mkdir(parents=True, exist_ok=True)
+    for name in STIMMEN:
+        onnx = ordner / f"{name}.onnx"
+        if onnx.is_file():
+            return onnx
+        r = subprocess.run(
+            [sys.executable, "-m", "piper.download_voices",
+             "--download-dir", str(ordner), name],
+            capture_output=True, text=True)
+        if r.returncode == 0 and onnx.is_file():
+            print(f"  Stimme: {name}")
+            return onnx
+        print(f"  Stimme {name} nicht verfügbar ({r.stderr.strip()[:90]})")
+    return None
+
+
+def sprechen(text: str, modell: Path, ziel: Path) -> Path | None:
+    """Erzeugt die Sprachausgabe. length-scale 1.05 = minimal langsamer,
+    das wirkt ruhiger und passt besser zu Wohn-Themen."""
+    r = subprocess.run(
+        [sys.executable, "-m", "piper", "-m", str(modell),
+         "-f", str(ziel), "--length-scale", "1.05", "--sentence-silence", "0.35"],
+        input=text, capture_output=True, text=True)
+    if r.returncode != 0 or not ziel.is_file():
+        print(f"  Sprachausgabe fehlgeschlagen: {r.stderr.strip()[:200]}")
+        return None
     return ziel
 
 
@@ -221,6 +302,12 @@ def main() -> None:
     tmp = Path(".reel-tmp")
     ergebnisse = []
 
+    # Stimme einmal fuer alle Produkte laden.
+    braucht_stimme = any(p.get("sprecher") for p in produkte)
+    modell = stimme_holen(tmp / "stimmen") if braucht_stimme else None
+    if braucht_stimme and not modell:
+        print("WARNUNG: Keine Piper-Stimme verfügbar – Reels ohne Sprachausgabe.")
+
     for prod in produkte:
         name = prod["name"]
         print(f"\n=== {name} ===")
@@ -229,18 +316,41 @@ def main() -> None:
             shutil.rmtree(wd)
         wd.mkdir(parents=True)
 
+        n = len(prod["bilder"])
+
+        # Sprachausgabe zuerst: ihre Länge bestimmt das Tempo der Bildfolge,
+        # damit der Text nicht abgeschnitten wird.
+        stimme = None
+        sprecher_text = prod.get("sprecher", "").strip()
+        if sprecher_text and modell:
+            stimme = sprechen(sprecher_text, modell, wd / "stimme.wav")
+            if stimme:
+                print(f"  Sprachausgabe: {wav_dauer(stimme):.1f}s")
+
+        sek_pro_bild = SEK_PRO_BILD
+        if stimme:
+            noetig = wav_dauer(stimme) + 1.2 + (n - 1) * UEBERBLENDUNG
+            sek_pro_bild = max(SEK_PRO_BILD, min(6.0, noetig / n))
+        dauer = n * sek_pro_bild - (n - 1) * UEBERBLENDUNG
+        print(f"  Bildtakt: {sek_pro_bild:.2f}s -> Reel {dauer:.1f}s")
+
         clips = []
         for i, url in enumerate(prod["bilder"], 1):
             bild = laden(url, wd / f"{i:02d}.jpg")
-            clip = clip_rendern(ff, bild, wd / f"c{i:02d}.mp4")
-            print(f"  [{i}/{len(prod['bilder'])}] Clip {clip.stat().st_size//1024} KB")
+            clip = clip_rendern(ff, bild, wd / f"c{i:02d}.mp4", sek_pro_bild)
+            print(f"  [{i}/{n}] Clip {clip.stat().st_size//1024} KB")
             clips.append(clip)
+
+        musik = None
+        if prod.get("musik", True):
+            musik = make_music.schreiben(
+                make_music.erzeuge(dauer, prod.get("stimmung", "ruhig")),
+                wd / "musik.wav")
 
         ziel = out / f"{name}.mp4"
         zusammenfuegen(ff, clips, prod.get("hook", ""), prod.get("preis", ""),
-                       ziel, font, textfaehig)
-        dauer = len(clips) * SEK_PRO_BILD - (len(clips) - 1) * UEBERBLENDUNG
-        print(f"  fertig: {ziel} ({ziel.stat().st_size//1024} KB, ~{dauer:.1f}s)")
+                       ziel, font, textfaehig, sek_pro_bild, musik, stimme)
+        print(f"  fertig: {ziel} ({ziel.stat().st_size//1024} KB, {dauer:.1f}s)")
 
         url = zu_cloudinary(ziel, f"homeeins/reels/{name}")
         if url:
@@ -249,6 +359,7 @@ def main() -> None:
             "name": name, "datei": str(ziel), "url": url,
             "hook": prod.get("hook", ""), "preis": prod.get("preis", ""),
             "dauer_s": round(dauer, 1), "mit_text": bool(textfaehig and font),
+            "mit_stimme": bool(stimme), "mit_musik": bool(musik),
         })
 
     (out / "reels.json").write_text(

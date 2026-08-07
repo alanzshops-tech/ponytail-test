@@ -54,7 +54,9 @@ jobs:
           python-version: "3.12"
 
       - name: Abhängigkeiten
-        run: pip install --quiet requests
+        run: |
+          pip install --quiet requests piper-tts
+          python3 -c "import piper; print('piper installiert')"
 
       - name: Reels rendern
         env:
@@ -67,13 +69,15 @@ jobs:
             --out dist \
             ${{ inputs.nur && format('--nur {0}', inputs.nur) || '' }}
 
-      - name: Dauer und Format prüfen
+      - name: Dauer, Format und Tonpegel prüfen
         run: |
           for f in dist/*.mp4; do
             echo "--- $f ---"
             ffprobe -v error -show_entries format=duration,size \
-              -show_entries stream=codec_name,width,height,r_frame_rate \
+              -show_entries stream=codec_name,width,height,r_frame_rate,channels \
               -of default=noprint_wrappers=1 "$f"
+            ffmpeg -hide_banner -i "$f" -af volumedetect -f null - 2>&1 \
+              | grep -E "mean_volume|max_volume" || true
           done
 
       # Öffentliche URLs ohne Cloudinary: Release-Assets eines öffentlichen
