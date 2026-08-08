@@ -73,10 +73,10 @@
     },
     {
       "name": "schuhbank",
-      "hook": "Der Flur, den alle sehen\nund niemand plant",
+      "hook": "Der Raum, den alle sehen\nund niemand plant",
       "preis": "89 EUR",
       "stimmung": "ruhig",
-      "sprecher": "Der Flur ist der Raum, den alle sehen und niemand plant. Schuhe stehen quer, und zum Schuhebinden gibt es keinen Sitzplatz. Diese Bank löst beides auf zweiundsechzig Zentimeter Breite: Sitzpolster oben, Stauraum unten, belastbar bis hundertzehn Kilo.",
+      "sprecher": "Im Eingangsbereich sieht es bei den meisten gleich aus: Schuhe stehen quer, und zum Schuhebinden gibt es keinen Sitzplatz. Diese Bank löst beides auf zweiundsechzig Zentimeter Breite: Sitzpolster oben, Stauraum unten, belastbar bis hundertzehn Kilo.",
       "bilder": [
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/f0f86e47-cb5d-44ad-93f5-a31fa8d668bd.jpg?v=1767907216",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/750c08cb-4819-4dc5-be05-dcd1a98a3e05.jpg?v=1767907218",
