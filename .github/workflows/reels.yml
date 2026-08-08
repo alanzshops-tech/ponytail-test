@@ -8,6 +8,10 @@ name: Reels rendern
 # Der Runner hat freien Netzzugang. Deshalb läuft hier, was in einer
 # abgeschotteten Umgebung nicht geht: Bilder von der Shopify-CDN holen,
 # mit FFmpeg rendern, Ergebnis öffentlich bereitstellen.
+#
+# Gerendert wird ein Produkt pro Job, parallel. Nacheinander dauerte ein Lauf
+# rund siebeneinhalb Minuten je Produkt — bei zwölf Produkten wäre das über
+# eineinhalb Stunden und mehr als die Zeitgrenze eines Jobs.
 on:
   push:
     branches:
@@ -16,6 +20,8 @@ on:
     paths:
       - "reels.config.json"
       - "scripts/make_reels.py"
+      - "scripts/make_music.py"
+      - "scripts/audio_check.py"
       - ".github/workflows/reels.yml"
   workflow_dispatch:
     inputs:
@@ -33,9 +39,40 @@ permissions:
   contents: write
 
 jobs:
-  render:
+  # Liest die Produktnamen aus der Konfiguration und gibt sie als Matrix aus.
+  plan:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    outputs:
+      namen: ${{ steps.lesen.outputs.namen }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: lesen
+        env:
+          NUR: ${{ inputs.nur }}
+        run: |
+          python3 - >> "$GITHUB_OUTPUT" <<'PY'
+          import json, os
+          cfg = json.load(open("reels.config.json", encoding="utf-8"))
+          namen = [p["name"] for p in cfg["produkte"]]
+          nur = os.environ.get("NUR", "").strip()
+          if nur:
+              namen = [n for n in namen if n == nur]
+              if not namen:
+                  raise SystemExit(f"Kein Produkt mit name={nur}")
+          print("namen=" + json.dumps(namen))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      # Ein fehlgeschlagenes Produkt soll die anderen elf nicht abbrechen.
+      fail-fast: false
+      max-parallel: 12
+      matrix:
+        name: ${{ fromJson(needs.plan.outputs.namen) }}
 
     steps:
       - uses: actions/checkout@v4
@@ -57,47 +94,69 @@ jobs:
             [ "$v" = "3" ] && { echo "apt-get dreimal fehlgeschlagen"; exit 1; }
             sleep 15
           done
-          echo "--- Version ---"
           ffmpeg -version | head -1
-          echo "--- drawtext vorhanden? ---"
-          ffmpeg -hide_banner -filters | grep -c " drawtext " || echo "FEHLT"
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Abhängigkeiten
-        run: |
-          pip install --quiet requests piper-tts faster-whisper
-          python3 -c "import piper; print('piper installiert')"
-          python3 -c "import faster_whisper; print('faster-whisper installiert')"
+        run: pip install --quiet requests piper-tts
 
-      - name: Reels rendern
-        env:
-          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
-          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
-          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+      - name: ${{ matrix.name }} rendern
         run: |
           python3 scripts/make_reels.py \
-            --config reels.config.json \
-            --out dist \
-            ${{ inputs.nur && format('--nur {0}', inputs.nur) || '' }}
+            --config reels.config.json --out dist --nur "${{ matrix.name }}"
+          ffprobe -v error -show_entries format=duration \
+            -of default=noprint_wrappers=1:nokey=1 "dist/${{ matrix.name }}.mp4"
 
-      - name: Dauer und Format prüfen
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ matrix.name }}
+          path: dist/${{ matrix.name }}.mp4
+          retention-days: 30
+
+  # Sammelt alle Einzelergebnisse, prüft den Ton und veröffentlicht erst dann.
+  veroeffentlichen:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: FFmpeg installieren
+        timeout-minutes: 8
         run: |
-          for f in dist/*.mp4; do
-            echo "--- $f ---"
-            ffprobe -v error -show_entries format=duration,size \
-              -show_entries stream=codec_name,width,height,r_frame_rate,channels \
-              -of default=noprint_wrappers=1 "$f"
+          set -e
+          for v in 1 2 3; do
+            if timeout 120 sudo apt-get update -qq -o Acquire::Retries=3 \
+               && timeout 180 sudo apt-get install -y -qq --no-install-recommends \
+                  ffmpeg; then break; fi
+            [ "$v" = "3" ] && { echo "apt-get dreimal fehlgeschlagen"; exit 1; }
+            sleep 15
           done
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: pip install --quiet faster-whisper
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: reel-*
+          merge-multiple: true
+          path: dist
+
+      - name: Was ist angekommen
+        run: ls -la dist/
 
       # Der Ton laesst sich hier niemand anhoeren. Also wird er messbar
       # gemacht: Spektrogramm und Wellenform als Bild, Spracherkennung als
       # Test auf Verstaendlichkeit, Pegelgrenzen als harte Schranke. Laeuft
       # VOR der Veroeffentlichung, damit ein defektes Reel nicht online geht.
       - name: Tonspur prüfen
-        id: ton
         run: |
           # Ohne pipefail wuerde tee den Fehlercode schlucken und ein
           # durchgefallener Test den Lauf trotzdem gruen lassen.
@@ -142,9 +201,3 @@ jobs:
             echo "- \`$n\` → https://github.com/${{ github.repository }}/releases/download/$TAG/$n" \
               >> $GITHUB_STEP_SUMMARY
           done
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: reels
-          path: dist/
-          retention-days: 30

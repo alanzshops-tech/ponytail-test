@@ -56,6 +56,118 @@
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0fa3a529-553b-4fc4-924c-d87dcf2b1690.jpg?v=1767654253",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1e9f6cd9-1ca8-473f-996b-597edbc26bda.jpg?v=1767654254"
       ]
+    },
+    {
+      "name": "couchtisch",
+      "hook": "Das erste Moebel,\ndas Besuch sieht",
+      "preis": "149,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Der Couchtisch ist das erste Möbel, auf das der Blick fällt, wenn jemand dein Wohnzimmer betritt. Hochglanz in Schwarz oder Weiß, klare Linien, keine Schnörkel. Und er reflektiert Licht: In dunklen Wohnzimmern bringt das mehr als eine zusätzliche Lampe.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/147cec92-3d83-4e0e-a4a2-861c188b3905.jpg?v=1767653777",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ec55eccb-ae50-4e66-9adc-06e7b6e9f324.jpg?v=1767653779",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6918cb72-472e-4230-9c46-009b09255286.jpg?v=1767653780",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/04217c20-7c40-4b1d-8922-1aa51f1fbcd7.jpg?v=1767653780",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/df881cdf-308b-4509-8100-dc5808ef9557.jpg?v=1767653781"
+      ]
+    },
+    {
+      "name": "schuhbank",
+      "hook": "Der Flur, den alle sehen\nund niemand plant",
+      "preis": "89 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Der Flur ist der Raum, den alle sehen und niemand plant. Schuhe stehen quer, und zum Schuhebinden gibt es keinen Sitzplatz. Diese Bank löst beides auf zweiundsechzig Zentimeter Breite: Sitzpolster oben, Stauraum unten, belastbar bis hundertzehn Kilo.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/f0f86e47-cb5d-44ad-93f5-a31fa8d668bd.jpg?v=1767907216",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/750c08cb-4819-4dc5-be05-dcd1a98a3e05.jpg?v=1767907218",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dc28c386-2e73-4e23-bc47-d7e5c2024026.jpg?v=1767907218",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ad0ace95-537f-4881-b874-10125a83afcc.jpg?v=1767907219",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ad613e1e-f49d-4e59-a150-39c1f32ecc98.jpg?v=1767907220"
+      ]
+    },
+    {
+      "name": "weinregal",
+      "hook": "72 Flaschen.\nKein Keller noetig.",
+      "preis": "89 EUR",
+      "stimmung": "hell",
+      "sprecher": "Wer Wein sammelt, kennt das Problem: Irgendwann stehen die Flaschen in Kisten in der Abstellkammer. Dieses Regal aus Bambus und Metall ist stapelbar. Du fängst mit einer Ebene an und baust nach oben, wenn die Sammlung wächst. Platz für zweiundsiebzig Flaschen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/042b9519-a671-4517-9f02-b633a3386ceb.jpg?v=1767972446",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/99a73c14-ac4e-4f39-b266-83621b778d2e.jpg?v=1767972447",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ef2b8afe-495a-49af-8ce8-c9fcd0a106aa.jpg?v=1767972448",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/fd43002c-cd67-448c-a126-26ebf689d9cc.jpg?v=1767972449",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e5ba809e-b501-4a0e-818e-74c991329ccb.jpg?v=1767972450"
+      ]
+    },
+    {
+      "name": "gewichtsdecke",
+      "hook": "Gegen das\nGedankenkarussell",
+      "preis": "74 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Wer abends nicht abschalten kann, kennt das Gedankenkarussell. Eine Gewichtsdecke arbeitet mit sanftem, gleichmäßigem Druck über den ganzen Körper, ähnlich wie eine feste Umarmung. Kein Wundermittel, aber für viele der Unterschied zwischen wälzen und wegdriften.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8d528448-f8a5-4e64-b5e3-cda882a29eff.jpg?v=1767781028",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c91f1e27-9ca0-4b75-9148-562c8844ed17.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6a23f825-5cf7-426d-ae96-ece52024f021.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/266fc98b-c556-4ad4-b0b6-8a238e350c49.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1b1b2464-0b0d-429d-b2b1-c62d7c121b9a.jpg?v=1774979649"
+      ]
+    },
+    {
+      "name": "feuerschale",
+      "hook": "Zwei Stunden mehr\ndraussen sitzen",
+      "preis": "99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Die letzten warmen Abende verbringt man draußen, bis es zu kühl wird. Diese Feuerschale aus Stahl verlängert den Abend um zwei Stunden. Eckig statt rund, fünfzig mal fünfzig Zentimeter, wetterfest.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/50b11eb2-4a2d-4ad1-8328-9f7a7365e1f9.jpg?v=1767907035",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/995053ee-6d29-4d07-bdf9-9ba6c209663d.jpg?v=1767907035",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2171487b-e370-4804-96cd-2b7684214912.jpg?v=1767907036",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/abac1ef9-738c-45bf-9ccd-14bd978e9320.jpg?v=1767907037",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/04ea6aab-2efd-45c4-9566-8bc97df121cb.jpg?v=1767907038"
+      ]
+    },
+    {
+      "name": "buerostuhl",
+      "hook": "Dein Ruecken weiss es\nnach zwei Stunden",
+      "preis": "129,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Der Küchenstuhl im Homeoffice ist eine Übergangslösung, die bei den meisten drei Jahre hält. Dieser Stuhl hat eine Fußablage, eine Rückenlehne, die wirklich stützt, und hundertfünfunddreißig Grad Relaxfunktion. Das heißt: in der Mittagspause fast flach liegen, ohne aufzustehen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4461f4b5-b93a-4a99-93e8-f900864b7831.jpg?v=1767652269",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/472a134e-f89a-4d54-857e-e527afe0b6f1.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/b492adf7-d5f1-4cf4-af9a-a036acf8d698.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/cf398dbc-4a56-4500-af77-bc36f496d8a0.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4cc857e8-648c-4b3d-95c3-28d65742b428.jpg?v=1774979490"
+      ]
+    },
+    {
+      "name": "kratzbaum",
+      "hook": "Sonst nimmt die Katze\ndeinen Sessel",
+      "preis": "44,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Wenn es keinen Kratzbaum gibt, nimmt die Katze den Sessel. Dieser hier ist kompakt gebaut und passt auch in kleine Wohnungen: kratzen, klettern und schlafen auf einer Grundfläche. Plüschbezug, stabile Säulen aus Sisal.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8a6dfd31-7926-4802-9ab2-74da24b208a9.jpg?v=1767652872",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/eda40b57-c618-4541-bb1a-86f0ff625915.jpg?v=1767652872",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/fcc5c00e-64be-4cbe-bde5-473e11e05add.jpg?v=1767652874",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4da563a1-c1b8-41a2-9b44-b0d4317baafe.jpg?v=1767652874",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dae97249-33e0-40d9-8577-920bca6760f7.jpg?v=1767652875"
+      ]
+    },
+    {
+      "name": "rattan-ecksofa",
+      "hook": "Ecke oder zwei Sitzer.\nDu entscheidest.",
+      "preis": "249 EUR",
+      "stimmung": "hell",
+      "sprecher": "Ein Gartensofa, das sich umbauen lässt: einmal als Ecke, einmal als zwei getrennte Sitzer. Wetterfestes Rattan, extra dicke Kissen. Du entscheidest je nachdem, wie viele Leute kommen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0ca4603a-0696-4909-90ba-54c03b5eb172.jpg?v=1767907935",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8f8fe6b5-a882-448d-8761-16ad7f4f83ef.jpg?v=1767907935",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e23dca7d-6c0a-4f7a-a16c-d9c06df16e03.jpg?v=1767907936",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/da63a5b4-816a-4c7a-a405-033e54c95b33.jpg?v=1767907937",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c6988de8-28b4-4355-8d49-990cef7b9032.jpg?v=1767907938"
+      ]
     }
   ]
 }
