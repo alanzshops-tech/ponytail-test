@@ -1,0 +1,23 @@
+{
+  "_hinweis": "Suchbegriffe für das Google-Trends-Tracking. Google vergleicht maximal fünf Begriffe pro Abfrage, deshalb sind sie in Gruppen geteilt. Innerhalb einer Gruppe sind die Werte relativ zueinander (100 = Höchstwert der Gruppe im Zeitraum) — Begriffe aus verschiedenen Gruppen lassen sich deshalb nicht direkt vergleichen. Gruppen daher thematisch bilden.",
+  "region": "DE",
+  "zeitraum": "today 12-m",
+  "gruppen": [
+    {
+      "name": "stauraum",
+      "begriffe": ["waschmaschinenschrank", "schuhbank", "weinregal", "wäschekorb", "raumteiler"]
+    },
+    {
+      "name": "wohnen",
+      "begriffe": ["couchtisch", "samtsessel", "nachttisch", "kunstpflanze", "gewichtsdecke"]
+    },
+    {
+      "name": "garten",
+      "begriffe": ["sonnenliege", "feuerschale", "gartenstuhl", "gartenmöbel", "rattan lounge"]
+    },
+    {
+      "name": "haustier-buero",
+      "begriffe": ["hundesofa", "hundebett", "kratzbaum", "bürostuhl", "schreibtischstuhl"]
+    }
+  ]
+}
