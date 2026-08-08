@@ -171,7 +171,7 @@ def zusammenfuegen(ff: str, clips: list[Path], hook: str, preis: str,
     if musik:
         cmd += ["-i", str(musik)]
         ton_idx.append(len(clips) + len(ton_idx))
-        ton_filter.append(f"[{ton_idx[-1]}:a]volume=0.34[mus]")
+        ton_filter.append(f"[{ton_idx[-1]}:a]volume=0.62[mus]")
     if stimme:
         cmd += ["-i", str(stimme)]
         ton_idx.append(len(clips) + len(ton_idx))
@@ -188,8 +188,10 @@ def zusammenfuegen(ff: str, clips: list[Path], hook: str, preis: str,
         # Musik unter der Sprache absenken (Sidechain-Ducking), dann
         # auf einheitliche Lautheit bringen.
         ton_filter.append(
-            "[mus][spr1]sidechaincompress=threshold=0.05:ratio=6:attack=20:"
-            "release=350[musduck]")
+            # ratio 6 hat die Musik unter der Sprache komplett verschwinden
+            # lassen. 3 senkt sie hörbar ab, ohne sie wegzudrücken.
+            "[mus][spr1]sidechaincompress=threshold=0.08:ratio=3:attack=25:"
+            "release=450[musduck]")
         ton_filter.append("[musduck][spr2]amix=inputs=2:duration=first:"
                           "normalize=0,loudnorm=I=-16:TP=-1.5:LRA=11[a]")
     elif stimme:

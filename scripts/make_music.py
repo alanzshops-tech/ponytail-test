@@ -59,7 +59,10 @@ def erzeuge(sekunden: float, stimmung: str = "ruhig") -> list[float]:
 
     for idx, akkord in enumerate(akkorde):
         start = idx * pro_akkord
-        ende = min(n, start + pro_akkord)
+        # Jeder Akkord laeuft 60 % in den naechsten hinein. Ohne diese
+        # Ueberlappung fallen die Huellkurven an den Grenzen auf null und
+        # es entstehen hoerbare Loecher im Bett.
+        ende = min(n, start + int(pro_akkord * 1.6))
         laenge = ende - start
         if laenge <= 0:
             break
@@ -73,13 +76,43 @@ def erzeuge(sekunden: float, stimmung: str = "ruhig") -> list[float]:
                 # Leichte Verstimmung erzeugt Schwebung -> weniger steril.
                 schwebung = 1.0 + (0.0013 * (k - 1.5))
                 amp = 0.30 / (k + 1.4)
-                wert += amp * math.sin(2 * math.pi * f * schwebung * t)
-                # Sehr leise Oktave darüber gibt Glanz.
-                wert += (amp * 0.16) * math.sin(2 * math.pi * f * 2 * schwebung * t)
+                grund = 2 * math.pi * f * schwebung * t
+                wert += amp * math.sin(grund)
+                # Obertöne. Ohne sie liegt alles unter 400 Hz und das Bett
+                # klingt nur nach Bassbrummen statt nach Musik.
+                wert += (amp * 0.45) * math.sin(2 * grund)
+                wert += (amp * 0.22) * math.sin(3 * grund)
+                wert += (amp * 0.10) * math.sin(4 * grund)
             out[start + i] += wert * huelle
 
-    # Akkorde ineinander laufen lassen (grobes Crossfade über die Grenzen).
-    out = tiefpass(out, 0.16)
+    # Arpeggio darüber: kurze Anschläge auf dem Akkordton. Das gibt dem Bett
+    # Rhythmus und Energie im Mittenbereich, wo es neben der Sprache hörbar
+    # bleibt, ohne sie zu verdecken.
+    schlag = 0.5  # Sekunden zwischen den Anschlägen
+    for j in range(int(sekunden / schlag)):
+        t0 = j * schlag
+        akkord = akkorde[min(len(akkorde) - 1, int(t0 / max(schlag, sekunden / len(akkorde))))]
+        # Aufsteigende Figur durch die Akkordtöne, zwei Oktaven höher.
+        f = akkord[j % len(akkord)] * 4
+        start = int(t0 * RATE)
+        # Fenster lang genug, dass die Huellkurve fast auf null faellt.
+        # Bei 0.42 s war sie noch bei 15 % und wurde hart abgeschnitten -
+        # das war der eigentliche Knack, am Ende des Tons statt am Anfang.
+        laenge = min(int(0.95 * RATE), n - start)
+        ausklang = int(0.040 * RATE)
+        for i in range(max(0, laenge)):
+            t = i / RATE
+            # Kurze Anstiegsrampe gegen den Knack am Anfang ...
+            anstieg = min(1.0, t / 0.010)
+            # ... und eine Ausklangrampe gegen den Knack am Ende.
+            rest = laenge - i
+            abfall = min(1.0, rest / ausklang) if ausklang else 1.0
+            huelle = anstieg * abfall * math.exp(-4.5 * t)
+            out[start + i] += 0.10 * huelle * math.sin(2 * math.pi * f * t)
+
+    # Nur leicht filtern. Vorher war alpha 0.16 - das hat praktisch alles
+    # oberhalb weniger hundert Hertz entfernt.
+    out = tiefpass(out, 0.55)
 
     # Gesamthüllkurve: erste und letzte halbe Sekunde ein- und ausblenden.
     rand = int(0.5 * RATE)
@@ -87,9 +120,10 @@ def erzeuge(sekunden: float, stimmung: str = "ruhig") -> list[float]:
         out[i] *= i / rand
         out[n - 1 - i] *= i / rand
 
-    # Normalisieren auf angenehmen Pegel. Bewusst leise, es ist ein Bett.
+    # Normalisieren auf angenehmen Pegel. Bewusst zurückhaltend, es ist ein
+    # Bett – aber laut genug, um in den Sprechpausen hörbar zu sein.
     spitze = max((abs(v) for v in out), default=1.0) or 1.0
-    ziel = 0.28
+    ziel = 0.42
     return [v / spitze * ziel for v in out]
 
 

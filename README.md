@@ -52,20 +52,45 @@ Metricool als Reel einplanen.
 
 ## Was rauskommt
 
-1080×1920, 30 fps, H.264, stille AAC-Tonspur. Je Bild zwei Sekunden mit
-langsamer Ken-Burns-Zoomfahrt, dazwischen halbsekündige Überblendungen.
-Hook-Text oben, Preis unten auf halbtransparentem Balken.
+1080×1920, 30 fps, H.264, AAC. Je Bild eine langsame Ken-Burns-Zoomfahrt,
+dazwischen halbsekündige Überblendungen. Hook-Text oben, Preis unten auf
+halbtransparentem Balken. Dazu deutsche Sprachausgabe (Piper) und ein
+Musikbett, das unter der Stimme automatisch abgesenkt wird.
 
-Zwei Sekunden pro Bild ist kein Zufall: Auswertungen zur Reel-Performance
-nennen 1,5–2,5 Sekunden als Bereich mit der höchsten Watch-Time.
+Das Bildtempo richtet sich nach der Länge des Sprechertextes: mindestens zwei
+Sekunden pro Bild, höchstens sechs. Zwei Sekunden als Untergrenze ist kein
+Zufall — Auswertungen zur Reel-Performance nennen 1,5–2,5 Sekunden als Bereich
+mit der höchsten Watch-Time.
+
+## Ton
+
+Sprachausgabe mit **Piper** (lokal, CPU, keine API, kommerziell nutzbar). Die
+Musik erzeugt `scripts/make_music.py` selbst aus Sinusflächen. Das ist Absicht:
+Auch CC0-Musik wird von Metas Audioerkennung regelmäßig fälschlich markiert,
+weil Dritte dieselbe Aufnahme registriert haben. Selbst erzeugter Klang hat
+keinen Rechteinhaber und löst keinen Treffer aus — und kostet keine Lizenz.
+
+`scripts/audio_check.py` prüft die fertige Tonspur, weil sich hier niemand
+etwas anhören kann:
+
+| Prüfung | Womit | Grenze |
+|---|---|---|
+| Wellenform, Spektrogramm | FFmpeg `showwavespic` / `showspectrumpic` | Bild zum Ansehen |
+| Verständlichkeit | faster-whisper gegen den `sprecher`-Text | Ähnlichkeit ≥ 0,55 |
+| Lautheit | `volumedetect` | mean −26…−12 dBFS, Spitze ≤ −0,5 |
+| Musikbett nicht dumpf | Pegelabstand über 800 Hz | ≤ 18 dB |
+
+Die letzte Zeile ist ein Regressionstest: Das Bett war einmal ein reines
+Bassbrummen (24 dB Abstand) und im Video praktisch nicht zu hören. Aufgefallen
+ist das erst auf dem Spektrogramm, nicht beim Ansehen des Reels.
 
 ## Grenzen
 
-- **Keine Musik.** Business-Accounts dürfen die reguläre Instagram-Bibliothek
-  nicht nutzen, und die Content-Publishing-API kann ohnehin keine Tonspur
-  anhängen — Musik müsste vor dem Upload eingebettet sein. Entweder eine eigene
-  Lizenz kaufen (Epidemic Sound, Artlist) oder den letzten Schritt manuell in
-  der App machen und dort die Meta Sound Collection nutzen.
+- **Keine Musik aus der Instagram-Bibliothek.** Business-Accounts dürfen sie
+  nicht nutzen, und die Content-Publishing-API kann keine Tonspur nachträglich
+  anhängen. Deshalb das eigene Bett — wer einen richtigen Track will, braucht
+  eine eigene Lizenz (Epidemic Sound, Artlist) oder muss den letzten Schritt
+  manuell in der App machen.
 - **Keine echte Kamerafahrt.** Es bleibt eine gut gemachte Slideshow.
 - **Kein KI-Material**, und das ist Absicht: Seit dem 2. August 2026 gelten die
   Transparenzpflichten aus Artikel 50 EU AI Act. Eine Slideshow aus echten,
@@ -77,8 +102,9 @@ nennen 1,5–2,5 Sekunden als Bereich mit der höchsten Watch-Time.
 
 ```bash
 sudo apt-get install -y ffmpeg fonts-dejavu-core
-pip install requests
+pip install requests piper-tts faster-whisper
 python3 scripts/make_reels.py --config reels.config.json --out dist
+python3 scripts/audio_check.py --dist dist --config reels.config.json
 ```
 
 Wichtig: FFmpeg muss mit `libfreetype` gebaut sein, sonst fehlt der
