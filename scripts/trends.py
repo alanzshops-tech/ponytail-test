@@ -40,16 +40,25 @@ VERSUCHE = 4
 WARTEN_START = 20
 WARTEN_ZWISCHEN_GRUPPEN = 12
 
+# Fehler, die durch Warten nie verschwinden: falsche Signatur, fehlendes
+# Modul, kaputte Konfiguration. Der erste Lauf hat neun Minuten damit
+# verbracht, einen TypeError dreimal zu wiederholen. Solche Fehler brechen
+# die Gruppe sofort ab, statt die Wiederholungen zu verbrauchen.
+DAUERHAFT = (TypeError, AttributeError, ImportError, NameError, KeyError)
+
 
 def klient(sprache: str = "de-DE"):
     from pytrends.request import TrendReq
+    # Bewusst OHNE retries/backoff_factor: pytrends baut daraus ein
+    # urllib3-Retry mit dem Argument method_whitelist, das in urllib3 2.0
+    # entfernt wurde -> TypeError bei jedem Aufruf. Wiederholungen macht
+    # ohnehin die Schleife in main(), eine Ebene höher.
+    #
     # Ohne Browser-Kennung antwortet Google deutlich häufiger mit 429.
     return TrendReq(
         hl=sprache,
         tz=-60,
         timeout=(10, 30),
-        retries=2,
-        backoff_factor=0.5,
         requests_args={"headers": {
             "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -206,6 +215,12 @@ def main() -> None:
                     if k:
                         print(f"  {b}: jetzt {k['jetzt']}, "
                               f"Mittel {k['jahresmittel']}, {einordnen(k)}")
+                break
+            except DAUERHAFT as e:
+                print(f"  Dauerhafter Fehler, keine Wiederholung: "
+                      f"{type(e).__name__}: {e}")
+                eintrag["fehler"] = f"{type(e).__name__}: {e}"[:200]
+                fehlgeschlagen += 1
                 break
             except Exception as e:                            # noqa: BLE001
                 wartezeit = WARTEN_START * versuch
