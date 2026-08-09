@@ -17,9 +17,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
 - *waschmaschinenschrank*: tchibo waschmaschinenschrank (+40 %)
-- *weinregal*: schmales weinregal (+70 %), weinregal eiche (+50 %)
-- *wäschekorb*: wäschekorb schäfchenwelt (+32700 %), stadlwerk wäschekorb (+27500 %), wäschekorb traumwelten (+550 %), wäschekorb braun (+50 %), badezimmerschrank mit wäschekorb (+50 %)
-- *raumteiler*: raumteiler holzlamellen (+70 %)
+- *schuhbank*: schuhbank buche (+50 %)
+- *weinregal*: weinregal aus metall (+100 %), schmales weinregal (+70 %), weinregal eiche (+50 %)
+- *wäschekorb*: wäschekorb schäfchenwelt (+32700 %), stadlwerk wäschekorb (+27500 %), hermes wäschekorb (+300 %), wäschekorb braun (+50 %), badezimmerschrank mit wäschekorb (+50 %)
+- *raumteiler*: raumteiler holzlamellen (+70 %), tv raumteiler freistehend (+60 %)
 
 ## wohnen
 
@@ -36,7 +37,7 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 - *couchtisch*: brauner couchtisch (+110 %), metallbude couchtisch (+110 %), couchtisch walnuss (+90 %), jysk couchtisch (+70 %), sklum couchtisch (+70 %)
 - *nachttisch*: nachttisch braun (+70 %), sklum nachttisch (+70 %), nachttisch dunkelbraun (+60 %), nachttisch schwebend (+50 %), nachttisch nussbaum (+40 %)
 - *kunstpflanze*: jysk kunstpflanzen (+50 %), große kunstpflanze (+50 %)
-- *gewichtsdecke*: gewichtsdecke testsieger (+190 %), gewichtsdecken test (+100 %), gewichtsdecke erwachsene (+100 %), action gewichtsdecke (+90 %), bearaby gewichtsdecke (+60 %)
+- *gewichtsdecke*: gewichtsdecke testsieger (+190 %), gewichtsdecke erwachsene (+100 %), action gewichtsdecke (+90 %), bearaby gewichtsdecke (+60 %), gewichtsdecke für kinder (+50 %)
 
 ## garten
 
@@ -50,10 +51,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *sonnenliege*: sonnenliege mit sonnenschutz (+170 %), sonnenliege 2er set (+40 %), kesser sonnenliege (+40 %), sonnenliege beige (+40 %), sonnenliege für 2 personen (+40 %)
-- *feuerschale*: rauchfreie feuerschale (+120 %), fennek feuerschale (+100 %), feuerschale 60 cm durchmesser (+70 %), feuerschale rauchfrei (+70 %), faltbare feuerschale (+60 %)
+- *sonnenliege*: sonnenliege mit sonnenschutz (+170 %), sonnenliege teakholz (+110 %), sonnenliege extra hoch lidl (+100 %), sonnenliege 2er set (+40 %), kesser sonnenliege (+40 %)
+- *feuerschale*: ninja feuerschale (+350 %), rauchfreie feuerschale (+120 %), fennek feuerschale (+100 %), feuerschale 60 cm durchmesser (+70 %), feuerschale rauchfrei (+70 %)
 - *gartenstuhl*: gartenstuhl verstellbare rückenlehne (+110 %), jutlandia gartenstuhl (+90 %), bequemer gartenstuhl (+60 %), gartenstuhl beige (+40 %)
-- *gartenmöbel*: qvc hartman gartenmöbel (+1200 %), galaxus gartenmöbel (+750 %), qvc gartenmöbel green lounge (+350 %), qvc gartenmöbel (+200 %), sklum (+60 %)
+- *gartenmöbel*: aldi gartenmöbel 2026 (+3400 %), galaxus gartenmöbel (+750 %), qvc gartenmöbel (+200 %), aldi süd gartenmöbel (+100 %), gartenmöbel auflagen (+80 %)
 
 ## haustier-buero
 
@@ -67,10 +68,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *hundebett*: ralph lauren hundebett (+130 %), dogs creek hundebett (+70 %), aufblasbares hundebett (+60 %), tedi hundebett (+50 %), rundes hundebett (+40 %)
-- *kratzbaum*: günstiger kratzbaum (+170 %), canadian cat company kratzbaum (+80 %), petrebels kratzbaum xxl (+70 %), sisalseil für kratzbaum (+50 %), kratzbaum wandmontage (+40 %)
+- *hundebett*: ralph lauren hundebett (+130 %), barbour hundebett (+60 %), tedi hundebett (+50 %), scruffs hundebett (+50 %), rundes hundebett (+40 %)
+- *kratzbaum*: kratzbaum mit hängematte (+70 %), sisalseil für kratzbaum (+50 %), kratzbaum wandmontage (+40 %)
 - *bürostuhl*: ofinto bürostuhl (+90 %), bequemer bürostuhl (+40 %)
-- *schreibtischstuhl*: schreibtischstuhl mit fußstütze (+60 %), jysk schreibtischstuhl (+50 %)
+- *schreibtischstuhl*: schreibtischstuhl mit fußstütze (+60 %), schreibtischstuhl teenager (+60 %), jysk schreibtischstuhl (+50 %)
 
 ## hund-oberbegriffe
 
@@ -85,10 +86,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
 - *hundezubehör*: hunter hundezubehör (+170 %), kik hundezubehör (+90 %), hundezubehör günstig (+90 %), hundezubehör online (+70 %), hundezubehör luxus (+60 %)
-- *hundebett*: ralph lauren hundebett (+130 %), dogs creek hundebett (+70 %), aufblasbares hundebett (+60 %), tedi hundebett (+50 %), rundes hundebett (+40 %)
-- *hundegeschirr*: any x hundegeschirr (+17700 %), hundegeschirr mit brustring (+250 %), feltmann hundegeschirr (+200 %), freudentier hundegeschirr (+150 %), grossenbacher hundegeschirr (+90 %)
-- *hundespielzeug*: coockoo hundespielzeug (+9000 %), snoop hundespielzeug (+90 %), tchibo hundespielzeug (+70 %)
-- *hundenapf*: hundenapf höhle der löwen (+350 %), hundenapf mit name (+110 %)
+- *hundebett*: ralph lauren hundebett (+130 %), barbour hundebett (+60 %), tedi hundebett (+50 %), scruffs hundebett (+50 %), rundes hundebett (+40 %)
+- *hundegeschirr*: fellstern hundegeschirr erfahrungen (+27100 %), any x hundegeschirr (+17700 %), hundegeschirr mit brustring (+250 %), feltmann hundegeschirr (+200 %), freudentier hundegeschirr (+150 %)
+- *hundespielzeug*: hundespielzeug ostern (+21800 %), boggle hundespielzeug (+16200 %), tchibo hundespielzeug halloween (+500 %), snoop hundespielzeug (+90 %), tchibo hundespielzeug (+70 %)
+- *hundenapf*: hundenapf mit name (+110 %)
 
 ## hund-kandidaten
 
@@ -142,11 +143,11 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *dampfreiniger*: dampfreiniger red hut (+40300 %), redhat akku dampfreiniger (+9000 %), redhut dampfreiniger (+1000 %), handdampfreiniger test (+160 %), action dampfreiniger (+150 %)
-- *nass trockensauger*: uwant nass trockensauger (+80100 %), tineco s7 (+200 %), ultenic nass trockensauger (+140 %), jonr nass trockensauger (+100 %), jonr ed12 nass trockensauger (+90 %)
-- *polsterreiniger*: ambiano teppich und polsterreiniger (+40000 %), lichter blitz polsterreiniger (+38300 %), ambiano polsterreiniger erfahrungen (+550 %), cleanmaxx polsterreiniger (+300 %), action polsterreiniger (+300 %)
-- *akkustaubsauger*: dyson akkustaubsauger v8 absolute (+500 %), bester akkustaubsauger 2025 (+300 %), akkustaubsauger angebote (+140 %), welcher akkustaubsauger ist der beste (+60 %), beste akkustaubsauger (+60 %)
-- *hochdruckreiniger*: jetterix hochdruckreiniger (+29600 %), jethose hochdruckreiniger (+1700 %), hochdruckreiniger bei lidl (+700 %), hochdruckreiniger von lidl (+350 %), teleskoplanze für hochdruckreiniger (+170 %)
+- *dampfreiniger*: red hut dampfreiniger (+39550 %), handdampfreiniger test (+160 %), action dampfreiniger (+150 %), kärcher dampfreiniger sc 3 deluxe (+110 %), dampfreiniger handgerät (+90 %)
+- *nass trockensauger*: uwant nass trockensauger (+80150 %), tineco s7 (+200 %), jonr nass trockensauger (+100 %), jonr ed12 nass trockensauger (+90 %), roborock nass trockensauger (+60 %)
+- *polsterreiniger*: lichter blitz polsterreiniger (+38300 %), action polsterreiniger (+300 %), dm polsterreiniger ausleihen kosten (+250 %), ambiano polsterreiniger (+60 %), teppich und polsterreiniger gerät (+50 %)
+- *akkustaubsauger*: dyson akkustaubsauger v8 absolute (+500 %), akkustaubsauger test 2025 (+300 %), akkustaubsauger angebote (+140 %), beste akkustaubsauger (+60 %)
+- *hochdruckreiniger*: hochdruckreiniger bei lidl (+700 %), hochdruckreiniger von lidl (+350 %), lidl hochdruckreiniger (+60 %), hochdruckreiniger parkside (+60 %), parkside (+60 %)
 
 ## werkzeug-auto
 
@@ -158,28 +159,15 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 | batterietester | 1 | 1.3 | 2 am 2025-10-12 | +0 % | stabil |
 | werkzeugkoffer | 9 | 11.6 | 20 am 2025-11-23 | +0 % | stabil |
 
-**Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
-
-- *akkuschrauber*: makita akkuschrauber rosa (+50 %)
-- *werkzeugkoffer*: crivit fahrradwerkzeugkoffer 20-tlg reparaturset wartung werkzeugkoffer fahrrad (+23750 %), werkzeugkoffer für frauen (+60 %), sw stahl werkzeugkoffer (+40 %)
-- *anhängerkupplung*: anhängerkupplung mit montage (+160 %), e auto mit anhängerkupplung (+100 %), anhängerkupplung einbauen (+80 %), anhängerkupplung montage (+70 %), anhängerkupplung anbauen (+60 %)
-- *drehmomentschlüssel*: drehmomentschlüssel klimaanlage (+50 %)
-
 ## licht-energie
 
 | Begriff | Jetzt | Jahresmittel | Saisonhoch | vs. 3 Mon. | Einordnung |
 |---|---:|---:|---|---:|---|
 | solar halterung | 4 | 3.5 | 7 am 2026-03-08 | +0 % | stabil |
 | akku ladegerät | 37 | 35.7 | 48 am 2026-05-31 | -16 % | stabil |
-| taschenlampe | 59 | 66.0 | 100 am 2025-11-23 | +31 % | steigt deutlich |
+| taschenlampe | 59 | 66 | 100 am 2025-11-23 | +31 % | steigt deutlich |
 | stirnlampe | 12 | 15.6 | 35 am 2025-11-16 | +33 % | steigt deutlich |
 | arbeitsleuchte | 3 | 4.6 | 9 am 2025-11-09 | -25 % | Nebensaison, zurückstellen |
-
-**Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
-
-- *stirnlampe*: stubai stirnlampe (+30200 %), stirnlampen-test stiftung warentest (+110 %), ledlenser stirnlampe h8r (+70 %), gute stirnlampe (+60 %), milwaukee stirnlampe (+50 %)
-- *taschenlampe*: taschenlampe mit kurbel (+200 %), hazet taschenlampe (+120 %), mini taschenlampe schlüsselanhänger (+90 %), wuben taschenlampe (+90 %), taschenlampe kurbel (+80 %)
-- *arbeitsleuchte*: ikea arbeitsleuchte (+160 %)
 
 ## haus-technik
 
@@ -193,7 +181,7 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *heißluftfritteuse*: chef cuisine heißluftfritteuse (+4200 %), masterpro heißluftfritteuse (+500 %), beste heißluftfritteuse 2025 (+200 %), bosch heißluftfritteuse (+200 %), heißluftfritteuse test 2025 (+170 %)
+- *heißluftfritteuse*: ninja max 6-in-1 dual zone heißluftfritteuse 9,5 l (+1800 %), ninja foodi 4-in-1 dual zone heißluftfritteuse 7,6 l (+600 %), bosch heißluftfritteuse (+200 %), ninja foodi flexdrawer 10 4 l heißluftfritteuse af500eu (+130 %), ambiano mini heißluftfritteuse (+110 %)
 - *duschhocker*: wenko duschhocker (+50 %)
 - *atemschutzmaske*: atemschutzmaske corona (+91600 %), atemschutzmaske ffp3 kaufen (+54550 %), 3m atemschutzmaske einweg (+32550 %), atemschutzmaske für brillenträger (+28600 %), atemschutzmaske mit aktivkohlefilter (+250 %)
 - *kettensäge akku*: parkside akku kettensäge 40v (+60 %)

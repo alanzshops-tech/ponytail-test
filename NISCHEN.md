@@ -14,7 +14,7 @@ Laufen das ganze Jahr durch. Kein Einkaufsdruck, dafür planbarer Umsatz.
 |---|---:|---:|---|---:|---:|---:|---:|---|
 | Kommode | 67.0 | 1.49 | Januar | +9 % | 4 | 3682 | 11.2 | stauraum-kandidaten |
 | Bürostuhl | 66.7 | 1.5 | November | +7 % | 8 | 2441 | 39.8 | haustier-buero |
-| Taschenlampe | 66.0 | 1.52 | November | +31 % | 11 | 2990 | 3.9 | licht-energie |
+| Taschenlampe | 66 | 1.52 | November | +31 % | 11 | 2990 | 3.9 | licht-energie |
 | Couchtisch | 63.7 | 1.57 | Dezember | +10 % | 2 | 2785 | 22 | wohnen |
 | Anhängerkupplung | 60.2 | 1.66 | Mai | -1 % | 7 | 1610 | 1.4 | werkzeug-auto |
 | Raumteiler | 46.8 | 1.43 | Januar | +28 % | 1 | 230 | 1 | stauraum |

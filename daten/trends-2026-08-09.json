@@ -1091,7 +1091,17 @@
             "zuwachs": 40
           }
         ],
+        "schuhbank": [
+          {
+            "anfrage": "schuhbank buche",
+            "zuwachs": 50
+          }
+        ],
         "weinregal": [
+          {
+            "anfrage": "weinregal aus metall",
+            "zuwachs": 100
+          },
           {
             "anfrage": "schmales weinregal",
             "zuwachs": 70
@@ -1111,8 +1121,8 @@
             "zuwachs": 27500
           },
           {
-            "anfrage": "wäschekorb traumwelten",
-            "zuwachs": 550
+            "anfrage": "hermes wäschekorb",
+            "zuwachs": 300
           },
           {
             "anfrage": "wäschekorb braun",
@@ -1127,6 +1137,10 @@
           {
             "anfrage": "raumteiler holzlamellen",
             "zuwachs": 70
+          },
+          {
+            "anfrage": "tv raumteiler freistehend",
+            "zuwachs": 60
           }
         ]
       },
@@ -2315,10 +2329,6 @@
             "zuwachs": 190
           },
           {
-            "anfrage": "gewichtsdecken test",
-            "zuwachs": 100
-          },
-          {
             "anfrage": "gewichtsdecke erwachsene",
             "zuwachs": 100
           },
@@ -2329,6 +2339,10 @@
           {
             "anfrage": "bearaby gewichtsdecke",
             "zuwachs": 60
+          },
+          {
+            "anfrage": "gewichtsdecke für kinder",
+            "zuwachs": 50
           }
         ]
       },
@@ -3463,23 +3477,27 @@
             "zuwachs": 170
           },
           {
+            "anfrage": "sonnenliege teakholz",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "sonnenliege extra hoch lidl",
+            "zuwachs": 100
+          },
+          {
             "anfrage": "sonnenliege 2er set",
             "zuwachs": 40
           },
           {
             "anfrage": "kesser sonnenliege",
             "zuwachs": 40
-          },
-          {
-            "anfrage": "sonnenliege beige",
-            "zuwachs": 40
-          },
-          {
-            "anfrage": "sonnenliege für 2 personen",
-            "zuwachs": 40
           }
         ],
         "feuerschale": [
+          {
+            "anfrage": "ninja feuerschale",
+            "zuwachs": 350
+          },
           {
             "anfrage": "rauchfreie feuerschale",
             "zuwachs": 120
@@ -3495,10 +3513,6 @@
           {
             "anfrage": "feuerschale rauchfrei",
             "zuwachs": 70
-          },
-          {
-            "anfrage": "faltbare feuerschale",
-            "zuwachs": 60
           }
         ],
         "gartenstuhl": [
@@ -3521,24 +3535,24 @@
         ],
         "gartenmöbel": [
           {
-            "anfrage": "qvc hartman gartenmöbel",
-            "zuwachs": 1200
+            "anfrage": "aldi gartenmöbel 2026",
+            "zuwachs": 3400
           },
           {
             "anfrage": "galaxus gartenmöbel",
             "zuwachs": 750
           },
           {
-            "anfrage": "qvc gartenmöbel green lounge",
-            "zuwachs": 350
-          },
-          {
             "anfrage": "qvc gartenmöbel",
             "zuwachs": 200
           },
           {
-            "anfrage": "sklum",
-            "zuwachs": 60
+            "anfrage": "aldi süd gartenmöbel",
+            "zuwachs": 100
+          },
+          {
+            "anfrage": "gartenmöbel auflagen",
+            "zuwachs": 80
           }
         ]
       },
@@ -4673,15 +4687,15 @@
             "zuwachs": 130
           },
           {
-            "anfrage": "dogs creek hundebett",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "aufblasbares hundebett",
+            "anfrage": "barbour hundebett",
             "zuwachs": 60
           },
           {
             "anfrage": "tedi hundebett",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "scruffs hundebett",
             "zuwachs": 50
           },
           {
@@ -4691,15 +4705,7 @@
         ],
         "kratzbaum": [
           {
-            "anfrage": "günstiger kratzbaum",
-            "zuwachs": 170
-          },
-          {
-            "anfrage": "canadian cat company kratzbaum",
-            "zuwachs": 80
-          },
-          {
-            "anfrage": "petrebels kratzbaum xxl",
+            "anfrage": "kratzbaum mit hängematte",
             "zuwachs": 70
           },
           {
@@ -4724,6 +4730,10 @@
         "schreibtischstuhl": [
           {
             "anfrage": "schreibtischstuhl mit fußstütze",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "schreibtischstuhl teenager",
             "zuwachs": 60
           },
           {
@@ -5885,15 +5895,15 @@
             "zuwachs": 130
           },
           {
-            "anfrage": "dogs creek hundebett",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "aufblasbares hundebett",
+            "anfrage": "barbour hundebett",
             "zuwachs": 60
           },
           {
             "anfrage": "tedi hundebett",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "scruffs hundebett",
             "zuwachs": 50
           },
           {
@@ -5902,6 +5912,10 @@
           }
         ],
         "hundegeschirr": [
+          {
+            "anfrage": "fellstern hundegeschirr erfahrungen",
+            "zuwachs": 27100
+          },
           {
             "anfrage": "any x hundegeschirr",
             "zuwachs": 17700
@@ -5917,16 +5931,20 @@
           {
             "anfrage": "freudentier hundegeschirr",
             "zuwachs": 150
-          },
-          {
-            "anfrage": "grossenbacher hundegeschirr",
-            "zuwachs": 90
           }
         ],
         "hundespielzeug": [
           {
-            "anfrage": "coockoo hundespielzeug",
-            "zuwachs": 9000
+            "anfrage": "hundespielzeug ostern",
+            "zuwachs": 21800
+          },
+          {
+            "anfrage": "boggle hundespielzeug",
+            "zuwachs": 16200
+          },
+          {
+            "anfrage": "tchibo hundespielzeug halloween",
+            "zuwachs": 500
           },
           {
             "anfrage": "snoop hundespielzeug",
@@ -5938,10 +5956,6 @@
           }
         ],
         "hundenapf": [
-          {
-            "anfrage": "hundenapf höhle der löwen",
-            "zuwachs": 350
-          },
           {
             "anfrage": "hundenapf mit name",
             "zuwachs": 110
@@ -10480,16 +10494,8 @@
       "steigend": {
         "dampfreiniger": [
           {
-            "anfrage": "dampfreiniger red hut",
-            "zuwachs": 40300
-          },
-          {
-            "anfrage": "redhat akku dampfreiniger",
-            "zuwachs": 9000
-          },
-          {
-            "anfrage": "redhut dampfreiniger",
-            "zuwachs": 1000
+            "anfrage": "red hut dampfreiniger",
+            "zuwachs": 39550
           },
           {
             "anfrage": "handdampfreiniger test",
@@ -10498,20 +10504,24 @@
           {
             "anfrage": "action dampfreiniger",
             "zuwachs": 150
+          },
+          {
+            "anfrage": "kärcher dampfreiniger sc 3 deluxe",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "dampfreiniger handgerät",
+            "zuwachs": 90
           }
         ],
         "nass trockensauger": [
           {
             "anfrage": "uwant nass trockensauger",
-            "zuwachs": 80100
+            "zuwachs": 80150
           },
           {
             "anfrage": "tineco s7",
             "zuwachs": 200
-          },
-          {
-            "anfrage": "ultenic nass trockensauger",
-            "zuwachs": 140
           },
           {
             "anfrage": "jonr nass trockensauger",
@@ -10520,28 +10530,32 @@
           {
             "anfrage": "jonr ed12 nass trockensauger",
             "zuwachs": 90
+          },
+          {
+            "anfrage": "roborock nass trockensauger",
+            "zuwachs": 60
           }
         ],
         "polsterreiniger": [
-          {
-            "anfrage": "ambiano teppich und polsterreiniger",
-            "zuwachs": 40000
-          },
           {
             "anfrage": "lichter blitz polsterreiniger",
             "zuwachs": 38300
           },
           {
-            "anfrage": "ambiano polsterreiniger erfahrungen",
-            "zuwachs": 550
-          },
-          {
-            "anfrage": "cleanmaxx polsterreiniger",
-            "zuwachs": 300
-          },
-          {
             "anfrage": "action polsterreiniger",
             "zuwachs": 300
+          },
+          {
+            "anfrage": "dm polsterreiniger ausleihen kosten",
+            "zuwachs": 250
+          },
+          {
+            "anfrage": "ambiano polsterreiniger",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "teppich und polsterreiniger gerät",
+            "zuwachs": 50
           }
         ],
         "akkustaubsauger": [
@@ -10550,7 +10564,7 @@
             "zuwachs": 500
           },
           {
-            "anfrage": "bester akkustaubsauger 2025",
+            "anfrage": "akkustaubsauger test 2025",
             "zuwachs": 300
           },
           {
@@ -10558,23 +10572,11 @@
             "zuwachs": 140
           },
           {
-            "anfrage": "welcher akkustaubsauger ist der beste",
-            "zuwachs": 60
-          },
-          {
             "anfrage": "beste akkustaubsauger",
             "zuwachs": 60
           }
         ],
         "hochdruckreiniger": [
-          {
-            "anfrage": "jetterix hochdruckreiniger",
-            "zuwachs": 29600
-          },
-          {
-            "anfrage": "jethose hochdruckreiniger",
-            "zuwachs": 1700
-          },
           {
             "anfrage": "hochdruckreiniger bei lidl",
             "zuwachs": 700
@@ -10584,8 +10586,16 @@
             "zuwachs": 350
           },
           {
-            "anfrage": "teleskoplanze für hochdruckreiniger",
-            "zuwachs": 170
+            "anfrage": "lidl hochdruckreiniger",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "hochdruckreiniger parkside",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "parkside",
+            "zuwachs": 60
           }
         ]
       },
@@ -11705,7 +11715,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 12
+            "wert": 13
           },
           {
             "datum": "2026-08-02",
@@ -11713,56 +11723,7 @@
           }
         ]
       },
-      "steigend": {
-        "akkuschrauber": [
-          {
-            "anfrage": "makita akkuschrauber rosa",
-            "zuwachs": 50
-          }
-        ],
-        "werkzeugkoffer": [
-          {
-            "anfrage": "crivit fahrradwerkzeugkoffer 20-tlg reparaturset wartung werkzeugkoffer fahrrad",
-            "zuwachs": 23750
-          },
-          {
-            "anfrage": "werkzeugkoffer für frauen",
-            "zuwachs": 60
-          },
-          {
-            "anfrage": "sw stahl werkzeugkoffer",
-            "zuwachs": 40
-          }
-        ],
-        "anhängerkupplung": [
-          {
-            "anfrage": "anhängerkupplung mit montage",
-            "zuwachs": 160
-          },
-          {
-            "anfrage": "e auto mit anhängerkupplung",
-            "zuwachs": 100
-          },
-          {
-            "anfrage": "anhängerkupplung einbauen",
-            "zuwachs": 80
-          },
-          {
-            "anfrage": "anhängerkupplung montage",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "anhängerkupplung anbauen",
-            "zuwachs": 60
-          }
-        ],
-        "drehmomentschlüssel": [
-          {
-            "anfrage": "drehmomentschlüssel klimaanlage",
-            "zuwachs": 50
-          }
-        ]
-      },
+      "steigend": {},
       "kennzahlen": {
         "akkuschrauber": {
           "jetzt": 33,
@@ -12237,7 +12198,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 53
+            "wert": 54
           },
           {
             "datum": "2026-08-02",
@@ -12887,58 +12848,7 @@
           }
         ]
       },
-      "steigend": {
-        "stirnlampe": [
-          {
-            "anfrage": "stubai stirnlampe",
-            "zuwachs": 30200
-          },
-          {
-            "anfrage": "stirnlampen-test stiftung warentest",
-            "zuwachs": 110
-          },
-          {
-            "anfrage": "ledlenser stirnlampe h8r",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "gute stirnlampe",
-            "zuwachs": 60
-          },
-          {
-            "anfrage": "milwaukee stirnlampe",
-            "zuwachs": 50
-          }
-        ],
-        "taschenlampe": [
-          {
-            "anfrage": "taschenlampe mit kurbel",
-            "zuwachs": 200
-          },
-          {
-            "anfrage": "hazet taschenlampe",
-            "zuwachs": 120
-          },
-          {
-            "anfrage": "mini taschenlampe schlüsselanhänger",
-            "zuwachs": 90
-          },
-          {
-            "anfrage": "wuben taschenlampe",
-            "zuwachs": 90
-          },
-          {
-            "anfrage": "taschenlampe kurbel",
-            "zuwachs": 80
-          }
-        ],
-        "arbeitsleuchte": [
-          {
-            "anfrage": "ikea arbeitsleuchte",
-            "zuwachs": 160
-          }
-        ]
-      },
+      "steigend": {},
       "kennzahlen": {
         "stirnlampe": {
           "jetzt": 12,
@@ -12950,7 +12860,7 @@
         },
         "taschenlampe": {
           "jetzt": 59,
-          "jahresmittel": 66.0,
+          "jahresmittel": 66,
           "hoechstwert": 100,
           "hoch_am": "2025-11-23",
           "gegen_jahresmittel_prozent": -11,
@@ -14066,24 +13976,24 @@
       "steigend": {
         "heißluftfritteuse": [
           {
-            "anfrage": "chef cuisine heißluftfritteuse",
-            "zuwachs": 4200
+            "anfrage": "ninja max 6-in-1 dual zone heißluftfritteuse 9,5 l",
+            "zuwachs": 1800
           },
           {
-            "anfrage": "masterpro heißluftfritteuse",
-            "zuwachs": 500
-          },
-          {
-            "anfrage": "beste heißluftfritteuse 2025",
-            "zuwachs": 200
+            "anfrage": "ninja foodi 4-in-1 dual zone heißluftfritteuse 7,6 l",
+            "zuwachs": 600
           },
           {
             "anfrage": "bosch heißluftfritteuse",
             "zuwachs": 200
           },
           {
-            "anfrage": "heißluftfritteuse test 2025",
-            "zuwachs": 170
+            "anfrage": "ninja foodi flexdrawer 10 4 l heißluftfritteuse af500eu",
+            "zuwachs": 130
+          },
+          {
+            "anfrage": "ambiano mini heißluftfritteuse",
+            "zuwachs": 110
           }
         ],
         "duschhocker": [
