@@ -5,9 +5,9 @@
       "geraet": "mobil",
       "url": "https://www.homeeins.de/",
       "status": 200,
-      "ms_bis_erste_anzeige": 1660,
+      "ms_bis_erste_anzeige": 552,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2435,
+      "ms_bis_fertig": 1203,
       "dom_knoten": 2426,
       "bilder_gesamt": 67,
       "bilder_ohne_alt": 2,
@@ -15,11 +15,11 @@
       "formulare": 4,
       "seitenhoehe": 10371,
       "waagerecht_scrollbar": false,
-      "anfragen": 305,
-      "gewicht_kb": 3879,
+      "anfragen": 302,
+      "gewicht_kb": 3985,
       "nach_typ_kb": {
         "image": 1465,
-        "script": 1154,
+        "script": 1260,
         "other": 997,
         "font": 149,
         "document": 79,
@@ -29,7 +29,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=0ed88d30-d6ad-4ec3-8732-ed8e5d1cea47&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=1e8158c5-3ddd-4490-a43f-aa0aa27eb1f1&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/startseite-mobil.jpg",
       "bild_kb": 1010
@@ -38,22 +38,22 @@
       "geraet": "desktop",
       "url": "https://www.homeeins.de/",
       "status": 200,
-      "ms_bis_erste_anzeige": 1228,
+      "ms_bis_erste_anzeige": 480,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2525,
-      "dom_knoten": 2415,
+      "ms_bis_fertig": 1217,
+      "dom_knoten": 2428,
       "bilder_gesamt": 67,
       "bilder_ohne_alt": 2,
       "h1_anzahl": 1,
       "formulare": 4,
       "seitenhoehe": 7019,
       "waagerecht_scrollbar": false,
-      "anfragen": 310,
-      "gewicht_kb": 4405,
+      "anfragen": 324,
+      "gewicht_kb": 4431,
       "nach_typ_kb": {
         "image": 1907,
         "script": 1260,
-        "other": 976,
+        "other": 1002,
         "font": 149,
         "document": 79,
         "stylesheet": 34,
@@ -62,30 +62,30 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=fe30a96c-0fb2-49fe-8876-7c21da067512&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=ba7ae6a1-424c-46c1-b10e-ee320f611478&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/startseite-desktop.jpg",
-      "bild_kb": 729
+      "bild_kb": 730
     },
     {
       "geraet": "mobil",
       "url": "https://www.homeeins.de/collections/hunde",
       "status": 200,
-      "ms_bis_erste_anzeige": 660,
+      "ms_bis_erste_anzeige": 764,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1244,
-      "dom_knoten": 1894,
+      "ms_bis_fertig": 1385,
+      "dom_knoten": 1891,
       "bilder_gesamt": 12,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 4155,
       "waagerecht_scrollbar": false,
-      "anfragen": 281,
+      "anfragen": 276,
       "gewicht_kb": 2729,
       "nach_typ_kb": {
         "script": 1263,
-        "other": 1001,
+        "other": 1000,
         "image": 211,
         "font": 149,
         "document": 69,
@@ -95,7 +95,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=14b3670f-88fe-4875-9369-93e9f5e09c53&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=e5381405-1c6c-45a5-8eb8-3c4a7465eb5a&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/collections-hunde-mobil.jpg",
       "bild_kb": 612
@@ -104,21 +104,21 @@
       "geraet": "desktop",
       "url": "https://www.homeeins.de/collections/hunde",
       "status": 200,
-      "ms_bis_erste_anzeige": 496,
+      "ms_bis_erste_anzeige": 504,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1020,
-      "dom_knoten": 1895,
+      "ms_bis_fertig": 1155,
+      "dom_knoten": 1872,
       "bilder_gesamt": 12,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 3104,
       "waagerecht_scrollbar": false,
-      "anfragen": 287,
-      "gewicht_kb": 2728,
+      "anfragen": 259,
+      "gewicht_kb": 2681,
       "nach_typ_kb": {
         "script": 1263,
-        "other": 1001,
+        "other": 954,
         "image": 209,
         "font": 149,
         "document": 69,
@@ -128,7 +128,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=6fc307a0-dda7-45a0-9c6a-21d4024f38ba&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=5fbb25fa-8cc6-4795-84cc-853445a31dee&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/collections-hunde-desktop.jpg",
       "bild_kb": 329
@@ -137,21 +137,21 @@
       "geraet": "mobil",
       "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
       "status": 200,
-      "ms_bis_erste_anzeige": 932,
+      "ms_bis_erste_anzeige": 280,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1798,
-      "dom_knoten": 1737,
+      "ms_bis_fertig": 1212,
+      "dom_knoten": 1721,
       "bilder_gesamt": 25,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 5625,
       "waagerecht_scrollbar": false,
-      "anfragen": 361,
-      "gewicht_kb": 3233,
+      "anfragen": 342,
+      "gewicht_kb": 3204,
       "nach_typ_kb": {
         "script": 1352,
-        "other": 1119,
+        "other": 1089,
         "image": 385,
         "font": 149,
         "xhr": 94,
@@ -161,7 +161,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=4d5a2fe1-4551-4e9b-836a-248d331d6365&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=7977358a-d579-4dd1-b860-674449bff813&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-mobil.jpg",
       "bild_kb": 617
@@ -170,21 +170,21 @@
       "geraet": "desktop",
       "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
       "status": 200,
-      "ms_bis_erste_anzeige": 964,
+      "ms_bis_erste_anzeige": 508,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1922,
-      "dom_knoten": 1733,
+      "ms_bis_fertig": 1376,
+      "dom_knoten": 1712,
       "bilder_gesamt": 25,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 5516,
       "waagerecht_scrollbar": false,
-      "anfragen": 364,
-      "gewicht_kb": 3682,
+      "anfragen": 338,
+      "gewicht_kb": 3601,
       "nach_typ_kb": {
-        "script": 1391,
-        "other": 1096,
+        "script": 1349,
+        "other": 1057,
         "image": 817,
         "font": 149,
         "xhr": 94,
@@ -194,7 +194,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=83a130e2-635b-4352-b502-46dd20d4eb25&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=c33ce0f2-86b7-48ed-8571-65dbf523d769&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-desktop.jpg",
       "bild_kb": 398
@@ -203,87 +203,87 @@
       "geraet": "mobil",
       "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
       "status": 200,
-      "ms_bis_erste_anzeige": 624,
+      "ms_bis_erste_anzeige": 772,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1209,
-      "dom_knoten": 2440,
-      "bilder_gesamt": 67,
-      "bilder_ohne_alt": 2,
+      "ms_bis_fertig": 2177,
+      "dom_knoten": 1598,
+      "bilder_gesamt": 11,
+      "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
-      "formulare": 4,
-      "seitenhoehe": 10371,
+      "formulare": 6,
+      "seitenhoehe": 3524,
       "waagerecht_scrollbar": false,
-      "anfragen": 324,
-      "gewicht_kb": 3993,
+      "anfragen": 341,
+      "gewicht_kb": 3061,
       "nach_typ_kb": {
-        "image": 1465,
-        "script": 1260,
-        "other": 1006,
+        "script": 1353,
+        "other": 1088,
+        "image": 244,
         "font": 149,
-        "document": 79,
-        "stylesheet": 34,
-        "fetch": 0,
-        "xhr": 0,
+        "xhr": 94,
+        "document": 67,
+        "stylesheet": 64,
+        "fetch": 1,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=c1bb917d-53e7-4033-bd2b-501896cd8b9c&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=b050f72f-d5d1-43c5-a15b-7f284ef49be6&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-mobil.jpg",
-      "bild_kb": 1010
+      "bild_kb": 377
     },
     {
       "geraet": "desktop",
       "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
       "status": 200,
-      "ms_bis_erste_anzeige": 596,
+      "ms_bis_erste_anzeige": 468,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1312,
-      "dom_knoten": 2432,
-      "bilder_gesamt": 67,
-      "bilder_ohne_alt": 2,
+      "ms_bis_fertig": 1383,
+      "dom_knoten": 1605,
+      "bilder_gesamt": 11,
+      "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
-      "formulare": 4,
-      "seitenhoehe": 7019,
+      "formulare": 6,
+      "seitenhoehe": 3387,
       "waagerecht_scrollbar": false,
-      "anfragen": 330,
-      "gewicht_kb": 4434,
+      "anfragen": 350,
+      "gewicht_kb": 3521,
       "nach_typ_kb": {
-        "image": 1907,
-        "script": 1261,
-        "other": 1003,
+        "script": 1391,
+        "other": 1094,
+        "image": 660,
         "font": 149,
-        "document": 79,
-        "stylesheet": 34,
-        "fetch": 0,
-        "xhr": 0,
+        "xhr": 94,
+        "document": 67,
+        "stylesheet": 64,
+        "fetch": 1,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=10e18623-cd70-4e7c-9481-389444202533&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=0d769aa2-ccb3-4c70-891c-d81ab23274fe&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-desktop.jpg",
-      "bild_kb": 729
+      "bild_kb": 268
     },
     {
       "geraet": "mobil",
       "url": "https://www.homeeins.de/cart",
       "status": 200,
-      "ms_bis_erste_anzeige": 552,
+      "ms_bis_erste_anzeige": 744,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1098,
-      "dom_knoten": 1279,
+      "ms_bis_fertig": 1323,
+      "dom_knoten": 1271,
       "bilder_gesamt": 1,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 2,
       "formulare": 5,
       "seitenhoehe": 996,
       "waagerecht_scrollbar": false,
-      "anfragen": 269,
-      "gewicht_kb": 2574,
+      "anfragen": 256,
+      "gewicht_kb": 2519,
       "nach_typ_kb": {
-        "script": 1339,
-        "other": 1002,
+        "script": 1296,
+        "other": 990,
         "font": 137,
         "document": 59,
         "stylesheet": 26,
@@ -293,7 +293,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=d3ebd62f-cbf6-4c6d-87b6-787921f309a0&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=81a5abd2-ac1e-4bdc-9f83-da51c35e21e1&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/cart-mobil.jpg",
       "bild_kb": 80
@@ -302,21 +302,21 @@
       "geraet": "desktop",
       "url": "https://www.homeeins.de/cart",
       "status": 200,
-      "ms_bis_erste_anzeige": 700,
+      "ms_bis_erste_anzeige": 400,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1317,
-      "dom_knoten": 1292,
+      "ms_bis_fertig": 1003,
+      "dom_knoten": 1271,
       "bilder_gesamt": 1,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 2,
       "formulare": 5,
       "seitenhoehe": 900,
       "waagerecht_scrollbar": false,
-      "anfragen": 278,
-      "gewicht_kb": 2533,
+      "anfragen": 258,
+      "gewicht_kb": 2521,
       "nach_typ_kb": {
-        "script": 1296,
-        "other": 1005,
+        "script": 1298,
+        "other": 992,
         "font": 137,
         "document": 59,
         "stylesheet": 26,
@@ -326,7 +326,7 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=1ab28daf-ce66-47fc-a999-9fed75860690&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=ad057bc9-f56c-46bb-9e20-bcd0f7d6a6f7&target_origin=https%3A%2F%2Fw"
       ],
       "bild": "bilder/cart-desktop.jpg",
       "bild_kb": 51
