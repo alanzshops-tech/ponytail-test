@@ -5,3 +5,5 @@ https://www.homeeins.de/collections/hunde
 https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl
 https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar
 https://www.homeeins.de/cart
+# Produkt, das bis 9.8.2026 sechs erfundene Bewertungen als Metafeld trug.
+https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine
