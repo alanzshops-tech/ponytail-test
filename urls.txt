@@ -1,5 +1,16 @@
-# Seiten, die laut Search Console vorn stehen und keine Klicks bekommen.
-# Eine URL je Zeile, Zeilen mit # werden übersprungen.
+# Stichprobe für `--urls`. Der vollständige Lauf geht über die Sitemap;
+# diese Liste ist die Kurzprüfung für zwischendurch.
+#
+# Sie enthält bewusst die Adressen, an denen das Duplikatsproblem am
+# 9. August 2026 aufgefallen ist. Sollte die englische Sprache je wieder
+# veröffentlicht werden, ohne dass es englische Inhalte gibt, fallen genau
+# diese Zeilen wieder auf.
+#
+# Erwartet seit dem Abschalten der unübersetzten englischen Sprache:
+#   /en/products/...     leitet weiter auf die deutsche Fassung
+#   /en/collections/...  404
+#   deutsche Adressen    200, Canonical auf sich selbst
+
 https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz
 https://www.homeeins.de/products/gartentisch-pe-rattan-akazienholz
 https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet
