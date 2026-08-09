@@ -2312,7 +2312,11 @@
         "gewichtsdecke": [
           {
             "anfrage": "gewichtsdecke testsieger",
-            "zuwachs": 170
+            "zuwachs": 190
+          },
+          {
+            "anfrage": "gewichtsdecken test",
+            "zuwachs": 100
           },
           {
             "anfrage": "gewichtsdecke erwachsene",
@@ -2320,15 +2324,11 @@
           },
           {
             "anfrage": "action gewichtsdecke",
-            "zuwachs": 70
+            "zuwachs": 90
           },
           {
-            "anfrage": "wie schwer sollte eine gewichtsdecke sein",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "gewichtsdecke 8 kg",
-            "zuwachs": 50
+            "anfrage": "bearaby gewichtsdecke",
+            "zuwachs": 60
           }
         ]
       },
@@ -4681,12 +4681,12 @@
             "zuwachs": 60
           },
           {
-            "anfrage": "barbour hundebett",
-            "zuwachs": 60
-          },
-          {
             "anfrage": "tedi hundebett",
             "zuwachs": 50
+          },
+          {
+            "anfrage": "rundes hundebett",
+            "zuwachs": 40
           }
         ],
         "kratzbaum": [
@@ -4724,10 +4724,6 @@
         "schreibtischstuhl": [
           {
             "anfrage": "schreibtischstuhl mit fußstütze",
-            "zuwachs": 60
-          },
-          {
-            "anfrage": "schreibtischstuhl teenager",
             "zuwachs": 60
           },
           {
@@ -5897,12 +5893,12 @@
             "zuwachs": 60
           },
           {
-            "anfrage": "barbour hundebett",
-            "zuwachs": 60
-          },
-          {
             "anfrage": "tedi hundebett",
             "zuwachs": 50
+          },
+          {
+            "anfrage": "rundes hundebett",
+            "zuwachs": 40
           }
         ],
         "hundegeschirr": [
@@ -9396,6 +9392,4792 @@
           "hoechstwert": 27,
           "hoch_am": "2025-09-28",
           "gegen_jahresmittel_prozent": 20,
+          "gegen_vor_3_monaten_prozent": 0
+        }
+      }
+    },
+    {
+      "name": "reinigung",
+      "begriffe": [
+        "dampfreiniger",
+        "nass trockensauger",
+        "polsterreiniger",
+        "akkustaubsauger",
+        "hochdruckreiniger"
+      ],
+      "verlauf": {
+        "dampfreiniger": [
+          {
+            "datum": "2025-08-03",
+            "wert": 28
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 28
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 35
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 38
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 41
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 36
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 36
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 38
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 40
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 40
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 40
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 36
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 35
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 38
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 48
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 50
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 51
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 45
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 43
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 40
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 39
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 47
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 36
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 36
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 35
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 34
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 41
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 33
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 35
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 37
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 39
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 46
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 39
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 43
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 43
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 44
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 40
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 39
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 37
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 33
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 41
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 40
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 29
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 35
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 32
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 25
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 23
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 30
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 34
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 35
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 35
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 35
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 34
+          }
+        ],
+        "nass trockensauger": [
+          {
+            "datum": "2025-08-03",
+            "wert": 9
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 8
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 9
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 11
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 11
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 9
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 8
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 10
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 10
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 10
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 9
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 11
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 12
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 12
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 13
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 16
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 22
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 13
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 12
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 11
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 14
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 14
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 15
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 13
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 14
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 14
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 13
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 13
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 14
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 15
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 15
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 14
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 13
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 16
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 14
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 13
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 14
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 16
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 13
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 14
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 12
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 11
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 12
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 12
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 12
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 11
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 16
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 14
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 14
+          }
+        ],
+        "polsterreiniger": [
+          {
+            "datum": "2025-08-03",
+            "wert": 11
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 11
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 12
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 13
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 10
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 9
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 11
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 17
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 12
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 12
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 14
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 12
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 11
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 11
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 11
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 11
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 11
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 9
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 10
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 10
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 10
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 8
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 10
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 12
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 22
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 17
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 11
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 11
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 9
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 10
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 11
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 11
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 10
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 10
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 11
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 9
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 11
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 12
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 12
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 13
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 14
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 13
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 13
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 13
+          }
+        ],
+        "akkustaubsauger": [
+          {
+            "datum": "2025-08-03",
+            "wert": 6
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 6
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 5
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 7
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 7
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 7
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 6
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 7
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 7
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 7
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 8
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 7
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 7
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 7
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 10
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 12
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 16
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 8
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 8
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 6
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 8
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 9
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 7
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 8
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 8
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 8
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 8
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 9
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 8
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 8
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 6
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 7
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 6
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 7
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 7
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 6
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 7
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 6
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 6
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 6
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 6
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 6
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 6
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 8
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 7
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 7
+          }
+        ],
+        "hochdruckreiniger": [
+          {
+            "datum": "2025-08-03",
+            "wert": 40
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 40
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 36
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 35
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 29
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 27
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 27
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 25
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 24
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 23
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 26
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 23
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 21
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 23
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 24
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 23
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 22
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 21
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 23
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 19
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 19
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 16
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 15
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 20
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 18
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 17
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 20
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 27
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 36
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 63
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 98
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 86
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 80
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 77
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 77
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 100
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 87
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 87
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 94
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 67
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 57
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 70
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 75
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 59
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 48
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 47
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 46
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 37
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 39
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 40
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 39
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 35
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 36
+          }
+        ]
+      },
+      "steigend": {
+        "dampfreiniger": [
+          {
+            "anfrage": "dampfreiniger red hut",
+            "zuwachs": 40300
+          },
+          {
+            "anfrage": "redhat akku dampfreiniger",
+            "zuwachs": 9000
+          },
+          {
+            "anfrage": "redhut dampfreiniger",
+            "zuwachs": 1000
+          },
+          {
+            "anfrage": "handdampfreiniger test",
+            "zuwachs": 160
+          },
+          {
+            "anfrage": "action dampfreiniger",
+            "zuwachs": 150
+          }
+        ],
+        "nass trockensauger": [
+          {
+            "anfrage": "uwant nass trockensauger",
+            "zuwachs": 80100
+          },
+          {
+            "anfrage": "tineco s7",
+            "zuwachs": 200
+          },
+          {
+            "anfrage": "ultenic nass trockensauger",
+            "zuwachs": 140
+          },
+          {
+            "anfrage": "jonr nass trockensauger",
+            "zuwachs": 100
+          },
+          {
+            "anfrage": "jonr ed12 nass trockensauger",
+            "zuwachs": 90
+          }
+        ],
+        "polsterreiniger": [
+          {
+            "anfrage": "ambiano teppich und polsterreiniger",
+            "zuwachs": 40000
+          },
+          {
+            "anfrage": "lichter blitz polsterreiniger",
+            "zuwachs": 38300
+          },
+          {
+            "anfrage": "ambiano polsterreiniger erfahrungen",
+            "zuwachs": 550
+          },
+          {
+            "anfrage": "cleanmaxx polsterreiniger",
+            "zuwachs": 300
+          },
+          {
+            "anfrage": "action polsterreiniger",
+            "zuwachs": 300
+          }
+        ],
+        "akkustaubsauger": [
+          {
+            "anfrage": "dyson akkustaubsauger v8 absolute",
+            "zuwachs": 500
+          },
+          {
+            "anfrage": "bester akkustaubsauger 2025",
+            "zuwachs": 300
+          },
+          {
+            "anfrage": "akkustaubsauger angebote",
+            "zuwachs": 140
+          },
+          {
+            "anfrage": "welcher akkustaubsauger ist der beste",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "beste akkustaubsauger",
+            "zuwachs": 60
+          }
+        ],
+        "hochdruckreiniger": [
+          {
+            "anfrage": "jetterix hochdruckreiniger",
+            "zuwachs": 29600
+          },
+          {
+            "anfrage": "jethose hochdruckreiniger",
+            "zuwachs": 1700
+          },
+          {
+            "anfrage": "hochdruckreiniger bei lidl",
+            "zuwachs": 700
+          },
+          {
+            "anfrage": "hochdruckreiniger von lidl",
+            "zuwachs": 350
+          },
+          {
+            "anfrage": "teleskoplanze für hochdruckreiniger",
+            "zuwachs": 170
+          }
+        ]
+      },
+      "kennzahlen": {
+        "dampfreiniger": {
+          "jetzt": 34,
+          "jahresmittel": 37.5,
+          "hoechstwert": 51,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -9,
+          "gegen_vor_3_monaten_prozent": 3
+        },
+        "nass trockensauger": {
+          "jetzt": 14,
+          "jahresmittel": 12.7,
+          "hoechstwert": 22,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": 10,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "polsterreiniger": {
+          "jetzt": 13,
+          "jahresmittel": 11.5,
+          "hoechstwert": 22,
+          "hoch_am": "2026-02-15",
+          "gegen_jahresmittel_prozent": 13,
+          "gegen_vor_3_monaten_prozent": -7
+        },
+        "akkustaubsauger": {
+          "jetzt": 7,
+          "jahresmittel": 7.4,
+          "hoechstwert": 16,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -5,
+          "gegen_vor_3_monaten_prozent": 17
+        },
+        "hochdruckreiniger": {
+          "jetzt": 36,
+          "jahresmittel": 42.7,
+          "hoechstwert": 100,
+          "hoch_am": "2026-04-05",
+          "gegen_jahresmittel_prozent": -16,
+          "gegen_vor_3_monaten_prozent": -46
+        }
+      }
+    },
+    {
+      "name": "werkzeug-auto",
+      "begriffe": [
+        "akkuschrauber",
+        "werkzeugkoffer",
+        "batterietester",
+        "anhängerkupplung",
+        "drehmomentschlüssel"
+      ],
+      "verlauf": {
+        "akkuschrauber": [
+          {
+            "datum": "2025-08-03",
+            "wert": 34
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 32
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 36
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 37
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 37
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 31
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 30
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 34
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 38
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 35
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 38
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 37
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 35
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 39
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 39
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 41
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 48
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 40
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 41
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 39
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 40
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 31
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 29
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 28
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 30
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 32
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 31
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 34
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 28
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 30
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 34
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 37
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 35
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 37
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 38
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 37
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 37
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 35
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 36
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 34
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 35
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 33
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 29
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 32
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 28
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 27
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 24
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 24
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 28
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 27
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 30
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 28
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 33
+          }
+        ],
+        "werkzeugkoffer": [
+          {
+            "datum": "2025-08-03",
+            "wert": 11
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 12
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 12
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 12
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 13
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 11
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 11
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 12
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 12
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 11
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 12
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 13
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 13
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 13
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 17
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 15
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 20
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 18
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 17
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 16
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 14
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 11
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 11
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 10
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 12
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 12
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 11
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 11
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 10
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 12
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 11
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 12
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 11
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 10
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 9
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 10
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 10
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 9
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 10
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 9
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 9
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 8
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 8
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 9
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 10
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 11
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 8
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 9
+          }
+        ],
+        "batterietester": [
+          {
+            "datum": "2025-08-03",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 2
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 2
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 2
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 2
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 2
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 2
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 2
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 2
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 1
+          }
+        ],
+        "anhängerkupplung": [
+          {
+            "datum": "2025-08-03",
+            "wert": 72
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 71
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 71
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 71
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 67
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 59
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 52
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 54
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 51
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 47
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 50
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 47
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 43
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 45
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 43
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 42
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 40
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 40
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 40
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 38
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 41
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 38
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 39
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 45
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 50
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 47
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 50
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 51
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 52
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 58
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 75
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 67
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 70
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 68
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 100
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 82
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 73
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 75
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 81
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 73
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 81
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 76
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 84
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 75
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 68
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 60
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 54
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 59
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 72
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 70
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 72
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 72
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 72
+          }
+        ],
+        "drehmomentschlüssel": [
+          {
+            "datum": "2025-08-03",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 13
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 12
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 12
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 13
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 13
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 14
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 15
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 17
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 17
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 17
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 17
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 18
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 13
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 13
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 12
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 11
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 10
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 9
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 10
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 11
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 9
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 10
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 9
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 10
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 13
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 14
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 14
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 15
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 19
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 17
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 16
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 18
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 16
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 15
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 14
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 14
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 12
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 11
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 11
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 12
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 12
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 11
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 13
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 12
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 14
+          }
+        ]
+      },
+      "steigend": {
+        "akkuschrauber": [
+          {
+            "anfrage": "makita akkuschrauber rosa",
+            "zuwachs": 50
+          }
+        ],
+        "werkzeugkoffer": [
+          {
+            "anfrage": "crivit fahrradwerkzeugkoffer 20-tlg reparaturset wartung werkzeugkoffer fahrrad",
+            "zuwachs": 23750
+          },
+          {
+            "anfrage": "werkzeugkoffer für frauen",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "sw stahl werkzeugkoffer",
+            "zuwachs": 40
+          }
+        ],
+        "anhängerkupplung": [
+          {
+            "anfrage": "anhängerkupplung mit montage",
+            "zuwachs": 160
+          },
+          {
+            "anfrage": "e auto mit anhängerkupplung",
+            "zuwachs": 100
+          },
+          {
+            "anfrage": "anhängerkupplung einbauen",
+            "zuwachs": 80
+          },
+          {
+            "anfrage": "anhängerkupplung montage",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "anhängerkupplung anbauen",
+            "zuwachs": 60
+          }
+        ],
+        "drehmomentschlüssel": [
+          {
+            "anfrage": "drehmomentschlüssel klimaanlage",
+            "zuwachs": 50
+          }
+        ]
+      },
+      "kennzahlen": {
+        "akkuschrauber": {
+          "jetzt": 33,
+          "jahresmittel": 33.8,
+          "hoechstwert": 48,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -2,
+          "gegen_vor_3_monaten_prozent": -3
+        },
+        "werkzeugkoffer": {
+          "jetzt": 9,
+          "jahresmittel": 11.6,
+          "hoechstwert": 20,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -22,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "batterietester": {
+          "jetzt": 1,
+          "jahresmittel": 1.3,
+          "hoechstwert": 2,
+          "hoch_am": "2025-10-12",
+          "gegen_jahresmittel_prozent": -21,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "anhängerkupplung": {
+          "jetzt": 72,
+          "jahresmittel": 60.2,
+          "hoechstwert": 100,
+          "hoch_am": "2026-03-29",
+          "gegen_jahresmittel_prozent": 20,
+          "gegen_vor_3_monaten_prozent": -1
+        },
+        "drehmomentschlüssel": {
+          "jetzt": 14,
+          "jahresmittel": 13.2,
+          "hoechstwert": 19,
+          "hoch_am": "2026-04-05",
+          "gegen_jahresmittel_prozent": 6,
+          "gegen_vor_3_monaten_prozent": -12
+        }
+      }
+    },
+    {
+      "name": "licht-energie",
+      "begriffe": [
+        "stirnlampe",
+        "taschenlampe",
+        "arbeitsleuchte",
+        "solar halterung",
+        "akku ladegerät"
+      ],
+      "verlauf": {
+        "stirnlampe": [
+          {
+            "datum": "2025-08-03",
+            "wert": 12
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 9
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 11
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 14
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 16
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 16
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 14
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 18
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 16
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 20
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 18
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 21
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 26
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 29
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 30
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 35
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 32
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 34
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 35
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 33
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 23
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 24
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 25
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 20
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 19
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 18
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 15
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 13
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 12
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 11
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 10
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 12
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 9
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 9
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 8
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 7
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 8
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 8
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 9
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 11
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 8
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 9
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 8
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 10
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 7
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 8
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 7
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 10
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 9
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 9
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 10
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 12
+          }
+        ],
+        "taschenlampe": [
+          {
+            "datum": "2025-08-03",
+            "wert": 59
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 59
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 65
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 68
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 64
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 67
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 68
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 69
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 72
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 75
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 83
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 85
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 93
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 91
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 98
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 97
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 100
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 99
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 99
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 98
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 90
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 87
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 97
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 78
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 82
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 75
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 71
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 64
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 60
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 61
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 54
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 59
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 52
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 58
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 53
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 50
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 59
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 44
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 45
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 45
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 44
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 44
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 45
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 47
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 41
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 40
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 45
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 41
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 44
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 46
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 55
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 53
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 59
+          }
+        ],
+        "arbeitsleuchte": [
+          {
+            "datum": "2025-08-03",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 3
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 7
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 5
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 5
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 6
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 5
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 7
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 6
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 9
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 8
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 7
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 8
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 6
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 6
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 5
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 5
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 6
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 8
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 7
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 7
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 5
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 6
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 5
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 4
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 4
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 4
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 3
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 4
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 4
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 2
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 2
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 4
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 3
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 3
+          }
+        ],
+        "solar halterung": [
+          {
+            "datum": "2025-08-03",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 3
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 2
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 3
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 2
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 2
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 2
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 2
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 2
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 3
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 2
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 3
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 2
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 2
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 3
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 2
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 3
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 3
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 3
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 7
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 6
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 6
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 7
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 6
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 5
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 6
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 4
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 6
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 4
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 5
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 5
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 4
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 4
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 4
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 4
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 4
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 4
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 4
+          }
+        ],
+        "akku ladegerät": [
+          {
+            "datum": "2025-08-03",
+            "wert": 38
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 38
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 36
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 36
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 32
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 34
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 32
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 36
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 36
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 32
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 36
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 35
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 36
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 37
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 37
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 35
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 38
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 34
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 30
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 27
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 31
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 29
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 28
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 27
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 29
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 28
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 29
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 28
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 26
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 31
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 39
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 36
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 35
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 36
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 38
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 42
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 35
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 46
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 47
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 44
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 43
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 43
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 46
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 48
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 38
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 41
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 34
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 35
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 36
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 36
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 40
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 36
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 37
+          }
+        ]
+      },
+      "steigend": {
+        "stirnlampe": [
+          {
+            "anfrage": "stubai stirnlampe",
+            "zuwachs": 30200
+          },
+          {
+            "anfrage": "stirnlampen-test stiftung warentest",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "ledlenser stirnlampe h8r",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "gute stirnlampe",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "milwaukee stirnlampe",
+            "zuwachs": 50
+          }
+        ],
+        "taschenlampe": [
+          {
+            "anfrage": "taschenlampe mit kurbel",
+            "zuwachs": 200
+          },
+          {
+            "anfrage": "hazet taschenlampe",
+            "zuwachs": 120
+          },
+          {
+            "anfrage": "mini taschenlampe schlüsselanhänger",
+            "zuwachs": 90
+          },
+          {
+            "anfrage": "wuben taschenlampe",
+            "zuwachs": 90
+          },
+          {
+            "anfrage": "taschenlampe kurbel",
+            "zuwachs": 80
+          }
+        ],
+        "arbeitsleuchte": [
+          {
+            "anfrage": "ikea arbeitsleuchte",
+            "zuwachs": 160
+          }
+        ]
+      },
+      "kennzahlen": {
+        "stirnlampe": {
+          "jetzt": 12,
+          "jahresmittel": 15.6,
+          "hoechstwert": 35,
+          "hoch_am": "2025-11-16",
+          "gegen_jahresmittel_prozent": -23,
+          "gegen_vor_3_monaten_prozent": 33
+        },
+        "taschenlampe": {
+          "jetzt": 59,
+          "jahresmittel": 66.0,
+          "hoechstwert": 100,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -11,
+          "gegen_vor_3_monaten_prozent": 31
+        },
+        "arbeitsleuchte": {
+          "jetzt": 3,
+          "jahresmittel": 4.6,
+          "hoechstwert": 9,
+          "hoch_am": "2025-11-09",
+          "gegen_jahresmittel_prozent": -35,
+          "gegen_vor_3_monaten_prozent": -25
+        },
+        "solar halterung": {
+          "jetzt": 4,
+          "jahresmittel": 3.5,
+          "hoechstwert": 7,
+          "hoch_am": "2026-03-08",
+          "gegen_jahresmittel_prozent": 13,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "akku ladegerät": {
+          "jetzt": 37,
+          "jahresmittel": 35.7,
+          "hoechstwert": 48,
+          "hoch_am": "2026-05-31",
+          "gegen_jahresmittel_prozent": 4,
+          "gegen_vor_3_monaten_prozent": -16
+        }
+      }
+    },
+    {
+      "name": "haus-technik",
+      "begriffe": [
+        "heißluftfritteuse",
+        "duschhocker",
+        "atemschutzmaske",
+        "kettensäge akku",
+        "wäschespinne"
+      ],
+      "verlauf": {
+        "heißluftfritteuse": [
+          {
+            "datum": "2025-08-03",
+            "wert": 53
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 47
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 51
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 54
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 53
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 52
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 47
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 57
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 64
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 72
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 66
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 70
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 70
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 63
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 78
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 80
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 100
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 73
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 67
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 64
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 83
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 80
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 71
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 58
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 59
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 60
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 56
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 54
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 50
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 41
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 38
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 38
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 43
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 43
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 46
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 40
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 37
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 36
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 37
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 30
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 34
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 34
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 33
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 31
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 35
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 27
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 31
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 28
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 28
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 27
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 32
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 36
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 34
+          }
+        ],
+        "duschhocker": [
+          {
+            "datum": "2025-08-03",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 1
+          }
+        ],
+        "atemschutzmaske": [
+          {
+            "datum": "2025-08-03",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 1
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 1
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 1
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 1
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 1
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 1
+          }
+        ],
+        "kettensäge akku": [
+          {
+            "datum": "2025-08-03",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 3
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 4
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 5
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 4
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 5
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 4
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 4
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 5
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 4
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 4
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 4
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 3
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 3
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 3
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 4
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 3
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 3
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 3
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 4
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 3
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 3
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 4
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 4
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 6
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 6
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 6
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 4
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 3
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 3
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 3
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 2
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 2
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 2
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 1
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 2
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 2
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 2
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 3
+          }
+        ],
+        "wäschespinne": [
+          {
+            "datum": "2025-08-03",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 4
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 3
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 2
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 2
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 2
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 1
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 1
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 1
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 1
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 1
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 3
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 5
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 4
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 3
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 3
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 3
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 3
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 4
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 5
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 3
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 3
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 4
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 5
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 3
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 4
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 3
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 4
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 2
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 3
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 3
+          }
+        ]
+      },
+      "steigend": {
+        "heißluftfritteuse": [
+          {
+            "anfrage": "chef cuisine heißluftfritteuse",
+            "zuwachs": 4200
+          },
+          {
+            "anfrage": "masterpro heißluftfritteuse",
+            "zuwachs": 500
+          },
+          {
+            "anfrage": "beste heißluftfritteuse 2025",
+            "zuwachs": 200
+          },
+          {
+            "anfrage": "bosch heißluftfritteuse",
+            "zuwachs": 200
+          },
+          {
+            "anfrage": "heißluftfritteuse test 2025",
+            "zuwachs": 170
+          }
+        ],
+        "duschhocker": [
+          {
+            "anfrage": "wenko duschhocker",
+            "zuwachs": 50
+          }
+        ],
+        "atemschutzmaske": [
+          {
+            "anfrage": "atemschutzmaske corona",
+            "zuwachs": 91600
+          },
+          {
+            "anfrage": "atemschutzmaske ffp3 kaufen",
+            "zuwachs": 54550
+          },
+          {
+            "anfrage": "3m atemschutzmaske einweg",
+            "zuwachs": 32550
+          },
+          {
+            "anfrage": "atemschutzmaske für brillenträger",
+            "zuwachs": 28600
+          },
+          {
+            "anfrage": "atemschutzmaske mit aktivkohlefilter",
+            "zuwachs": 250
+          }
+        ],
+        "kettensäge akku": [
+          {
+            "anfrage": "parkside akku kettensäge 40v",
+            "zuwachs": 60
+          }
+        ],
+        "wäschespinne": [
+          {
+            "anfrage": "wäschespinne garten",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "wäschespinne testsieger",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "schutzhülle für wäschespinne",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "hülle für wäschespinne",
+            "zuwachs": 50
+          }
+        ]
+      },
+      "kennzahlen": {
+        "heißluftfritteuse": {
+          "jetzt": 34,
+          "jahresmittel": 50.8,
+          "hoechstwert": 100,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": -33,
+          "gegen_vor_3_monaten_prozent": 13
+        },
+        "duschhocker": {
+          "jetzt": 1,
+          "jahresmittel": 1,
+          "hoechstwert": 1,
+          "hoch_am": "2025-08-03",
+          "gegen_jahresmittel_prozent": 0,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "atemschutzmaske": {
+          "jetzt": 1,
+          "jahresmittel": 0.9,
+          "hoechstwert": 1,
+          "hoch_am": "2025-08-03",
+          "gegen_jahresmittel_prozent": 13,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "kettensäge akku": {
+          "jetzt": 3,
+          "jahresmittel": 3.5,
+          "hoechstwert": 6,
+          "hoch_am": "2026-02-22",
+          "gegen_jahresmittel_prozent": -13,
+          "gegen_vor_3_monaten_prozent": 50
+        },
+        "wäschespinne": {
+          "jetzt": 3,
+          "jahresmittel": 2.2,
+          "hoechstwert": 5,
+          "hoch_am": "2026-03-01",
+          "gegen_jahresmittel_prozent": 34,
           "gegen_vor_3_monaten_prozent": 0
         }
       }
