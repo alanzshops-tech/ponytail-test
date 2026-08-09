@@ -1,0 +1,8 @@
+# Seiten, die laut Search Console vorn stehen und keine Klicks bekommen.
+# Eine URL je Zeile, Zeilen mit # werden übersprungen.
+https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz
+https://www.homeeins.de/products/gartentisch-pe-rattan-akazienholz
+https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet
+https://www.homeeins.de/collections/gartenmobel
+https://www.homeeins.de/en/collections/gartenmobel
+https://www.homeeins.de/collections/garten-outdoor

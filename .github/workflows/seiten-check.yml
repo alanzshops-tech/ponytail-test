@@ -1,0 +1,34 @@
+name: Seiten prüfen
+
+# Einmal-Werkzeug mit Dauerwert: Der Runner ruft die Seiten so ab, wie ein
+# Suchbot es täte, und zeigt Sprache, Canonical und hreflang. Aus der
+# abgeschotteten Arbeitsumgebung ist der Shop nicht erreichbar.
+on:
+  push:
+    branches: ["claude/**", main]
+    paths:
+      - "urls.txt"
+      - "scripts/seiten_check.py"
+      - ".github/workflows/seiten-check.yml"
+  workflow_dispatch:
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: URLs abrufen
+        run: |
+          set -o pipefail
+          python3 scripts/seiten_check.py --urls urls.txt | tee bericht.txt
+          {
+            echo '### Seitenprüfung'
+            echo ''
+            echo '```'
+            cat bericht.txt
+            echo '```'
+          } >> $GITHUB_STEP_SUMMARY
