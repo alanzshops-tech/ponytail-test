@@ -1,0 +1,102 @@
+name: Search Console erfassen
+
+# Holt wöchentlich die Suchleistung von homeeins.de aus der Google Search
+# Console und schreibt sie versioniert ins Repo. Die API ist kostenlos und
+# verlangt kein Abrechnungskonto — es braucht nur ein Dienstkonto.
+#
+# Montags 06:00 UTC, nach Reels (04:00) und Trends (05:00).
+#
+# Ohne das Secret GSC_SERVICE_ACCOUNT_JSON läuft der Job trotzdem durch und
+# gibt die Einrichtungsanleitung aus, statt rot zu werden.
+on:
+  push:
+    branches:
+      - "claude/**"
+      - main
+    paths:
+      - "scripts/gsc.py"
+      - ".github/workflows/gsc.yml"
+  workflow_dispatch:
+    inputs:
+      tage:
+        description: "Zeitraum in Tagen (Standard 28)"
+        required: false
+        default: "28"
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  gsc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: |
+          pip install --quiet google-api-python-client google-auth
+          python3 -c "import googleapiclient, google.oauth2; print('Google-Client bereit')"
+
+      - name: Search Console abfragen
+        env:
+          # Wird von GitHub maskiert und erscheint in keinem Log.
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: |
+          python3 scripts/gsc.py \
+            --property "sc-domain:homeeins.de" \
+            --out daten \
+            --tage "${{ inputs.tage || '28' }}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: |
+          if [ -f GSC.md ]; then
+            cat GSC.md >> $GITHUB_STEP_SUMMARY
+          else
+            {
+              echo "### Search Console noch nicht eingerichtet"
+              echo ""
+              echo "Das Secret \`GSC_SERVICE_ACCOUNT_JSON\` fehlt."
+              echo "Die Anleitung steht im Log des Abfrage-Schritts."
+            } >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Ergebnis committen
+        run: |
+          if [ ! -f GSC.md ]; then
+            echo "Nichts abgefragt, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten GSC.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "Search-Console-Daten vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gsc
+          path: |
+            daten/gsc-*.json
+            GSC.md
+          retention-days: 90
+          if-no-files-found: warn
