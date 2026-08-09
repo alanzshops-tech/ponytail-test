@@ -51,10 +51,21 @@ TESTADRESSE = {
 
 # Wonach in der Kasse gesucht wird. Die FAQ, die ich geschrieben habe,
 # nennt sechs Zahlarten — diese Liste prüft, ob das stimmt.
+#
+# „Rechnung" stand hier schon einmal und war ein Fehlalarm: Die Kasse
+# enthält die Zeile „Lieferadresse als Rechnungsadresse verwenden".
+# Genau derselbe Fehler wie neulich mit „Ausverkauft". Deshalb jetzt
+# Wortgrenzen und ein ausdrücklicher Ausschluss.
 ZAHLARTEN = ["PayPal", "Klarna", "Apple Pay", "Google Pay", "Shop Pay",
-             "Kreditkarte", "Credit card", "Visa", "Mastercard", "SEPA",
-             "Sofort", "Amazon Pay", "Rechnung", "Nachnahme",
-             "Vorkasse", "Überweisung", "iDEAL", "Bancontact"]
+             "Kreditkarte", "Visa", "Mastercard", "SEPA", "Lastschrift",
+             "Sofort", "Amazon Pay", "Nachnahme", "Vorkasse",
+             "Banküberweisung", "iDEAL", "Bancontact",
+             r"Rechnung(?!sadresse)"]
+
+
+def zahlarten_finden(text: str) -> list[str]:
+    return [z.split("(")[0] for z in ZAHLARTEN
+            if re.search(rf"\b{z}", text)]
 
 # Namen, die aus der Startseite verschwinden mussten.
 ERFUNDEN = ["Anna M.", "Thomas B.", "Sarah K.", "Michael S.", "Laura F.",
@@ -130,9 +141,16 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
                     ("kategorien", "Kategorien"),
                     ("faq", "Häufige Fragen")]:
                 ergebnis[f"hat_{name}"] = muster in text
+            # Nur innerhalb der Bestseller-Reihe zählen. Der erste Lauf
+            # zählte über die ganze Seite und meldete 28 Kacheln, wo acht
+            # eingestellt sind — die Karussell- und Kategoriekacheln waren
+            # mitgezählt. Eine Zahl ohne Bezugsrahmen ist keine Messung.
             ergebnis["produktkacheln"] = seite.evaluate(
-                """() => document.querySelectorAll(
-                     '.card__heading a, .card-wrapper a.full-unstyled-link').length""")
+                """() => {
+                  const s = document.querySelector(
+                    '#shopify-section-featured_collection');
+                  return s ? s.querySelectorAll('.card__heading').length : -1;
+                }""")
             ergebnis["leere_abschnitte"] = seite.evaluate("""() =>
               [...document.querySelectorAll('.shopify-section')]
                 .filter(s => s.innerText.trim().length === 0 &&
@@ -231,8 +249,23 @@ def kasse_probe(browser, pfad: str, bilder: Path) -> dict:
         foto(seite, bilder / "kauf-3-kasse.jpg")
 
         text = seite.inner_text("body")
-        k["zahlarten_vor_adresse"] = [z for z in ZAHLARTEN if z in text]
+        k["zahlarten_vor_adresse"] = zahlarten_finden(text)
         k["erreichbar"] = "checkout" in seite.url or "Bezahlen" in text
+
+        # ZUERST das Land. Der erste Lauf lief vom Runner aus, also aus den
+        # USA — die Kasse stand auf „Vereinigte Staaten", rechnete
+        # Auslandsversand und zeigte womöglich andere Zahlarten. Wer den
+        # deutschen Kaufweg prüfen will, muss Deutschland einstellen.
+        k["land_vorher"] = seite.evaluate(
+            """() => { const s = document.querySelector(
+                 "select[name='countryCode']"); return s ? s.value : null; }""")
+        try:
+            seite.select_option("select[name='countryCode']", "DE",
+                                timeout=10000)
+            seite.wait_for_timeout(4000)
+            k["land_gesetzt"] = "DE"
+        except Exception as e:                                   # noqa: BLE001
+            k["land_gesetzt"] = f"fehlgeschlagen: {str(e)[:110]}"
 
         # Testadresse eintragen, damit Versand und Zahlung berechnet werden.
         gefuellt = []
@@ -250,7 +283,21 @@ def kasse_probe(browser, pfad: str, bilder: Path) -> dict:
         seite.wait_for_timeout(6000)
 
         text2 = seite.inner_text("body")
-        k["zahlarten_nach_adresse"] = [z for z in ZAHLARTEN if z in text2]
+        k["zahlarten_nach_adresse"] = zahlarten_finden(text2)
+        # Der Zahlungsabschnitt für sich, damit die Namen aus der Liste
+        # stammen und nicht aus irgendeinem Fließtext daneben.
+        k["zahlungsabschnitt"] = seite.evaluate("""() => {
+          const abschnitte = [...document.querySelectorAll('section, div')]
+            .filter(e => /^Zahlung\\b/.test(e.innerText || ''));
+          if (!abschnitte.length) return null;
+          const e = abschnitte[abschnitte.length - 1];
+          return (e.innerText || '').slice(0, 900);
+        }""")
+        k["gesamt"] = seite.evaluate("""() => {
+          const m = (document.body.innerText || '')
+            .match(/Gesamt[\\s\\S]{0,80}?([\\d.]+,\\d{2}\\s*€)/);
+          return m ? m[1] : null;
+        }""")
         k["versandhinweis"] = [
             z.strip() for z in text2.splitlines()
             if re.search(r"Versand|Lieferung|Kostenlos", z)][:6]
@@ -332,7 +379,10 @@ def bericht(d: dict) -> str:
         z += [f"- Kasse erreichbar: "
               f"{'**ja**' if k.get('erreichbar') else '**NEIN**'} "
               f"(HTTP {k.get('status')})",
+              f"- Land voreingestellt: `{k.get('land_vorher')}`, "
+              f"umgestellt auf: `{k.get('land_gesetzt')}`",
               f"- Adresse: {', '.join(k.get('felder_gefuellt', [])) or 'keine Felder gefunden'}",
+              f"- Gesamtpreis in der Kasse: **{k.get('gesamt') or '?'}**",
               f"- Zahlarten vor Adresseingabe: "
               f"{', '.join(k.get('zahlarten_vor_adresse', [])) or '–'}",
               f"- Zahlarten nach Adresseingabe: "
@@ -341,6 +391,9 @@ def bericht(d: dict) -> str:
             z.append(f"- Meldung in der Kasse: „{f}\"")
         for s in k.get("versandhinweis", []):
             z.append(f"- Versandzeile: „{s}\"")
+        if k.get("zahlungsabschnitt"):
+            z += ["", "Der Zahlungsabschnitt im Wortlaut:", "",
+                  "```", k["zahlungsabschnitt"].strip(), "```"]
         z += ["", "Es wurde nichts bezahlt und nichts bestellt. Im "
               "Adminbereich erscheint ein abgebrochener Warenkorb auf "
               f"`{TESTADRESSE['email']}` — das ist der Beleg des Tests.", ""]
