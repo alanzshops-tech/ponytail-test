@@ -1,8 +1,15 @@
 name: Seiten prüfen
 
-# Einmal-Werkzeug mit Dauerwert: Der Runner ruft die Seiten so ab, wie ein
-# Suchbot es täte, und zeigt Sprache, Canonical und hreflang. Aus der
-# abgeschotteten Arbeitsumgebung ist der Shop nicht erreichbar.
+# Der Runner ruft die Seiten so ab, wie ein Suchbot es täte, und zeigt
+# Sprache, Canonical und hreflang. Aus der abgeschotteten Arbeitsumgebung
+# ist der Shop nicht erreichbar — der Egress-Proxy lässt nur GitHub und
+# PyPI durch. Deshalb passiert das hier und nicht dort.
+#
+# Zwei Betriebsarten:
+#   sitemap    alle Adressen aus der Sitemap plus je die /en/-Fassung,
+#              Ergebnis wird als SEITEN.md und daten/seiten-*.json
+#              versioniert. Sonntags, damit der Bericht montags vorliegt.
+#   urls       nur die Stichprobe aus urls.txt, ohne Commit.
 on:
   push:
     branches: ["claude/**", main]
@@ -11,24 +18,99 @@ on:
       - "scripts/seiten_check.py"
       - ".github/workflows/seiten-check.yml"
   workflow_dispatch:
+    inputs:
+      modus:
+        description: "sitemap (vollständig) oder urls (Stichprobe)"
+        type: choice
+        options: ["sitemap", "urls"]
+        default: "sitemap"
+      limit:
+        description: "nur die ersten N Adressen (0 = alle)"
+        required: false
+        default: "0"
+  schedule:
+    - cron: "0 3 * * 0"
+
+permissions:
+  contents: write
 
 jobs:
   pruefen:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: URLs abrufen
+
+      # Push und Zeitplan fahren immer den vollen Lauf; nur ein manueller
+      # Start darf auf die Stichprobe zurückschalten.
+      - name: Modus bestimmen
+        id: modus
+        run: echo "wert=${{ inputs.modus || 'sitemap' }}" >> $GITHUB_OUTPUT
+
+      - name: Stichprobe aus urls.txt
+        if: steps.modus.outputs.wert == 'urls'
         run: |
           set -o pipefail
           python3 scripts/seiten_check.py --urls urls.txt | tee bericht.txt
           {
-            echo '### Seitenprüfung'
+            echo '### Seitenprüfung (Stichprobe)'
             echo ''
             echo '```'
             cat bericht.txt
             echo '```'
           } >> $GITHUB_STEP_SUMMARY
+
+      - name: Vollständiger Lauf über die Sitemap
+        if: steps.modus.outputs.wert == 'sitemap'
+        run: |
+          python3 scripts/seiten_check.py \
+            --sitemap https://www.homeeins.de/sitemap.xml \
+            --out daten \
+            --limit "${{ inputs.limit || '0' }}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always() && steps.modus.outputs.wert == 'sitemap'
+        run: |
+          if [ -f SEITEN.md ]; then
+            cat SEITEN.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo '### Kein Bericht — siehe Log des vorigen Schritts' \
+              >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Ergebnis committen
+        if: steps.modus.outputs.wert == 'sitemap'
+        run: |
+          if [ ! -f SEITEN.md ]; then
+            echo "Nichts erzeugt, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten SEITEN.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "Seitenprüfung vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: seiten
+          path: |
+            daten/seiten-*.json
+            SEITEN.md
+            bericht.txt
+          retention-days: 90
+          if-no-files-found: warn
