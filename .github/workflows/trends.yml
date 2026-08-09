@@ -43,6 +43,19 @@ jobs:
       - name: Trends abfragen
         run: python3 scripts/trends.py --config trends.config.json --out daten
 
+      # Nischenbericht direkt hinterher: Er braucht frische Trends-Daten
+      # und die letzten CJ-Daten, beide liegen dann im Arbeitsverzeichnis.
+      # Faellt der CJ-Lauf aus, fehlt nur die Angebotsseite -- kein Grund,
+      # den Trends-Lauf rot zu machen.
+      - name: Nischen zusammenführen
+        continue-on-error: true
+        run: |
+          if [ -f daten/cj-aktuell.json ]; then
+            python3 scripts/nischen.py
+          else
+            echo "Keine CJ-Daten vorhanden, Nischenbericht übersprungen."
+          fi
+
       - name: Bericht in die Zusammenfassung
         if: always()
         run: |
@@ -55,7 +68,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daten TRENDS.md
+          git add daten TRENDS.md NISCHEN.md
           if git diff --cached --quiet; then
             echo "Keine Änderung, nichts zu committen."
             exit 0
@@ -76,5 +89,6 @@ jobs:
           path: |
             daten/
             TRENDS.md
+            NISCHEN.md
           retention-days: 90
           if-no-files-found: warn
