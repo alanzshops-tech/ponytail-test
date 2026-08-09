@@ -45,6 +45,29 @@ UST = 1.19          # Deutschland, Regelsteuersatz
 EZB = "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
 
 
+def bestand_de(token: str, sku: str) -> tuple[int, int, str]:
+    """Bestand je Lagerhaus. Gibt (Deutschland, weltweit, Lagername).
+
+    Die Trefferliste liefert warehouseInventoryNum — ohne Angabe, ob das
+    der deutsche oder der weltweite Bestand ist. Das Beispiel in der
+    Dokumentation zeigt China mit 777.566 neben US mit 36, also ist die
+    Summe global. Wer daraus deutschen Bestand liest, plant mit Ware, die
+    in Yiwu liegt."""
+    time.sleep(TAKT)
+    a = anfrage("product/stock/queryBySku", token=token, params={"sku": sku})
+    if not a.get("result"):
+        return 0, 0, ""
+    lager = a.get("data") or []
+    de = next((w for w in lager if w.get("countryCode") == "DE"), None)
+    welt = sum(int(w.get("totalInventoryNum") or 0) for w in lager)
+    if not de:
+        return 0, welt, ""
+    # cjInventoryNum ist die Ware, die wirklich im CJ-Lager steht.
+    # totalInventoryNum zaehlt Fabrikbestand mit, der erst anreisen muss.
+    return (int(de.get("cjInventoryNum") or 0), welt,
+            de.get("areaEn", "Germany Warehouse"))
+
+
 def kurs_usd_eur() -> tuple[float, str]:
     """Tageskurs der EZB. Gibt (EUR je USD, Datum) zurück."""
     with urllib.request.urlopen(EZB, timeout=30) as a:
@@ -133,6 +156,10 @@ def main() -> None:
     ap.add_argument("--cj", default="daten/cj-aktuell.json")
     ap.add_argument("--nischen", default="nischen.config.json")
     ap.add_argument("--je-nische", type=int, default=2, dest="je_nische")
+    # CJ liefert Preise in der Waehrung des Kontos. Die Dokumentation nennt
+    # nur bei der Fracht ausdruecklich USD. Wer hier falsch liegt, verfehlt
+    # den Faktor um den Wechselkurs — deshalb steht die Annahme im Bericht.
+    ap.add_argument("--waehrung", choices=["EUR", "USD"], default="EUR")
     a = ap.parse_args()
 
     schluessel = os.environ.get("CJ_API_KEY", "").strip()
@@ -140,8 +167,13 @@ def main() -> None:
         print(ANLEITUNG)
         return
 
-    kurs, kursdatum = kurs_usd_eur()
-    print(f"EZB-Kurs vom {kursdatum}: 1 USD = {kurs:.4f} EUR")
+    if a.waehrung == "USD":
+        kurs, kursdatum = kurs_usd_eur()
+        print(f"CJ-Preise in USD · EZB-Kurs vom {kursdatum}: "
+              f"1 USD = {kurs:.4f} EUR")
+    else:
+        kurs, kursdatum = 1.0, "keine Umrechnung"
+        print("CJ-Preise in EUR laut Kontoeinstellung — keine Umrechnung")
     token = token_holen(schluessel)
     liste = kandidaten(Path(a.cj), Path(a.nischen), a.je_nische)
     print(f"{len(liste)} Kandidaten werden gerechnet\n")
@@ -165,12 +197,16 @@ def main() -> None:
         vid = v.get("vid") or v.get("variantId") or ""
         fracht, traeger, dauer, optionen = (versand(token, vid) if vid
                                             else (0.0, "", "", []))
+        de_stk, welt_stk, lagername = bestand_de(token, p["sku"])
         einkauf = preis(v)
         einstand = (einkauf + fracht) * kurs
         netto = einstand * a.faktor
         zeilen.append({
             "nische": p["nische"], "name": p["name"], "sku": p["sku"],
-            "gelistet_von": p["gelistet_von"], "bestand": p["bestand"],
+            "gelistet_von": p["gelistet_von"],
+            "bestand_liste": p["bestand"],
+            "bestand_de": de_stk, "bestand_welt": welt_stk,
+            "lager": lagername,
             "einkauf_usd": round(einkauf, 2), "fracht_usd": round(fracht, 2),
             "einstand_eur": round(einstand, 2),
             "vk_netto": round(netto, 2), "vk_brutto": round(netto * UST, 2),
@@ -178,8 +214,9 @@ def main() -> None:
             "versand_inklusive": p.get("versand_inklusive"),
             "versandoptionen": optionen,
         })
-        print(f"  {p['nische'][:22]:<24} Einkauf ${einkauf:6.2f} + Fracht "
-              f"${fracht:5.2f} -> VK brutto {netto * UST:7.2f} EUR")
+        print(f"  {p['nische'][:22]:<24} EK {einkauf:6.2f} + Fracht "
+              f"{fracht:5.2f} -> VK brutto {netto * UST:7.2f} EUR "
+              f"| DE {de_stk:>5} von weltweit {welt_stk}")
         if len(zeilen) <= 3:
             print(f"      Versandoptionen laut CJ: {optionen}")
 
@@ -190,23 +227,34 @@ def main() -> None:
     Path("daten/marge-aktuell.json").write_text(
         json.dumps(ergebnis, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    waehrungszeile = (f"Preise in EUR laut Kontoeinstellung"
+                      if a.waehrung == "EUR" else
+                      f"Preise in USD · EZB-Kurs vom {kursdatum}: "
+                      f"1 USD = {kurs:.4f} EUR")
     z = [f"# Verkaufspreise bei Faktor {a.faktor:g}", "",
-         f"Stand {ergebnis['stand']} · EZB-Kurs vom {kursdatum}: "
-         f"1 USD = {kurs:.4f} EUR · Umsatzsteuer 19 %", "",
+         f"Stand {ergebnis['stand']} · {waehrungszeile} · "
+         f"Umsatzsteuer 19 %", "",
+         "**Bestand DE** ist der Bestand im deutschen CJ-Lager, einzeln "
+         "je Artikel abgefragt. Die Zahl aus der Trefferliste zählt alle "
+         "Lager weltweit zusammen und taugt für die Planung nicht.", "",
          "CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in "
          "Euro; wo CJ den Versand im Preis führt (Spalte *frei*), ist die "
          "Fracht null. "
          f"Der Faktor liegt auf dem **Nettopreis**; die Bruttospalte ist "
          f"das, was im Shop steht.", "",
-         "| Nische | Artikel | Einkauf $ | Fracht $ | frei | Einstand € | "
-         "VK netto € | **VK brutto €** | Händler | Laufzeit |",
-         "|---|---|---:|---:|:-:|---:|---:|---:|---:|---|"]
-    for r in sorted(zeilen, key=lambda x: x["vk_brutto"]):
+         "| Nische | Artikel | Einkauf | Fracht | frei | Einstand € | "
+         "VK netto € | **VK brutto €** | Bestand DE | weltweit | "
+         "Händler | Laufzeit |",
+         "|---|---|---:|---:|:-:|---:|---:|---:|---:|---:|---:|---|"]
+    # Ohne Ware in Deutschland ist der Preis egal — solche Zeilen nach
+    # unten, nicht heimlich weglassen.
+    for r in sorted(zeilen, key=lambda x: (x["bestand_de"] == 0, x["vk_brutto"])):
         frei = {1: "ja", 0: "nein"}.get(r.get("versand_inklusive"), "?")
         z.append(f"| {r['nische']} | {r['name'][:44]} | {r['einkauf_usd']} "
                  f"| {r['fracht_usd']} | {frei} "
                  f"| {r['einstand_eur']} | {r['vk_netto']} "
-                 f"| **{r['vk_brutto']}** | {r['gelistet_von']} "
+                 f"| **{r['vk_brutto']}** | {r['bestand_de']} "
+                 f"| {r['bestand_welt']} | {r['gelistet_von']} "
                  f"| {r['laufzeit'] or '—'} |")
     z += ["", "Die Fracht ist für **ein** Stück nach Deutschland gerechnet. "
           "Bei zwei Artikeln in einer Bestellung sinkt sie je Stück — der "
