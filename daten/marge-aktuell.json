@@ -17,7 +17,29 @@
       "vk_netto": 51.78,
       "vk_brutto": 61.61,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Hocker mit Stauraum",
@@ -31,7 +53,29 @@
       "vk_netto": 48.35,
       "vk_brutto": 57.54,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Kommode",
@@ -45,7 +89,29 @@
       "vk_netto": 95.36,
       "vk_brutto": 113.48,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Kommode",
@@ -59,7 +125,29 @@
       "vk_netto": 61.66,
       "vk_brutto": 73.38,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Wäschesortierer",
@@ -73,7 +161,29 @@
       "vk_netto": 57.17,
       "vk_brutto": 68.04,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Wäschesortierer",
@@ -87,7 +197,29 @@
       "vk_netto": 71.35,
       "vk_brutto": 84.9,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Couchtisch",
@@ -101,7 +233,29 @@
       "vk_netto": 183.07,
       "vk_brutto": 217.86,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Couchtisch",
@@ -115,7 +269,29 @@
       "vk_netto": 121.33,
       "vk_brutto": 144.38,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Bürostuhl",
@@ -129,7 +305,29 @@
       "vk_netto": 181.01,
       "vk_brutto": 215.41,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Bürostuhl",
@@ -143,7 +341,14 @@
       "vk_netto": 53.88,
       "vk_brutto": 64.12,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Raumteiler",
@@ -157,7 +362,14 @@
       "vk_netto": 118.66,
       "vk_brutto": 141.21,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Dampfreiniger",
@@ -171,7 +383,14 @@
       "vk_netto": 217.69,
       "vk_brutto": 259.05,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Dampfreiniger",
@@ -185,7 +404,14 @@
       "vk_netto": 75.96,
       "vk_brutto": 90.4,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Polsterreiniger",
@@ -199,7 +425,14 @@
       "vk_netto": 101.5,
       "vk_brutto": 120.78,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Polsterreiniger",
@@ -213,7 +446,14 @@
       "vk_netto": 88.77,
       "vk_brutto": 105.64,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Nass-Trockensauger",
@@ -227,7 +467,14 @@
       "vk_netto": 94.17,
       "vk_brutto": 112.06,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Nass-Trockensauger",
@@ -241,7 +488,14 @@
       "vk_netto": 68.9,
       "vk_brutto": 81.99,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Akkustaubsauger",
@@ -255,7 +509,14 @@
       "vk_netto": 28.61,
       "vk_brutto": 34.04,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Akkustaubsauger",
@@ -269,7 +530,14 @@
       "vk_netto": 43.56,
       "vk_brutto": 51.84,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Hochdruckreiniger",
@@ -283,7 +551,14 @@
       "vk_netto": 56.29,
       "vk_brutto": 66.98,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Akkuschrauber",
@@ -297,7 +572,14 @@
       "vk_netto": 34.35,
       "vk_brutto": 40.88,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Akkuschrauber",
@@ -311,7 +593,14 @@
       "vk_netto": 43.06,
       "vk_brutto": 51.25,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Werkzeugkoffer",
@@ -325,7 +614,14 @@
       "vk_netto": 42.46,
       "vk_brutto": 50.52,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Werkzeugkoffer",
@@ -339,7 +635,14 @@
       "vk_netto": 29.8,
       "vk_brutto": 35.46,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Batterietester",
@@ -353,7 +656,14 @@
       "vk_netto": 38.86,
       "vk_brutto": 46.24,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Anhängerkupplung",
@@ -367,7 +677,14 @@
       "vk_netto": 90.46,
       "vk_brutto": 107.65,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Anhängerkupplung",
@@ -381,7 +698,14 @@
       "vk_netto": 38.69,
       "vk_brutto": 46.04,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Drehmomentschlüssel",
@@ -395,7 +719,14 @@
       "vk_netto": 40.77,
       "vk_brutto": 48.51,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Drehmomentschlüssel",
@@ -409,7 +740,14 @@
       "vk_netto": 48.16,
       "vk_brutto": 57.31,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Stirnlampe",
@@ -423,7 +761,14 @@
       "vk_netto": 22.21,
       "vk_brutto": 26.44,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Stirnlampe",
@@ -437,7 +782,14 @@
       "vk_netto": 19.94,
       "vk_brutto": 23.73,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Taschenlampe",
@@ -451,7 +803,14 @@
       "vk_netto": 14.98,
       "vk_brutto": 17.82,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Taschenlampe",
@@ -465,7 +824,14 @@
       "vk_netto": 31.34,
       "vk_brutto": 37.29,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Arbeitsleuchte",
@@ -479,7 +845,14 @@
       "vk_netto": 38.77,
       "vk_brutto": 46.14,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Solar-Halterung",
@@ -493,7 +866,39 @@
       "vk_netto": 168.27,
       "vk_brutto": 200.24,
       "versandart": "DPD DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Solar-Halterung",
@@ -507,7 +912,14 @@
       "vk_netto": 43.48,
       "vk_brutto": 51.74,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Akku-Ladegerät",
@@ -521,7 +933,14 @@
       "vk_netto": 17.34,
       "vk_brutto": 20.63,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Heißluftfritteuse",
@@ -535,7 +954,29 @@
       "vk_netto": 98.96,
       "vk_brutto": 117.76,
       "versandart": "UPS DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Duschhocker",
@@ -549,7 +990,14 @@
       "vk_netto": 58.82,
       "vk_brutto": 70.0,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Duschhocker",
@@ -563,7 +1011,14 @@
       "vk_netto": 49.57,
       "vk_brutto": 58.98,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Atemschutzmaske",
@@ -577,7 +1032,14 @@
       "vk_netto": 40.51,
       "vk_brutto": 48.2,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Atemschutzmaske",
@@ -591,7 +1053,14 @@
       "vk_netto": 18.53,
       "vk_brutto": 22.05,
       "versandart": "DHL DE to DE #4",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Kettensäge",
@@ -605,7 +1074,14 @@
       "vk_netto": 22.37,
       "vk_brutto": 26.62,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Wäschespinne",
@@ -619,7 +1095,14 @@
       "vk_netto": 32.7,
       "vk_brutto": 38.92,
       "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Katzenhaus draußen",
@@ -633,7 +1116,39 @@
       "vk_netto": 137.65,
       "vk_brutto": 163.8,
       "versandart": "DPD DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Katzenhaus draußen",
@@ -647,7 +1162,39 @@
       "vk_netto": 132.68,
       "vk_brutto": 157.89,
       "versandart": "DPD DE to DE",
-      "laufzeit": "3-5"
+      "laufzeit": "3-5",
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
     },
     {
       "nische": "Gewichtsdecke",
@@ -661,7 +1208,19 @@
       "vk_netto": 27.37,
       "vk_brutto": 32.57,
       "versandart": "DE-DHL",
-      "laufzeit": "1-3"
+      "laufzeit": "1-3",
+      "versandoptionen": [
+        {
+          "name": "DE-DHL",
+          "preis": 8.94,
+          "dauer": "1-3"
+        },
+        {
+          "name": "DE-GLS",
+          "preis": 10.87,
+          "dauer": "2-6"
+        }
+      ]
     }
   ]
 }
