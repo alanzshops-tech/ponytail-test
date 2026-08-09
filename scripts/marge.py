@@ -175,6 +175,7 @@ def main() -> None:
             "einstand_eur": round(einstand, 2),
             "vk_netto": round(netto, 2), "vk_brutto": round(netto * UST, 2),
             "versandart": traeger, "laufzeit": dauer,
+            "versand_inklusive": p.get("versand_inklusive"),
             "versandoptionen": optionen,
         })
         print(f"  {p['nische'][:22]:<24} Einkauf ${einkauf:6.2f} + Fracht "
@@ -192,16 +193,19 @@ def main() -> None:
     z = [f"# Verkaufspreise bei Faktor {a.faktor:g}", "",
          f"Stand {ergebnis['stand']} · EZB-Kurs vom {kursdatum}: "
          f"1 USD = {kurs:.4f} EUR · Umsatzsteuer 19 %", "",
-         "CJ rechnet in Dollar und berechnet den Versand getrennt — auch "
-         "innerhalb Deutschlands. **Einstand** ist beides zusammen in Euro. "
+         "CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in "
+         "Euro; wo CJ den Versand im Preis führt (Spalte *frei*), ist die "
+         "Fracht null. "
          f"Der Faktor liegt auf dem **Nettopreis**; die Bruttospalte ist "
          f"das, was im Shop steht.", "",
-         "| Nische | Artikel | Einkauf $ | Fracht $ | Einstand € | "
+         "| Nische | Artikel | Einkauf $ | Fracht $ | frei | Einstand € | "
          "VK netto € | **VK brutto €** | Händler | Laufzeit |",
-         "|---|---|---:|---:|---:|---:|---:|---:|---|"]
+         "|---|---|---:|---:|:-:|---:|---:|---:|---:|---|"]
     for r in sorted(zeilen, key=lambda x: x["vk_brutto"]):
+        frei = {1: "ja", 0: "nein"}.get(r.get("versand_inklusive"), "?")
         z.append(f"| {r['nische']} | {r['name'][:44]} | {r['einkauf_usd']} "
-                 f"| {r['fracht_usd']} | {r['einstand_eur']} | {r['vk_netto']} "
+                 f"| {r['fracht_usd']} | {frei} "
+                 f"| {r['einstand_eur']} | {r['vk_netto']} "
                  f"| **{r['vk_brutto']}** | {r['gelistet_von']} "
                  f"| {r['laufzeit'] or '—'} |")
     z += ["", "Die Fracht ist für **ein** Stück nach Deutschland gerechnet. "

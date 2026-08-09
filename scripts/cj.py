@@ -150,6 +150,10 @@ def suchen(token: str, begriff: str, cfg: dict) -> tuple[list[dict], int]:
                     "bestand": p.get("warehouseInventoryNum", 0),
                     "bestand_geprueft": p.get("totalVerifiedInventory", 0),
                     "gelistet_von": p.get("listedNum", 0),
+                    # addMarkStatus: 1 = Versand im Preis enthalten. Das
+                    # Feld entscheidet, ob eine Fracht von 0,00 ein echtes
+                    # Angebot ist oder eine Luecke in der Auskunft.
+                    "versand_inklusive": p.get("addMarkStatus"),
                     "bearbeitung_tage": p.get("deliveryCycle", ""),
                     "kategorie": p.get("threeCategoryName", ""),
                     "bild": p.get("bigImage", ""),
