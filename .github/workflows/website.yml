@@ -1,0 +1,103 @@
+name: Shop messen
+
+# Fotografiert den Shop und misst, was ein Besucher erlebt. Die
+# abgeschottete Arbeitsumgebung erreicht den Shop nicht — ohne diesen
+# Lauf gibt es weder Bilder noch Ladezeiten, und ohne beides kein Urteil
+# über Design oder Conversion.
+#
+# Zusätzlich Lighthouse, Googles eigenes Messwerkzeug: Es liefert die
+# Kennzahlen, nach denen Google selbst bewertet.
+on:
+  workflow_dispatch:
+  push:
+    branches: ["claude/**", main]
+    paths:
+      - "urls-shop.txt"
+      - "scripts/webcheck.py"
+      - ".github/workflows/website.yml"
+  # Montags 07:00 UTC, nach dem Search-Console-Bericht.
+  schedule:
+    - cron: "0 7 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  messen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Browser einrichten
+        run: |
+          pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+
+      - name: Fotografieren und messen
+        run: python3 scripts/webcheck.py --urls urls-shop.txt
+
+      # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
+      # die Mehrheit ankommt und die Schwächen sichtbarer sind.
+      - name: Lighthouse
+        continue-on-error: true
+        run: |
+          npm install -g lighthouse@12 --silent
+          mkdir -p daten/lighthouse
+          while read -r u; do
+            case "$u" in ''|\#*) continue;; esac
+            name=$(echo "$u" | sed 's|https://www.homeeins.de||; s|[^A-Za-z0-9]|-|g; s|^-*||; s|-*$||')
+            [ -z "$name" ] && name=startseite
+            echo "Lighthouse: $u"
+            lighthouse "$u" --quiet --preset=desktop --output=json \
+              --output-path="daten/lighthouse/$name.json" \
+              --chrome-flags="--headless --no-sandbox" \
+              --only-categories=performance,accessibility,best-practices,seo \
+              || echo "  fehlgeschlagen"
+          done < urls-shop.txt
+          python3 - <<'PY'
+          import json, pathlib
+          zeilen = ["", "## Lighthouse (Google-Bewertung, Desktop)", "",
+                    "| Seite | Tempo | Barrierefreiheit | Praxis | SEO |",
+                    "|---|---:|---:|---:|---:|"]
+          for f in sorted(pathlib.Path("daten/lighthouse").glob("*.json")):
+              try:
+                  d = json.loads(f.read_text())
+              except Exception:
+                  continue
+              c = d.get("categories", {})
+              def s(k):
+                  v = (c.get(k) or {}).get("score")
+                  return round(v * 100) if v is not None else "–"
+              zeilen.append(f"| {f.stem} | {s('performance')} | "
+                            f"{s('accessibility')} | {s('best-practices')} | {s('seo')} |")
+          zeilen += ["", "Skala 0 bis 100. Unter 50 ist rot, ab 90 gut.", ""]
+          p = pathlib.Path("WEBSITE.md")
+          p.write_text(p.read_text(encoding="utf-8") + "\n".join(zeilen) + "\n",
+                       encoding="utf-8")
+          print("Lighthouse-Werte an WEBSITE.md angehängt")
+          PY
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f WEBSITE.md ] && cat WEBSITE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bilder WEBSITE.md daten/webcheck-aktuell.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((v * 5))
+          done
+          exit 1

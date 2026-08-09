@@ -1,0 +1,7 @@
+# Die Seiten, die über einen Kauf entscheiden.
+# Startseite, eine Kollektion, zwei Produkte, Warenkorb.
+https://www.homeeins.de/
+https://www.homeeins.de/collections/hunde
+https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl
+https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar
+https://www.homeeins.de/cart
