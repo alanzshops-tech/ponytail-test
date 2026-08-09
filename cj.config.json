@@ -3,9 +3,7 @@
   "mindestbestand": 1,
   "treffer": 40,
   "begriffe": [
-    "*",
-    "dog",
-    "pet",
-    "hund"
-  ]
+    "*"
+  ],
+  "seiten": 5
 }

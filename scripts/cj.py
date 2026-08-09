@@ -28,6 +28,7 @@ Aufruf:
 from __future__ import annotations
 
 import argparse
+import collections
 import json
 import os
 import sys
@@ -108,41 +109,52 @@ def lager_pruefen(token: str) -> bool:
     return bool(de)
 
 
-def suchen(token: str, begriff: str, cfg: dict) -> list[dict]:
-    time.sleep(TAKT)
-    a = anfrage("product/listV2", token=token, params={
-        "keyWord": None if begriff == "*" else begriff,
-        "countryCode": "DE",              # nur mit Bestand in Deutschland
-        "verifiedWarehouse": 1,           # nur geprüfter Bestand
-        "startWarehouseInventory": cfg.get("mindestbestand", 20),
-        "startSellPrice": cfg.get("preis_von"),
-        "endSellPrice": cfg.get("preis_bis"),
-        "size": cfg.get("treffer", 40),
-        "page": 1,
-        "orderBy": 4,                     # nach Bestand sortieren
-        "sort": "desc",
-    })
-    if not a.get("result"):
-        print(f"    Abfrage fehlgeschlagen: {a.get('message')}")
-        return [], 0
-    gesamt = (a.get("data") or {}).get("totalRecords", 0)
+def suchen(token: str, begriff: str, cfg: dict) -> tuple[list[dict], int]:
+    """Holt alle Seiten, nicht nur die erste. Bei 368 Artikeln im Lager
+    ist die erste Seite ein Ausschnitt — und ein Ausschnitt beantwortet
+    die Frage 'was gibt es dort' nicht."""
     treffer: list[dict] = []
-    # data.content ist eine Liste, jeder Eintrag trägt eine productList.
-    for block in (a.get("data", {}).get("content") or []):
-        for p in (block.get("productList") or []):
-            treffer.append({
-                "name": p.get("nameEn", ""),
-                "sku": p.get("sku", ""),
-                "preis": p.get("sellPrice"),
-                "preis_aktion": p.get("nowPrice"),
-                "bestand": p.get("warehouseInventoryNum", 0),
-                "bestand_geprueft": p.get("totalVerifiedInventory", 0),
-                "gelistet_von": p.get("listedNum", 0),
-                "bearbeitung_tage": p.get("deliveryCycle", ""),
-                "kategorie": p.get("threeCategoryName", ""),
-                "bild": p.get("bigImage", ""),
-                "id": p.get("id", ""),
-            })
+    gesamt = 0
+    seiten_max = cfg.get("seiten", 10)
+    for seite in range(1, seiten_max + 1):
+        time.sleep(TAKT)
+        a = anfrage("product/listV2", token=token, params={
+            "keyWord": None if begriff == "*" else begriff,
+            "countryCode": "DE",              # nur mit Bestand in Deutschland
+            "verifiedWarehouse": 1,           # nur geprüfter Bestand
+            "startWarehouseInventory": cfg.get("mindestbestand", 1),
+            "startSellPrice": cfg.get("preis_von"),
+            "endSellPrice": cfg.get("preis_bis"),
+            "size": 100,                      # Maximum laut Dokumentation
+            "page": seite,
+            "orderBy": 4,                     # nach Bestand sortieren
+            "sort": "desc",
+        })
+        if not a.get("result"):
+            print(f"    Seite {seite} fehlgeschlagen: {a.get('message')}")
+            break
+        gesamt = (a.get("data") or {}).get("totalRecords", gesamt)
+        vorher = len(treffer)
+        # data.content ist eine Liste, jeder Eintrag trägt eine productList.
+        for block in (a.get("data", {}).get("content") or []):
+            for p in (block.get("productList") or []):
+                treffer.append({
+                    "name": p.get("nameEn", ""),
+                    "sku": p.get("sku", ""),
+                    "preis": p.get("sellPrice"),
+                    "preis_aktion": p.get("nowPrice"),
+                    "bestand": p.get("warehouseInventoryNum", 0),
+                    "bestand_geprueft": p.get("totalVerifiedInventory", 0),
+                    "gelistet_von": p.get("listedNum", 0),
+                    "bearbeitung_tage": p.get("deliveryCycle", ""),
+                    "kategorie": p.get("threeCategoryName", ""),
+                    "bild": p.get("bigImage", ""),
+                    "id": p.get("id", ""),
+                })
+        neu = len(treffer) - vorher
+        print(f"    Seite {seite}: {neu} Artikel (bisher {len(treffer)})")
+        if neu == 0 or len(treffer) >= gesamt:
+            break
     return treffer, gesamt
 
 
@@ -164,6 +176,15 @@ def bericht(daten: dict) -> str:
         if not treffer:
             z += ["Nichts mit geprüftem Bestand im deutschen Lager.", ""]
             continue
+        # Kategorien zuerst: Bei 368 Artikeln beantwortet die Frage
+        # "was liegt da überhaupt" keine Einzelzeile, sondern die
+        # Verteilung. Der erste Lauf hätte sonst wie ein Zufallsfund
+        # ausgesehen statt wie ein Lagerprofil.
+        kat = collections.Counter(p["kategorie"] or "ohne Angabe"
+                                  for p in treffer)
+        if len(treffer) > 20:
+            z += ["**Was dort liegt:** " + " · ".join(
+                f"{name} ({n})" for name, n in kat.most_common(12)), ""]
         z.append("| Artikel | Preis | Bestand DE | gelistet von | Bearb. | SKU |")
         z.append("|---|---:|---:|---:|---|---|")
         for p in sorted(treffer, key=lambda x: -x["bestand"])[:20]:
@@ -172,11 +193,16 @@ def bericht(daten: dict) -> str:
                      f"| `{p['sku']}` |")
         z.append("")
         wenig = [p for p in treffer
-                 if p["gelistet_von"] <= 5 and p["bestand"] >= 50]
+                 if p["gelistet_von"] <= 5 and p["bestand"] >= 300]
         if wenig:
-            z += [f"**Viel Bestand, kaum gelistet ({len(wenig)}):** "
-                  + ", ".join(f"{p['name'][:40]} ({p['gelistet_von']}×)"
-                              for p in wenig[:8]), ""]
+            z += ["", f"**Viel Bestand (ab 300), kaum gelistet (höchstens 5 "
+                  f"Händler) — {len(wenig)} Artikel:**", "",
+                  "| Artikel | Preis | Bestand | gelistet von |",
+                  "|---|---:|---:|---:|"]
+            for p in sorted(wenig, key=lambda x: x["gelistet_von"])[:25]:
+                z.append(f"| {p['name'][:60]} | {p['preis']} "
+                         f"| {p['bestand']} | {p['gelistet_von']} |")
+            z.append("")
     return "\n".join(z) + "\n"
 
 
