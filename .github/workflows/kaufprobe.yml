@@ -1,0 +1,63 @@
+name: Kaufprobe
+
+# Sieht sich die Theme-Kopie an und versucht, im Shop einzukaufen.
+# Beides geht nur mit einem echten Browser im Netz — die abgeschottete
+# Arbeitsumgebung erreicht homeeins.de nicht.
+#
+# Der Lauf bezahlt nichts. Er legt Ware in den Korb, ruft die Kasse auf
+# und hört dort auf. Zurück bleibt ein abgebrochener Warenkorb auf einer
+# example.com-Adresse.
+on:
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "ID der Theme-Kopie für die Vorschau"
+        required: true
+        default: "182664626499"
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "scripts/kaufprobe.py"
+      - ".github/workflows/kaufprobe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Browser einrichten
+        run: |
+          pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+
+      - name: Probe laufen lassen
+        env:
+          THEME: ${{ inputs.theme || '182664626499' }}
+        run: python3 scripts/kaufprobe.py --theme "$THEME"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f KAUFPROBE.md ] && cat KAUFPROBE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bilder KAUFPROBE.md daten/kaufprobe.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Kaufprobe vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((v * 5))
+          done
+          exit 1
