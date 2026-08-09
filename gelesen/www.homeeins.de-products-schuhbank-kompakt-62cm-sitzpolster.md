@@ -1,10 +1,11 @@
 # Schuhbank kompakt 62cm – Homeeins
 
 - Quelle: https://www.homeeins.de/products/schuhbank-kompakt-62cm-sitzpolster
-- Abgerufen: 2026-08-09 17:24 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 54 / en 1)
 - Extraktion: trafilatura
 - Zeichen: 1492
+- Verfügbarkeit: 6 von 7 Varianten lieferbar, 1 ausverkauft · Seite zeigt „Ausverkauft“
 
 ---
 # Moderne Schuhbank mit Sitzpolster – Platzsparende Flurbank mit Stauraum bis 110 kg belastbar

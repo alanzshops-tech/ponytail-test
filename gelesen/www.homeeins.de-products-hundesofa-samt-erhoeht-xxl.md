@@ -2,10 +2,11 @@
  – Homeeins
 
 - Quelle: https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl
-- Abgerufen: 2026-08-09 17:25 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 85 / en 1)
 - Extraktion: trafilatura
 - Zeichen: 2757
+- Verfügbarkeit: 5 von 5 Varianten lieferbar · Seite zeigt „Ausverkauft“
 
 ---
 # Erhöhtes Hundebett mit Beinen – Luxus Hunde-Sofa aus Samt, stabil bis 50 kg

@@ -1,10 +1,11 @@
 # Kratzbaum für Katzen kompakt – Homeeins
 
 - Quelle: https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch
-- Abgerufen: 2026-08-09 17:24 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 57 / en 1)
 - Extraktion: trafilatura
 - Zeichen: 1788
+- Verfügbarkeit: 2 von 3 Varianten lieferbar, 1 ausverkauft · Seite zeigt „Ausverkauft“
 
 ---
 # Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾

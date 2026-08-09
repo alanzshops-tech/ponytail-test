@@ -1,10 +1,11 @@
 # XXL Hundebett kuschelig für große Hunde – Homeeins
 
 - Quelle: https://www.homeeins.de/products/hundebett-xxl-kuschelig-grosse-hunde
-- Abgerufen: 2026-08-09 17:24 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 55 / en 1)
 - Extraktion: trafilatura
 - Zeichen: 1912
+- Verfügbarkeit: 1 von 2 Varianten lieferbar, 1 ausverkauft · Seite zeigt „Ausverkauft“
 
 ---
 # Extra großes & kuscheliges Hundebett – Komfortzone für große Hunde
