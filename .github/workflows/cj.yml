@@ -38,6 +38,32 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Meldet ausschließlich die Zeichenzahl, nie den Wert. Das trennt
+      # "gar nicht gesetzt" von "unter einem anderen Namen gesetzt" und
+      # von "gesetzt, aber leer" — drei Fälle, die im Log sonst gleich
+      # aussehen. GitHub schwärzt Secrets ohnehin, aber eine Länge ist
+      # auch dann unbedenklich, wenn sie irgendwo hängen bleibt.
+      - name: Zugang prüfen
+        env:
+          A: ${{ secrets.CJ_API_KEY }}
+          B: ${{ secrets.CJ_APIKEY }}
+          C: ${{ secrets.CJ_KEY }}
+          D: ${{ secrets.CJ_TOKEN }}
+          E: ${{ secrets.CJDROPSHIPPING_API_KEY }}
+        run: |
+          for n in A B C D E; do
+            wert="${!n}"
+            case "$n" in
+              A) name="CJ_API_KEY";; B) name="CJ_APIKEY";; C) name="CJ_KEY";;
+              D) name="CJ_TOKEN";;  E) name="CJDROPSHIPPING_API_KEY";;
+            esac
+            printf '%-24s %s Zeichen\n' "$name" "${#wert}"
+          done
+          echo ""
+          echo "Erwartet werden rund 40 bis 60 Zeichen im Format"
+          echo "CJUserNum@api@... — 0 Zeichen heißt, Actions findet unter"
+          echo "diesem Namen kein Secret."
+
       # Die Eingabe geht über eine Umgebungsvariable und von dort als
       # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
       # ausführbarer Text — eine Eingabe, die jeder mit Schreibrechten
