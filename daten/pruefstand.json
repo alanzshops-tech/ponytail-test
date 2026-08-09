@@ -1,0 +1,315 @@
+{
+  "stand": "2026-08-09",
+  "seiten": [
+    {
+      "url": "https://www.homeeins.de/",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "text": {
+        "absaetze": 24,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/startseite-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "text": {
+        "absaetze": 51,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/startseite-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
+        "zeilenlaenge_median": 24,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/collections-hunde-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "text": {
+        "absaetze": 62,
+        "schriftgroesse_median": 16,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 8
+      },
+      "bild": "bilder/pruefstand/collections-hunde-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "text": {
+        "absaetze": 23,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
+        "zeilenlaenge_median": 46,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "text": {
+        "absaetze": 50,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "text": {
+        "absaetze": 17,
+        "schriftgroesse_median": 15,
+        "zu_klein": 17,
+        "zeilenlaenge_median": 43,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "text": {
+        "absaetze": 44,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "text": {
+        "absaetze": 8,
+        "schriftgroesse_median": 15,
+        "zu_klein": 8,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-desktop.png",
+      "vergleich": null
+    }
+  ]
+}
