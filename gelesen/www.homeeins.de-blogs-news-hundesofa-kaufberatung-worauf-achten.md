@@ -2,7 +2,7 @@
  – Homeeins
 
 - Quelle: https://www.homeeins.de/blogs/news/hundesofa-kaufberatung-worauf-achten
-- Abgerufen: 2026-08-09 17:18 UTC
+- Abgerufen: 2026-08-09 17:23 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 40 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 1931
