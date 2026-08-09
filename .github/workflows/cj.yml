@@ -1,0 +1,101 @@
+name: CJ-Katalog durchsuchen
+
+# Sucht im CJ-Katalog nach Artikeln mit geprüftem Bestand im deutschen
+# Lager. Die Webseite von CJ verlangt bei Such- und Listenseiten eine
+# Captcha-Prüfung; die offizielle API ist der vorgesehene Weg und liefert
+# obendrein Bestand, Bearbeitungszeit und die Zahl der Händler, die den
+# Artikel bereits führen.
+#
+# Ohne das Secret CJ_API_KEY läuft der Job durch und gibt die
+# Einrichtungsanleitung aus, statt rot zu werden.
+on:
+  push:
+    branches: ["claude/**", main]
+    paths:
+      - "cj.config.json"
+      - "scripts/cj.py"
+      - ".github/workflows/cj.yml"
+  workflow_dispatch:
+    inputs:
+      begriffe:
+        description: "Suchbegriffe (englisch, Komma-getrennt) statt cj.config.json"
+        required: false
+  # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
+  # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
+  schedule:
+    - cron: "0 4 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  cj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Die Eingabe geht über eine Umgebungsvariable und von dort als
+      # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
+      # ausführbarer Text — eine Eingabe, die jeder mit Schreibrechten
+      # setzen kann, gehört nicht in eine Kommandozeile.
+      - name: Katalog abfragen
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          BEGRIFFE: ${{ inputs.begriffe }}
+        run: |
+          if [ -n "$BEGRIFFE" ]; then
+            python3 scripts/cj.py --config cj.config.json --out daten \
+              --begriffe "$BEGRIFFE"
+          else
+            python3 scripts/cj.py --config cj.config.json --out daten
+          fi
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: |
+          if [ -f CJ.md ]; then
+            cat CJ.md >> $GITHUB_STEP_SUMMARY
+          else
+            {
+              echo "### Keine Katalogdaten"
+              echo ""
+              echo "Vermutlich fehlt das Secret CJ_API_KEY. Die Anleitung"
+              echo "steht im Log des Schritts \"Katalog abfragen\"."
+            } >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Ergebnis committen
+        run: |
+          if [ ! -f CJ.md ]; then
+            echo "Nichts abgefragt, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten/cj-*.json CJ.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "CJ-Katalog vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: cj
+          path: |
+            daten/cj-*.json
+            CJ.md
+          retention-days: 90
+          if-no-files-found: warn
