@@ -124,6 +124,19 @@ jobs:
           FAKTOR: ${{ inputs.faktor }}
         run: python3 scripts/marge.py --faktor "${FAKTOR:-2.5}"
 
+      # Laeuft bei jedem Lauf mit, auch ohne frische Aufnahme. Faellt ein
+      # Test um, hat CJ etwas geaendert -- besser hier als in einer
+      # Auswertung, die niemand mehr nachrechnet.
+      - name: Tests gegen die Aufzeichnungen
+        if: always()
+        run: |
+          if [ -d kassetten ]; then
+            pip install --quiet pyyaml
+            python3 tests/test_kassetten.py
+          else
+            echo "Keine Kassetten vorhanden, Tests übersprungen."
+          fi
+
       - name: Bericht in die Zusammenfassung
         if: always()
         run: |
