@@ -12,13 +12,26 @@ zwei Posten, die eine Faktor-Rechnung sonst still auffrisst:
   Währung   CJ rechnet in US-Dollar. Der Kurs kommt von der EZB, nicht
             aus einer Schätzung.
 
-Und am Ende steht die Umsatzsteuer: Ein Verkaufspreis im Shop ist brutto,
-die Faktor-Rechnung gehört auf den Nettopreis. Wer 19 Prozent vergisst,
-verfehlt seinen eigenen Faktor um ein Fünftel.
+Und am Ende die Umsatzsteuer — hier lag ich falsch. Ich habe pauschal
+19 Prozent aufgeschlagen. Homeeins ist aber Kleinunternehmer nach § 19
+UStG; das steht wörtlich im Impressum („Umsatzsteuerbefreit
+(Kleinunternehmerregelung)") und in den AGB unter 4.1 („Umsatzsteuer
+fällt nicht an"). Auch Shopify führt den Shop mit taxesIncluded = false
+und ohne Steuersatz. Es gibt also kein Netto und kein Brutto, sondern
+einen Preis. Der Aufschlag hat die empfohlenen Preise 19 Prozent zu hoch
+gemacht — nicht gefährlich, aber teurer als nötig gegenüber dem
+Wettbewerb.
 
-    Einstand  = (Einkauf + Versand) × Kurs
-    VK netto  = Einstand × Faktor
-    VK brutto = VK netto × 1,19
+    Einstand = (Einkauf + Versand) × Kurs
+    VK       = Einstand × Faktor × (1 + Steuersatz)
+
+Steuersatz ist voreingestellt 0. Wer die Kleinunternehmergrenze
+überschreitet (seit 2025: 25.000 € Vorjahr / 100.000 € laufendes Jahr),
+rechnet mit --ust 19 weiter.
+
+Ein zweiter Punkt gehört dazu: Als Kleinunternehmer gibt es keinen
+Vorsteuerabzug. Was CJ an Steuer berechnet, bleibt Kosten und steckt
+bereits im Einkaufspreis — deshalb ist er hier voll angesetzt.
 
 Aufruf:
     python3 scripts/marge.py --faktor 2.5
@@ -41,7 +54,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from cj import TAKT, anfrage, token_holen, ANLEITUNG      # noqa: E402
 
-UST = 1.19          # Deutschland, Regelsteuersatz
+# Kleinunternehmer nach § 19 UStG — siehe Impressum und AGB 4.1.
+# Kein Aufschlag, solange sich daran nichts ändert.
+UST_VOREINSTELLUNG = 0.0
 EZB = "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
 
 
@@ -160,6 +175,9 @@ def main() -> None:
     # nur bei der Fracht ausdruecklich USD. Wer hier falsch liegt, verfehlt
     # den Faktor um den Wechselkurs — deshalb steht die Annahme im Bericht.
     ap.add_argument("--waehrung", choices=["EUR", "USD"], default="EUR")
+    ap.add_argument("--ust", type=float, default=UST_VOREINSTELLUNG,
+                    help="Umsatzsteuersatz in Prozent. Voreinstellung 0 — "
+                         "Homeeins ist Kleinunternehmer nach § 19 UStG.")
     a = ap.parse_args()
 
     schluessel = os.environ.get("CJ_API_KEY", "").strip()
@@ -201,6 +219,7 @@ def main() -> None:
         einkauf = preis(v)
         einstand = (einkauf + fracht) * kurs
         netto = einstand * a.faktor
+        verkauf = netto * (1 + a.ust / 100)
         zeilen.append({
             "nische": p["nische"], "name": p["name"], "sku": p["sku"],
             "gelistet_von": p["gelistet_von"],
@@ -209,20 +228,20 @@ def main() -> None:
             "lager": lagername,
             "einkauf_usd": round(einkauf, 2), "fracht_usd": round(fracht, 2),
             "einstand_eur": round(einstand, 2),
-            "vk_netto": round(netto, 2), "vk_brutto": round(netto * UST, 2),
+            "vk_ohne_steuer": round(netto, 2), "vk": round(verkauf, 2),
             "versandart": traeger, "laufzeit": dauer,
             "versand_inklusive": p.get("versand_inklusive"),
             "versandoptionen": optionen,
         })
         print(f"  {p['nische'][:22]:<24} EK {einkauf:6.2f} + Fracht "
-              f"{fracht:5.2f} -> VK brutto {netto * UST:7.2f} EUR "
+              f"{fracht:5.2f} -> VK {verkauf:7.2f} EUR "
               f"| DE {de_stk:>5} von weltweit {welt_stk}")
         if len(zeilen) <= 3:
             print(f"      Versandoptionen laut CJ: {optionen}")
 
     ergebnis = {"stand": str(date.today()), "faktor": a.faktor,
                 "kurs_usd_eur": round(kurs, 4), "kursdatum": kursdatum,
-                "umsatzsteuer": UST, "zeilen": zeilen}
+                "umsatzsteuer_prozent": a.ust, "zeilen": zeilen}
     Path("daten").mkdir(exist_ok=True)
     Path("daten/marge-aktuell.json").write_text(
         json.dumps(ergebnis, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -233,27 +252,29 @@ def main() -> None:
                       f"1 USD = {kurs:.4f} EUR")
     z = [f"# Verkaufspreise bei Faktor {a.faktor:g}", "",
          f"Stand {ergebnis['stand']} · {waehrungszeile} · "
-         f"Umsatzsteuer 19 %", "",
+         f"Umsatzsteuer {a.ust:g} %", "",
          "**Bestand DE** ist der Bestand im deutschen CJ-Lager, einzeln "
          "je Artikel abgefragt. Die Zahl aus der Trefferliste zählt alle "
          "Lager weltweit zusammen und taugt für die Planung nicht.", "",
          "CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in "
          "Euro; wo CJ den Versand im Preis führt (Spalte *frei*), ist die "
          "Fracht null. "
-         f"Der Faktor liegt auf dem **Nettopreis**; die Bruttospalte ist "
-         f"das, was im Shop steht.", "",
+         + ("Der Shop ist Kleinunternehmer nach § 19 UStG — keine "
+          "Umsatzsteuer, also kein Netto und kein Brutto. **VK** ist der "
+          "Preis, der im Shop steht." if a.ust == 0 else
+          f"Auf den Faktor kommen {a.ust:g} % Umsatzsteuer; **VK** ist der "
+          f"Preis, der im Shop steht."), "",
          "| Nische | Artikel | Einkauf | Fracht | frei | Einstand € | "
-         "VK netto € | **VK brutto €** | Bestand DE | weltweit | "
-         "Händler | Laufzeit |",
-         "|---|---|---:|---:|:-:|---:|---:|---:|---:|---:|---:|---|"]
+         "**VK €** | Bestand DE | weltweit | Händler | Laufzeit |",
+         "|---|---|---:|---:|:-:|---:|---:|---:|---:|---:|---|"]
     # Ohne Ware in Deutschland ist der Preis egal — solche Zeilen nach
     # unten, nicht heimlich weglassen.
-    for r in sorted(zeilen, key=lambda x: (x["bestand_de"] == 0, x["vk_brutto"])):
+    for r in sorted(zeilen, key=lambda x: (x["bestand_de"] == 0, x["vk"])):
         frei = {1: "ja", 0: "nein"}.get(r.get("versand_inklusive"), "?")
         z.append(f"| {r['nische']} | {r['name'][:44]} | {r['einkauf_usd']} "
                  f"| {r['fracht_usd']} | {frei} "
-                 f"| {r['einstand_eur']} | {r['vk_netto']} "
-                 f"| **{r['vk_brutto']}** | {r['bestand_de']} "
+                 f"| {r['einstand_eur']} "
+                 f"| **{r['vk']}** | {r['bestand_de']} "
                  f"| {r['bestand_welt']} | {r['gelistet_von']} "
                  f"| {r['laufzeit'] or '—'} |")
     z += ["", "Die Fracht ist für **ein** Stück nach Deutschland gerechnet. "

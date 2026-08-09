@@ -151,6 +151,26 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
                     '#shopify-section-featured_collection');
                   return s ? s.querySelectorAll('.card__heading').length : -1;
                 }""")
+            # Das Karussell oben und die Kategoriekacheln unten zeigen
+            # womöglich dasselbe. Zweimal dieselbe Navigation auf einer
+            # Seite kostet Platz — aber erst die Zählung entscheidet das,
+            # nicht mein Eindruck vom Screenshot.
+            ergebnis["karussell"] = seite.evaluate("""() => {
+              const s = document.querySelector(
+                '#shopify-section-175490368314e073b7');
+              if (!s) return null;
+              return [...new Set([...s.querySelectorAll('a')]
+                .map(a => (a.innerText || a.title || '').trim())
+                .filter(Boolean))];
+            }""")
+            ergebnis["kategoriekacheln"] = seite.evaluate("""() => {
+              const s = document.querySelector(
+                '#shopify-section-collection_list_Xm8GYP');
+              if (!s) return null;
+              return [...new Set([...s.querySelectorAll('a')]
+                .map(a => (a.innerText || '').trim()).filter(Boolean))];
+            }""")
+
             ergebnis["leere_abschnitte"] = seite.evaluate("""() =>
               [...document.querySelectorAll('.shopify-section')]
                 .filter(s => s.innerText.trim().length === 0 &&
@@ -345,6 +365,13 @@ def bericht(d: dict) -> str:
     for g in ("mobil", "desktop"):
         z.append(f"- {g}: {v.get(f'{g}_hoehe', '?')} px hoch, Querscroll "
                  f"{'JA' if v.get(f'{g}_querscroll') else 'nein'}")
+    kar = v.get("karussell") or []
+    kat = v.get("kategoriekacheln") or []
+    doppelt = sorted(set(kar) & set(kat))
+    z += [f"- Karussell oben: {', '.join(kar) or '–'}",
+          f"- Kategoriekacheln unten: {', '.join(kat) or '–'}",
+          f"- **Doppelt auf einer Seite: "
+          f"{', '.join(doppelt) if doppelt else 'nichts'}**"]
     leer = v.get("leere_abschnitte", [])
     z.append(f"- Leere Abschnitte: {', '.join(leer) if leer else 'keine'}")
     for g in ("mobil", "desktop"):
