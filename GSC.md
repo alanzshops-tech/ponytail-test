@@ -9,9 +9,30 @@ Zeitraum: 2026-07-10 bis 2026-08-06 (28 Tage) · Vergleich mit den 28 Tagen davo
 | CTR | 0.0 % | 0.0 % | |
 | Ø Position | 50.3 | 55.8 | |
 
+> **192 von 251 Impressionen sind anonymisiert.** Über Suchanfragen sichtbar: 59. Über Seiten sichtbar: 251. Die Kennzahlen oben stammen aus der Anfragen-Dimension und zeigen daher nur den sichtbaren Rest — die Durchschnittsposition ist dadurch schlechter, als die Domain tatsächlich steht.
+
+## Seiten auf Position 1–5
+
+10 Seiten stehen weit vorn, 10 davon ohne einen einzigen Klick. Wo Ranking da ist und Klicks fehlen, liegt es am Snippet, an der Sprache oder an der Suchabsicht — nicht an fehlender Autorität.
+
+| Seite | Position | Impressionen | Klicks |
+|---|---:|---:|---:|
+| https://www.homeeins.de/collections/garten-outdoor | 2.8 | 31 | 0 |
+| https://www.homeeins.de/collections/gartenmobel | 2.0 | 28 | 0 |
+| https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz | 1.0 | 22 | 0 |
+| https://www.homeeins.de/collections/mobel-1 | 2.3 | 10 | 0 |
+| https://www.homeeins.de/collections/bad-wellness | 3.2 | 8 | 0 |
+| https://www.homeeins.de/collections/ordnung-aufbewahrung | 4.4 | 8 | 0 |
+| https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet?variant=54073054298435&country=AT&currency=EUR | 1.1 | 8 | 0 |
+| https://www.homeeins.de/products/garden-furniture-with-cushions-garden-furniture | 2.1 | 8 | 0 |
+| https://www.homeeins.de/en | 3.7 | 7 | 0 |
+| https://www.homeeins.de/en/collections/gartenmobel | 3 | 5 | 0 |
+
 ## Anfragen auf Position 5–20
 
-Keine. Alles steht entweder sehr weit vorn oder jenseits von Position 20 — bei einer neuen Domain der Normalfall.
+Keine mit mindestens 5 Impressionen.
+
+Unterhalb der Schwelle, mit weniger als 5 Impressionen: luxus hundesofa (15), pflanzkübel industrial (16.5)
 
 ## Meiste Impressionen
 
@@ -43,18 +64,14 @@ Keine. Alles steht entweder sehr weit vorn oder jenseits von Position 20 — bei
 | rollbrett action | 1 | 0 | 48 |
 | schreibtisch organiser holz | 1 | 0 | 49 |
 
-## Seiten mit Impressionen, aber ohne Klicks
+## Weiter hinten, ohne Klicks
 
-Werden gefunden, aber nicht angeklickt: entweder zu weit hinten oder Titel und Beschreibung überzeugen nicht.
+Werden gefunden, aber nicht angeklickt — hier vermutlich schlicht wegen der Position.
 
 | Seite | Impressionen | Position |
 |---|---:|---:|
-| https://www.homeeins.de/collections/garten-outdoor | 31 | 2.8 |
-| https://www.homeeins.de/collections/gartenmobel | 28 | 2.0 |
-| https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz | 22 | 1.0 |
 | https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table | 15 | 56.3 |
 | https://www.homeeins.de/collections/bad-organisation | 13 | 18.9 |
-| https://www.homeeins.de/collections/mobel-1 | 10 | 2.3 |
 
 ## Geräte
 
