@@ -1,7 +1,7 @@
 # Gartenmöbel kaufen – Lounge, Rattan & Alu | Homeeins
 
 - Quelle: https://www.homeeins.de/collections/gartenmobel
-- Abgerufen: 2026-08-09 17:42 UTC
+- Abgerufen: 2026-08-09 17:45 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 55 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 415
