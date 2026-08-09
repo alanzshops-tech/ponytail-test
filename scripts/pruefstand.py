@@ -96,6 +96,31 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
     m["leicht"] = sum(v["anzahl"] for v in bericht
                       if v.get("impact") not in SCHWER)
 
+    # Bewertungen. Am 9.8.2026 standen elf erfundene auf der Startseite
+    # und 26 als Sterne-Metafelder auf fünf Produkten. Die Metafelder
+    # sind gelöscht — ob das Judge.me-Widget noch etwas anzeigt, sieht
+    # man nur im Browser, weil es seine Daten aus der App holt und
+    # nicht aus Shopify.
+    m["bewertungen"] = seite.evaluate("""() => {
+      const txt = document.body.innerText || '';
+      const widget = document.querySelector(
+        '.jdgm-widget, .jdgm-rev-widget, [class*="jdgm-"]');
+      const treffer = (r) => (txt.match(r) || []).length;
+      return {
+        widget_da: !!widget,
+        widget_text: widget ? (widget.innerText || '').trim().slice(0, 300) : null,
+        sterne_symbole: treffer(/★|⭐/g),
+        wort_bewertung: treffer(/\\bBewertung(en)?\\b/g),
+        wort_rezension: treffer(/\\bRezension(en)?\\b/g),
+        wort_sterne: treffer(/\\bSterne?\\b/g),
+        // Strukturdaten sind die Stelle, an der Google Sterne abgreift.
+        aggregate_rating: [...document.querySelectorAll(
+            'script[type="application/ld+json"]')]
+          .map(s => s.textContent || '')
+          .filter(t => t.includes('aggregateRating')).length
+      };
+    }""")
+
     # Lesbarkeit: die drei Zahlen, an denen Fließtext steht oder fällt.
     m["text"] = seite.evaluate("""() => {
       const abs = [...document.querySelectorAll('p, li')]
@@ -166,6 +191,29 @@ def bericht(d: dict) -> str:
                  f"| {t.get('zeilenlaenge_median', '–')} Z. | {pix} |")
     z += ["", "Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. "
           "Längere Zeilen verliert das Auge beim Rücksprung.", ""]
+
+    z += ["## Bewertungen auf der Live-Seite", "",
+          "| Seite | Judge.me-Widget | ★-Symbole | „Bewertung\" | "
+          "„Sterne\" | aggregateRating |", "|---|:-:|---:|---:|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        b = m.get("bewertungen") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} "
+                 f"| {'ja' if b.get('widget_da') else '–'} "
+                 f"| {b.get('sterne_symbole', 0)} "
+                 f"| {b.get('wort_bewertung', 0)} "
+                 f"| {b.get('wort_sterne', 0)} "
+                 f"| {b.get('aggregate_rating', 0)} |")
+    for m in d["seiten"]:
+        b = m.get("bewertungen") or {}
+        if m["geraet"] == "mobil" and b.get("widget_text"):
+            z += ["", f"Widget-Inhalt auf `{urlsplit(m['url']).path}`:", "",
+                  "```", b["widget_text"], "```"]
+    z += ["", "**aggregateRating** ist die Stelle, an der Google Sterne für "
+          "die Trefferliste abgreift. Steht dort etwas ohne echte Käufe, "
+          "wirbt der Shop auch außerhalb der eigenen Seite mit Erfundenem.",
+          ""]
 
     # Verstöße zusammenfassen, nicht je Seite wiederholen.
     gesamt: dict[str, dict] = {}
