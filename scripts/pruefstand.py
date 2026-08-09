@@ -118,6 +118,8 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
         wort_rezension: treffer(/\\bRezension(en)?\\b/g),
         wort_sterne: treffer(/\\bSterne?\\b/g),
         // Strukturdaten sind die Stelle, an der Google Sterne abgreift.
+        preise_mit_eur: (txt.match(/\d,\d{2}\s*EUR/g) || []).length,
+        preise_gesamt: (txt.match(/\d,\d{2}\s*(?:€|EUR)/g) || []).length,
         aggregate_rating: [...document.querySelectorAll(
             'script[type="application/ld+json"]')]
           .map(s => s.textContent || '')
@@ -196,7 +198,18 @@ def bericht(d: dict) -> str:
     z += ["", "Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. "
           "Längere Zeilen verliert das Auge beim Rücksprung.", ""]
 
-    z += ["## Bewertungen auf der Live-Seite", "",
+    z += ["## Preisschreibweise", "",
+          "| Seite | Preise | davon mit „EUR\" |", "|---|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        b = m.get("bewertungen") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} "
+                 f"| {b.get('preise_gesamt', 0)} | {b.get('preise_mit_eur', 0)} |")
+    z += ["", "Deutsche Schreibweise ist „124,99 €\" — Zahl vorn, Zeichen "
+          "hinten, ohne Währungskürzel. Das Kürzel schaltet ein Haken im "
+          "Theme ab; die Stellung des Zeichens ist eine Shop-Einstellung.",
+          "", "## Bewertungen auf der Live-Seite", "",
           "| Seite | Judge.me-Widget | ★-Symbole | „Bewertung\" | "
           "„Sterne\" | aggregateRating |", "|---|:-:|---:|---:|---:|---:|"]
     for m in d["seiten"]:

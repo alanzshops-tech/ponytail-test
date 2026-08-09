@@ -10,6 +10,14 @@ on:
         description: "Aufnahmen als neue Vergleichsbasis ablegen"
         type: boolean
         default: false
+      urls:
+        description: "Adressliste (urls-shop.txt oder urls-sandbox.txt)"
+        type: string
+        default: "urls-shop.txt"
+      bilder:
+        description: "Zielordner für die Aufnahmen"
+        type: string
+        default: "bilder/pruefstand"
   push:
     branches: ["claude/**"]
     paths:
@@ -45,12 +53,12 @@ jobs:
       - name: Messen
         env:
           GRUNDLINIE: ${{ inputs.grundlinie }}
+          URLS: ${{ inputs.urls || 'urls-shop.txt' }}
+          BILDER: ${{ inputs.bilder || 'bilder/pruefstand' }}
         run: |
-          if [ "$GRUNDLINIE" = "true" ]; then
-            python3 scripts/pruefstand.py --urls urls-shop.txt --grundlinie
-          else
-            python3 scripts/pruefstand.py --urls urls-shop.txt
-          fi
+          ZUSATZ=""
+          [ "$GRUNDLINIE" = "true" ] && ZUSATZ="--grundlinie"
+          python3 scripts/pruefstand.py --urls "$URLS" --bilder "$BILDER" $ZUSATZ
 
       - name: Bericht in die Zusammenfassung
         if: always()
@@ -61,7 +69,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add bilder/pruefstand PRUEFSTAND.md daten/pruefstand.json 2>/dev/null || true
+          git add bilder PRUEFSTAND.md daten/pruefstand.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Prüfstand vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
