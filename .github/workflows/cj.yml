@@ -30,6 +30,9 @@ on:
         description: "Echte CJ-Antworten aufzeichnen (fuer die Tests)"
         type: boolean
         default: false
+      skus:
+        description: "SKUs vollstaendig abrufen (Komma-getrennt), fuer neue Produkte"
+        required: false
   # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
   # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
   schedule:
@@ -99,6 +102,16 @@ jobs:
           pip install --quiet vcrpy
           python3 scripts/aufzeichnen.py
 
+      # Holt alles zu einzelnen SKUs und legt es ungefiltert ab — Bilder,
+      # Varianten, Beschreibung. Grundlage, um daraus deutsche Produkte
+      # anzulegen.
+      - name: Produktdaten holen
+        if: inputs.skus != ''
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          SKUS: ${{ inputs.skus }}
+        run: python3 scripts/produktdaten.py --skus "$SKUS"
+
       # Die Eingabe geht über eine Umgebungsvariable und von dort als
       # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
       # ausführbarer Text — eine Eingabe, die jeder mit Schreibrechten
@@ -153,13 +166,14 @@ jobs:
 
       - name: Ergebnis committen
         run: |
-          if [ ! -f CJ.md ]; then
+          if [ ! -f CJ.md ] && [ ! -f daten/produkte-roh.json ]; then
             echo "Nichts abgefragt, nichts zu committen."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add daten/cj-*.json daten/marge-aktuell.json CJ.md MARGE.md
+          [ -f daten/produkte-roh.json ] && git add daten/produkte-roh.json || true
           [ -d kassetten ] && git add kassetten || true
           if git diff --cached --quiet; then
             echo "Keine Änderung."
