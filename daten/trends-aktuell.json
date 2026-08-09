@@ -224,7 +224,7 @@
           },
           {
             "datum": "2026-08-02",
-            "wert": 18
+            "wert": 19
           }
         ],
         "schuhbank": [
@@ -862,11 +862,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 76
+            "wert": 74
           },
           {
             "datum": "2026-08-02",
-            "wert": 78
+            "wert": 79
           }
         ],
         "raumteiler": [
@@ -1076,7 +1076,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 41
+            "wert": 44
           },
           {
             "datum": "2026-08-02",
@@ -1114,11 +1114,11 @@
         "wäschekorb": [
           {
             "anfrage": "wäschekorb schäfchenwelt",
-            "zuwachs": 32750
+            "zuwachs": 32700
           },
           {
             "anfrage": "stadlwerk wäschekorb",
-            "zuwachs": 27250
+            "zuwachs": 27500
           },
           {
             "anfrage": "hermes wäschekorb",
@@ -1135,8 +1135,8 @@
         ],
         "raumteiler": [
           {
-            "anfrage": "holzlamellen raumteiler",
-            "zuwachs": 60
+            "anfrage": "raumteiler holzlamellen",
+            "zuwachs": 70
           },
           {
             "anfrage": "tv raumteiler freistehend",
@@ -1146,12 +1146,12 @@
       },
       "kennzahlen": {
         "waschmaschinenschrank": {
-          "jetzt": 18,
+          "jetzt": 19,
           "jahresmittel": 19.4,
           "hoechstwert": 30,
           "hoch_am": "2025-12-28",
-          "gegen_jahresmittel_prozent": -7,
-          "gegen_vor_3_monaten_prozent": 38
+          "gegen_jahresmittel_prozent": -2,
+          "gegen_vor_3_monaten_prozent": 46
         },
         "schuhbank": {
           "jetzt": 12,
@@ -1170,12 +1170,12 @@
           "gegen_vor_3_monaten_prozent": 18
         },
         "wäschekorb": {
-          "jetzt": 78,
-          "jahresmittel": 74.4,
+          "jetzt": 79,
+          "jahresmittel": 74.3,
           "hoechstwert": 100,
           "hoch_am": "2025-12-28",
-          "gegen_jahresmittel_prozent": 5,
-          "gegen_vor_3_monaten_prozent": 16
+          "gegen_jahresmittel_prozent": 6,
+          "gegen_vor_3_monaten_prozent": 18
         },
         "raumteiler": {
           "jetzt": 46,
@@ -1404,11 +1404,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 57
+            "wert": 56
           },
           {
             "datum": "2026-08-02",
-            "wert": 53
+            "wert": 56
           }
         ],
         "samtsessel": [
@@ -2268,96 +2268,15 @@
           }
         ]
       },
-      "steigend": {
-        "couchtisch": [
-          {
-            "anfrage": "brauner couchtisch",
-            "zuwachs": 110
-          },
-          {
-            "anfrage": "metallbude couchtisch",
-            "zuwachs": 110
-          },
-          {
-            "anfrage": "couchtisch walnuss",
-            "zuwachs": 90
-          },
-          {
-            "anfrage": "jysk couchtisch",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "sklum couchtisch",
-            "zuwachs": 70
-          }
-        ],
-        "nachttisch": [
-          {
-            "anfrage": "nachttisch braun",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "nachttisch dunkelbraun",
-            "zuwachs": 60
-          },
-          {
-            "anfrage": "nachttisch schwebend",
-            "zuwachs": 50
-          },
-          {
-            "anfrage": "nachttisch nussbaum",
-            "zuwachs": 40
-          },
-          {
-            "anfrage": "schwebender nachttisch",
-            "zuwachs": 40
-          }
-        ],
-        "kunstpflanze": [
-          {
-            "anfrage": "kunstpflanzen wie echt",
-            "zuwachs": 70
-          },
-          {
-            "anfrage": "jysk kunstpflanzen",
-            "zuwachs": 50
-          },
-          {
-            "anfrage": "große kunstpflanze",
-            "zuwachs": 40
-          }
-        ],
-        "gewichtsdecke": [
-          {
-            "anfrage": "gewichtsdecke testsieger",
-            "zuwachs": 190
-          },
-          {
-            "anfrage": "gewichtsdecken test",
-            "zuwachs": 100
-          },
-          {
-            "anfrage": "gewichtsdecke erwachsene",
-            "zuwachs": 100
-          },
-          {
-            "anfrage": "action gewichtsdecke",
-            "zuwachs": 90
-          },
-          {
-            "anfrage": "bearaby gewichtsdecke",
-            "zuwachs": 60
-          }
-        ]
-      },
+      "steigend": {},
       "kennzahlen": {
         "couchtisch": {
-          "jetzt": 53,
-          "jahresmittel": 63.6,
+          "jetzt": 56,
+          "jahresmittel": 63.7,
           "hoechstwert": 100,
           "hoch_am": "2025-12-28",
-          "gegen_jahresmittel_prozent": -17,
-          "gegen_vor_3_monaten_prozent": 4
+          "gegen_jahresmittel_prozent": -12,
+          "gegen_vor_3_monaten_prozent": 10
         },
         "samtsessel": {
           "jetzt": 0,
@@ -2610,7 +2529,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 11
+            "wert": 10
           },
           {
             "datum": "2026-08-02",
@@ -3252,11 +3171,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 51
+            "wert": 52
           },
           {
             "datum": "2026-08-02",
-            "wert": 53
+            "wert": 55
           }
         ],
         "rattan lounge": [
@@ -3486,14 +3405,14 @@
           },
           {
             "anfrage": "sonnenliege extra hoch lidl",
-            "zuwachs": 110
+            "zuwachs": 100
           },
           {
             "anfrage": "sonnenliege 2er set",
-            "zuwachs": 50
+            "zuwachs": 40
           },
           {
-            "anfrage": "sonnenliege beige",
+            "anfrage": "kesser sonnenliege",
             "zuwachs": 40
           }
         ],
@@ -3555,7 +3474,7 @@
             "zuwachs": 100
           },
           {
-            "anfrage": "loungesessel outdoor",
+            "anfrage": "gartenmöbel auflagen",
             "zuwachs": 80
           }
         ]
@@ -3566,7 +3485,7 @@
           "jahresmittel": 6.9,
           "hoechstwert": 31,
           "hoch_am": "2026-05-24",
-          "gegen_jahresmittel_prozent": 58,
+          "gegen_jahresmittel_prozent": 59,
           "gegen_vor_3_monaten_prozent": -15
         },
         "feuerschale": {
@@ -3586,12 +3505,12 @@
           "gegen_vor_3_monaten_prozent": -12
         },
         "gartenmöbel": {
-          "jetzt": 53,
-          "jahresmittel": 42.1,
+          "jetzt": 55,
+          "jahresmittel": 42.2,
           "hoechstwert": 100,
           "hoch_am": "2026-05-24",
-          "gegen_jahresmittel_prozent": 26,
-          "gegen_vor_3_monaten_prozent": -25
+          "gegen_jahresmittel_prozent": 30,
+          "gegen_vor_3_monaten_prozent": -23
         },
         "rattan lounge": {
           "jetzt": 1,
@@ -4038,7 +3957,7 @@
           },
           {
             "datum": "2026-08-02",
-            "wert": 32
+            "wert": 33
           }
         ],
         "kratzbaum": [
@@ -4248,11 +4167,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 38
+            "wert": 41
           },
           {
             "datum": "2026-08-02",
-            "wert": 39
+            "wert": 38
           }
         ],
         "bürostuhl": [
@@ -4462,11 +4381,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 63
+            "wert": 58
           },
           {
             "datum": "2026-08-02",
-            "wert": 59
+            "wert": 61
           }
         ],
         "schreibtischstuhl": [
@@ -4680,7 +4599,7 @@
           },
           {
             "datum": "2026-08-02",
-            "wert": 30
+            "wert": 31
           }
         ]
       },
@@ -4703,7 +4622,7 @@
             "zuwachs": 50
           },
           {
-            "anfrage": "aldi süd hundebett",
+            "anfrage": "rundes hundebett",
             "zuwachs": 40
           }
         ],
@@ -4715,6 +4634,10 @@
           {
             "anfrage": "sisalseil für kratzbaum",
             "zuwachs": 50
+          },
+          {
+            "anfrage": "kratzbaum wandmontage",
+            "zuwachs": 40
           }
         ],
         "bürostuhl": [
@@ -4752,36 +4675,36 @@
           "gegen_vor_3_monaten_prozent": 0
         },
         "hundebett": {
-          "jetzt": 32,
+          "jetzt": 33,
           "jahresmittel": 34.6,
           "hoechstwert": 46,
           "hoch_am": "2025-11-23",
-          "gegen_jahresmittel_prozent": -8,
-          "gegen_vor_3_monaten_prozent": 14
+          "gegen_jahresmittel_prozent": -5,
+          "gegen_vor_3_monaten_prozent": 18
         },
         "kratzbaum": {
-          "jetzt": 39,
-          "jahresmittel": 39.2,
+          "jetzt": 38,
+          "jahresmittel": 39.3,
           "hoechstwert": 56,
           "hoch_am": "2025-12-28",
-          "gegen_jahresmittel_prozent": -1,
-          "gegen_vor_3_monaten_prozent": 22
+          "gegen_jahresmittel_prozent": -3,
+          "gegen_vor_3_monaten_prozent": 19
         },
         "bürostuhl": {
-          "jetzt": 59,
-          "jahresmittel": 66.8,
+          "jetzt": 61,
+          "jahresmittel": 66.7,
           "hoechstwert": 100,
           "hoch_am": "2025-11-23",
-          "gegen_jahresmittel_prozent": -12,
-          "gegen_vor_3_monaten_prozent": 4
+          "gegen_jahresmittel_prozent": -9,
+          "gegen_vor_3_monaten_prozent": 7
         },
         "schreibtischstuhl": {
-          "jetzt": 30,
+          "jetzt": 31,
           "jahresmittel": 27.7,
           "hoechstwert": 43,
           "hoch_am": "2025-11-23",
-          "gegen_jahresmittel_prozent": 8,
-          "gegen_vor_3_monaten_prozent": 43
+          "gegen_jahresmittel_prozent": 12,
+          "gegen_vor_3_monaten_prozent": 48
         }
       }
     },
@@ -5430,11 +5353,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 46
+            "wert": 44
           },
           {
             "datum": "2026-08-02",
-            "wert": 44
+            "wert": 48
           }
         ],
         "hundespielzeug": [
@@ -5858,7 +5781,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 15
+            "wert": 14
           },
           {
             "datum": "2026-08-02",
@@ -5874,7 +5797,7 @@
           },
           {
             "anfrage": "kik hundezubehör",
-            "zuwachs": 100
+            "zuwachs": 90
           },
           {
             "anfrage": "hundezubehör günstig",
@@ -5907,18 +5830,18 @@
             "zuwachs": 50
           },
           {
-            "anfrage": "aldi süd hundebett",
+            "anfrage": "rundes hundebett",
             "zuwachs": 40
           }
         ],
         "hundegeschirr": [
           {
             "anfrage": "fellstern hundegeschirr erfahrungen",
-            "zuwachs": 27000
+            "zuwachs": 27100
           },
           {
             "anfrage": "any x hundegeschirr",
-            "zuwachs": 17600
+            "zuwachs": 17700
           },
           {
             "anfrage": "hundegeschirr mit brustring",
@@ -5936,11 +5859,11 @@
         "hundespielzeug": [
           {
             "anfrage": "hundespielzeug ostern",
-            "zuwachs": 21450
+            "zuwachs": 21800
           },
           {
             "anfrage": "boggle hundespielzeug",
-            "zuwachs": 16000
+            "zuwachs": 16200
           },
           {
             "anfrage": "tchibo hundespielzeug halloween",
@@ -5980,12 +5903,12 @@
           "gegen_vor_3_monaten_prozent": 17
         },
         "hundegeschirr": {
-          "jetzt": 44,
-          "jahresmittel": 44.2,
+          "jetzt": 48,
+          "jahresmittel": 44.3,
           "hoechstwert": 63,
           "hoch_am": "2026-05-10",
-          "gegen_jahresmittel_prozent": -1,
-          "gegen_vor_3_monaten_prozent": 2
+          "gegen_jahresmittel_prozent": 8,
+          "gegen_vor_3_monaten_prozent": 12
         },
         "hundespielzeug": {
           "jetzt": 23,
@@ -6440,7 +6363,7 @@
           },
           {
             "datum": "2026-08-02",
-            "wert": 24
+            "wert": 25
           }
         ],
         "hundebademantel": [
@@ -6864,11 +6787,11 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 47
+            "wert": 45
           },
           {
             "datum": "2026-08-02",
-            "wert": 42
+            "wert": 44
           }
         ],
         "napf erhöht hund": [
@@ -7078,7 +7001,7 @@
           },
           {
             "datum": "2026-07-26",
-            "wert": 2
+            "wert": 0
           },
           {
             "datum": "2026-08-02",
@@ -7095,10 +7018,6 @@
           {
             "anfrage": "schnüffelteppich für hunde",
             "zuwachs": 50
-          },
-          {
-            "anfrage": "trixie schnüffelteppich",
-            "zuwachs": 40
           }
         ],
         "hundebademantel": [
@@ -7124,12 +7043,12 @@
           "gegen_vor_3_monaten_prozent": 0
         },
         "schnüffelteppich": {
-          "jetzt": 24,
+          "jetzt": 25,
           "jahresmittel": 23.9,
           "hoechstwert": 63,
           "hoch_am": "2025-12-07",
-          "gegen_jahresmittel_prozent": 0,
-          "gegen_vor_3_monaten_prozent": -17
+          "gegen_jahresmittel_prozent": 5,
+          "gegen_vor_3_monaten_prozent": -14
         },
         "hundebademantel": {
           "jetzt": 14,
@@ -7140,12 +7059,12 @@
           "gegen_vor_3_monaten_prozent": -48
         },
         "gps tracker hund": {
-          "jetzt": 42,
+          "jetzt": 44,
           "jahresmittel": 48.4,
           "hoechstwert": 76,
           "hoch_am": "2026-01-11",
-          "gegen_jahresmittel_prozent": -13,
-          "gegen_vor_3_monaten_prozent": -14
+          "gegen_jahresmittel_prozent": -9,
+          "gegen_vor_3_monaten_prozent": -10
         },
         "napf erhöht hund": {
           "jetzt": 0,
@@ -7153,6 +7072,1131 @@
           "hoechstwert": 26,
           "hoch_am": "2026-03-29",
           "gegen_jahresmittel_prozent": -100,
+          "gegen_vor_3_monaten_prozent": 0
+        }
+      }
+    },
+    {
+      "name": "katze-kandidaten",
+      "begriffe": [
+        "katzenschrank",
+        "katzentoilette schrank",
+        "katzenklo möbel",
+        "katzenhaus draußen",
+        "beheiztes katzenhaus"
+      ],
+      "verlauf": {
+        "katzenschrank": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 56
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 66
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 23
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 17
+          }
+        ],
+        "katzentoilette schrank": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 17
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 18
+          }
+        ],
+        "katzenklo möbel": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 6
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 5
+          }
+        ],
+        "katzenhaus draußen": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 90
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 65
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 92
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 100
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 19
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 18
+          }
+        ],
+        "beheiztes katzenhaus": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 0
+          }
+        ]
+      },
+      "steigend": {},
+      "kennzahlen": {
+        "katzenschrank": {
+          "jetzt": 17,
+          "jahresmittel": 3.1,
+          "hoechstwert": 66,
+          "hoch_am": "2026-03-01",
+          "gegen_jahresmittel_prozent": 456,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "katzentoilette schrank": {
+          "jetzt": 18,
+          "jahresmittel": 0.7,
+          "hoechstwert": 18,
+          "hoch_am": "2026-08-02",
+          "gegen_jahresmittel_prozent": 2626,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "katzenklo möbel": {
+          "jetzt": 5,
+          "jahresmittel": 0.2,
+          "hoechstwert": 6,
+          "hoch_am": "2026-07-26",
+          "gegen_jahresmittel_prozent": 2309,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "katzenhaus draußen": {
+          "jetzt": 18,
+          "jahresmittel": 7.2,
+          "hoechstwert": 100,
+          "hoch_am": "2025-11-23",
+          "gegen_jahresmittel_prozent": 148,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "beheiztes katzenhaus": {
+          "jetzt": 0,
+          "jahresmittel": 0,
+          "hoechstwert": 0,
+          "hoch_am": "2025-08-03",
+          "gegen_jahresmittel_prozent": 0,
           "gegen_vor_3_monaten_prozent": 0
         }
       }
