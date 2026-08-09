@@ -118,12 +118,15 @@ def verfuegbarkeit(html: str) -> str:
         gefunden = ", ".join(sorted(set(typen))) or "ohne @type"
         return (f"{bloecke} JSON-LD-Blöcke ({gefunden}), "
                 f"aber keine Angebotsdaten")
+    # Bewusst KEINE Suche nach dem Wort "Ausverkauft" im HTML: Das Theme
+    # haelt den Text als Vorlage fuer den JavaScript-Zustand bereit, auch
+    # wenn nichts ausverkauft ist. Beim ersten Lauf meldeten deshalb alle
+    # vier Seiten den Hinweis — eine davon mit fuenf von fuenf lieferbaren
+    # Varianten. Ein Signal, das immer anschlaegt, ist kein Signal.
     aus = sum(1 for z in zustaende if "OutOfStock" in z or "SoldOut" in z)
     lieferbar = len(zustaende) - aus
-    hinweis = "Ausverkauft" in html or "Sold out" in html
     return (f"{lieferbar} von {len(zustaende)} Varianten lieferbar"
-            + (f", {aus} ausverkauft" if aus else "")
-            + (" · Seite zeigt „Ausverkauft“" if hinweis else ""))
+            + (f", {aus} ausverkauft" if aus else ""))
 
 
 def dateiname(url: str) -> str:
