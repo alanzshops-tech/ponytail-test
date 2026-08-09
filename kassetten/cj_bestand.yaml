@@ -1,0 +1,38 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Connection:
+      - close
+      Content-Type:
+      - application/json
+      Host:
+      - developers.cjdropshipping.com
+      User-Agent:
+      - Python-urllib/3.12
+    method: GET
+    uri: https://developers.cjdropshipping.com/api2.0/v1/product/stock/queryBySku?sku=CJYD2100152
+  response:
+    body:
+      string: '{"code":200,"result":true,"message":"Success","data":[{"areaEn":"China
+        Warehouse","areaId":1,"countryCode":"CN","totalInventoryNum":723417,"cjInventoryNum":1066,"factoryInventoryNum":722351,"countryNameEn":"China","stock":null},{"areaEn":"Germany
+        Warehouse","areaId":4,"countryCode":"DE","totalInventoryNum":2019,"cjInventoryNum":2019,"factoryInventoryNum":0,"countryNameEn":"Germany","stock":null}],"requestId":"c32d3c3902094a52bec9973b553cb7f9","pointsInfo":{"total":50000,"usedToday":6240,"remaining":50000},"success":true}'
+    headers:
+      Connection:
+      - close
+      Content-Type:
+      - application/json;charset=UTF-8
+      Date:
+      - Sun, 09 Aug 2026 19:52:56 GMT
+      Server:
+      - nginx
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin
+      - Access-Control-Request-Method
+      - Access-Control-Request-Headers
+    status:
+      code: 200
+      message: ''
+version: 1

@@ -29,9 +29,9 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | Cross-Legged Chair,No Wheels Armless Swivel Home Office Ch | 51.78 -- 52.36 | 510 | 7 | None | `CJJT2782107` |
 | Retractable Footrest Ergonomic Swivel Office Chair With Lu | 77.98 | 492 | 42 | None | `CJJT2388830` |
 | Navel Belly Button Patch Slimming Patch Abdomen Magnetic D | 0.64 -- 11.55 | 465 | 3105 | None | `CJBJPFST00158` |
-| 2 / 4 Stück 3000mAh 3.7V Akku Und Ladegerät Für Akkus Wie  | 6.91 -- 9.20 | 460 | 1 | None | `CJDD2839051` |
 | LED Stirnlampe Super Hell 60000LM USB Wiederaufladbar Bewe | 9.20 -- 13.85 | 460 | 2 | None | `CJLY2830636` |
 | 1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fack | 9.27 -- 12.04 | 460 | 2 | None | `CJLY2839090` |
+| Halb Gesicht Maske Atemgerät Gesichtsstück Für Holzbearbei | 10.85 -- 16.27 | 460 | 3 | None | `CJBG2839088` |
 
 
 **Viel Bestand (ab 300), kaum gelistet (höchstens 5 Händler) — 20 Artikel:**
