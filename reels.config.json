@@ -227,6 +227,48 @@
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3958c139-0adc-4eae-84db-61a4c31d528e.jpg?v=1767907756",
         "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0fa87acd-8b59-4463-a471-1cf3ee62af89.jpg?v=1767907757"
       ]
+    },
+    {
+      "name": "sitzbank-stauraum",
+      "hook": "Sitzen oder verstauen?\nBeides",
+      "preis": "79,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Im Flur fehlt immer zweierlei: ein Platz zum Hinsetzen und ein Platz für die Sachen, die dort landen. Diese Bank ist beides. Deckel auf, alles verschwindet. Zugeklappt sieht man ein Möbelstück, keine Kiste. In sechsundsiebzig oder hundertzehn Zentimetern.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/70c5b579-c98f-4cd8-974e-02f423a9dfcc.png?v=1786306685",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2df2036a-15e1-463c-99af-f7e9089e077d.png?v=1786306683",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/211ed9f0-f864-4519-bb81-62c02b629079.jpg?v=1786306684",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6668702c-648c-45dc-9a95-79dd49065cf7.png?v=1786306683",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/bda55ad4-efea-42ef-a730-359c9760a268.png?v=1786306685"
+      ]
+    },
+    {
+      "name": "sitzhocker-38",
+      "hook": "Achtunddreißig\nZentimeter Ordnung",
+      "preis": "69,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Für die Diele, in der keine Bank Platz hat. Achtunddreißig Zentimeter im Quadrat: hinsetzen zum Schuheanziehen, Fußbank vor dem Sessel, und innen der Stauraum für alles, was sonst herumliegt. Zusammengeklappt passt er hinter den Schrank.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8e2812e8-290c-45f4-aa45-f3da92f558a8.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/cb290299-60e7-4ed1-be7c-97a4d7369c1f.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/f5de2452-643c-4a3c-8d7d-428a5efefc7f.jpg?v=1786306769",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/11696cb2-de37-49ed-981f-6f7a38507141.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4914bd55-3468-4805-b9bd-ee0f7ea9e77f.jpg?v=1786306770"
+      ]
+    },
+    {
+      "name": "taschenlampe",
+      "hook": "Die Taschenlampe\nist immer leer",
+      "preis": "29,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Die Lampe in der Schublade hat leere Batterien. Jedes Mal. Diese hängt am USB-C-Kabel wie das Handy und zeigt den Ladestand an. Sieben Modi, dazu rotes Warnlicht für die Panne am Straßenrand. Spritzwassergeschützt, hundertzweiundsiebzig Gramm.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/12f5574b-b77b-410a-9c89-0991259decbe.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg?v=1786306828",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/746c740b-bf29-4a1b-a690-7820d409bb72.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg?v=1786306829"
+      ]
     }
   ]
 }
