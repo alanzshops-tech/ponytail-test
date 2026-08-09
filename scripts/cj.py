@@ -97,12 +97,21 @@ def token_holen(schluessel: str) -> str:
 
 
 def lager_pruefen(token: str) -> bool:
-    """Gibt es das deutsche Lager überhaupt? Einmal nachsehen ist besser
-    als bei jeder leeren Trefferliste zu rätseln."""
+    """Gibt es das deutsche Lager überhaupt?
+
+    Eine leere Antwort heißt "konnte nicht prüfen", nicht "gibt es
+    nicht". Der erste Fassung dieser Funktion hat daraus einen Abbruch
+    gemacht und einen ganzen Lauf verworfen, weil CJ die Lagerliste
+    einmal nicht lieferte. Die eigentliche Abfrage filtert ohnehin selbst
+    auf countryCode=DE — diese Prüfung ist Komfort, keine Bedingung."""
     a = anfrage("product/globalWarehouseList", token=token)
     lager = a.get("data") or []
     namen = [(w.get("countryCode"), w.get("areaEn")) for w in lager
              if isinstance(w, dict)]
+    if not namen:
+        print("  Lagerliste nicht abrufbar — weiter mit dem Filter "
+              "countryCode=DE, der ohnehin in jeder Abfrage steht.")
+        return True
     de = [n for n in namen if n[0] == "DE"]
     print(f"  {len(namen)} Lager verfügbar, Deutschland: "
           f"{de[0][1] if de else 'NICHT gefunden'}")
