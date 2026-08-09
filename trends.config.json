@@ -62,6 +62,16 @@
         "gps tracker hund",
         "napf erhöht hund"
       ]
+    },
+    {
+      "name": "katze-kandidaten",
+      "begriffe": [
+        "katzenschrank",
+        "katzentoilette schrank",
+        "katzenklo möbel",
+        "katzenhaus draußen",
+        "beheiztes katzenhaus"
+      ]
     }
   ]
 }

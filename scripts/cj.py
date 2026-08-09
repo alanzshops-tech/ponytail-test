@@ -129,6 +129,10 @@ def suchen(token: str, begriff: str, cfg: dict) -> tuple[list[dict], int]:
             "page": seite,
             "orderBy": 4,                     # nach Bestand sortieren
             "sort": "desc",
+            # Ohne dieses Feld bleibt threeCategoryName leer. Steht so in
+            # der Dokumentation, im ersten Lauf uebersehen -- die
+            # Kategoriespalte war deshalb 368-mal "ohne Angabe".
+            "features": "enable_category",
         })
         if not a.get("result"):
             print(f"    Seite {seite} fehlgeschlagen: {a.get('message')}")
