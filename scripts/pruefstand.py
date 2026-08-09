@@ -103,8 +103,12 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
     # nicht aus Shopify.
     m["bewertungen"] = seite.evaluate("""() => {
       const txt = document.body.innerText || '';
-      const widget = document.querySelector(
-        '.jdgm-widget, .jdgm-rev-widget, [class*="jdgm-"]');
+      // Nur sichtbare Widgets, keine Script-Tags. Der erste Lauf griff
+      // sich Judge.mes Einstellungs-Script und zitierte JSON statt
+      // Bewertungen — ein Selektor, der zu viel fängt, ist kein Messgerät.
+      const widget = [...document.querySelectorAll(
+        '.jdgm-widget, .jdgm-rev-widget, .jdgm-widget-actions-wrapper')]
+        .find(e => e.tagName !== 'SCRIPT' && e.offsetParent !== null) || null;
       const treffer = (r) => (txt.match(r) || []).length;
       return {
         widget_da: !!widget,
