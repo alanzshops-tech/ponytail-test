@@ -139,7 +139,9 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
                     ("bestseller", "Bestseller"),
                     ("zahlungslogos", "Sicher bezahlen mit"),
                     ("kategorien", "Kategorien"),
-                    ("faq", "Häufige Fragen")]:
+                    ("faq", "Häufige Fragen"),
+                    ("zahlarten_korrigiert", "Banküberweisung"),
+                    ("sepa_raus", "SEPA")]:
                 ergebnis[f"hat_{name}"] = muster in text
             # Nur innerhalb der Bestseller-Reihe zählen. Der erste Lauf
             # zählte über die ganze Seite und meldete 28 Kacheln, wo acht
@@ -148,7 +150,7 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
             ergebnis["produktkacheln"] = seite.evaluate(
                 """() => {
                   const s = document.querySelector(
-                    '#shopify-section-featured_collection');
+                    '[id$="__featured_collection"]');
                   return s ? s.querySelectorAll('.card__heading').length : -1;
                 }""")
             # Das Karussell oben und die Kategoriekacheln unten zeigen
@@ -157,7 +159,7 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
             # nicht mein Eindruck vom Screenshot.
             ergebnis["karussell"] = seite.evaluate("""() => {
               const s = document.querySelector(
-                '#shopify-section-175490368314e073b7');
+                '[id$="__175490368314e073b7"]');
               if (!s) return null;
               return [...new Set([...s.querySelectorAll('a')]
                 .map(a => (a.innerText || a.title || '').trim())
@@ -165,7 +167,7 @@ def vorschau_pruefen(browser, theme_id: str, bilder: Path) -> dict:
             }""")
             ergebnis["kategoriekacheln"] = seite.evaluate("""() => {
               const s = document.querySelector(
-                '#shopify-section-collection_list_Xm8GYP');
+                '[id$="__collection_list_Xm8GYP"]');
               if (!s) return null;
               return [...new Set([...s.querySelectorAll('a')]
                 .map(a => (a.innerText || '').trim()).filter(Boolean))];
