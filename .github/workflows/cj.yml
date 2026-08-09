@@ -20,6 +20,10 @@ on:
       begriffe:
         description: "Suchbegriffe (englisch, Komma-getrennt) statt cj.config.json"
         required: false
+      faktor:
+        description: "Mindestaufschlag auf den Einstandspreis (Standard 2.5)"
+        required: false
+        default: "2.5"
   # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
   # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
   schedule:
@@ -93,6 +97,15 @@ jobs:
             python3 scripts/cj.py --config cj.config.json --out daten
           fi
 
+      # Direkt hinterher, solange das Token gilt: Fracht und Wechselkurs
+      # holen und ausrechnen, welcher Verkaufspreis den Faktor traegt.
+      - name: Verkaufspreise rechnen
+        continue-on-error: true
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          FAKTOR: ${{ inputs.faktor }}
+        run: python3 scripts/marge.py --faktor "${FAKTOR:-2.5}"
+
       - name: Bericht in die Zusammenfassung
         if: always()
         run: |
@@ -115,7 +128,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daten/cj-*.json CJ.md
+          git add daten/cj-*.json daten/marge-aktuell.json CJ.md MARGE.md
           if git diff --cached --quiet; then
             echo "Keine Änderung."
             exit 0
@@ -135,6 +148,8 @@ jobs:
           name: cj
           path: |
             daten/cj-*.json
+            daten/marge-aktuell.json
             CJ.md
+            MARGE.md
           retention-days: 90
           if-no-files-found: warn
