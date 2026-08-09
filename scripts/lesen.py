@@ -76,23 +76,48 @@ def verfuegbarkeit(html: str) -> str:
     import json as _json
 
     zustaende: list[str] = []
+    typen: list[str] = []
+    bloecke = 0
+
+    def durchgehen(knoten):
+        """JSON-LD verschachtelt beliebig tief (@graph, itemListElement)."""
+        if isinstance(knoten, list):
+            for k in knoten:
+                durchgehen(k)
+            return
+        if not isinstance(knoten, dict):
+            return
+        t = knoten.get("@type")
+        if t:
+            typen.extend(t if isinstance(t, list) else [str(t)])
+        angebote = knoten.get("offers")
+        for a in (angebote if isinstance(angebote, list) else [angebote]):
+            if isinstance(a, dict) and a.get("availability"):
+                zustaende.append(str(a["availability"]).rsplit("/", 1)[-1])
+        for wert in knoten.values():
+            if isinstance(wert, (dict, list)):
+                durchgehen(wert)
+
     for m in re.finditer(
             r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
             html, re.I | re.S):
+        bloecke += 1
         try:
-            daten = _json.loads(m.group(1))
+            durchgehen(_json.loads(m.group(1)))
         except ValueError:
             continue
-        for knoten in (daten if isinstance(daten, list) else [daten]):
-            if not isinstance(knoten, dict):
-                continue
-            angebote = knoten.get("offers")
-            for a in (angebote if isinstance(angebote, list) else [angebote]):
-                if isinstance(a, dict) and a.get("availability"):
-                    zustaende.append(str(a["availability"]).rsplit("/", 1)[-1])
+
     if not zustaende:
-        # Kein Produkt oder kein JSON-LD — beides kein Fehler.
-        return ""
+        # Wichtig zu unterscheiden: gar keine Strukturdaten, oder welche
+        # ohne Produktangaben. Das erste ist ein Theme ohne Schema-Markup,
+        # das zweite ein Theme, das Produkte auslaesst. Beides kostet den
+        # Preis und die Verfuegbarkeit im Google-Ergebnis — aber die
+        # Ursache ist eine andere.
+        if not bloecke:
+            return "keine Strukturdaten (JSON-LD) auf der Seite"
+        gefunden = ", ".join(sorted(set(typen))) or "ohne @type"
+        return (f"{bloecke} JSON-LD-Blöcke ({gefunden}), "
+                f"aber keine Angebotsdaten")
     aus = sum(1 for z in zustaende if "OutOfStock" in z or "SoldOut" in z)
     lieferbar = len(zustaende) - aus
     hinweis = "Ausverkauft" in html or "Sold out" in html
