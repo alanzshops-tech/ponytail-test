@@ -1,10 +1,11 @@
 # Hundezubehör – Hundesofas, Betten & Boxen | Homeeins
 
 - Quelle: https://www.homeeins.de/collections/hunde
-- Abgerufen: 2026-08-09 17:25 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 99 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 2169
+- Verfügbarkeit: 1 JSON-LD-Blöcke (Organization), aber keine Angebotsdaten
 
 ---
 Alles für deinen Hund – drinnen wie draußen. Erhöhte Hundesofas aus Samt und Kunstleder, ein extra großes Kuschelbett, dazu Haustiertreppe, Auto-Hundebox und Hundepool.

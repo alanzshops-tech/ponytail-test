@@ -2,10 +2,11 @@
  – Homeeins
 
 - Quelle: https://www.homeeins.de/blogs/news/hundesofa-kaufberatung-worauf-achten
-- Abgerufen: 2026-08-09 17:25 UTC
+- Abgerufen: 2026-08-09 17:27 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 40 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 1931
+- Verfügbarkeit: 2 JSON-LD-Blöcke (Article, Organization, Person, WebPage), aber keine Angebotsdaten
 
 ---
 Hundesofas gibt es mittlerweile in unzähligen Varianten – von günstigen Sch aumstoffkissen bis zu edlen Samt-Modellen mit Holzgestell. Damit die Kaufentscheidung leichter fällt, haben wir die wichtigsten Kriterien zusammengefasst.
