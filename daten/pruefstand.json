@@ -22,6 +22,15 @@
       ],
       "schwer": 2,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 24,
         "schriftgroesse_median": 15,
@@ -53,6 +62,15 @@
       ],
       "schwer": 2,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 51,
         "schriftgroesse_median": 14,
@@ -77,6 +95,15 @@
       ],
       "schwer": 1,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 35,
         "schriftgroesse_median": 15,
@@ -101,6 +128,15 @@
       ],
       "schwer": 1,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 62,
         "schriftgroesse_median": 16,
@@ -139,6 +175,15 @@
       ],
       "schwer": 3,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 1,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 23,
         "schriftgroesse_median": 15,
@@ -177,6 +222,15 @@
       ],
       "schwer": 3,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 1,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 50,
         "schriftgroesse_median": 14,
@@ -215,6 +269,15 @@
       ],
       "schwer": 3,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 17,
         "schriftgroesse_median": 15,
@@ -253,6 +316,15 @@
       ],
       "schwer": 3,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 44,
         "schriftgroesse_median": 14,
@@ -277,6 +349,15 @@
       ],
       "schwer": 1,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 8,
         "schriftgroesse_median": 15,
@@ -301,6 +382,15 @@
       ],
       "schwer": 1,
       "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "aggregate_rating": 0
+      },
       "text": {
         "absaetze": 35,
         "schriftgroesse_median": 14,

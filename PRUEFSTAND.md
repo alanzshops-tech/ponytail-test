@@ -21,6 +21,48 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 
 Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen verliert das Auge beim Rücksprung.
 
+## Bewertungen auf der Live-Seite
+
+| Seite | Judge.me-Widget | ★-Symbole | „Bewertung" | „Sterne" | aggregateRating |
+|---|:-:|---:|---:|---:|---:|
+| / | ja | 0 | 0 | 0 | 0 |
+| /collections/hunde | ja | 0 | 0 | 0 | 0 |
+| /products/hundesofa-samt-erhoeht-xxl | ja | 1 | 0 | 0 | 0 |
+| /products/sitzbank-stauraum-gepolstert-klappbar | ja | 0 | 0 | 0 | 0 |
+| /cart | ja | 0 | 0 | 0 | 0 |
+
+Widget-Inhalt auf `/`:
+
+```
+window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
+```
+
+Widget-Inhalt auf `/collections/hunde`:
+
+```
+window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
+```
+
+Widget-Inhalt auf `/products/hundesofa-samt-erhoeht-xxl`:
+
+```
+window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
+```
+
+Widget-Inhalt auf `/products/sitzbank-stauraum-gepolstert-klappbar`:
+
+```
+window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
+```
+
+Widget-Inhalt auf `/cart`:
+
+```
+window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
+```
+
+**aggregateRating** ist die Stelle, an der Google Sterne für die Trefferliste abgreift. Steht dort etwas ohne echte Käufe, wirbt der Shop auch außerhalb der eigenen Seite mit Erfundenem.
+
 ## Befunde, nach Häufigkeit
 
 | Regel | Schwere | Fälle | betroffen |
