@@ -50,19 +50,32 @@ jobs:
           C: ${{ secrets.CJ_KEY }}
           D: ${{ secrets.CJ_TOKEN }}
           E: ${{ secrets.CJDROPSHIPPING_API_KEY }}
+          # Der Reiter "Variables" liegt direkt neben "Secrets" auf
+          # derselben Seite. Dort gelandet, heißt es vars statt secrets —
+          # eine Verwechslung, die im Log genauso aussieht wie "fehlt".
+          V: ${{ vars.CJ_API_KEY }}
+          # Beweist, dass in diesem Job überhaupt Secrets ankommen.
+          T: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          for n in A B C D E; do
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch:     ${{ github.ref_name }}"
+          echo ""
+          for n in A B C D E V T; do
             wert="${!n}"
             case "$n" in
-              A) name="CJ_API_KEY";; B) name="CJ_APIKEY";; C) name="CJ_KEY";;
-              D) name="CJ_TOKEN";;  E) name="CJDROPSHIPPING_API_KEY";;
+              A) name="secrets.CJ_API_KEY";; B) name="secrets.CJ_APIKEY";;
+              C) name="secrets.CJ_KEY";;     D) name="secrets.CJ_TOKEN";;
+              E) name="secrets.CJDROPSHIPPING_API_KEY";;
+              V) name="vars.CJ_API_KEY";;
+              T) name="secrets.GITHUB_TOKEN (Kontrolle)";;
             esac
-            printf '%-24s %s Zeichen\n' "$name" "${#wert}"
+            printf '%-38s %s Zeichen\n' "$name" "${#wert}"
           done
           echo ""
-          echo "Erwartet werden rund 40 bis 60 Zeichen im Format"
-          echo "CJUserNum@api@... — 0 Zeichen heißt, Actions findet unter"
-          echo "diesem Namen kein Secret."
+          echo "Der CJ-Schlüssel hat rund 40 bis 60 Zeichen."
+          echo "Hat die Kontrollzeile GITHUB_TOKEN eine Länge > 0, kommen"
+          echo "Secrets in diesem Job grundsätzlich an — dann liegt es am"
+          echo "Namen, am Reiter oder am Repository."
 
       # Die Eingabe geht über eine Umgebungsvariable und von dort als
       # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
