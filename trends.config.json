@@ -72,6 +72,16 @@
         "katzenhaus draußen",
         "beheiztes katzenhaus"
       ]
+    },
+    {
+      "name": "stauraum-kandidaten",
+      "begriffe": [
+        "sitzhocker mit stauraum",
+        "hocker mit stauraum",
+        "stoffkommode",
+        "kommode schmal",
+        "wäschesortierer"
+      ]
     }
   ]
 }
