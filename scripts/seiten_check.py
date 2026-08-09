@@ -381,10 +381,23 @@ def bericht(daten: dict) -> str:
                  f"| {zaehl(eintraege, *UNGEPRUEFT)} |")
     z.append("")
 
+    # Gezählt wird über den Code, nicht über den Befundtext. Der Text
+    # enthält bei Weiterleitungen das Ziel und ist damit für jede Adresse
+    # verschieden — die Tabelle hätte sonst 97 Zeilen mit je einer Eins.
     z += ["## Alle Befunde gezählt", "",
           "| Befund | Anzahl |", "|---|---:|"]
-    for befund, anzahl in Counter(e["befund"] for e in eintraege).most_common():
-        z.append(f"| {befund} | {anzahl} |")
+    namen = {"ok": "ok", "en_ok": "/en/ verweist auf die deutsche Fassung",
+             "weiterleitung": "leitet weiter", "en_404": "/en/ 404",
+             "de_404": "404 auf deutscher Adresse",
+             "duplikat": "deutscher Inhalt unter /en/, kanonisch auf sich selbst",
+             "en_selbstkanonisch": "/en/ kanonisch auf sich selbst",
+             "en_lang_falsch": "lang=en, Text deutsch",
+             "kein_canonical": "kein Canonical",
+             "canonical_fremd": "Canonical zeigt woanders hin",
+             "gedrosselt": "gedrosselt (429)", "unerreichbar": "nicht erreichbar",
+             "http_fehler": "sonstiger HTTP-Fehler"}
+    for code, anzahl in Counter(e["code"] for e in eintraege).most_common():
+        z.append(f"| {namen.get(code, code)} | {anzahl} |")
     return "\n".join(z) + "\n"
 
 
@@ -436,7 +449,19 @@ def main() -> None:
     ap.add_argument("--out", default="daten")
     ap.add_argument("--limit", type=int, default=0,
                     help="nur die ersten N Adressen (zum Ausprobieren)")
+    # Der Bericht soll sich ohne neuen Crawl neu erzeugen lassen. Sonst
+    # verleitet jede Verbesserung an der Darstellung zu einem weiteren
+    # Lauf gegen den Shop.
+    ap.add_argument("--bericht-aus", dest="bericht_aus",
+                    help="SEITEN.md aus einer vorhandenen JSON neu schreiben")
     a = ap.parse_args()
+
+    if a.bericht_aus:
+        daten = json.loads(Path(a.bericht_aus).read_text(encoding="utf-8"))
+        Path("SEITEN.md").write_text(bericht(daten), encoding="utf-8")
+        print(f"SEITEN.md aus {a.bericht_aus} neu geschrieben "
+              f"({len(daten['eintraege'])} Einträge)")
+        return
 
     if a.sitemap:
         sys.exit(crawl(a.sitemap, a.limit, Path(a.out)))
