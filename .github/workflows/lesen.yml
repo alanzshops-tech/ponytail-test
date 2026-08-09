@@ -1,0 +1,85 @@
+name: Seiten lesen
+
+# Der Runner als Lesegerät. Die Arbeitsumgebung erreicht nur GitHub und
+# PyPI — jede andere Adresse lehnt der Proxy schon beim Verbindungsaufbau
+# mit 403 ab. GitHub ist erreichbar, also liest der Runner und legt das
+# Ergebnis nach gelesen/ ins Repository.
+#
+# Aufruf über "Run workflow" mit einer oder mehreren Adressen, oder durch
+# Eintragen in lesen.txt und Push.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Adressen, durch Komma getrennt"
+        required: false
+      aufraeumen:
+        description: "gelesen/ vorher leeren"
+        type: boolean
+        default: false
+  push:
+    branches: ["claude/**", main]
+    paths:
+      - "lesen.txt"
+      - "scripts/lesen.py"
+      - ".github/workflows/lesen.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  lesen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # trafilatura trennt Haupttext von Navigation und Fußzeile. Ohne das
+      # Paket läuft das Skript weiter, nimmt aber den gröberen Notbehelf —
+      # deshalb kein Abbruch bei fehlgeschlagener Installation.
+      - name: Abhängigkeiten
+        continue-on-error: true
+        run: pip install --quiet trafilatura
+
+      - name: Lesen
+        run: |
+          if [ "${{ inputs.aufraeumen }}" = "true" ]; then
+            rm -rf gelesen && echo "gelesen/ geleert"
+          fi
+          python3 scripts/lesen.py \
+            --urls "${{ inputs.urls }}" \
+            --datei lesen.txt \
+            --out gelesen
+
+      - name: Übersicht in die Zusammenfassung
+        if: always()
+        run: |
+          {
+            echo '### Gelesene Seiten'
+            echo ''
+            for f in gelesen/*.md; do
+              [ -e "$f" ] || continue
+              echo "- \`$f\` — $(head -1 "$f" | cut -c3-90)"
+            done
+          } >> $GITHUB_STEP_SUMMARY
+
+      - name: Ergebnis committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gelesen
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "Seiten gelesen am $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
