@@ -80,29 +80,12 @@
         "padding_bottom": 0
       }
     },
-    "175490368314e073b7": {
-      "type": "apps",
-      "blocks": {
-        "pickslide_collection_carousel_slideshow_LP7GeP": {
-          "type": "shopify://apps/pickslide-collection-carousel/blocks/slideshow/34945e04-da19-4b10-a833-1e10784b19cc",
-          "settings": {
-            "carousel_id": "default"
-          }
-        }
-      },
-      "block_order": [
-        "pickslide_collection_carousel_slideshow_LP7GeP"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
         "collection": "dekoration",
         "products_to_show": 8,
-        "title": "Bestseller",
+        "title": "Unsere Auswahl",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -211,7 +194,6 @@
   "order": [
     "image_banner",
     "rich_text_qgRzTe",
-    "175490368314e073b7",
     "featured_collection",
     "custom_liquid_66nKzE",
     "collection_list_Xm8GYP",

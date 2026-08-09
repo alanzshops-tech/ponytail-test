@@ -27,3 +27,23 @@ Geändert:
 Behalten: Hero, Vertrauenszeile, der aktive Carousel-Block.
 
 Von 28.871 auf 10.661 Zeichen.
+
+## Nachtrag vom 9. August 2026, nach der Kaufprobe
+
+Drei Korrekturen, alle durch Messung ausgelöst, nicht durch Nachdenken:
+
+1. **Zahlarten in der FAQ.** Ich hatte „PayPal, Klarna, Apple Pay, Google
+   Pay, Kreditkarte und SEPA" geschrieben. Die Kasse bietet Kreditkarte,
+   PayPal, Klarna und Banküberweisung an, dazu Shop Pay und Google Pay
+   als Express-Knöpfe. SEPA gibt es nicht. Eine erfundene Zahlart ist
+   dieselbe Sorte Behauptung wie eine erfundene Bewertung.
+
+2. **Karussell entfernt.** Es zeigte exakt dieselben sechs Kategorien wie
+   der Abschnitt „Kategorien" 1500 Pixel weiter unten — gemessen, nicht
+   geschätzt. Zweimal dieselbe Navigation auf einer Seite.
+
+3. **„Bestseller" heißt jetzt „Unsere Auswahl".** Der Abschnitt zog aus
+   einer automatischen Kollektion, deren Regel „alles über 10 €" lautet.
+   Von den sechs Artikeln, die in drei Jahren tatsächlich verkauft
+   wurden, ist keiner mehr im Sortiment. Es gab also nichts, worauf sich
+   das Wort hätte stützen können.
