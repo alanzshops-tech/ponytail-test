@@ -1,0 +1,120 @@
+{
+  "stand": "2026-08-09T21:15:06+00:00",
+  "vorschau": {
+    "url": "https://www.homeeins.de/?preview_theme_id=182664626499",
+    "theme_id": "182664626499",
+    "mobil_bild": "bilder/vorschau-mobil.jpg",
+    "mobil_bild_kb": 580,
+    "mobil_hoehe": 4338,
+    "mobil_querscroll": false,
+    "mobil_fehlerhafte_anfragen": [
+      "403 https://shop.app/pay/hop?analytics_trace_id=956291fc-ace3-4a78-bd1c-e6f513431c26&target_origin=https%3A%2F%2Fw"
+    ],
+    "gefundene_faelschungen": [],
+    "bilder_kaputt": [],
+    "bilder_gesamt": 25,
+    "hat_banner": true,
+    "hat_vertrauenszeile": true,
+    "hat_bestseller": true,
+    "hat_zahlungslogos": true,
+    "hat_kategorien": true,
+    "hat_faq": true,
+    "produktkacheln": 28,
+    "leere_abschnitte": [],
+    "desktop_bild": "bilder/vorschau-desktop.jpg",
+    "desktop_bild_kb": 469,
+    "desktop_hoehe": 4052,
+    "desktop_querscroll": false,
+    "desktop_fehlerhafte_anfragen": [
+      "403 https://shop.app/pay/hop?analytics_trace_id=7bf52acb-89cf-421f-a218-bf407fff13d0&target_origin=https%3A%2F%2Fw"
+    ]
+  },
+  "produkte": [
+    {
+      "pfad": "/products/vorratsbehaelter-luftdicht-schwarz",
+      "herkunft": "bestand",
+      "status": 200,
+      "ausverkauft_sichtbar": false,
+      "preis_sichtbar": true,
+      "mwst_hinweis": false,
+      "bild_produktseite": "bilder/kauf-1-produkt-bestand.jpg",
+      "geklickt": true,
+      "knopf": "product-form button[name='add']",
+      "korb_nach_klick": {
+        "anzahl": 1,
+        "summe": 2499,
+        "waehrung": "EUR",
+        "posten": [
+          "Vorratsbehälter mit Deckel – Luftdicht für Küche &amp; Speisekammer - BLACK ×1"
+        ]
+      },
+      "bild_warenkorb": "bilder/kauf-2-korb-bestand.jpg",
+      "korb_leer_text": false,
+      "kasse_knopf": 2
+    },
+    {
+      "pfad": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+      "herkunft": "selbst",
+      "status": 200,
+      "ausverkauft_sichtbar": false,
+      "preis_sichtbar": true,
+      "mwst_hinweis": false,
+      "bild_produktseite": "bilder/kauf-1-produkt-selbst.jpg",
+      "geklickt": true,
+      "knopf": "product-form button[name='add']",
+      "korb_nach_klick": {
+        "anzahl": 1,
+        "summe": 2999,
+        "waehrung": "EUR",
+        "posten": [
+          "LED-Taschenlampe aufladbar – 7 Leuchtmodi, Zoom &amp; Warnlicht, USB-C - 1 Stück ×1"
+        ]
+      },
+      "bild_warenkorb": "bilder/kauf-2-korb-selbst.jpg",
+      "korb_leer_text": false,
+      "kasse_knopf": 2
+    }
+  ],
+  "kasse": {
+    "korb": {
+      "anzahl": 1,
+      "summe": 2499,
+      "waehrung": "EUR",
+      "posten": [
+        "Vorratsbehälter mit Deckel – Luftdicht für Küche &amp; Speisekammer - BLACK ×1"
+      ]
+    },
+    "status": 200,
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFT9fLyMFjJ18bQjItsZFK/de-us?_r=AQABxSXLFFXg0qaCLMKZTonWQlPmqKCibRvA1J-MFEYZ&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=y6Ws4KHORMs7jAUB8xI58YDbUmDVKVJq1hALhWm6vANaUFPbI8ELmmzyv4l8E5k66QGc8AAyHBAYcRz6pi-CHvkhJr4yTyg9cParj1O4iQSkZf2Ikx7q_TdyoF_EvfkZUAQolL8blBdVmCGJxvo3X-vU8hdwxz11Cu3awUQNuOqCrzL0O45PI9T-Jwx244pEEyjL1Bvqq2t6Ngr6myNpIVU",
+    "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
+    "zahlarten_vor_adresse": [
+      "PayPal",
+      "Kreditkarte",
+      "Rechnung"
+    ],
+    "erreichbar": true,
+    "felder_gefuellt": [
+      "email",
+      "firstName",
+      "lastName",
+      "address1",
+      "postalCode",
+      "city"
+    ],
+    "zahlarten_nach_adresse": [
+      "PayPal",
+      "Kreditkarte",
+      "Rechnung"
+    ],
+    "versandhinweis": [
+      "Lieferung",
+      "Versand",
+      "Wähle eine Versandart aus",
+      "Versand",
+      "Neuer Gesamtpreis: 39,98 € EURAktualisierte Versandart: Auslandsversand (bis 2kg)"
+    ],
+    "fehlermeldungen": [],
+    "bezahlknopf": 4,
+    "bild_kasse_gefuellt": "bilder/kauf-4-kasse-adresse.jpg"
+  }
+}
