@@ -88,3 +88,14 @@ jobs:
             sleep $((v * 5))
           done
           exit 1
+
+      # Das rohe HTML wird nicht committet -- zu gross und zu fluechtig.
+      # Als Artefakt bleibt es 30 Tage abrufbar, wenn eine Frage auftaucht,
+      # die der Fliesstext nicht beantwortet.
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: roh-html
+          path: roh/
+          retention-days: 30
+          if-no-files-found: ignore
