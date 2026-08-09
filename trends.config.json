@@ -82,6 +82,46 @@
         "kommode schmal",
         "wäschesortierer"
       ]
+    },
+    {
+      "name": "reinigung",
+      "begriffe": [
+        "dampfreiniger",
+        "nass trockensauger",
+        "polsterreiniger",
+        "akkustaubsauger",
+        "hochdruckreiniger"
+      ]
+    },
+    {
+      "name": "werkzeug-auto",
+      "begriffe": [
+        "akkuschrauber",
+        "werkzeugkoffer",
+        "batterietester",
+        "anhängerkupplung",
+        "drehmomentschlüssel"
+      ]
+    },
+    {
+      "name": "licht-energie",
+      "begriffe": [
+        "stirnlampe",
+        "taschenlampe",
+        "arbeitsleuchte",
+        "solar halterung",
+        "akku ladegerät"
+      ]
+    },
+    {
+      "name": "haus-technik",
+      "begriffe": [
+        "heißluftfritteuse",
+        "duschhocker",
+        "atemschutzmaske",
+        "kettensäge akku",
+        "wäschespinne"
+      ]
     }
   ]
 }
