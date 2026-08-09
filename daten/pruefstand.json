@@ -226,7 +226,7 @@
         "widget_da": true,
         "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
         "sterne_symbole": 1,
-        "wort_bewertung": 0,
+        "wort_bewertung": 1,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -273,7 +273,7 @@
         "widget_da": true,
         "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
         "sterne_symbole": 0,
-        "wort_bewertung": 0,
+        "wort_bewertung": 1,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -320,7 +320,7 @@
         "widget_da": true,
         "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
         "sterne_symbole": 0,
-        "wort_bewertung": 0,
+        "wort_bewertung": 1,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -399,6 +399,100 @@
         "zu_breit": 0
       },
       "bild": "bilder/pruefstand/cart-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 12,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 14,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 1,
+        "aggregate_rating": 1
+      },
+      "text": {
+        "absaetze": 20,
+        "schriftgroesse_median": 15,
+        "zu_klein": 20,
+        "zeilenlaenge_median": 46,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 12,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600912359747__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 14,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 1,
+        "aggregate_rating": 1
+      },
+      "text": {
+        "absaetze": 47,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-desktop.png",
       "vergleich": null
     }
   ]
