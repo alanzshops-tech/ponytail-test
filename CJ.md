@@ -8,7 +8,7 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 
 ## * — 368 geholt, 368 laut CJ passend
 
-**Was dort liegt:** ohne Angabe (368)
+**Was dort liegt:** Hand Tools (235) · Home Office Storage (36) · Furniture (23) · Camping & Hiking (11) · Office & School Supplies (10) · Lady Dresses (10) · Suits & Sets (6) · Event & Party Supplies (4) · Kitchen Storage (4) · Power Tools (3) · Blouses & Shirts (3) · Dinnerware (2)
 
 | Artikel | Preis | Bestand DE | gelistet von | Bearb. | SKU |
 |---|---:|---:|---:|---|---|
