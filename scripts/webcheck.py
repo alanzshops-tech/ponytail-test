@@ -27,6 +27,7 @@ import json
 import re
 from datetime import date
 from pathlib import Path
+from collections import defaultdict
 from urllib.parse import urlsplit
 
 # Ein iPhone 14 ist 390 Punkte breit, ein üblicher Laptop 1440. Zwischen
@@ -102,6 +103,26 @@ def eine_seite(browser, url: str, geraet: str, bilder: Path) -> dict:
     messwerte["fehlerhafte_anfragen"] = [
         a["url"][:110] for a in anfragen if a["status"] >= 400][:8]
 
+    # Nach Absender gruppieren. Erst das zeigt, welche App wie viel kostet
+    # — "1260 kB Skripte" ist eine Zahl, "davon 400 kB von einem
+    # Bewertungs-Widget" ist eine Entscheidungsgrundlage.
+    eigen = urlsplit(url).netloc
+    nach_host: dict[str, dict] = defaultdict(
+        lambda: {"anfragen": 0, "kb": 0})
+    for a in anfragen:
+        h = urlsplit(a["url"]).netloc or "(inline)"
+        nach_host[h]["anfragen"] += 1
+        nach_host[h]["kb"] += a["groesse"] / 1024
+    messwerte["nach_host"] = [
+        {"host": h, "eigen": h.endswith(eigen) or "shopify" in h,
+         "anfragen": v["anfragen"], "kb": round(v["kb"])}
+        for h, v in sorted(nach_host.items(),
+                           key=lambda x: -x[1]["anfragen"])]
+    fremd = [x for x in messwerte["nach_host"] if not x["eigen"]]
+    messwerte["fremde_hosts"] = len(fremd)
+    messwerte["fremde_anfragen"] = sum(x["anfragen"] for x in fremd)
+    messwerte["fremde_kb"] = sum(x["kb"] for x in fremd)
+
     bilder.mkdir(parents=True, exist_ok=True)
     ziel = bilder / f"{name_aus(url)}-{geraet}.jpg"
     # Ganze Seite, damit auch der Bereich unterhalb des Falzes zu sehen
@@ -165,6 +186,21 @@ def bericht(daten: dict) -> str:
             probleme.append(f"`{p}` lädt etwas, das fehlschlägt: {f}")
     if probleme:
         z += ["## Befunde", ""] + [f"- {x}" for x in dict.fromkeys(probleme)] + [""]
+
+    z += ["## Woher die Anfragen kommen", "",
+          "Nur Startseite, mobil. **Fremd** heißt: nicht von homeeins.de "
+          "und nicht von Shopify selbst — also Apps und Dienste Dritter.", ""]
+    for m in daten["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil" or not m["url"].endswith(".de/"):
+            continue
+        z += [f"Insgesamt {m['anfragen']} Anfragen, davon "
+              f"**{m.get('fremde_anfragen', 0)} von {m.get('fremde_hosts', 0)} "
+              f"fremden Servern** mit {m.get('fremde_kb', 0)} kB.", "",
+              "| Absender | Anfragen | kB | eigen |", "|---|---:|---:|:-:|"]
+        for h in m.get("nach_host", [])[:22]:
+            z.append(f"| {h['host'][:46]} | {h['anfragen']} | {h['kb']} "
+                     f"| {'ja' if h['eigen'] else '**nein**'} |")
+        z.append("")
 
     z += ["## Bilder", "",
           "Vollständige Seitenfotos liegen in `bilder/`.", ""]
