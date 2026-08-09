@@ -5,19 +5,63 @@
   "gruppen": [
     {
       "name": "stauraum",
-      "begriffe": ["waschmaschinenschrank", "schuhbank", "weinregal", "wäschekorb", "raumteiler"]
+      "begriffe": [
+        "waschmaschinenschrank",
+        "schuhbank",
+        "weinregal",
+        "wäschekorb",
+        "raumteiler"
+      ]
     },
     {
       "name": "wohnen",
-      "begriffe": ["couchtisch", "samtsessel", "nachttisch", "kunstpflanze", "gewichtsdecke"]
+      "begriffe": [
+        "couchtisch",
+        "samtsessel",
+        "nachttisch",
+        "kunstpflanze",
+        "gewichtsdecke"
+      ]
     },
     {
       "name": "garten",
-      "begriffe": ["sonnenliege", "feuerschale", "gartenstuhl", "gartenmöbel", "rattan lounge"]
+      "begriffe": [
+        "sonnenliege",
+        "feuerschale",
+        "gartenstuhl",
+        "gartenmöbel",
+        "rattan lounge"
+      ]
     },
     {
       "name": "haustier-buero",
-      "begriffe": ["hundesofa", "hundebett", "kratzbaum", "bürostuhl", "schreibtischstuhl"]
+      "begriffe": [
+        "hundesofa",
+        "hundebett",
+        "kratzbaum",
+        "bürostuhl",
+        "schreibtischstuhl"
+      ]
+    },
+    {
+      "name": "hund-oberbegriffe",
+      "begriffe": [
+        "hundezubehör",
+        "hundebett",
+        "hundegeschirr",
+        "hundespielzeug",
+        "hundenapf"
+      ]
+    },
+    {
+      "name": "hund-kandidaten",
+      "begriffe": [
+        "futterautomat hund",
+        "schnüffelteppich",
+        "hundebademantel",
+        "gps tracker hund",
+        "napf erhöht hund"
+      ]
     }
   ]
 }
