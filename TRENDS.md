@@ -17,10 +17,9 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
 - *waschmaschinenschrank*: tchibo waschmaschinenschrank (+40 %)
-- *schuhbank*: schuhbank buche (+50 %)
-- *weinregal*: weinregal aus metall (+100 %), schmales weinregal (+70 %), weinregal eiche (+50 %)
-- *wäschekorb*: wäschekorb schäfchenwelt (+32700 %), stadlwerk wäschekorb (+27500 %), hermes wäschekorb (+300 %), wäschekorb braun (+50 %), badezimmerschrank mit wäschekorb (+50 %)
-- *raumteiler*: raumteiler holzlamellen (+70 %), tv raumteiler freistehend (+60 %)
+- *weinregal*: schmales weinregal (+70 %), weinregal eiche (+50 %)
+- *wäschekorb*: wäschekorb schäfchenwelt (+32700 %), stadlwerk wäschekorb (+27500 %), wäschekorb traumwelten (+550 %), wäschekorb braun (+50 %), badezimmerschrank mit wäschekorb (+50 %)
+- *raumteiler*: raumteiler holzlamellen (+70 %)
 
 ## wohnen
 
@@ -31,6 +30,13 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 | couchtisch | 56 | 63.7 | 100 am 2025-12-28 | +10 % | stabil |
 | gewichtsdecke | 3 | 5.3 | 11 am 2025-11-23 | -25 % | Nebensaison, zurückstellen |
 | samtsessel | 0 | 0.0 | 1 am 2025-08-24 | +0 % | stabil |
+
+**Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
+
+- *couchtisch*: brauner couchtisch (+110 %), metallbude couchtisch (+110 %), couchtisch walnuss (+90 %), jysk couchtisch (+70 %), sklum couchtisch (+70 %)
+- *nachttisch*: nachttisch braun (+70 %), sklum nachttisch (+70 %), nachttisch dunkelbraun (+60 %), nachttisch schwebend (+50 %), nachttisch nussbaum (+40 %)
+- *kunstpflanze*: jysk kunstpflanzen (+50 %), große kunstpflanze (+50 %)
+- *gewichtsdecke*: gewichtsdecke testsieger (+170 %), gewichtsdecke erwachsene (+100 %), action gewichtsdecke (+70 %), wie schwer sollte eine gewichtsdecke sein (+70 %), gewichtsdecke 8 kg (+50 %)
 
 ## garten
 
@@ -44,10 +50,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *sonnenliege*: sonnenliege mit sonnenschutz (+170 %), sonnenliege teakholz (+110 %), sonnenliege extra hoch lidl (+100 %), sonnenliege 2er set (+40 %), kesser sonnenliege (+40 %)
-- *feuerschale*: ninja feuerschale (+350 %), rauchfreie feuerschale (+120 %), fennek feuerschale (+100 %), feuerschale 60 cm durchmesser (+70 %), feuerschale rauchfrei (+70 %)
+- *sonnenliege*: sonnenliege mit sonnenschutz (+170 %), sonnenliege 2er set (+40 %), kesser sonnenliege (+40 %), sonnenliege beige (+40 %), sonnenliege für 2 personen (+40 %)
+- *feuerschale*: rauchfreie feuerschale (+120 %), fennek feuerschale (+100 %), feuerschale 60 cm durchmesser (+70 %), feuerschale rauchfrei (+70 %), faltbare feuerschale (+60 %)
 - *gartenstuhl*: gartenstuhl verstellbare rückenlehne (+110 %), jutlandia gartenstuhl (+90 %), bequemer gartenstuhl (+60 %), gartenstuhl beige (+40 %)
-- *gartenmöbel*: aldi gartenmöbel 2026 (+3400 %), galaxus gartenmöbel (+750 %), qvc gartenmöbel (+200 %), aldi süd gartenmöbel (+100 %), gartenmöbel auflagen (+80 %)
+- *gartenmöbel*: qvc hartman gartenmöbel (+1200 %), galaxus gartenmöbel (+750 %), qvc gartenmöbel green lounge (+350 %), qvc gartenmöbel (+200 %), sklum (+60 %)
 
 ## haustier-buero
 
@@ -61,8 +67,8 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
-- *hundebett*: ralph lauren hundebett (+130 %), barbour hundebett (+60 %), tedi hundebett (+50 %), scruffs hundebett (+50 %), rundes hundebett (+40 %)
-- *kratzbaum*: kratzbaum mit hängematte (+70 %), sisalseil für kratzbaum (+50 %), kratzbaum wandmontage (+40 %)
+- *hundebett*: ralph lauren hundebett (+130 %), dogs creek hundebett (+70 %), aufblasbares hundebett (+60 %), barbour hundebett (+60 %), tedi hundebett (+50 %)
+- *kratzbaum*: günstiger kratzbaum (+170 %), canadian cat company kratzbaum (+80 %), petrebels kratzbaum xxl (+70 %), sisalseil für kratzbaum (+50 %), kratzbaum wandmontage (+40 %)
 - *bürostuhl*: ofinto bürostuhl (+90 %), bequemer bürostuhl (+40 %)
 - *schreibtischstuhl*: schreibtischstuhl mit fußstütze (+60 %), schreibtischstuhl teenager (+60 %), jysk schreibtischstuhl (+50 %)
 
@@ -79,10 +85,10 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 **Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
 
 - *hundezubehör*: hunter hundezubehör (+170 %), kik hundezubehör (+90 %), hundezubehör günstig (+90 %), hundezubehör online (+70 %), hundezubehör luxus (+60 %)
-- *hundebett*: ralph lauren hundebett (+130 %), barbour hundebett (+60 %), tedi hundebett (+50 %), scruffs hundebett (+50 %), rundes hundebett (+40 %)
-- *hundegeschirr*: fellstern hundegeschirr erfahrungen (+27100 %), any x hundegeschirr (+17700 %), hundegeschirr mit brustring (+250 %), feltmann hundegeschirr (+200 %), freudentier hundegeschirr (+150 %)
-- *hundespielzeug*: hundespielzeug ostern (+21800 %), boggle hundespielzeug (+16200 %), tchibo hundespielzeug halloween (+500 %), snoop hundespielzeug (+90 %), tchibo hundespielzeug (+70 %)
-- *hundenapf*: hundenapf mit name (+110 %)
+- *hundebett*: ralph lauren hundebett (+130 %), dogs creek hundebett (+70 %), aufblasbares hundebett (+60 %), barbour hundebett (+60 %), tedi hundebett (+50 %)
+- *hundegeschirr*: any x hundegeschirr (+17700 %), hundegeschirr mit brustring (+250 %), feltmann hundegeschirr (+200 %), freudentier hundegeschirr (+150 %), grossenbacher hundegeschirr (+90 %)
+- *hundespielzeug*: coockoo hundespielzeug (+9000 %), snoop hundespielzeug (+90 %), tchibo hundespielzeug (+70 %)
+- *hundenapf*: hundenapf höhle der löwen (+350 %), hundenapf mit name (+110 %)
 
 ## hund-kandidaten
 
@@ -109,4 +115,18 @@ Indexwerte 0–100, **nur innerhalb einer Gruppe vergleichbar**. 100 = Höchstwe
 | katzenschrank | 17 | 3.1 | 66 am 2026-03-01 | +0 % | stabil |
 | katzenhaus draußen | 18 | 7.2 | 100 am 2025-11-23 | +0 % | stabil |
 | beheiztes katzenhaus | 0 | 0 | 0 am 2025-08-03 | +0 % | stabil |
+
+## stauraum-kandidaten
+
+| Begriff | Jetzt | Jahresmittel | Saisonhoch | vs. 3 Mon. | Einordnung |
+|---|---:|---:|---|---:|---|
+| stoffkommode | 1 | 0.0 | 1 am 2026-07-26 | +0 % | stabil |
+| wäschesortierer | 13 | 10.8 | 27 am 2025-09-28 | +0 % | stabil |
+| sitzhocker mit stauraum | 12 | 10.9 | 33 am 2025-12-07 | +0 % | stabil |
+| kommode schmal | 61 | 67.0 | 100 am 2025-12-28 | +9 % | stabil |
+| hocker mit stauraum | 32 | 37.4 | 76 am 2025-12-28 | +45 % | steigt deutlich |
+
+**Aufsteigende Suchanfragen** — Begriffe mit wachsender Nachfrage, oft noch wenig umkämpft:
+
+- *hocker mit stauraum*: hocker mit stauraum jysk (+50 %)
 

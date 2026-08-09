@@ -1091,17 +1091,7 @@
             "zuwachs": 40
           }
         ],
-        "schuhbank": [
-          {
-            "anfrage": "schuhbank buche",
-            "zuwachs": 50
-          }
-        ],
         "weinregal": [
-          {
-            "anfrage": "weinregal aus metall",
-            "zuwachs": 100
-          },
           {
             "anfrage": "schmales weinregal",
             "zuwachs": 70
@@ -1121,8 +1111,8 @@
             "zuwachs": 27500
           },
           {
-            "anfrage": "hermes wäschekorb",
-            "zuwachs": 300
+            "anfrage": "wäschekorb traumwelten",
+            "zuwachs": 550
           },
           {
             "anfrage": "wäschekorb braun",
@@ -1137,10 +1127,6 @@
           {
             "anfrage": "raumteiler holzlamellen",
             "zuwachs": 70
-          },
-          {
-            "anfrage": "tv raumteiler freistehend",
-            "zuwachs": 60
           }
         ]
       },
@@ -2268,7 +2254,84 @@
           }
         ]
       },
-      "steigend": {},
+      "steigend": {
+        "couchtisch": [
+          {
+            "anfrage": "brauner couchtisch",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "metallbude couchtisch",
+            "zuwachs": 110
+          },
+          {
+            "anfrage": "couchtisch walnuss",
+            "zuwachs": 90
+          },
+          {
+            "anfrage": "jysk couchtisch",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "sklum couchtisch",
+            "zuwachs": 70
+          }
+        ],
+        "nachttisch": [
+          {
+            "anfrage": "nachttisch braun",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "sklum nachttisch",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "nachttisch dunkelbraun",
+            "zuwachs": 60
+          },
+          {
+            "anfrage": "nachttisch schwebend",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "nachttisch nussbaum",
+            "zuwachs": 40
+          }
+        ],
+        "kunstpflanze": [
+          {
+            "anfrage": "jysk kunstpflanzen",
+            "zuwachs": 50
+          },
+          {
+            "anfrage": "große kunstpflanze",
+            "zuwachs": 50
+          }
+        ],
+        "gewichtsdecke": [
+          {
+            "anfrage": "gewichtsdecke testsieger",
+            "zuwachs": 170
+          },
+          {
+            "anfrage": "gewichtsdecke erwachsene",
+            "zuwachs": 100
+          },
+          {
+            "anfrage": "action gewichtsdecke",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "wie schwer sollte eine gewichtsdecke sein",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "gewichtsdecke 8 kg",
+            "zuwachs": 50
+          }
+        ]
+      },
       "kennzahlen": {
         "couchtisch": {
           "jetzt": 56,
@@ -3400,27 +3463,23 @@
             "zuwachs": 170
           },
           {
-            "anfrage": "sonnenliege teakholz",
-            "zuwachs": 110
-          },
-          {
-            "anfrage": "sonnenliege extra hoch lidl",
-            "zuwachs": 100
-          },
-          {
             "anfrage": "sonnenliege 2er set",
             "zuwachs": 40
           },
           {
             "anfrage": "kesser sonnenliege",
             "zuwachs": 40
+          },
+          {
+            "anfrage": "sonnenliege beige",
+            "zuwachs": 40
+          },
+          {
+            "anfrage": "sonnenliege für 2 personen",
+            "zuwachs": 40
           }
         ],
         "feuerschale": [
-          {
-            "anfrage": "ninja feuerschale",
-            "zuwachs": 350
-          },
           {
             "anfrage": "rauchfreie feuerschale",
             "zuwachs": 120
@@ -3436,6 +3495,10 @@
           {
             "anfrage": "feuerschale rauchfrei",
             "zuwachs": 70
+          },
+          {
+            "anfrage": "faltbare feuerschale",
+            "zuwachs": 60
           }
         ],
         "gartenstuhl": [
@@ -3458,24 +3521,24 @@
         ],
         "gartenmöbel": [
           {
-            "anfrage": "aldi gartenmöbel 2026",
-            "zuwachs": 3400
+            "anfrage": "qvc hartman gartenmöbel",
+            "zuwachs": 1200
           },
           {
             "anfrage": "galaxus gartenmöbel",
             "zuwachs": 750
           },
           {
+            "anfrage": "qvc gartenmöbel green lounge",
+            "zuwachs": 350
+          },
+          {
             "anfrage": "qvc gartenmöbel",
             "zuwachs": 200
           },
           {
-            "anfrage": "aldi süd gartenmöbel",
-            "zuwachs": 100
-          },
-          {
-            "anfrage": "gartenmöbel auflagen",
-            "zuwachs": 80
+            "anfrage": "sklum",
+            "zuwachs": 60
           }
         ]
       },
@@ -4610,25 +4673,33 @@
             "zuwachs": 130
           },
           {
+            "anfrage": "dogs creek hundebett",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "aufblasbares hundebett",
+            "zuwachs": 60
+          },
+          {
             "anfrage": "barbour hundebett",
             "zuwachs": 60
           },
           {
             "anfrage": "tedi hundebett",
             "zuwachs": 50
-          },
-          {
-            "anfrage": "scruffs hundebett",
-            "zuwachs": 50
-          },
-          {
-            "anfrage": "rundes hundebett",
-            "zuwachs": 40
           }
         ],
         "kratzbaum": [
           {
-            "anfrage": "kratzbaum mit hängematte",
+            "anfrage": "günstiger kratzbaum",
+            "zuwachs": 170
+          },
+          {
+            "anfrage": "canadian cat company kratzbaum",
+            "zuwachs": 80
+          },
+          {
+            "anfrage": "petrebels kratzbaum xxl",
             "zuwachs": 70
           },
           {
@@ -5818,27 +5889,23 @@
             "zuwachs": 130
           },
           {
+            "anfrage": "dogs creek hundebett",
+            "zuwachs": 70
+          },
+          {
+            "anfrage": "aufblasbares hundebett",
+            "zuwachs": 60
+          },
+          {
             "anfrage": "barbour hundebett",
             "zuwachs": 60
           },
           {
             "anfrage": "tedi hundebett",
             "zuwachs": 50
-          },
-          {
-            "anfrage": "scruffs hundebett",
-            "zuwachs": 50
-          },
-          {
-            "anfrage": "rundes hundebett",
-            "zuwachs": 40
           }
         ],
         "hundegeschirr": [
-          {
-            "anfrage": "fellstern hundegeschirr erfahrungen",
-            "zuwachs": 27100
-          },
           {
             "anfrage": "any x hundegeschirr",
             "zuwachs": 17700
@@ -5854,20 +5921,16 @@
           {
             "anfrage": "freudentier hundegeschirr",
             "zuwachs": 150
+          },
+          {
+            "anfrage": "grossenbacher hundegeschirr",
+            "zuwachs": 90
           }
         ],
         "hundespielzeug": [
           {
-            "anfrage": "hundespielzeug ostern",
-            "zuwachs": 21800
-          },
-          {
-            "anfrage": "boggle hundespielzeug",
-            "zuwachs": 16200
-          },
-          {
-            "anfrage": "tchibo hundespielzeug halloween",
-            "zuwachs": 500
+            "anfrage": "coockoo hundespielzeug",
+            "zuwachs": 9000
           },
           {
             "anfrage": "snoop hundespielzeug",
@@ -5879,6 +5942,10 @@
           }
         ],
         "hundenapf": [
+          {
+            "anfrage": "hundenapf höhle der löwen",
+            "zuwachs": 350
+          },
           {
             "anfrage": "hundenapf mit name",
             "zuwachs": 110
@@ -8197,6 +8264,1138 @@
           "hoechstwert": 0,
           "hoch_am": "2025-08-03",
           "gegen_jahresmittel_prozent": 0,
+          "gegen_vor_3_monaten_prozent": 0
+        }
+      }
+    },
+    {
+      "name": "stauraum-kandidaten",
+      "begriffe": [
+        "sitzhocker mit stauraum",
+        "hocker mit stauraum",
+        "stoffkommode",
+        "kommode schmal",
+        "wäschesortierer"
+      ],
+      "verlauf": {
+        "sitzhocker mit stauraum": [
+          {
+            "datum": "2025-08-03",
+            "wert": 16
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 15
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 21
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 21
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 29
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 29
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 15
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 15
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 18
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 14
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 33
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 18
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 32
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 23
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 28
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 18
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 17
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 18
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 23
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 15
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 16
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 19
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 15
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 15
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 23
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 15
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 16
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 17
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 12
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 12
+          }
+        ],
+        "hocker mit stauraum": [
+          {
+            "datum": "2025-08-03",
+            "wert": 30
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 26
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 32
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 33
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 36
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 32
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 40
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 45
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 29
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 42
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 37
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 47
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 46
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 45
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 42
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 44
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 30
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 25
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 37
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 38
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 46
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 76
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 49
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 43
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 48
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 48
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 51
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 47
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 41
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 30
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 39
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 33
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 43
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 38
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 47
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 39
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 31
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 38
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 20
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 22
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 37
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 29
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 34
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 57
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 41
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 28
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 20
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 19
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 29
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 28
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 30
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 33
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 32
+          }
+        ],
+        "stoffkommode": [
+          {
+            "datum": "2025-08-03",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 0
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 0
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 0
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 1
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 1
+          }
+        ],
+        "kommode schmal": [
+          {
+            "datum": "2025-08-03",
+            "wert": 56
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 66
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 72
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 66
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 84
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 78
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 86
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 97
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 74
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 60
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 87
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 79
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 96
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 60
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 64
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 69
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 85
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 60
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 59
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 58
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 79
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 100
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 85
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 79
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 87
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 86
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 76
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 94
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 79
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 78
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 71
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 70
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 49
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 59
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 67
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 64
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 66
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 41
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 55
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 56
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 73
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 45
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 28
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 61
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 49
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 37
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 32
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 48
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 50
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 53
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 59
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 59
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 61
+          }
+        ],
+        "wäschesortierer": [
+          {
+            "datum": "2025-08-03",
+            "wert": 23
+          },
+          {
+            "datum": "2025-08-10",
+            "wert": 19
+          },
+          {
+            "datum": "2025-08-17",
+            "wert": 18
+          },
+          {
+            "datum": "2025-08-24",
+            "wert": 16
+          },
+          {
+            "datum": "2025-08-31",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-07",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-21",
+            "wert": 0
+          },
+          {
+            "datum": "2025-09-28",
+            "wert": 27
+          },
+          {
+            "datum": "2025-10-05",
+            "wert": 20
+          },
+          {
+            "datum": "2025-10-12",
+            "wert": 0
+          },
+          {
+            "datum": "2025-10-19",
+            "wert": 24
+          },
+          {
+            "datum": "2025-10-26",
+            "wert": 25
+          },
+          {
+            "datum": "2025-11-02",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-09",
+            "wert": 19
+          },
+          {
+            "datum": "2025-11-16",
+            "wert": 0
+          },
+          {
+            "datum": "2025-11-23",
+            "wert": 15
+          },
+          {
+            "datum": "2025-11-30",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-07",
+            "wert": 18
+          },
+          {
+            "datum": "2025-12-14",
+            "wert": 0
+          },
+          {
+            "datum": "2025-12-21",
+            "wert": 19
+          },
+          {
+            "datum": "2025-12-28",
+            "wert": 25
+          },
+          {
+            "datum": "2026-01-04",
+            "wert": 26
+          },
+          {
+            "datum": "2026-01-11",
+            "wert": 17
+          },
+          {
+            "datum": "2026-01-18",
+            "wert": 20
+          },
+          {
+            "datum": "2026-01-25",
+            "wert": 23
+          },
+          {
+            "datum": "2026-02-01",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-08",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-15",
+            "wert": 0
+          },
+          {
+            "datum": "2026-02-22",
+            "wert": 17
+          },
+          {
+            "datum": "2026-03-01",
+            "wert": 27
+          },
+          {
+            "datum": "2026-03-08",
+            "wert": 27
+          },
+          {
+            "datum": "2026-03-15",
+            "wert": 25
+          },
+          {
+            "datum": "2026-03-22",
+            "wert": 0
+          },
+          {
+            "datum": "2026-03-29",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-04-26",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-03",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-10",
+            "wert": 16
+          },
+          {
+            "datum": "2026-05-17",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-24",
+            "wert": 0
+          },
+          {
+            "datum": "2026-05-31",
+            "wert": 15
+          },
+          {
+            "datum": "2026-06-07",
+            "wert": 15
+          },
+          {
+            "datum": "2026-06-14",
+            "wert": 19
+          },
+          {
+            "datum": "2026-06-21",
+            "wert": 15
+          },
+          {
+            "datum": "2026-06-28",
+            "wert": 15
+          },
+          {
+            "datum": "2026-07-05",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-12",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-19",
+            "wert": 0
+          },
+          {
+            "datum": "2026-07-26",
+            "wert": 16
+          },
+          {
+            "datum": "2026-08-02",
+            "wert": 13
+          }
+        ]
+      },
+      "steigend": {
+        "hocker mit stauraum": [
+          {
+            "anfrage": "hocker mit stauraum jysk",
+            "zuwachs": 50
+          }
+        ]
+      },
+      "kennzahlen": {
+        "sitzhocker mit stauraum": {
+          "jetzt": 12,
+          "jahresmittel": 10.9,
+          "hoechstwert": 33,
+          "hoch_am": "2025-12-07",
+          "gegen_jahresmittel_prozent": 10,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "hocker mit stauraum": {
+          "jetzt": 32,
+          "jahresmittel": 37.4,
+          "hoechstwert": 76,
+          "hoch_am": "2025-12-28",
+          "gegen_jahresmittel_prozent": -14,
+          "gegen_vor_3_monaten_prozent": 45
+        },
+        "stoffkommode": {
+          "jetzt": 1,
+          "jahresmittel": 0.0,
+          "hoechstwert": 1,
+          "hoch_am": "2026-07-26",
+          "gegen_jahresmittel_prozent": 2550,
+          "gegen_vor_3_monaten_prozent": 0
+        },
+        "kommode schmal": {
+          "jetzt": 61,
+          "jahresmittel": 67.0,
+          "hoechstwert": 100,
+          "hoch_am": "2025-12-28",
+          "gegen_jahresmittel_prozent": -9,
+          "gegen_vor_3_monaten_prozent": 9
+        },
+        "wäschesortierer": {
+          "jetzt": 13,
+          "jahresmittel": 10.8,
+          "hoechstwert": 27,
+          "hoch_am": "2025-09-28",
+          "gegen_jahresmittel_prozent": 20,
           "gegen_vor_3_monaten_prozent": 0
         }
       }
