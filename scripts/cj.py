@@ -111,7 +111,7 @@ def lager_pruefen(token: str) -> bool:
 def suchen(token: str, begriff: str, cfg: dict) -> list[dict]:
     time.sleep(TAKT)
     a = anfrage("product/listV2", token=token, params={
-        "keyWord": begriff,
+        "keyWord": None if begriff == "*" else begriff,
         "countryCode": "DE",              # nur mit Bestand in Deutschland
         "verifiedWarehouse": 1,           # nur geprüfter Bestand
         "startWarehouseInventory": cfg.get("mindestbestand", 20),
@@ -124,7 +124,8 @@ def suchen(token: str, begriff: str, cfg: dict) -> list[dict]:
     })
     if not a.get("result"):
         print(f"    Abfrage fehlgeschlagen: {a.get('message')}")
-        return []
+        return [], 0
+    gesamt = (a.get("data") or {}).get("totalRecords", 0)
     treffer: list[dict] = []
     # data.content ist eine Liste, jeder Eintrag trägt eine productList.
     for block in (a.get("data", {}).get("content") or []):
@@ -142,7 +143,7 @@ def suchen(token: str, begriff: str, cfg: dict) -> list[dict]:
                 "bild": p.get("bigImage", ""),
                 "id": p.get("id", ""),
             })
-    return treffer
+    return treffer, gesamt
 
 
 def bericht(daten: dict) -> str:
@@ -157,7 +158,8 @@ def bericht(daten: dict) -> str:
 
     for eintrag in daten["suchen"]:
         treffer = eintrag["treffer"]
-        z.append(f"## {eintrag['begriff']} — {len(treffer)} Treffer")
+        z.append(f"## {eintrag['begriff']} — {len(treffer)} geholt, "
+                 f"{eintrag.get('gesamt_laut_cj', '?')} laut CJ passend")
         z.append("")
         if not treffer:
             z += ["Nichts mit geprüftem Bestand im deutschen Lager.", ""]
@@ -212,9 +214,10 @@ def main() -> None:
     ergebnis = {"stand": str(date.today()), "suchen": []}
     for begriff in cfg["begriffe"]:
         print(f"\n=== {begriff} ===")
-        treffer = suchen(token, begriff, cfg)
-        print(f"  {len(treffer)} Artikel mit geprüftem Bestand in DE")
-        ergebnis["suchen"].append({"begriff": begriff, "treffer": treffer})
+        treffer, gesamt = suchen(token, begriff, cfg)
+        print(f"  {len(treffer)} geholt, {gesamt} laut CJ insgesamt passend")
+        ergebnis["suchen"].append({"begriff": begriff, "treffer": treffer,
+                                   "gesamt_laut_cj": gesamt})
 
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)

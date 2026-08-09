@@ -1,17 +1,11 @@
 {
-  "_hinweis": "Suchbegriffe für den CJ-Katalog. CJ pflegt seinen Katalog auf Englisch, deutsche Begriffe finden dort nichts. Die Auswahl folgt den Trends-Daten vom 9. August 2026: hundebett steigt bis zum Dezember-Hoch (+36 % ab jetzt), hundebademantel verfünffacht sich von August auf Oktober.",
-
-  "mindestbestand": 20,
+  "_hinweis": "Suchbegriffe fuer den CJ-Katalog. '*' bedeutet: kein Suchbegriff, also alles was im deutschen Lager liegt. Die Gesamtzahl dahinter zeigt, wie gross das Lager ueberhaupt ist.",
+  "mindestbestand": 1,
   "treffer": 40,
-
   "begriffe": [
-    "dog bathrobe",
-    "dog drying coat",
-    "dog bed elevated",
-    "dog sofa bed",
-    "dog stairs",
-    "dog raincoat",
-    "dog towel microfiber",
-    "dog car seat cover"
+    "*",
+    "dog",
+    "pet",
+    "hund"
   ]
 }
