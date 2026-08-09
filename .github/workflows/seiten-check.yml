@@ -37,7 +37,9 @@ permissions:
 jobs:
   pruefen:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    # Rund 300 Abrufe im Sekundentakt sind gut fünf Minuten. Der Puffer ist
+    # für den Fall, dass die Bremse anziehen muss.
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

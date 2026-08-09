@@ -31,9 +31,9 @@ import re
 import sys
 import urllib.error
 import urllib.request
+import time
 import xml.etree.ElementTree as ET
 from collections import Counter
-from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from html import unescape
 from pathlib import Path
@@ -52,10 +52,13 @@ WEITERLEITUNG = (301, 302, 303, 307, 308)
 W = r"""["']?([^"'>\s]+)["']?"""
 QC = r"""["']?canonical["']?"""
 
-# Sechs gleichzeitige Abrufe. Shopify verträgt deutlich mehr, aber ein
-# vollständiger Lauf über rund 200 Adressen ist damit in gut einer Minute
-# durch — schneller zu sein bringt nichts und fällt nur unangenehm auf.
-PARALLEL = 6
+# Sequenziell, mit Pause. Der erste vollständige Lauf holte mit sechs
+# parallelen Verbindungen 263 von 304 Adressen als HTTP 429 — Shopify
+# drosselt deutlich früher als erwartet. Ein Crawl, der gedrosselt wird,
+# liefert kein schnelles Ergebnis, sondern gar keins.
+PAUSE_START = 1.0      # Sekunden zwischen zwei Abrufen
+PAUSE_MAX = 8.0
+VERSUCHE = 4           # je Adresse, bei 429
 
 # Funktionswörter trennen Sprachen zuverlässiger als Inhaltswörter, weil
 # Produktnamen oft in beiden Sprachen gleich sind ("Rattan", "Design").
@@ -66,7 +69,9 @@ EN = re.compile(r"\b(and|or|with|for|not|your|the|is|also|from|will|can|"
 
 
 def holen(url: str, folgen: bool = True):
-    """Seite laden. Gibt (Status, Endadresse, HTML) zurück."""
+    """Seite laden. Gibt (Status, Endadresse, HTML, Wartehinweis) zurück.
+
+    Der Wartehinweis ist der Retry-After-Wert in Sekunden, sonst 0."""
     class Stopp(urllib.request.HTTPRedirectHandler):
         def redirect_request(self, *a, **k):
             return None
@@ -76,11 +81,47 @@ def holen(url: str, folgen: bool = True):
         "User-Agent": UA, "Accept-Language": "de-DE,de;q=0.9"})
     try:
         with bauer.open(anfrage, timeout=25) as a:
-            return a.status, a.url, a.read().decode("utf-8", "replace")
+            return a.status, a.url, a.read().decode("utf-8", "replace"), 0
     except urllib.error.HTTPError as e:
-        return e.code, e.headers.get("Location", url), ""
+        try:
+            warte = int(e.headers.get("Retry-After") or 0)
+        except ValueError:                    # auch ein Datum ist erlaubt
+            warte = 10
+        return e.code, e.headers.get("Location", url), "", warte
     except Exception as e:                                    # noqa: BLE001
-        return 0, str(e), ""
+        return 0, str(e), "", 0
+
+
+class Bremse:
+    """Hält das Tempo und zieht an, sobald der Shop drosselt.
+
+    Die Pause wächst bei jedem 429 und sinkt nach erfolgreichen Abrufen
+    langsam wieder — so tastet sich der Lauf an das erlaubte Tempo heran,
+    statt pauschal langsam zu sein oder pauschal zu schnell."""
+
+    def __init__(self) -> None:
+        self.pause = PAUSE_START
+        self.gedrosselt = 0
+        self.gut_in_folge = 0
+
+    def abrufen(self, url: str, folgen: bool = False):
+        for versuch in range(1, VERSUCHE + 1):
+            time.sleep(self.pause)
+            status, ziel, html, warte = holen(url, folgen)
+            if status != 429:
+                self.gut_in_folge += 1
+                if self.gut_in_folge >= 20 and self.pause > PAUSE_START:
+                    self.pause = max(PAUSE_START, self.pause / 1.5)
+                    self.gut_in_folge = 0
+                return status, ziel, html
+            self.gedrosselt += 1
+            self.gut_in_folge = 0
+            self.pause = min(PAUSE_MAX, self.pause * 2)
+            ruhe = max(warte, self.pause * versuch)
+            print(f"    429 bei {url} — warte {ruhe:.0f}s "
+                  f"(Versuch {versuch}/{VERSUCHE}, Takt jetzt {self.pause:.1f}s)")
+            time.sleep(ruhe)
+        return 429, url, ""
 
 
 def kopfdaten(html: str) -> dict:
@@ -119,10 +160,10 @@ def kopfdaten(html: str) -> dict:
 
 def pruefen(url: str) -> None:
     print(f"\n=== {url} ===")
-    status, ziel, _ = holen(url, folgen=False)
+    status, ziel, _, _ = holen(url, folgen=False)
     if status in WEITERLEITUNG:
         print(f"  {status} Weiterleitung -> {ziel}")
-    status, endziel, html = holen(url)
+    status, endziel, html, _ = holen(url)
     print(f"  Status {status}, gelandet bei: {endziel}")
     if not html:
         print("  kein HTML erhalten")
@@ -146,7 +187,7 @@ def sitemap_lesen(url: str, tiefe: int = 0) -> list[str]:
     """Sitemap oder Sitemap-Index rekursiv auflösen."""
     if tiefe > 3:                       # Schutz vor zirkulären Verweisen
         return []
-    status, _, xml = holen(url)
+    status, _, xml, _ = holen(url)
     if status != 200 or not xml:
         print(f"  Sitemap nicht lesbar: {url} (Status {status})",
               file=sys.stderr)
@@ -200,32 +241,40 @@ def ohne_schraegstrich(url: str) -> str:
     return urlunsplit((t.scheme, t.netloc, t.path.rstrip("/"), "", ""))
 
 
-def abrufen(url: str, ist_en: bool) -> dict:
+def abrufen(bremse: "Bremse", url: str, ist_en: bool) -> dict:
     """Eine Adresse prüfen. Nur EIN Abruf, ohne Weiterleitungen zu folgen —
     bei einer Weiterleitung interessiert das Ziel, nicht dessen Inhalt."""
-    status, ziel, html = holen(url, folgen=False)
+    status, ziel, html = bremse.abrufen(url, folgen=False)
     e = {"url": url, "ist_en": ist_en, "status": status, "ziel": ziel,
          "gattung": gattung(url)}
     if status == 200 and html:
         k = kopfdaten(html)
         e["hreflang_anzahl"] = len(k.pop("hreflang"))
         e.update(k)
-    e["befund"] = urteil(e)
+    e["code"], e["befund"] = urteil(e)
     return e
 
 
-def urteil(e: dict) -> str:
-    """Kurzurteil. Grossbuchstaben am Anfang = Handlungsbedarf."""
+# Jeder Befund bekommt einen Code. Der erste vollständige Lauf hat gezeigt,
+# warum: Die Auswertung filterte über den Text ("beginnt mit FEHLER"), und
+# damit landeten 263 gedrosselte Abrufe in der Liste der Seiten, die mit
+# ihrer deutschen Fassung konkurrieren. Die Überschrift meldete 152
+# Duplikate, wo in Wahrheit kein einziges HTML angekommen war. Ein Code
+# kann nicht versehentlich zu einem anderen passen.
+def urteil(e: dict) -> tuple[str, str]:
     st = e["status"]
     if st == 0:
-        return "nicht erreichbar"
+        return "unerreichbar", "nicht erreichbar"
+    if st == 429:
+        return "gedrosselt", "gedrosselt (429), nicht geprüft"
     if st in WEITERLEITUNG:
-        return "leitet weiter"
+        return "weiterleitung", f"leitet weiter -> {e['ziel']}"
     if st == 404:
         # Unter /en/ ist 404 unschoen, aber harmlos: nichts wird indexiert.
-        return "404" if e["ist_en"] else "FEHLER 404 auf deutscher Adresse"
+        return ("en_404", "404") if e["ist_en"] else \
+               ("de_404", "404 auf deutscher Adresse")
     if st != 200:
-        return f"FEHLER HTTP {st}"
+        return "http_fehler", f"HTTP {st}"
 
     eigen = ohne_schraegstrich(e.get("canonical", "")) == ohne_schraegstrich(e["url"])
     deutsch = e.get("sprache") == "Deutsch"
@@ -233,37 +282,69 @@ def urteil(e: dict) -> str:
 
     if e["ist_en"]:
         if eigen and deutsch:
-            return "FEHLER deutscher Inhalt unter /en/, kanonisch auf sich selbst"
+            return "duplikat", ("deutscher Inhalt unter /en/, kanonisch "
+                                "auf sich selbst")
         if eigen:
-            return "WARNUNG /en/ erklaert sich selbst zur kanonischen Adresse"
+            return "en_selbstkanonisch", "/en/ erklärt sich selbst zur kanonischen Adresse"
         if lang_en and deutsch:
-            return "WARNUNG lang=en, Text deutsch"
+            return "en_lang_falsch", "lang=en, Text deutsch"
         if not e.get("canonical"):
-            return "WARNUNG kein Canonical"
-        return "ok (verweist auf die deutsche Fassung)"
+            return "kein_canonical", "kein Canonical"
+        return "en_ok", "ok (verweist auf die deutsche Fassung)"
 
     if not e.get("canonical"):
-        return "WARNUNG kein Canonical"
+        return "kein_canonical", "kein Canonical"
     if not eigen:
-        return f"WARNUNG Canonical zeigt woanders hin: {e['canonical']}"
-    return "ok"
+        return "canonical_fremd", f"Canonical zeigt woanders hin: {e['canonical']}"
+    return "ok", "ok"
+
+
+# Codes, die Handlungsbedarf bedeuten — getrennt von denen, die nur sagen,
+# dass die Prüfung nicht stattgefunden hat.
+PROBLEM = {"duplikat", "en_selbstkanonisch", "en_lang_falsch",
+           "kein_canonical", "canonical_fremd", "de_404", "http_fehler"}
+UNGEPRUEFT = {"gedrosselt", "unerreichbar"}
+
+
+def liste(z: list[str], eintraege: list[dict], max_zeilen: int = 40) -> None:
+    for e in sorted(eintraege, key=lambda x: x["url"])[:max_zeilen]:
+        titel = f" — {e['titel'][:60]}" if e.get("titel") else ""
+        z.append(f"- `{urlsplit(e['url']).path}` — {e['befund']}{titel}")
+    if len(eintraege) > max_zeilen:
+        z.append(f"- … und {len(eintraege) - max_zeilen} weitere")
+    z.append("")
 
 
 def bericht(daten: dict) -> str:
     eintraege = daten["eintraege"]
     en = [e for e in eintraege if e["ist_en"]]
     de = [e for e in eintraege if not e["ist_en"]]
-    kaputt = [e for e in en if e["befund"].startswith("FEHLER")]
-    warn = [e for e in en if e["befund"].startswith("WARNUNG")]
-    de_prob = [e for e in de if not e["befund"].startswith("ok")]
+    ungeprueft = [e for e in eintraege if e["code"] in UNGEPRUEFT]
+    dupl = [e for e in en if e["code"] == "duplikat"]
+    en_warn = [e for e in en if e["code"] in PROBLEM and e["code"] != "duplikat"]
+    de_prob = [e for e in de if e["code"] in PROBLEM]
 
     z = ["# Seitenprüfung — homeeins.de", "",
          f"Stand: {daten['stand']} · Quelle: {daten['sitemap']}", "",
          f"{len(de)} deutsche Adressen aus der Sitemap, dazu je die "
-         f"/en/-Entsprechung geprüft ({len(eintraege)} Abrufe).", ""]
+         f"/en/-Entsprechung ({len(eintraege)} Abrufe).", ""]
 
-    if kaputt:
-        n = len(kaputt)
+    # Zuerst die Belastbarkeit, dann der Befund. Ein Bericht, der die
+    # Luecke verschweigt, ist schlimmer als gar keiner: Er liest sich
+    # vollstaendig.
+    if ungeprueft:
+        anteil = round(len(ungeprueft) / len(eintraege) * 100)
+        z += [f"> **{len(ungeprueft)} von {len(eintraege)} Abrufen ({anteil} %) "
+              f"kamen nicht durch** — gedrosselt oder nicht erreichbar. "
+              f"Die Zahlen unten beziehen sich nur auf die "
+              f"{len(eintraege) - len(ungeprueft)} tatsächlich gelesenen "
+              f"Seiten.", ""]
+        if anteil > 25:
+            z += ["> Bei dieser Ausfallquote ist der Lauf **nicht "
+                  "aussagekräftig**. Er sollte langsamer wiederholt werden.", ""]
+
+    n = len(dupl)
+    if dupl:
         z += [f"## {n} /en/-{'Adresse' if n == 1 else 'Adressen'} "
               f"{'konkurriert' if n == 1 else 'konkurrieren'} mit der "
               f"deutschen Seite", "",
@@ -271,47 +352,39 @@ def bericht(daten: dict) -> str:
               "und erklären sich **selbst** zur kanonischen Adresse. Damit "
               "sieht Google zwei gleichwertige Seiten mit demselben Inhalt "
               "und muss raten, welche gemeint ist.", ""]
-        for e in sorted(kaputt, key=lambda x: x["url"]):
-            z.append(f"- `{urlsplit(e['url']).path}` — {e.get('titel','')[:70]}")
-        z.append("")
+        liste(z, dupl, 60)
     else:
-        z += ["## Keine selbstkanonischen /en/-Seiten gefunden", "",
+        z += ["## Keine selbstkanonischen /en/-Seiten unter den gelesenen "
+              "Adressen", "",
               "Alle geprüften /en/-Adressen leiten weiter, laufen ins 404 "
               "oder verweisen kanonisch auf die deutsche Fassung.", ""]
 
-    if warn:
-        z += [f"## {len(warn)} weitere /en/-Auffälligkeiten", ""]
-        for e in sorted(warn, key=lambda x: x["url"])[:40]:
-            z.append(f"- `{urlsplit(e['url']).path}` — {e['befund']}")
-        if len(warn) > 40:
-            z.append(f"- … und {len(warn) - 40} weitere")
-        z.append("")
+    if en_warn:
+        z += [f"## {len(en_warn)} weitere /en/-Auffälligkeiten", ""]
+        liste(z, en_warn)
 
     if de_prob:
         z += [f"## {len(de_prob)} Auffälligkeiten auf deutschen Adressen", ""]
-        for e in sorted(de_prob, key=lambda x: x["url"])[:40]:
-            z.append(f"- `{urlsplit(e['url']).path}` — {e['befund']}")
-        if len(de_prob) > 40:
-            z.append(f"- … und {len(de_prob) - 40} weitere")
-        z.append("")
+        liste(z, de_prob)
 
     z += ["## Verteilung nach Gattung", "",
-          "| Gattung | deutsch | /en/ leitet weiter | /en/ 404 | /en/ Problem |",
-          "|---|---:|---:|---:|---:|"]
+          "| Gattung | deutsch | /en/ leitet weiter | /en/ 404 | "
+          "/en/ Duplikat | nicht geprüft |",
+          "|---|---:|---:|---:|---:|---:|"]
     for g in sorted({e["gattung"] for e in eintraege}):
-        d = sum(1 for e in de if e["gattung"] == g)
-        w = sum(1 for e in en if e["gattung"] == g
-                and e["befund"] == "leitet weiter")
-        v = sum(1 for e in en if e["gattung"] == g and e["befund"] == "404")
-        p = sum(1 for e in en if e["gattung"] == g
-                and e["befund"].startswith(("FEHLER", "WARNUNG")))
-        z.append(f"| {g} | {d} | {w} | {v} | {p} |")
+        def zaehl(menge, *codes):
+            return sum(1 for e in menge
+                       if e["gattung"] == g and e["code"] in codes)
+        z.append(f"| {g} | {sum(1 for e in de if e['gattung'] == g)} "
+                 f"| {zaehl(en, 'weiterleitung')} | {zaehl(en, 'en_404')} "
+                 f"| {zaehl(en, 'duplikat')} "
+                 f"| {zaehl(eintraege, *UNGEPRUEFT)} |")
     z.append("")
 
     z += ["## Alle Befunde gezählt", "",
           "| Befund | Anzahl |", "|---|---:|"]
-    for befund, n in Counter(e["befund"] for e in eintraege).most_common():
-        z.append(f"| {befund} | {n} |")
+    for befund, anzahl in Counter(e["befund"] for e in eintraege).most_common():
+        z.append(f"| {befund} | {anzahl} |")
     return "\n".join(z) + "\n"
 
 
@@ -331,12 +404,13 @@ def crawl(sitemap: str, limit: int, out: Path) -> int:
     auftraege = [(u, False) for u in deutsch] + \
                 [(en_variante(u), True) for u in deutsch]
 
+    bremse = Bremse()
     eintraege: list[dict] = []
-    with ThreadPoolExecutor(max_workers=PARALLEL) as pool:
-        for i, e in enumerate(pool.map(lambda a: abrufen(*a), auftraege), 1):
-            eintraege.append(e)
-            if i % 25 == 0 or i == len(auftraege):
-                print(f"  {i}/{len(auftraege)} abgerufen")
+    for i, (u, ist_en) in enumerate(auftraege, 1):
+        eintraege.append(abrufen(bremse, u, ist_en))
+        if i % 25 == 0 or i == len(auftraege):
+            print(f"  {i}/{len(auftraege)} abgerufen "
+                  f"(Takt {bremse.pause:.1f}s, {bremse.gedrosselt}x gedrosselt)")
 
     daten = {"stand": str(date.today()), "sitemap": sitemap,
              "eintraege": eintraege}
@@ -346,10 +420,10 @@ def crawl(sitemap: str, limit: int, out: Path) -> int:
     (out / "seiten-aktuell.json").write_text(text, encoding="utf-8")
     Path("SEITEN.md").write_text(bericht(daten), encoding="utf-8")
 
-    kaputt = [e for e in eintraege
-              if e["ist_en"] and e["befund"].startswith("FEHLER")]
-    print(f"\nFertig. {len(kaputt)} /en/-Adressen konkurrieren mit ihrer "
-          f"deutschen Fassung. Bericht in SEITEN.md")
+    dupl = sum(1 for e in eintraege if e["code"] == "duplikat")
+    fehlt = sum(1 for e in eintraege if e["code"] in UNGEPRUEFT)
+    print(f"\nFertig. {dupl} /en/-Adressen konkurrieren mit ihrer deutschen "
+          f"Fassung, {fehlt} Abrufe kamen nicht durch. Bericht in SEITEN.md")
     # Bewusst kein Abbruch: Der Befund ist das Ergebnis, kein Fehlschlag.
     # Ein roter Lauf würde die Zahl verstecken, statt sie zu zeigen.
     return 0
