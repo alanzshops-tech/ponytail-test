@@ -72,19 +72,35 @@ def varianten(token: str, sku: str) -> list[dict]:
     return d.get("variants") or []
 
 
-def versand(token: str, vid: str) -> tuple[float, str, str]:
-    """Fracht innerhalb Deutschlands für ein Stück."""
+def versand(token: str, vid: str) -> tuple[float, str, str, list]:
+    """Fracht innerhalb Deutschlands für ein Stück.
+
+    Gibt alle Optionen mit zurück. Der erste Lauf meldete bei 44 von 46
+    Artikeln exakt 0,00 — entweder ist Versand aus dem deutschen Lager
+    tatsächlich frei, oder die Antwort enthält eine Null-Option, die das
+    Minimum verzerrt. Ohne die Liste lässt sich das nicht auseinander-
+    halten, und ein zu niedriger Einstandspreis ruiniert jede
+    Faktor-Rechnung."""
     time.sleep(TAKT)
     a = anfrage("logistic/freightCalculate", token=token, daten={
         "startCountryCode": "DE", "endCountryCode": "DE",
         "products": [{"quantity": 1, "vid": vid}]})
-    liste = (a.get("data") or []) if a.get("result") else []
+    if not a.get("result"):
+        return 0.0, "", "", [{"fehler": a.get("message", "")[:80]}]
+    liste = a.get("data") or []
+    optionen = [{"name": x.get("logisticName", ""),
+                 "preis": x.get("logisticPrice"),
+                 "dauer": x.get("logisticAging", "")} for x in liste]
     if not liste:
-        return 0.0, "", ""
-    # Die günstigste Option gewinnt; Laufzeit steht daneben.
-    beste = min(liste, key=lambda x: float(x.get("logisticPrice") or 999))
+        return 0.0, "", "", optionen
+    # Nur Optionen mit echtem Preis. Eine Null ist kein Angebot, sondern
+    # meistens ein Platzhalter.
+    echte = [x for x in liste if float(x.get("logisticPrice") or 0) > 0]
+    beste = min(echte or liste,
+                key=lambda x: float(x.get("logisticPrice") or 999))
     return (float(beste.get("logisticPrice") or 0),
-            beste.get("logisticName", ""), beste.get("logisticAging", ""))
+            beste.get("logisticName", ""), beste.get("logisticAging", ""),
+            optionen)
 
 
 def kandidaten(cj: Path, nischen: Path, je_nische: int) -> list[dict]:
@@ -147,7 +163,8 @@ def main() -> None:
             print(f"  {p['sku']}: kein Preis in den Varianten")
             continue
         vid = v.get("vid") or v.get("variantId") or ""
-        fracht, traeger, dauer = versand(token, vid) if vid else (0.0, "", "")
+        fracht, traeger, dauer, optionen = (versand(token, vid) if vid
+                                            else (0.0, "", "", []))
         einkauf = preis(v)
         einstand = (einkauf + fracht) * kurs
         netto = einstand * a.faktor
@@ -158,9 +175,12 @@ def main() -> None:
             "einstand_eur": round(einstand, 2),
             "vk_netto": round(netto, 2), "vk_brutto": round(netto * UST, 2),
             "versandart": traeger, "laufzeit": dauer,
+            "versandoptionen": optionen,
         })
         print(f"  {p['nische'][:22]:<24} Einkauf ${einkauf:6.2f} + Fracht "
               f"${fracht:5.2f} -> VK brutto {netto * UST:7.2f} EUR")
+        if len(zeilen) <= 3:
+            print(f"      Versandoptionen laut CJ: {optionen}")
 
     ergebnis = {"stand": str(date.today()), "faktor": a.faktor,
                 "kurs_usd_eur": round(kurs, 4), "kursdatum": kursdatum,
