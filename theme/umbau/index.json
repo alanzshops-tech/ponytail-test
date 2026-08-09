@@ -1,0 +1,220 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mach Schluss mit Chaos – und bring Stil in dein Zuhause.",
+            "heading_size": "h0"
+          }
+        },
+        "text_7mppBg": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Ausgewählte Möbel & Wohnaccessoires, die deinen Raum in Minuten aufwerten.</strong>",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Bestseller shoppen",
+            "button_link_1": "shopify://collections/bestesell-startbutton",
+            "button_style_secondary_1": true,
+            "button_label_2": "Neuheiten entdecken",
+            "button_link_2": "shopify://collections/neuheitenentdecken",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_7mppBg",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/iStock-1181257532_553eb5ba-841d-464c-9505-f703d3466dc0.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "image_behavior": "ambient",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_qgRzTe": {
+      "type": "rich-text",
+      "blocks": {
+        "text_fQXLtD": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>🚚 Kostenlose Lieferung<br/>⏱️ Lieferbar in 2-5 Tagen<br/>📦 30 Tage Rückgaberecht<br/>💳 Sichere Zahlung </strong><br/>💬 <strong>Kontakt/Chat & Support</strong>: Antwort in 24h</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_fQXLtD"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "175490368314e073b7": {
+      "type": "apps",
+      "blocks": {
+        "pickslide_collection_carousel_slideshow_LP7GeP": {
+          "type": "shopify://apps/pickslide-collection-carousel/blocks/slideshow/34945e04-da19-4b10-a833-1e10784b19cc",
+          "settings": {
+            "carousel_id": "default"
+          }
+        }
+      },
+      "block_order": [
+        "pickslide_collection_carousel_slideshow_LP7GeP"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "dekoration",
+        "products_to_show": 8,
+        "title": "Bestseller",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_66nKzE": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"he-pay\">\n  <p class=\"he-pay__title\">Sicher bezahlen mit</p>\n  <div class=\"he-pay__logos\">\n    <img src=\"{{ 'pp_h_rgb.jpg' | file_url }}\" alt=\"PayPal\" class=\"he-pay__logo\" loading=\"lazy\" width=\"90\" height=\"38\">\n    <img src=\"{{ 'Klarna_Payment_Badg.png' | file_url }}\" alt=\"Klarna\" class=\"he-pay__logo he-pay__logo--klarna\" loading=\"lazy\" width=\"90\" height=\"52\">\n    <img src=\"{{ 'Apple_Pay_logo_svg.png' | file_url }}\" alt=\"Apple Pay\" class=\"he-pay__logo\" loading=\"lazy\" width=\"90\" height=\"38\">\n  </div>\n</div>\n\n<style>\n  .he-pay { text-align: center; margin: 24px 0; }\n  .he-pay__title { font-size: 16px; font-weight: 600; margin-bottom: 10px; color: #111; }\n  .he-pay__logos { display: flex; justify-content: center; align-items: center;\n    gap: 20px; flex-wrap: wrap; }\n  .he-pay__logo { max-height: 34px; width: auto; object-fit: contain; display: block; }\n  .he-pay__logo--klarna { max-height: 46px; }\n  @media screen and (max-width: 749px) {\n    .he-pay__logos { gap: 14px; }\n    .he-pay__logo { max-height: 28px; }\n    .he-pay__logo--klarna { max-height: 38px; }\n  }\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Xm8GYP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_NQdjcq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "haustiere"
+          }
+        },
+        "featured_collection_9ec36A": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mobel-1"
+          }
+        },
+        "featured_collection_RcWxzz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ordnung-aufbewahrung"
+          }
+        },
+        "featured_collection_kCbeYk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wohnen-deko"
+          }
+        },
+        "featured_collection_jq4xAc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "garten-outdoor"
+          }
+        },
+        "featured_collection_p48wai": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bad-wellness"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_NQdjcq",
+        "featured_collection_9ec36A",
+        "featured_collection_RcWxzz",
+        "featured_collection_kCbeYk",
+        "featured_collection_jq4xAc",
+        "featured_collection_p48wai"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Kategorien",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_zBK4Vw": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"he-faq\">\n  <div class=\"he-faq__inner\">\n    <p class=\"he-faq__eyebrow\">FAQ</p>\n    <h2 class=\"he-faq__title\">Häufige Fragen</h2>\n\n    <details class=\"he-faq__item\"><summary>Wie lange dauert der Versand?</summary>\n      <div class=\"he-faq__answer\">In der Regel 2 bis 5 Werktage. Die genaue Lieferzeit steht zusätzlich auf jeder Produktseite.</div></details>\n    <details class=\"he-faq__item\"><summary>Ist der Versand kostenlos?</summary>\n      <div class=\"he-faq__answer\">Ja, innerhalb Deutschlands versenden wir kostenlos.</div></details>\n    <details class=\"he-faq__item\"><summary>Welche Zahlungsmethoden gibt es?</summary>\n      <div class=\"he-faq__answer\">PayPal, Klarna, Apple Pay, Google Pay, Kreditkarte und SEPA. Die vollständige Liste sehen Sie im Bezahlvorgang.</div></details>\n    <details class=\"he-faq__item\"><summary>Kann ich meine Bestellung zurückgeben?</summary>\n      <div class=\"he-faq__answer\">Ja, Sie haben 30 Tage Rückgaberecht. Einzelheiten stehen in der Widerrufsbelehrung.</div></details>\n    <details class=\"he-faq__item\"><summary>Wie erreiche ich den Kundenservice?</summary>\n      <div class=\"he-faq__answer\">Per E-Mail. Wir antworten in der Regel innerhalb von 24 Stunden.</div></details>\n    <details class=\"he-faq__item\"><summary>Woher weiß ich, ob ein Möbel passt?</summary>\n      <div class=\"he-faq__answer\">Auf jeder Produktseite stehen Maße, Material und Belastbarkeit. Im Zweifel schreiben Sie uns die Maße Ihres Raums — wir sagen Ihnen, ob es passt.</div></details>\n  </div>\n</div>\n\n<style>\n  .he-faq { padding: 48px 0; background: #f8f6f3; }\n  .he-faq__inner { max-width: 820px; margin: 0 auto; padding: 0 20px; }\n  .he-faq__eyebrow { margin: 0 0 6px; font-size: 13px; font-weight: 700;\n    letter-spacing: .12em; text-transform: uppercase; color: #8a7d70; text-align: center; }\n  .he-faq__title { margin: 0 0 26px; font-size: 30px; line-height: 1.15;\n    font-weight: 700; color: #111; text-align: center; }\n  .he-faq__item { background: #fff; border: 1px solid rgba(17,17,17,.07);\n    border-radius: 14px; margin-bottom: 10px; }\n  .he-faq__item summary { list-style: none; cursor: pointer; padding: 18px 46px 18px 20px;\n    font-size: 16px; font-weight: 600; color: #111; position: relative; }\n  .he-faq__item summary::-webkit-details-marker { display: none; }\n  .he-faq__item summary::after { content: \"+\"; position: absolute; right: 20px;\n    top: 50%; transform: translateY(-50%); font-size: 22px; color: #111; }\n  .he-faq__item[open] summary::after { content: \"\\2212\"; }\n  .he-faq__answer { padding: 0 20px 18px; font-size: 15px; line-height: 1.75; color: #444; }\n  @media screen and (max-width: 749px) {\n    .he-faq { padding: 36px 0; }\n    .he-faq__title { font-size: 24px; }\n    .he-faq__item summary { font-size: 15px; padding: 16px 42px 16px 16px; }\n    .he-faq__answer { padding: 0 16px 16px; font-size: 14px; }\n  }\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_qgRzTe",
+    "175490368314e073b7",
+    "featured_collection",
+    "custom_liquid_66nKzE",
+    "collection_list_Xm8GYP",
+    "custom_liquid_zBK4Vw"
+  ]
+}
