@@ -23,8 +23,8 @@
       "schwer": 2,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -63,8 +63,8 @@
       "schwer": 2,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -90,14 +90,14 @@
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25441951056195__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
       "schwer": 1,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -129,8 +129,8 @@
       "schwer": 1,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -177,7 +177,7 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 1,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -224,9 +224,9 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 1,
-        "wort_bewertung": 1,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -271,9 +271,9 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 0,
-        "wort_bewertung": 1,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -318,9 +318,9 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 0,
-        "wort_bewertung": 1,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "aggregate_rating": 0
@@ -350,8 +350,8 @@
       "schwer": 1,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -383,8 +383,8 @@
       "schwer": 1,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_da": false,
+        "widget_text": null,
         "sterne_symbole": 0,
         "wort_bewertung": 0,
         "wort_rezension": 0,
@@ -409,7 +409,7 @@
           "id": "color-contrast",
           "impact": "serious",
           "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 12,
+          "anzahl": 1,
           "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
         },
         {
@@ -427,22 +427,22 @@
           "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 14,
+      "schwer": 3,
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 1,
-        "wort_bewertung": 3,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
-        "wort_sterne": 1,
+        "wort_sterne": 0,
         "aggregate_rating": 1
       },
       "text": {
         "absaetze": 20,
         "schriftgroesse_median": 15,
         "zu_klein": 20,
-        "zeilenlaenge_median": 46,
+        "zeilenlaenge_median": 0,
         "zu_breit": 0
       },
       "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-mobil.png",
@@ -456,7 +456,7 @@
           "id": "color-contrast",
           "impact": "serious",
           "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 12,
+          "anzahl": 1,
           "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
         },
         {
@@ -474,15 +474,15 @@
           "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 14,
+      "schwer": 3,
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "window.jdgmSettings={\"pagination\":5,\"disable_web_reviews\":false,\"badge_no_review_text\":\"Keine Bewertungen\",\"badge_n_reviews_text\":\"{{ n }} Bewertung/Bewertungen\",\"badge_star_color\":\"#ffd700\",\"hide_badge_preview_if_no_reviews\":true,\"badge_hide_text\":false,\"enforce_center_preview_badge\":false,\"widget_",
+        "widget_text": "",
         "sterne_symbole": 1,
-        "wort_bewertung": 3,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
-        "wort_sterne": 1,
+        "wort_sterne": 0,
         "aggregate_rating": 1
       },
       "text": {

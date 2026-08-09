@@ -18,8 +18,8 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 | /products/sitzbank-stauraum-gepolstert-klappbar | desktop | **3** | 0 | 14 px | 0 Z. | – |
 | /cart | mobil | **1** | 0 | 15 px | 0 Z. | – |
 | /cart | desktop | **1** | 0 | 14 px | 0 Z. | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | mobil | **14** | 0 | 15 px | 46 Z. | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **14** | 0 | 14 px | 0 Z. | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | mobil | **3** | 0 | 15 px | 0 Z. | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **3** | 0 | 14 px | 0 Z. | – |
 
 Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen verliert das Auge beim Rücksprung.
 
@@ -27,48 +27,12 @@ Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen
 
 | Seite | Judge.me-Widget | ★-Symbole | „Bewertung" | „Sterne" | aggregateRating |
 |---|:-:|---:|---:|---:|---:|
-| / | ja | 0 | 0 | 0 | 0 |
-| /collections/hunde | ja | 0 | 0 | 0 | 0 |
+| / | – | 0 | 0 | 0 | 0 |
+| /collections/hunde | – | 0 | 0 | 0 | 0 |
 | /products/hundesofa-samt-erhoeht-xxl | ja | 1 | 0 | 0 | 0 |
-| /products/sitzbank-stauraum-gepolstert-klappbar | ja | 0 | 1 | 0 | 0 |
-| /cart | ja | 0 | 0 | 0 | 0 |
-| /products/samt-sessel-design-armlehnen-holzbeine | ja | 1 | 3 | 1 | 1 |
-
-Widget-Inhalt auf `/`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
-
-Widget-Inhalt auf `/collections/hunde`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
-
-Widget-Inhalt auf `/products/hundesofa-samt-erhoeht-xxl`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
-
-Widget-Inhalt auf `/products/sitzbank-stauraum-gepolstert-klappbar`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
-
-Widget-Inhalt auf `/cart`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
-
-Widget-Inhalt auf `/products/samt-sessel-design-armlehnen-holzbeine`:
-
-```
-window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"Keine Bewertungen","badge_n_reviews_text":"{{ n }} Bewertung/Bewertungen","badge_star_color":"#ffd700","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_
-```
+| /products/sitzbank-stauraum-gepolstert-klappbar | ja | 0 | 0 | 0 | 0 |
+| /cart | – | 0 | 0 | 0 | 0 |
+| /products/samt-sessel-design-armlehnen-holzbeine | ja | 1 | 0 | 0 | 1 |
 
 **aggregateRating** ist die Stelle, an der Google Sterne für die Trefferliste abgreift. Steht dort etwas ohne echte Käufe, wirbt der Shop auch außerhalb der eigenen Seite mit Erfundenem.
 
@@ -76,13 +40,13 @@ window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review
 
 | Regel | Schwere | Fälle | betroffen |
 |---|---|---:|---|
-| Elements must meet minimum color contrast ratio thresholds | serious | 30 | /, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 | Scrollable region must have keyboard access | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
+| Elements must meet minimum color contrast ratio thresholds | serious | 8 | /, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 | Form elements must have labels | critical | 6 | /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 
 Beispiele:
 
-- `color-contrast` — `<p class="he-faq__eyebrow">FAQ</p>`
 - `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25600909050179__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
+- `color-contrast` — `<p class="he-faq__eyebrow">FAQ</p>`
 - `label` — `<input class="quantity__input" type="number" name="quantity" id="Quantity-template--25600912359747__main" data-cart-quantity="0" data-min="1" min="1" step="1" v`
 
