@@ -85,10 +85,11 @@ jobs:
             cat GSC.md >> $GITHUB_STEP_SUMMARY
           else
             {
-              echo "### Search Console noch nicht eingerichtet"
+              echo "### Keine Daten abgerufen"
               echo ""
-              echo "Das Secret \`GSC_SERVICE_ACCOUNT_JSON\` fehlt."
-              echo "Die Anleitung steht im Log des Abfrage-Schritts."
+              echo "Entweder ist der Zugang noch nicht eingerichtet oder"
+              echo "die Abfrage ist fehlgeschlagen. Der Grund steht im Log"
+              echo "des Schritts \"Search Console abfragen\"."
             } >> $GITHUB_STEP_SUMMARY
           fi
 

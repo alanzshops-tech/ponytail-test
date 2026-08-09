@@ -159,8 +159,14 @@ def veraenderung(jetzt: float, vorher: float) -> str:
     return f"{p:+d} %"
 
 
+MIN_IMPR = 5   # Schwelle, ab der eine Zeile als belastbar gilt
+
+
 def bericht(d: dict) -> str:
     a, b = d["aktuell"], d["vorher"]
+    q_impr = sum(q["impressionen"] for q in d["anfragen"])
+    p_impr = sum(p["impressionen"] for p in d["seiten"])
+
     z = ["# Google Search Console — homeeins", "",
          f"Zeitraum: {d['start']} bis {d['ende']} "
          f"({ZEITRAUM_TAGE} Tage) · Vergleich mit den {ZEITRAUM_TAGE} Tagen davor",
@@ -174,13 +180,51 @@ def bericht(d: dict) -> str:
          f"| CTR | {a['ctr']} % | {b['ctr']} % | |",
          f"| Ø Position | {a['position']} | {b['position']} | |", ""]
 
+    # Diese Lücke ist kein Nebenschauplatz. Google verschweigt seltene
+    # Anfragen aus Datenschutzgründen. Die Kennzahlen oben stammen aus der
+    # Anfragen-Dimension und beschreiben deshalb nur einen Ausschnitt -
+    # meist den schlechteren, weil Markensuchen anonymisiert werden.
+    if p_impr > q_impr:
+        z += [f"> **{p_impr - q_impr} von {p_impr} Impressionen sind "
+              f"anonymisiert.** Über Suchanfragen sichtbar: {q_impr}. "
+              f"Über Seiten sichtbar: {p_impr}. Die Kennzahlen oben stammen "
+              f"aus der Anfragen-Dimension und zeigen daher nur den "
+              f"sichtbaren Rest — die Durchschnittsposition ist dadurch "
+              f"schlechter, als die Domain tatsächlich steht.", ""]
+
+    # Wichtigster Abschnitt: Seiten, die vorn stehen und trotzdem nicht
+    # geklickt werden. Rankings sind da, es hakt am Snippet oder an der
+    # Absicht dahinter - das ist behebbar, anders als fehlende Autoritaet.
+    vorn = [p for p in d["seiten"]
+            if p["position"] <= 5 and p["impressionen"] >= MIN_IMPR]
+    ungenutzt = [p for p in vorn if p["klicks"] == 0]
+    z.append("## Seiten auf Position 1–5")
+    z.append("")
+    if vorn:
+        z.append(f"{len(vorn)} Seiten stehen weit vorn, "
+                 f"{len(ungenutzt)} davon ohne einen einzigen Klick. "
+                 f"Wo Ranking da ist und Klicks fehlen, liegt es am "
+                 f"Snippet, an der Sprache oder an der Suchabsicht — "
+                 f"nicht an fehlender Autorität.")
+        z.append("")
+        z.append("| Seite | Position | Impressionen | Klicks |")
+        z.append("|---|---:|---:|---:|")
+        for p in sorted(vorn, key=lambda x: -x["impressionen"])[:20]:
+            z.append(f"| {p['page']} | {p['position']} | "
+                     f"{p['impressionen']} | {p['klicks']} |")
+    else:
+        z.append(f"Keine Seite mit mindestens {MIN_IMPR} Impressionen steht "
+                 f"unter Position 5.")
+    z.append("")
+
     chancen = [q for q in d["anfragen"]
-               if 5 <= q["position"] <= 20 and q["impressionen"] >= 5]
+               if 5 <= q["position"] <= 20 and q["impressionen"] >= MIN_IMPR]
+    knapp = [q for q in d["anfragen"]
+             if 5 <= q["position"] <= 20 and q["impressionen"] < MIN_IMPR]
     z.append("## Anfragen auf Position 5–20")
     z.append("")
     if chancen:
-        z.append("Hier ist Reichweite da, aber die erste Seite fehlt knapp. "
-                 "Der wirksamste Hebel im ganzen Bericht.")
+        z.append("Hier ist Reichweite da, aber die erste Seite fehlt knapp.")
         z.append("")
         z.append("| Anfrage | Position | Impressionen | Klicks | CTR |")
         z.append("|---|---:|---:|---:|---:|")
@@ -188,8 +232,15 @@ def bericht(d: dict) -> str:
             z.append(f"| {q['query']} | {q['position']} | {q['impressionen']} "
                      f"| {q['klicks']} | {q['ctr']} % |")
     else:
-        z.append("Keine. Alles steht entweder sehr weit vorn oder jenseits "
-                 "von Position 20 — bei einer neuen Domain der Normalfall.")
+        z.append(f"Keine mit mindestens {MIN_IMPR} Impressionen.")
+    if knapp:
+        # Nicht verschweigen: unterhalb der Schwelle steht oft das, woraus
+        # sich morgen etwas entwickelt.
+        namen = ", ".join(f"{q['query']} ({q['position']})"
+                          for q in sorted(knapp, key=lambda x: x["position"])[:8])
+        z.append("")
+        z.append(f"Unterhalb der Schwelle, mit weniger als {MIN_IMPR} "
+                 f"Impressionen: {namen}")
     z.append("")
 
     z.append("## Meiste Impressionen")
@@ -202,12 +253,12 @@ def bericht(d: dict) -> str:
     z.append("")
 
     tote = [p for p in d["seiten"] if p["klicks"] == 0
-            and p["impressionen"] >= 10]
+            and p["impressionen"] >= 10 and p["position"] > 5]
     if tote:
-        z.append("## Seiten mit Impressionen, aber ohne Klicks")
+        z.append("## Weiter hinten, ohne Klicks")
         z.append("")
-        z.append("Werden gefunden, aber nicht angeklickt: entweder zu weit "
-                 "hinten oder Titel und Beschreibung überzeugen nicht.")
+        z.append("Werden gefunden, aber nicht angeklickt — hier vermutlich "
+                 "schlicht wegen der Position.")
         z.append("")
         z.append("| Seite | Impressionen | Position |")
         z.append("|---|---:|---:|")
@@ -246,6 +297,22 @@ def main() -> None:
     v_start = v_ende - timedelta(days=a.tage - 1)
 
     print(f"Zeitraum {start} bis {ende}, Vergleich {v_start} bis {v_ende}")
+
+    # Ein 403 ist kein Absturz, sondern eine fehlende Freigabe. Mit
+    # Traceback sucht man an der falschen Stelle.
+    from googleapiclient.errors import HttpError
+    try:
+        _ = abfragen(api, a.property, start, ende, ["date"], limit=1)
+    except HttpError as e:
+        if e.resp.status in (401, 403):
+            sys.exit(
+                f"Kein Zugriff auf {a.property} (HTTP {e.resp.status}).\n"
+                f"Das Dienstkonto weist sich korrekt aus, ist in der Search "
+                f"Console aber nicht als Nutzer eingetragen.\n"
+                f"search.google.com/search-console -> Einstellungen -> "
+                f"Nutzer und Berechtigungen -> Nutzer hinzufügen "
+                f"('Eingeschränkt' genügt).")
+        raise
 
     anfragen = abfragen(api, a.property, start, ende, ["query"])
     seiten = abfragen(api, a.property, start, ende, ["page"])
