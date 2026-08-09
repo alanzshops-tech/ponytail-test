@@ -1,6 +1,6 @@
 # CJ Docs | CJdropshipping API - How To Connect Your Store To CJdropshipping
 
-- Quelle: https://developers.cjdropshipping.com/en/api/api2/api/authentication.html
+- Quelle: https://developers.cjdropshipping.com/en/api/api2/api/order.html
 - Abgerufen: 2026-08-09 17:47 UTC
 - Sprache laut HTML: en-US · gemessen: zu wenig Text (de 0 / en 5)
 - Extraktion: Notbehelf (Regex)
