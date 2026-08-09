@@ -17,6 +17,10 @@ on:
         description: "gelesen/ vorher leeren"
         type: boolean
         default: false
+      roh:
+        description: "rohes HTML mitliefern (fuer Varianten, Preise, Skripte)"
+        type: boolean
+        default: false
   push:
     branches: ["claude/**", main]
     paths:
@@ -52,7 +56,8 @@ jobs:
           python3 scripts/lesen.py \
             --urls "${{ inputs.urls }}" \
             --datei lesen.txt \
-            --out gelesen
+            --out gelesen \
+            ${{ inputs.roh == true && '--roh roh' || '' }}
 
       - name: Übersicht in die Zusammenfassung
         if: always()

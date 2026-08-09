@@ -66,6 +66,41 @@ def text_gewinnen(html: str, url: str) -> tuple[str, str]:
     return t.strip(), "Notbehelf (Regex)"
 
 
+def verfuegbarkeit(html: str) -> str:
+    """Was der Shop dem Kunden über Lieferbarkeit anzeigt.
+
+    Die Textextraktion wirft genau das weg — Kaufbutton und Varianten sind
+    kein Fließtext. Shopify liefert es aber strukturiert im JSON-LD mit,
+    und Google liest dieselbe Stelle.
+    """
+    import json as _json
+
+    zustaende: list[str] = []
+    for m in re.finditer(
+            r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+            html, re.I | re.S):
+        try:
+            daten = _json.loads(m.group(1))
+        except ValueError:
+            continue
+        for knoten in (daten if isinstance(daten, list) else [daten]):
+            if not isinstance(knoten, dict):
+                continue
+            angebote = knoten.get("offers")
+            for a in (angebote if isinstance(angebote, list) else [angebote]):
+                if isinstance(a, dict) and a.get("availability"):
+                    zustaende.append(str(a["availability"]).rsplit("/", 1)[-1])
+    if not zustaende:
+        # Kein Produkt oder kein JSON-LD — beides kein Fehler.
+        return ""
+    aus = sum(1 for z in zustaende if "OutOfStock" in z or "SoldOut" in z)
+    lieferbar = len(zustaende) - aus
+    hinweis = "Ausverkauft" in html or "Sold out" in html
+    return (f"{lieferbar} von {len(zustaende)} Varianten lieferbar"
+            + (f", {aus} ausverkauft" if aus else "")
+            + (" · Seite zeigt „Ausverkauft“" if hinweis else ""))
+
+
 def dateiname(url: str) -> str:
     t = urlsplit(url)
     roh = f"{t.netloc}{t.path}".rstrip("/")
@@ -73,7 +108,8 @@ def dateiname(url: str) -> str:
     return (roh[:120] or "seite") + ".md"
 
 
-def eine(bremse: Bremse, url: str, out: Path) -> bool:
+def eine(bremse: Bremse, url: str, out: Path,
+         roh: Path | None = None) -> bool:
     print(f"\n=== {url} ===")
     status, ziel, html = bremse.abrufen(url, folgen=True)
     if status != 200 or not html:
@@ -89,9 +125,19 @@ def eine(bremse: Bremse, url: str, out: Path) -> bool:
         f"- Sprache laut HTML: {k['lang_attribut'] or 'nicht angegeben'} · "
         f"gemessen: {k['textsprache']}",
         f"- Extraktion: {verfahren}",
-        f"- Zeichen: {len(text)}", "", "---", "",
+        f"- Zeichen: {len(text)}",
     ]
+    lager = verfuegbarkeit(html)
+    if lager:
+        kopf.append(f"- Verfügbarkeit: {lager}")
+    kopf += ["", "---", ""]
     out.mkdir(parents=True, exist_ok=True)
+    if roh:
+        # Fuer Fragen, die der Fliesstext nicht beantwortet: Welche Variante
+        # ist vorausgewaehlt, steht "Ausverkauft" auf der Seite, was sagt das
+        # strukturierte Datenblatt. Die Extraktion wirft genau das weg.
+        roh.mkdir(parents=True, exist_ok=True)
+        (roh / (dateiname(url)[:-3] + ".html")).write_text(html, encoding="utf-8")
     ziel_datei = out / dateiname(url)
     ziel_datei.write_text("\n".join(kopf) + text + "\n", encoding="utf-8")
     print(f"  {len(text)} Zeichen über {verfahren} -> {ziel_datei}")
@@ -103,6 +149,7 @@ def main() -> None:
     ap.add_argument("--urls", help="Adressen, durch Komma getrennt")
     ap.add_argument("--datei", help="Datei mit einer Adresse je Zeile")
     ap.add_argument("--out", default="gelesen")
+    ap.add_argument("--roh", help="zusaetzlich das rohe HTML hierhin schreiben")
     a = ap.parse_args()
 
     adressen: list[str] = []
@@ -122,7 +169,8 @@ def main() -> None:
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     bremse = Bremse()
-    gelesen = sum(eine(bremse, u, out) for u in adressen)
+    roh = Path(a.roh) if a.roh else None
+    gelesen = sum(eine(bremse, u, out, roh) for u in adressen)
     print(f"\n{gelesen} von {len(adressen)} Seiten gelesen -> {out}/")
     # Nur abbrechen, wenn gar nichts kam. Eine tote Adresse unter zehn
     # soll den Lauf nicht verwerfen.
