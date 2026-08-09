@@ -1,6 +1,6 @@
 # Kaufprobe und Sichtprüfung
 
-Stand: 2026-08-09T21:15:06+00:00
+Stand: 2026-08-09T21:19:36+00:00
 
 Zwei Fragen, beide nur im Browser beantwortbar: Sieht die umgebaute Startseite richtig aus, und kann man einkaufen?
 
@@ -15,13 +15,13 @@ Vorschau: `https://www.homeeins.de/?preview_theme_id=182664626499`
 - Zahlungslogos: ja
 - Kategoriekacheln: ja
 - FAQ: ja
-- Produktkacheln gezählt: 28
+- Produktkacheln gezählt: -1
 - Bilder auf der Seite: 25, davon nicht geladen: keine
 - mobil: 4338 px hoch, Querscroll nein
 - desktop: 4052 px hoch, Querscroll nein
 - Leere Abschnitte: keine
-- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=956291fc-ace3-4a78-bd1c-e6f513431c26&target_origin=https%3A%2F%2Fw
-- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=7bf52acb-89cf-421f-a218-bf407fff13d0&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=508f257b-9776-4931-846c-21701123220a&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=ac3d3b75-feae-45ea-8d8d-aadf0350bf61&target_origin=https%3A%2F%2Fw
 
 Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 
@@ -50,14 +50,23 @@ Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 ### Die Kasse
 
 - Kasse erreichbar: **ja** (HTTP 200)
+- Land voreingestellt: `US`, umgestellt auf: `DE`
 - Adresse: email, firstName, lastName, address1, postalCode, city
-- Zahlarten vor Adresseingabe: PayPal, Kreditkarte, Rechnung
-- Zahlarten nach Adresseingabe: **PayPal, Kreditkarte, Rechnung**
+- Gesamtpreis in der Kasse: **24,99 €**
+- Zahlarten vor Adresseingabe: PayPal, Kreditkarte, Banküberweisung
+- Zahlarten nach Adresseingabe: **PayPal, Klarna, Kreditkarte, Banküberweisung**
 - Versandzeile: „Lieferung"
 - Versandzeile: „Versand"
 - Versandzeile: „Wähle eine Versandart aus"
+- Versandzeile: „Kostenloser Versand"
 - Versandzeile: „Versand"
-- Versandzeile: „Neuer Gesamtpreis: 39,98 € EURAktualisierte Versandart: Auslandsversand (bis 2kg)"
+- Versandzeile: „Aktualisierte Versandart: Kostenloser Versand"
+
+Der Zahlungsabschnitt im Wortlaut:
+
+```
+Zahlung
+```
 
 Es wurde nichts bezahlt und nichts bestellt. Im Adminbereich erscheint ein abgebrochener Warenkorb auf `kaufprobe-test@example.com` — das ist der Beleg des Tests.
 

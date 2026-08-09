@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-09T21:15:06+00:00",
+  "stand": "2026-08-09T21:19:36+00:00",
   "vorschau": {
     "url": "https://www.homeeins.de/?preview_theme_id=182664626499",
     "theme_id": "182664626499",
@@ -8,7 +8,7 @@
     "mobil_hoehe": 4338,
     "mobil_querscroll": false,
     "mobil_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=956291fc-ace3-4a78-bd1c-e6f513431c26&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=508f257b-9776-4931-846c-21701123220a&target_origin=https%3A%2F%2Fw"
     ],
     "gefundene_faelschungen": [],
     "bilder_kaputt": [],
@@ -19,14 +19,14 @@
     "hat_zahlungslogos": true,
     "hat_kategorien": true,
     "hat_faq": true,
-    "produktkacheln": 28,
+    "produktkacheln": -1,
     "leere_abschnitte": [],
     "desktop_bild": "bilder/vorschau-desktop.jpg",
-    "desktop_bild_kb": 469,
+    "desktop_bild_kb": 470,
     "desktop_hoehe": 4052,
     "desktop_querscroll": false,
     "desktop_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=7bf52acb-89cf-421f-a218-bf407fff13d0&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=ac3d3b75-feae-45ea-8d8d-aadf0350bf61&target_origin=https%3A%2F%2Fw"
     ]
   },
   "produkte": [
@@ -85,14 +85,16 @@
       ]
     },
     "status": 200,
-    "url": "https://www.homeeins.de/checkouts/cn/hWNFT9fLyMFjJ18bQjItsZFK/de-us?_r=AQABxSXLFFXg0qaCLMKZTonWQlPmqKCibRvA1J-MFEYZ&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=y6Ws4KHORMs7jAUB8xI58YDbUmDVKVJq1hALhWm6vANaUFPbI8ELmmzyv4l8E5k66QGc8AAyHBAYcRz6pi-CHvkhJr4yTyg9cParj1O4iQSkZf2Ikx7q_TdyoF_EvfkZUAQolL8blBdVmCGJxvo3X-vU8hdwxz11Cu3awUQNuOqCrzL0O45PI9T-Jwx244pEEyjL1Bvqq2t6Ngr6myNpIVU",
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFTA7SlUWSQ4TZkerB7DSk/de-us?_r=AQABB2__wCoJn5070BCJ_JlvLL31Td1L4_0LeSzxZ976&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=Vk1nQ-2Kvx20KpZBYCA06KdACBbjjLvk87rBvZhnnRJ-mI-j_wC5Azx1iK_85uNaqaikLBDPj5c16Va3-ASp5tR4uHPOEy0ca3wyAntmwG0g-1y-mcVy5_LDziadmJSY6bCL7g8WzTu8RkN7vM0hxjOnDpCvxXuhxKL5rwpvh9m2pBmgVToHbAqkDmsgRtFks_Bf4tIoY8Bfq-uKsJxyhg",
     "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
     "zahlarten_vor_adresse": [
       "PayPal",
       "Kreditkarte",
-      "Rechnung"
+      "Banküberweisung"
     ],
     "erreichbar": true,
+    "land_vorher": "US",
+    "land_gesetzt": "DE",
     "felder_gefuellt": [
       "email",
       "firstName",
@@ -103,15 +105,19 @@
     ],
     "zahlarten_nach_adresse": [
       "PayPal",
+      "Klarna",
       "Kreditkarte",
-      "Rechnung"
+      "Banküberweisung"
     ],
+    "zahlungsabschnitt": "Zahlung",
+    "gesamt": "24,99 €",
     "versandhinweis": [
       "Lieferung",
       "Versand",
       "Wähle eine Versandart aus",
+      "Kostenloser Versand",
       "Versand",
-      "Neuer Gesamtpreis: 39,98 € EURAktualisierte Versandart: Auslandsversand (bis 2kg)"
+      "Aktualisierte Versandart: Kostenloser Versand"
     ],
     "fehlermeldungen": [],
     "bezahlknopf": 4,
