@@ -2,16 +2,15 @@
 
 Stand: 2026-08-09 · Quelle: https://www.homeeins.de/sitemap.xml
 
-152 deutsche Adressen aus der Sitemap, dazu je die /en/-Entsprechung (304 Abrufe).
+151 deutsche Adressen aus der Sitemap, dazu je die /en/-Entsprechung (302 Abrufe).
 
 ## Keine selbstkanonischen /en/-Seiten unter den gelesenen Adressen
 
 Alle geprüften /en/-Adressen leiten weiter, laufen ins 404 oder verweisen kanonisch auf die deutsche Fassung.
 
-## 2 Auffälligkeiten auf deutschen Adressen
+## 1 Auffälligkeiten auf deutschen Adressen
 
 - `/agents.md` — kein Canonical
-- `/en` — 404 auf deutscher Adresse
 
 ## Verteilung nach Gattung
 
@@ -21,7 +20,7 @@ Alle geprüften /en/-Adressen leiten weiter, laufen ins 404 oder verweisen kanon
 | Kollektionen | 30 | 0 | 30 | 0 | 0 |
 | Produkte | 97 | 97 | 0 | 0 | 0 |
 | Seiten | 14 | 0 | 14 | 0 | 0 |
-| Start und Sonstiges | 3 | 0 | 3 | 0 | 0 |
+| Start und Sonstiges | 2 | 0 | 2 | 0 | 0 |
 
 ## Alle Befunde gezählt
 
@@ -29,6 +28,5 @@ Alle geprüften /en/-Adressen leiten weiter, laufen ins 404 oder verweisen kanon
 |---|---:|
 | ok | 150 |
 | leitet weiter | 97 |
-| /en/ 404 | 55 |
+| /en/ 404 | 54 |
 | kein Canonical | 1 |
-| 404 auf deutscher Adresse | 1 |
