@@ -25,8 +25,21 @@ on:
   schedule:
     - cron: "0 6 * * 1"
 
+# id-token: write erlaubt GitHub, ein kurzlebiges OIDC-Token auszustellen.
+# Damit weist sich der Lauf direkt bei Google aus — es gibt keinen
+# Dienstkontoschlüssel, der gestohlen werden könnte. Die Organisation
+# alanz-shops-org verbietet solche Schlüssel ohnehin per Richtlinie
+# (iam.disableServiceAccountKeyCreation), und das zu Recht.
 permissions:
   contents: write
+  id-token: write
+
+# Keine Geheimnisse: Projektnummer, Pool und Dienstkonto-Adresse sind
+# öffentlich unkritisch. Der Zugriff entsteht erst durch die Vertrauens-
+# beziehung, die nur für dieses eine Repository gilt.
+env:
+  WIF_PROVIDER: "projects/306156937924/locations/global/workloadIdentityPools/github/providers/github-provider"
+  WIF_DIENSTKONTO: "gsc-reader@marketing-505012.iam.gserviceaccount.com"
 
 jobs:
   gsc:
@@ -45,9 +58,19 @@ jobs:
           pip install --quiet google-api-python-client google-auth
           python3 -c "import googleapiclient, google.oauth2; print('Google-Client bereit')"
 
+      # continue-on-error, damit ein noch nicht eingerichteter Verbund den
+      # Lauf nicht rot macht. Das Skript erklärt dann die Einrichtung.
+      - name: Bei Google anmelden
+        id: auth
+        continue-on-error: true
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ env.WIF_PROVIDER }}
+          service_account: ${{ env.WIF_DIENSTKONTO }}
+
       - name: Search Console abfragen
         env:
-          # Wird von GitHub maskiert und erscheint in keinem Log.
+          # Rückfallebene, falls doch mit Schlüsseldatei gearbeitet wird.
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
         run: |
           python3 scripts/gsc.py \

@@ -17,9 +17,13 @@ Die interessante Auswertung ist nicht die Top-Liste, sondern:
   - Seiten mit Impressionen, aber null Klicks    -> Snippet-Problem
   - Vergleich mit der Vorperiode                 -> wirkt, was wir tun?
 
-Zugang: Dienstkonto-JSON in der Umgebungsvariablen GSC_SERVICE_ACCOUNT_JSON
-(als GitHub-Secret hinterlegt). Fehlt sie, bricht das Skript nicht ab,
-sondern erklärt die Einrichtung und beendet sich sauber.
+Zugang, in dieser Reihenfolge:
+  1. Application Default Credentials — im Workflow von
+     google-github-actions/auth per Workload Identity Federation gesetzt.
+     Kein Schlüssel, nur ein kurzlebiges Token. Bevorzugter Weg.
+  2. Dienstkonto-JSON in GSC_SERVICE_ACCOUNT_JSON, falls jemand doch mit
+     einer Schlüsseldatei arbeitet.
+Fehlt beides, bricht das Skript nicht ab, sondern erklärt die Einrichtung.
 
 Aufruf:
     python3 scripts/gsc.py --property sc-domain:homeeins.de --out daten
@@ -42,44 +46,73 @@ VERZUG_TAGE = 3
 ZEITRAUM_TAGE = 28
 
 EINRICHTUNG = """
-Die Umgebungsvariable GSC_SERVICE_ACCOUNT_JSON ist nicht gesetzt.
+Keine Zugangsdaten gefunden — weder Application Default Credentials noch
+GSC_SERVICE_ACCOUNT_JSON.
 
-So wird sie eingerichtet (einmalig, kostenlos, ohne Abrechnungskonto):
+Vorgesehen ist Workload Identity Federation: GitHub Actions weist sich
+direkt bei Google aus, es existiert kein Schluessel. Dafuer braucht es
+einmalig in der Google Cloud Shell:
 
-  1. console.cloud.google.com -> Projekt anlegen (beliebiger Name)
-  2. "Google Search Console API" suchen und aktivieren
-  3. IAM & Verwaltung -> Dienstkonten -> Dienstkonto erstellen
-     Rolle wird keine gebraucht. Danach: Schluessel -> Neuer Schluessel -> JSON
-  4. Die E-Mail des Dienstkontos kopieren
-     (Form: name@projekt.iam.gserviceaccount.com)
-  5. search.google.com/search-console -> Einstellungen ->
-     Nutzer und Berechtigungen -> Nutzer hinzufuegen
-     -> diese E-Mail, Berechtigung "Eingeschraenkt" reicht
-  6. Im GitHub-Repo: Settings -> Secrets and variables -> Actions ->
-     New repository secret
-     Name:  GSC_SERVICE_ACCOUNT_JSON
-     Wert:  der komplette Inhalt der JSON-Datei
+  gcloud services enable iamcredentials.googleapis.com sts.googleapis.com
 
-Der Schluessel bleibt im Secret. Er erscheint in keinem Log und in keinem
-Commit.
+  gcloud iam workload-identity-pools create github --location=global
+
+  gcloud iam workload-identity-pools providers create-oidc github-provider \\
+    --location=global --workload-identity-pool=github \\
+    --issuer-uri="https://token.actions.githubusercontent.com" \\
+    --attribute-mapping="google.subject=assertion.sub,\\
+attribute.repository=assertion.repository,\\
+attribute.repository_owner=assertion.repository_owner" \\
+    --attribute-condition="assertion.repository_owner=='alanzshops-tech'"
+
+  gcloud iam service-accounts add-iam-policy-binding <DIENSTKONTO-MAIL> \\
+    --role=roles/iam.workloadIdentityUser \\
+    --member="principalSet://iam.googleapis.com/projects/<PROJEKTNUMMER>\\
+/locations/global/workloadIdentityPools/github/attribute.repository/\\
+alanzshops-tech/ponytail-test"
+
+Ausserdem muss die E-Mail des Dienstkontos in der Search Console unter
+Einstellungen -> Nutzer und Berechtigungen als Nutzer eingetragen sein
+("Eingeschraenkt" genuegt).
 """
 
 
 def dienst():
+    """Zugang holen. Erst ADC (Workload Identity Federation), dann als
+    Rueckfallebene eine Schluesseldatei aus der Umgebung.
+
+    Die Google-Bibliotheken werden bewusst erst importiert, wenn
+    Zugangsdaten vorliegen. Sonst bekaeme jemand ohne installierte
+    Abhaengigkeiten einen Traceback statt der Einrichtungsanleitung."""
+    zugang = None
+    quelle = ""
+
     roh = os.environ.get("GSC_SERVICE_ACCOUNT_JSON", "").strip()
-    if not roh:
-        print(EINRICHTUNG)
-        return None
-    try:
-        info = json.loads(roh)
-    except ValueError as e:
-        sys.exit(f"GSC_SERVICE_ACCOUNT_JSON ist kein gültiges JSON: {e}")
+    if roh:
+        try:
+            info = json.loads(roh)
+        except ValueError as e:
+            sys.exit(f"GSC_SERVICE_ACCOUNT_JSON ist kein gültiges JSON: {e}")
+        from google.oauth2 import service_account
+        zugang = service_account.Credentials.from_service_account_info(
+            info, scopes=SCOPES)
+        quelle = "Dienstkonto-Schlüssel aus der Umgebung"
+    else:
+        try:
+            import google.auth
+            from google.auth.exceptions import DefaultCredentialsError
+        except ImportError:
+            print(EINRICHTUNG)
+            return None
+        try:
+            zugang, _ = google.auth.default(scopes=SCOPES)
+            quelle = "Application Default Credentials (Workload Identity)"
+        except DefaultCredentialsError:
+            print(EINRICHTUNG)
+            return None
 
-    from google.oauth2 import service_account
     from googleapiclient.discovery import build
-
-    zugang = service_account.Credentials.from_service_account_info(
-        info, scopes=SCOPES)
+    print(f"Zugang über: {quelle}")
     # cache_discovery=False vermeidet eine Warnung ohne beschreibbaren Cache.
     return build("searchconsole", "v1", credentials=zugang,
                  cache_discovery=False)
