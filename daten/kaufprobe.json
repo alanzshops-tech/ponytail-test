@@ -1,18 +1,18 @@
 {
-  "stand": "2026-08-09T21:25:39+00:00",
+  "stand": "2026-08-09T21:29:18+00:00",
   "vorschau": {
     "url": "https://www.homeeins.de/?preview_theme_id=182664626499",
     "theme_id": "182664626499",
     "mobil_bild": "bilder/vorschau-mobil.jpg",
-    "mobil_bild_kb": 580,
-    "mobil_hoehe": 4338,
+    "mobil_bild_kb": 554,
+    "mobil_hoehe": 4079,
     "mobil_querscroll": false,
     "mobil_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=b0c09688-513f-4abb-a690-965be290783c&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=b7027a89-5408-4ed6-863c-ba83a403daf0&target_origin=https%3A%2F%2Fw"
     ],
     "gefundene_faelschungen": [],
     "bilder_kaputt": [],
-    "bilder_gesamt": 25,
+    "bilder_gesamt": 19,
     "hat_banner": true,
     "hat_vertrauenszeile": true,
     "hat_bestseller": true,
@@ -22,14 +22,7 @@
     "hat_zahlarten_korrigiert": false,
     "hat_sepa_raus": false,
     "produktkacheln": 16,
-    "karussell": [
-      "Möbel",
-      "Wohnen & Deko",
-      "Ordnung & Aufbewahrung",
-      "Haustiere",
-      "Garten & Outdoor",
-      "Bad & Wellness"
-    ],
+    "karussell": null,
     "kategoriekacheln": [
       "Haustiere",
       "Möbel",
@@ -40,11 +33,11 @@
     ],
     "leere_abschnitte": [],
     "desktop_bild": "bilder/vorschau-desktop.jpg",
-    "desktop_bild_kb": 470,
-    "desktop_hoehe": 4052,
+    "desktop_bild_kb": 448,
+    "desktop_hoehe": 3815,
     "desktop_querscroll": false,
     "desktop_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=4fde28f8-b5a3-470a-ae2d-8a6bb2e5074c&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=a89674f1-2d10-4dc5-a37b-2a843be3519b&target_origin=https%3A%2F%2Fw"
     ]
   },
   "produkte": [
@@ -103,7 +96,7 @@
       ]
     },
     "status": 200,
-    "url": "https://www.homeeins.de/checkouts/cn/hWNFTAj7oz8IngoFItqAGfjO/de-us?_r=AQABN7_xd05zAuYQLthEGbqO9ePCwxCV7IUGJY0MaZgC&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=ZTaDpLmQ2CtSGy1uTwS-QU8p_v4NmyhYSvz0boxFeoQPpYweJQNcWK-IyH1pamsK2pmPxfdUfgKVX-NggBvMADfzl2sUen0EjdA7_M_CxFXgQ0MX1hG4448f7hDSDqWLlmnDr9ZR-f4hwPkqPRt2jb9TJj11f_SWKvSMiEWvxs_FNGTypSFPwCy0ALfp8Rj3JwRmSK2ugxsMOvkgTQ73E80",
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFTB6I3L5RoMSE6LoI4dl4/de-us?_r=AQAB_7piaMBtudBvCGGZilWF18YguM35JvS4ETeX2EqO&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=-nE1u6ouDXVqiBXXQa_wHqEVs7bOQX2dt0_Q91Ky-danl7yRGijJkZCsMUVQAK4Nm3ndjPSZv6ZA1ZjQYjXMKb_PE0uchy1w7p35j7xQiVXRvnZsRwwrqx7ogQCxTmPrcdD21tzUBfW1dJLgerz36Cn4T4qRDumKeTzvX8ViTXQoORU1dt5meNHSefCE0HRlNIVSLHSSKCZmjcTG9l8rew",
     "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
     "zahlarten_vor_adresse": [
       "PayPal",

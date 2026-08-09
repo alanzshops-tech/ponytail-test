@@ -1,6 +1,6 @@
 # Kaufprobe und Sichtprüfung
 
-Stand: 2026-08-09T21:25:39+00:00
+Stand: 2026-08-09T21:29:18+00:00
 
 Zwei Fragen, beide nur im Browser beantwortbar: Sieht die umgebaute Startseite richtig aus, und kann man einkaufen?
 
@@ -16,15 +16,15 @@ Vorschau: `https://www.homeeins.de/?preview_theme_id=182664626499`
 - Kategoriekacheln: ja
 - FAQ: ja
 - Produktkacheln gezählt: 16
-- Bilder auf der Seite: 25, davon nicht geladen: keine
-- mobil: 4338 px hoch, Querscroll nein
-- desktop: 4052 px hoch, Querscroll nein
-- Karussell oben: Möbel, Wohnen & Deko, Ordnung & Aufbewahrung, Haustiere, Garten & Outdoor, Bad & Wellness
+- Bilder auf der Seite: 19, davon nicht geladen: keine
+- mobil: 4079 px hoch, Querscroll nein
+- desktop: 3815 px hoch, Querscroll nein
+- Karussell oben: –
 - Kategoriekacheln unten: Haustiere, Möbel, Ordnung & Aufbewahrung, Wohnen & Deko, Garten & Outdoor, Bad & Wellness
-- **Doppelt auf einer Seite: Bad & Wellness, Garten & Outdoor, Haustiere, Möbel, Ordnung & Aufbewahrung, Wohnen & Deko**
+- **Doppelt auf einer Seite: nichts**
 - Leere Abschnitte: keine
-- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=b0c09688-513f-4abb-a690-965be290783c&target_origin=https%3A%2F%2Fw
-- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=4fde28f8-b5a3-470a-ae2d-8a6bb2e5074c&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=b7027a89-5408-4ed6-863c-ba83a403daf0&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=a89674f1-2d10-4dc5-a37b-2a843be3519b&target_origin=https%3A%2F%2Fw
 
 Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 
