@@ -23,6 +23,19 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 
 Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen verliert das Auge beim Rücksprung.
 
+## Preisschreibweise
+
+| Seite | Preise | davon mit „EUR" |
+|---|---:|---:|
+| / | 8 | 8 |
+| /collections/hunde | 11 | 11 |
+| /products/hundesofa-samt-erhoeht-xxl | 1 | 1 |
+| /products/sitzbank-stauraum-gepolstert-klappbar | 1 | 1 |
+| /cart | 0 | 0 |
+| /products/samt-sessel-design-armlehnen-holzbeine | 1 | 1 |
+
+Deutsche Schreibweise ist „124,99 €" — Zahl vorn, Zeichen hinten, ohne Währungskürzel. Das Kürzel schaltet ein Haken im Theme ab; die Stellung des Zeichens ist eine Shop-Einstellung.
+
 ## Bewertungen auf der Live-Seite
 
 | Seite | Judge.me-Widget | ★-Symbole | „Bewertung" | „Sterne" | aggregateRating |

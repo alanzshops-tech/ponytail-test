@@ -29,6 +29,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 8,
+        "preise_gesamt": 8,
         "aggregate_rating": 0
       },
       "text": {
@@ -69,6 +71,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 8,
+        "preise_gesamt": 8,
         "aggregate_rating": 0
       },
       "text": {
@@ -90,7 +94,7 @@
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25441951056195__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600909050179__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
       "schwer": 1,
@@ -102,6 +106,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 11,
+        "preise_gesamt": 11,
         "aggregate_rating": 0
       },
       "text": {
@@ -135,6 +141,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 11,
+        "preise_gesamt": 11,
         "aggregate_rating": 0
       },
       "text": {
@@ -182,6 +190,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 0
       },
       "text": {
@@ -229,6 +239,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 0
       },
       "text": {
@@ -276,6 +288,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 0
       },
       "text": {
@@ -318,11 +332,13 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "",
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
         "sterne_symbole": 0,
-        "wort_bewertung": 0,
+        "wort_bewertung": 1,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 0
       },
       "text": {
@@ -356,6 +372,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
         "aggregate_rating": 0
       },
       "text": {
@@ -389,6 +407,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
         "aggregate_rating": 0
       },
       "text": {
@@ -436,6 +456,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 1
       },
       "text": {
@@ -483,6 +505,8 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
         "aggregate_rating": 1
       },
       "text": {
