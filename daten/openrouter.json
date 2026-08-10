@@ -395,8 +395,8 @@
       "id": "z-ai/glm-5.2",
       "name": "Z.ai: GLM 5.2",
       "kontext": 1048576,
-      "preis_eingabe": 0.76,
-      "preis_ausgabe": 2.42
+      "preis_eingabe": 0.5306,
+      "preis_ausgabe": 1.6676
     },
     {
       "id": "z-ai/glm-5.2:batch",
@@ -1901,7 +1901,7 @@
       "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
       "kontext": 262144,
       "preis_eingabe": 0.07,
-      "preis_ausgabe": 0.27
+      "preis_ausgabe": 0.28
     },
     {
       "id": "qwen/qwen3-30b-a3b-instruct-2507",
@@ -2871,11 +2871,11 @@
   "probe": {
     "modell": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "auswahl": "Gratisstufe, weil kein Guthaben vorhanden ist",
-    "antwort": "Hundesofas bieten Hunden einen gemütlichen und geschützten Ruheplatz.",
+    "antwort": "Hundesofas bieten Hunden einen gemütlichen und eigenen Rückzugsort zum Entspannen.",
     "verbrauch": {
       "prompt_tokens": 31,
-      "completion_tokens": 33,
-      "total_tokens": 64,
+      "completion_tokens": 58,
+      "total_tokens": 89,
       "cost": 0,
       "is_byok": false,
       "prompt_tokens_details": {
@@ -2890,7 +2890,7 @@
         "upstream_inference_completions_cost": 0
       },
       "completion_tokens_details": {
-        "reasoning_tokens": 17,
+        "reasoning_tokens": 39,
         "image_tokens": 0,
         "audio_tokens": 0
       }
@@ -2898,8 +2898,8 @@
     "versuche": [
       {
         "modell": "google/lyria-3-pro-preview",
-        "fehler": "HTTP 502",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 500,\\n    \\\"message\\\": \\\"Internal error encountered.\\\",\\n    \\\"status\\\": \\\"INTERNAL\\\"\\n  }\\"
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Request contains an invalid argument.\\\",\\n    \\\"status\\\": \\\"INVALI"
       },
       {
         "modell": "google/lyria-3-clip-preview",

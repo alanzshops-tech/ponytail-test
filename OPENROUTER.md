@@ -50,10 +50,10 @@ nichts über den Zugang.
 
 ## Rundlauf
 
-Modell `nvidia/nemotron-3-ultra-550b-a55b:free` (Gratisstufe, weil kein Guthaben vorhanden ist), Verbrauch `{'prompt_tokens': 31, 'completion_tokens': 33, 'total_tokens': 64, 'cost': 0, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 0, 'upstream_inference_prompt_cost': 0, 'upstream_inference_completions_cost': 0}, 'completion_tokens_details': {'reasoning_tokens': 17, 'image_tokens': 0, 'audio_tokens': 0}}`.
+Modell `nvidia/nemotron-3-ultra-550b-a55b:free` (Gratisstufe, weil kein Guthaben vorhanden ist), Verbrauch `{'prompt_tokens': 31, 'completion_tokens': 58, 'total_tokens': 89, 'cost': 0, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 0, 'upstream_inference_prompt_cost': 0, 'upstream_inference_completions_cost': 0}, 'completion_tokens_details': {'reasoning_tokens': 39, 'image_tokens': 0, 'audio_tokens': 0}}`.
 
 ```
-Hundesofas bieten Hunden einen gemütlichen und geschützten Ruheplatz.
+Hundesofas bieten Hunden einen gemütlichen und eigenen Rückzugsort zum Entspannen.
 ```
 
 Erst das beweist den Zugang. `/key` zu lesen gelingt auch
@@ -63,6 +63,6 @@ Davor abgelehnt (2):
 
 | Modell | Grund |
 |---|---|
-| `google/lyria-3-pro-preview` | HTTP 502 {"error":{"message":"Provider returned error","code":502,"metadata":{"raw":"{\n  |
+| `google/lyria-3-pro-preview` | HTTP 400 {"error":{"message":"Provider returned error","code":400,"metadata":{"raw":"{\n  |
 | `google/lyria-3-clip-preview` | HTTP 502 {"error":{"message":"Provider returned error","code":502,"metadata":{"raw":"{\n  |
 
