@@ -1,17 +1,10 @@
 {
-  "stand": "2026-08-09",
+  "stand": "2026-08-10",
   "seiten": [
     {
       "url": "https://www.homeeins.de/?preview_theme_id=182664790339",
       "geraet": "mobil",
       "verstoesse": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 1,
-          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
-        },
         {
           "id": "frame-title",
           "impact": "serious",
@@ -27,7 +20,7 @@
           "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 3,
+      "schwer": 2,
       "leicht": 0,
       "bewertungen": {
         "widget_da": false,
@@ -55,13 +48,6 @@
       "geraet": "desktop",
       "verstoesse": [
         {
-          "id": "color-contrast",
-          "impact": "serious",
-          "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 1,
-          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
-        },
-        {
           "id": "frame-title",
           "impact": "serious",
           "help": "Frames must have an accessible name",
@@ -76,7 +62,7 @@
           "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 3,
+      "schwer": 2,
       "leicht": 0,
       "bewertungen": {
         "widget_da": false,
@@ -223,9 +209,9 @@
         "aggregate_rating": 0
       },
       "text": {
-        "absaetze": 24,
+        "absaetze": 25,
         "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
+        "zu_klein": 1,
         "zeilenlaenge_median": 41,
         "zu_breit": 0
       },
@@ -272,9 +258,9 @@
         "aggregate_rating": 0
       },
       "text": {
-        "absaetze": 51,
+        "absaetze": 52,
         "schriftgroesse_median": 15.4,
-        "zu_klein": 27,
+        "zu_klein": 28,
         "zeilenlaenge_median": 0,
         "zu_breit": 1
       },
@@ -321,9 +307,9 @@
         "aggregate_rating": 0
       },
       "text": {
-        "absaetze": 18,
+        "absaetze": 19,
         "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
+        "zu_klein": 1,
         "zeilenlaenge_median": 38,
         "zu_breit": 0
       },
@@ -360,9 +346,9 @@
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "widget_text": "",
         "sterne_symbole": 0,
-        "wort_bewertung": 1,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
         "preise_mit_eur": 0,
@@ -370,9 +356,9 @@
         "aggregate_rating": 0
       },
       "text": {
-        "absaetze": 45,
+        "absaetze": 46,
         "schriftgroesse_median": 15.4,
-        "zu_klein": 27,
+        "zu_klein": 28,
         "zeilenlaenge_median": 0,
         "zu_breit": 1
       },
@@ -503,9 +489,9 @@
         "aggregate_rating": 1
       },
       "text": {
-        "absaetze": 21,
+        "absaetze": 22,
         "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
+        "zu_klein": 1,
         "zeilenlaenge_median": 0,
         "zu_breit": 0
       },
@@ -516,6 +502,13 @@
       "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182664790339",
       "geraet": "desktop",
       "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 11,
+          "beispiel": "<select class=\"jdgm-sort-dropdown\">"
+        },
         {
           "id": "frame-title",
           "impact": "serious",
@@ -538,23 +531,23 @@
           "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 3,
+      "schwer": 14,
       "leicht": 0,
       "bewertungen": {
         "widget_da": true,
-        "widget_text": "",
+        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 6 Bewertungen\n \n 6\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/31/2026\nIsabel R.\nStilvoller Traum-Sessel\n\nPasst perfekt in unser modernes Wohnzimmer. Weich, bequem und su",
         "sterne_symbole": 1,
-        "wort_bewertung": 0,
+        "wort_bewertung": 3,
         "wort_rezension": 0,
-        "wort_sterne": 0,
+        "wort_sterne": 1,
         "preise_mit_eur": 0,
         "preise_gesamt": 0,
         "aggregate_rating": 1
       },
       "text": {
-        "absaetze": 48,
+        "absaetze": 49,
         "schriftgroesse_median": 15.4,
-        "zu_klein": 27,
+        "zu_klein": 28,
         "zeilenlaenge_median": 0,
         "zu_breit": 1
       },

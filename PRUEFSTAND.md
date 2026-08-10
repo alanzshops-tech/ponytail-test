@@ -1,6 +1,6 @@
 # Prüfstand
 
-Stand: 2026-08-09
+Stand: 2026-08-10
 
 Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsmaße und ein Pixelvergleich gegen die letzte Grundlinie.
 
@@ -8,8 +8,8 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 
 | Seite | Gerät | schwer | leicht | Schrift | Zeilenlänge | Pixel geändert |
 |---|---|---:|---:|---:|---:|---:|
-| / | mobil | **3** | 0 | 16.5 px | 0 Z. | – |
-| / | desktop | **3** | 0 | 15.4 px | 0 Z. | – |
+| / | mobil | **2** | 0 | 16.5 px | 0 Z. | – |
+| / | desktop | **2** | 0 | 15.4 px | 0 Z. | – |
 | /collections/hunde | mobil | **2** | 0 | 16.5 px | 21 Z. | – |
 | /collections/hunde | desktop | **2** | 0 | 17.6 px | 0 Z. | – |
 | /products/hundesofa-samt-erhoeht-xxl | mobil | **3** | 0 | 16.5 px | 41 Z. | – |
@@ -19,7 +19,7 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 | /cart | mobil | **2** | 0 | 16.5 px | 0 Z. | – |
 | /cart | desktop | **2** | 0 | 15.4 px | 0 Z. | – |
 | /products/samt-sessel-design-armlehnen-holzbeine | mobil | **3** | 0 | 16.5 px | 0 Z. | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **3** | 0 | 15.4 px | 0 Z. | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **14** | 0 | 15.4 px | 0 Z. | – |
 
 Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen verliert das Auge beim Rücksprung.
 
@@ -55,13 +55,13 @@ Deutsche Schreibweise ist „124,99 €" — Zahl vorn, Zeichen hinten, ohne Wä
 |---|---|---:|---|
 | Frames must have an accessible name | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 | Scrollable region must have keyboard access | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
+| Elements must meet minimum color contrast ratio thresholds | serious | 11 | /products/samt-sessel-design-armlehnen-holzbeine |
 | Form elements must have labels | critical | 6 | /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
-| Elements must meet minimum color contrast ratio thresholds | serious | 2 | / |
 
 Beispiele:
 
 - `frame-title` — `<iframe id="PBarNextFrame" src="https://cdn.shopify...." sandbox="allow-same-origin al..." style="width: 100%; height:...">`
 - `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25600953188675__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
+- `color-contrast` — `<select class="jdgm-sort-dropdown">`
 - `label` — `<input class="quantity__input" type="number" name="quantity" id="Quantity-template--25600956498243__main" data-cart-quantity="0" data-min="1" min="1" step="1" v`
-- `color-contrast` — `<p class="he-faq__eyebrow">FAQ</p>`
 
