@@ -145,6 +145,43 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
         const c = getComputedStyle(e);
         return c.position === 'fixed' && (e.innerText || '').match(/Widerruf/i);
       });
+      // Lage und Größe aller schwebenden Elemente. Erst damit lässt
+      // sich sagen, ob zwei sich überlappen — „sieht eng aus" ist keine
+      // Aussage, „18 px Abstand" ist eine.
+      const vw = window.innerWidth, vh = window.innerHeight;
+      const schweber = alle.filter(e => {
+        const c = getComputedStyle(e);
+        if (c.position !== 'fixed' || c.display === 'none'
+            || c.visibility === 'hidden') return false;
+        const r = e.getBoundingClientRect();
+        return r.width > 20 && r.height > 20 && r.width < vw * 0.8;
+      }).map(e => {
+        const r = e.getBoundingClientRect();
+        const s = ((e.className && e.className.baseVal !== undefined
+                    ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
+        return {kennung: s.trim().slice(0, 60),
+                text: (e.innerText || '').trim().slice(0, 40),
+                links: Math.round(r.left), oben: Math.round(r.top),
+                breite: Math.round(r.width), hoehe: Math.round(r.height),
+                von_rechts: Math.round(vw - r.right),
+                von_unten: Math.round(vh - r.bottom)};
+      });
+      // Nur die äußersten behalten, sonst zählt jedes Kind mit.
+      const aussen = schweber.filter((a, i) => !schweber.some((b, j) =>
+        j !== i && b.links <= a.links && b.oben <= a.oben
+        && b.links + b.breite >= a.links + a.breite
+        && b.oben + b.hoehe >= a.oben + a.hoehe));
+      const ueberlappt = [];
+      for (let i = 0; i < aussen.length; i++)
+        for (let j = i + 1; j < aussen.length; j++) {
+          const a = aussen[i], b = aussen[j];
+          const dx = Math.max(a.links, b.links)
+                   - Math.min(a.links + a.breite, b.links + b.breite);
+          const dy = Math.max(a.oben, b.oben)
+                   - Math.min(a.oben + a.hoehe, b.oben + b.hoehe);
+          if (dx < 0 && dy < 0)
+            ueberlappt.push(`${a.kennung || a.text} × ${b.kennung || b.text}`);
+        }
       return {
         elemente: treffer.length,
         sichtbar: sichtbar.length,
@@ -152,7 +189,9 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
         beispiel: treffer.length
           ? (treffer[0].outerHTML || '').slice(0, 180) : null,
         skripte: [...document.querySelectorAll('script[src]')]
-          .map(s => s.src).filter(u => /revoq/i.test(u)).slice(0, 3)
+          .map(s => s.src).filter(u => /revoq/i.test(u)).slice(0, 3),
+        schweber: aussen,
+        ueberlappungen: ueberlappt
       };
     }""")
 
@@ -237,6 +276,22 @@ def bericht(d: dict) -> str:
         z.append(f"| {urlsplit(m['url']).path or '/'} | {w.get('elemente', 0)} "
                  f"| {w.get('sichtbar', 0)} | {w.get('schwebend_mit_text', 0)} "
                  f"| {len(w.get('skripte') or [])} |")
+    sch = next((m["widerruf"].get("schweber") for m in d["seiten"]
+                if m.get("geraet") == "mobil"
+                and (m.get("widerruf") or {}).get("schweber")), None)
+    if sch:
+        z += ["", "**Schwebende Elemente auf dem Handy** (390 × 844 px), "
+              "Abstände vom rechten und unteren Rand:", "",
+              "| Element | Text | Größe | von rechts | von unten |",
+              "|---|---|---|---:|---:|"]
+        for s in sch:
+            z.append(f"| `{s['kennung'] or '(ohne Klasse)'}` | {s['text'] or '–'} "
+                     f"| {s['breite']}×{s['hoehe']} | {s['von_rechts']} px "
+                     f"| {s['von_unten']} px |")
+        ue = next((m["widerruf"].get("ueberlappungen") for m in d["seiten"]
+                   if m.get("geraet") == "mobil"
+                   and (m.get("widerruf") or {}).get("ueberlappungen")), [])
+        z += ["", f"**Überlappungen: {', '.join(ue) if ue else 'keine'}**", ""]
     bsp = next((m["widerruf"]["beispiel"] for m in d["seiten"]
                 if (m.get("widerruf") or {}).get("beispiel")), None)
     if bsp:
