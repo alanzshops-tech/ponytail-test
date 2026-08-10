@@ -74,6 +74,15 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
     try:
         seite.goto(url, wait_until="load", timeout=60000)
         seite.wait_for_timeout(3000)
+        # Die App-Knöpfe werden nachgeladen. Mit festen 3 s hing es vom
+        # Zufall ab, ob sie schon dastanden: derselbe Lauf meldete auf der
+        # einen Seite den Revoq-Knopf und auf der nächsten nichts. Deshalb
+        # auf Netzruhe warten, statt zu raten — und wenn sie nicht eintritt,
+        # nach 8 s trotzdem messen.
+        try:
+            seite.wait_for_load_state("networkidle", timeout=8000)
+        except Exception:                                        # noqa: BLE001
+            pass
     except Exception as e:                                       # noqa: BLE001
         m["fehler"] = str(e)[:200]
         ctx.close()
@@ -132,7 +141,19 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
     # Detektor gegen das Live-Theme gehalten, wo der Knopf aus ist.
     # Ein Fund ohne Gegentest wäre kein Beweis.
     m["widerruf"] = seite.evaluate("""() => {
-      const alle = [...document.querySelectorAll('*')];
+      // querySelectorAll('*') hört am Schatten-Wurzelrand auf. Genau dort
+      // sitzen die App-Knöpfe: der Lauf vom 10.08. meldete „kein
+      // schwebendes Element mit Text", während auf dem Foto derselben
+      // Seite drei davon übereinander in der Ecke lagen. Also selbst
+      // absteigen, durch jede shadowRoot hindurch.
+      const alle = [];
+      (function tief(wurzel, tiefe) {
+        if (tiefe > 8) return;
+        for (const e of wurzel.querySelectorAll('*')) {
+          alle.push(e);
+          if (e.shadowRoot) tief(e.shadowRoot, tiefe + 1);
+        }
+      })(document, 0);
       const passt = (e) => {
         const s = ((e.className && e.className.baseVal !== undefined
                     ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
@@ -149,28 +170,43 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
       // sich sagen, ob zwei sich überlappen — „sieht eng aus" ist keine
       // Aussage, „18 px Abstand" ist eine.
       const vw = window.innerWidth, vh = window.innerHeight;
-      const schweber = alle.filter(e => {
+      const knoten = alle.filter(e => {
         const c = getComputedStyle(e);
         if (c.position !== 'fixed' || c.display === 'none'
             || c.visibility === 'hidden') return false;
         const r = e.getBoundingClientRect();
         return r.width > 20 && r.height > 20 && r.width < vw * 0.8;
-      }).map(e => {
+      });
+      // Nur die äußersten behalten, sonst zählt jedes Kind mit. Über die
+      // Verwandtschaft im DOM, nicht über die Geometrie: der frühere
+      // Geometrietest hat verdeckte Elemente als „Kinder" weggeworfen —
+      // ein breiter Knopf verschluckte das Siegel, das auf ihm lag, und
+      // damit genau die Überlappung, die gefunden werden soll.
+      // contains() greift nicht über Schattengrenzen, deshalb zusätzlich
+      // am Wirt entlang nach oben.
+      const drin = (b, a) => {
+        for (let k = a; k; k = k.parentNode instanceof ShadowRoot
+                             ? k.parentNode.host : k.parentElement) {
+          if (k === b) return true;
+        }
+        return false;
+      };
+      const schweber = knoten.filter(
+        (a) => !knoten.some((b) => b !== a && drin(b, a))
+      ).map(e => {
         const r = e.getBoundingClientRect();
         const s = ((e.className && e.className.baseVal !== undefined
                     ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
-        return {kennung: s.trim().slice(0, 60),
+        // Ohne Klasse und ohne Id bliebe die Zeile namenlos — dann sagt
+        // wenigstens der Tag-Name, worum es geht (iframe, custom-element).
+        return {kennung: (s.trim() || e.tagName.toLowerCase()).slice(0, 60),
                 text: (e.innerText || '').trim().slice(0, 40),
                 links: Math.round(r.left), oben: Math.round(r.top),
                 breite: Math.round(r.width), hoehe: Math.round(r.height),
                 von_rechts: Math.round(vw - r.right),
                 von_unten: Math.round(vh - r.bottom)};
       });
-      // Nur die äußersten behalten, sonst zählt jedes Kind mit.
-      const aussen = schweber.filter((a, i) => !schweber.some((b, j) =>
-        j !== i && b.links <= a.links && b.oben <= a.oben
-        && b.links + b.breite >= a.links + a.breite
-        && b.oben + b.hoehe >= a.oben + a.hoehe));
+      const aussen = schweber;
       const ueberlappt = [];
       for (let i = 0; i < aussen.length; i++)
         for (let j = i + 1; j < aussen.length; j++) {
@@ -179,8 +215,12 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
                    - Math.min(a.links + a.breite, b.links + b.breite);
           const dy = Math.max(a.oben, b.oben)
                    - Math.min(a.oben + a.hoehe, b.oben + b.hoehe);
+          // dx/dy sind negativ, wenn sich die Kästen schneiden. Der Betrag
+          // ist die Überdeckung in Pixeln — die Zahl, nach der sich der
+          // Abstand einstellen lässt.
           if (dx < 0 && dy < 0)
-            ueberlappt.push(`${a.kennung || a.text} × ${b.kennung || b.text}`);
+            ueberlappt.push(`${a.kennung || a.text} × ${b.kennung || b.text}`
+              + ` (${-dx} × ${-dy} px)`);
         }
       return {
         elemente: treffer.length,
