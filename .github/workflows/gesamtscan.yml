@@ -15,6 +15,14 @@ on:
         description: "Mindestpunktzahl, unter der der Lauf rot wird (1-100)"
         type: string
         default: "50"
+  # Ohne diesen Auslöser kennt GitHub den Workflow nicht und lehnt das
+  # Starten von Hand mit 404 ab — er muss einmal durch ein Ereignis
+  # registriert werden.
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "scripts/gesamtscan.py"
+      - ".github/workflows/gesamtscan.yml"
   schedule:
     - cron: "0 8 * * 1"
 
