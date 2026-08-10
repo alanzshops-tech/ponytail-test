@@ -317,29 +317,44 @@ def bericht(d: dict) -> str:
         z.append(f"| {urlsplit(m['url']).path or '/'} | {w.get('elemente', 0)} "
                  f"| {w.get('sichtbar', 0)} | {w.get('schwebend_mit_text', 0)} "
                  f"| {len(w.get('skripte') or [])} |")
-    sch = next((m["widerruf"].get("schweber") for m in d["seiten"]
-                if m.get("geraet") == "mobil"
-                and (m.get("widerruf") or {}).get("schweber")), None)
-    if sch:
-        z += ["", "**Schwebende Elemente auf dem Handy** (390 × 844 px), "
-              "Abstände vom rechten und unteren Rand:", "",
-              "| Element | Text | Größe | von rechts | von unten |",
-              "|---|---|---|---:|---:|"]
-        for s in sch:
-            z.append(f"| `{s['kennung'] or '(ohne Klasse)'}` | {s['text'] or '–'} "
-                     f"| {s['breite']}×{s['hoehe']} | {s['von_rechts']} px "
-                     f"| {s['von_unten']} px |")
-        ue = next((m["widerruf"].get("ueberlappungen") for m in d["seiten"]
-                   if m.get("geraet") == "mobil"
-                   and (m.get("widerruf") or {}).get("ueberlappungen")), [])
-        z += ["", f"**Überlappungen: {', '.join(ue) if ue else 'keine'}**", ""]
+    # Jede Zeile nennt ihre Seite. Vorher nahm die Tabelle die Lagen von
+    # der ersten Seite und die Überlappungen von einer anderen — zwei
+    # Seiten in einem Block, ohne dass es dranstand. Am 10.08. hing genau
+    # daran die Frage, ob eine Einstellung wirkt: vier Seiten zeigten die
+    # neue Lage, eine noch die alte aus dem Cache.
+    reihen, ueber = [], []
+    for m in d["seiten"]:
+        if m.get("fehler") or m.get("geraet") != "mobil":
+            continue
+        p = urlsplit(m["url"]).path or "/"
+        w = m.get("widerruf") or {}
+        for s in w.get("schweber") or []:
+            reihen.append(
+                f"| {p} | `{(s['kennung'] or '(ohne Klasse)')[:32]}` "
+                f"| {s['text'] or '–'} | {s['breite']}×{s['hoehe']} "
+                f"| {s['links']} px | {s['von_rechts']} px "
+                f"| {s['von_unten']} px |")
+        for u in w.get("ueberlappungen") or []:
+            ueber.append(f"- {p}: {u}")
+    if reihen:
+        z += ["", "**Schwebende Elemente auf dem Handy** (390 × 844 px). "
+              "„von links\" ist die linke Kante, die beiden anderen sind "
+              "Abstände zum Rand:", "",
+              "| Seite | Element | Text | Größe | von links | von rechts "
+              "| von unten |",
+              "|---|---|---|---|---:|---:|---:|"] + reihen
+        z += ["", "**Überlappungen**", ""]
+        z += ueber if ueber else ["- keine"]
+        z += [""]
     bsp = next((m["widerruf"]["beispiel"] for m in d["seiten"]
                 if (m.get("widerruf") or {}).get("beispiel")), None)
     if bsp:
         z += ["", "Erstes gefundenes Element:", "", "```", bsp, "```"]
-    z += ["", "Derselbe Detektor läuft gegen das veröffentlichte Theme, wo "
-          "der Knopf abgeschaltet ist. Nur wenn er dort **null** meldet und "
-          "in der Sandbox mehr, ist der Fund ein Beweis.", "",
+    z += ["", "Der Knopf ist seit dem 10.08.2026 im veröffentlichten Theme "
+          "eingeschaltet; der Detektor hat ihn davor auf denselben Seiten "
+          "**null**-mal gefunden. Wer hier eine Änderung nachmisst, nimmt "
+          "`--frisch` dazu — sonst kann die Seite aus dem Cache kommen und "
+          "die alte Lage zeigen.", "",
           "## Preisschreibweise", "",
           "| Seite | Preise | davon mit „EUR\" |", "|---|---:|---:|"]
     for m in d["seiten"]:
