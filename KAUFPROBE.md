@@ -1,12 +1,12 @@
 # Kaufprobe und Sichtprüfung
 
-Stand: 2026-08-10T07:59:18+00:00
+Stand: 2026-08-10T08:26:24+00:00
 
 Zwei Fragen, beide nur im Browser beantwortbar: Sieht die umgebaute Startseite richtig aus, und kann man einkaufen?
 
 ## 1. Die Theme-Kopie
 
-Vorschau: `https://www.homeeins.de/?preview_theme_id=182664790339`
+Vorschau: `https://www.homeeins.de/?preview_theme_id=182665347395`
 
 - Erfundene Bewertungen im sichtbaren Text: **keine**
 - Banner mit Überschrift: ja
@@ -23,8 +23,8 @@ Vorschau: `https://www.homeeins.de/?preview_theme_id=182664790339`
 - Kategoriekacheln unten: Haustiere, Möbel, Ordnung & Aufbewahrung, Wohnen & Deko, Garten & Outdoor, Bad & Wellness
 - **Doppelt auf einer Seite: nichts**
 - Leere Abschnitte: keine
-- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=20f37237-52b0-4389-9dbe-9624a62d4845&target_origin=https%3A%2F%2Fw
-- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=aa86645c-51c3-44ed-91ec-745f1ee46833&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=eee3dcd7-c0a2-478c-9689-68099afa65f9&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=383aa136-4b37-4e38-ab84-e47de9bfe22c&target_origin=https%3A%2F%2Fw
 
 Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 
