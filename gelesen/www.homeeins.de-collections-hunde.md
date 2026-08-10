@@ -1,7 +1,7 @@
 # Hundezubehör – Hundesofas, Betten & Boxen | Homeeins
 
 - Quelle: https://www.homeeins.de/collections/hunde
-- Abgerufen: 2026-08-10 09:37 UTC
+- Abgerufen: 2026-08-10 19:33 UTC
 - Sprache laut HTML: de · gemessen: Deutsch (de 123 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 2169
