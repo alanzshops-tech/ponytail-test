@@ -57,7 +57,20 @@ jobs:
         env:
           THEME: ${{ inputs.theme }}
           WIRKLICH: ${{ inputs.wirklich }}
+          EREIGNIS: ${{ github.event_name }}
         run: |
+          if [ "$EREIGNIS" = "push" ]; then
+            # Der Push-Trigger existiert nur, damit GitHub den Workflow
+            # ueberhaupt zum manuellen Start registriert -- bei einem Push
+            # gibt es keine `inputs`, WIRKLICH ist also immer leer. Mit
+            # `exit 1` waere dieser Lauf jedesmal rot gewesen, obwohl genau
+            # nichts falsch lief. Ein Selbsttest gehoert bei Erfolg gruen zu
+            # sein, sonst hoert irgendwann niemand mehr hin. Deshalb hier
+            # exit 0 statt exit 1 -- das ist die einzige Stelle, an der ein
+            # fehlendes WIRKLICH kein Fehler ist.
+            echo "Nur Registrierung: bei einem Push wird nichts gelöscht."
+            exit 0
+          fi
           if [ "$WIRKLICH" != "LOESCHEN" ]; then
             echo "::error::Bestätigung fehlt."; exit 1
           fi
@@ -66,11 +79,17 @@ jobs:
           fi
 
       - name: Shopify CLI
+        # Ab hier nur bei einem echten Löschauftrag. Bei einem Push endet
+        # "Sicherungen" jetzt mit exit 0 (Erfolg), statt den Job scheitern
+        # zu lassen -- ohne diese Bedingung würde GitHub deshalb versuchen,
+        # die folgenden Schritte trotzdem auszuführen.
+        if: github.event_name != 'push'
         run: |
           npm install -g --silent @shopify/cli@latest
           shopify version
 
       - name: Ist das Ziel wirklich unveröffentlicht?
+        if: github.event_name != 'push'
         env:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
           SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
@@ -104,6 +123,7 @@ jobs:
           PY
 
       - name: Theme herunterladen
+        if: github.event_name != 'push'
         env:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
           SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
@@ -122,6 +142,7 @@ jobs:
           fi
 
       - name: Dateien örtlich löschen
+        if: github.event_name != 'push'
         env:
           DATEIEN: ${{ inputs.dateien }}
         run: |
@@ -149,6 +170,7 @@ jobs:
           fi
 
       - name: Zurückschieben
+        if: github.event_name != 'push'
         env:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
           SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
@@ -163,6 +185,7 @@ jobs:
         run: shopify theme push --path arbeitskopie --theme "$THEME" --no-color
 
       - name: Theme Check danach
+        if: github.event_name != 'push'
         continue-on-error: true
         run: |
           mkdir -p daten
