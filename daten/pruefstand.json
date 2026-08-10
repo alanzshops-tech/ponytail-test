@@ -6,21 +6,14 @@
       "geraet": "mobil",
       "verstoesse": [
         {
-          "id": "color-contrast",
-          "impact": "serious",
-          "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 1,
-          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
-        },
-        {
           "id": "scrollable-region-focusable",
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 2,
+      "schwer": 1,
       "leicht": 0,
       "bewertungen": {
         "widget_da": false,
@@ -29,17 +22,29 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
-        "preise_mit_eur": 8,
-        "preise_gesamt": 8,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
         "aggregate_rating": 0
       },
       "widerruf": {
-        "elemente": 0,
-        "sichtbar": 0,
-        "schwebend_mit_text": 0,
-        "beispiel": null,
-        "skripte": [],
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
         "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
           {
             "kennung": "trustedsite-tm-image",
             "text": "",
@@ -55,8 +60,8 @@
       },
       "text": {
         "absaetze": 24,
-        "schriftgroesse_median": 15,
-        "zu_klein": 23,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 0,
         "zeilenlaenge_median": 0,
         "zu_breit": 0
       },
@@ -68,21 +73,14 @@
       "geraet": "desktop",
       "verstoesse": [
         {
-          "id": "color-contrast",
-          "impact": "serious",
-          "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 1,
-          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
-        },
-        {
           "id": "scrollable-region-focusable",
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 2,
+      "schwer": 1,
       "leicht": 0,
       "bewertungen": {
         "widget_da": false,
@@ -91,17 +89,29 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
-        "preise_mit_eur": 8,
-        "preise_gesamt": 8,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
         "aggregate_rating": 0
       },
       "widerruf": {
-        "elemente": 0,
-        "sichtbar": 0,
-        "schwebend_mit_text": 0,
-        "beispiel": null,
-        "skripte": [],
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
         "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
           {
             "kennung": "trustedsite-tm-image",
             "text": "",
@@ -117,7 +127,7 @@
       },
       "text": {
         "absaetze": 51,
-        "schriftgroesse_median": 14,
+        "schriftgroesse_median": 15.4,
         "zu_klein": 27,
         "zeilenlaenge_median": 0,
         "zu_breit": 1
@@ -162,12 +172,12 @@
           {
             "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
             "text": "Vertrag widerrufen",
-            "links": 208,
-            "oben": 782,
+            "links": 20,
+            "oben": 758,
             "breite": 162,
             "hoehe": 42,
-            "von_rechts": 20,
-            "von_unten": 20
+            "von_rechts": 208,
+            "von_unten": 44
           },
           {
             "kennung": "trustedsite-tm-image",
@@ -180,9 +190,7 @@
             "von_unten": -13
           }
         ],
-        "ueberlappungen": [
-          "widerruf-trigger-button widerruf-trigger-button--floating wi × trustedsite-tm-image (72 × 5 px)"
-        ]
+        "ueberlappungen": []
       },
       "text": {
         "absaetze": 35,
@@ -231,12 +239,12 @@
           {
             "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
             "text": "Vertrag widerrufen",
-            "links": 1258,
-            "oben": 838,
+            "links": 20,
+            "oben": 814,
             "breite": 162,
             "hoehe": 42,
-            "von_rechts": 20,
-            "von_unten": 20
+            "von_rechts": 1258,
+            "von_unten": 44
           },
           {
             "kennung": "trustedsite-tm-image",
@@ -249,9 +257,7 @@
             "von_unten": -13
           }
         ],
-        "ueberlappungen": [
-          "widerruf-trigger-button widerruf-trigger-button--floating wi × trustedsite-tm-image (72 × 5 px)"
-        ]
+        "ueberlappungen": []
       },
       "text": {
         "absaetze": 62,
