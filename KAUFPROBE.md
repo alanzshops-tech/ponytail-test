@@ -1,6 +1,6 @@
 # Kaufprobe und Sichtprüfung
 
-Stand: 2026-08-09T21:29:18+00:00
+Stand: 2026-08-10T07:57:15+00:00
 
 Zwei Fragen, beide nur im Browser beantwortbar: Sieht die umgebaute Startseite richtig aus, und kann man einkaufen?
 
@@ -23,8 +23,8 @@ Vorschau: `https://www.homeeins.de/?preview_theme_id=182664626499`
 - Kategoriekacheln unten: Haustiere, Möbel, Ordnung & Aufbewahrung, Wohnen & Deko, Garten & Outdoor, Bad & Wellness
 - **Doppelt auf einer Seite: nichts**
 - Leere Abschnitte: keine
-- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=b7027a89-5408-4ed6-863c-ba83a403daf0&target_origin=https%3A%2F%2Fw
-- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=a89674f1-2d10-4dc5-a37b-2a843be3519b&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=15f1f725-4275-4c03-ae0e-6bafe2ea26ab&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=b4c9dc8c-61e6-4b08-998d-77fadd58323f&target_origin=https%3A%2F%2Fw
 
 Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 
@@ -39,6 +39,14 @@ Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 - Warenkorb danach: **1 Artikel**, 24.99 EUR
 - Posten: Vorratsbehälter mit Deckel – Luftdicht für Küche &amp; Speisekammer - BLACK ×1
 - Kasse-Knopf im Warenkorb: 2
+- Fehlende Dateien (404): keine
+- Konsole: 4 Meldungen
+
+    - `error: Framing 'https://shop.app/' violates the following Content Security Policy directive: "frame-ancestors 'self' https://shop.app https://admin.shopify.c`
+    - `error: Failed to load resource: the server responded with a status of 403 ()`
+    - `error: Error producing monorail event MonorailRequestError: Error completing request. A network failure may have prevented the request from completing. Error`
+    - `error: TypeError: Cannot read properties of null (reading 'flags')
+    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c`
 
 ### `/products/led-taschenlampe-aufladbar-zoom-warnlicht` (selbst)
 
@@ -49,6 +57,14 @@ Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 - Warenkorb danach: **1 Artikel**, 29.99 EUR
 - Posten: LED-Taschenlampe aufladbar – 7 Leuchtmodi, Zoom &amp; Warnlicht, USB-C - 1 Stück ×1
 - Kasse-Knopf im Warenkorb: 2
+- Fehlende Dateien (404): keine
+- Konsole: 4 Meldungen
+
+    - `error: Framing 'https://shop.app/' violates the following Content Security Policy directive: "frame-ancestors 'self' https://shop.app https://admin.shopify.c`
+    - `error: Failed to load resource: the server responded with a status of 403 ()`
+    - `error: Error producing monorail event MonorailRequestError: Error completing request. A network failure may have prevented the request from completing. Error`
+    - `error: TypeError: Cannot read properties of null (reading 'flags')
+    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c`
 
 ### Die Kasse
 
