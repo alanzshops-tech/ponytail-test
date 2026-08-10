@@ -1,0 +1,72 @@
+name: Modellprobe
+
+# Vergleicht Modelle an denselben drei echten Produkten. Beantwortet die
+# Frage „taugt das billige Modell für Produkttexte" mit Zahlen statt mit
+# einem Eindruck.
+#
+# Läuft auf dem Runner, weil die Arbeitsumgebung openrouter.ai nicht
+# erreicht. Schlüssel als Secret OPEN_ROUTER, nur als Umgebungsvariable
+# durchgereicht.
+on:
+  workflow_dispatch:
+    inputs:
+      modelle:
+        description: "Modell-IDs, Komma-getrennt"
+        type: string
+        default: "nvidia/nemotron-3-ultra-550b-a55b:free,google/gemma-4-31b-it:free,google/gemma-4-26b-a4b-it:free,inclusionai/ling-3.0-tiny:free"
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "scripts/modellprobe.py"
+      - ".github/workflows/modellprobe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  vergleichen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gegenprobe der Messgeräte
+        # Zuerst die Messgeräte, dann die Messung. Ein Selektor, der zu
+        # viel fängt, würde sonst eine Modellbewertung erzeugen, die nach
+        # Zahlen aussieht und keine ist.
+        run: |
+          python3 scripts/probe_openrouter.py
+          python3 scripts/probe_modellprobe.py
+
+      - name: Vergleichen
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER }}
+          MODELLE: ${{ inputs.modelle || 'nvidia/nemotron-3-ultra-550b-a55b:free,google/gemma-4-31b-it:free,google/gemma-4-26b-a4b-it:free,inclusionai/ling-3.0-tiny:free' }}
+        run: python3 scripts/modellprobe.py --modelle "$MODELLE"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f MODELLPROBE.md ] && cat MODELLPROBE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MODELLPROBE.md daten/modellprobe.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Modellprobe vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
