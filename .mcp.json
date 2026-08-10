@@ -3,7 +3,9 @@
     "shopify-dev": {
       "command": "npx",
       "args": ["-y", "@shopify/dev-mcp@latest"],
-      "env": {}
+      "env": {
+        "LIQUID_VALIDATION_MODE": "partial"
+      }
     },
     "chrome-devtools": {
       "command": "npx",

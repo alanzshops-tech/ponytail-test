@@ -85,6 +85,28 @@ Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`.
 
+## MCP-Server (`.mcp.json`)
+
+**shopify-dev** (`@shopify/dev-mcp`, ISC, v1.14.4). Im Paket
+nachgesehen, nicht aus einem Blog übernommen — es bringt wirklich
+`learn_shopify_api`, `search_docs_chunks`, `validate_graphql_codeblocks`,
+`validate_theme` und `validate_theme_codeblocks` mit. Ein
+`introspect_admin_schema`, das mehrere Anleitungen nennen, ist **nicht**
+enthalten.
+
+`LIQUID_VALIDATION_MODE=partial` ist gesetzt. Damit prüft
+`validate_theme_codeblocks` einzelne Liquid-Schnipsel gegen Theme Check
+— also genau das, was in `custom-liquid`-Abschnitten geschrieben wird,
+ohne dass das ganze Theme lokal liegen muss. Sobald der Theme-Token da
+ist, prüft `validate_theme` das ganze Verzeichnis auf einmal.
+
+**chrome-devtools** (`chrome-devtools-mcp`, Apache-2.0, v1.6.0). Fährt
+einen echten Chrome, nimmt Performance-Traces auf und liest die Konsole.
+Damit lässt sich die Frage „warum steht die Praxis-Note auf 58" direkt
+beantworten, statt sie aus Lighthouse-Zahlen zu erschließen.
+
+Beide sind lesend und brauchen keine Ladenzugangsdaten.
+
 ## Offene Punkte
 
 - **`SHOPIFY_CLI_THEME_TOKEN` fehlt.** Ohne ihn kein `shopify theme
