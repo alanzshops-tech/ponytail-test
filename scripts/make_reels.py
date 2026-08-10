@@ -227,14 +227,22 @@ def stimme_holen(ordner: Path) -> Path | None:
         onnx = ordner / f"{name}.onnx"
         if onnx.is_file():
             return onnx
-        r = subprocess.run(
-            [sys.executable, "-m", "piper.download_voices",
-             "--download-dir", str(ordner), name],
-            capture_output=True, text=True)
-        if r.returncode == 0 and onnx.is_file():
-            print(f"  Stimme: {name}")
-            return onnx
-        print(f"  Stimme {name} nicht verfügbar ({r.stderr.strip()[:90]})")
+        # Zwei Versuche je Stimme. Am 10.08.2026 scheiterten in einem
+        # Matrix-Job alle vier Stimmen nacheinander, waehrend dieselben
+        # Downloads in den 16 Parallel-Jobs klappten -- das war der Hub,
+        # nicht die Stimme. Ein zweiter Anlauf kostet Sekunden.
+        for versuch in (1, 2):
+            r = subprocess.run(
+                [sys.executable, "-m", "piper.download_voices",
+                 "--download-dir", str(ordner), name],
+                capture_output=True, text=True)
+            if r.returncode == 0 and onnx.is_file():
+                print(f"  Stimme: {name}")
+                return onnx
+            print(f"  Stimme {name} nicht verfügbar, Versuch {versuch} "
+                  f"({r.stderr.strip()[:90]})")
+            if versuch == 1:
+                time.sleep(5)
     return None
 
 
@@ -285,6 +293,9 @@ def main() -> None:
     ap.add_argument("--config", default="reels.config.json")
     ap.add_argument("--out", default="dist")
     ap.add_argument("--nur", help="Nur dieses Produkt rendern (Feld 'name')")
+    ap.add_argument("--ohne-stimme", action="store_true",
+                    dest="ohne_stimme",
+                    help="Stumme Reels sind ausdrücklich gewollt")
     a = ap.parse_args()
 
     ff = ffmpeg_pfad()
@@ -313,7 +324,21 @@ def main() -> None:
     braucht_stimme = any(p.get("sprecher") for p in produkte)
     modell = stimme_holen(tmp / "stimmen") if braucht_stimme else None
     if braucht_stimme and not modell:
-        print("WARNUNG: Keine Piper-Stimme verfügbar – Reels ohne Sprachausgabe.")
+        # Frueher stand hier nur eine WARNUNG, danach lief der Renderer
+        # weiter und lieferte stumme Videos mit Rueckgabewert 0. Am
+        # 10.08.2026 ist genau das passiert: im Matrix-Job fuer
+        # "gewichtsdecke" scheiterten alle vier deutschen Piper-Stimmen,
+        # der Job meldete Erfolg, und erst die Tonpruefung im naechsten
+        # Job fand es (Uebereinstimmung 0.00, Spitzenpegel -8.2 dB statt
+        # der ueblichen -1.5 dB). Ein Video ohne Sprecher ist bei dieser
+        # Strecke kein abgeschwaechtes Ergebnis, sondern Ausschuss --
+        # deshalb hart abbrechen. Wer wirklich stumme Reels will, sagt es
+        # mit --ohne-stimme.
+        if not a.ohne_stimme:
+            sys.exit("FEHLER: Sprechertexte konfiguriert, aber keine "
+                     "Piper-Stimme verfügbar. Das ergäbe stumme Reels. "
+                     "Absicht? Dann --ohne-stimme setzen.")
+        print("Keine Piper-Stimme – stumme Reels sind angefordert (--ohne-stimme).")
 
     for prod in produkte:
         name = prod["name"]
@@ -333,6 +358,14 @@ def main() -> None:
             stimme = sprechen(sprecher_text, modell, wd / "stimme.wav")
             if stimme:
                 print(f"  Sprachausgabe: {wav_dauer(stimme):.1f}s")
+            elif not a.ohne_stimme:
+                # Derselbe Grund wie oben, nur eine Ebene tiefer: die
+                # Stimme ist da, aber die Synthese fuer dieses eine
+                # Produkt schlug fehl. Auch das darf nicht als stummes
+                # Video durchrutschen.
+                sys.exit(f"FEHLER: Sprachausgabe für {name} fehlgeschlagen. "
+                         f"Das ergäbe ein stummes Reel. Absicht? Dann "
+                         f"--ohne-stimme setzen.")
 
         sek_pro_bild = SEK_PRO_BILD
         if stimme:
