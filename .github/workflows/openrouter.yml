@@ -1,0 +1,98 @@
+name: OpenRouter
+
+# Prüft den Zugang zu OpenRouter und macht einen echten Rundlauf.
+#
+# Läuft hier und nicht in der Arbeitsumgebung, weil die nur GitHub, PyPI
+# und npm erreicht — openrouter.ai ist gesperrt. Der Runner ist Augen und
+# Netz, das Ergebnis kommt als Commit zurück.
+#
+# Der Schlüssel liegt in den Repository-Secrets als OPEN_ROUTER und wird
+# nur als Umgebungsvariable durchgereicht. Er steht in keinem Befehl und
+# damit in keinem Protokoll.
+on:
+  workflow_dispatch:
+    inputs:
+      frage:
+        description: "Text für den Rundlauf; leer = nur Zugang prüfen"
+        type: string
+        default: "Antworte mit genau einem kurzen deutschen Satz über Hundesofas."
+      modell:
+        description: "Modell-ID; leer = das günstigste mit Preis"
+        type: string
+        default: ""
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "scripts/openrouter.py"
+      - ".github/workflows/openrouter.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Schlüssel vorhanden?
+        env:
+          TOKEN: ${{ secrets.OPEN_ROUTER }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::OPEN_ROUTER fehlt in den Repository-Secrets."
+            exit 1
+          fi
+          # Nur die Länge, nie der Wert.
+          echo "Schlüssel vorhanden, ${#TOKEN} Zeichen."
+
+      - name: Zugang prüfen
+        env:
+          # Das Secret heißt OPEN_ROUTER, das Skript liest die übliche
+          # Variable OPENROUTER_API_KEY. Umgehängt wird genau hier.
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER }}
+          FRAGE: ${{ inputs.frage }}
+          MODELL: ${{ inputs.modell }}
+        run: |
+          # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
+          # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
+          # eingeschleuster Befehl geworden. Als Array bleibt jedes
+          # Argument ein Argument.
+          # Die if-Blöcke statt `[ -n .. ] && ..`, weil GitHub die Schritte
+          # mit `bash -e` fährt: ein fehlschlagender Test als letzter
+          # Befehl einer Zeile würde den Schritt abbrechen.
+          ARGS=(--pruefen)
+          if [ -n "$FRAGE" ]; then ARGS+=(--fragen "$FRAGE"); fi
+          if [ -n "$MODELL" ]; then ARGS+=(--modell "$MODELL"); fi
+          python3 scripts/openrouter.py "${ARGS[@]}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f OPENROUTER.md ] && cat OPENROUTER.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add OPENROUTER.md daten/openrouter.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
