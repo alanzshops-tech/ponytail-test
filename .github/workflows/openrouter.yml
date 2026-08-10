@@ -20,6 +20,10 @@ on:
         description: "Modell-ID; leer = das günstigste mit Preis"
         type: string
         default: ""
+      info:
+        description: "Steckbriefe aller Modelle, deren ID diesen Text enthält"
+        type: string
+        default: ""
   push:
     branches: ["claude/**"]
     paths:
@@ -61,6 +65,7 @@ jobs:
           # 10.08.2026 — grün, aber ohne echten Rundlauf.
           FRAGE: ${{ inputs.frage || 'Antworte mit genau einem kurzen deutschen Satz über Hundesofas.' }}
           MODELL: ${{ inputs.modell }}
+          INFO: ${{ inputs.info }}
         run: |
           # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
           # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
@@ -69,6 +74,12 @@ jobs:
           # Die if-Blöcke statt `[ -n .. ] && ..`, weil GitHub die Schritte
           # mit `bash -e` fährt: ein fehlschlagender Test als letzter
           # Befehl einer Zeile würde den Schritt abbrechen.
+          # --info ist ein eigener Weg: es fragt nur den Steckbrief ab
+          # und schreibt MODELLINFO.md, ohne Rundlauf.
+          if [ -n "$INFO" ]; then
+            python3 scripts/openrouter.py --info "$INFO"
+            exit 0
+          fi
           ARGS=(--pruefen)
           if [ -n "$FRAGE" ]; then ARGS+=(--fragen "$FRAGE"); fi
           if [ -n "$MODELL" ]; then ARGS+=(--modell "$MODELL"); fi
@@ -83,7 +94,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add OPENROUTER.md daten/openrouter.json 2>/dev/null || true
+          git add OPENROUTER.md MODELLINFO.md daten/openrouter.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
           for v in 1 2 3; do
