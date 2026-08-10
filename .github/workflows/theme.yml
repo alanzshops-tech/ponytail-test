@@ -40,9 +40,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Node 22, nicht 20: Shopify CLI 4 benutzt enableCompileCache aus
+      # node:module, das es erst ab 22.1 gibt. Mit 20 bricht schon
+      # `shopify version` mit einem SyntaxError ab.
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Shopify CLI einrichten
         run: |
