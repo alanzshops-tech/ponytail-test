@@ -190,6 +190,65 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest"
         }
+      },
+      "9864028433945474133": {
+        "type": "shopify://apps/revoq-eu-withdrawal-button/blocks/widerrufsbutton-floating-button/019c3356-2775-7d52-b915-4b0f965005ae",
+        "disabled": false,
+        "settings": {
+          "trigger_label": "-",
+          "hide_trigger": false,
+          "floating_position": "right",
+          "floating_bottom_offset": 20,
+          "floating_side_offset": 20,
+          "trigger_button_size": "medium",
+          "trigger_button_color": "#111827",
+          "trigger_button_text_color": "#ffffff",
+          "heading_text": "-",
+          "show_section_heading": true,
+          "show_subheading": true,
+          "subheading_text": "-",
+          "name_placeholder": "-",
+          "order_placeholder": "-",
+          "show_order_hint": true,
+          "show_email_hint": true,
+          "show_privacy_notice": true,
+          "text_color": "#111827",
+          "secondary_text_color": "#6b7280",
+          "card_shape": "rounded",
+          "input_shape": "rounded",
+          "button_color": "#111827",
+          "button_text_color": "#ffffff"
+        }
+      },
+      "10603822535667782919": {
+        "type": "shopify://apps/mst-wishlist-marketing-flow/blocks/app-embed/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
+        "disabled": true,
+        "settings": {
+          "hide_float_icon": false,
+          "is_show_vendor": false,
+          "heart_icon_color": "",
+          "iwish_count_clr": "#FFFFFF",
+          "iwish_float_custom_icon": "",
+          "float_heart_position": "middle",
+          "float_heart_alignment": "left",
+          "open_drawer_once": false,
+          "multi_category_wishlist": false,
+          "is_old_cur_convertor": false,
+          "drawer_is_add_all_to_cart": false,
+          "cart_icon_class": ".cart-count-bubble",
+          "iwish_img_col": "2",
+          "iwish_img_size": "50X50",
+          "is_multi_language": true,
+          "drawer_title": "My Wishlist",
+          "drawer_empty_description": "Explore more and shortlist some items",
+          "drawer_empty_msg": "Your wishlist is empty!",
+          "drawer_login_msg": "Wishlist is not saved permanently yet. Please <a class=\"link-text\" href=\"/account/login\">log in</a> or <a class=\"link-text\" href=\"/account/register\">Create Account</a> to save it.",
+          "add_to_cart_txt": "Add To Cart",
+          "add_all_to_cart_txt": "Add All To Cart",
+          "drawer_sold_out": "Sold Out",
+          "main_wishlist_text": "Main Wishlist",
+          "save_btn_text": "SAVE"
+        }
       }
     },
     "color_schemes": {
