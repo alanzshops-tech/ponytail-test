@@ -64,6 +64,14 @@ MASCHEN = {
 # gebraeuchlich und stehen deshalb nicht drin.
 ENGLISCH = r"\b(?:the|and|with|your|our|for|this|that|from|comfort|soft|quality|features?|perfect|premium quality)\b"
 
+# Ausgeplaudertes Denken. Nemotron 3 Ultra lieferte am 10.08.2026 seinen
+# kompletten Gedankengang als Produkttext aus -- "The user wants...",
+# "Constraints:", "Drafting:", dann eine Wortzaehlung, bis das
+# Token-Budget alle war. Das ist ein eigener Ausfall und gehoert nicht
+# unter "erfundene Zahlen" einsortiert: dort hat es die Zahl aufgeblaeht
+# und schlimmer ausgesehen, als es war.
+GEDANKEN = r"(?:the user (?:wants|asked)|constraints?:|drafting:|word count|let me (?:think|draft|write)|I (?:need|should|will) (?:to )?(?:write|draft|check)|here'?s? (?:my|the) (?:draft|response))"
+
 
 def zahlen(text: str) -> set[str]:
     """Zahlen normalisiert, damit 5,0 und 5.0 und 5 dasselbe sind."""
@@ -101,10 +109,20 @@ def englisch(text: str) -> list[str]:
     return sorted({w.lower() for w in re.findall(ENGLISCH, text, re.I)})
 
 
+def gedanken(text: str) -> list[str]:
+    return sorted({t.lower() for t in re.findall(GEDANKEN, text, re.I)})
+
+
 def messen(antwort: str, angaben: str) -> dict:
+    geplaudert = gedanken(antwort)
     return {
         "woerter": len(antwort.split()),
-        "erfundene_zahlen": erfundene_zahlen(antwort, angaben),
+        # Plaudert das Modell sein Denken aus, sind die Zahlen darin
+        # Wortzaehlerei und zitierte Vorgaben, keine erfundenen
+        # Produktangaben. Getrennt ausweisen, statt eine Zahl zu melden,
+        # die schlimmer klingt, als sie ist.
+        "erfundene_zahlen": [] if geplaudert else erfundene_zahlen(antwort, angaben),
+        "gedanken_im_text": geplaudert,
         "maschen": maschen(antwort),
         "englisch": englisch(antwort),
     }
@@ -118,15 +136,22 @@ def angaben_text(a: dict) -> str:
             f"Varianten: {'; '.join(a['varianten'])}")
 
 
-def einen(modell: str, a: dict) -> dict:
+def einen(modell: str, a: dict, denken: str | None = None) -> dict:
     angaben = angaben_text(a)
-    start = time.time()
-    r = o.rufen("/chat/completions", {
+    last = {
         "model": modell,
         "messages": [{"role": "user",
                       "content": AUFTRAG.format(angaben=angaben)}],
         "max_tokens": 400,
-    })
+    }
+    # `reasoning.effort` kennt laut @openrouter/sdk die Stufen none,
+    # minimal, low, medium, high, max, xhigh. Ohne Angabe entscheidet das
+    # Modell -- und ein Reasoning-Modell denkt dann sichtbar. Genau das
+    # ist am 10.08.2026 passiert, weil ich den Schalter nicht kannte.
+    if denken:
+        last["reasoning"] = {"effort": denken}
+    start = time.time()
+    r = o.rufen("/chat/completions", last)
     dauer = round(time.time() - start, 1)
     if "fehler" in r:
         return {"aufgabe": a["kennung"], "fehler": r["fehler"],
@@ -152,24 +177,31 @@ def bericht(d: dict) -> str:
          "— „waschbar bei 60 Grad“, „3 cm dick“ — ohne dass sie jemand",
          "geprüft hat. Kleine Zählzahlen bleiben außen vor, die sind",
          "Formulierung.", "",
-         "| Modell | Läufe | Fehler | Wörter ⌀ | erfundene Zahlen | Maschen "
-         "| englische Reste | Dauer ⌀ | Kosten |",
-         "|---|---:|---:|---:|---:|---:|---:|---:|---:|"]
+         "**Denken im Text** ist ein eigener Ausfall, kein erfundener",
+         "Fakt: ein Reasoning-Modell ohne gesetztes `reasoning.effort`",
+         "liefert seinen Gedankengang als Produkttext aus. Die Zahlen darin",
+         "sind Wortzählerei, keine Zusicherungen — deshalb getrennt gezählt.",
+         "",
+         "| Modell | Läufe | Fehler | Wörter ⌀ | erfundene Zahlen "
+         "| Denken im Text | Maschen | englische Reste | Dauer ⌀ | Kosten |",
+         "|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|"]
     for m, laeufe in d["modelle"].items():
         gut = [x for x in laeufe if "antwort" in x]
         schlecht = len(laeufe) - len(gut)
         if not gut:
             z.append(f"| `{m}` | {len(laeufe)} | **{schlecht}** | – | – | – "
-                     f"| – | – | – |")
+                     f"| – | – | – | – |")
             continue
         wo = sum(x["woerter"] for x in gut) / len(gut)
         zahl = sum(len(x["erfundene_zahlen"]) for x in gut)
         mas = sum(len(x["maschen"]) for x in gut)
         eng = sum(len(x["englisch"]) for x in gut)
+        ged = sum(1 for x in gut if x.get("gedanken_im_text"))
         dau = sum(x["dauer"] for x in gut) / len(gut)
         kos = sum(x.get("kosten") or 0 for x in gut)
         z.append(f"| `{m}` | {len(laeufe)} | {schlecht} | {wo:.0f} "
-                 f"| {zahl} | {mas} | {eng} | {dau:.1f} s | {kos:.6f} $ |")
+                 f"| {zahl} | {ged} | {mas} | {eng} | {dau:.1f} s "
+                 f"| {kos:.6f} $ |")
     z.append("")
 
     for m, laeufe in d["modelle"].items():
@@ -183,6 +215,9 @@ def bericht(d: dict) -> str:
             hin = []
             if x["erfundene_zahlen"]:
                 hin.append("erfundene Zahlen: " + ", ".join(x["erfundene_zahlen"]))
+            if x.get("gedanken_im_text"):
+                hin.append("Denken im Text: "
+                           + ", ".join(x["gedanken_im_text"]))
             if x["maschen"]:
                 hin.append("Maschen: " + ", ".join(x["maschen"]))
             if x["englisch"]:
@@ -197,7 +232,9 @@ def bericht(d: dict) -> str:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--modelle", required=True,
-                    help="Komma-getrennte Modell-IDs")
+                    help="Komma-getrennte Modell-IDs. Ein Anhang "
+                         "@none/@minimal/@low usw. setzt reasoning.effort "
+                         "fuer dieses Modell, z. B. nvidia/foo:free@none")
     ap.add_argument("--aufgaben", default="daten/modellprobe-aufgaben.json")
     ap.add_argument("--bericht", default="MODELLPROBE.md")
     ap.add_argument("--json", default="daten/modellprobe.json")
@@ -205,12 +242,17 @@ def main() -> None:
 
     aufgaben = json.loads(Path(a.aufgaben).read_text(encoding="utf-8"))["aufgaben"]
     d = {"stand": str(date.today()), "modelle": {}}
-    for m in [x.strip() for x in a.modelle.split(",") if x.strip()]:
-        print(f"\n=== {m} ===")
-        d["modelle"][m] = []
+    for eintrag in [x.strip() for x in a.modelle.split(",") if x.strip()]:
+        # "modell@none" heisst: dasselbe Modell, aber ohne sichtbares
+        # Denken. So laesst sich beides im selben Lauf nebeneinander
+        # stellen, statt zwei Laeufe zu vergleichen, zwischen denen sich
+        # die Drosselung geaendert haben kann.
+        m, _, denken = eintrag.partition("@")
+        print(f"\n=== {eintrag} ===")
+        d["modelle"][eintrag] = []
         for auf in aufgaben:
-            r = einen(m, auf)
-            d["modelle"][m].append(r)
+            r = einen(m, auf, denken or None)
+            d["modelle"][eintrag].append(r)
             print(f"  {auf['kennung']:<16} "
                   + (f"FEHLER {r['fehler']}" if "fehler" in r
                      else f"{r['woerter']} Wörter, {r['dauer']} s, "

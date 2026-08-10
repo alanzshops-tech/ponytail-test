@@ -97,6 +97,43 @@ def main() -> int:
     if fehler == v:
         print("OK      englische Reste: erkannt, ohne Lehnwörter zu fangen")
 
+    # Ausgeplaudertes Denken. Der echte Fall vom 10.08.2026 als
+    # Positivprobe, ein deutscher Text mit denselben Woertern als
+    # Negativprobe -- "Constraints" im Fliesstext darf nicht fangen.
+    v = fehler
+    ECHT = ("The user wants a product description for a German online shop.\n"
+            "Constraints:\n- Length: 60-90 words.\nDrafting:\n"
+            "Das Premium Handtuch-Set besteht aus 100 % Baumwolle.\n"
+            "Word count check: Das (1) Premium (2)")
+    if not m.gedanken(ECHT):
+        print("FEHLER  Denken/Positivfall nicht erkannt"); fehler += 1
+    for harmlos in (
+        "Das Set besteht aus 100 % Baumwolle und ist schwarz erhältlich.",
+        "Die Körbe eignen sich für das Wohnzimmer.",
+        # Grenzfall: deutsches Wort, das englische Muster streifen koennte.
+        "Der Bezug lässt sich abnehmen und waschen.",
+    ):
+        if m.gedanken(harmlos):
+            print(f"FEHLER  Denken/Fehlalarm bei {harmlos!r}: "
+                  f"{m.gedanken(harmlos)}")
+            fehler += 1
+    # Und die Trennung: bei ausgeplaudertem Denken duerfen die Zahlen
+    # daraus NICHT als erfundene Fakten gezaehlt werden.
+    mess = m.messen(ECHT, "Preis: 69,00 €")
+    if mess["erfundene_zahlen"]:
+        print(f"FEHLER  Wortzaehlerei als erfundene Zahlen gewertet: "
+              f"{mess['erfundene_zahlen']}")
+        fehler += 1
+    if not mess["gedanken_im_text"]:
+        print("FEHLER  messen() meldet kein ausgeplaudertes Denken"); fehler += 1
+    # Umgekehrt: ohne Denken muessen erfundene Zahlen weiter auffallen.
+    mess2 = m.messen("Die Decke ist bei 60 Grad waschbar.", "Preis: 69,00 €")
+    if mess2["erfundene_zahlen"] != ["60"]:
+        print(f"FEHLER  erfundene Zahl ohne Denken nicht erkannt: {mess2}")
+        fehler += 1
+    if fehler == v:
+        print("OK      Denken im Text: erkannt, getrennt von erfundenen Zahlen")
+
     # Der Bericht muss einen Fehlschlag als solchen zeigen und nicht als
     # leere Zeile durchgehen lassen.
     v = fehler
@@ -104,7 +141,8 @@ def main() -> int:
         "kaputt/modell": [{"aufgabe": "a", "fehler": "HTTP 429", "dauer": 0.2}],
         "gut/modell": [{"aufgabe": "a", "antwort": "Ein Text.", "dauer": 1.0,
                         "woerter": 2, "erfundene_zahlen": [], "maschen": [],
-                        "englisch": [], "kosten": 0, "token": 9}],
+                        "englisch": [], "gedanken_im_text": [],
+                        "kosten": 0, "token": 9}],
     }})
     for muss in ("kaputt/modell", "HTTP 429", "gut/modell", "Ein Text."):
         if muss not in b:
