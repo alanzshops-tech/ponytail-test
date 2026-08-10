@@ -1,0 +1,59 @@
+name: Transkripte holen
+
+# YouTube ist aus der Arbeitsumgebung gesperrt, der Runner kommt hin.
+# Gleiches Muster wie beim Lesen der Shop-Seiten.
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Video-IDs, Komma-getrennt"
+        type: string
+        default: "rNiw_9OO9ts,hh7i8Bs8-JI,Ih5RapM8XKw"
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "scripts/videotext.py"
+      - ".github/workflows/videotext.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  holen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bibliothek einrichten
+        run: |
+          pip install --quiet youtube-transcript-api
+          python3 -c "import youtube_transcript_api as y; print('youtube-transcript-api', y.__version__ if hasattr(y,'__version__') else 'ok')"
+
+      - name: Transkripte holen
+        continue-on-error: true
+        env:
+          IDS: ${{ inputs.ids || 'rNiw_9OO9ts,hh7i8Bs8-JI,Ih5RapM8XKw' }}
+        run: python3 scripts/videotext.py --ids "$IDS"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f TRANSKRIPTE.md ] && cat TRANSKRIPTE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add TRANSKRIPTE.md daten/transkripte daten/transkripte.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Transkripte vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((v * 5))
+          done
+          exit 1
