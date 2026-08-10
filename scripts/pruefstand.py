@@ -127,6 +127,35 @@ def eine_seite(browser, url: str, geraet: str, axe_js: str,
       };
     }""")
 
+    # Widerrufsbutton der App „Revoq EU Widerrufsbutton". Breit gesucht,
+    # weil ich den Selektor der App nicht kenne — dafür wird derselbe
+    # Detektor gegen das Live-Theme gehalten, wo der Knopf aus ist.
+    # Ein Fund ohne Gegentest wäre kein Beweis.
+    m["widerruf"] = seite.evaluate("""() => {
+      const alle = [...document.querySelectorAll('*')];
+      const passt = (e) => {
+        const s = ((e.className && e.className.baseVal !== undefined
+                    ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
+        return /revoq|widerruf/i.test(s);
+      };
+      const treffer = alle.filter(passt);
+      const sichtbar = treffer.filter(e => e.offsetParent !== null
+        || getComputedStyle(e).position === 'fixed');
+      const fest = alle.filter(e => {
+        const c = getComputedStyle(e);
+        return c.position === 'fixed' && (e.innerText || '').match(/Widerruf/i);
+      });
+      return {
+        elemente: treffer.length,
+        sichtbar: sichtbar.length,
+        schwebend_mit_text: fest.length,
+        beispiel: treffer.length
+          ? (treffer[0].outerHTML || '').slice(0, 180) : null,
+        skripte: [...document.querySelectorAll('script[src]')]
+          .map(s => s.src).filter(u => /revoq/i.test(u)).slice(0, 3)
+      };
+    }""")
+
     # Lesbarkeit: die drei Zahlen, an denen Fließtext steht oder fällt.
     m["text"] = seite.evaluate("""() => {
       const abs = [...document.querySelectorAll('p, li')]
@@ -198,7 +227,24 @@ def bericht(d: dict) -> str:
     z += ["", "Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. "
           "Längere Zeilen verliert das Auge beim Rücksprung.", ""]
 
-    z += ["## Preisschreibweise", "",
+    z += ["## Widerrufsbutton", "",
+          "| Seite | Elemente | sichtbar | schwebend m. Text | Skripte |",
+          "|---|---:|---:|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        w = m.get("widerruf") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} | {w.get('elemente', 0)} "
+                 f"| {w.get('sichtbar', 0)} | {w.get('schwebend_mit_text', 0)} "
+                 f"| {len(w.get('skripte') or [])} |")
+    bsp = next((m["widerruf"]["beispiel"] for m in d["seiten"]
+                if (m.get("widerruf") or {}).get("beispiel")), None)
+    if bsp:
+        z += ["", "Erstes gefundenes Element:", "", "```", bsp, "```"]
+    z += ["", "Derselbe Detektor läuft gegen das veröffentlichte Theme, wo "
+          "der Knopf abgeschaltet ist. Nur wenn er dort **null** meldet und "
+          "in der Sandbox mehr, ist der Fund ein Beweis.", "",
+          "## Preisschreibweise", "",
           "| Seite | Preise | davon mit „EUR\" |", "|---|---:|---:|"]
     for m in d["seiten"]:
         if m.get("fehler") or m["geraet"] != "mobil":

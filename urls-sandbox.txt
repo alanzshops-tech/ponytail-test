@@ -1,8 +1,8 @@
 # Sandbox-Vorschau. Dieselben Seiten wie urls-shop.txt, damit sich die
 # Messungen direkt vergleichen lassen.
-https://www.homeeins.de/?preview_theme_id=182664790339
-https://www.homeeins.de/collections/hunde?preview_theme_id=182664790339
-https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?preview_theme_id=182664790339
-https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?preview_theme_id=182664790339
-https://www.homeeins.de/cart?preview_theme_id=182664790339
-https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182664790339
+https://www.homeeins.de/?preview_theme_id=182665347395
+https://www.homeeins.de/collections/hunde?preview_theme_id=182665347395
+https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?preview_theme_id=182665347395
+https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?preview_theme_id=182665347395
+https://www.homeeins.de/cart?preview_theme_id=182665347395
+https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182665347395
