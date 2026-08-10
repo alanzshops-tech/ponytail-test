@@ -177,6 +177,45 @@ def main() -> int:
     if fehler == v:
         print("OK      Fehlversuche stehen auch bei Erfolg im Bericht")
 
+    # Modalitaetsfilter. Der echte Fall: google/lyria-3-* sind
+    # Musikmodelle, standen aber vorn und gaben HTTP 502.
+    v = fehler
+    faelle = [
+        ("Sprachmodell", {"architecture": {"input_modalities": ["text"],
+                                           "output_modalities": ["text"]}}, True),
+        ("Musikmodell", {"architecture": {"input_modalities": ["text"],
+                                          "output_modalities": ["audio"]}}, False),
+        ("Bildgenerator", {"architecture": {"input_modalities": ["text"],
+                                            "output_modalities": ["image"]}}, False),
+        ("Modell mit Bildeingabe, Textausgabe",
+         {"architecture": {"input_modalities": ["text", "image"],
+                           "output_modalities": ["text"]}}, True),
+        # Fehlt die Angabe, lieber zulassen als stillschweigend verwerfen.
+        ("ohne architecture", {}, True),
+        ("architecture leer", {"architecture": {}}, True),
+    ]
+    for name, m, soll in faelle:
+        if o.schreibt_text(m) != soll:
+            print(f"FEHLER  Modalitaet/{name}: erwartet {soll}"); fehler += 1
+    # Und in der Auswahl: das Musikmodell darf trotz groesstem Kontext
+    # nicht vorgeschlagen werden.
+    liste = [
+        {"id": "musik/gross", "context_length": 999999,
+         "pricing": {"prompt": "0", "completion": "0"},
+         "architecture": {"input_modalities": ["text"],
+                          "output_modalities": ["audio"]}},
+        {"id": "sprache/klein", "context_length": 8000,
+         "pricing": {"prompt": "0", "completion": "0"},
+         "architecture": {"input_modalities": ["text"],
+                          "output_modalities": ["text"]}},
+    ]
+    if o.anwaerter(liste, guthaben=False) != ["sprache/klein"]:
+        print(f"FEHLER  Musikmodell trotzdem vorgeschlagen: "
+              f"{o.anwaerter(liste, guthaben=False)}")
+        fehler += 1
+    if fehler == v:
+        print("OK      Modalitaetsfilter: Musik und Bild raus, Text bleibt")
+
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
 

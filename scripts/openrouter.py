@@ -134,17 +134,33 @@ def anwaerter(modelle: list[dict], guthaben: bool, anzahl: int = 5) -> list[str]
         bezahlt = sorted((m for m in modelle if sum(preis(m)) > 0),
                          key=lambda m: sum(preis(m)))
         return [m.get("id") for m in bezahlt[:anzahl] if m.get("id")]
-    frei = [m for m in modelle if sum(preis(m)) == 0]
-    # Sortiert nach Kontextfenster, mehr nicht. Am 10.08.2026 standen
-    # dadurch zwei Musikmodelle (`google/lyria-3-*`) vorn und gaben
-    # HTTP 502 zurueck, bevor ein Sprachmodell an die Reihe kam. Nach
-    # Modalitaet aussortieren waere richtig -- welches Feld der Dienst
-    # dafuer liefert, ist aber weder im SDK belegt noch gemessen, und
-    # geraten wird hier nichts. Bis dahin faengt die Anwaerterkette das
-    # ab; `modell_felder` unten schreibt die verfuegbaren Feldnamen mit,
-    # damit der naechste Lauf es beantworten kann.
+    frei = [m for m in modelle if sum(preis(m)) == 0 and schreibt_text(m)]
     frei.sort(key=lambda m: -(m.get("context_length") or 0))
     return [m.get("id") for m in frei[:anzahl] if m.get("id")]
+
+
+def schreibt_text(m: dict) -> bool:
+    """Nimmt nur Modelle, die Text hineinnehmen und Text herausgeben.
+
+    Am 10.08.2026 standen zwei Musikmodelle (`google/lyria-3-*`) vorn,
+    weil nur nach Kontextfenster sortiert wurde, und antworteten mit
+    HTTP 502. Damals war der Feldname nicht belegt, deshalb wurde nicht
+    gefiltert. Der Lauf danach hat ihn geliefert:
+    architecture.input_modalities / .output_modalities.
+
+    Fehlt die Angabe, wird das Modell zugelassen -- lieber ein Fehlversuch
+    zu viel als ein brauchbares Modell stillschweigend aussortiert.
+    """
+    a = m.get("architecture")
+    if not isinstance(a, dict):
+        return True
+    rein = a.get("input_modalities")
+    raus = a.get("output_modalities")
+    if isinstance(rein, list) and rein and "text" not in rein:
+        return False
+    if isinstance(raus, list) and raus and "text" not in raus:
+        return False
+    return True
 
 
 def pruefen() -> dict:
@@ -327,12 +343,48 @@ def main() -> None:
     ap.add_argument("--fragen", metavar="TEXT",
                     help="einen echten Rundlauf machen")
     ap.add_argument("--modell", help="Modell für --fragen; sonst das günstigste")
+    ap.add_argument("--info", metavar="TEIL",
+                    help="Steckbrief aller Modelle, deren ID TEIL enthält")
     ap.add_argument("--bericht", default="OPENROUTER.md")
     ap.add_argument("--json", default="daten/openrouter.json")
     a = ap.parse_args()
 
-    if not a.pruefen and not a.fragen:
-        ap.error("Nichts zu tun: --pruefen oder --fragen angeben.")
+    if not a.pruefen and not a.fragen and not a.info:
+        ap.error("Nichts zu tun: --pruefen, --fragen oder --info angeben.")
+
+    if a.info:
+        # Der Steckbrief kommt vom Dienst, nicht aus meinem Gedaechtnis.
+        # Bei einem Modell, das juenger sein kann als mein Wissensstand,
+        # ist das der einzige belastbare Weg.
+        roh = rufen("/models")
+        liste = roh.get("data") if isinstance(roh, dict) else None
+        if not isinstance(liste, list):
+            sys.exit(f"Modelliste nicht lesbar: {roh}")
+        treffer = [m for m in liste if a.info.lower() in (m.get("id") or "").lower()]
+        if not treffer:
+            sys.exit(f"Kein Modell mit '{a.info}' in der ID.")
+        z = [f"# Modell-Steckbriefe: {a.info} — Stand {date.today()}", "",
+             "Angaben von OpenRouter selbst, nicht aus dem Gedächtnis.", ""]
+        for m in treffer:
+            arch = m.get("architecture") or {}
+            e, aus = preis(m)
+            z += [f"## `{m.get('id')}`", "",
+                  f"**{m.get('name')}**", "",
+                  "| Angabe | Wert |", "|---|---|",
+                  f"| Kontext | {m.get('context_length')} Token |",
+                  f"| Preis Eingabe | {e:.4f} $ je Mio. |",
+                  f"| Preis Ausgabe | {aus:.4f} $ je Mio. |",
+                  f"| nimmt herein | {', '.join(arch.get('input_modalities') or []) or '–'} |",
+                  f"| gibt heraus | {', '.join(arch.get('output_modalities') or []) or '–'} |",
+                  f"| Wissensstand | {m.get('knowledge_cutoff') or '–'} |",
+                  f"| Reasoning | {m.get('reasoning')} |",
+                  f"| Parameter | {', '.join(sorted(m.get('supported_parameters') or [])) or '–'} |",
+                  f"| Hugging Face | {m.get('hugging_face_id') or '–'} |",
+                  "", "**Beschreibung des Anbieters**", "",
+                  (m.get("description") or "–").strip(), ""]
+        Path("MODELLINFO.md").write_text("\n".join(z) + "\n", encoding="utf-8")
+        print(f"Geschrieben: MODELLINFO.md ({len(treffer)} Modelle)")
+        return
 
     d = pruefen() if a.pruefen else {"stand": str(date.today())}
     if a.fragen:
