@@ -21,6 +21,14 @@ on:
         description: "Zum Bestätigen LOESCHEN eintippen"
         type: string
         required: true
+  # Nur damit GitHub den Workflow überhaupt registriert — von Hand
+  # starten geht sonst nicht (404). Bei einem Push sind `dateien` und
+  # `wirklich` leer, die Sicherung bricht sofort ab. Es kann dadurch
+  # nichts gelöscht werden.
+  push:
+    branches: ["claude/**"]
+    paths:
+      - ".github/workflows/aufraeumen.yml"
 
 permissions:
   contents: write
