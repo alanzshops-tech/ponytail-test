@@ -1,0 +1,59 @@
+ {% if shop.metafields.sb_speed_opt.Settings.is_enabled == "1" %}
+<script>
+  // console.log('sb code load');
+  {% assign is_script_loaded = false %}
+  
+  function loadAsync() {
+    {% if is_script_loaded %}
+      return;
+    {% else %}
+      {% assign is_script_loaded = true %}
+      document["dispatchEvent"](new CustomEvent("startasyncloading"));
+      setTimeout(function() {
+        document["dispatchEvent"](new CustomEvent("StartAsyncLoading"));
+      }, 900);
+    {% endif %}
+  }
+
+  window["addEventListener"]("scroll", function() {
+    loadAsync();
+  });
+
+  window["addEventListener"]("mousemove", function() {
+    loadAsync();
+  });
+
+  window["addEventListener"]("touchstart", function() {
+    loadAsync();
+  });
+
+  {% if window["addEventListener"] %}
+    window["addEventListener"]("load", function() {
+      setTimeout(loadAsync, 9000);
+    }, false);
+  {% else %}
+    {% if window["attachEvent"] %}
+      window["attachEvent"]("onload", function() {
+        setTimeout(loadAsync, 9000);
+      });
+    {% else %}
+      window["onload"] = loadAsync;
+    {% endif %}
+  {% endif %}
+</script>
+
+{% assign domcontentloaded_Event = "document.addEventListener('DOMContentLoaded'" %}
+{% assign startasyncLoading_Event = "document.addEventListener('StartAsyncLoading'" %}
+{% assign domcontentloaded_EventListner = 'e.addEventListener("DOMContentLoaded"' %}
+{% assign startasyncLoading_EventListner = "e.addEventListener('StartAsyncLoading'" %}
+{% assign replaceEventWith = ", asyncLoad" %}
+{% assign newEvent = ", function(){}" %}
+{% assign checkattachEvent = "if(window.attachEvent)" %}
+{% assign checkattachEventreplace = "document.addEventListener('StartAsyncLoading',function(event){asyncLoad();});if(window.attachEvent)" %}
+{% assign storefrontDatasrc = 'data-src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features' %}
+{% assign storefrontsrc = 'src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features' %}
+
+{{ content_for_header | replace: 'src=', 'data-src=' | replace: domcontentloaded_Event, startasyncLoading_Event | replace: domcontentloaded_EventListner, startasyncLoading_EventListner | replace: replaceEventWith, newEvent | replace: checkattachEvent, checkattachEventreplace }}
+{% else %}
+{{ content_for_header }}
+{% endif %}

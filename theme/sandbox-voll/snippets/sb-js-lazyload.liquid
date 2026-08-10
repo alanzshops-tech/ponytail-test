@@ -1,0 +1,325 @@
+{% if shop.metafields.sb_speed_opt.Settings.is_enabled == "1" %}
+    {% if template contains 'index' or  template contains 'collection' or template contains 'product' %}
+
+    <script type="text/javascript">
+        var sbErrors = [];
+
+        window.onerror = function(error, url, line) {
+            sbErrors.push({
+                errorMessage : error,
+                lineNumber : line
+            });
+        };
+    </script>
+    <script>
+var page_type = "{{ request.page_type }}";
+      
+if (page_type.indexOf("collection") != -1)
+    page_type = "collection";
+else if (page_type.indexOf("product") != -1)
+    page_type = "product";
+
+      if(typeof(sb_index_jslazyload)=="undefined")
+        sb_index_jslazyload = [ /cdn\.shopify\.com\/extensions/, /cdn\.shopify\.com\/s\/trekkie\.storefront/, /cdn\.shopify\.com\/shopifycloud\/boomerang/, /cdn\.shopify\.com\/shopifycloud\/consent-tracking-api\/v0\.1\/consent-tracking-api\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/shop_events_listener/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/features/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/load_feature/, /cdn\.shopify\.com\/shopifycloud\/shopify_chat\/storefront\/shopifyChatV1\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/bars/, ]
+
+      if(typeof(sb_collection_jslazyload)=="undefined")
+        sb_collection_jslazyload = [ /cdn\.shopify\.com\/extensions/, /cdn\.shopify\.com\/s\/trekkie\.storefront/, /cdn\.shopify\.com\/shopifycloud\/boomerang/, /cdn\.shopify\.com\/shopifycloud\/consent-tracking-api\/v0\.1\/consent-tracking-api\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/shop_events_listener/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/features/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/load_feature/, /cdn\.shopify\.com\/shopifycloud\/shopify_chat\/storefront\/shopifyChatV1\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/bars/, ]
+
+      if(typeof(sb_product_jslazyload)=="undefined")
+        sb_product_jslazyload = [ /cdn\.shopify\.com\/extensions/, /cdn\.shopify\.com\/s\/trekkie\.storefront/, /cdn\.shopify\.com\/shopifycloud\/boomerang/, /cdn\.shopify\.com\/shopifycloud\/consent-tracking-api\/v0\.1\/consent-tracking-api\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/shop_events_listener/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/features/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/load_feature/, /cdn\.shopify\.com\/shopifycloud\/shopify_chat\/storefront\/shopifyChatV1\.js/, /cdn\.shopify\.com\/shopifycloud\/shopify\/assets\/storefront\/bars/, ]
+
+if (page_type == 'index') {
+    window.LAZYLOADURL = sb_index_jslazyload;
+}
+
+if (page_type == "collection") {
+    window.LAZYLOADURL = sb_collection_jslazyload;
+}
+
+if (page_type == "product") {
+    window.LAZYLOADURL = sb_product_jslazyload;
+}
+
+!function(t, e) {
+    "object" == typeof exports && "undefined" != typeof module ? e(exports) : "function" == typeof define && define.amd ? define(["exports"], e) : e((t = "undefined" != typeof globalThis ? globalThis : t || self).sbscript = {})
+}(this, (function(t) {
+    "use strict";
+    var e = "javascript/blocked"
+      , r = {
+        blacklist: window.LAZYLOADURL,
+        whitelist: window.LAZYLOADEDURL
+    }
+      , n = {
+        blacklisted: []
+    }
+      , i = function(t, n) {
+        return t && (!n || n !== e) && (!r.blacklist || r.blacklist.some((function(e) {
+            return e.test(t)
+        }
+        ))) && (!r.whitelist || r.whitelist.every((function(e) {
+            return !e.test(t)
+        }
+        )))
+    }
+      , o = function(t) {
+        var e = t.getAttribute("src");
+        return r.blacklist && r.blacklist.every((function(t) {
+            return !t.test(e)
+        }
+        )) || r.whitelist && r.whitelist.some((function(t) {
+            return t.test(e)
+        }
+        ))
+    }
+      , c = []
+      , l = []
+      , a = []
+      , s = new MutationObserver((function(t) {
+        for (var r = 0; r < t.length; r++)
+            for (var o = t[r].addedNodes, s = function(t) {
+                var r = o[t];
+                if (1 === r.nodeType && "LINK" === r.tagName && "stylesheet" == r.rel && c.push(r.href.split("?")[0]),
+                1 === r.nodeType && "SCRIPT" === r.tagName) {
+                    "" !== r.src && null !== r.src && l.push(r.src.split("?")[0]);
+                    var s = r.src
+                      , u = r.type;
+                    if (!1,
+                    i(s, u)) {
+                        a.push(s),
+                        n.blacklisted.push([r, r.type]),
+                        r.type = e;
+                        r.addEventListener("beforescriptexecute", (function t(n) {
+                            r.getAttribute("type") === e && n.preventDefault(),
+                            r.removeEventListener("beforescriptexecute", t)
+                        }
+                        )),
+                        r.parentElement && r.parentElement.removeChild(r)
+                    }
+                }
+            }, u = 0; u < o.length; u++) {
+                s(u)
+            }
+    }
+    ));
+    function u(t, e) {
+        var r = Object.keys(t);
+        if (Object.getOwnPropertySymbols) {
+            var n = Object.getOwnPropertySymbols(t);
+            e && (n = n.filter((function(e) {
+                return Object.getOwnPropertyDescriptor(t, e).enumerable
+            }
+            ))),
+            r.push.apply(r, n)
+        }
+        return r
+    }
+    function p(t) {
+        for (var e = 1; e < arguments.length; e++) {
+            var r = null != arguments[e] ? arguments[e] : {};
+            e % 2 ? u(Object(r), !0).forEach((function(e) {
+                f(t, e, r[e])
+            }
+            )) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(r)) : u(Object(r)).forEach((function(e) {
+                Object.defineProperty(t, e, Object.getOwnPropertyDescriptor(r, e))
+            }
+            ))
+        }
+        return t
+    }
+    function f(t, e, r) {
+        return e in t ? Object.defineProperty(t, e, {
+            value: r,
+            enumerable: !0,
+            configurable: !0,
+            writable: !0
+        }) : t[e] = r,
+        t
+    }
+    function d(t, e) {
+        return function(t) {
+            if (Array.isArray(t))
+                return t
+        }(t) || function(t, e) {
+            var r = null == t ? null : "undefined" != typeof Symbol && t[Symbol.iterator] || t["@@iterator"];
+            if (null == r)
+                return;
+            var n, i, o = [], c = !0, l = !1;
+            try {
+                for (r = r.call(t); !(c = (n = r.next()).done) && (o.push(n.value),
+                !e || o.length !== e); c = !0)
+                    ;
+            } catch (t) {
+                l = !0,
+                i = t
+            } finally {
+                try {
+                    c || null == r.return || r.return()
+                } finally {
+                    if (l)
+                        throw i
+                }
+            }
+            return o
+        }(t, e) || b(t, e) || function() {
+            throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")
+        }()
+    }
+    function y(t) {
+        return function(t) {
+            if (Array.isArray(t))
+                return h(t)
+        }(t) || function(t) {
+            if ("undefined" != typeof Symbol && null != t[Symbol.iterator] || null != t["@@iterator"])
+                return Array.from(t)
+        }(t) || b(t) || function() {
+            throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")
+        }()
+    }
+    function b(t, e) {
+        if (t) {
+            if ("string" == typeof t)
+                return h(t, e);
+            var r = Object.prototype.toString.call(t).slice(8, -1);
+            return "Object" === r && t.constructor && (r = t.constructor.name),
+            "Map" === r || "Set" === r ? Array.from(t) : "Arguments" === r || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r) ? h(t, e) : void 0
+        }
+    }
+    function h(t, e) {
+        (null == e || e > t.length) && (e = t.length);
+        for (var r = 0, n = new Array(e); r < e; r++)
+            n[r] = t[r];
+        return n
+    }
+    s.observe(document.documentElement, {
+        childList: !0,
+        subtree: !0
+    });
+    var m = document.createElement
+      , v = {
+        src: Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, "src"),
+        type: Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, "type")
+    };
+    document.createElement = function() {
+        for (var t = arguments.length, r = new Array(t), n = 0; n < t; n++)
+            r[n] = arguments[n];
+        if ("script" !== r[0].toLowerCase())
+            return m.bind(document).apply(void 0, r);
+        var o = m.bind(document).apply(void 0, r);
+        try {
+            Object.defineProperties(o, {
+                src: p(p({}, v.src), {}, {
+                    set: function(t) {
+                        i(t, o.type) && v.type.set.call(this, e),
+                        v.src.set.call(this, t)
+                    }
+                }),
+                type: p(p({}, v.type), {}, {
+                    get: function() {
+                        var t = v.type.get.call(this);
+                        return t === e || i(this.src, t) ? null : t
+                    },
+                    set: function(t) {
+                        var r = i(o.src, o.type) ? e : t;
+                        v.type.set.call(this, r)
+                    }
+                })
+            }),
+            o.setAttribute = function(t, e) {
+                "type" === t || "src" === t ? o[t] = e : HTMLScriptElement.prototype.setAttribute.call(o, t, e)
+            }
+        } catch (t) {
+            console.warn("sbscript: unable to prevent script execution for script src ", o.src, ".\n", 'A likely cause would be because you are using a third-party browser extension that monkey patches the "document.createElement" function.')
+        }
+        return o
+    }
+    ;
+    var w = new RegExp("[|\\{}()[\\]^$+*?.]","g");
+    window.arr_injected_css = [],
+    window.arr_injected_script = [],
+    window.arr_blocked_script = [];
+    t.unblock = function() {
+        for (var t = arguments.length, i = new Array(t), u = 0; u < t; u++)
+            i[u] = arguments[u];
+        i.length < 1 ? (r.blacklist = [],
+        r.whitelist = []) : (r.blacklist && (r.blacklist = r.blacklist.filter((function(t) {
+            return i.every((function(e) {
+                return "string" == typeof e ? !t.test(e) : e instanceof RegExp ? t.toString() !== e.toString() : void 0
+            }
+            ))
+        }
+        ))),
+        r.whitelist && (r.whitelist = [].concat(y(r.whitelist), y(i.map((function(t) {
+            if ("string" == typeof t) {
+                var e = ".*" + t.replace(w, "\\$&") + ".*";
+                if (r.whitelist.every((function(t) {
+                    return t.toString() !== e.toString()
+                }
+                )))
+                    return new RegExp(e)
+            } else if (t instanceof RegExp && r.whitelist.every((function(e) {
+                return e.toString() !== t.toString()
+            }
+            )))
+                return t;
+            return null
+        }
+        )).filter(Boolean)))));
+        for (var p = document.querySelectorAll('script[type="'.concat(e, '"]')), f = 0; f < p.length; f++) {
+            var b = p[f];
+            o(b) && (n.blacklisted.push([b, "application/javascript"]),
+            b.parentElement.removeChild(b))
+        }
+        var h = 0;
+        y(n.blacklisted).forEach((function(t, e) {
+            var r = d(t, 2)
+              , i = r[0]
+              , c = r[1];
+            if (o(i)) {
+                for (var l = document.createElement("script"), a = 0; a < i.attributes.length; a++) {
+                    var s = i.attributes[a];
+                    "src" !== s.name && "type" !== s.name && l.setAttribute(s.name, i.attributes[a].value)
+                }
+                "" != i.src && l.setAttribute("src", i.src),
+                l.setAttribute("type", c || "application/javascript"),
+                l.appendChild(document.createTextNode(i.text)),
+                document.head.appendChild(l),
+                n.blacklisted.splice(e - h, 1),
+                h++
+            }
+        }
+        )),
+        r.blacklist && r.blacklist.length < 1 && s.disconnect(),
+        window.arr_injected_css = c,
+        window.arr_injected_script = l,
+        window.arr_blocked_script = a
+    }
+    ,
+    Object.defineProperty(t, "__esModule", {
+        value: !0
+    })
+}
+));
+
+// window.onscroll = function(){
+//     window.sbscript.unblock();
+// };
+
+window.addEventListener('mousemove', function(event) {
+   window.sbscript.unblock();
+});
+
+window.addEventListener('touchstart', function(event) {
+   window.sbscript.unblock();
+}, false);
+
+window.addEventListener('load', function(event) {
+    setTimeout(()=>{
+     window.sbscript.unblock();
+    }
+    , 5000);
+});
+
+</script>
+
+{% endif %}
+{% endif %}
