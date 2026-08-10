@@ -7,7 +7,6 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 
 | Angabe | Wert |
 |---|---|
-| Bezeichnung | sk-or-v1-cc8...4b5 |
 | Grenze | None |
 | verbraucht | 0 |
 | verbleibend | None |

@@ -74,6 +74,32 @@ def rufen(pfad: str, last: dict | None = None, zeit: int = 90) -> dict:
         return {"fehler": str(e)[:200]}
 
 
+# Am 10.08.2026 stand nach dem ersten Lauf „sk-or-v1-cc8...4b5" im
+# Bericht — und damit im öffentlichen Repository. OpenRouters `label` ist
+# nicht ein selbstgewählter Name, sondern der maskierte Schlüssel. Ich
+# hatte das Feld durchgereicht, ohne nachzusehen, was drinsteht.
+# Deshalb jetzt eine Positivliste: nur was hier steht, kommt in den
+# Bericht. Ein neues Feld der Gegenseite landet nie ungeprüft im Repo.
+ERLAUBT = {
+    "limit", "limit_remaining", "limit_reset", "usage", "usage_daily",
+    "usage_weekly", "usage_monthly", "is_free_tier", "is_management_key",
+    "is_provisioning_key", "expires_at", "rate_limit",
+}
+
+
+def ohne_geheimnis(antwort: dict) -> dict:
+    """Behält nur die freigegebenen Felder. `label` und `creator_user_id`
+    fallen dabei weg — das eine ist der maskierte Schlüssel, das andere
+    eine Kontokennung, und beides geht ein öffentliches Repository nichts
+    an."""
+    if not isinstance(antwort, dict) or "data" not in antwort:
+        return antwort
+    d = antwort.get("data")
+    if not isinstance(d, dict):
+        return antwort
+    return {**antwort, "data": {k: v for k, v in d.items() if k in ERLAUBT}}
+
+
 def preis(m: dict) -> tuple[float, float]:
     """Preise kommen als Zeichenkette in Dollar je Token. Umgerechnet auf
     eine Million Token, sonst liest man Nullen."""
@@ -99,7 +125,7 @@ def pruefen() -> dict:
     s = schluessel()
     print(f"Schluessel vorhanden, {len(s)} Zeichen.")
 
-    d["schluessel"] = rufen("/key")
+    d["schluessel"] = ohne_geheimnis(rufen("/key"))
     d["guthaben"] = rufen("/credits")
 
     modelle = rufen("/models")
@@ -166,7 +192,7 @@ def bericht(d: dict) -> str:
               "Guthaben leer. Der Text oben sagt, welches von beidem.", ""]
     elif isinstance(kd, dict):
         z += ["| Angabe | Wert |", "|---|---|"]
-        for feld, name in (("label", "Bezeichnung"), ("limit", "Grenze"),
+        for feld, name in (("limit", "Grenze"),
                            ("usage", "verbraucht"),
                            ("limit_remaining", "verbleibend"),
                            ("is_free_tier", "Gratisstufe")):

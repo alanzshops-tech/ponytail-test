@@ -2,7 +2,6 @@
   "stand": "2026-08-10",
   "schluessel": {
     "data": {
-      "label": "sk-or-v1-cc8...4b5",
       "is_management_key": false,
       "is_provisioning_key": false,
       "limit": null,
@@ -19,7 +18,6 @@
       "byok_usage_monthly": 0,
       "is_free_tier": true,
       "expires_at": null,
-      "creator_user_id": "user_3HionBvHDohVwvorvGIfly8NSej",
       "rate_limit": {
         "requests": -1,
         "interval": "10s",

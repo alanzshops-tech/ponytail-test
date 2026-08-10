@@ -21,8 +21,10 @@ spec.loader.exec_module(o)
 
 GUT = {
     "stand": "2026-08-10",
-    "schluessel": {"data": {"label": "homeeins", "limit": 5,
-                            "usage": 0.12, "limit_remaining": 4.88,
+    # Kein "label" mehr: das Feld enthaelt bei OpenRouter den maskierten
+    # Schluessel und wird vor dem Bericht herausgefiltert.
+    "schluessel": {"data": {"limit": 5, "usage": 0.12,
+                            "limit_remaining": 4.88,
                             "is_free_tier": False}},
     "guthaben": {"data": {"total_credits": 5, "total_usage": 0.12}},
     "modelle": [
@@ -54,7 +56,7 @@ def main() -> int:
     fehler = 0
 
     b = o.bericht(GUT)
-    for muss in ("homeeins", "billig/klein", "0.0500 $", "gratis/modell",
+    for muss in ("4.88", "billig/klein", "0.0500 $", "gratis/modell",
                  "Ein Hundesofa ist", "3 Modelle erreichbar"):
         if muss not in b:
             print(f"FEHLER  Erfolgsfall: '{muss}' fehlt im Bericht"); fehler += 1
@@ -89,6 +91,39 @@ def main() -> int:
         print("FEHLER  fehlende Preisangabe nicht abgefangen"); fehler += 1
     if fehler == v:
         print("OK      Preisumrechnung, auch bei fehlenden und kaputten Werten")
+
+    # Der Fall, der am 10.08.2026 wirklich passiert ist: OpenRouters
+    # /key liefert unter "label" den maskierten Schluessel, nicht einen
+    # selbstgewaehlten Namen. Er stand danach im oeffentlichen Repository.
+    # Geprueft wird mit der echten Antwortform, samt Feldern, die es damals
+    # gab -- und mit einem erfundenen neuen Feld, denn eine Positivliste
+    # ist nur dann eine, wenn sie Unbekanntes ebenfalls aussperrt.
+    v = fehler
+    echt = {"data": {
+        "label": "sk-or-v1-cc8...4b5",
+        "creator_user_id": "user_12345",
+        "irgendein_neues_feld": "kann morgen dazukommen",
+        "limit": None, "usage": 0, "is_free_tier": True,
+    }}
+    sauber = o.ohne_geheimnis(echt)
+    uebrig = set(sauber["data"])
+    for verboten in ("label", "creator_user_id", "irgendein_neues_feld"):
+        if verboten in uebrig:
+            print(f"FEHLER  Geheimnisfilter laesst '{verboten}' durch")
+            fehler += 1
+    for noetig in ("limit", "usage", "is_free_tier"):
+        if noetig not in uebrig:
+            print(f"FEHLER  Geheimnisfilter verschluckt '{noetig}'")
+            fehler += 1
+    # Und das Ganze bis in den Bericht hinein, nicht nur im Filter.
+    if "sk-or-v1" in o.bericht({"stand": "x", "schluessel": echt}):
+        print("FEHLER  Schluesselfragment steht im Bericht"); fehler += 1
+    # Ein Fehlerobjekt ohne "data" muss unveraendert durchgehen.
+    if o.ohne_geheimnis({"fehler": "HTTP 401"}) != {"fehler": "HTTP 401"}:
+        print("FEHLER  Fehlerobjekt wurde veraendert"); fehler += 1
+    if fehler == v:
+        print("OK      Geheimnisfilter: label, Konto-ID und unbekannte "
+              "Felder bleiben draussen")
 
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
