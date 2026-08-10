@@ -1,0 +1,148 @@
+name: Theme aufräumen
+
+# Löscht benannte Dateien aus einem UNVERÖFFENTLICHTEN Theme.
+#
+# Ablauf: Theme herunterladen, die genannten Dateien örtlich löschen,
+# zurückschieben. `shopify theme push` gleicht ab und entfernt dabei
+# alles, was örtlich fehlt — deshalb die Sicherungen unten. Eine
+# leere oder halbe Kopie hochzuschieben würde das Theme leeren.
+on:
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme-ID (muss unveröffentlicht sein)"
+        type: string
+        default: "182664790339"
+      dateien:
+        description: "Zu löschende Dateien, Komma-getrennt"
+        type: string
+        required: true
+      wirklich:
+        description: "Zum Bestätigen LOESCHEN eintippen"
+        type: string
+        required: true
+
+permissions:
+  contents: write
+
+env:
+  LIVE_THEME: "182664626499"
+
+jobs:
+  aufraeumen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Sicherungen
+        env:
+          THEME: ${{ inputs.theme }}
+          WIRKLICH: ${{ inputs.wirklich }}
+        run: |
+          if [ "$WIRKLICH" != "LOESCHEN" ]; then
+            echo "::error::Bestätigung fehlt."; exit 1
+          fi
+          if [ "$THEME" = "$LIVE_THEME" ]; then
+            echo "::error::Das ist das veröffentlichte Theme. Abbruch."; exit 1
+          fi
+          if [ -z "$THEME" ]; then
+            echo "::error::Ohne Theme-ID würde die CLI das Live-Theme wählen."; exit 1
+          fi
+          echo "Ziel-Theme $THEME, nicht das veröffentlichte ($LIVE_THEME)."
+
+      - name: Shopify CLI
+        run: |
+          npm install -g --silent @shopify/cli@latest
+          shopify version
+
+      - name: Theme herunterladen
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        run: |
+          rm -rf arbeitskopie && mkdir -p arbeitskopie
+          shopify theme pull --path arbeitskopie --theme "$THEME" --no-color
+          VORHER=$(find arbeitskopie -type f | wc -l)
+          echo "VORHER=$VORHER" >> $GITHUB_ENV
+          echo "Heruntergeladen: $VORHER Dateien"
+          # Ein unvollständiger Download wäre die gefährlichste Lage:
+          # Push würde die fehlenden Dateien im Shop löschen.
+          if [ "$VORHER" -lt 300 ]; then
+            echo "::error::Nur $VORHER Dateien — das sieht nach einem abgebrochenen Download aus. Abbruch."
+            exit 1
+          fi
+
+      - name: Dateien örtlich löschen
+        env:
+          DATEIEN: ${{ inputs.dateien }}
+        run: |
+          GELOESCHT=0
+          IFS=',' read -ra LISTE <<< "$DATEIEN"
+          for f in "${LISTE[@]}"; do
+            f=$(echo "$f" | xargs)
+            [ -z "$f" ] && continue
+            case "$f" in
+              ../*|/*|*..*) echo "::error::Unzulässiger Pfad: $f"; exit 1;;
+            esac
+            if [ -f "arbeitskopie/$f" ]; then
+              rm "arbeitskopie/$f"; echo "  gelöscht: $f"; GELOESCHT=$((GELOESCHT+1))
+            else
+              echo "  nicht vorhanden, übersprungen: $f"
+            fi
+          done
+          NACHHER=$(find arbeitskopie -type f | wc -l)
+          echo "Vorher $VORHER, nachher $NACHHER, gelöscht $GELOESCHT"
+          if [ $((VORHER - NACHHER)) -ne "$GELOESCHT" ]; then
+            echo "::error::Zahlen gehen nicht auf. Abbruch."; exit 1
+          fi
+          if [ "$GELOESCHT" -eq 0 ]; then
+            echo "::error::Nichts zu löschen."; exit 1
+          fi
+
+      - name: Zurückschieben
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        run: shopify theme push --path arbeitskopie --theme "$THEME" --no-color --allow-live=false || shopify theme push --path arbeitskopie --theme "$THEME" --no-color
+
+      - name: Theme Check danach
+        continue-on-error: true
+        run: |
+          mkdir -p daten
+          shopify theme check --path arbeitskopie --output json --no-color \
+            --fail-level crash > daten/themecheck-sandbox.json || true
+
+      - name: Auswerten
+        if: always()
+        run: |
+          python3 scripts/themecheck.py --json daten/themecheck-sandbox.json --pfad arbeitskopie
+          mv THEMECHECK.md THEMECHECK-SANDBOX.md 2>/dev/null || true
+
+      - name: Bericht
+        if: always()
+        run: '[ -f THEMECHECK-SANDBOX.md ] && cat THEMECHECK-SANDBOX.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf theme/sandbox-voll && mkdir -p theme && cp -r arbeitskopie theme/sandbox-voll
+          git add theme/sandbox-voll THEMECHECK-SANDBOX.md daten/themecheck-sandbox.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Sandbox aufgeräumt, Stand $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((v * 5))
+          done
+          exit 1
