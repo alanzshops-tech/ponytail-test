@@ -1,14 +1,14 @@
 {
-  "stand": "2026-08-10T08:26:24+00:00",
+  "stand": "2026-08-10T09:38:03+00:00",
   "vorschau": {
-    "url": "https://www.homeeins.de/?preview_theme_id=182665347395",
-    "theme_id": "182665347395",
+    "url": "https://www.homeeins.de/?preview_theme_id=182664626499",
+    "theme_id": "182664626499",
     "mobil_bild": "bilder/vorschau-mobil.jpg",
-    "mobil_bild_kb": 552,
-    "mobil_hoehe": 4215,
+    "mobil_bild_kb": 554,
+    "mobil_hoehe": 4079,
     "mobil_querscroll": false,
     "mobil_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=eee3dcd7-c0a2-478c-9689-68099afa65f9&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=68f4bef9-2659-420b-b649-279610163d6c&target_origin=https%3A%2F%2Fw"
     ],
     "gefundene_faelschungen": [],
     "bilder_kaputt": [],
@@ -33,11 +33,11 @@
     ],
     "leere_abschnitte": [],
     "desktop_bild": "bilder/vorschau-desktop.jpg",
-    "desktop_bild_kb": 479,
-    "desktop_hoehe": 4047,
+    "desktop_bild_kb": 448,
+    "desktop_hoehe": 3815,
     "desktop_querscroll": false,
     "desktop_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=383aa136-4b37-4e38-ab84-e47de9bfe22c&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=996a7dac-6b92-4f8a-afc4-91f75903f3d4&target_origin=https%3A%2F%2Fw"
     ]
   },
   "produkte": [
@@ -110,7 +110,7 @@
       ]
     },
     "status": 200,
-    "url": "https://www.homeeins.de/checkouts/cn/hWNFUFgi5KZ6A37Hjqo3VEQ6/de-us?_r=AQABnmszuN0Snxk7Ej0l0_wrtDGyvyd3oCo9de3szXFC&auto_redirect=false&edge_redirect=true&preview_theme_id=182665347395&skip_shop_pay=true&_su_rec=bwcfRmr0mWmJZTHcgdgVBR0BSRTF44xy970FtaunZ4nnzO3lKdQSONYzKeaf1MOnh_piD-duJBFieWVn1RKV5_1QV6KSMC_25UDT9J0uNZ4TyuMbBxgiK5m5FlaOleI3bye_jIWh2HnQ-1N_wT0vjIRiYL2bgYXKviP7f0LQ4BdN27tWVn04ldPNDQqKv_SB2FO3GUNpjpH4cB1c_V-AdN0",
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFUMwf5vfLdoWyW5NraTfG/de-us?_r=AQAByr3SW638qADv99MKwG3EUagaOvJrrznSK68-_eap&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=c7_4TG_MucjuC4P4tZv_B4XFQL63sS4Hv0XLrI1K4zwBaNfGVYK1_THWXWZKDiCxqzUvo_Y_Bq6StgSvpQN56Z0cWOp3-MVECtVZbDBoJUlUeuxPuBVud2kuiNsCA7v7DUivT4QdXF_RlawZ0j85uNv6KVZ-_Criv0idBDGbfxkUqxuoqrPgFzbWLd5DuVxAJaskAE9sa5RhbR9-NtakMu4",
     "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
     "zahlarten_vor_adresse": [
       "PayPal",
