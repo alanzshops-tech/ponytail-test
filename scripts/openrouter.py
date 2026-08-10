@@ -135,8 +135,14 @@ def anwaerter(modelle: list[dict], guthaben: bool, anzahl: int = 5) -> list[str]
                          key=lambda m: sum(preis(m)))
         return [m.get("id") for m in bezahlt[:anzahl] if m.get("id")]
     frei = [m for m in modelle if sum(preis(m)) == 0]
-    # Grosse Kontextfenster deuten auf ernsthafte Modelle; Bild- und
-    # Tonmodelle koennen mit einer Textfrage nichts anfangen.
+    # Sortiert nach Kontextfenster, mehr nicht. Am 10.08.2026 standen
+    # dadurch zwei Musikmodelle (`google/lyria-3-*`) vorn und gaben
+    # HTTP 502 zurueck, bevor ein Sprachmodell an die Reihe kam. Nach
+    # Modalitaet aussortieren waere richtig -- welches Feld der Dienst
+    # dafuer liefert, ist aber weder im SDK belegt noch gemessen, und
+    # geraten wird hier nichts. Bis dahin faengt die Anwaerterkette das
+    # ab; `modell_felder` unten schreibt die verfuegbaren Feldnamen mit,
+    # damit der naechste Lauf es beantworten kann.
     frei.sort(key=lambda m: -(m.get("context_length") or 0))
     return [m.get("id") for m in frei[:anzahl] if m.get("id")]
 
@@ -164,6 +170,13 @@ def pruefen() -> dict:
         ]
         d["kostenlos"] = [m["id"] for m in d["modelle"]
                           if m["preis_eingabe"] == 0 and m["preis_ausgabe"] == 0]
+        # Welche Felder ein Modelleintrag ueberhaupt hat. Nur Namen, keine
+        # Werte -- damit die Frage "gibt es ein Feld fuer Modalitaeten"
+        # beim naechsten Lauf gemessen statt geraten wird.
+        d["modell_felder"] = sorted(liste[0]) if liste else []
+        arch = liste[0].get("architecture") if liste else None
+        if isinstance(arch, dict):
+            d["architektur_felder"] = sorted(arch)
         g = guenstigstes(liste)
         d["guenstigstes"] = g.get("id") if g else None
     return d
