@@ -101,6 +101,12 @@
             "show_shop_reviews": false,
             "empty_state": "empty_widget"
           }
+        },
+        "zahlungswand": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- if shop.enabled_payment_types.size > 0 -%}\n<div class=\"he-wand\">\n  <p class=\"he-wand__titel\">Sicher bezahlen mit</p>\n  <ul class=\"he-wand__liste\" role=\"list\">\n    {%- for type in shop.enabled_payment_types -%}\n      <li class=\"he-wand__eintrag\">\n        {{ type | payment_type_svg_tag: class: 'he-wand__icon' }}\n      </li>\n    {%- endfor -%}\n  </ul>\n  <p class=\"he-wand__fuss\">Alle Zahlungen laufen verschlüsselt über den Bezahlvorgang von Shopify.</p>\n</div>\n\n<style>\n  .he-wand { margin: 1.6rem 0 0.4rem; padding: 1.6rem 1.2rem;\n    border: 1px solid rgba(17,17,17,.10); border-radius: 12px;\n    background: #fff; text-align: center; }\n  .he-wand__titel { margin: 0 0 1.1rem; font-size: 1.5rem; font-weight: 600;\n    color: #111; letter-spacing: .01em; }\n  .he-wand__liste { display: flex; flex-wrap: wrap; justify-content: center;\n    align-items: center; gap: 10px; margin: 0; padding: 0; list-style: none; }\n  .he-wand__eintrag { display: flex; }\n  .he-wand__icon { width: 52px; height: 34px; display: block; }\n  .he-wand__fuss { margin: 1.1rem 0 0; font-size: 1.2rem; color: #5a5a5a;\n    line-height: 1.5; }\n  @media screen and (max-width: 749px) {\n    .he-wand { padding: 1.3rem 0.9rem; }\n    .he-wand__liste { gap: 8px; }\n    .he-wand__icon { width: 46px; height: 30px; }\n  }\n</style>\n{%- endif -%}"
+          }
         }
       },
       "block_order": [
@@ -111,6 +117,7 @@
         "bestand",
         "quantity_selector",
         "buy_buttons",
+        "zahlungswand",
         "tab_versand",
         "tab_rueckgabe",
         "tab_zahlung",
