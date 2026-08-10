@@ -8,18 +8,18 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 
 | Seite | Gerät | schwer | leicht | Schrift | Zeilenlänge | Pixel geändert |
 |---|---|---:|---:|---:|---:|---:|
-| / | mobil | **2** | 0 | 15 px | 0 Z. | – |
-| / | desktop | **2** | 0 | 14 px | 0 Z. | – |
-| /collections/hunde | mobil | **1** | 0 | 15 px | 24 Z. | – |
-| /collections/hunde | desktop | **1** | 0 | 16 px | 0 Z. | – |
-| /products/hundesofa-samt-erhoeht-xxl | mobil | **3** | 0 | 15 px | 46 Z. | – |
-| /products/hundesofa-samt-erhoeht-xxl | desktop | **3** | 0 | 14 px | 0 Z. | – |
-| /products/sitzbank-stauraum-gepolstert-klappbar | mobil | **3** | 0 | 15 px | 43 Z. | – |
-| /products/sitzbank-stauraum-gepolstert-klappbar | desktop | **3** | 0 | 14 px | 0 Z. | – |
-| /cart | mobil | **1** | 0 | 15 px | 0 Z. | – |
-| /cart | desktop | **1** | 0 | 14 px | 0 Z. | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | mobil | **6** | 0 | 15 px | 43 Z. | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **6** | 0 | 14 px | 0 Z. | – |
+| / | mobil | **2** | 0 | 16.5 px | 0 Z. | – |
+| / | desktop | **2** | 0 | 15.4 px | 0 Z. | – |
+| /collections/hunde | mobil | **2** | 0 | 16.5 px | 21 Z. | – |
+| /collections/hunde | desktop | **3** | 0 | 17.6 px | 0 Z. | – |
+| /products/hundesofa-samt-erhoeht-xxl | mobil | **4** | 0 | 16.5 px | 41 Z. | – |
+| /products/hundesofa-samt-erhoeht-xxl | desktop | **4** | 0 | 15.4 px | 0 Z. | – |
+| /products/sitzbank-stauraum-gepolstert-klappbar | mobil | **4** | 0 | 16.5 px | 38 Z. | – |
+| /products/sitzbank-stauraum-gepolstert-klappbar | desktop | **4** | 0 | 15.4 px | 0 Z. | – |
+| /cart | mobil | **2** | 0 | 16.5 px | 0 Z. | – |
+| /cart | desktop | **2** | 0 | 15.4 px | 0 Z. | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | mobil | **6** | 0 | 16.5 px | 38 Z. | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | desktop | **6** | 0 | 15.4 px | 0 Z. | – |
 
 Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen verliert das Auge beim Rücksprung.
 
@@ -27,12 +27,18 @@ Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen
 
 | Seite | Elemente | sichtbar | schwebend m. Text | Skripte |
 |---|---:|---:|---:|---:|
-| / | 0 | 0 | 0 | 0 |
-| /collections/hunde | 0 | 0 | 0 | 0 |
-| /products/hundesofa-samt-erhoeht-xxl | 0 | 0 | 0 | 0 |
-| /products/sitzbank-stauraum-gepolstert-klappbar | 0 | 0 | 0 | 0 |
-| /cart | 0 | 0 | 0 | 0 |
-| /products/samt-sessel-design-armlehnen-holzbeine | 0 | 0 | 0 | 0 |
+| / | 1 | 1 | 0 | 1 |
+| /collections/hunde | 1 | 1 | 0 | 1 |
+| /products/hundesofa-samt-erhoeht-xxl | 1 | 1 | 0 | 1 |
+| /products/sitzbank-stauraum-gepolstert-klappbar | 1 | 1 | 0 | 1 |
+| /cart | 1 | 1 | 0 | 1 |
+| /products/samt-sessel-design-armlehnen-holzbeine | 1 | 1 | 0 | 1 |
+
+Erstes gefundenes Element:
+
+```
+<div class="widerruf-popup-source widerruf-popup-source--embed" data-widerruf-popup-source="" data-widerruf-popup-source-kind="embed" data-widerruf-popup-css-url="https://cdn.shopi
+```
 
 Derselbe Detektor läuft gegen das veröffentlichte Theme, wo der Knopf abgeschaltet ist. Nur wenn er dort **null** meldet und in der Sandbox mehr, ist der Fund ein Beweis.
 
@@ -40,12 +46,12 @@ Derselbe Detektor läuft gegen das veröffentlichte Theme, wo der Knopf abgescha
 
 | Seite | Preise | davon mit „EUR" |
 |---|---:|---:|
-| / | 8 | 8 |
-| /collections/hunde | 11 | 11 |
-| /products/hundesofa-samt-erhoeht-xxl | 1 | 1 |
-| /products/sitzbank-stauraum-gepolstert-klappbar | 1 | 1 |
+| / | 0 | 0 |
+| /collections/hunde | 0 | 0 |
+| /products/hundesofa-samt-erhoeht-xxl | 0 | 0 |
+| /products/sitzbank-stauraum-gepolstert-klappbar | 0 | 0 |
 | /cart | 0 | 0 |
-| /products/samt-sessel-design-armlehnen-holzbeine | 1 | 1 |
+| /products/samt-sessel-design-armlehnen-holzbeine | 0 | 0 |
 
 Deutsche Schreibweise ist „124,99 €" — Zahl vorn, Zeichen hinten, ohne Währungskürzel. Das Kürzel schaltet ein Haken im Theme ab; die Stellung des Zeichens ist eine Shop-Einstellung.
 
@@ -111,13 +117,15 @@ Absolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – su
 
 | Regel | Schwere | Fälle | betroffen |
 |---|---|---:|---|
-| Elements must meet minimum color contrast ratio thresholds | serious | 14 | /, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
+| Frames must have an accessible name | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 | Scrollable region must have keyboard access | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
+| Elements must meet minimum color contrast ratio thresholds | serious | 11 | /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 | Form elements must have labels | critical | 6 | /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
 
 Beispiele:
 
-- `color-contrast` — `<p class="he-faq__eyebrow">FAQ</p>`
-- `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25601117323587__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
-- `label` — `<input class="quantity__input" type="number" name="quantity" id="Quantity-template--25601116995907__main" data-cart-quantity="0" data-min="1" min="1" step="1" v`
+- `frame-title` — `<iframe id="PBarNextFrame" src="https://cdn.shopify...." sandbox="allow-same-origin al..." style="width: 100%; height:...">`
+- `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25601111064899__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
+- `color-contrast` — `<span>📦 KOSTENLOSER VERSAND</span>`
+- `label` — `<input class="quantity__input" type="number" name="quantity" id="Quantity-template--25601110737219__main" data-cart-quantity="0" data-min="1" min="1" step="1" v`
 
