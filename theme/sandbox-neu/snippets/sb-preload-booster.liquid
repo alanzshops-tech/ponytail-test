@@ -1,0 +1,80 @@
+{% if shop.metafields.sb_speed_opt.Settings.is_enabled == "1" %}
+
+    <script>
+      var sburlToPreload, sbmouseoverTimer, sblastTouchTimestamp;
+    var sbprefetcher = document.createElement("link")
+      , sbisSupported = sbprefetcher.relList && sbprefetcher.relList.supports && sbprefetcher.relList.supports("prefetch")
+      , sbisDataSaverEnabled = navigator.connection && navigator.connection.saveData
+      , sballowQueryString = "instantsballowQueryString"in document.body.dataset
+      , sballowExternalLinks = "instantsballowExternalLinks"in document.body.dataset;
+    if (sbisSupported && !sbisDataSaverEnabled) {
+        //console.log('sbisSupported',sbisSupported,'sbisDataSaverEnabled',sbisDataSaverEnabled);
+        sbprefetcher.rel = "prefetch",
+        document.head.appendChild(sbprefetcher);
+        var e = {
+            capture: !0,
+            passive: !0
+        };
+        document.addEventListener("touchstart", touchstartListener, e),
+        document.addEventListener("mouseover", mouseoverListener, e)
+    }
+    function touchstartListener(e) {
+        //console.log('touchstartListener');
+        sblastTouchTimestamp = performance.now();
+        var t = e.target.closest("a");
+        isPreloadable(t) && (t.addEventListener("touchcancel", touchendAndTouchcancelListener, {
+            passive: !0
+        }),
+        t.addEventListener("touchend", touchendAndTouchcancelListener, {
+            passive: !0
+        }),
+        sburlToPreload = t.href,
+        preload(t.href))
+    }
+    function touchendAndTouchcancelListener() {
+        //console.log('touchendAndTouchcancelListener');
+        sburlToPreload = void 0,
+        stopPreloading()
+    }
+    function mouseoverListener(e) {
+        //console.log('mouseoverListener');
+        if (performance.now() - sblastTouchTimestamp < 1100)
+            return;
+        var t = e.target.closest("a");
+        isPreloadable(t) && (t.addEventListener("mouseout", mouseoutListener, {
+            passive: !0
+        }),
+        sburlToPreload = t.href,
+        sbmouseoverTimer = setTimeout(()=>{
+            preload(t.href),
+            sbmouseoverTimer = void 0
+        }
+        , 65))
+    }
+    function mouseoutListener(e) {
+      //console.log('mouseoutListener');
+      
+        e.relatedTarget && e.target.closest("a") == e.relatedTarget.closest("a") || (sbmouseoverTimer ? (clearTimeout(sbmouseoverTimer),
+        sbmouseoverTimer = void 0) : (sburlToPreload = void 0,
+        stopPreloading()))
+    }
+    function isPreloadable(e) {
+      //console.log('isPreloadable');
+        if (!e || !e.href)
+            return;
+        if (sburlToPreload == e.href)
+            return;
+        var t = new URL(e.href);
+        return !(!(sballowExternalLinks || t.origin == location.origin || "instant"in e.dataset) || !["http:", "https:"].includes(t.protocol) || "http:" == t.protocol && "https:" == location.protocol || !(sballowQueryString || !t.search || "instant"in e.dataset) || t.hash && t.pathname + t.search == location.pathname + location.search || "noInstant"in e.dataset) || void 0
+    }
+    function preload(e) {
+      //console.log('preload');
+        sbprefetcher.href = e
+    }
+    function stopPreloading() {
+      //console.log('stop preloading');
+        sbprefetcher.removeAttribute("href")
+    }
+    </script>
+    
+    {% endif %}
