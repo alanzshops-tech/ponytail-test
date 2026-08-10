@@ -54,10 +54,18 @@ VERSCHACHTELT = """
 """
 
 with sync_playwright() as p:
-    # In der abgeschotteten Arbeitsumgebung liegt Chromium an einer festen
-    # Stelle, auf dem Runner holt Playwright ihn sich selbst. Deshalb nur
-    # setzen, wenn CHROMIUM gesetzt ist.
-    pfad = os.environ.get("CHROMIUM")
+    # In der abgeschotteten Arbeitsumgebung liegt ein vorinstallierter
+    # Chromium unter einer festen Nummer (z.B. chromium-1194). Das
+    # pip-Paket "playwright" wird unabhaengig davon aktualisiert und sucht
+    # dann eine neuere Revision, die hier gar nicht heruntergeladen ist --
+    # Absturz mit "Executable doesn't exist". Deshalb der stabile Symlink
+    # /opt/pw-browsers/chromium, der immer auf die tatsaechlich
+    # installierte Version zeigt. Auf dem Runner gibt es diesen Pfad
+    # nicht; CHROMIUM zeigt es dort um, sonst faellt es auf Playwrights
+    # eigene Wahl zurueck.
+    pfad = os.environ.get("CHROMIUM") or (
+        "/opt/pw-browsers/chromium"
+        if os.path.exists("/opt/pw-browsers/chromium") else None)
     b = p.chromium.launch(**({"executable_path": pfad} if pfad else {}))
     s = b.new_context(viewport={"width": 390, "height": 844}).new_page()
     s.set_content(SEITE)

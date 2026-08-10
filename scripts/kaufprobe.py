@@ -19,7 +19,7 @@ verschiedene Probleme, und man unterscheidet sie nur, indem man es
 selbst versucht.
 
 Aufruf:
-    python3 scripts/kaufprobe.py --theme 182664626499
+    python3 scripts/kaufprobe.py --theme 182664790339
 """
 
 from __future__ import annotations
