@@ -18,6 +18,10 @@ on:
         description: "Zielordner für die Aufnahmen"
         type: string
         default: "bilder/pruefstand"
+      frisch:
+        description: "Cache umgehen — nötig direkt nach einer Änderung"
+        type: boolean
+        default: false
   push:
     branches: ["claude/**"]
     paths:
@@ -55,9 +59,11 @@ jobs:
           GRUNDLINIE: ${{ inputs.grundlinie }}
           URLS: ${{ inputs.urls || 'urls-shop.txt' }}
           BILDER: ${{ inputs.bilder || 'bilder/pruefstand' }}
+          FRISCH: ${{ inputs.frisch }}
         run: |
           ZUSATZ=""
           [ "$GRUNDLINIE" = "true" ] && ZUSATZ="--grundlinie"
+          [ "$FRISCH" = "true" ] && ZUSATZ="$ZUSATZ --frisch"
           python3 scripts/pruefstand.py --urls "$URLS" --bilder "$BILDER" $ZUSATZ
 
       - name: Bericht in die Zusammenfassung

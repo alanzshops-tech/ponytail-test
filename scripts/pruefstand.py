@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import time
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -402,10 +403,23 @@ def main() -> None:
     ap.add_argument("--grundlinie", action="store_true",
                     help="aktuelle Aufnahmen als neue Vergleichsbasis "
                          "ablegen statt zu vergleichen")
+    ap.add_argument("--frisch", action="store_true",
+                    help="Cache umgehen: an jede Adresse einen einmaligen "
+                         "Parameter hängen")
     a = ap.parse_args()
 
     adressen = [z.strip() for z in Path(a.urls).read_text(encoding="utf-8")
                 .splitlines() if z.strip() and not z.startswith("#")]
+    if a.frisch:
+        # Am 10.08. maß der Prüfstand den Knopf noch an der alten Stelle,
+        # obwohl im Theme längst die neue stand. Ohne Cache-Sperre lässt
+        # sich nicht sagen, ob eine Einstellung nicht wirkt oder nur eine
+        # alte Seite ausgeliefert wurde. Shopifys CDN hält den
+        # Abfrageteil im Schlüssel, ein einmaliger Wert erzwingt frisch.
+        stempel = int(time.time())
+        adressen = [f"{u}{'&' if '?' in u else '?'}frisch={stempel}"
+                    for u in adressen]
+        print(f"Cache-Sperre aktiv: frisch={stempel}")
     axe_js = axe_quelle()
     from playwright.sync_api import sync_playwright
 
