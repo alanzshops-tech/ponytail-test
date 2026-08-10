@@ -52,8 +52,8 @@
       "id": "~deepseek/deepseek-v4-flash-latest",
       "name": "DeepSeek V4 Flash Latest",
       "kontext": 1048576,
-      "preis_eingabe": 0.08,
-      "preis_ausgabe": 0.252
+      "preis_eingabe": 0.0798,
+      "preis_ausgabe": 0.1596
     },
     {
       "id": "deepseek/deepseek-v4-flash-0731",
@@ -815,8 +815,8 @@
       "id": "moonshotai/kimi-k2.6",
       "name": "MoonshotAI: Kimi K2.6",
       "kontext": 262144,
-      "preis_eingabe": 0.95,
-      "preis_ausgabe": 4.0
+      "preis_eingabe": 0.5795,
+      "preis_ausgabe": 2.44
     },
     {
       "id": "anthropic/claude-opus-4.7",
@@ -836,8 +836,8 @@
       "id": "z-ai/glm-5.1",
       "name": "Z.ai: GLM 5.1",
       "kontext": 204800,
-      "preis_eingabe": 1.4,
-      "preis_ausgabe": 4.4
+      "preis_eingabe": 0.952,
+      "preis_ausgabe": 2.992
     },
     {
       "id": "google/gemma-4-26b-a4b-it",
@@ -2871,11 +2871,11 @@
   "probe": {
     "modell": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "auswahl": "Gratisstufe, weil kein Guthaben vorhanden ist",
-    "antwort": "Hundesofas bieten deinem Vierbeiner einen eigenen, gemütlichen Rückzugsort und schonen gleichzeitig deine Möbel.",
+    "antwort": "Hundesofas bieten Hunden einen gemütlichen und geschützten Ruheplatz.",
     "verbrauch": {
       "prompt_tokens": 31,
-      "completion_tokens": 42,
-      "total_tokens": 73,
+      "completion_tokens": 33,
+      "total_tokens": 64,
       "cost": 0,
       "is_byok": false,
       "prompt_tokens_details": {
@@ -2898,8 +2898,8 @@
     "versuche": [
       {
         "modell": "google/lyria-3-pro-preview",
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Request contains an invalid argument.\\\",\\n    \\\"status\\\": \\\"INVALI"
+        "fehler": "HTTP 502",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 500,\\n    \\\"message\\\": \\\"Internal error encountered.\\\",\\n    \\\"status\\\": \\\"INTERNAL\\\"\\n  }\\"
       },
       {
         "modell": "google/lyria-3-clip-preview",
