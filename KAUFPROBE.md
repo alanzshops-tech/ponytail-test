@@ -1,12 +1,12 @@
 # Kaufprobe und Sichtprüfung
 
-Stand: 2026-08-10T07:57:15+00:00
+Stand: 2026-08-10T07:59:18+00:00
 
 Zwei Fragen, beide nur im Browser beantwortbar: Sieht die umgebaute Startseite richtig aus, und kann man einkaufen?
 
 ## 1. Die Theme-Kopie
 
-Vorschau: `https://www.homeeins.de/?preview_theme_id=182664626499`
+Vorschau: `https://www.homeeins.de/?preview_theme_id=182664790339`
 
 - Erfundene Bewertungen im sichtbaren Text: **keine**
 - Banner mit Überschrift: ja
@@ -17,14 +17,14 @@ Vorschau: `https://www.homeeins.de/?preview_theme_id=182664626499`
 - FAQ: ja
 - Produktkacheln gezählt: 16
 - Bilder auf der Seite: 19, davon nicht geladen: keine
-- mobil: 4079 px hoch, Querscroll nein
-- desktop: 3815 px hoch, Querscroll nein
+- mobil: 4215 px hoch, Querscroll nein
+- desktop: 4047 px hoch, Querscroll nein
 - Karussell oben: –
 - Kategoriekacheln unten: Haustiere, Möbel, Ordnung & Aufbewahrung, Wohnen & Deko, Garten & Outdoor, Bad & Wellness
 - **Doppelt auf einer Seite: nichts**
 - Leere Abschnitte: keine
-- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=15f1f725-4275-4c03-ae0e-6bafe2ea26ab&target_origin=https%3A%2F%2Fw
-- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=b4c9dc8c-61e6-4b08-998d-77fadd58323f&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (mobil): 403 https://shop.app/pay/hop?analytics_trace_id=20f37237-52b0-4389-9dbe-9624a62d4845&target_origin=https%3A%2F%2Fw
+- Fehlerhafte Anfrage (desktop): 403 https://shop.app/pay/hop?analytics_trace_id=aa86645c-51c3-44ed-91ec-745f1ee46833&target_origin=https%3A%2F%2Fw
 
 Bilder: `bilder/vorschau-mobil.jpg`, `bilder/vorschau-desktop.jpg`
 
