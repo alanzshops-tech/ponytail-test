@@ -8,8 +8,8 @@ Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, dazu Lesbarkeitsma
 
 | Seite | Gerät | schwer | leicht | Schrift | Zeilenlänge | Pixel geändert |
 |---|---|---:|---:|---:|---:|---:|
-| / | mobil | **1** | 0 | 16.5 px | 0 Z. | – |
-| / | desktop | **1** | 0 | 15.4 px | 0 Z. | – |
+| / | mobil | **2** | 0 | 15 px | 0 Z. | – |
+| / | desktop | **2** | 0 | 14 px | 0 Z. | – |
 | /collections/hunde | mobil | **1** | 0 | 16.5 px | 21 Z. | – |
 | /collections/hunde | desktop | **1** | 0 | 17.6 px | 0 Z. | – |
 | /products/hundesofa-samt-erhoeht-xxl | mobil | **2** | 0 | 16.5 px | 41 Z. | – |
@@ -27,7 +27,7 @@ Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen
 
 | Seite | Elemente | sichtbar | schwebend m. Text | Skripte |
 |---|---:|---:|---:|---:|
-| / | 3 | 3 | 1 | 1 |
+| / | 0 | 0 | 0 | 0 |
 | /collections/hunde | 3 | 3 | 1 | 1 |
 | /products/hundesofa-samt-erhoeht-xxl | 3 | 3 | 1 | 1 |
 | /products/sitzbank-stauraum-gepolstert-klappbar | 3 | 3 | 1 | 1 |
@@ -38,7 +38,6 @@ Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. Längere Zeilen
 
 | Element | Text | Größe | von rechts | von unten |
 |---|---|---|---:|---:|
-| `widerruf-trigger-button widerruf-trigger-button--floating wi` | Vertrag widerrufen | 162×42 | 20 px | 20 px |
 | `trustedsite-tm-image` | – | 92×38 | 0 px | -13 px |
 
 **Überlappungen: widerruf-trigger-button widerruf-trigger-button--floating wi × trustedsite-tm-image (72 × 5 px)**
@@ -56,7 +55,7 @@ Derselbe Detektor läuft gegen das veröffentlichte Theme, wo der Knopf abgescha
 
 | Seite | Preise | davon mit „EUR" |
 |---|---:|---:|
-| / | 0 | 0 |
+| / | 8 | 8 |
 | /collections/hunde | 0 | 0 |
 | /products/hundesofa-samt-erhoeht-xxl | 0 | 0 |
 | /products/sitzbank-stauraum-gepolstert-klappbar | 0 | 0 |
@@ -128,12 +127,12 @@ Absolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – su
 | Regel | Schwere | Fälle | betroffen |
 |---|---|---:|---|
 | Scrollable region must have keyboard access | serious | 12 | /, /cart, /collections/hunde, /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
+| Elements must meet minimum color contrast ratio thresholds | serious | 8 | /, /products/samt-sessel-design-armlehnen-holzbeine |
 | Form elements must have labels | critical | 6 | /products/hundesofa-samt-erhoeht-xxl, /products/samt-sessel-design-armlehnen-holzbeine, /products/sitzbank-stauraum-gepolstert-klappbar |
-| Elements must meet minimum color contrast ratio thresholds | serious | 6 | /products/samt-sessel-design-armlehnen-holzbeine |
 
 Beispiele:
 
-- `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25601111064899__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
+- `scrollable-region-focusable` — `<div class="grid grid--1-col slider slider--everywhere" id="Slider-sections--25601117323587__announcement-bar" aria-live="off" aria-atomic="true" data-autoplay=`
+- `color-contrast` — `<p class="he-faq__eyebrow">FAQ</p>`
 - `label` — `<input class="quantity__input" type="number" name="quantity" id="Quantity-template--25601110737219__main" data-cart-quantity="0" data-min="1" min="1" step="1" v`
-- `color-contrast` — `<select class="jdgm-sort-dropdown">`
 
