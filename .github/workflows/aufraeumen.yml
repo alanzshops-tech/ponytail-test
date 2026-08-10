@@ -33,8 +33,12 @@ on:
 permissions:
   contents: write
 
-env:
-  LIVE_THEME: "182664626499"
+# Früher stand hier LIVE_THEME als feste Nummer. Am 10.08.2026 zeigte sie
+# auf 182664626499 — ein Theme, das längst nicht mehr veröffentlicht war.
+# Die Sperre schützte also das falsche und hätte das echte Live-Theme zum
+# Löschen freigegeben. Eine Nummer, die von Hand nachgezogen werden muss,
+# ist keine Sperre. Jetzt wird bei jedem Lauf gefragt, welches Theme
+# gerade veröffentlicht ist.
 
 jobs:
   aufraeumen:
@@ -57,18 +61,47 @@ jobs:
           if [ "$WIRKLICH" != "LOESCHEN" ]; then
             echo "::error::Bestätigung fehlt."; exit 1
           fi
-          if [ "$THEME" = "$LIVE_THEME" ]; then
-            echo "::error::Das ist das veröffentlichte Theme. Abbruch."; exit 1
-          fi
           if [ -z "$THEME" ]; then
             echo "::error::Ohne Theme-ID würde die CLI das Live-Theme wählen."; exit 1
           fi
-          echo "Ziel-Theme $THEME, nicht das veröffentlichte ($LIVE_THEME)."
 
       - name: Shopify CLI
         run: |
           npm install -g --silent @shopify/cli@latest
           shopify version
+
+      - name: Ist das Ziel wirklich unveröffentlicht?
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        run: |
+          shopify theme list --json --no-color > themen.json || true
+          # Fällt aus, wenn die Ausgabe nicht lesbar ist oder kein
+          # veröffentlichtes Theme darin steht. Lieber ein Abbruch als eine
+          # Sperre, die stillschweigend nichts prüft.
+          python3 - "$THEME" <<'PY'
+          import json, sys
+          ziel = sys.argv[1]
+          try:
+              roh = json.load(open("themen.json"))
+          except Exception as e:
+              sys.exit(f"::error::Themenliste nicht lesbar ({e}). Abbruch.")
+          themen = roh.get("themes", roh) if isinstance(roh, dict) else roh
+          if not isinstance(themen, list) or not themen:
+              sys.exit("::error::Themenliste leer. Abbruch.")
+          def lebt(t):
+              return (str(t.get("role", "")).lower() in ("main", "live")
+                      or t.get("live") is True)
+          live = [str(t.get("id")) for t in themen if lebt(t)]
+          if not live:
+              sys.exit("::error::Kein veröffentlichtes Theme erkannt — die "
+                       "Ausgabeform hat sich geändert. Abbruch.")
+          print("Veröffentlicht:", ", ".join(live))
+          if ziel in live:
+              sys.exit(f"::error::Theme {ziel} ist veröffentlicht. Abbruch.")
+          print(f"Ziel {ziel} ist nicht veröffentlicht. Weiter.")
+          PY
 
       - name: Theme herunterladen
         env:
@@ -120,7 +153,14 @@ jobs:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
           SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
           THEME: ${{ inputs.theme }}
-        run: shopify theme push --path arbeitskopie --theme "$THEME" --no-color --allow-live=false || shopify theme push --path arbeitskopie --theme "$THEME" --no-color
+        # Hier stand `--allow-live=false || <derselbe Befehl ohne Schalter>`.
+        # Das war doppelt falsch: laut Shopifys Dokumentation ist
+        # `-a, --allow-live` ein Schalter, der das Schreiben ins Live-Theme
+        # *erlaubt* — es gibt kein `=false`. Und der Rückfall hinter `||`
+        # hätte bei jedem Fehlschlag genau den Befehl ohne Schutz
+        # nachgeschoben. Ohne den Schalter weigert sich die CLI von selbst,
+        # ein veröffentlichtes Theme zu überschreiben. Kein Rückfall.
+        run: shopify theme push --path arbeitskopie --theme "$THEME" --no-color
 
       - name: Theme Check danach
         continue-on-error: true
@@ -149,8 +189,24 @@ jobs:
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Sandbox aufgeräumt, Stand $(date +%Y-%m-%d)"
           for v in 1 2 3; do
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
               git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
             sleep $((v * 5))
           done
           exit 1

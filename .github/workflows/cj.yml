@@ -181,8 +181,23 @@ jobs:
           fi
           git commit -m "CJ-Katalog vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
               git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
             echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
             sleep $((v * 5))
           done
