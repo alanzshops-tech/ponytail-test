@@ -6,9 +6,9 @@ Stand: 2026-08-10 · nur Artikel mit geprüftem Bestand in Deutschland
 
 Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bitte einmal gegenprüfen.
 
-## * — 384 geholt, 384 laut CJ passend
+## * — 382 geholt, 382 laut CJ passend
 
-**Was dort liegt:** Hand Tools (234) · Home Office Storage (37) · Furniture (36) · Lady Dresses (12) · Camping & Hiking (11) · Office & School Supplies (10) · Suits & Sets (7) · Event & Party Supplies (4) · Kitchen Storage (4) · Power Tools (3) · Blouses & Shirts (3) · Dinnerware (2)
+**Was dort liegt:** Hand Tools (233) · Home Office Storage (37) · Furniture (36) · Lady Dresses (12) · Camping & Hiking (11) · Office & School Supplies (10) · Suits & Sets (7) · Event & Party Supplies (4) · Kitchen Storage (4) · Power Tools (3) · Blouses & Shirts (3) · Dinnerware (2)
 
 | Artikel | Preis | Bestand DE | gelistet von | Bearb. | SKU |
 |---|---:|---:|---:|---|---|
@@ -28,10 +28,10 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | Family Storage Stool | 22.31 -- 34.72 | 634 | 2 | None | `CJJT2782337` |
 | Cross-Legged Chair,No Wheels Armless Swivel Home Office Ch | 51.78 -- 52.36 | 530 | 7 | None | `CJJT2782107` |
 | Retractable Footrest Ergonomic Swivel Office Chair With Lu | 77.98 | 485 | 42 | None | `CJJT2388830` |
-| Navel Belly Button Patch Slimming Patch Abdomen Magnetic D | 0.64 -- 11.55 | 465 | 3106 | None | `CJBJPFST00158` |
+| Navel Belly Button Patch Slimming Patch Abdomen Magnetic D | 0.64 -- 11.55 | 465 | 3107 | None | `CJBJPFST00158` |
+| 1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fack | 9.27 -- 12.04 | 460 | 2 | None | `CJLY2839090` |
 | Halb Gesicht Maske Atemgerät Gesichtsstück Für Holzbearbei | 10.85 -- 16.27 | 460 | 3 | None | `CJBG2839088` |
 | Premium Dust Respirator Mask With 10 Replaceable Filters F | 9.96 -- 16.97 | 460 | 7 | None | `CJBG2830644` |
-| 2 / 4 Stück 3000mAh 3.7V Akku Und Ladegerät Für Akkus Wie  | 6.91 -- 9.20 | 460 | 1 | None | `CJDD2839051` |
 
 
 **Viel Bestand (ab 300), kaum gelistet (höchstens 5 Händler) — 22 Artikel:**
@@ -43,8 +43,8 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | 2 / 4 Stück 3000mAh 3.7V Akku Und Ladegerät Für Akkus Wie Ta | 6.91 -- 9.20 | 460 | 1 |
 | Storage Ottoman With Thicker Foam Padded Seat, Folding Foot  | 23.89 -- 31.15 | 669 | 2 |
 | Family Storage Stool | 22.31 -- 34.72 | 634 | 2 |
-| LED Stirnlampe Super Hell 60000LM USB Wiederaufladbar Bewegu | 9.20 -- 13.85 | 460 | 2 |
 | 1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fackel | 9.27 -- 12.04 | 460 | 2 |
+| LED Stirnlampe Super Hell 60000LM USB Wiederaufladbar Bewegu | 9.20 -- 13.85 | 460 | 2 |
 | Halbe Gesicht Maske Atemschutzgerät Mit Filters Wiederverwen | 8.55 -- 11.44 | 460 | 2 |
 | 3,7V Wiederaufladbare Li-Ion Akkus Batterie Akku Ladegerät L | 6.91 -- 9.20 | 460 | 2 |
 | Leisure ChairLeisure Chair - PU-1pc-2pc | 96.71 -- 142.02 | 339 | 2 |

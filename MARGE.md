@@ -14,7 +14,7 @@ CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in Euro; wo CJ den Ve
 | Stirnlampe | LED Stirnlampe Super Hell 60000LM USB Wieder | 9.2 | 0.0 | ja | 9.2 | **23.0** | 460 | 460 | 2 | 3-5 |
 | Stirnlampe | 99000000LM Stärkste Wiederaufladbare Stirnla | 10.25 | 0.0 | ja | 10.25 | **25.62** | 690 | 690 | 1 | 3-5 |
 | Kettensäge | 4pcs Original Saw Chain 35cm 3/8" 52 Drive L | 10.32 | 0.0 | ja | 10.32 | **25.8** | 230 | 230 | 0 | 3-5 |
-| Gewichtsdecke | Class A Mica Cool Silk Single Summer Quilt I | 3.69 | 8.94 | nein | 12.63 | **31.57** | 2019 | 725441 | 5 | 1-3 |
+| Gewichtsdecke | Class A Mica Cool Silk Single Summer Quilt I | 3.69 | 8.94 | nein | 12.63 | **31.57** | 2019 | 725443 | 5 | 1-3 |
 | Akkustaubsauger | Wall Mount Charging Dock For Dyson V7 V8 Cor | 13.2 | 0.0 | ja | 13.2 | **33.0** | 230 | 230 | 2 | 3-5 |
 | Werkzeugkoffer | TIRE REPAIR SET 58 PCS MOTORCYCLE/CAR TIRE P | 13.75 | 0.0 | ja | 13.75 | **34.38** | 230 | 230 | 1 | 3-5 |
 | Taschenlampe | Super Hell 9500000Lumen Taktische Taschenlam | 14.46 | 0.0 | ja | 14.46 | **36.15** | 230 | 230 | 1 | 3-5 |
@@ -27,6 +27,7 @@ CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in Euro; wo CJ den Ve
 | Drehmomentschlüssel | Pipe Cutter Exhaust Pipe Cutter 18-90mm Chai | 19.51 | 0.0 | ja | 19.51 | **48.78** | 230 | 230 | 1 | 3-5 |
 | Werkzeugkoffer | 34pcs Torx Bit Socket And E-Torx Star Socket | 19.59 | 0.0 | ja | 19.59 | **48.98** | 230 | 230 | 1 | 3-5 |
 | Akkuschrauber | Electric Screwdriver Set 9 Bits USB Recharge | 19.87 | 0.0 | ja | 19.87 | **49.68** | 230 | 230 | 1 | 3-5 |
+| Solar-Halterung | 12cm U-shaped Rail Solar Photovoltaic Bracke | 20.06 | 0.0 | ja | 20.06 | **50.15** | 230 | 230 | 1 | 3-5 |
 | Akkustaubsauger | 120W Cordless Handheld Vacuum Cleaner Vacuum | 20.1 | 0.0 | ja | 20.1 | **50.25** | 230 | 230 | 7 | 3-5 |
 | Drehmomentschlüssel | Preset Torque Wrench 15-piece Set Suitable F | 22.22 | 0.0 | ja | 22.22 | **55.55** | 230 | 230 | 1 | 3-5 |
 | Hocker mit Stauraum | Family Storage Stool | 22.31 | 0.0 | ja | 22.31 | **55.77** | 634 | 634 | 2 | 3-5 |
@@ -37,7 +38,6 @@ CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in Euro; wo CJ den Ve
 | Wäschesortierer | Laundry Hamper With 4 Pull-Out Removable Lau | 26.38 | 0.0 | ja | 26.38 | **65.95** | 386 | 386 | 4 | 3-5 |
 | Duschhocker | Commode Chair, Height Adjustable Shower Whee | 27.14 | 0.0 | ja | 27.14 | **67.85** | 230 | 230 | 0 | 3-5 |
 | Kommode | Drawers Dresser Chest Of Drawers,Metal Frame | 28.45 | 0.0 | ja | 28.45 | **71.12** | 865 | 865 | 4 | 3-5 |
-| Solar-Halterung | Solar Photovoltaic Adjustable Front And Rear | 29.2 | 0.0 | ja | 29.2 | **73.0** | 230 | 230 | 1 | 3-5 |
 | Nass-Trockensauger | 20L Wet/Dry Vacuum Cleaner 2000W 18kPa Sucti | 31.79 | 0.0 | ja | 31.79 | **79.47** | 230 | 230 | 1 | 3-5 |
 | Wäschesortierer | Laundry Hamper With 3 Pull-Out Removable Lau | 32.92 | 0.0 | ja | 32.92 | **82.3** | 1023 | 1023 | 7 | 3-5 |
 | Dampfreiniger | Cleaner Multipurpose Steamer 21-Piece Access | 35.05 | 0.0 | ja | 35.05 | **87.62** | 230 | 230 | 1 | 3-5 |
