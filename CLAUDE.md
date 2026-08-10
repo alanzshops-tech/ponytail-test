@@ -79,7 +79,7 @@ Probe mit einem Begriff, der treffen *muss*.
 | Echte API-Antworten aufzeichnen | VCR.py | `scripts/aufzeichnen.py` |
 | Nachfrage und Saison | pytrends | `scripts/trends.py` |
 | Lieferantenkatalog | CJ API | `scripts/cj.py`, `scripts/marge.py` |
-| YouTube-Transkripte | youtube-transcript-api | `scripts/videotext.py` |
+| Fremde Modelle rufen | OpenRouter | `scripts/openrouter.py` |
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
