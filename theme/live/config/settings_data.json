@@ -15,14 +15,14 @@
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
-    "body_scale": 100,
+    "body_scale": 110,
     "page_width": 1200,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "animations_reveal_on_scroll": false,
     "animations_hover_elements": "default",
-    "buttons_border_thickness": 3,
+    "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
@@ -123,7 +123,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
@@ -146,7 +146,7 @@
     "blocks": {
       "2118589882331710876": {
         "type": "shopify://apps/essential-trust-badges/blocks/app-embed/0ff65b25-07e1-408e-950f-f54dd3d1751b",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       },
       "14060646107696862457": {
@@ -169,43 +169,8 @@
         "disabled": false,
         "settings": {}
       },
-      "10603822535667782919": {
-        "type": "shopify://apps/mst-wishlist-marketing-flow/blocks/app-embed/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
-        "disabled": true,
-        "settings": {
-          "hide_float_icon": false,
-          "is_show_vendor": false,
-          "heart_icon_color": "",
-          "iwish_count_clr": "#FFFFFF",
-          "iwish_float_custom_icon": "",
-          "float_heart_position": "middle",
-          "float_heart_alignment": "left",
-          "open_drawer_once": false,
-          "multi_category_wishlist": false,
-          "is_old_cur_convertor": false,
-          "drawer_is_add_all_to_cart": false,
-          "cart_icon_class": ".cart-count-bubble",
-          "iwish_img_col": "2",
-          "iwish_img_size": "50X50",
-          "is_multi_language": true,
-          "drawer_title": "My Wishlist",
-          "drawer_empty_description": "Explore more and shortlist some items",
-          "drawer_empty_msg": "Your wishlist is empty!",
-          "drawer_login_msg": "Wishlist is not saved permanently yet. Please <a class=\"link-text\" href=\"/account/login\">log in</a> or <a class=\"link-text\" href=\"/account/register\">Create Account</a> to save it.",
-          "add_to_cart_txt": "Add To Cart",
-          "add_all_to_cart_txt": "Add All To Cart",
-          "drawer_sold_out": "Sold Out",
-          "main_wishlist_text": "Main Wishlist",
-          "save_btn_text": "SAVE"
-        }
-      },
       "1306064247955555917": {
         "type": "shopify://apps/variant-title-king/blocks/starapps-vtk-embed/b9b7a642-58c3-4fe1-8f1b-ed3e502da04b",
-        "disabled": true,
-        "settings": {}
-      },
-      "1721301647844767814": {
-        "type": "shopify://apps/ait-loyalty-review-affiliate/blocks/app-aioEmbeddedBlock/0ac2ae90-3cb2-4597-b945-a3b33462ea90",
         "disabled": true,
         "settings": {}
       },
@@ -220,27 +185,20 @@
         "settings": {
           "greeting_message": "",
           "button_color": "#000000",
-          "secondary_color": "#ffffff",
-          "ternary_color": "#6a6a6a",
           "button_icon": "chat_bubble",
           "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest"
         }
       },
-      "1232542678405107163": {
-        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
-        "disabled": false,
-        "settings": {}
-      },
       "9864028433945474133": {
         "type": "shopify://apps/revoq-eu-withdrawal-button/blocks/widerrufsbutton-floating-button/019c3356-2775-7d52-b915-4b0f965005ae",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "trigger_label": "-",
           "hide_trigger": false,
-          "floating_position": "right",
-          "floating_bottom_offset": 20,
+          "floating_position": "left",
+          "floating_bottom_offset": 44,
           "floating_side_offset": 20,
           "trigger_button_size": "medium",
           "trigger_button_color": "#111827",
@@ -254,6 +212,7 @@
           "show_order_hint": true,
           "show_email_hint": true,
           "show_privacy_notice": true,
+          "show_required_hint": false,
           "text_color": "#111827",
           "secondary_text_color": "#6b7280",
           "card_shape": "rounded",

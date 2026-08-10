@@ -20,11 +20,31 @@
           "type": "price",
           "settings": {}
         },
+        "vertrauen": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Kostenloser Versand",
+            "icon_2": "return",
+            "heading_2": "30 Tage Rückgabe",
+            "icon_3": "lock",
+            "heading_3": "Sicher bezahlen"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
+          }
+        },
+        "bestand": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
           }
         },
         "quantity_selector": {
@@ -36,6 +56,30 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "tab_versand": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Versand & Lieferung",
+            "icon": "truck",
+            "content": "<p>Innerhalb Deutschlands versenden wir <strong>kostenlos</strong>. Die Lieferzeit beträgt in der Regel 2 bis 5 Werktage. Versand ins europäische Ausland ist möglich, die Kosten richten sich nach Gewicht und werden im Bezahlvorgang angezeigt.</p>"
+          }
+        },
+        "tab_rueckgabe": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Rückgabe & Widerruf",
+            "icon": "return",
+            "content": "<p>Sie haben <strong>30 Tage Rückgaberecht</strong>. Die vollständigen Bedingungen stehen in der <a href=\"/policies/refund-policy\">Widerrufsbelehrung</a>. Die Kosten der Rücksendung trägt der Kunde.</p>"
+          }
+        },
+        "tab_zahlung": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Zahlungsarten",
+            "icon": "lock",
+            "content": "<p>Kreditkarte (Visa, Mastercard und weitere), PayPal, Klarna, Shop Pay, Google Pay und Banküberweisung. Auf Apple-Geräten zusätzlich Apple Pay. Die vollständige Liste sehen Sie im Bezahlvorgang.</p>"
           }
         },
         "description": {
@@ -57,14 +101,26 @@
             "show_shop_reviews": false,
             "empty_state": "empty_widget"
           }
+        },
+        "zahlungswand": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- if shop.enabled_payment_types.size > 0 -%}\n<div class=\"he-wand\">\n  <p class=\"he-wand__titel\">Sicher bezahlen mit</p>\n  <ul class=\"he-wand__liste\" role=\"list\">\n    {%- for type in shop.enabled_payment_types -%}\n      <li class=\"he-wand__eintrag\">\n        {{ type | payment_type_svg_tag: class: 'he-wand__icon' }}\n      </li>\n    {%- endfor -%}\n  </ul>\n  <p class=\"he-wand__fuss\">Alle Zahlungen laufen verschlüsselt über den Bezahlvorgang von Shopify.</p>\n</div>\n\n<style>\n  .he-wand { margin: 1.6rem 0 0.4rem; padding: 1.6rem 1.2rem;\n    border: 1px solid rgba(17,17,17,.10); border-radius: 12px;\n    background: #fff; text-align: center; }\n  .he-wand__titel { margin: 0 0 1.1rem; font-size: 1.5rem; font-weight: 600;\n    color: #111; letter-spacing: .01em; }\n  .he-wand__liste { display: flex; flex-wrap: wrap; justify-content: center;\n    align-items: center; gap: 10px; margin: 0; padding: 0; list-style: none; }\n  .he-wand__eintrag { display: flex; }\n  .he-wand__icon { width: 52px; height: 34px; display: block; }\n  .he-wand__fuss { margin: 1.1rem 0 0; font-size: 1.2rem; color: #5a5a5a;\n    line-height: 1.5; }\n  @media screen and (max-width: 749px) {\n    .he-wand { padding: 1.3rem 0.9rem; }\n    .he-wand__liste { gap: 8px; }\n    .he-wand__icon { width: 46px; height: 30px; }\n  }\n</style>\n{%- endif -%}"
+          }
         }
       },
       "block_order": [
         "title",
         "price",
+        "vertrauen",
         "variant_picker",
+        "bestand",
         "quantity_selector",
         "buy_buttons",
+        "zahlungswand",
+        "tab_versand",
+        "tab_rueckgabe",
+        "tab_zahlung",
         "description",
         "share",
         "judge_me_reviews_review_widget_L3E3cc"
@@ -119,7 +175,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "Unsere Kunden kauften auch",
+        "heading": "Passt dazu",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
