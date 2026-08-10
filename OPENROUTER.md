@@ -21,7 +21,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 
 ## Modelle
 
-**399 Modelle erreichbar**, davon 17 ohne Kosten.
+**400 Modelle erreichbar**, davon 17 ohne Kosten.
 
 Die zehn günstigsten mit Preis. Beträge in US-Dollar je
 Million Token — Eingabe ist, was hingeschickt wird, Ausgabe,
