@@ -2,22 +2,22 @@
   "stand": "2026-08-10",
   "seiten": [
     {
-      "url": "https://www.homeeins.de/?preview_theme_id=182664790339",
+      "url": "https://www.homeeins.de/",
       "geraet": "mobil",
       "verstoesse": [
         {
-          "id": "frame-title",
+          "id": "color-contrast",
           "impact": "serious",
-          "help": "Frames must have an accessible name",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
           "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
+          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
         },
         {
           "id": "scrollable-region-focusable",
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
       "schwer": 2,
@@ -29,529 +29,578 @@
         "wort_bewertung": 0,
         "wort_rezension": 0,
         "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
+        "preise_mit_eur": 8,
+        "preise_gesamt": 8,
         "aggregate_rating": 0
       },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
       "text": {
-        "absaetze": 25,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
+        "absaetze": 24,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
         "zeilenlaenge_median": 0,
         "zu_breit": 0
       },
-      "bild": "bilder/sandbox/startseite-mobil.png",
+      "bild": "bilder/pruefstand/startseite-mobil.png",
       "vergleich": null
     },
     {
-      "url": "https://www.homeeins.de/?preview_theme_id=182664790339",
-      "geraet": "desktop",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 2,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": false,
-        "widget_text": null,
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 52,
-        "schriftgroesse_median": 15.4,
-        "zu_klein": 27,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 1
-      },
-      "bild": "bilder/sandbox/startseite-desktop.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/collections/hunde?preview_theme_id=182664790339",
-      "geraet": "mobil",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 2,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": false,
-        "widget_text": null,
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 36,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
-        "zeilenlaenge_median": 21,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/collections-hunde-mobil.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/collections/hunde?preview_theme_id=182664790339",
-      "geraet": "desktop",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 2,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": false,
-        "widget_text": null,
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 63,
-        "schriftgroesse_median": 17.6,
-        "zu_klein": 27,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 8
-      },
-      "bild": "bilder/sandbox/collections-hunde-desktop.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?preview_theme_id=182664790339",
-      "geraet": "mobil",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 3,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": true,
-        "widget_text": "",
-        "sterne_symbole": 1,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 25,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 1,
-        "zeilenlaenge_median": 41,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/products-hundesofa-samt-erhoeht-xxl-mobil.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?preview_theme_id=182664790339",
-      "geraet": "desktop",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 3,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": true,
-        "widget_text": "",
-        "sterne_symbole": 1,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 52,
-        "schriftgroesse_median": 15.4,
-        "zu_klein": 28,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 1
-      },
-      "bild": "bilder/sandbox/products-hundesofa-samt-erhoeht-xxl-desktop.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?preview_theme_id=182664790339",
-      "geraet": "mobil",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 3,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": true,
-        "widget_text": "",
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 19,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 1,
-        "zeilenlaenge_median": 38,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/products-sitzbank-stauraum-gepolstert-klappbar-mobil.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?preview_theme_id=182664790339",
-      "geraet": "desktop",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 3,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": true,
-        "widget_text": "",
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 46,
-        "schriftgroesse_median": 15.4,
-        "zu_klein": 28,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 1
-      },
-      "bild": "bilder/sandbox/products-sitzbank-stauraum-gepolstert-klappbar-desktop.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/cart?preview_theme_id=182664790339",
-      "geraet": "mobil",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 2,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": false,
-        "widget_text": null,
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 9,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 0,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/cart-mobil.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/cart?preview_theme_id=182664790339",
-      "geraet": "desktop",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 2,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": false,
-        "widget_text": null,
-        "sterne_symbole": 0,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 0
-      },
-      "text": {
-        "absaetze": 36,
-        "schriftgroesse_median": 15.4,
-        "zu_klein": 27,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/cart-desktop.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182664790339",
-      "geraet": "mobil",
-      "verstoesse": [
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
-          "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
-        },
-        {
-          "id": "scrollable-region-focusable",
-          "impact": "serious",
-          "help": "Scrollable region must have keyboard access",
-          "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
-        }
-      ],
-      "schwer": 3,
-      "leicht": 0,
-      "bewertungen": {
-        "widget_da": true,
-        "widget_text": "",
-        "sterne_symbole": 1,
-        "wort_bewertung": 0,
-        "wort_rezension": 0,
-        "wort_sterne": 0,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 1
-      },
-      "text": {
-        "absaetze": 22,
-        "schriftgroesse_median": 16.5,
-        "zu_klein": 1,
-        "zeilenlaenge_median": 0,
-        "zu_breit": 0
-      },
-      "bild": "bilder/sandbox/products-samt-sessel-design-armlehnen-holzbeine-mobil.png",
-      "vergleich": null
-    },
-    {
-      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182664790339",
+      "url": "https://www.homeeins.de/",
       "geraet": "desktop",
       "verstoesse": [
         {
           "id": "color-contrast",
           "impact": "serious",
           "help": "Elements must meet minimum color contrast ratio thresholds",
-          "anzahl": 11,
-          "beispiel": "<select class=\"jdgm-sort-dropdown\">"
-        },
-        {
-          "id": "frame-title",
-          "impact": "serious",
-          "help": "Frames must have an accessible name",
           "anzahl": 1,
-          "beispiel": "<iframe id=\"PBarNextFrame\" src=\"https://cdn.shopify....\" sandbox=\"allow-same-origin al...\" style=\"width: 100%; height:...\">"
-        },
-        {
-          "id": "label",
-          "impact": "critical",
-          "help": "Form elements must have labels",
-          "anzahl": 1,
-          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25600956498243__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+          "beispiel": "<p class=\"he-faq__eyebrow\">FAQ</p>"
         },
         {
           "id": "scrollable-region-focusable",
           "impact": "serious",
           "help": "Scrollable region must have keyboard access",
           "anzahl": 1,
-          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25600953188675__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
         }
       ],
-      "schwer": 14,
+      "schwer": 2,
       "leicht": 0,
       "bewertungen": {
-        "widget_da": true,
-        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 6 Bewertungen\n \n 6\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/31/2026\nIsabel R.\nStilvoller Traum-Sessel\n\nPasst perfekt in unser modernes Wohnzimmer. Weich, bequem und su",
-        "sterne_symbole": 1,
-        "wort_bewertung": 3,
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
         "wort_rezension": 0,
-        "wort_sterne": 1,
-        "preise_mit_eur": 0,
-        "preise_gesamt": 0,
-        "aggregate_rating": 1
+        "wort_sterne": 0,
+        "preise_mit_eur": 8,
+        "preise_gesamt": 8,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
       },
       "text": {
-        "absaetze": 49,
-        "schriftgroesse_median": 15.4,
-        "zu_klein": 28,
+        "absaetze": 51,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
         "zeilenlaenge_median": 0,
         "zu_breit": 1
       },
-      "bild": "bilder/sandbox/products-samt-sessel-design-armlehnen-holzbeine-desktop.png",
+      "bild": "bilder/pruefstand/startseite-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 11,
+        "preise_gesamt": 11,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
+        "zeilenlaenge_median": 24,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/collections-hunde-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 11,
+        "preise_gesamt": 11,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 62,
+        "schriftgroesse_median": 16,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 8
+      },
+      "bild": "bilder/pruefstand/collections-hunde-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 1,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 23,
+        "schriftgroesse_median": 15,
+        "zu_klein": 23,
+        "zeilenlaenge_median": 46,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 1,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 50,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 0,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 17,
+        "schriftgroesse_median": 15,
+        "zu_klein": 17,
+        "zeilenlaenge_median": 43,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 1,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 3,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 0,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 44,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 8,
+        "schriftgroesse_median": 15,
+        "zu_klein": 8,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 4,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 6,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 1 Bewertung\n \n 1\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/29/2026\nAnna M.\nAbsolut top!\n\nAbsolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – supe",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 1
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 16,
+        "schriftgroesse_median": 15,
+        "zu_klein": 16,
+        "zeilenlaenge_median": 43,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 4,
+          "beispiel": "<span class=\"subheading\" style=\"\n                   ...\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601116995907__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601117323587__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 6,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 1 Bewertung\n \n 1\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/29/2026\nAnna M.\nAbsolut top!\n\nAbsolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – supe",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 1,
+        "preise_gesamt": 1,
+        "aggregate_rating": 1
+      },
+      "widerruf": {
+        "elemente": 0,
+        "sichtbar": 0,
+        "schwebend_mit_text": 0,
+        "beispiel": null,
+        "skripte": []
+      },
+      "text": {
+        "absaetze": 43,
+        "schriftgroesse_median": 14,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-desktop.png",
       "vergleich": null
     }
   ]
