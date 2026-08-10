@@ -217,8 +217,14 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          rm -rf theme/sandbox-voll && mkdir -p theme && cp -r arbeitskopie theme/sandbox-voll
-          git add theme/sandbox-voll THEMECHECK-SANDBOX.md daten/themecheck-sandbox.json 2>/dev/null || true
+          # Hier wurde bisher die komplette Theme-Kopie ins Repository
+          # gelegt: 361 Dateien, rund 137.000 Zeilen -- und bis auf eine
+          # Datei identisch mit theme/live, das ohnehin gepflegt wird.
+          # Gelesen hat sie nie jemand. Zusammen mit theme/sandbox-neu
+          # machten diese Kopien 412.890 der 507.648 hinzugefuegten Zeilen
+          # aus, also gut 80 Prozent des Repositorys. Der Bericht bleibt,
+          # die Kopie nicht.
+          git add THEMECHECK-SANDBOX.md daten/themecheck-sandbox.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Sandbox aufgeräumt, Stand $(date +%Y-%m-%d)"
           for v in 1 2 3; do

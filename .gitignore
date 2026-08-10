@@ -2,3 +2,12 @@ __pycache__/
 *.pyc
 dist/
 .reel-tmp/
+
+# Theme-Kopien: nur theme/live wird gepflegt (von theme.yml) und
+# gebraucht (von themecheck.py). Die anderen Kopien waren bis auf eine
+# Datei identisch damit, wurden nie gelesen und machten 80 Prozent des
+# Repositorys aus. Falls wieder eine gebraucht wird: als Artefakt des
+# Laufs, nicht als Commit.
+theme/sandbox-voll/
+theme/sandbox-neu/
+arbeitskopie/
