@@ -226,10 +226,6 @@
     }
   },
   "templates": {
-    "404": {
-      "title": "找不到页面",
-      "subtext": "404"
-    },
     "search": {
       "no_results": "未找到“{{ terms }}”的结果。请检查拼写或使用其他词或短语。",
       "results_with_count": {
@@ -273,6 +269,10 @@
         "error_heading": "请调整以下内容：",
         "title": "联系表"
       }
+    },
+    "404": {
+      "title": "找不到页面",
+      "subtext": "404"
     }
   },
   "sections": {
@@ -291,6 +291,8 @@
       "note": "订单特殊说明",
       "checkout": "结账",
       "empty": "您的购物车为空",
+      "product_disclosure": "产品披露信息",
+      "product_disclosures": "产品披露信息",
       "cart_error": "更新购物车时出错。请重试。",
       "cart_quantity_error_html": "您只能向购物车添加 {{ quantity }} 件此商品。",
       "headings": {
@@ -538,47 +540,12 @@
   },
   "pagefly": {
     "products": {
-      "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
-        "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details"
-      }
+      "product": {}
     },
-    "article": {
-      "tags": "Tags:",
-      "all_topics": "All topics",
-      "by_author": "by {{ author }}",
-      "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
-    },
+    "article": {},
     "comments": {
-      "title": "Leave a comment",
-      "name": "Name",
-      "email": "Email",
-      "message": "Message",
-      "post": "Post comment",
-      "moderated": "Please note, comments must be approved before they are published",
-      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
-      "success": "Your comment was posted successfully! Thank you!",
-      "comments_with_count": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
-      }
+      "comments_with_count": {}
     },
-    "password_page": {
-      "login_form_message": "Enter store using password:",
-      "login_form_password_label": "Password",
-      "login_form_password_placeholder": "Your password",
-      "login_form_submit": "Enter",
-      "signup_form_email_label": "Email",
-      "signup_form_success": "We will send you an email right before we open!",
-      "password_link": "Enter using password"
-    }
+    "password_page": {}
   }
 }
