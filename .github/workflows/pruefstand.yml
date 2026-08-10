@@ -22,14 +22,6 @@ on:
         description: "Cache umgehen — nötig direkt nach einer Änderung"
         type: boolean
         default: false
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/pruefstand.py"
-      - ".github/workflows/pruefstand.yml"
-  schedule:
-    - cron: "30 7 * * 1"
-
 permissions:
   contents: write
 

@@ -18,16 +18,6 @@ on:
         description: "Zielordner im Repository"
         type: string
         default: "theme/live"
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/themecheck.py"
-      - ".github/workflows/theme.yml"
-  schedule:
-    # Montags 06:30 UTC, vor den anderen Messungen. Findet auch
-    # Änderungen, die jemand von Hand im Theme-Editor gemacht hat.
-    - cron: "30 6 * * 1"
-
 permissions:
   contents: write
 

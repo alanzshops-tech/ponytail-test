@@ -7,18 +7,7 @@ name: Google Trends erfassen
 #
 # Montags 05:00 UTC, also nach dem Reel-Rendern um 04:00.
 on:
-  push:
-    branches:
-      - "claude/**"
-      - main
-    paths:
-      - "trends.config.json"
-      - "scripts/trends.py"
-      - ".github/workflows/trends.yml"
   workflow_dispatch:
-  schedule:
-    - cron: "0 5 * * 1"
-
 # Wird gebraucht, um Ergebnis und Bericht zurück in den Branch zu committen.
 permissions:
   contents: write

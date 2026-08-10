@@ -9,12 +9,6 @@ on:
         description: "Video-IDs, Komma-getrennt"
         type: string
         default: "rNiw_9OO9ts,hh7i8Bs8-JI,Ih5RapM8XKw"
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/videotext.py"
-      - ".github/workflows/videotext.yml"
-
 permissions:
   contents: write
 

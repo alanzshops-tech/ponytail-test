@@ -10,11 +10,6 @@ name: Pinterest-Pinnwände auslesen
 # Der push-Auslöser ist nötig, weil workflow_dispatch erst zur Verfügung
 # steht, wenn die Datei auf dem Standardbranch liegt.
 on:
-  push:
-    branches:
-      - "claude/**"
-    paths:
-      - ".github/workflows/pinterest-boards.yml"
   workflow_dispatch:
     inputs:
       profil:

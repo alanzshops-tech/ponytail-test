@@ -23,12 +23,6 @@ on:
         description: "Theme-ID für den Kaufweg; leer = veröffentlichtes Theme"
         type: string
         default: ""
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/kaufprobe.py"
-      - ".github/workflows/kaufprobe.yml"
-
 permissions:
   contents: write
 

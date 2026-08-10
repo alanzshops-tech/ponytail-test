@@ -24,12 +24,6 @@ on:
         description: "Steckbriefe aller Modelle, deren ID diesen Text enthält"
         type: string
         default: ""
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/openrouter.py"
-      - ".github/workflows/openrouter.yml"
-
 permissions:
   contents: write
 

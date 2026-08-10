@@ -9,14 +9,6 @@ name: CJ-Katalog durchsuchen
 # Ohne das Secret CJ_API_KEY läuft der Job durch und gibt die
 # Einrichtungsanleitung aus, statt rot zu werden.
 on:
-  push:
-    branches: ["claude/**", main]
-    paths:
-      - "cj.config.json"
-      - "nischen.config.json"
-      - "scripts/cj.py"
-      - "scripts/marge.py"
-      - ".github/workflows/cj.yml"
   workflow_dispatch:
     inputs:
       begriffe:
@@ -35,9 +27,6 @@ on:
         required: false
   # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
   # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
-  schedule:
-    - cron: "0 4 * * 0"
-
 permissions:
   contents: write
 

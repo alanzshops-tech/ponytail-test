@@ -11,12 +11,6 @@ name: Seiten prüfen
 #              versioniert. Sonntags, damit der Bericht montags vorliegt.
 #   urls       nur die Stichprobe aus urls.txt, ohne Commit.
 on:
-  push:
-    branches: ["claude/**", main]
-    paths:
-      - "urls.txt"
-      - "scripts/seiten_check.py"
-      - ".github/workflows/seiten-check.yml"
   workflow_dispatch:
     inputs:
       modus:
@@ -28,9 +22,6 @@ on:
         description: "nur die ersten N Adressen (0 = alle)"
         required: false
         default: "0"
-  schedule:
-    - cron: "0 3 * * 0"
-
 permissions:
   contents: write
 

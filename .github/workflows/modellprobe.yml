@@ -14,12 +14,6 @@ on:
         description: "Modell-IDs, Komma-getrennt"
         type: string
         default: "nvidia/nemotron-3-ultra-550b-a55b:free,google/gemma-4-31b-it:free,google/gemma-4-26b-a4b-it:free,inclusionai/ling-3.0-tiny:free"
-  push:
-    branches: ["claude/**"]
-    paths:
-      - "scripts/modellprobe.py"
-      - ".github/workflows/modellprobe.yml"
-
 permissions:
   contents: write
 

@@ -13,25 +13,12 @@ name: Reels rendern
 # rund siebeneinhalb Minuten je Produkt — bei zwölf Produkten wäre das über
 # eineinhalb Stunden und mehr als die Zeitgrenze eines Jobs.
 on:
-  push:
-    branches:
-      - "claude/**"
-      - main
-    paths:
-      - "reels.config.json"
-      - "scripts/make_reels.py"
-      - "scripts/make_music.py"
-      - "scripts/audio_check.py"
-      - ".github/workflows/reels.yml"
   workflow_dispatch:
     inputs:
       nur:
         description: "Nur ein Produkt rendern (name aus reels.config.json), leer = alle"
         required: false
         default: ""
-  schedule:
-    - cron: "0 4 * * 1"
-
 # contents: write wird gebraucht, um die fertigen MP4s als Release-Assets
 # zu veröffentlichen. Das gibt jedem Video eine dauerhafte öffentliche URL,
 # ohne die Videos ins Git zu committen.

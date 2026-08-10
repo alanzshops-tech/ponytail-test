@@ -9,22 +9,12 @@ name: Search Console erfassen
 # Ohne das Secret GSC_SERVICE_ACCOUNT_JSON läuft der Job trotzdem durch und
 # gibt die Einrichtungsanleitung aus, statt rot zu werden.
 on:
-  push:
-    branches:
-      - "claude/**"
-      - main
-    paths:
-      - "scripts/gsc.py"
-      - ".github/workflows/gsc.yml"
   workflow_dispatch:
     inputs:
       tage:
         description: "Zeitraum in Tagen (Standard 28)"
         required: false
         default: "28"
-  schedule:
-    - cron: "0 6 * * 1"
-
 # id-token: write erlaubt GitHub, ein kurzlebiges OIDC-Token auszustellen.
 # Damit weist sich der Lauf direkt bei Google aus — es gibt keinen
 # Dienstkontoschlüssel, der gestohlen werden könnte. Die Organisation

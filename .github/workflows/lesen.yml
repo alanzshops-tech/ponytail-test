@@ -21,13 +21,6 @@ on:
         description: "rohes HTML mitliefern (fuer Varianten, Preise, Skripte)"
         type: boolean
         default: false
-  push:
-    branches: ["claude/**", main]
-    paths:
-      - "lesen.txt"
-      - "scripts/lesen.py"
-      - ".github/workflows/lesen.yml"
-
 permissions:
   contents: write
 
