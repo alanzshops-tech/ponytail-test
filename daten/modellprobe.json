@@ -1,19 +1,38 @@
 {
   "stand": "2026-08-10",
   "modelle": {
-    "nvidia/nemotron-3-ultra-550b-a55b:free": [
+    "nvidia/nemotron-3-ultra-550b-a55b:free@none": [
       {
         "aufgabe": "gewichtsdecke",
-        "fehler": "leere Antwort",
-        "dauer": 0.5
+        "antwort": "Die Premium Gewichtsdecke in Blau ist in den Maßen 122 mal 183 Zentimeter mit fünf Kilogramm sowie 135 mal 200 Zentimeter und 137 mal 200 Zentimeter mit jeweils zehn Kilogramm erhältlich. Sie gehört zur Kategorie Bett und wird den Schlagworten Entspannung, Gewichtsdecke und Schlafzimmer zugeordnet. Der Preis beträgt 74,00 Euro. Der Titel nennt Tiefenentspannung und besseres Schlafen durch sanften Druck als Produktmerkmal.",
+        "dauer": 6.7,
+        "kosten": 0,
+        "token": 362,
+        "woerter": 62,
+        "erfundene_zahlen": [],
+        "gedanken_im_text": [],
+        "maschen": [],
+        "englisch": []
       },
       {
         "aufgabe": "handtuecher",
-        "antwort": "The user wants a product description for a German online shop selling home accessories.\nConstraints:\n- Length: 60-90 words.\n- Facts only from the provided data (Title, Category, Keywords, Price, Variants).\n- No invented specs (dimensions, weight, GSM, temperature, percentages other than 100% cotton).\n- No scarcity, strike-through prices, reviews, social proof.\n- Factual German running text (no bullet points, no headlines).\n- Language: German.\n\nData:\n- Title: Premium Handtuch-Set aus 100 % Baumwolle – Extra weich, saugstark & langlebig\n- Category: Bad\n- Keywords: Bad, Baumwolle, Handtuch-Set\n- Price: 69,00 €\n- Variants: Schwarz; Grau\n\nDrafting ideas:\nStart with the product name/material. Mention the category context. Mention the variants. Mention the price. Use adjectives from title (extra weich, saugstark, langlebig) as they are in the title provided.\n\nDraft 1:\nDas Premium Handtuch-Set besteht aus 100 % Baumwolle und ist für das Bad konzipiert. Es überzeugt durch eine extra weiche Haptik, hohe Saugstärke und langlebige Verarbeitung. Erhältlich ist das Set in den Farben Schwarz und Grau. Der Preis beträgt 69,00 €. Die hochwertige Materialqualität sorgt für angenehmen Komfort im Alltag und behält auch nach häufigem Waschen Form und Farbe. Ein klassisches Accessoire für moderne Badezimmer.\n\nWord count check:\n\"Das Premium Handtuch-Set besteht aus 100 % Baumwolle und ist für das Bad konzipiert. (13) Es überzeugt durch eine extra weiche Haptik",
-        "dauer": 12.4,
+        "fehler": "leere Antwort",
+        "dauer": 0.3
+      },
+      {
+        "aufgabe": "koerbe",
+        "fehler": "leere Antwort",
+        "dauer": 0.5
+      }
+    ],
+    "nvidia/nemotron-3-ultra-550b-a55b:free@minimal": [
+      {
+        "aufgabe": "gewichtsdecke",
+        "antwort": "The user wants a product description for a weighted blanket (Gewichtsdecke) for a German online shop.\nConstraints:\n- Length: 60-90 words.\n- Facts only from the provided data (Title, Category, Keywords, Price, Variants).\n- No invented specs (dimensions, weights, materials, temperatures, percentages).\n- No scarcity, strikethrough prices, reviews, social proof.\n- Factual German continuous text (Fließtext), no lists, no headlines.\n\nData:\n- Title: Premium Gewichtsdecke – Tiefenentspannung & besser schlafen mit sanftem Druck\n- Category: Bett\n- Keywords: Entspannung, Gewichtsdecke, Schlafzimmer\n- Price: 74,00 €\n- Variants:\n  1. Blau / 122 x 183 cm / 5 kg\n  2. Blau / 135 x 200 cm / 10 kg\n  3. Blau / 137 x 200 cm / 10 kg\n\nDrafting the text (mental or scratchpad):\nDie Premium Gewichtsdecke in der Kategorie Bett ist in der Farbe Blau erhältlich. Sie wird in drei Varianten angeboten: mit den Maßen 122 mal 183 Zentimeter und einem Gewicht von 5 Kilogramm sowie in den Größen 135 mal 200 Zentimeter und 137 mal 200 Zentimeter, jeweils mit 10 Kilogramm. Das Modell eignet sich für das Schlafzimmer und unterstützt Entspannung durch sanften Druck. Der Preis beträgt 74,00 Euro.\n\nWord count check (German words):\n\"Die Premium Gewichtsdecke in der Kategorie Bett ist in der Farbe Blau erhältlich. Sie wird in drei Varianten angeboten: mit den Maßen",
+        "dauer": 27.0,
         "kosten": 0,
-        "token": 598,
-        "woerter": 220,
+        "token": 640,
+        "woerter": 217,
         "erfundene_zahlen": [],
         "gedanken_im_text": [
           "constraints:",
@@ -29,26 +48,51 @@
         ]
       },
       {
-        "aufgabe": "koerbe",
-        "antwort": "Das 2er-Set Design Aufbewahrungskörbe bietet stilvolle Ordnung für Kinderzimmer, Wohnzimmer und Schlafzimmer. Die Körbe sind in der Farbe Beige erhältlich und werden als Set in zwei Größen geliefert: ein Korb misst 28 x 28 cm, der andere 40 x 25 cm. Als Wohnaccessoire eignen sie sich vielseitig zur Aufbewahrung verschiedener Gegenstände. Der Preis für das Set beträgt 39,00 €. Die Kategorie Bad deutet auf eine zusätzliche Verwendungsmöglichkeit im Sanitärbereich hin.",
-        "dauer": 9.6,
+        "aufgabe": "handtuecher",
+        "antwort": "The user wants a product description for a German online shop.\nConstraints:\n- Length: 60-90 words.\n- Facts only from provided data (Title, Category, Keywords, Price, Variants).\n- No invented specs (dimensions, weight, GSM, temperature, percentages other than 100% cotton).\n- No scarcity, strike-through prices, reviews, social proof.\n- Factual German continuous text (no bullet points, no headlines).\n- Language: German.\n\nProvided data:\n- Title: Premium Handtuch-Set aus 100 % Baumwolle – Extra weich, saugstark & langlebig\n- Category: Bad\n- Keywords: Bad, Baumwolle, Handtuch-Set\n- Price: 69,00 €\n- Variants: Schwarz; Grau\n\nDrafting ideas:\nFocus on material (100% cotton), properties from title (soft, absorbent, durable), category (bathroom), variants (black, grey), price.\n\nDraft 1 (Mental):\nDas Premium Handtuch-Set besteht aus 100 % Baumwolle und überzeugt durch eine extra weiche Haptik, hohe Saugkraft und lange Haltbarkeit. Es eignet sich ideal für das Bad und ist in den Farben Schwarz und Grau erhältlich. Der Preis beträgt 69,00 €.\n\nWord count check (German words):\nDas (1) Premium (2) Handtuch-Set (3) besteht (4) aus (5) 100 (6) % (7) Baumwolle (8) und (9) überzeugt (10) durch (11) eine (12) extra (13) weiche (14) Haptik, (15) hohe (16) Saugkraft (17) und (18) lange (19)",
+        "dauer": 11.5,
         "kosten": 0,
-        "token": 448,
-        "woerter": 70,
+        "token": 598,
+        "woerter": 199,
         "erfundene_zahlen": [],
-        "gedanken_im_text": [],
+        "gedanken_im_text": [
+          "constraints:",
+          "the user wants",
+          "word count"
+        ],
+        "maschen": [],
+        "englisch": [
+          "for",
+          "from",
+          "soft",
+          "the"
+        ]
+      },
+      {
+        "aufgabe": "koerbe",
+        "antwort": "The user wants a product description for a German online shop.\nConstraints:\n- Length: 60-90 words.\n- Only facts from the provided input.\n- No invented specs (dimensions, weight, material, temp, percentages).\n- No scarcity, strike-through prices, reviews, social proof.\n- Factual German running text (Fliesstext), no bullet points, no headline.\n- Input data: Title, Category (Bad), Keywords, Price, Variants (Beige / 28x28cm; Beige / 40x25cm).\n\nWait, the title says \"Kinderzimmer, Wohnzimmer & Schlafzimmer\" but the Category is \"Bad\" (Bathroom). I must stick to facts. The title is a fact (it's the product title). The category is a fact. I should probably mention the category or the use cases mentioned in the title. The variants have dimensions. I can use those. Material is not given, so I must not invent it (e.g., \"aus Rattan\" or \"aus Stoff\" is forbidden). Price is given.\n\nDrafting text (mental):\n\"Das Design-Aufbewahrungskörbe-Set zum Preis von 39,00 € umfasst zwei Körbe in Beige. Die Varianten unterscheiden sich in den Abmessungen: Ein Modell misst 28 x 28 cm, das andere 40 x 25 cm. Laut Titel eignen sie sich für Kinderzimmer, Wohnzimmer und Schlafzimmer, sind jedoch der Kategorie Bad zugeordnet. Als Wohnaccessoires dienen sie der Ordnung und Aufbewahrung. Das Set wird als 2er-Set angeboten.\"\n\nWord count check:\n\"Das Design-Aufbewahrungskörbe-Set zum Preis von 39,00 € umfasst zwei Körbe in Beige.\" (14 words)\n\"Die Varianten unterscheiden sich in den Ab",
+        "dauer": 22.9,
+        "kosten": 0,
+        "token": 617,
+        "woerter": 231,
+        "erfundene_zahlen": [],
+        "gedanken_im_text": [
+          "constraints:",
+          "the user wants",
+          "word count"
+        ],
         "maschen": [],
         "englisch": []
       }
     ],
-    "google/gemma-4-31b-it:free": [
+    "nvidia/nemotron-3-ultra-550b-a55b:free": [
       {
         "aufgabe": "gewichtsdecke",
-        "antwort": "Diese Premium Gewichtsdecke für das Schlafzimmer ist darauf ausgelegt, durch sanften Druck eine Tiefenentspannung zu fördern und das Schlafen zu verbessern. Das Produkt ist in der Farbe Blau erhältlich und wird in drei verschiedenen Varianten angeboten. Kunden können zwischen den Maßen 122 x 183 cm mit einem Gewicht von 5 kg sowie 135 x 200 cm oder 137 x 200 cm mit einem Gewicht von jeweils 10 kg wählen. Die Gewichtsdecke aus der Kategorie Bett ist zu einem Preis von 74,00 € erhältlich.",
-        "dauer": 4.3,
+        "antwort": "Die Premium Gewichtsdecke in Blau. Blau wird in drei Varianten angeboten: 122 mal 183 Zentimeter mit fünf Kilogramm sowie 135 mal 200 Zentimeter und 137 mal 200 Zentimeter, jeweils mit zehn Kilogramm. Die Decke gehört zur Kategorie Bett und ist den Themen Entspannung, Gewichtsdecke und Schlafzimmer zugeordnet. Der Preis beträgt 74,00 Euro. Der sanfte Druck der Decke unterstützt die Tiefenentspannung und kann das Einschlafen sowie die Schlafqualität verbessern.",
+        "dauer": 5.4,
         "kosten": 0,
-        "token": 353,
-        "woerter": 83,
+        "token": 484,
+        "woerter": 68,
         "erfundene_zahlen": [],
         "gedanken_im_text": [],
         "maschen": [],
@@ -56,15 +100,30 @@
       },
       {
         "aufgabe": "handtuecher",
-        "fehler": "HTTP 429",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"google/gemma-4-31b-it:free is temporarily rate-limited upstream. Please retry shortl",
-        "dauer": 0.1
+        "fehler": "IncompleteRead(1177 bytes read)",
+        "text": "",
+        "dauer": 45.1
       },
       {
         "aufgabe": "koerbe",
-        "fehler": "HTTP 429",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"google/gemma-4-31b-it:free is temporarily rate-limited upstream. Please retry shortl",
-        "dauer": 0.2
+        "antwort": "The user wants a product description for a German online shop for home accessories.\nConstraints:\n- Length: 60-90 words.\n- Only facts from the provided data. No invented specs (dimensions, weight, material, temp, percentages).\n- No scarcity, no strike-through prices, no reviews, no claims about other buyers.\n- Factual German continuous text (Fließtext), no bullet points, no headline.\n- Data provided: Title, Category (Bad), Keywords, Price, Variants (Beige / 28x28cm; Beige / 40x25cm).\n\nWait, the title says \"Kinderzimmer, Wohnzimmer & Schlafzimmer\" but the category is \"Bad\" (Bathroom). I must use the facts provided. The category is \"Bad\". The title mentions other rooms. I should probably mention the category or the usage scenarios from the title, but stick to facts. The title *is* a fact provided. The category *is* a fact provided. I will combine them carefully.\n\nVariants: Two sizes, both Beige. 28x28cm and 40x25cm. It's a 2er-Set (2-piece set). Price 39,00 €.\n\nDrafting text (German):\n\"Das Design Aufbewahrungskörbe im 2er-Set wird in der Kategorie Bad geführt und eignet sich für Kinderzimmer, Wohnzimmer und Schlafzimmer. Die beiden Körbe in Beige haben die Maße 28 mal 28 Zentimeter sowie 40 mal 25 Zentimeter. Sie dienen als Wohnaccessoire zur Ordnung. Der Preis für das Set beträgt 39,00 Euro.\"\n\nWord count check:\n\"Das Design Aufbewahrungskörbe im 2er-Set wird in der Kategorie Bad geführt und eignet sich für Kinderzimmer, Wohnzimmer und Schlafzimmer",
+        "dauer": 27.3,
+        "kosten": 0,
+        "token": 617,
+        "woerter": 227,
+        "erfundene_zahlen": [],
+        "gedanken_im_text": [
+          "constraints:",
+          "the user wants",
+          "word count"
+        ],
+        "maschen": [],
+        "englisch": [
+          "and",
+          "for",
+          "from",
+          "the"
+        ]
       }
     ],
     "google/gemma-4-26b-a4b-it:free": [
@@ -84,43 +143,25 @@
         "aufgabe": "handtuecher",
         "fehler": "HTTP 429",
         "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry sh",
+        "dauer": 0.1
+      },
+      {
+        "aufgabe": "handtuecher",
+        "fehler": "HTTP 429",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry sh",
         "dauer": 0.2
       },
       {
         "aufgabe": "koerbe",
-        "antwort": "Diese Design Aufbewahrungskörbe im 2er-Set dienen der stilvollen Ordnung in Ihrem Zuhause. Sie lassen sich vielseitig im Kinderzimmer, im Wohnzimmer, im Schlafzimmer oder im Bad als Wohnaccessoire einsetzen. Das Set umfasst zwei verschiedene Varianten in der Farbe Beige: Ein Korb hat die Maße 28 x 28 cm, während der andere eine Größe von 40 x 25 cm aufweist. Mit einem Preis von 39,00 € bieten diese Aufbewahrungskörbe eine praktische Lösung, um Ordnung in Ihren Wohnbereichen zu schaffen.",
-        "dauer": 8.5,
+        "antwort": "Dieses Design Aufbewahrungskörbe im 2er-Set bietet eine stilvolle Möglichkeit, für Ordnung in Ihrem Zuhause zu sorgen. Die Körbe können vielseitig im Kinderzimmer, Wohnzimmer, Schlafzimmer oder im Bad eingesetzt werden. Das Set umfasst zwei verschiedene Varianten in der Farbe Beige. Zur Auswahl stehen eine Größe von 28 x 28 cm sowie eine Größe von 40 x 25 cm. Als praktisches Wohnaccessoire lassen sich die Körbe flexibel zur Aufbewahrung nutzen. Der Preis für dieses Set beträgt 39,00 €.",
+        "dauer": 1.8,
         "kosten": 0,
-        "token": 341,
-        "woerter": 77,
+        "token": 334,
+        "woerter": 76,
         "erfundene_zahlen": [],
         "gedanken_im_text": [],
         "maschen": [],
         "englisch": []
-      }
-    ],
-    "inclusionai/ling-3.0-tiny:free": [
-      {
-        "aufgabe": "gewichtsdecke",
-        "antwort": "Diese Premium Gewichtsdecke bietet Tiefenentspannung durch einen sanften Druck, der den Körper entlastet und den besseren Schlaf unterstützt. Sie ist in eleganten Blautönen erhältlich und kommt dem oft unterschätzten Bedürfnis nach sanfter Überführung gerecht. Die gestaltete Decke lässt sich nahtlos in jedes Schlafzimmer integrieren und sorgt für ein rundheres Wohlbefinden nach dem Aufstehen. Mit einem klaren Preis von 74,00 € erhalten Sie ein",
-        "dauer": 2.0,
-        "kosten": 0,
-        "token": 673,
-        "woerter": 63,
-        "erfundene_zahlen": [],
-        "gedanken_im_text": [],
-        "maschen": [],
-        "englisch": []
-      },
-      {
-        "aufgabe": "handtuecher",
-        "fehler": "leere Antwort",
-        "dauer": 1.5
-      },
-      {
-        "aufgabe": "koerbe",
-        "fehler": "leere Antwort",
-        "dauer": 2.1
       }
     ]
   }
