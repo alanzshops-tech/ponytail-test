@@ -131,6 +131,33 @@ def main() -> None:
         z += ["## Unter 50 beim Tempo", ""]
         z += [f"- `{p}` — {v}" for p, v in sorted(schlecht, key=lambda x: x[1])]
         z.append("")
+    # Der erste Lauf zeigte auf 34 Seiten fast durchgehend dieselbe
+    # Praxis-Note. Gleiche Zahl überall heißt: eine gemeinsame Ursache,
+    # nicht 34 einzelne. Also die durchgefallenen Prüfpunkte zählen,
+    # statt bei der Note stehenzubleiben.
+    durchgefallen: dict[str, dict] = {}
+    for e in eintraege:
+        for schluessel in ("audits", "failedAudits", "auditResults"):
+            a = e.get(schluessel)
+            if not isinstance(a, dict):
+                continue
+            for aid, av in a.items():
+                if not isinstance(av, dict):
+                    continue
+                s = av.get("score")
+                if isinstance(s, (int, float)) and s < 0.9:
+                    d0 = durchgefallen.setdefault(
+                        aid, {"titel": av.get("title", aid), "seiten": 0})
+                    d0["seiten"] += 1
+    if durchgefallen:
+        z += ["## Prüfpunkte, die auf vielen Seiten durchfallen", "",
+              "| Prüfpunkt | betroffene Seiten |", "|---|---:|"]
+        for aid, v in sorted(durchgefallen.items(),
+                             key=lambda x: -x[1]["seiten"])[:20]:
+            z.append(f"| {v['titel']} (`{aid}`) | {v['seiten']} von "
+                     f"{len(eintraege)} |")
+        z.append("")
+
     z += ["Skala 0–100. Google nennt ab 90 gut, unter 50 schlecht. Der "
           "Wert schwankt zwischen Läufen um einige Punkte — belastbar ist "
           "der Trend über mehrere Wochen, nicht die einzelne Zahl.", ""]
