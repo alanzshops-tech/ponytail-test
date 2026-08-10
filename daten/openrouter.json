@@ -2840,15 +2840,42 @@
     "nvidia/nemotron-nano-9b-v2:free",
     "openai/gpt-oss-20b:free"
   ],
+  "modell_felder": [
+    "architecture",
+    "canonical_slug",
+    "context_length",
+    "created",
+    "default_parameters",
+    "description",
+    "expiration_date",
+    "hugging_face_id",
+    "id",
+    "knowledge_cutoff",
+    "links",
+    "name",
+    "per_request_limits",
+    "pricing",
+    "reasoning",
+    "supported_parameters",
+    "supported_voices",
+    "top_provider"
+  ],
+  "architektur_felder": [
+    "input_modalities",
+    "instruct_type",
+    "modality",
+    "output_modalities",
+    "tokenizer"
+  ],
   "guenstigstes": "inclusionai/ling-2.6-flash",
   "probe": {
     "modell": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "auswahl": "Gratisstufe, weil kein Guthaben vorhanden ist",
-    "antwort": "Hundesofas bieten Vierbeinern einen gemütlichen, eigenen Rückzugsort und schonen gleichzeitig die menschlichen Möbel.",
+    "antwort": "Hundesofas bieten deinem Vierbeiner einen eigenen, gemütlichen Rückzugsort und schonen gleichzeitig deine Möbel.",
     "verbrauch": {
       "prompt_tokens": 31,
-      "completion_tokens": 43,
-      "total_tokens": 74,
+      "completion_tokens": 42,
+      "total_tokens": 73,
       "cost": 0,
       "is_byok": false,
       "prompt_tokens_details": {
@@ -2863,7 +2890,7 @@
         "upstream_inference_completions_cost": 0
       },
       "completion_tokens_details": {
-        "reasoning_tokens": 16,
+        "reasoning_tokens": 17,
         "image_tokens": 0,
         "audio_tokens": 0
       }
@@ -2871,8 +2898,8 @@
     "versuche": [
       {
         "modell": "google/lyria-3-pro-preview",
-        "fehler": "HTTP 502",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 500,\\n    \\\"message\\\": \\\"Internal error encountered.\\\",\\n    \\\"status\\\": \\\"INTERNAL\\\"\\n  }\\"
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Request contains an invalid argument.\\\",\\n    \\\"status\\\": \\\"INVALI"
       },
       {
         "modell": "google/lyria-3-clip-preview",
