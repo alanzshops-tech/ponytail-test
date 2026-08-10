@@ -125,6 +125,58 @@ def main() -> int:
         print("OK      Geheimnisfilter: label, Konto-ID und unbekannte "
               "Felder bleiben draussen")
 
+    # Modellwahl fuer den Rundlauf. Der Schluessel vom 10.08.2026 hatte
+    # null Guthaben; die urspruengliche Wahl nahm trotzdem das guenstigste
+    # BEZAHLTE Modell und waere zuverlaessig an HTTP 402 gescheitert --
+    # was wie ein kaputter Zugang ausgesehen haette.
+    v = fehler
+    liste = [
+        {"id": "teuer/gross", "context_length": 200000,
+         "pricing": {"prompt": "0.000015", "completion": "0.000075"}},
+        {"id": "billig/klein", "context_length": 32000,
+         "pricing": {"prompt": "0.00000005", "completion": "0.0000002"}},
+        {"id": "gratis/gross", "context_length": 128000,
+         "pricing": {"prompt": "0", "completion": "0"}},
+        {"id": "gratis/winzig", "context_length": 4096,
+         "pricing": {"prompt": "0", "completion": "0"}},
+    ]
+    mit = o.anwaerter(liste, guthaben=True)
+    if not mit or mit[0] != "billig/klein":
+        print(f"FEHLER  mit Guthaben nicht das billigste bezahlte: {mit}")
+        fehler += 1
+    if "gratis/gross" in mit:
+        print("FEHLER  mit Guthaben ein Gratismodell vorgeschlagen"); fehler += 1
+
+    ohne = o.anwaerter(liste, guthaben=False)
+    if [x for x in ohne if x.startswith(("teuer/", "billig/"))]:
+        print(f"FEHLER  ohne Guthaben ein bezahltes Modell vorgeschlagen: {ohne}")
+        fehler += 1
+    if ohne[:1] != ["gratis/gross"]:
+        print(f"FEHLER  ohne Guthaben nicht das groesste Gratismodell zuerst: {ohne}")
+        fehler += 1
+    # Mehrere Anwaerter, sonst haengt das Ergebnis an einem gedrosselten
+    # fremden Server.
+    if len(ohne) < 2:
+        print("FEHLER  nur ein Anwaerter ohne Guthaben"); fehler += 1
+    if o.anwaerter([], guthaben=False) != []:
+        print("FEHLER  leere Modelliste nicht abgefangen"); fehler += 1
+    if fehler == v:
+        print("OK      Modellwahl: mit Guthaben bezahlt, ohne Guthaben gratis, "
+              "mehrere Anwaerter")
+
+    # Fehlversuche muessen auch bei Erfolg im Bericht stehen.
+    v = fehler
+    b3 = o.bericht({"stand": "x", "modelle": [], "probe": {
+        "modell": "gratis/gross", "auswahl": "Gratisstufe",
+        "antwort": "Ein Satz.", "verbrauch": {"total_tokens": 9},
+        "versuche": [{"modell": "gratis/winzig", "fehler": "HTTP 429",
+                      "text": "rate limited"}]}})
+    for muss in ("Davor abgelehnt", "gratis/winzig", "HTTP 429", "Ein Satz."):
+        if muss not in b3:
+            print(f"FEHLER  Fehlversuche fehlen im Bericht: '{muss}'"); fehler += 1
+    if fehler == v:
+        print("OK      Fehlversuche stehen auch bei Erfolg im Bericht")
+
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
 

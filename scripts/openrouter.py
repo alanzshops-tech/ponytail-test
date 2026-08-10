@@ -113,11 +113,32 @@ def preis(m: dict) -> tuple[float, float]:
 
 
 def guenstigstes(modelle: list[dict]) -> dict | None:
-    """Das billigste Modell, das ueberhaupt etwas kostet -- ein kostenloses
-    waere fuer einen Verbindungstest zwar schoen, ist aber oft ueberlastet
-    und beweist dann nichts."""
+    """Das billigste Modell, das ueberhaupt etwas kostet."""
     mit = [(sum(preis(m)), m) for m in modelle if sum(preis(m)) > 0]
     return min(mit, key=lambda x: x[0])[1] if mit else None
+
+
+def anwaerter(modelle: list[dict], guthaben: bool, anzahl: int = 5) -> list[str]:
+    """Modelle fuer den Rundlauf, in der Reihenfolge des Versuchs.
+
+    Mit Guthaben das billigste bezahlte -- verlaesslich und fast umsonst.
+    Ohne Guthaben bleibt nur die Gratisstufe: bezahlte Modelle antworten
+    dann mit HTTP 402, und ein Fehlschlag saehe aus wie ein kaputter
+    Zugang, obwohl nur das Konto leer ist.
+
+    Mehrere Anwaerter, weil kostenlose Modelle gedrosselt sind. Ein
+    einzelner Fehlschlag wuerde sonst dem Zugang angelastet, statt der
+    Ueberlastung eines fremden Servers.
+    """
+    if guthaben:
+        bezahlt = sorted((m for m in modelle if sum(preis(m)) > 0),
+                         key=lambda m: sum(preis(m)))
+        return [m.get("id") for m in bezahlt[:anzahl] if m.get("id")]
+    frei = [m for m in modelle if sum(preis(m)) == 0]
+    # Grosse Kontextfenster deuten auf ernsthafte Modelle; Bild- und
+    # Tonmodelle koennen mit einer Textfrage nichts anfangen.
+    frei.sort(key=lambda m: -(m.get("context_length") or 0))
+    return [m.get("id") for m in frei[:anzahl] if m.get("id")]
 
 
 def pruefen() -> dict:
@@ -152,29 +173,52 @@ def fragen(text: str, modell: str | None = None) -> dict:
     """Ein echter Rundlauf. Ohne den ist „Zugang funktioniert" nur eine
     Behauptung ueber /key -- lesen darf ein Schluessel oft auch dann, wenn
     das Guthaben fuer eine Antwort nicht reicht."""
-    if not modell:
+    if modell:
+        kandidaten, hinweis = [modell], "von Hand gewaehlt"
+    else:
         m = rufen("/models")
         liste = m.get("data") if isinstance(m, dict) else None
         if not isinstance(liste, list):
             return {"fehler": "Modelliste nicht lesbar", "roh": m}
-        g = guenstigstes(liste)
-        if not g:
-            return {"fehler": "Kein Modell mit Preis gefunden"}
-        modell = g.get("id")
-    print(f"Modell: {modell}")
-    a = rufen("/chat/completions", {
-        "model": modell,
-        "messages": [{"role": "user", "content": text}],
-        "max_tokens": 200,
-    })
-    if "fehler" in a:
-        return {"modell": modell, **a}
-    wahl = (a.get("choices") or [{}])[0]
-    return {
-        "modell": modell,
-        "antwort": ((wahl.get("message") or {}).get("content") or "").strip(),
-        "verbrauch": a.get("usage"),
-    }
+        g = rufen("/credits")
+        gd = g.get("data") if isinstance(g, dict) else None
+        offen = 0.0
+        if isinstance(gd, dict):
+            try:
+                offen = float(gd.get("total_credits") or 0) \
+                        - float(gd.get("total_usage") or 0)
+            except (TypeError, ValueError):
+                offen = 0.0
+        kandidaten = anwaerter(liste, offen > 0)
+        hinweis = ("guenstigste bezahlte" if offen > 0
+                   else "Gratisstufe, weil kein Guthaben vorhanden ist")
+        if not kandidaten:
+            return {"fehler": "Kein brauchbares Modell in der Liste"}
+
+    versuche = []
+    for kandidat in kandidaten:
+        print(f"Versuch: {kandidat}")
+        a = rufen("/chat/completions", {
+            "model": kandidat,
+            "messages": [{"role": "user", "content": text}],
+            "max_tokens": 200,
+        })
+        if "fehler" in a:
+            versuche.append({"modell": kandidat, "fehler": a["fehler"],
+                             "text": a.get("text", "")[:200]})
+            continue
+        wahl = (a.get("choices") or [{}])[0]
+        inhalt = ((wahl.get("message") or {}).get("content") or "").strip()
+        if not inhalt:
+            # Eine leere Antwort ist kein Beweis. Schon zweimal in diesem
+            # Projekt hat ein leeres Ergebnis als „kein Problem" gegolten.
+            versuche.append({"modell": kandidat, "fehler": "leere Antwort"})
+            continue
+        return {"modell": kandidat, "auswahl": hinweis, "antwort": inhalt,
+                "verbrauch": a.get("usage"), "versuche": versuche}
+
+    return {"fehler": f"Alle {len(kandidaten)} Modelle abgelehnt",
+            "auswahl": hinweis, "versuche": versuche}
 
 
 def bericht(d: dict) -> str:
@@ -243,12 +287,23 @@ def bericht(d: dict) -> str:
             z += [f"**Fehlgeschlagen: {p['fehler']}**", "",
                   "```", str(p.get("text") or p.get("roh") or "")[:500], "```", ""]
         else:
-            z += [f"Modell `{p.get('modell')}`, Verbrauch "
-                  f"`{p.get('verbrauch')}`.", "", "```", p.get("antwort", ""),
-                  "```", "",
+            z += [f"Modell `{p.get('modell')}` ({p.get('auswahl', '')}), "
+                  f"Verbrauch `{p.get('verbrauch')}`.", "",
+                  "```", p.get("antwort", ""), "```", "",
                   "Erst das beweist den Zugang. `/key` zu lesen gelingt auch",
                   "einem Schlüssel, dessen Guthaben für keine Antwort reicht.",
                   ""]
+        # Auch bei Erfolg: die Fehlversuche davor gehören in den Bericht.
+        # „Hat geantwortet" und „hat beim ersten Versuch geantwortet" sind
+        # zwei verschiedene Aussagen über die Verlässlichkeit.
+        v = p.get("versuche") or []
+        if v:
+            z += [f"Davor abgelehnt ({len(v)}):", "",
+                  "| Modell | Grund |", "|---|---|"]
+            for x in v:
+                z.append(f"| `{x.get('modell')}` | {x.get('fehler')} "
+                         f"{(x.get('text') or '')[:80]} |")
+            z.append("")
     return "\n".join(z) + "\n"
 
 

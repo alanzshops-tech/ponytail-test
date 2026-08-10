@@ -55,7 +55,11 @@ jobs:
           # Das Secret heißt OPEN_ROUTER, das Skript liest die übliche
           # Variable OPENROUTER_API_KEY. Umgehängt wird genau hier.
           OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER }}
-          FRAGE: ${{ inputs.frage }}
+          # Der Rückfall ist wichtig: bei einem Push gibt es keine
+          # `inputs`, das Feld wäre leer und der Lauf hätte nur den
+          # Schlüssel gelesen. Genau so lief der erste Versuch am
+          # 10.08.2026 — grün, aber ohne echten Rundlauf.
+          FRAGE: ${{ inputs.frage || 'Antworte mit genau einem kurzen deutschen Satz über Hundesofas.' }}
           MODELL: ${{ inputs.modell }}
         run: |
           # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
