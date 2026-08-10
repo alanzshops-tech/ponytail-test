@@ -32,6 +32,19 @@ from pathlib import Path
 
 SHOP = "https://www.homeeins.de"
 
+# Wird von --theme gesetzt. Leer heißt: gegen das veröffentlichte Theme.
+VORSCHAU = ""
+
+
+def url(pfad: str) -> str:
+    """Hängt die Vorschau-Kennung an, falls eine gesetzt ist. Ohne sie
+    misst der Test das Live-Theme und nicht das, was geprüft werden
+    soll — ein Fehler, der leicht unbemerkt bleibt."""
+    if not VORSCHAU:
+        return SHOP + pfad
+    trenn = "&" if "?" in pfad else "?"
+    return f"{SHOP}{pfad}{trenn}preview_theme_id={VORSCHAU}"
+
 # Produkte für die Probe. Eines aus dem Bestand, eines von den beiden,
 # die ich selbst angelegt habe — bei denen hatte ich schon einmal
 # unverkäufliche Varianten übersehen.
@@ -220,8 +233,15 @@ def produkt_probe(browser, pfad: str, marke: str, bilder: Path) -> dict:
     ctx = browser.new_context(locale="de-DE", **GERAETE["mobil"])
     seite = ctx.new_page()
     p: dict = {"pfad": pfad, "herkunft": marke}
+    konsole: list[str] = []
+    seite.on("console", lambda m: konsole.append(f"{m.type}: {m.text[:150]}")
+             if m.type in ("error", "warning") else None)
+    seite.on("pageerror", lambda e: konsole.append(f"pageerror: {str(e)[:150]}"))
+    fehl: list[str] = []
+    seite.on("response", lambda r: fehl.append(f"{r.status} {r.url[:100]}")
+             if r.status >= 400 else None)
     try:
-        antwort = seite.goto(SHOP + pfad, wait_until="load", timeout=60000)
+        antwort = seite.goto(url(pfad), wait_until="load", timeout=60000)
         p["status"] = antwort.status if antwort else 0
         seite.wait_for_timeout(2500)
         text = seite.inner_text("body")
@@ -235,7 +255,7 @@ def produkt_probe(browser, pfad: str, marke: str, bilder: Path) -> dict:
         p["geklickt"], p["knopf"] = in_den_korb(seite)
         p["korb_nach_klick"] = korb_inhalt(seite)
 
-        seite.goto(SHOP + "/cart", wait_until="load", timeout=60000)
+        seite.goto(url("/cart"), wait_until="load", timeout=60000)
         seite.wait_for_timeout(2000)
         p["bild_warenkorb"] = str(bilder / f"kauf-2-korb-{marke}.jpg")
         foto(seite, bilder / f"kauf-2-korb-{marke}.jpg")
@@ -244,6 +264,10 @@ def produkt_probe(browser, pfad: str, marke: str, bilder: Path) -> dict:
         p["kasse_knopf"] = seite.locator(
             "button[name='checkout'], input[name='checkout'], "
             "a[href*='/checkout']").count()
+        p["konsole"] = list(dict.fromkeys(konsole))[:12]
+        p["fehlende_dateien"] = [f for f in dict.fromkeys(fehl)
+                                 if ".liquid" in f or ".js" in f
+                                 or ".css" in f][:8]
     except Exception as e:                                       # noqa: BLE001
         p["fehler"] = str(e)[:250]
     ctx.close()
@@ -257,12 +281,12 @@ def kasse_probe(browser, pfad: str, bilder: Path) -> dict:
     seite = ctx.new_page()
     k: dict = {}
     try:
-        seite.goto(SHOP + pfad, wait_until="load", timeout=60000)
+        seite.goto(url(pfad), wait_until="load", timeout=60000)
         seite.wait_for_timeout(2000)
         in_den_korb(seite)
         k["korb"] = korb_inhalt(seite)
 
-        antwort = seite.goto(SHOP + "/checkout", wait_until="load",
+        antwort = seite.goto(SHOP + "/checkout", wait_until="load",  # Kasse ist nie themebasiert
                              timeout=60000)
         k["status"] = antwort.status if antwort else 0
         k["url"] = seite.url
@@ -398,7 +422,14 @@ def bericht(d: dict) -> str:
               f"- Warenkorb danach: **{korb.get('anzahl', '?')} Artikel**, "
               f"{(korb.get('summe') or 0) / 100:.2f} {korb.get('waehrung', '')}",
               f"- Posten: {', '.join(korb.get('posten', [])) or '–'}",
-              f"- Kasse-Knopf im Warenkorb: {p.get('kasse_knopf', 0)}", ""]
+              f"- Kasse-Knopf im Warenkorb: {p.get('kasse_knopf', 0)}",
+              f"- Fehlende Dateien (404): "
+              f"{', '.join(p.get('fehlende_dateien') or []) or 'keine'}",
+              f"- Konsole: {len(p.get('konsole') or [])} Meldungen", ""]
+        for k in (p.get("konsole") or []):
+            z.append(f"    - `{k}`")
+        if p.get("konsole"):
+            z.append("")
 
     k = d["kasse"]
     z += ["### Die Kasse", ""]
@@ -433,8 +464,13 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--theme", required=True, help="ID der Theme-Kopie")
     ap.add_argument("--bilder", default="bilder")
+    ap.add_argument("--vorschau", default="",
+                    help="Theme-ID; Produkt- und Warenkorbseite werden "
+                         "dann in der Vorschau dieses Themes geprüft")
     a = ap.parse_args()
 
+    global VORSCHAU
+    VORSCHAU = a.vorschau
     from playwright.sync_api import sync_playwright
     bilder = Path(a.bilder)
     d = {"stand": datetime.now(timezone.utc).isoformat(timespec="seconds")}

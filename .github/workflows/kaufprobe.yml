@@ -11,9 +11,13 @@ on:
   workflow_dispatch:
     inputs:
       theme:
-        description: "ID der Theme-Kopie für die Vorschau"
+        description: "ID der Theme-Kopie für die Sichtprüfung der Startseite"
         required: true
         default: "182664626499"
+      vorschau:
+        description: "Theme-ID für den Kaufweg; leer = veröffentlichtes Theme"
+        type: string
+        default: ""
   push:
     branches: ["claude/**"]
     paths:
@@ -41,7 +45,8 @@ jobs:
       - name: Probe laufen lassen
         env:
           THEME: ${{ inputs.theme || '182664626499' }}
-        run: python3 scripts/kaufprobe.py --theme "$THEME"
+          VORSCHAU: ${{ inputs.vorschau }}
+        run: python3 scripts/kaufprobe.py --theme "$THEME" --vorschau "$VORSCHAU"
 
       - name: Bericht in die Zusammenfassung
         if: always()
