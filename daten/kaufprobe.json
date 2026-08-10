@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T15:04:50+00:00",
+  "stand": "2026-08-10T19:33:33+00:00",
   "vorschau": {
     "url": "https://www.homeeins.de/?preview_theme_id=182664790339",
     "theme_id": "182664790339",
@@ -8,7 +8,7 @@
     "mobil_hoehe": 4215,
     "mobil_querscroll": false,
     "mobil_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=647dae1c-2726-4a7f-ab5b-03a9b8425d24&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=4bcb81fc-6a99-4a70-85e7-6dacd86152e6&target_origin=https%3A%2F%2Fw"
     ],
     "gefundene_faelschungen": [],
     "bilder_kaputt": [],
@@ -37,7 +37,7 @@
     "desktop_hoehe": 4047,
     "desktop_querscroll": false,
     "desktop_fehlerhafte_anfragen": [
-      "403 https://shop.app/pay/hop?analytics_trace_id=433f9d97-861a-4e30-85bf-592f81b2e8cf&target_origin=https%3A%2F%2Fw"
+      "403 https://shop.app/pay/hop?analytics_trace_id=c6ae82fd-f18d-4510-86b5-d18c0fdb8616&target_origin=https%3A%2F%2Fw"
     ]
   },
   "produkte": [
@@ -66,7 +66,9 @@
         "error: Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.c",
         "error: Failed to load resource: the server responded with a status of 403 ()",
         "error: Error producing monorail event MonorailRequestError: Error completing request. A network failure may have prevented the request from completing. Error",
-        "error: TypeError: Cannot read properties of null (reading 'flags')\n    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c"
+        "error: TypeError: Cannot read properties of null (reading 'flags')\n    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c",
+        "error: TypeError: Cannot read properties of null (reading 'cart-notification-product')\n    at https://www.homeeins.de/cdn/shop/t/22/assets/cart-notification.",
+        "pageerror: Cannot read properties of null (reading 'cart-notification-product')"
       ],
       "fehlende_dateien": []
     },
@@ -110,7 +112,7 @@
       ]
     },
     "status": 200,
-    "url": "https://www.homeeins.de/checkouts/cn/hWNFUu3cKmF4sIecWWWBnjPO/de-us?_r=AQABroI02hguaOKEQAMNYFmxu9p0V5TzOUXi8mXlxQbK&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=2dgiYmMotR7jUOG3LwUPIv3Jf13VhKsMkTTNWZBwKhDIMQvEkOFOp6IlKJynGLS3Gg-9SZGnABI991Pw4Q1HQ-Xh6ULa2N4efldfnA6V0otWKoBZGr4KceQy0dQqxNu-TiDYYel0xOwQQ6ExzMkjwUcA7s9RTskxVK6IdwdexpP6-cUfnVMPiCwCQzlsah3BDVj42rQZPHPjokMD4pa4QB8",
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFVLHjDSDTbAa6uWpLCBcI/de-us?_r=AQABQsaLb2olQ72r1uuWj5uCPjMH1hUxtL2PeuxUDRO0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=KBHtbKpe_gNlaE8dy18stlc8hiY4GtxuoHFo4oYGh-vKtSI88RmI20d5sxrxNT00PZEPsE1SRk6WD6stivX_H6kTOqwK0-BqlcQYpu62hi25RzklRzxyWt8TnY7HEK3fiYpq87JGfZs6uC1WUHsthOcVnhBNsCkXD7AKP-p9nD6n1idKpKaPbPabh5v3XlaKpjf6HTYW0KCqYsrAIALkrQ",
     "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
     "zahlarten_vor_adresse": [
       "PayPal",
