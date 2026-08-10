@@ -1,0 +1,83 @@
+name: Gesamtscan
+
+# Unlighthouse (MIT) laesst Google Lighthouse ueber den ganzen Shop
+# laufen, nicht nur ueber sechs handverlesene Seiten. Gleichartige Seiten
+# werden zu Mustern zusammengefasst — es prueft also eine Stichprobe je
+# Seitentyp statt 146 Produktseiten einzeln.
+on:
+  workflow_dispatch:
+    inputs:
+      site:
+        description: "Adresse (live oder Sandbox-Vorschau)"
+        type: string
+        default: "https://www.homeeins.de"
+      budget:
+        description: "Mindestpunktzahl, unter der der Lauf rot wird (1-100)"
+        type: string
+        default: "50"
+  schedule:
+    - cron: "0 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  scannen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Unlighthouse einrichten
+        run: |
+          npm install --no-save --silent @unlighthouse/cli puppeteer
+          npx unlighthouse-ci --version
+
+      # --mobile, weil dort die Mehrheit ankommt und die Schwaechen
+      # sichtbarer sind. --throttle simuliert Mobilfunk statt Glasfaser.
+      # Die dynamische Stichprobe ist Voreinstellung und bleibt an.
+      - name: Scannen
+        continue-on-error: true
+        env:
+          SITE: ${{ inputs.site || 'https://www.homeeins.de' }}
+          BUDGET: ${{ inputs.budget || '50' }}
+        run: |
+          npx unlighthouse-ci \
+            --site "$SITE" \
+            --mobile \
+            --throttle \
+            --samples 1 \
+            --budget "$BUDGET" \
+            --reporter jsonExpanded \
+            --output-path .unlighthouse || echo "Budget verfehlt oder Fehler"
+          echo "--- erzeugte Dateien ---"
+          find .unlighthouse -maxdepth 2 -name '*.json' -printf '%p %s\n' || true
+
+      - name: Auswerten
+        if: always()
+        run: python3 scripts/gesamtscan.py --ordner .unlighthouse
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f GESAMTSCAN.md ] && cat GESAMTSCAN.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add GESAMTSCAN.md 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Gesamtscan vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((v * 5))
+          done
+          exit 1
