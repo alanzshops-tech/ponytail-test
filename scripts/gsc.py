@@ -10,6 +10,7 @@ Was abgefragt wird:
   - Tagesverlauf (Klicks, Impressionen, CTR, Position)
   - Suchanfragen mit Position und CTR
   - Seiten
+  - Seite + Anfrage zusammen (welche Anfrage gehört zu welcher Seite)
   - Geräte
 
 Die interessante Auswertung ist nicht die Top-Liste, sondern:
@@ -162,6 +163,61 @@ def veraenderung(jetzt: float, vorher: float) -> str:
 MIN_IMPR = 5   # Schwelle, ab der eine Zeile als belastbar gilt
 
 
+def anfragen_je_seite(d: dict, seiten: list[dict]) -> list[str]:
+    """Welche Suchanfrage gehoert zu welcher Seite.
+
+    Ohne diese Zuordnung laesst sich ein Snippet nur raten: man sieht,
+    dass eine Seite auf Position 2 steht und null Klicks bekommt, aber
+    nicht, worauf sie steht. Title und Description muessen zur Anfrage
+    passen, nicht zum Produkt.
+
+    Der Bezugsrahmen ist hier besonders wichtig. Die Kombination
+    page+query verliert alle anonymisierten Anfragen -- eine Seite mit 28
+    Impressionen kann in dieser Abfrage mit 4 auftauchen. Deshalb steht
+    bei jeder Seite, wieviel von ihren Impressionen ueberhaupt sichtbar
+    ist. Und deshalb wird "keine Anfrage sichtbar" ausdruecklich als
+    Ergebnis ausgewiesen und nicht stillschweigend uebersprungen: es ist
+    ein anderer Befund als "keine Daten geholt".
+    """
+    if "seiten_anfragen" not in d:
+        return []                    # aeltere Datei, Abfrage gab es noch nicht
+    if not seiten:
+        return []
+
+    nach_seite: dict[str, list[dict]] = {}
+    for r in d["seiten_anfragen"]:
+        nach_seite.setdefault(r["page"], []).append(r)
+
+    z = ["## Wonach diese Seiten gefunden werden", "",
+         "Ohne die Anfrage ist jede Snippet-Änderung geraten. "
+         "Die Kombination Seite+Anfrage zeigt nur die nicht anonymisierten "
+         "Anfragen — die Spalte „sichtbar“ sagt, auf wieviel der "
+         "Impressionen sich die Zeilen darunter überhaupt stützen.", ""]
+
+    for p in sorted(seiten, key=lambda x: -x["impressionen"]):
+        treffer = sorted(nach_seite.get(p["page"], []),
+                         key=lambda x: -x["impressionen"])
+        sichtbar = sum(t["impressionen"] for t in treffer)
+        anteil = round(sichtbar / p["impressionen"] * 100) if p["impressionen"] else 0
+        z.append(f"### {p['page']}")
+        z.append("")
+        z.append(f"Position {p['position']}, {p['impressionen']} Impressionen, "
+                 f"0 Klicks. Über Anfragen sichtbar: {sichtbar} ({anteil} %).")
+        z.append("")
+        if treffer:
+            z.append("| Anfrage | Impressionen | Position |")
+            z.append("|---|---:|---:|")
+            for t in treffer[:10]:
+                z.append(f"| {t['query']} | {t['impressionen']} "
+                         f"| {t['position']} |")
+        else:
+            z.append("Keine einzige Anfrage sichtbar — alle Impressionen "
+                     "dieser Seite sind anonymisiert. Für diese Seite lässt "
+                     "sich das Snippet **nicht** datengestützt schreiben.")
+        z.append("")
+    return z
+
+
 def bericht(d: dict) -> str:
     a, b = d["aktuell"], d["vorher"]
     q_impr = sum(q["impressionen"] for q in d["anfragen"])
@@ -216,6 +272,7 @@ def bericht(d: dict) -> str:
         z.append(f"Keine Seite mit mindestens {MIN_IMPR} Impressionen steht "
                  f"unter Position 5.")
     z.append("")
+    z += anfragen_je_seite(d, ungenutzt)
 
     chancen = [q for q in d["anfragen"]
                if 5 <= q["position"] <= 20 and q["impressionen"] >= MIN_IMPR]
@@ -316,6 +373,11 @@ def main() -> None:
 
     anfragen = abfragen(api, a.property, start, ende, ["query"])
     seiten = abfragen(api, a.property, start, ende, ["page"])
+    # Die Kombination beantwortet die einzige Frage, die zaehlt, wenn ein
+    # Snippet umgeschrieben werden soll: worauf steht diese Seite? Ein
+    # hoeheres Limit als sonst, weil jede Seite mehrere Anfragen hat.
+    seiten_anfragen = abfragen(api, a.property, start, ende,
+                               ["page", "query"], limit=2500)
     geraete = abfragen(api, a.property, start, ende, ["device"])
     verlauf = abfragen(api, a.property, start, ende, ["date"], limit=100)
     v_anfragen = abfragen(api, a.property, v_start, v_ende, ["query"])
@@ -325,6 +387,7 @@ def main() -> None:
         "start": str(start), "ende": str(ende),
         "aktuell": summe(anfragen), "vorher": summe(v_anfragen),
         "anfragen": anfragen, "seiten": seiten,
+        "seiten_anfragen": seiten_anfragen,
         "geraete": geraete, "verlauf": verlauf,
     }
 
@@ -336,9 +399,13 @@ def main() -> None:
     Path("GSC.md").write_text(bericht(daten), encoding="utf-8")
 
     s = daten["aktuell"]
-    print(f"{len(anfragen)} Anfragen, {len(seiten)} Seiten. "
+    print(f"{len(anfragen)} Anfragen, {len(seiten)} Seiten, "
+          f"{len(seiten_anfragen)} Seite+Anfrage-Paare. "
           f"{s['klicks']} Klicks, {s['impressionen']} Impressionen, "
           f"Ø Position {s['position']}")
+    if len(seiten_anfragen) >= 2500:
+        print("WARNUNG: Zeilenlimit erreicht, die Zuordnung ist "
+              "unvollstaendig. Limit erhoehen.")
 
 
 if __name__ == "__main__":
