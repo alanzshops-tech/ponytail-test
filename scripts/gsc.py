@@ -203,6 +203,14 @@ def anfragen_je_seite(d: dict, seiten: list[dict]) -> list[str]:
         z.append("")
         z.append(f"Position {p['position']}, {p['impressionen']} Impressionen, "
                  f"0 Klicks. Über Anfragen sichtbar: {sichtbar} ({anteil} %).")
+        if "/en/" in p["page"] or p["page"].rstrip("/").endswith("/en"):
+            z.append("")
+            z.append("> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 "
+                     "antwortet `/en/` mit 404 oder leitet auf die deutsche "
+                     "Seite um — hier ist **nichts zu optimieren**. Steht "
+                     "diese Zeile in einem Bericht, dessen Zeitraum vor dem "
+                     "09.08.2026 endet, beschreibt sie einen bereits "
+                     "behobenen Zustand.")
         z.append("")
         if treffer:
             z.append("| Anfrage | Impressionen | Position |")

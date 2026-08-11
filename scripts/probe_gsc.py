@@ -56,4 +56,28 @@ assert anfragen_je_seite({"seiten": []}, [SICHTBAR]) == [], "Altbestand"
 # Keine Null-Klick-Seite -> nichts zu berichten.
 assert anfragen_je_seite(DATEN, []) == [], "leere Seitenliste"
 
-print("Positivfall, Negativfall, Trennung und Altbestand bestanden.")
+# Abgeschaltete Sprachfassung: /en/-Seiten muessen als solche markiert
+# sein. Ohne diese Zeile liest sich eine /en/-Seite auf Position 3 wie
+# eine Chance -- am 11.08.2026 habe ich genau das getan und einen
+# Zustand analysiert, der zwei Tage vorher behoben worden war.
+STUMM_EN = {"page": "https://www.homeeins.de/en/collections/gartenmobel",
+            "position": 3.0, "impressionen": 5, "klicks": 0}
+en_text = "\n".join(anfragen_je_seite(DATEN, [STUMM_EN]))
+assert "Abgeschaltete Sprachfassung" in en_text, "/en/ nicht markiert"
+
+# Negativfall dazu: eine deutsche Seite darf die Markierung NICHT
+# bekommen. Ein Selektor auf "/en/" faengt sonst auch /collections/en...
+DE_MIT_EN = {"page": "https://www.homeeins.de/collections/entspannung",
+             "position": 2.0, "impressionen": 9, "klicks": 0}
+de_text = "\n".join(anfragen_je_seite(DATEN, [DE_MIT_EN]))
+assert "Abgeschaltete Sprachfassung" not in de_text, \
+    "deutsche Seite faelschlich als /en/ markiert"
+
+# Und die Startseite der Sprachfassung, die ohne Schraegstrich endet.
+STARTSEITE_EN = {"page": "https://www.homeeins.de/en", "position": 3.7,
+                 "impressionen": 6, "klicks": 0}
+assert "Abgeschaltete Sprachfassung" in "\n".join(
+    anfragen_je_seite(DATEN, [STARTSEITE_EN])), "/en ohne Schraegstrich"
+
+print("Positivfall, Negativfall, Trennung, Altbestand und "
+      "Sprachfassungs-Markierung bestanden.")

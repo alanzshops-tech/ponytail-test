@@ -46,6 +46,8 @@ Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisi
 
 Position 1.0, 24 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
 
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
+
 Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
 
 ### https://www.homeeins.de/collections/mobel-1
@@ -57,6 +59,8 @@ Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisi
 ### https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet?variant=54073054298435&country=AT&currency=EUR
 
 Position 1.1, 8 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
 
 Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
 
@@ -75,6 +79,8 @@ Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisi
 ### https://www.homeeins.de/en/collections/gartenmobel
 
 Position 3, 5 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
 
 Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
 
