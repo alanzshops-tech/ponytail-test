@@ -1,15 +1,15 @@
 # Google Search Console — homeeins
 
-Zeitraum: 2026-07-12 bis 2026-08-08 (28 Tage) · Vergleich mit den 28 Tagen davor
+Zeitraum: 2026-07-13 bis 2026-08-09 (28 Tage) · Vergleich mit den 28 Tagen davor
 
 | | Aktuell | Vorher | Veränderung |
 |---|---:|---:|---:|
 | Klicks | 0 | 0 | – |
-| Impressionen | 54 | 82 | -34 % |
+| Impressionen | 52 | 84 | -38 % |
 | CTR | 0.0 % | 0.0 % | |
-| Ø Position | 50.0 | 55.5 | |
+| Ø Position | 49.6 | 55.6 | |
 
-> **170 von 224 Impressionen sind anonymisiert.** Über Suchanfragen sichtbar: 54. Über Seiten sichtbar: 224. Die Kennzahlen oben stammen aus der Anfragen-Dimension und zeigen daher nur den sichtbaren Rest — die Durchschnittsposition ist dadurch schlechter, als die Domain tatsächlich steht.
+> **167 von 219 Impressionen sind anonymisiert.** Über Suchanfragen sichtbar: 52. Über Seiten sichtbar: 219. Die Kennzahlen oben stammen aus der Anfragen-Dimension und zeigen daher nur den sichtbaren Rest — die Durchschnittsposition ist dadurch schlechter, als die Domain tatsächlich steht.
 
 ## Seiten auf Position 1–5
 
@@ -96,15 +96,13 @@ Unterhalb der Schwelle, mit weniger als 5 Impressionen: luxus hundesofa (15), pf
 |---|---:|---:|---:|
 | tierwagen | 7 | 0 | 49.4 |
 | möbel eins | 6 | 0 | 49.5 |
-| couchtisch hochglanz schwarz | 4 | 0 | 56 |
 | bad organizer holz | 3 | 0 | 48.3 |
+| couchtisch hochglanz schwarz | 3 | 0 | 56 |
 | hundesofa luxus | 3 | 0 | 57 |
-| tischkicker klappbar | 3 | 0 | 60.7 |
 | couchtisch schwarz hochglanz | 2 | 0 | 44.5 |
 | kicker klappbar | 2 | 0 | 46.5 |
 | möbel-eins unterneukirchen | 2 | 0 | 50 |
 | pflanzkübel industrial | 2 | 0 | 16.5 |
-| tischkicker klappbar kaufen | 2 | 0 | 51.5 |
 | bürostuhl mit fussablage | 1 | 0 | 63 |
 | cortenstahl baum | 1 | 0 | 78 |
 | dartscheibe garten | 1 | 0 | 48 |
@@ -115,10 +113,12 @@ Unterhalb der Schwelle, mit weniger als 5 Impressionen: luxus hundesofa (15), pf
 | klappbarer tischkicker | 1 | 0 | 52 |
 | luxus hundesofa | 1 | 0 | 15 |
 | moebel-eins | 1 | 0 | 46 |
+| möbel eins unterneukirchen | 1 | 0 | 52 |
 | möbel-eins online shop | 1 | 0 | 45 |
 | rattanliege xxl | 1 | 0 | 36 |
 | rollbrett action | 1 | 0 | 48 |
 | schreibtisch organiser holz | 1 | 0 | 49 |
+| schwerlast rollbrett | 1 | 0 | 52 |
 
 ## Weiter hinten, ohne Klicks
 
@@ -127,12 +127,11 @@ Werden gefunden, aber nicht angeklickt — hier vermutlich schlicht wegen der Po
 | Seite | Impressionen | Position |
 |---|---:|---:|
 | https://www.homeeins.de/collections/bad-organisation | 12 | 20.4 |
-| https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table | 12 | 56.1 |
 
 ## Geräte
 
 | Gerät | Klicks | Impressionen | CTR | Position |
 |---|---:|---:|---:|---:|
-| MOBILE | 1 | 23 | 4.35 % | 37.1 |
-| DESKTOP | 0 | 92 | 0 % | 26.0 |
+| MOBILE | 1 | 22 | 4.55 % | 36 |
+| DESKTOP | 0 | 90 | 0 % | 25.9 |
 
