@@ -352,6 +352,30 @@ def main() -> int:
     if fehler == v:
         print("OK      Antwort-Parsing: Erfolgsfall und vier Fehlfaelle sauber getrennt")
 
+    # Der Fall vom 12.08.2026: --output-format png angefragt, das Modell
+    # lieferte JPEG. output_format ist laut SDK ein Wunsch, kein Vertrag.
+    # Die Endung muss der echten Antwort folgen, nicht der Anfrage.
+    v = fehler
+    faelle_endung = [
+        ("PNG angefragt, JPEG geliefert", Path("ausgabe.png"), "image/jpeg",
+         Path("ausgabe.jpg")),
+        ("Endung passt schon (.jpg)", Path("ausgabe.jpg"), "image/jpeg",
+         Path("ausgabe.jpg")),
+        ("Endung passt schon (.jpeg)", Path("ausgabe.jpeg"), "image/jpeg",
+         Path("ausgabe.jpeg")),
+        ("unbekannter Medientyp -- unveraendert lassen",
+         Path("ausgabe.png"), "image/tiff", Path("ausgabe.png")),
+        ("WebP statt PNG", Path("ausgabe.png"), "image/webp",
+         Path("ausgabe.webp")),
+    ]
+    for name, ein, medientyp, soll in faelle_endung:
+        ist = o.passende_endung(ein, medientyp)
+        if ist != soll:
+            print(f"FEHLER  Endung/{name}: erwartet {soll}, bekam {ist}")
+            fehler += 1
+    if fehler == v:
+        print("OK      Endung folgt dem echten Medientyp, nicht der Anfrage")
+
     # bild_erzeugen: eine fehlende lokale Eingabedatei muss vor jedem
     # Netzwerkaufruf abbrechen -- sonst wuerde dieser Test hier (kein
     # OPENROUTER_API_KEY gesetzt) mit sys.exit() abstuerzen statt einen

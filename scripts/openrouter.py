@@ -354,6 +354,31 @@ def bild_aus_antwort(antwort: dict) -> tuple[bytes, str] | None:
     return roh, erster.get("media_type") or "image/png"
 
 
+# Lauf vom 12.08.2026: --output-format png angefragt, das Modell hat
+# trotzdem JPEG geliefert (media_type "image/jpeg") -- die Datei hiess
+# aber weiter *.png. Das output_format-Feld ist laut SDK ein Wunsch, kein
+# Vertrag: "Most models produce raster formats". Deshalb entscheidet die
+# tatsaechliche Antwort ueber die Endung, nicht die Anfrage.
+ENDUNG_JE_MEDIENTYP = {
+    "image/png": ".png", "image/jpeg": ".jpg", "image/jpg": ".jpg",
+    "image/webp": ".webp", "image/svg+xml": ".svg",
+}
+
+
+def passende_endung(ausgabe: Path, medientyp: str) -> Path:
+    """Haengt die zum echten Medientyp passende Endung an -- oder laesst
+    ausgabe unveraendert, wenn der Medientyp unbekannt ist oder schon
+    passt. .jpg und .jpeg zaehlen beide als Treffer fuer image/jpeg."""
+    richtig = ENDUNG_JE_MEDIENTYP.get(medientyp)
+    if not richtig:
+        return ausgabe
+    vorhanden = ausgabe.suffix.lower()
+    aequivalent = {".jpg", ".jpeg"} if richtig == ".jpg" else {richtig}
+    if vorhanden in aequivalent:
+        return ausgabe
+    return ausgabe.with_suffix(richtig)
+
+
 def bild_erzeugen(prompt: str, modell: str, eingabe_quellen: list[str] | None,
                   ausgabe: Path, form: str = "png") -> dict:
     """Ein echter Bild-Rundlauf: Text-Anweisung, optional mit
@@ -372,6 +397,7 @@ def bild_erzeugen(prompt: str, modell: str, eingabe_quellen: list[str] | None,
     if ergebnis is None:
         return {"fehler": "keine Bilddaten in der Antwort", "roh": antwort}
     roh, medientyp = ergebnis
+    ausgabe = passende_endung(ausgabe, medientyp)
     ausgabe.parent.mkdir(parents=True, exist_ok=True)
     ausgabe.write_bytes(roh)
     return {"modell": modell, "datei": str(ausgabe), "medientyp": medientyp,
