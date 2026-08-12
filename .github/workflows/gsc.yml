@@ -4,7 +4,17 @@ name: Search Console erfassen
 # Console und schreibt sie versioniert ins Repo. Die API ist kostenlos und
 # verlangt kein Abrechnungskonto — es braucht nur ein Dienstkonto.
 #
-# Montags 06:00 UTC, nach Reels (04:00) und Trends (05:00).
+# Montags 06:00 UTC. Reels und Trends laufen inzwischen nicht mehr
+# automatisch (12.08.2026 auf manuell umgestellt) -- der ursprüngliche
+# Anschluss "nach Reels (04:00), nach Trends (05:00)" gilt nicht mehr,
+# 06:00 bleibt trotzdem ein sinnvoller Zeitpunkt: die 3 Tage Verzug der
+# Search-Console-Daten (VERZUG_TAGE in gsc.py) sind dann durch, der
+# Bericht zum Wochenstart ist frisch.
+#
+# WICHTIG: ein schedule-Trigger feuert nur, wenn diese Datei auf dem
+# Standardbranch (main) liegt -- GitHub wertet dafür nicht den Branch
+# aus, von dem der Lauf sonst gestartet würde. Auf einem Feature-Branch
+# allein bewirkt dieser Eintrag nichts. Siehe Bericht dazu.
 #
 # Ohne das Secret GSC_SERVICE_ACCOUNT_JSON läuft der Job trotzdem durch und
 # gibt die Einrichtungsanleitung aus, statt rot zu werden.
@@ -15,6 +25,8 @@ on:
         description: "Zeitraum in Tagen (Standard 28)"
         required: false
         default: "28"
+  schedule:
+    - cron: "0 6 * * 1"
 # id-token: write erlaubt GitHub, ein kurzlebiges OIDC-Token auszustellen.
 # Damit weist sich der Lauf direkt bei Google aus — es gibt keinen
 # Dienstkontoschlüssel, der gestohlen werden könnte. Die Organisation
