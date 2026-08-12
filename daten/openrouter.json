@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10",
+  "stand": "2026-08-12",
   "schluessel": {
     "data": {
       "is_management_key": false,
@@ -11,7 +11,7 @@
       "usage_daily": 0,
       "usage_weekly": 0,
       "usage_monthly": 0,
-      "is_free_tier": true,
+      "is_free_tier": false,
       "expires_at": null,
       "rate_limit": {
         "requests": -1,
@@ -22,11 +22,53 @@
   },
   "guthaben": {
     "data": {
-      "total_credits": 0,
+      "total_credits": 6,
       "total_usage": 0
     }
   },
   "modelle": [
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "name": "LiquidAI: LFM2.5-2.6B (free)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning",
+      "name": "NVIDIA: Nemotron 3.5 Lightning",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.25
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "kontext": 1000000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "sakana/sakana-namazu",
+      "name": "Sakana: Sakana Namazu",
+      "kontext": 262144,
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "upstage/solar-pro4",
+      "name": "Upstage: Solar Pro 4",
+      "kontext": 524288,
+      "preis_eingabe": 0.03,
+      "preis_ausgabe": 0.12
+    },
+    {
+      "id": "meta/muse-glimmer-30b",
+      "name": "Meta: Muse Glimmer 30B",
+      "kontext": 131072,
+      "preis_eingabe": 0.35,
+      "preis_ausgabe": 1.5
+    },
     {
       "id": "inclusionai/ling-3.0-tiny:free",
       "name": "inclusionAI: Ling 3.0 Tiny (free)",
@@ -52,8 +94,8 @@
       "id": "~deepseek/deepseek-v4-flash-latest",
       "name": "DeepSeek V4 Flash Latest",
       "kontext": 1048576,
-      "preis_eingabe": 0.0798,
-      "preis_ausgabe": 0.1596
+      "preis_eingabe": 0.08,
+      "preis_ausgabe": 0.252
     },
     {
       "id": "deepseek/deepseek-v4-flash-0731",
@@ -61,6 +103,13 @@
       "kontext": 1048576,
       "preis_eingabe": 0.08,
       "preis_ausgabe": 0.18
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-code",
+      "name": "ByteDance Seed: Seed-2.0-Code",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
     },
     {
       "id": "thinkingmachines/inkling-small",
@@ -395,8 +444,8 @@
       "id": "z-ai/glm-5.2",
       "name": "Z.ai: GLM 5.2",
       "kontext": 1048576,
-      "preis_eingabe": 0.5306,
-      "preis_ausgabe": 1.6676
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.15
     },
     {
       "id": "z-ai/glm-5.2:batch",
@@ -745,8 +794,8 @@
       "id": "deepseek/deepseek-v4-pro",
       "name": "DeepSeek: DeepSeek V4 Pro",
       "kontext": 1048576,
-      "preis_eingabe": 0.435,
-      "preis_ausgabe": 0.87
+      "preis_eingabe": 0.6317,
+      "preis_ausgabe": 1.2634
     },
     {
       "id": "deepseek/deepseek-v4-flash",
@@ -815,8 +864,8 @@
       "id": "moonshotai/kimi-k2.6",
       "name": "MoonshotAI: Kimi K2.6",
       "kontext": 262144,
-      "preis_eingabe": 0.5795,
-      "preis_ausgabe": 2.44
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.0
     },
     {
       "id": "anthropic/claude-opus-4.7",
@@ -836,8 +885,8 @@
       "id": "z-ai/glm-5.1",
       "name": "Z.ai: GLM 5.1",
       "kontext": 204800,
-      "preis_eingabe": 0.952,
-      "preis_ausgabe": 2.992
+      "preis_eingabe": 1.4,
+      "preis_ausgabe": 4.4
     },
     {
       "id": "google/gemma-4-26b-a4b-it",
@@ -1151,8 +1200,8 @@
       "id": "qwen/qwen3.5-397b-a17b",
       "name": "Qwen: Qwen3.5 397B A17B",
       "kontext": 262144,
-      "preis_eingabe": 0.39,
-      "preis_ausgabe": 2.34
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.6
     },
     {
       "id": "minimax/minimax-m2.5",
@@ -1634,8 +1683,8 @@
       "id": "z-ai/glm-4.6",
       "name": "Z.ai: GLM 4.6",
       "kontext": 204800,
-      "preis_eingabe": 0.5,
-      "preis_ausgabe": 2.0
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
     },
     {
       "id": "anthropic/claude-sonnet-4.5",
@@ -1683,8 +1732,8 @@
       "id": "qwen/qwen3-vl-235b-a22b-instruct",
       "name": "Qwen: Qwen3 VL 235B A22B Instruct",
       "kontext": 262144,
-      "preis_eingabe": 0.21,
-      "preis_ausgabe": 1.9
+      "preis_eingabe": 0.26,
+      "preis_ausgabe": 1.04
     },
     {
       "id": "qwen/qwen3-max",
@@ -1712,7 +1761,7 @@
       "name": "DeepSeek: DeepSeek V3.1 Terminus",
       "kontext": 163840,
       "preis_eingabe": 0.27,
-      "preis_ausgabe": 1.0
+      "preis_ausgabe": 0.95
     },
     {
       "id": "qwen/qwen3-coder-flash",
@@ -1858,7 +1907,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "OpenAI: gpt-oss-120b",
       "kontext": 131072,
-      "preis_eingabe": 0.037,
+      "preis_eingabe": 0.03,
       "preis_ausgabe": 0.17
     },
     {
@@ -2822,6 +2871,8 @@
     }
   ],
   "kostenlos": [
+    "liquid/lfm-2.5-2.6b:free",
+    "nvidia/nemotron-3.5-lightning:free",
     "inclusionai/ling-3.0-tiny:free",
     "poolside/laguna-s-2.1:free",
     "poolside/laguna-xs-2.1:free",
@@ -2869,43 +2920,32 @@
   ],
   "guenstigstes": "inclusionai/ling-2.6-flash",
   "probe": {
-    "modell": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "auswahl": "Gratisstufe, weil kein Guthaben vorhanden ist",
-    "antwort": "Hundesofas bieten Hunden einen gemütlichen und eigenen Rückzugsort zum Entspannen.",
+    "modell": "inclusionai/ling-2.6-flash",
+    "auswahl": "guenstigste bezahlte",
+    "antwort": "Hundesofas sind bequem, waschbare Liegeplätze für Hunde, die Sicherheit und Entspannung bieten.",
     "verbrauch": {
-      "prompt_tokens": 31,
-      "completion_tokens": 58,
-      "total_tokens": 89,
-      "cost": 0,
+      "prompt_tokens": 34,
+      "completion_tokens": 29,
+      "total_tokens": 63,
+      "cost": 1.194e-06,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
+        "cached_tokens": 2,
         "cache_write_tokens": 0,
         "audio_tokens": 0,
         "video_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": 0,
-        "upstream_inference_prompt_cost": 0,
-        "upstream_inference_completions_cost": 0
+        "upstream_inference_cost": 1.194e-06,
+        "upstream_inference_prompt_cost": 3.24e-07,
+        "upstream_inference_completions_cost": 8.7e-07
       },
       "completion_tokens_details": {
-        "reasoning_tokens": 39,
+        "reasoning_tokens": 0,
         "image_tokens": 0,
         "audio_tokens": 0
       }
     },
-    "versuche": [
-      {
-        "modell": "google/lyria-3-pro-preview",
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Request contains an invalid argument.\\\",\\n    \\\"status\\\": \\\"INVALI"
-      },
-      {
-        "modell": "google/lyria-3-clip-preview",
-        "fehler": "HTTP 502",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 500,\\n    \\\"message\\\": \\\"Internal error encountered.\\\",\\n    \\\"status\\\": \\\"INTERNAL\\\"\\n  }\\"
-      }
-    ]
+    "versuche": []
   }
 }

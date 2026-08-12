@@ -1,4 +1,4 @@
-# OpenRouter — Stand 2026-08-10
+# OpenRouter — Stand 2026-08-12
 
 Zugang zu vielen Modellen über eine Adresse. Erhoben auf dem
 Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
@@ -10,18 +10,18 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Grenze | None |
 | verbraucht | 0 |
 | verbleibend | None |
-| Gratisstufe | True |
+| Gratisstufe | False |
 
 ## Guthaben
 
 | Angabe | Wert |
 |---|---|
-| eingezahlt | 0 |
+| eingezahlt | 6 |
 | verbraucht | 0 |
 
 ## Modelle
 
-**399 Modelle erreichbar**, davon 17 ohne Kosten.
+**406 Modelle erreichbar**, davon 19 ohne Kosten.
 
 Die zehn günstigsten mit Preis. Beträge in US-Dollar je
 Million Token — Eingabe ist, was hingeschickt wird, Ausgabe,
@@ -38,11 +38,11 @@ was zurückkommt.
 | `ibm-granite/granite-4.0-h-micro` | 131000 | 0.0170 $ | 0.1120 $ |
 | `mistralai/mistral-small-24b-instruct-2501` | 32768 | 0.0500 $ | 0.0800 $ |
 | `meta-llama/llama-3.1-8b-instruct` | 131072 | 0.0500 $ | 0.0800 $ |
-| `ibm-granite/granite-4.1-8b` | 131072 | 0.0500 $ | 0.1000 $ |
+| `upstage/solar-pro4` | 524288 | 0.0300 $ | 0.1200 $ |
 
 Ohne Kosten, die ersten zehn:
 
-`inclusionai/ling-3.0-tiny:free`, `poolside/laguna-s-2.1:free`, `poolside/laguna-xs-2.1:free`, `cohere/north-mini-code:free`, `nvidia/nemotron-3.5-content-safety:free`, `nvidia/nemotron-3-ultra-550b-a55b:free`, `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`, `google/gemma-4-26b-a4b-it:free`, `google/gemma-4-31b-it:free`, `google/lyria-3-pro-preview`
+`liquid/lfm-2.5-2.6b:free`, `nvidia/nemotron-3.5-lightning:free`, `inclusionai/ling-3.0-tiny:free`, `poolside/laguna-s-2.1:free`, `poolside/laguna-xs-2.1:free`, `cohere/north-mini-code:free`, `nvidia/nemotron-3.5-content-safety:free`, `nvidia/nemotron-3-ultra-550b-a55b:free`, `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`, `google/gemma-4-26b-a4b-it:free`
 
 Kostenlose Modelle sind gedrosselt und oft überlastet. Für
 eine Messung taugen sie nicht — ein Fehlschlag sagt dann
@@ -50,19 +50,12 @@ nichts über den Zugang.
 
 ## Rundlauf
 
-Modell `nvidia/nemotron-3-ultra-550b-a55b:free` (Gratisstufe, weil kein Guthaben vorhanden ist), Verbrauch `{'prompt_tokens': 31, 'completion_tokens': 58, 'total_tokens': 89, 'cost': 0, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 0, 'upstream_inference_prompt_cost': 0, 'upstream_inference_completions_cost': 0}, 'completion_tokens_details': {'reasoning_tokens': 39, 'image_tokens': 0, 'audio_tokens': 0}}`.
+Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), Verbrauch `{'prompt_tokens': 34, 'completion_tokens': 29, 'total_tokens': 63, 'cost': 1.194e-06, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 2, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 1.194e-06, 'upstream_inference_prompt_cost': 3.24e-07, 'upstream_inference_completions_cost': 8.7e-07}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
 
 ```
-Hundesofas bieten Hunden einen gemütlichen und eigenen Rückzugsort zum Entspannen.
+Hundesofas sind bequem, waschbare Liegeplätze für Hunde, die Sicherheit und Entspannung bieten.
 ```
 
 Erst das beweist den Zugang. `/key` zu lesen gelingt auch
 einem Schlüssel, dessen Guthaben für keine Antwort reicht.
-
-Davor abgelehnt (2):
-
-| Modell | Grund |
-|---|---|
-| `google/lyria-3-pro-preview` | HTTP 400 {"error":{"message":"Provider returned error","code":400,"metadata":{"raw":"{\n  |
-| `google/lyria-3-clip-preview` | HTTP 502 {"error":{"message":"Provider returned error","code":502,"metadata":{"raw":"{\n  |
 
