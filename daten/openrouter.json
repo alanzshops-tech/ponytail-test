@@ -7,10 +7,10 @@
       "limit": null,
       "limit_reset": null,
       "limit_remaining": null,
-      "usage": 1.194e-06,
-      "usage_daily": 1.194e-06,
-      "usage_weekly": 1.194e-06,
-      "usage_monthly": 1.194e-06,
+      "usage": 2.044e-06,
+      "usage_daily": 2.044e-06,
+      "usage_weekly": 2.044e-06,
+      "usage_monthly": 2.044e-06,
       "is_free_tier": false,
       "expires_at": null,
       "rate_limit": {
@@ -23,7 +23,7 @@
   "guthaben": {
     "data": {
       "total_credits": 6,
-      "total_usage": 1.194e-06
+      "total_usage": 2.044e-06
     }
   },
   "modelle": [
@@ -2921,23 +2921,6 @@
   "guenstigstes": "inclusionai/ling-2.6-flash",
   "bild_modelle": [
     {
-      "id": "openrouter/auto-beta",
-      "name": "Auto Router (Beta)",
-      "rein": [
-        "text",
-        "image",
-        "audio",
-        "file",
-        "video"
-      ],
-      "raus": [
-        "text",
-        "image"
-      ],
-      "preis_eingabe": -1000000.0,
-      "preis_ausgabe": -1000000.0
-    },
-    {
       "id": "google/gemini-3.1-flash-lite-image",
       "name": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "rein": [
@@ -3065,34 +3048,17 @@
       ],
       "preis_eingabe": 0.3,
       "preis_ausgabe": 2.5
-    },
-    {
-      "id": "openrouter/auto",
-      "name": "Auto Router",
-      "rein": [
-        "text",
-        "image",
-        "audio",
-        "file",
-        "video"
-      ],
-      "raus": [
-        "text",
-        "image"
-      ],
-      "preis_eingabe": -1000000.0,
-      "preis_ausgabe": -1000000.0
     }
   ],
   "probe": {
     "modell": "inclusionai/ling-2.6-flash",
     "auswahl": "guenstigste bezahlte",
-    "antwort": "Hundesofas sind bequem, robust und leicht sauber zu machen.",
+    "antwort": "Hundesofas bieten Ihrem Hund einen gemütlichen und sicheren Rückzugsort zum Entspannen.",
     "verbrauch": {
       "prompt_tokens": 34,
-      "completion_tokens": 17,
-      "total_tokens": 51,
-      "cost": 8.5e-07,
+      "completion_tokens": 26,
+      "total_tokens": 60,
+      "cost": 1.12e-06,
       "is_byok": false,
       "prompt_tokens_details": {
         "cached_tokens": 0,
@@ -3101,9 +3067,9 @@
         "video_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": 8.5e-07,
+        "upstream_inference_cost": 1.12e-06,
         "upstream_inference_prompt_cost": 3.4e-07,
-        "upstream_inference_completions_cost": 5.1e-07
+        "upstream_inference_completions_cost": 7.8e-07
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
