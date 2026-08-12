@@ -8,7 +8,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | Grenze | None |
-| verbraucht | 2.044e-06 |
+| verbraucht | 0.068293914 |
 | verbleibend | None |
 | Gratisstufe | False |
 
@@ -17,7 +17,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | eingezahlt | 6 |
-| verbraucht | 2.044e-06 |
+| verbraucht | 0.068293914 |
 
 ## Modelle
 
@@ -71,10 +71,21 @@ installieren.
 
 ## Rundlauf
 
-Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), Verbrauch `{'prompt_tokens': 34, 'completion_tokens': 26, 'total_tokens': 60, 'cost': 1.12e-06, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 1.12e-06, 'upstream_inference_prompt_cost': 3.4e-07, 'upstream_inference_completions_cost': 7.8e-07}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
+Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), mit Websuche (Exa) — echte Treffer, kein reines Modellwissen.
+
+Verbrauch `{'prompt_tokens': 2416, 'completion_tokens': 299, 'total_tokens': 2715, 'cost': 0.007033106, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 3, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 3.3106e-05, 'upstream_inference_prompt_cost': 2.4136e-05, 'upstream_inference_completions_cost': 8.97e-06}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
 
 ```
-Hundesofas bieten Ihrem Hund einen gemütlichen und sicheren Rückzugsort zum Entspannen.
+Aktuell (August 2026) gelten laut den genannten Quellen folgende drei Dropshipping-Produkte im Bereich Haustiere/Hunde als besonders trendig:
+
+1. **GhostGuard™ Dog Mask** – Ein maskenartiges Halter für Hunde, das Kontrolle und Sichtbarkeit verbessert und sich durch ein futuristisches, maskenbasiertes Design auszeichnet.  
+   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)
+
+2. **PureFlow™ Pet Fountain** – Eine stromlose, gravity-basierte Trinkbrunnen für Haustiere, die frisches Wasser ohne Strom liefert.  
+   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)
+
+3. **No-Pull Dog Harness** – Funktionale Geschirr-Systeme mit frontclip-Technik, die bei großen oder energischen Hunden helfen, Ziehen zu reduzieren und sicherer zu führen.  
+   Quelle: [Dog Harness Dropshipping 2026: Top Trends & Profit Tips](https://www.accio.com/business/dog-harness-dropshipping)
 ```
 
 Erst das beweist den Zugang. `/key` zu lesen gelingt auch
