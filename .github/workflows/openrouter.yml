@@ -24,6 +24,18 @@ on:
         description: "Steckbriefe aller Modelle, deren ID diesen Text enthält"
         type: string
         default: ""
+      bild_prompt:
+        description: "Bild erzeugen/bearbeiten: Text-Anweisung. Gesetzt = eigener Weg, kein normaler Rundlauf."
+        type: string
+        default: ""
+      bild_eingabe:
+        description: "Referenzbild für --bild-prompt: URL oder Pfad im Repo (z. B. bilder/products-....jpg). Leer = reine Text-zu-Bild-Erzeugung."
+        type: string
+        default: ""
+      bild_modell:
+        description: "Bildmodell für --bild-prompt"
+        type: string
+        default: "google/gemini-3.1-flash-lite-image"
 permissions:
   contents: write
 
@@ -60,6 +72,9 @@ jobs:
           FRAGE: ${{ inputs.frage || 'Antworte mit genau einem kurzen deutschen Satz über Hundesofas.' }}
           MODELL: ${{ inputs.modell }}
           INFO: ${{ inputs.info }}
+          BILD_PROMPT: ${{ inputs.bild_prompt }}
+          BILD_EINGABE: ${{ inputs.bild_eingabe }}
+          BILD_MODELL: ${{ inputs.bild_modell || 'google/gemini-3.1-flash-lite-image' }}
         run: |
           # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
           # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
@@ -68,10 +83,16 @@ jobs:
           # Die if-Blöcke statt `[ -n .. ] && ..`, weil GitHub die Schritte
           # mit `bash -e` fährt: ein fehlschlagender Test als letzter
           # Befehl einer Zeile würde den Schritt abbrechen.
-          # --info ist ein eigener Weg: es fragt nur den Steckbrief ab
-          # und schreibt MODELLINFO.md, ohne Rundlauf.
+          # --info und --bild-prompt sind eigene Wege: sie schreiben ihr
+          # eigenes Ergebnis und machen keinen normalen Rundlauf.
           if [ -n "$INFO" ]; then
             python3 scripts/openrouter.py --info "$INFO"
+            exit 0
+          fi
+          if [ -n "$BILD_PROMPT" ]; then
+            ARGS=(--bild-prompt "$BILD_PROMPT" --bild-modell "$BILD_MODELL")
+            if [ -n "$BILD_EINGABE" ]; then ARGS+=(--bild-eingabe "$BILD_EINGABE"); fi
+            python3 scripts/openrouter.py "${ARGS[@]}"
             exit 0
           fi
           ARGS=(--pruefen)
@@ -88,7 +109,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add OPENROUTER.md MODELLINFO.md daten/openrouter.json 2>/dev/null || true
+          git add OPENROUTER.md MODELLINFO.md daten/openrouter.json bilder/openrouter 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
           for v in 1 2 3; do
