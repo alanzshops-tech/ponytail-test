@@ -20,6 +20,10 @@ on:
         description: "Modell-ID; leer = das günstigste mit Preis"
         type: string
         default: ""
+      websuche:
+        description: "Echte Websuche (Exa) vor die Antwort hängen statt nur Modellwissen"
+        type: boolean
+        default: false
       info:
         description: "Steckbriefe aller Modelle, deren ID diesen Text enthält"
         type: string
@@ -71,6 +75,7 @@ jobs:
           # 10.08.2026 — grün, aber ohne echten Rundlauf.
           FRAGE: ${{ inputs.frage || 'Antworte mit genau einem kurzen deutschen Satz über Hundesofas.' }}
           MODELL: ${{ inputs.modell }}
+          WEBSUCHE: ${{ inputs.websuche }}
           INFO: ${{ inputs.info }}
           BILD_PROMPT: ${{ inputs.bild_prompt }}
           BILD_EINGABE: ${{ inputs.bild_eingabe }}
@@ -98,6 +103,7 @@ jobs:
           ARGS=(--pruefen)
           if [ -n "$FRAGE" ]; then ARGS+=(--fragen "$FRAGE"); fi
           if [ -n "$MODELL" ]; then ARGS+=(--modell "$MODELL"); fi
+          if [ "$WEBSUCHE" = "true" ]; then ARGS+=(--websuche); fi
           python3 scripts/openrouter.py "${ARGS[@]}"
 
       - name: Bericht in die Zusammenfassung

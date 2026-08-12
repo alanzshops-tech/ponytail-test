@@ -392,6 +392,31 @@ def main() -> int:
         print("OK      bild_erzeugen: fehlende Eingabedatei bricht vor "
               "dem Netzwerkaufruf ab")
 
+    # Websuche-Plugin: reiner Anfragekoerper-Aufbau, ohne Netzwerk testbar.
+    v = fehler
+    plugin = o.web_plugin(7)
+    if plugin != {"id": "web", "max_results": 7}:
+        print(f"FEHLER  web_plugin() falsch aufgebaut: {plugin}"); fehler += 1
+    if fehler == v:
+        print("OK      web_plugin(): id=web und max_results korrekt gesetzt")
+
+    # Bericht muss unterscheiden, ob eine Antwort mit oder ohne echte
+    # Websuche zustande kam -- sonst liest sich eine Behauptung aus reinem
+    # Modellwissen wie ein belegter, aktueller Fakt.
+    v = fehler
+    b6 = o.bericht({"stand": "x", "modelle": [], "probe": {
+        "modell": "irgendein/modell", "auswahl": "günstigste bezahlte",
+        "antwort": "Text.", "websuche": True, "verbrauch": {}}})
+    if "mit Websuche" not in b6 or "echte Treffer" not in b6:
+        print("FEHLER  Websuche-Erfolgsfall nicht ausgewiesen"); fehler += 1
+    b7 = o.bericht({"stand": "x", "modelle": [], "probe": {
+        "modell": "irgendein/modell", "auswahl": "günstigste bezahlte",
+        "antwort": "Text.", "websuche": False, "verbrauch": {}}})
+    if "ohne Websuche" not in b7 or "mit Websuche" in b7:
+        print("FEHLER  Fall ohne Websuche nicht sauber ausgewiesen"); fehler += 1
+    if fehler == v:
+        print("OK      Bericht unterscheidet Antwort mit/ohne echte Websuche")
+
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
 

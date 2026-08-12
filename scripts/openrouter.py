@@ -240,7 +240,22 @@ def pruefen() -> dict:
     return d
 
 
-def fragen(text: str, modell: str | None = None) -> dict:
+# Websuche laeuft ueber denselben /chat/completions-Aufruf wie ein
+# normaler Rundlauf, nicht ueber einen eigenen Endpunkt. Am Paket
+# @openrouter/sdk 1.2.18 nachgesehen (WebSearchPlugin in chatrequest.d.ts,
+# Feld "plugins"), nicht geraten: die Anfrage bekommt zusaetzlich
+#   "plugins": [{"id": "web", "max_results": N}]
+# Dahinter steckt laut OpenRouters eigener Doku Exa als Suchmaschine, die
+# echte Treffer vor die Antwort haengt -- Marktrecherche, keine
+# Facebook-Anzeigen (Exa erreicht die Ad Library ohnehin nicht, die ist
+# fuer Crawler gesperrt).
+def web_plugin(max_ergebnisse: int = 5) -> dict:
+    """Reiner Aufbau des Plugin-Eintrags -- ohne Netzwerk testbar."""
+    return {"id": "web", "max_results": max_ergebnisse}
+
+
+def fragen(text: str, modell: str | None = None,
+          websuche: bool = False, suchtreffer: int = 5) -> dict:
     """Ein echter Rundlauf. Ohne den ist „Zugang funktioniert" nur eine
     Behauptung ueber /key -- lesen darf ein Schluessel oft auch dann, wenn
     das Guthaben fuer eine Antwort nicht reicht."""
@@ -269,11 +284,17 @@ def fragen(text: str, modell: str | None = None) -> dict:
     versuche = []
     for kandidat in kandidaten:
         print(f"Versuch: {kandidat}")
-        a = rufen("/chat/completions", {
+        last = {
             "model": kandidat,
             "messages": [{"role": "user", "content": text}],
-            "max_tokens": 200,
-        })
+            # Websuche haengt echte Treffer vor die Antwort -- die faellt
+            # dadurch laenger aus als eine blosse Behauptung aus dem
+            # Modellwissen. 200 Token wuerden mitten im Satz abschneiden.
+            "max_tokens": 500 if websuche else 200,
+        }
+        if websuche:
+            last["plugins"] = [web_plugin(suchtreffer)]
+        a = rufen("/chat/completions", last, zeit=150 if websuche else 90)
         if "fehler" in a:
             versuche.append({"modell": kandidat, "fehler": a["fehler"],
                              "text": a.get("text", "")[:200]})
@@ -286,7 +307,8 @@ def fragen(text: str, modell: str | None = None) -> dict:
             versuche.append({"modell": kandidat, "fehler": "leere Antwort"})
             continue
         return {"modell": kandidat, "auswahl": hinweis, "antwort": inhalt,
-                "verbrauch": a.get("usage"), "versuche": versuche}
+                "websuche": websuche, "verbrauch": a.get("usage"),
+                "versuche": versuche}
 
     return {"fehler": f"Alle {len(kandidaten)} Modelle abgelehnt",
             "auswahl": hinweis, "versuche": versuche}
@@ -491,7 +513,11 @@ def bericht(d: dict) -> str:
             z += [f"**Fehlgeschlagen: {p['fehler']}**", "",
                   "```", str(p.get("text") or p.get("roh") or "")[:500], "```", ""]
         else:
+            quelle = ("mit Websuche (Exa) — echte Treffer, kein reines Modellwissen"
+                      if p.get("websuche") else
+                      "ohne Websuche — reines Modellwissen, ungeprüft gegen die Gegenwart")
             z += [f"Modell `{p.get('modell')}` ({p.get('auswahl', '')}), "
+                  f"{quelle}.", "",
                   f"Verbrauch `{p.get('verbrauch')}`.", "",
                   "```", p.get("antwort", ""), "```", "",
                   "Erst das beweist den Zugang. `/key` zu lesen gelingt auch",
@@ -518,6 +544,11 @@ def main() -> None:
     ap.add_argument("--fragen", metavar="TEXT",
                     help="einen echten Rundlauf machen")
     ap.add_argument("--modell", help="Modell für --fragen; sonst das günstigste")
+    ap.add_argument("--websuche", action="store_true",
+                    help="bei --fragen: echte Websuche (Exa) vor die Antwort "
+                         "hängen, statt nur auf Modellwissen zu bauen")
+    ap.add_argument("--suchtreffer", type=int, default=5,
+                    help="Anzahl Suchergebnisse bei --websuche (Standard 5)")
     ap.add_argument("--info", metavar="TEIL",
                     help="Steckbrief aller Modelle, deren ID TEIL enthält")
     ap.add_argument("--bild-prompt", metavar="TEXT",
@@ -585,7 +616,8 @@ def main() -> None:
 
     d = pruefen() if a.pruefen else {"stand": str(date.today())}
     if a.fragen:
-        d["probe"] = fragen(a.fragen, a.modell)
+        d["probe"] = fragen(a.fragen, a.modell, websuche=a.websuche,
+                            suchtreffer=a.suchtreffer)
 
     Path(a.json).parent.mkdir(parents=True, exist_ok=True)
     Path(a.json).write_text(json.dumps(d, ensure_ascii=False, indent=2),
