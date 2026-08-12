@@ -233,6 +233,35 @@ def main() -> int:
     if fehler == v:
         print("OK      Bildfilter: nur echte output_modalities=image zaehlt")
 
+    # Der Fall vom 12.08.2026: "openrouter/auto" hat Preis "-1" je Token
+    # (variabler Tarif eines Routers, kein echter Preis). Hochgerechnet
+    # auf eine Million Token wurde daraus -1.000.000 $, und das Modell
+    # stand als "guenstigstes" ganz oben in der Bildmodell-Liste.
+    v = fehler
+    auto_router = {"id": "openrouter/auto", "context_length": 999999,
+                   "pricing": {"prompt": "-1", "completion": "-1"},
+                   "architecture": {"input_modalities": ["text", "image"],
+                                    "output_modalities": ["text", "image"]}}
+    e, a = o.preis(auto_router)
+    if not (e < 0 and a < 0):
+        print("FEHLER  Testaufbau: negativer Preis kommt nicht mehr zustande "
+              "-- pruefe, ob dieser Fall noch zutrifft"); fehler += 1
+    if o.gibt_bild_aus(auto_router) is not True:
+        print("FEHLER  Router mit Bildausgabe wird nicht als bildfaehig "
+              "erkannt"); fehler += 1
+    echt_bild = {"id": "bild/echt", "context_length": 8000,
+                 "pricing": {"prompt": "0.000001", "completion": "0.000002"},
+                 "architecture": {"input_modalities": ["text"],
+                                  "output_modalities": ["image"]}}
+    gefiltert = [m for m in [auto_router, echt_bild]
+                if o.gibt_bild_aus(m) and sum(o.preis(m)) >= 0]
+    if [m["id"] for m in gefiltert] != ["bild/echt"]:
+        print(f"FEHLER  Router mit Negativpreis nicht ausgefiltert: "
+              f"{[m['id'] for m in gefiltert]}"); fehler += 1
+    if fehler == v:
+        print("OK      Router mit variablem (negativem) Preis fliegt aus "
+              "der Bildmodell-Liste, echtes Bildmodell bleibt")
+
     # Bericht muss den Leerfall ausdruecklich benennen, nicht stillschweigend
     # weglassen -- "nichts gefunden" ist ein Ergebnis, kein fehlender
     # Abschnitt.

@@ -221,7 +221,14 @@ def pruefen() -> dict:
         # erreichbar) erst pruefen, ob OpenRouter selbst Bilder ausgeben
         # kann. Nur Modelle mit "image" in output_modalities zaehlen --
         # das Feld kommt von OpenRouter selbst, nicht aus dem Gedaechtnis.
-        bild = [m for m in liste if gibt_bild_aus(m)]
+        #
+        # Lauf vom 12.08.2026: "openrouter/auto" und "auto-beta" (Router,
+        # der selbst ein Modell waehlt) haben Preis "-1" je Token -- ihr
+        # Tarif ist variabel, kein echter Preis. Hochgerechnet auf eine
+        # Million Token wurde daraus -1.000.000 $ und die beiden standen
+        # als "guenstigste" ganz oben. guenstigstes()/anwaerter() filtern
+        # das schon (sum > 0), diese Liste bislang nicht.
+        bild = [m for m in liste if gibt_bild_aus(m) and sum(preis(m)) >= 0]
         d["bild_modelle"] = [
             {"id": m.get("id"), "name": m.get("name"),
              "rein": modalitaeten(m)[0], "raus": modalitaeten(m)[1],
