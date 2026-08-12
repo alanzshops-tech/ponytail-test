@@ -27,6 +27,7 @@ zurueck -- so wie jedes andere Werkzeug hier.
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import os
 import sys
@@ -291,6 +292,92 @@ def fragen(text: str, modell: str | None = None) -> dict:
             "auswahl": hinweis, "versuche": versuche}
 
 
+# Bildbearbeitung laeuft ueber einen eigenen Endpunkt, nicht ueber
+# /chat/completions. Am Paket @openrouter/sdk 1.2.18 nachgesehen
+# (imagesGenerate, ImageGenerationRequest, ContentPartImage,
+# ImageGenerationResponse) statt geraten:
+#
+#   POST /images
+#   {"model": ..., "prompt": ..., "input_references": [
+#       {"type": "image_url", "image_url": {"url": "https://..." oder
+#                                            "data:image/png;base64,..."}}
+#   ]}
+#   -> {"created": ..., "data": [{"b64_json": ..., "media_type": ...}],
+#       "usage": {...}}
+#
+# input_references ohne Eintrag = reine Erzeugung aus Text. Mit Eintrag =
+# Bearbeitung/Bild-zu-Bild -- genau das, was Higsfield im Video macht.
+
+
+def bild_referenz(quelle: str, form: str = "png") -> dict:
+    """Ein Eingabebild fuer input_references. Eine echte URL wird
+    unveraendert durchgereicht -- OpenRouter holt sie selbst, das spart
+    hier eine Downloadstufe. Ein lokaler Pfad wird zu einer data:-URL
+    kodiert. Eine fehlende lokale Datei fliegt als Ausnahme, nicht als
+    stiller leerer Wert -- sonst wuerde ein Tippfehler im Pfad zu einer
+    stummen Text-zu-Bild-Erzeugung statt einer Bearbeitung."""
+    if quelle.startswith(("http://", "https://")):
+        url = quelle
+    else:
+        pfad = Path(quelle)
+        if not pfad.exists():
+            raise FileNotFoundError(f"Eingabebild nicht gefunden: {quelle}")
+        url = (f"data:image/{form};base64,"
+              + base64.b64encode(pfad.read_bytes()).decode())
+    return {"type": "image_url", "image_url": {"url": url}}
+
+
+def bild_anfrage(prompt: str, modell: str, referenzen: list[dict] | None = None,
+                 form: str = "png") -> dict:
+    """Reiner Aufbau des Anfragekoerpers -- ohne Netzwerk testbar."""
+    koerper = {"model": modell, "prompt": prompt, "n": 1, "output_format": form}
+    if referenzen:
+        koerper["input_references"] = referenzen
+    return koerper
+
+
+def bild_aus_antwort(antwort: dict) -> tuple[bytes, str] | None:
+    """Erstes Bild aus der Antwort als (Rohbytes, Medientyp). None bei
+    fehlender oder kaputter Bilddaten -- ein anderer Fall als ein
+    Fehlerfeld, und der Aufrufer muss beides unterscheiden koennen."""
+    daten = antwort.get("data")
+    if not isinstance(daten, list) or not daten:
+        return None
+    erster = daten[0]
+    b64 = erster.get("b64_json") if isinstance(erster, dict) else None
+    if not b64:
+        return None
+    try:
+        roh = base64.b64decode(b64)
+    except (ValueError, TypeError):
+        return None
+    return roh, erster.get("media_type") or "image/png"
+
+
+def bild_erzeugen(prompt: str, modell: str, eingabe_quellen: list[str] | None,
+                  ausgabe: Path, form: str = "png") -> dict:
+    """Ein echter Bild-Rundlauf: Text-Anweisung, optional mit
+    Referenzbild(ern), Bild raus, auf die Platte geschrieben."""
+    try:
+        referenzen = [bild_referenz(q, form) for q in (eingabe_quellen or [])]
+    except FileNotFoundError as e:
+        return {"fehler": str(e)}
+    koerper = bild_anfrage(prompt, modell, referenzen, form)
+    # Bilderzeugung dauert laenger als ein Textaufruf -- 90s reichen oft
+    # nicht, gerade bei mehreren Referenzbildern.
+    antwort = rufen("/images", koerper, zeit=180)
+    if "fehler" in antwort:
+        return antwort
+    ergebnis = bild_aus_antwort(antwort)
+    if ergebnis is None:
+        return {"fehler": "keine Bilddaten in der Antwort", "roh": antwort}
+    roh, medientyp = ergebnis
+    ausgabe.parent.mkdir(parents=True, exist_ok=True)
+    ausgabe.write_bytes(roh)
+    return {"modell": modell, "datei": str(ausgabe), "medientyp": medientyp,
+            "groesse": len(roh), "verbrauch": antwort.get("usage")}
+
+
 def bericht(d: dict) -> str:
     z = [f"# OpenRouter — Stand {d.get('stand', '')}", "",
          "Zugang zu vielen Modellen über eine Adresse. Erhoben auf dem",
@@ -407,12 +494,34 @@ def main() -> None:
     ap.add_argument("--modell", help="Modell für --fragen; sonst das günstigste")
     ap.add_argument("--info", metavar="TEIL",
                     help="Steckbrief aller Modelle, deren ID TEIL enthält")
+    ap.add_argument("--bild-prompt", metavar="TEXT",
+                    help="Bild erzeugen oder bearbeiten: Text-Anweisung")
+    ap.add_argument("--bild-eingabe", nargs="*", default=None, metavar="QUELLE",
+                    help="ein oder mehrere Referenzbilder (URL oder lokaler "
+                         "Pfad) für Bearbeitung/Bild-zu-Bild; ohne Angabe "
+                         "wird das Bild aus Text allein erzeugt")
+    ap.add_argument("--bild-modell", default="google/gemini-3.1-flash-lite-image",
+                    help="Bildmodell; Standard ist das günstigste bekannte "
+                         "(siehe OPENROUTER.md, Abschnitt Bildfähige Modelle)")
+    ap.add_argument("--bild-ausgabe", default="bilder/openrouter/ausgabe.png",
+                    help="Zieldatei für --bild-prompt")
     ap.add_argument("--bericht", default="OPENROUTER.md")
     ap.add_argument("--json", default="daten/openrouter.json")
     a = ap.parse_args()
 
-    if not a.pruefen and not a.fragen and not a.info:
-        ap.error("Nichts zu tun: --pruefen, --fragen oder --info angeben.")
+    if not a.pruefen and not a.fragen and not a.info and not a.bild_prompt:
+        ap.error("Nichts zu tun: --pruefen, --fragen, --info oder "
+                 "--bild-prompt angeben.")
+
+    if a.bild_prompt:
+        ergebnis = bild_erzeugen(a.bild_prompt, a.bild_modell, a.bild_eingabe,
+                                 Path(a.bild_ausgabe))
+        if "fehler" in ergebnis:
+            sys.exit(f"Bild fehlgeschlagen: {ergebnis['fehler']}")
+        print(f"Bild geschrieben: {ergebnis['datei']} "
+              f"({ergebnis['medientyp']}, {ergebnis['groesse']} Bytes). "
+              f"Verbrauch: {ergebnis.get('verbrauch')}")
+        return
 
     if a.info:
         # Der Steckbrief kommt vom Dienst, nicht aus meinem Gedaechtnis.

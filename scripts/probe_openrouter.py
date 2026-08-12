@@ -283,6 +283,91 @@ def main() -> int:
     if fehler == v:
         print("OK      Bildmodelle im Bericht: Leerfall und Erfolgsfall getrennt")
 
+    # Bild-Referenzen: URL wird durchgereicht, lokale Datei wird kodiert,
+    # eine fehlende lokale Datei fliegt als Ausnahme statt eines stillen
+    # Leerwerts -- sonst wuerde ein Tippfehler im Pfad zu einer stummen
+    # Text-zu-Bild-Erzeugung statt der beabsichtigten Bearbeitung.
+    v = fehler
+    url_ref = o.bild_referenz("https://www.homeeins.de/bild.jpg")
+    if url_ref != {"type": "image_url",
+                   "image_url": {"url": "https://www.homeeins.de/bild.jpg"}}:
+        print(f"FEHLER  URL nicht unveraendert durchgereicht: {url_ref}")
+        fehler += 1
+
+    import tempfile
+    with tempfile.TemporaryDirectory() as tmp:
+        datei = Path(tmp) / "probe.png"
+        datei.write_bytes(b"nicht-echte-bilddaten")
+        lokal_ref = o.bild_referenz(str(datei), form="png")
+        erwartete_url = ("data:image/png;base64,"
+                         + __import__("base64").b64encode(
+                             b"nicht-echte-bilddaten").decode())
+        if lokal_ref.get("image_url", {}).get("url") != erwartete_url:
+            print("FEHLER  lokale Datei falsch kodiert"); fehler += 1
+
+        fehlt = Path(tmp) / "gibt-es-nicht.png"
+        try:
+            o.bild_referenz(str(fehlt))
+            print("FEHLER  fehlende Datei wirft keine Ausnahme"); fehler += 1
+        except FileNotFoundError:
+            pass
+    if fehler == v:
+        print("OK      Bild-Referenzen: URL durchgereicht, Datei kodiert, "
+              "fehlende Datei wirft Ausnahme")
+
+    # Anfragekoerper: ohne Referenzen reine Text-zu-Bild-Erzeugung (kein
+    # input_references-Schluessel), mit Referenzen Bearbeitung.
+    v = fehler
+    ohne_ref = o.bild_anfrage("ein Hundesofa", "google/gemini-3.1-flash-lite-image")
+    if "input_references" in ohne_ref:
+        print("FEHLER  input_references gesetzt ohne Referenzbilder"); fehler += 1
+    if ohne_ref.get("prompt") != "ein Hundesofa" or ohne_ref.get("n") != 1:
+        print(f"FEHLER  Anfragekoerper falsch: {ohne_ref}"); fehler += 1
+
+    mit_ref = o.bild_anfrage("tausche den Hund aus", "modell/x",
+                             [{"type": "image_url", "image_url": {"url": "x"}}])
+    if mit_ref.get("input_references") != [{"type": "image_url",
+                                            "image_url": {"url": "x"}}]:
+        print(f"FEHLER  input_references nicht uebernommen: {mit_ref}")
+        fehler += 1
+    if fehler == v:
+        print("OK      Anfragekoerper: mit/ohne Referenzbilder unterschieden")
+
+    # Antwort-Parsing: Erfolgsfall und drei Wege, wie eine Antwort ohne
+    # brauchbares Bild aussehen kann -- alle muessen None ergeben, nicht
+    # abstuerzen und nicht stillschweigend leere Bytes liefern.
+    v = fehler
+    b64 = __import__("base64").b64encode(b"echte-bytes").decode()
+    ok = o.bild_aus_antwort({"data": [{"b64_json": b64, "media_type": "image/webp"}]})
+    if ok != (b"echte-bytes", "image/webp"):
+        print(f"FEHLER  Erfolgsfall Bildantwort: {ok}"); fehler += 1
+    for name, antwort in (
+        ("keine data", {}),
+        ("leere data", {"data": []}),
+        ("data ohne b64_json", {"data": [{"media_type": "image/png"}]}),
+        ("kaputtes base64", {"data": [{"b64_json": "###nicht-base64###"}]}),
+    ):
+        if o.bild_aus_antwort(antwort) is not None:
+            print(f"FEHLER  '{name}' liefert kein None"); fehler += 1
+    if fehler == v:
+        print("OK      Antwort-Parsing: Erfolgsfall und vier Fehlfaelle sauber getrennt")
+
+    # bild_erzeugen: eine fehlende lokale Eingabedatei muss vor jedem
+    # Netzwerkaufruf abbrechen -- sonst wuerde dieser Test hier (kein
+    # OPENROUTER_API_KEY gesetzt) mit sys.exit() abstuerzen statt einen
+    # Fehlerwert zurueckzugeben.
+    v = fehler
+    ergebnis = o.bild_erzeugen("egal", "egal/modell", ["/gibt/es/nicht.png"],
+                               Path("/tmp/wird-nicht-geschrieben.png"))
+    if "fehler" not in ergebnis:
+        print(f"FEHLER  fehlende Eingabedatei nicht abgefangen: {ergebnis}")
+        fehler += 1
+    if Path("/tmp/wird-nicht-geschrieben.png").exists():
+        print("FEHLER  Ausgabedatei trotz Fehler geschrieben"); fehler += 1
+    if fehler == v:
+        print("OK      bild_erzeugen: fehlende Eingabedatei bricht vor "
+              "dem Netzwerkaufruf ab")
+
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
 
