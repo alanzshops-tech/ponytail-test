@@ -72,7 +72,7 @@ eine Rechnung, die aufgeht.
 
 | # | Problem | Beleg | Schwere |
 |---|---|---|---|
-| **1** | **GPSR nicht erfüllt.** 0 von 5 geprüften Produkten haben Herstellerangabe, EU-verantwortliche Person oder Warnhinweise. Ware aus China ohne EU-Verantwortlichen ist **nicht verkehrsfähig**. Bußgeld bis 100.000 €, Abmahnrisiko, Marktplätze löschen Angebote. | Shopify-Metafelder, GPSR Art. 19 | **existenziell** |
+| **1** | **GPSR-Pflichtangaben fehlen noch auf den Produkten.** Die EU-verantwortliche Person ist geklärt (12.08.2026: Alan Lorenz GbR selbst), aber 0 von 5 geprüften Produkten tragen Name/Anschrift, Herstellerangabe oder Warnhinweise. Ohne diese Angaben **auf jedem Artikel** bleibt die Ware **nicht verkehrsfähig** — die Klärung der Person allein reicht nicht. Bußgeld bis 100.000 €, Abmahnrisiko, Marktplätze löschen Angebote. | Shopify-Metafelder, GPSR Art. 16 | **existenziell** |
 | **2** | **Null Verkehr.** 0 Klicks in 28 Tagen. | Search Console | existenziell |
 | 3 | **Die einzigen Produkte, die je verkauft wurden, sind nicht mehr aktiv.** Alle 7 Bestellungen betrafen Deko-Kleinteile (Kerzenhalter, Kissen, Marmor-Box, Teppich) für 30–130 €. Keines dieser Produkte ist heute aktiv. | Shopify `orders` + Produktabfrage | hoch |
 | 4 | **Bauchladen.** 101 aktive Produkte über 8+ Kategorien: Hundebetten, Bürostühle, Kettensägen-Ketten, Dartscheiben, Kunstpalmen, Wimpernlifting-Sets. Kein Grund, sich den Shop zu merken. | Sortimentsabfrage | hoch |
@@ -127,9 +127,8 @@ Punktzahlen sehen wie Wissen aus, ohne welches zu sein.
 
 | Prio | Maßnahme | Nutzen | Aufwand | Kosten | Risiko |
 |---|---|---|---|---|---|
-| 🔥 **P0** | **GPSR klären.** CJ fragen: EU-verantwortliche Person nach Art. 16 + Herstellerdaten je Artikel? | verhindert Bußgeld bis 100.000 € und Marktplatz-Sperren | 1 E-Mail | 0 € | — |
+| 🔥 **P0** | **GPSR-Pflichtangaben je Produkt eintragen.** Verantwortliche Person steht fest (Alan Lorenz GbR), jetzt Name/Anschrift + Herstellerdaten in die Metafelder aller 146 Produkte. | verhindert Bußgeld bis 100.000 € und Marktplatz-Sperren | Metafelder, alle Produkte | 0 € | — |
 | 🔥 **P0** | **Judge.me `aggregateRating` entfernen.** Sterne ohne Käufer, nur in der App löschbar. | beseitigt Abmahnrisiko | 15 Min | 0 € | — |
-| 🔥 **P0** | **Neutralversand bei CJ klären.** Ohne das kein eBay. | schaltet eBay frei | dieselbe E-Mail | 0 € | — |
 | 🟢 **P1** | **Snippets der 10 Seiten auf Platz 1–5 überarbeiten.** Title + Description je Seite. | einziger Verkehr, der ohne Geld kommt | 2–3 h | 0 € | keins |
 | 🟢 **P1** | **Englische `/en/`-Seiten prüfen:** Titel reparieren oder Seiten aus dem Index nehmen. | stoppt Verschwendung guter Rankings | 1–2 h | 0 € | niedrig |
 | 🟢 **P1** | **eBay: 5 Angebote einstellen** (nach P0). Texte fertig in `EBAY-START.md`. | 25–28 Verkäufe = 1.000 € | 2–3 h | nur Provision | niedrig |
@@ -146,18 +145,16 @@ UGC, E-Mail-Marketing, A/B-Tests. Begründung unter Punkt F.
 ## E. 30-Tage-Plan
 
 **Woche 1 — Blockaden lösen**
-- Tag 1: eine E-Mail an CJ mit **beiden** Fragen (GPSR-Verantwortlicher, Neutralversand)
+- Erledigt (12.08.2026): Neutralversand von CJ bestätigt, EU-verantwortliche Person geklärt (Alan Lorenz GbR selbst)
+- Tag 1: GPSR-Angaben (Name, Anschrift, Herstellerdaten) in die Produkt-Metafelder eintragen — mindestens für die 5 eBay-Kandidaten aus `EBAY-START.md`, danach den Rest
 - Tag 1: Judge.me-Bewertungen in der App löschen
 - Tag 2–3: Snippets der 10 rankenden Seiten neu schreiben
 - Tag 4–5: englische Seiten entscheiden — reparieren oder auslisten
 
-**Woche 2 — eBay, falls CJ zugesagt hat**
+**Woche 2 — eBay**
 - Gewerbliches eBay-Konto
 - Marketplace Connect installieren (kostenlos bis 50 Bestellungen/Monat)
-- 5 Angebote aus `EBAY-START.md`
-
-*Sagt CJ nein: Woche 2 stattdessen Lieferantenvergleich. Ohne
-GPSR-Verantwortlichen ist Marktplatzverkauf in der EU nicht zulässig.*
+- 5 Angebote aus `EBAY-START.md`, **erst nachdem die GPSR-Angaben auf diesen 5 Produkten stehen**
 
 **Woche 3 — aufräumen**
 - Sortiment auf 2–3 Bereiche verdichten
@@ -191,7 +188,7 @@ Und dann trennen sich die Wege:
 | Benötigte Verkäufe | **28 / Monat** |
 | Werbebudget | **0 €** |
 | Verkehr | ist dort schon |
-| Blockade | GPSR + Neutralversand |
+| Blockade | GPSR-Angaben je Produkt (Verantwortliche Person und Neutralversand sind seit 12.08.2026 geklärt) |
 
 ### Weg 2 — eigener Shop mit Werbung
 
@@ -267,11 +264,17 @@ Damit du nicht denkst, das hier sei vollständig:
 
 ## Was machen wir heute, diese Woche, und was gar nicht?
 
-### Heute — eine E-Mail, 15 Minuten
+### Heute — geklärt, jetzt eintragen
 
-**An CJdropshipping**, beide Fragen in einer Nachricht:
-1. Stellt ihr eine EU-verantwortliche Person nach GPSR Art. 16 bereit, und liefert ihr Herstellerdaten je Artikel?
-2. Ist Neutralversand möglich, also ohne CJ-Absender auf dem Paket?
+**CJ hat geantwortet** (12.08.2026): Versand ist immer neutral, kein
+CJ-Absender auf dem Paket. Und die EU-verantwortliche Person nach GPSR
+Art. 16 ist Alan Lorenz GbR selbst — keine externe Zusage nötig, aber
+damit auch keine Abkürzung: Name, Anschrift und Herstellerdaten müssen
+jetzt tatsächlich auf jedem Produkt stehen, nicht nur feststehen, wer
+sie liefert.
+
+**Nächster Schritt:** Metafelder für die 5 eBay-Kandidaten aus
+`EBAY-START.md` ausfüllen, dann für den Rest des Katalogs.
 
 **Und in der Judge.me-App** die erfundenen Bewertungen löschen.
 
