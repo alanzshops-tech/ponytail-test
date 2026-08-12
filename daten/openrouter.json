@@ -7,10 +7,10 @@
       "limit": null,
       "limit_reset": null,
       "limit_remaining": null,
-      "usage": 0,
-      "usage_daily": 0,
-      "usage_weekly": 0,
-      "usage_monthly": 0,
+      "usage": 1.194e-06,
+      "usage_daily": 1.194e-06,
+      "usage_weekly": 1.194e-06,
+      "usage_monthly": 1.194e-06,
       "is_free_tier": false,
       "expires_at": null,
       "rate_limit": {
@@ -23,7 +23,7 @@
   "guthaben": {
     "data": {
       "total_credits": 6,
-      "total_usage": 0
+      "total_usage": 1.194e-06
     }
   },
   "modelle": [
@@ -794,8 +794,8 @@
       "id": "deepseek/deepseek-v4-pro",
       "name": "DeepSeek: DeepSeek V4 Pro",
       "kontext": 1048576,
-      "preis_eingabe": 0.6317,
-      "preis_ausgabe": 1.2634
+      "preis_eingabe": 1.168,
+      "preis_ausgabe": 2.336
     },
     {
       "id": "deepseek/deepseek-v4-flash",
@@ -2919,26 +2919,191 @@
     "tokenizer"
   ],
   "guenstigstes": "inclusionai/ling-2.6-flash",
+  "bild_modelle": [
+    {
+      "id": "openrouter/auto-beta",
+      "name": "Auto Router (Beta)",
+      "rein": [
+        "text",
+        "image",
+        "audio",
+        "file",
+        "video"
+      ],
+      "raus": [
+        "text",
+        "image"
+      ],
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite-image",
+      "name": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-pro-image",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "openai/gpt-5.4-image-2",
+      "name": "OpenAI: GPT-5.4 Image 2",
+      "rein": [
+        "image",
+        "text",
+        "file"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 8.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "google/gemini-3.1-flash-image-preview",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-pro-image-preview",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "openai/gpt-5-image-mini",
+      "name": "OpenAI: GPT-5 Image Mini",
+      "rein": [
+        "file",
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "openai/gpt-5-image",
+      "name": "OpenAI: GPT-5 Image",
+      "rein": [
+        "image",
+        "text",
+        "file"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "google/gemini-2.5-flash-image",
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "openrouter/auto",
+      "name": "Auto Router",
+      "rein": [
+        "text",
+        "image",
+        "audio",
+        "file",
+        "video"
+      ],
+      "raus": [
+        "text",
+        "image"
+      ],
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    }
+  ],
   "probe": {
     "modell": "inclusionai/ling-2.6-flash",
     "auswahl": "guenstigste bezahlte",
-    "antwort": "Hundesofas sind bequem, waschbare Liegeplätze für Hunde, die Sicherheit und Entspannung bieten.",
+    "antwort": "Hundesofas sind bequem, robust und leicht sauber zu machen.",
     "verbrauch": {
       "prompt_tokens": 34,
-      "completion_tokens": 29,
-      "total_tokens": 63,
-      "cost": 1.194e-06,
+      "completion_tokens": 17,
+      "total_tokens": 51,
+      "cost": 8.5e-07,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 2,
+        "cached_tokens": 0,
         "cache_write_tokens": 0,
         "audio_tokens": 0,
         "video_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": 1.194e-06,
-        "upstream_inference_prompt_cost": 3.24e-07,
-        "upstream_inference_completions_cost": 8.7e-07
+        "upstream_inference_cost": 8.5e-07,
+        "upstream_inference_prompt_cost": 3.4e-07,
+        "upstream_inference_completions_cost": 5.1e-07
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,

@@ -8,7 +8,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | Grenze | None |
-| verbraucht | 0 |
+| verbraucht | 1.194e-06 |
 | verbleibend | None |
 | Gratisstufe | False |
 
@@ -17,7 +17,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | eingezahlt | 6 |
-| verbraucht | 0 |
+| verbraucht | 1.194e-06 |
 
 ## Modelle
 
@@ -48,12 +48,35 @@ Kostenlose Modelle sind gedrosselt und oft überlastet. Für
 eine Messung taugen sie nicht — ein Fehlschlag sagt dann
 nichts über den Zugang.
 
+## Bildfähige Modelle
+
+Modelle, deren `output_modalities` „image“ enthält — Kandidaten,
+um Produktbilder über die bestehende OpenRouter-Anbindung zu
+erzeugen oder zu bearbeiten, ohne ein separates Tool zu
+installieren.
+
+**11 von 406 Modellen** können Bilder ausgeben.
+
+| Modell | nimmt herein | Eingabe | Ausgabe |
+|---|---|---:|---:|
+| `openrouter/auto-beta` | text, image, audio, file, video | -1000000.0000 $ | -1000000.0000 $ |
+| `openrouter/auto` | text, image, audio, file, video | -1000000.0000 $ | -1000000.0000 $ |
+| `google/gemini-3.1-flash-lite-image` | image, text | 0.2500 $ | 1.5000 $ |
+| `google/gemini-2.5-flash-image` | image, text | 0.3000 $ | 2.5000 $ |
+| `google/gemini-3.1-flash-image` | image, text | 0.5000 $ | 3.0000 $ |
+| `google/gemini-3.1-flash-image-preview` | image, text | 0.5000 $ | 3.0000 $ |
+| `openai/gpt-5-image-mini` | file, image, text | 2.5000 $ | 2.0000 $ |
+| `google/gemini-3-pro-image` | image, text | 2.0000 $ | 12.0000 $ |
+| `google/gemini-3-pro-image-preview` | image, text | 2.0000 $ | 12.0000 $ |
+| `openai/gpt-5-image` | image, text, file | 10.0000 $ | 10.0000 $ |
+| `openai/gpt-5.4-image-2` | image, text, file | 8.0000 $ | 15.0000 $ |
+
 ## Rundlauf
 
-Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), Verbrauch `{'prompt_tokens': 34, 'completion_tokens': 29, 'total_tokens': 63, 'cost': 1.194e-06, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 2, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 1.194e-06, 'upstream_inference_prompt_cost': 3.24e-07, 'upstream_inference_completions_cost': 8.7e-07}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
+Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), Verbrauch `{'prompt_tokens': 34, 'completion_tokens': 17, 'total_tokens': 51, 'cost': 8.5e-07, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 8.5e-07, 'upstream_inference_prompt_cost': 3.4e-07, 'upstream_inference_completions_cost': 5.1e-07}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
 
 ```
-Hundesofas sind bequem, waschbare Liegeplätze für Hunde, die Sicherheit und Entspannung bieten.
+Hundesofas sind bequem, robust und leicht sauber zu machen.
 ```
 
 Erst das beweist den Zugang. `/key` zu lesen gelingt auch
