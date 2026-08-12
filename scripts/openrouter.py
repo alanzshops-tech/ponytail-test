@@ -139,6 +139,26 @@ def anwaerter(modelle: list[dict], guthaben: bool, anzahl: int = 5) -> list[str]
     return [m.get("id") for m in frei[:anzahl] if m.get("id")]
 
 
+def modalitaeten(m: dict) -> tuple[list, list]:
+    """(rein, raus) aus architecture.input_modalities/.output_modalities.
+    Leere Liste, wenn das Feld fehlt oder kein dict ist -- kein Raten."""
+    a = m.get("architecture")
+    if not isinstance(a, dict):
+        return [], []
+    rein = a.get("input_modalities")
+    raus = a.get("output_modalities")
+    return (rein if isinstance(rein, list) else [],
+            raus if isinstance(raus, list) else [])
+
+
+def gibt_bild_aus(m: dict) -> bool:
+    """Modelle, die Bilder ausgeben oder bearbeiten koennen -- Kandidaten
+    fuer Higsfield-artige Produktbild-Aufgaben ueber OpenRouter statt
+    ueber ein separat zu installierendes Tool."""
+    _, raus = modalitaeten(m)
+    return "image" in raus
+
+
 def schreibt_text(m: dict) -> bool:
     """Nimmt nur Modelle, die Text hineinnehmen und Text herausgeben.
 
@@ -195,6 +215,20 @@ def pruefen() -> dict:
             d["architektur_felder"] = sorted(arch)
         g = guenstigstes(liste)
         d["guenstigstes"] = g.get("id") if g else None
+
+        # Anlass: statt eines separat zu installierenden Bildwerkzeugs
+        # (kein GPU hier, Modellgewichte ausserhalb GitHub/PyPI/npm nicht
+        # erreichbar) erst pruefen, ob OpenRouter selbst Bilder ausgeben
+        # kann. Nur Modelle mit "image" in output_modalities zaehlen --
+        # das Feld kommt von OpenRouter selbst, nicht aus dem Gedaechtnis.
+        bild = [m for m in liste if gibt_bild_aus(m)]
+        d["bild_modelle"] = [
+            {"id": m.get("id"), "name": m.get("name"),
+             "rein": modalitaeten(m)[0], "raus": modalitaeten(m)[1],
+             "preis_eingabe": round(preis(m)[0], 4),
+             "preis_ausgabe": round(preis(m)[1], 4)}
+            for m in bild
+        ]
     return d
 
 
@@ -308,6 +342,27 @@ def bericht(d: dict) -> str:
                   "Kostenlose Modelle sind gedrosselt und oft überlastet. Für",
                   "eine Messung taugen sie nicht — ein Fehlschlag sagt dann",
                   "nichts über den Zugang.", ""]
+
+    bm = d.get("bild_modelle") or []
+    z += ["## Bildfähige Modelle", "",
+          "Modelle, deren `output_modalities` „image“ enthält — Kandidaten,",
+          "um Produktbilder über die bestehende OpenRouter-Anbindung zu",
+          "erzeugen oder zu bearbeiten, ohne ein separates Tool zu",
+          "installieren.", ""]
+    if bm:
+        z += [f"**{len(bm)} von {len(mod)} Modellen** können Bilder ausgeben.",
+              "",
+              "| Modell | nimmt herein | Eingabe | Ausgabe |",
+              "|---|---|---:|---:|"]
+        for m in sorted(bm, key=lambda x: x["preis_eingabe"] + x["preis_ausgabe"]):
+            z.append(f"| `{m['id']}` | {', '.join(m['rein']) or '–'} "
+                     f"| {m['preis_eingabe']:.4f} $ | {m['preis_ausgabe']:.4f} $ |")
+        z.append("")
+    else:
+        z += ["Keins gefunden. Entweder liefert OpenRouter das Feld für",
+              "kein Modell, oder aktuell kein Modell mit Bild-Ausgabe.",
+              "Steht so, auch wenn es enttäuschend ist — besser als eine",
+              "Vermutung.", ""]
 
     p = d.get("probe")
     if p:

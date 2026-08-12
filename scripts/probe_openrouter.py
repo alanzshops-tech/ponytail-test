@@ -216,6 +216,44 @@ def main() -> int:
     if fehler == v:
         print("OK      Modalitaetsfilter: Musik und Bild raus, Text bleibt")
 
+    # Bildfaehige Modelle. Anlass: statt eines lokal zu installierenden
+    # Bildwerkzeugs (kein GPU hier, Gewichte ausserhalb GitHub/PyPI/npm
+    # nicht erreichbar) erst pruefen, was OpenRouter selbst kann.
+    v = fehler
+    faelle_bild = [
+        ("Bildausgabe", {"architecture": {"input_modalities": ["text", "image"],
+                                          "output_modalities": ["image"]}}, True),
+        ("nur Text", {"architecture": {"input_modalities": ["text"],
+                                       "output_modalities": ["text"]}}, False),
+        ("ohne architecture", {}, False),
+    ]
+    for name, m, soll in faelle_bild:
+        if o.gibt_bild_aus(m) != soll:
+            print(f"FEHLER  Bildfilter/{name}: erwartet {soll}"); fehler += 1
+    if fehler == v:
+        print("OK      Bildfilter: nur echte output_modalities=image zaehlt")
+
+    # Bericht muss den Leerfall ausdruecklich benennen, nicht stillschweigend
+    # weglassen -- "nichts gefunden" ist ein Ergebnis, kein fehlender
+    # Abschnitt.
+    v = fehler
+    b4 = o.bericht({"stand": "x", "modelle": [
+        {"id": "text/eins", "name": "Eins", "kontext": 8000,
+         "preis_eingabe": 0.1, "preis_ausgabe": 0.2}], "bild_modelle": []})
+    if "Bildfähige Modelle" not in b4 or "Keins gefunden" not in b4:
+        print("FEHLER  Leerfall bei Bildmodellen nicht ausgewiesen"); fehler += 1
+    b5 = o.bericht({"stand": "x", "modelle": [
+        {"id": "bild/eins", "name": "Bild", "kontext": 8000,
+         "preis_eingabe": 1.0, "preis_ausgabe": 2.0}],
+        "bild_modelle": [{"id": "bild/eins", "name": "Bild",
+                          "rein": ["text", "image"], "raus": ["image"],
+                          "preis_eingabe": 1.0, "preis_ausgabe": 2.0}]})
+    for muss in ("bild/eins", "1 von 1 Modellen", "text, image"):
+        if muss not in b5:
+            print(f"FEHLER  Erfolgsfall Bildmodelle: '{muss}' fehlt"); fehler += 1
+    if fehler == v:
+        print("OK      Bildmodelle im Bericht: Leerfall und Erfolgsfall getrennt")
+
     print(f"\nFehlschlaege: {fehler}")
     return 1 if fehler else 0
 
