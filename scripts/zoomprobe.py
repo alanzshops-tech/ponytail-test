@@ -47,6 +47,44 @@ def zoom_pruefen(browser, pfad: str, bilder: Path) -> dict:
         seite.goto(SHOP + pfad, wait_until="load", timeout=60000)
         seite.wait_for_timeout(2500)
 
+        # Zusatzfrage, unabhaengig vom Zoom-Thema: welche App blendet den
+        # "Vertrag widerrufen"-Button ein? Sucht das Element ueber seinen
+        # Text, geht dann den Elternpfad hoch bis zu einem Knoten mit
+        # erkennbaren Merkmalen (id, class, data-*), und listet alle
+        # Skript-Adressen, die nicht von shopify.com selbst stammen --
+        # eine davon ist fast immer die Herkunft der App.
+        d["widerruf_button"] = seite.evaluate("""() => {
+          const alle = [...document.querySelectorAll('button, a, div, span')];
+          const treffer = alle.find(
+            el => (el.textContent || '').trim() === 'Vertrag widerrufen'
+                  && el.children.length === 0);
+          if (!treffer) return {gefunden: false};
+
+          const pfad = [];
+          let el = treffer;
+          for (let i = 0; i < 6 && el; i++) {
+            pfad.push({
+              tag: el.tagName,
+              id: el.id || null,
+              klassen: el.className && typeof el.className === 'string'
+                ? el.className : null,
+              data_attribute: [...el.attributes]
+                .filter(a => a.name.startsWith('data-'))
+                .map(a => `${a.name}="${a.value}"`.slice(0, 120)),
+            });
+            el = el.parentElement;
+          }
+
+          const fremdeSkripte = [...document.querySelectorAll('script[src]')]
+            .map(s => s.src)
+            .filter(src => src && !src.includes('cdn.shopify.com')
+                         && !src.includes('shopifycloud.com')
+                         && !src.includes('homeeins.de'));
+
+          return {gefunden: true, elternpfad: pfad,
+                  fremde_skripte: [...new Set(fremdeSkripte)].slice(0, 15)};
+        }""")
+
         # Frage 1: erlaubt das Meta-Tag Pinch-Zoom ueberhaupt?
         meta = seite.evaluate("""() => {
           const m = document.querySelector('meta[name="viewport"]');
@@ -134,13 +172,42 @@ def bericht(d: dict) -> str:
     z = ["# Zoomprobe — funktioniert Bild-Zoom auf dem Handy?", "",
          f"Seite: `{d.get('pfad')}`", "",
          "Gemessen, nicht angenommen: zwei unabhängige Fragen, jede mit "
-         "Screenshot als Beleg.", "",
-         "## 1. Erlaubt das Viewport-Meta-Tag Pinch-Zoom?", "",
-         f"`{d.get('viewport_meta') or '(kein viewport-Meta-Tag gefunden)'}`",
-         ""]
+         "Screenshot als Beleg.", "", "## 0. Herkunft des \"Vertrag "
+         "widerrufen\"-Buttons", ""]
+    wb = d.get("widerruf_button") or {}
+    if not wb.get("gefunden"):
+        z += ["Button auf dieser Seite nicht gefunden (Text stimmt "
+              "nicht exakt überein oder er lädt verzögert nach).", ""]
+    else:
+        z.append("Elternpfad vom Button nach oben, bis zu 6 Ebenen:")
+        z.append("")
+        for i, e in enumerate(wb.get("elternpfad", [])):
+            merkmale = []
+            if e.get("id"):
+                merkmale.append(f"id=\"{e['id']}\"")
+            if e.get("klassen"):
+                merkmale.append(f"class=\"{e['klassen']}\"")
+            merkmale += e.get("data_attribute") or []
+            z.append(f"{i}. `<{e['tag'].lower()}>` "
+                     f"{' '.join(merkmale) if merkmale else '(keine Merkmale)'}")
+        fremde = wb.get("fremde_skripte") or []
+        z += ["", f"**Fremde Skript-Adressen auf der Seite** "
+              f"({len(fremde)}, ohne shopify.com/homeeins.de selbst):", ""]
+        if fremde:
+            z += [f"- `{s}`" for s in fremde]
+        else:
+            z.append("keine gefunden — der Button stammt dann vermutlich "
+                     "aus einem Theme-Abschnitt oder einer Shopify-eigenen "
+                     "App (z. B. Shopify Subscriptions), nicht von einem "
+                     "externen Anbieter.")
+        z.append("")
     if d.get("fehler"):
         z += [f"**Fehlgeschlagen: {d['fehler']}**", ""]
         return "\n".join(z) + "\n"
+
+    z += ["## 1. Erlaubt das Viewport-Meta-Tag Pinch-Zoom?", "",
+         f"`{d.get('viewport_meta') or '(kein viewport-Meta-Tag gefunden)'}`",
+         ""]
 
     moeglich = d.get("pinch_zoom_technisch_moeglich")
     z.append(f"**Pinch-Zoom technisch möglich: "
