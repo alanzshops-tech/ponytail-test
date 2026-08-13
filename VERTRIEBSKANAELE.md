@@ -42,6 +42,34 @@ und die Search-Console-API (die hier läuft) meldet nur normale
 Web-Suche, keine Shopping-Impressionen. Wer das wirklich wissen will,
 muss im Google-Merchant-Center-Konto selbst nachsehen (Diagnose-Tab).
 
+## GTIN-Fund und Behebung (13.08.2026, nachts)
+
+**Gemessen:** Stichprobe von 20 aktiven Produkten — `barcode` ist bei
+**allen 20** leer (`null`). Gegengeprüft in allen CJ-Rohdaten
+(`daten/cj-*.json`): kein GTIN-, EAN- oder UPC-Feld irgendwo vorhanden.
+Das sind generische Dropshipping-Artikel ohne echte Herstellerkennung —
+kein Datenpflege-Versäumnis, sondern der Normalfall bei diesem
+Geschäftsmodell.
+
+**Warum das wichtig ist:** Google Merchant Center lehnt Angebote ohne
+GTIN/MPN ab oder schränkt ihre Sichtbarkeit ein, *außer* das Produkt ist
+explizit als "ohne Standard-Kennung" markiert. Shopifys "Google &
+YouTube"-App liest dafür das Metafeld
+`mm-google-shopping.custom_product` (boolean) — via
+`metafieldDefinitions`-Abfrage gefunden, nicht geraten. Es war auf
+allen geprüften Produkten ungesetzt.
+
+**Behoben:** `custom_product = true` per `metafieldsSet` auf allen 101
+aktiven Produkten gesetzt (5 Batches à ≤25, 0 `userErrors`, per
+Stichprobe zurückgelesen bestätigt). Die Marke (`vendor: "Homeeins"`)
+war bereits überall gesetzt — zusammen mit `custom_product = true`
+sollte das dem Merchant-Center-Feed die fehlenden Signale liefern, die
+er für "kein GTIN vorhanden, trotzdem gültig" braucht.
+
+**Weiterhin ungeprüft:** ob das den Feed tatsächlich verbessert, zeigt
+sich nur im Merchant-Center-Diagnose-Tab selbst — nicht von hier aus
+einsehbar. Das ist die richtige nächste Prüfung für einen Menschen.
+
 **Ebenso ungeprüft:** Amazon Channel und Microsoft Channel könnten
 genauso angebunden, aber mit Fehlern im Hintergrund liegen (abgelehnte
 Angebote, fehlende Kategoriezuordnung). Nicht behauptet, nur weil der

@@ -135,6 +135,7 @@ Punktzahlen sehen wie Wissen aus, ohne welches zu sein.
 | 🟢 **P1** | **eBay: 5 Angebote einstellen** (nach P0). Texte fertig in `EBAY-START.md`. | 25–28 Verkäufe = 1.000 € | 2–3 h | nur Provision | niedrig |
 | 🟡 **P2** | **Sortiment halbieren.** 101 aktive → ~40 in 2–3 Bereichen. | Fokus, weniger Pflege, klarere Marke | 3–4 h | 0 € | mittel |
 | 🟡 **P2** | **12 Verkaufskanäle durchsehen**, kostenpflichtige ohne Umsatz kündigen. | gespartes Geld | 1 h | 0 € | keins |
+| ✅ erledigt | ~~GTIN-Kennzeichnung für Google Shopping fehlte auf allen 101 aktiven Produkten.~~ Metafeld `mm-google-shopping.custom_product = true` gesetzt (13.08.2026 nachts), `vendor` war bereits überall gesetzt. Details, inkl. warum das nötig war: `VERTRIEBSKANAELE.md`. | könnte Sichtbarkeit im Google-Shopping-Feed verbessern | erledigt | 0 € | — |
 | 🟡 **P2** | **Deko-Kleinteile zurückholen** — die einzige Kategorie mit echten Verkäufen. | testet ein belegtes Signal | 2 h | 0 € | niedrig |
 | ⚪ **P3** | Währungsformat, Praxis-Note 58, Reels veröffentlichen | Kosmetik und Reichweite | je 1 h | 0 € | keins |
 
