@@ -67,6 +67,13 @@ Muster nur nachgestellte Währungszeichen fand.
 **Leeres Ergebnis ≠ kein Problem.** Vor „nichts gefunden" immer eine
 Probe mit einem Begriff, der treffen *muss*.
 
+**Shopifys `collectionUpdate`-Feld `seo` ersetzt, statt zu ergänzen.**
+Wer nur `seo.title` mitschickt, löscht `seo.description` — passiert am
+13.08.2026 bei der „dekoration"-Kollektion, sofort bemerkt und
+zurückgeschrieben, weil danach nachgeprüft wurde. Bei jeder
+`collectionUpdate`/`productUpdate`-Mutation mit einem `seo`-Feld immer
+beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
+
 ## Werkzeuge
 
 | Zweck | Werkzeug | Datei |
