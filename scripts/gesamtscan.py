@@ -133,30 +133,67 @@ def main() -> None:
         z.append("")
     # Der erste Lauf zeigte auf 34 Seiten fast durchgehend dieselbe
     # Praxis-Note. Gleiche Zahl überall heißt: eine gemeinsame Ursache,
-    # nicht 34 einzelne. Also die durchgefallenen Prüfpunkte zählen,
-    # statt bei der Note stehenzubleiben.
-    durchgefallen: dict[str, dict] = {}
-    for e in eintraege:
-        for schluessel in ("audits", "failedAudits", "auditResults"):
-            a = e.get(schluessel)
-            if not isinstance(a, dict):
+    # nicht 34 einzelne. ci-result.json (auch mit --reporter jsonExpanded)
+    # enthält aber nur die Kategorien-Scores, keine einzelnen Prüfpunkte —
+    # nachgeprüft im Quellcode von @unlighthouse/core (reportJsonExpanded
+    # reduziert jeden Report auf categories + eine feste Metrik-Liste).
+    # Die vollen Lighthouse-Berichte je Seite liegen aber trotzdem auf der
+    # Platte, unter <ausgabe>/**/lighthouse.json — dort stehen die
+    # einzelnen Audits mit Score. Die werden hier zusätzlich gelesen, ohne
+    # sie zu committen (nur die Zusammenfassung landet im Bericht).
+    durchgefallen: dict[str, dict[str, dict]] = {f: {} for f in FELDER_SCORE}
+    lh_dateien = list(ordner.rglob("lighthouse.json")) if ordner.exists() else []
+    lh_gelesen = 0
+    for p in lh_dateien:
+        try:
+            lh = json.loads(p.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        kategorien = lh.get("categories")
+        audits_alle = lh.get("audits")
+        if not isinstance(kategorien, dict) or not isinstance(audits_alle, dict):
+            continue
+        lh_gelesen += 1
+        for kat_id in FELDER_SCORE:
+            kat = kategorien.get(kat_id)
+            if not isinstance(kat, dict):
                 continue
-            for aid, av in a.items():
+            for ref in kat.get("auditRefs") or []:
+                aid = ref.get("id") if isinstance(ref, dict) else None
+                if not aid:
+                    continue
+                av = audits_alle.get(aid)
                 if not isinstance(av, dict):
                     continue
                 s = av.get("score")
-                if isinstance(s, (int, float)) and s < 0.9:
-                    d0 = durchgefallen.setdefault(
+                # scoreDisplayMode "notApplicable"/"informative" liefern
+                # score: null — das ist kein Durchfallen, sondern "trifft
+                # nicht zu". Nur echte Zahlenwerte unter 0.9 zählen.
+                if isinstance(s, (int, float)) and not isinstance(s, bool) and s < 0.9:
+                    eintrag = durchgefallen[kat_id].setdefault(
                         aid, {"titel": av.get("title", aid), "seiten": 0})
-                    d0["seiten"] += 1
-    if durchgefallen:
+                    eintrag["seiten"] += 1
+
+    if lh_gelesen == 0:
         z += ["## Prüfpunkte, die auf vielen Seiten durchfallen", "",
-              "| Prüfpunkt | betroffene Seiten |", "|---|---:|"]
-        for aid, v in sorted(durchgefallen.items(),
-                             key=lambda x: -x[1]["seiten"])[:20]:
-            z.append(f"| {v['titel']} (`{aid}`) | {v['seiten']} von "
-                     f"{len(eintraege)} |")
-        z.append("")
+              f"Keine `lighthouse.json`-Dateien unter `{ordner}` gefunden — "
+              "nur die Kategorien-Scores oben sind belastbar, welche "
+              "einzelnen Prüfpunkte dahinterstecken bleibt offen. Das ist "
+              "ein leeres Ergebnis, kein \"kein Problem\".", ""]
+    else:
+        for kat_id, titel in zip(FELDER_SCORE,
+                                  ("Tempo", "Barrierefreiheit", "Praxis", "SEO")):
+            kat_durchgefallen = durchgefallen[kat_id]
+            if not kat_durchgefallen:
+                continue
+            z += [f"## {titel}: Prüfpunkte, die auf vielen Seiten durchfallen "
+                  f"({lh_gelesen} Berichte gelesen)", "",
+                  "| Prüfpunkt | betroffene Seiten |", "|---|---:|"]
+            for aid, v in sorted(kat_durchgefallen.items(),
+                                 key=lambda x: -x[1]["seiten"])[:20]:
+                z.append(f"| {v['titel']} (`{aid}`) | {v['seiten']} von "
+                         f"{lh_gelesen} |")
+            z.append("")
 
     z += ["Skala 0–100. Google nennt ab 90 gut, unter 50 schlecht. Der "
           "Wert schwankt zwischen Läufen um einige Punkte — belastbar ist "

@@ -56,8 +56,10 @@ jobs:
             --budget "$BUDGET" \
             --reporter jsonExpanded \
             --output-path .unlighthouse || echo "Budget verfehlt oder Fehler"
-          echo "--- erzeugte Dateien ---"
+          echo "--- ci-result.json ---"
           find .unlighthouse -maxdepth 2 -name '*.json' -printf '%p %s\n' || true
+          echo "--- lighthouse.json je Seite (Detail-Audits, wird nicht committet) ---"
+          find .unlighthouse -name 'lighthouse.json' | wc -l || true
 
       - name: Auswerten
         if: always()
