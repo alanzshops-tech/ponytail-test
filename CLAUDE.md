@@ -83,7 +83,13 @@ Probe mit einem Begriff, der treffen *muss*.
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
-`MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`.
+`MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`.
+
+`TRAFFIC.md` — externe Recherche (Stand 13.08.2026) zu allen
+Traffic-Strategien, priorisiert P0–P3: die 10 unbeklickten Rankings und
+die 17 fertigen Reels zuerst (kostenlos, sofort einsetzbar), dann
+Pinterest/TikTok-Aufbau. Vor jeder neuen Marketing-Idee zuerst dort
+nachsehen, nicht neu recherchieren.
 
 `PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
 Produktbildern, die messbar besser verkaufen: wie viele Bilder,
