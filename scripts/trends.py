@@ -108,9 +108,17 @@ def tagestrends() -> dict:
 
     Jede andere Funktion hier braucht schon einen Verdacht, wonach gesucht
     wird -- die Gruppen in trends.config.json sind von Hand gewählt. Das
-    hier ist die einzige wirklich nischenunabhängige Abfrage: was wird
-    heute tatsächlich in Deutschland gesucht, unabhängig vom bestehenden
-    Sortiment. pytrends' today_searches() braucht kein Stichwort.
+    hier sollte die einzige wirklich nischenunabhängige Abfrage sein: was
+    wird heute tatsächlich in Deutschland gesucht, unabhängig vom
+    bestehenden Sortiment.
+
+    GEMESSEN am 13.08.2026: today_searches() antwortet mit HTTP 404.
+    Google hat den zugrundeliegenden "Daily Trends"-Endpunkt abgeschaltet,
+    auf dem pytrends hier aufsetzt -- das Paket selbst ist seit April 2025
+    archiviert und wird nicht mehr gepflegt. Das ist kein vorübergehender
+    Fehler, der sich mit Warten löst. build_payload()/interest_over_time(),
+    worauf gruppe_holen() oben aufbaut, ist ein anderer, weiterhin
+    funktionierender Endpunkt und davon nicht betroffen.
     """
     py = klient()
     for versuch in range(1, VERSUCHE + 1):
