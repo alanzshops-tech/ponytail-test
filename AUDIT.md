@@ -129,7 +129,8 @@ Punktzahlen sehen wie Wissen aus, ohne welches zu sein.
 |---|---|---|---|---|---|
 | 🔥 **P0** | **GPSR-Pflichtangaben je Produkt eintragen.** Verantwortliche Person steht fest (Alan Lorenz GbR), jetzt Name/Anschrift + Herstellerdaten in die Metafelder aller 146 Produkte. | verhindert Bußgeld bis 100.000 € und Marktplatz-Sperren | Metafelder, alle Produkte | 0 € | — |
 | 🔥 **P0** | **Judge.me `aggregateRating` entfernen.** Sterne ohne Käufer, nur in der App löschbar. | beseitigt Abmahnrisiko | 15 Min | 0 € | — |
-| 🟢 **P1** | **Snippets der 10 Seiten auf Platz 1–5 überarbeiten.** Title + Description je Seite. | einziger Verkehr, der ohne Geld kommt | 2–3 h | 0 € | keins |
+| 🔥 **P0** | **Sitemap in der Search Console einreichen — noch nie passiert.** Live geprüft 13.08.2026 (`GSC.md`, neue Sitemap-Sektion). Laut Recherche einer der häufigsten Gründe, warum neue Shops kaum indexiert werden. Der Versuch, das automatisiert per API nachzuholen, scheiterte an Absicht: das Dienstkonto `gsc-reader` hat nur Lesezugriff (403, sauber abgefangen). **Braucht einen Menschen:** search.google.com/search-console → Sitemaps → `https://www.homeeins.de/sitemap.xml` einreichen. Zwei Minuten. | könnte die Wurzel des 0-Klicks-Problems sein, nicht nur Snippets | 2 Min (nur Mensch) | 0 € | — |
+| 🟢 **P1** | ~~Snippets der 10 Seiten auf Platz 1–5 überarbeiten.~~ Geprüft 13.08.2026 — größtenteils schon ordentlich, siehe Korrektur bei Chance #1 oben. | — | erledigt | 0 € | — |
 | 🟢 **P1** | **Englische `/en/`-Seiten prüfen:** Titel reparieren oder Seiten aus dem Index nehmen. | stoppt Verschwendung guter Rankings | 1–2 h | 0 € | niedrig |
 | 🟢 **P1** | **eBay: 5 Angebote einstellen** (nach P0). Texte fertig in `EBAY-START.md`. | 25–28 Verkäufe = 1.000 € | 2–3 h | nur Provision | niedrig |
 | 🟡 **P2** | **Sortiment halbieren.** 101 aktive → ~40 in 2–3 Bereichen. | Fokus, weniger Pflege, klarere Marke | 3–4 h | 0 € | mittel |

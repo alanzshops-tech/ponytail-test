@@ -91,7 +91,7 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
-`SOCIAL.md`.
+`SOCIAL.md`, `VERTRIEBSKANAELE.md`.
 
 `SOCIAL.md` — **vor jeder Social-Media-Aktion zuerst hier lesen, dann
 live mit `mcp__Metricool__getScheduledPosts` gegenprüfen.** Es läuft
@@ -100,6 +100,12 @@ Instagram, TikTok, YouTube, Pinterest, Bluesky, LinkedIn) — mehrfach in
 dieser Sitzung fälschlich als "nicht vorhanden" angenommen, weil
 Metricool-Aktionen keine Spur im Git hinterlassen. Diese Datei ist der
 Ausgleich dafür, aber nur ein Schnappschuss vom 13.08.2026.
+
+`VERTRIEBSKANAELE.md` — derselbe blinde Fleck wie bei `SOCIAL.md`, nur
+für Shopifys eigene Sales Channels statt Metricool: Google & YouTube,
+Microsoft (Bing), Amazon, TikTok, Pinterest, Instagram Shop-AI sind
+längst verbunden und Produkte dorthin veröffentlicht. **Vor dem
+Vorschlagen "Google Shopping einrichten" o. ä. zuerst hier nachsehen.**
 
 `TRAFFIC.md` — externe Recherche (Stand 13.08.2026) zu allen
 Traffic-Strategien, priorisiert P0–P3. **Achtung:** Der Abschnitt zu den
