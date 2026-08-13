@@ -83,7 +83,14 @@ Probe mit einem Begriff, der treffen *muss*.
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
-`MARGE.md`, `NISCHEN.md`, `TRENDS.md`.
+`MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`.
+
+`PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
+Produktbildern, die messbar besser verkaufen: wie viele Bilder,
+welche Bildarten, Möbel-/Haustier-spezifische Regeln, Mobil-Zoom,
+Ladezeit, Alt-Text/SEO, UGC-Fotos, und die neue EU-AI-Act-Kennzeichnung
+für KI-Bilder. Vor jeder Änderung an Produktbildern zuerst dort
+nachsehen, nicht neu recherchieren.
 
 ## MCP-Server (`.mcp.json`)
 
