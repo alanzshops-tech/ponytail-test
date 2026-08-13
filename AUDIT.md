@@ -319,14 +319,15 @@ erst an echten Bestellungen — bisher: 0, wie bei den 146 anderen.
 | Verkaufspreis | 29,99 € / 39,99 € | Shopify |
 | Deckungsbeitrag | ~21–28 € | Rechnung |
 | GPSR-Angaben | **vorhanden** | live geprüft |
-| Bewertungen | 5 Sterne, 0 Bewertungen | live geprüft |
+| Bewertungen | ~~5 Sterne, 0 Bewertungen~~ → behoben (App deaktiviert) | live geprüft |
 
-**2. Dasselbe Judge.me-Problem wächst mit jedem neuen Produkt.**
-Die Taschenlampe zeigt fünf volle Sterne ohne eine einzige Bewertung —
-identisch zum bereits bekannten Fall auf `samt-sessel`. Das ist kein
-Einzelfall mehr, sondern ein systematisches Verhalten der App bei
-**jedem** neu angelegten Produkt. Sollte vor der nächsten
-Produktveröffentlichung geprüft werden, nicht danach.
+**2. Dasselbe Judge.me-Problem wächst mit jedem neuen Produkt — behoben.**
+Die Taschenlampe zeigte fünf volle Sterne ohne eine einzige Bewertung —
+identisch zum bereits bekannten Fall auf `samt-sessel`, also kein
+Einzelfall mehr, sondern systematisches Verhalten der App bei jedem neu
+angelegten Produkt. **Update 13.08.2026:** Judge.me wurde deaktiviert.
+Live geprüft — keine Sterne mehr sichtbar, stattdessen ein neutraler
+"Be the first to write a review"-Hinweis (auf Englisch, siehe P3 unten).
 
 **3. CJs deutsches Lager ist instabiler als angenommen.** Kommode und
 Couchtisch — beide am 10.08. mit echten SKUs und Bestand bestätigt —
@@ -375,7 +376,8 @@ dazu, beide 🔥 P0 wegen wachsendem Schaden bei jedem neuen Produkt:
 
 | Prio | Maßnahme | Beleg |
 |---|---|---|
-| 🔥 P0 | Judge.me-Sterne-Anzeige grundsätzlich prüfen/abstellen, bevor weitere Produkte veröffentlicht werden | jetzt 2 von 2 geprüften neuen Produkten betroffen |
+| ✅ erledigt | ~~Judge.me-Sterne-Anzeige grundsätzlich prüfen/abstellen~~ — App am 13.08.2026 deaktiviert, live geprüft: keine Sterne mehr auf der Taschenlampen-Seite, stattdessen neutrales "Be the first to write a review" | Frisches Foto, `bilder/products-led-taschenlampe-…-mobil.jpg` |
 | 🟢 P1 | CJ-Bestand vor jedem Einkauf frisch prüfen, nicht auf alte Daten verlassen | Kommode/Couchtisch-Fund |
 | 🟡 P2 | Faszienrolle manuell bei CJ nachsehen (Mensch, wegen Captcha) | höchste gemessene Nachfrage im Datensatz |
 | 🟡 P2 | Bilder der übrigen 145 Produkte gegen `PRODUKTBILDER.md`-Checkliste prüfen | bisher nur 1 von 146 geprüft |
+| ⚪ P3 | Judge.me-Deaktivierung hat den Bewertungsblock auf Englisch zurückgesetzt ("Customer Reviews / Be the first to write a review") statt Deutsch — kurz prüfen, ob das so gewollt ist oder ein Theme-Text nachgestellt werden muss | live beobachtet, 13.08.2026 |
