@@ -106,3 +106,28 @@ Abfrage bestätigt — das ist der nächste Schritt, kein Ergebnis.
 - **Bis wann läuft der Kalender?** Zuletzt geprüft bis 05.10.2026, letzter
   gefundener Post 22.09.2026. Nicht abschließend geprüft, ob danach noch
   etwas eingeplant ist.
+
+## Nachtrag 13.08.2026 (abends) — zwei neue Pinterest-Pins
+
+Zu den zwei neuen Ratgebern (`buerostuhl-ergonomie-worauf-es-ankommt`,
+`kratzbaum-groesse-material-standort`, siehe `TRAFFIC.md`) je ein Pin
+über `mcp__Metricool__createScheduledPost` eingeplant, gleiches Board
+(`1072490167452344718`) wie alle bisherigen Pins:
+
+| Pin | Datum | Bild |
+|---|---|---|
+| Kratzbaum-Ratgeber | 16.08.2026, 19:00 | Produktfoto kompakter Kratzbaum |
+| Bürostuhl-Ratgeber | 19.08.2026, 19:00 | Produktfoto Bürostuhl |
+
+Bewusst nicht am 17.08. eingeplant — da lag schon ein Pinterest-Pin
+direkt auf das Bürostuhl-Produkt (`buerostuhl-premium-relaxfunktion-
+135-grad`, 20:00 Uhr). Der Ratgeber-Pin verlinkt stattdessen auf den
+Blogartikel, nicht direkt aufs Produkt — ergänzend, nicht doppelt.
+
+**Wichtig für nächste Sitzungen:** `createScheduledPost` verlangt sowohl
+den Top-Level-Parameter `date` als auch `info.publicationDate` (gleicher
+Zeitpunkt, zweimal) — ohne `info.publicationDate` schlägt der Aufruf
+fehl. `info.providers` darf nur Netzwerke enthalten, für die auch
+`...Data` mitgeschickt wird (z. B. kein `instagramData`, wenn nur
+`pinterest` in `providers` steht) — sonst Fehler „networkData contains
+data for network X not listed in providers".

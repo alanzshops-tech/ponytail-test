@@ -139,10 +139,9 @@ Zwei weitere Ratgeber im gleichen Muster ergänzt, live veröffentlicht:
 - [„Kratzbaum kaufen: Welche Größe passt zu deiner Katze?"](https://www.homeeins.de/blogs/news/kratzbaum-groesse-material-standort)
 
 Beide verlinken auf die jeweiligen realen Produkte (Bürostuhl 135°,
-kompakter und XXL-Kratzbaum) und passende Kollektionen. Noch **nicht**
-erledigt: Pinterest-Pins dazu, wie bei den beiden bestehenden
-Hundemöbel-Ratgebern (siehe `SOCIAL.md`) — dafür erst nachfragen, bevor
-etwas in Metricool eingeplant wird.
+kompakter und XXL-Kratzbaum) und passende Kollektionen. Beide auch als
+Pinterest-Pin eingeplant (Details: `SOCIAL.md`), wie bei den zwei
+bestehenden Hundemöbel-Ratgebern.
 
 ---
 
