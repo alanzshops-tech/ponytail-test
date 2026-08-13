@@ -122,6 +122,46 @@
         "kettensäge akku",
         "wäschespinne"
       ]
+    },
+    {
+      "name": "kueche",
+      "begriffe": [
+        "küchenwagen",
+        "gewürzregal",
+        "mülleimer sensor",
+        "wasserfilter kanne",
+        "brotkasten"
+      ]
+    },
+    {
+      "name": "schlafzimmer",
+      "begriffe": [
+        "matratzentopper",
+        "verdunkelungsvorhang",
+        "leselampe bett",
+        "bettwäsche waffel",
+        "unterbett box"
+      ]
+    },
+    {
+      "name": "buero-technik",
+      "begriffe": [
+        "monitorarm",
+        "schreibtisch höhenverstellbar",
+        "kabelbox schreibtisch",
+        "aktenschrank",
+        "laptop ständer"
+      ]
+    },
+    {
+      "name": "fitness-zuhause",
+      "begriffe": [
+        "yogamatte dick",
+        "klimmzugstange tür",
+        "hantelset verstellbar",
+        "faszienrolle",
+        "widerstandsband set"
+      ]
     }
   ]
 }
