@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12",
+  "stand": "2026-08-13",
   "schluessel": {
     "data": {
       "is_management_key": false,
@@ -7,10 +7,10 @@
       "limit": null,
       "limit_reset": null,
       "limit_remaining": null,
-      "usage": 0.068293914,
-      "usage_daily": 0.068293914,
-      "usage_weekly": 0.068293914,
-      "usage_monthly": 0.068293914,
+      "usage": 0.07532702,
+      "usage_daily": 0,
+      "usage_weekly": 0.07532702,
+      "usage_monthly": 0.07532702,
       "is_free_tier": false,
       "expires_at": null,
       "rate_limit": {
@@ -23,10 +23,45 @@
   "guthaben": {
     "data": {
       "total_credits": 6,
-      "total_usage": 0.068293914
+      "total_usage": 0.07532702
     }
   },
   "modelle": [
+    {
+      "id": "bytedance-seed/seed-2-1-turbo",
+      "name": "ByteDance Seed: Seed 2.1 Turbo",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "qwen/qwen3.8-2.4t-a95b",
+      "name": "Qwen: Qwen3.8 2.4T A95B",
+      "kontext": 1000000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-code",
+      "name": "ByteDance Seed: Seed-2.0-Code",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro-0813",
+      "name": "DeepSeek: DeepSeek V4 Pro 0813",
+      "kontext": 1048576,
+      "preis_eingabe": 0.435,
+      "preis_ausgabe": 0.87
+    },
+    {
+      "id": "x-ai/grok-4.6",
+      "name": "SpaceXAI: Grok 4.6",
+      "kontext": 500000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
     {
       "id": "liquid/lfm-2.5-2.6b:free",
       "name": "LiquidAI: LFM2.5-2.6B (free)",
@@ -37,7 +72,7 @@
     {
       "id": "nvidia/nemotron-3.5-lightning",
       "name": "NVIDIA: Nemotron 3.5 Lightning",
-      "kontext": 262144,
+      "kontext": 1048576,
       "preis_eingabe": 0.1,
       "preis_ausgabe": 0.25
     },
@@ -70,13 +105,6 @@
       "preis_ausgabe": 1.5
     },
     {
-      "id": "inclusionai/ling-3.0-tiny:free",
-      "name": "inclusionAI: Ling 3.0 Tiny (free)",
-      "kontext": 262144,
-      "preis_eingabe": 0.0,
-      "preis_ausgabe": 0.0
-    },
-    {
       "id": "meta/muse-spark-1.2",
       "name": "Meta: Muse Spark 1.2",
       "kontext": 1048576,
@@ -103,13 +131,6 @@
       "kontext": 1048576,
       "preis_eingabe": 0.08,
       "preis_ausgabe": 0.18
-    },
-    {
-      "id": "bytedance-seed/seed-2.0-code",
-      "name": "ByteDance Seed: Seed-2.0-Code",
-      "kontext": 262144,
-      "preis_eingabe": 0.5,
-      "preis_ausgabe": 3.0
     },
     {
       "id": "thinkingmachines/inkling-small",
@@ -444,8 +465,8 @@
       "id": "z-ai/glm-5.2",
       "name": "Z.ai: GLM 5.2",
       "kontext": 1048576,
-      "preis_eingabe": 0.5,
-      "preis_ausgabe": 3.15
+      "preis_eingabe": 0.63,
+      "preis_ausgabe": 1.98
     },
     {
       "id": "z-ai/glm-5.2:batch",
@@ -465,8 +486,8 @@
       "id": "moonshotai/kimi-k2.7-code",
       "name": "MoonshotAI: Kimi K2.7 Code",
       "kontext": 262144,
-      "preis_eingabe": 0.7,
-      "preis_ausgabe": 3.5
+      "preis_eingabe": 0.67,
+      "preis_ausgabe": 3.4
     },
     {
       "id": "moonshotai/kimi-k2.7-code:batch",
@@ -864,8 +885,8 @@
       "id": "moonshotai/kimi-k2.6",
       "name": "MoonshotAI: Kimi K2.6",
       "kontext": 262144,
-      "preis_eingabe": 0.5795,
-      "preis_ausgabe": 2.44
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.0
     },
     {
       "id": "anthropic/claude-opus-4.7",
@@ -1116,8 +1137,8 @@
       "id": "qwen/qwen3.5-35b-a3b",
       "name": "Qwen: Qwen3.5-35B-A3B",
       "kontext": 262144,
-      "preis_eingabe": 0.14,
-      "preis_ausgabe": 1.0
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.25
     },
     {
       "id": "qwen/qwen3.5-27b",
@@ -1683,8 +1704,8 @@
       "id": "z-ai/glm-4.6",
       "name": "Z.ai: GLM 4.6",
       "kontext": 204800,
-      "preis_eingabe": 0.55,
-      "preis_ausgabe": 2.2
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.0
     },
     {
       "id": "anthropic/claude-sonnet-4.5",
@@ -1781,7 +1802,7 @@
       "id": "qwen/qwen3-next-80b-a3b-instruct",
       "name": "Qwen: Qwen3 Next 80B A3B Instruct",
       "kontext": 262144,
-      "preis_eingabe": 0.09,
+      "preis_eingabe": 0.1,
       "preis_ausgabe": 1.1
     },
     {
@@ -2592,7 +2613,7 @@
     {
       "id": "anthracite-org/magnum-v4-72b",
       "name": "Magnum v4 72B",
-      "kontext": 16384,
+      "kontext": 32768,
       "preis_eingabe": 3.0,
       "preis_ausgabe": 5.0
     },
@@ -2873,7 +2894,6 @@
   "kostenlos": [
     "liquid/lfm-2.5-2.6b:free",
     "nvidia/nemotron-3.5-lightning:free",
-    "inclusionai/ling-3.0-tiny:free",
     "poolside/laguna-s-2.1:free",
     "poolside/laguna-xs-2.1:free",
     "cohere/north-mini-code:free",
@@ -3053,24 +3073,24 @@
   "probe": {
     "modell": "inclusionai/ling-2.6-flash",
     "auswahl": "guenstigste bezahlte",
-    "antwort": "Aktuell (August 2026) gelten laut den genannten Quellen folgende drei Dropshipping-Produkte im Bereich Haustiere/Hunde als besonders trendig:\n\n1. **GhostGuard™ Dog Mask** – Ein maskenartiges Halter für Hunde, das Kontrolle und Sichtbarkeit verbessert und sich durch ein futuristisches, maskenbasiertes Design auszeichnet.  \n   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)\n\n2. **PureFlow™ Pet Fountain** – Eine stromlose, gravity-basierte Trinkbrunnen für Haustiere, die frisches Wasser ohne Strom liefert.  \n   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)\n\n3. **No-Pull Dog Harness** – Funktionale Geschirr-Systeme mit frontclip-Technik, die bei großen oder energischen Hunden helfen, Ziehen zu reduzieren und sicherer zu führen.  \n   Quelle: [Dog Harness Dropshipping 2026: Top Trends & Profit Tips](https://www.accio.com/business/dog-harness-dropshipping)",
+    "antwort": "Konkretes Produkt, das aktuell (August 2026) eine sehr erfolgreiche, virale Werbeanzeige hat und zusätzlich im Aufwärtstrend ist:\n\n- Produktname: Cable Organizer Box (Kabelfutter-Box / Aufbewahrungsbox für Ladekabel)\n- Kategorie: Zubehör für Schreibtisch/Stationery / Kabelorganisation\n- Warum die Anzeige gut performt (laut den Quellen):\n  - Hook: Visueller “Before-After”-Transformations-Clip – im Sekunden-Takt wird das kabelgeschmierte Desk混乱 zu einem sauberen, aufgeräumten Schreibtisch gezeigt. Das Format ist kurz, klar und sofort verständlich („saubere Arbeitsfläche in drei Sekunden“).\n  - Angebot: Sub-$4-Preis macht es zu einem Impulskauf; leicht testbar mit geringem Risiko für den Käufer.\n  - Format: Kurzes, motivationsarmes Video eignet sich optimal für TikTok und Facebook-Reels; hohe Abspielfrequenz und klare Nutzungs情境e (Dorm Room Setup, Clean Desk) steigern die Wiederverwendbarkeit der Inhalte.\n  - Zusätzliche Performance-Faktoren: Es lässt sich gut bundlen (z. B. mit Phone Stand, LED-Lightbox), hat hohe Conversion durch den Clean-Desk-Trend und eignet sich für Influencer-Mashups mit dem Laptop-Camping-Set-Up.\n\n- China-Bezug: Ja – über CJ Dropshipping und ähnliche Dropshipper (Alibaba-/1688-gestützte Lieferketten) lieferbar.\n\nQuellen:\n- TikTok Viral Products August 2026: „The cable organizer box is the quiet workhorse of every clean desk setup video. It hides the charger-cable tangle … before/after demos remain TikTok’s highest-engagement format.“ [astools.app](https://news.astools.app/en/blog/tiktok-viral-products-august-2026)\n- 10 Best Dropshipping Products to Sell in August 2026: Desk cable organizer als Top-Performance-Item für Dorm-Room",
     "websuche": true,
     "verbrauch": {
-      "prompt_tokens": 2416,
-      "completion_tokens": 299,
-      "total_tokens": 2715,
-      "cost": 0.007033106,
+      "prompt_tokens": 2929,
+      "completion_tokens": 500,
+      "total_tokens": 3429,
+      "cost": 0.00704429,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 3,
+        "cached_tokens": 0,
         "cache_write_tokens": 0,
         "audio_tokens": 0,
         "video_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": 3.3106e-05,
-        "upstream_inference_prompt_cost": 2.4136e-05,
-        "upstream_inference_completions_cost": 8.97e-06
+        "upstream_inference_cost": 4.429e-05,
+        "upstream_inference_prompt_cost": 2.929e-05,
+        "upstream_inference_completions_cost": 1.5e-05
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,

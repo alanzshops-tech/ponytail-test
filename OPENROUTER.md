@@ -1,4 +1,4 @@
-# OpenRouter — Stand 2026-08-12
+# OpenRouter — Stand 2026-08-13
 
 Zugang zu vielen Modellen über eine Adresse. Erhoben auf dem
 Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
@@ -8,7 +8,7 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | Grenze | None |
-| verbraucht | 0.068293914 |
+| verbraucht | 0.07532702 |
 | verbleibend | None |
 | Gratisstufe | False |
 
@@ -17,11 +17,11 @@ Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.
 | Angabe | Wert |
 |---|---|
 | eingezahlt | 6 |
-| verbraucht | 0.068293914 |
+| verbraucht | 0.07532702 |
 
 ## Modelle
 
-**406 Modelle erreichbar**, davon 19 ohne Kosten.
+**409 Modelle erreichbar**, davon 18 ohne Kosten.
 
 Die zehn günstigsten mit Preis. Beträge in US-Dollar je
 Million Token — Eingabe ist, was hingeschickt wird, Ausgabe,
@@ -42,7 +42,7 @@ was zurückkommt.
 
 Ohne Kosten, die ersten zehn:
 
-`liquid/lfm-2.5-2.6b:free`, `nvidia/nemotron-3.5-lightning:free`, `inclusionai/ling-3.0-tiny:free`, `poolside/laguna-s-2.1:free`, `poolside/laguna-xs-2.1:free`, `cohere/north-mini-code:free`, `nvidia/nemotron-3.5-content-safety:free`, `nvidia/nemotron-3-ultra-550b-a55b:free`, `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`, `google/gemma-4-26b-a4b-it:free`
+`liquid/lfm-2.5-2.6b:free`, `nvidia/nemotron-3.5-lightning:free`, `poolside/laguna-s-2.1:free`, `poolside/laguna-xs-2.1:free`, `cohere/north-mini-code:free`, `nvidia/nemotron-3.5-content-safety:free`, `nvidia/nemotron-3-ultra-550b-a55b:free`, `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`, `google/gemma-4-26b-a4b-it:free`, `google/gemma-4-31b-it:free`
 
 Kostenlose Modelle sind gedrosselt und oft überlastet. Für
 eine Messung taugen sie nicht — ein Fehlschlag sagt dann
@@ -55,7 +55,7 @@ um Produktbilder über die bestehende OpenRouter-Anbindung zu
 erzeugen oder zu bearbeiten, ohne ein separates Tool zu
 installieren.
 
-**9 von 406 Modellen** können Bilder ausgeben.
+**9 von 409 Modellen** können Bilder ausgeben.
 
 | Modell | nimmt herein | Eingabe | Ausgabe |
 |---|---|---:|---:|
@@ -73,19 +73,24 @@ installieren.
 
 Modell `inclusionai/ling-2.6-flash` (guenstigste bezahlte), mit Websuche (Exa) — echte Treffer, kein reines Modellwissen.
 
-Verbrauch `{'prompt_tokens': 2416, 'completion_tokens': 299, 'total_tokens': 2715, 'cost': 0.007033106, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 3, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 3.3106e-05, 'upstream_inference_prompt_cost': 2.4136e-05, 'upstream_inference_completions_cost': 8.97e-06}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
+Verbrauch `{'prompt_tokens': 2929, 'completion_tokens': 500, 'total_tokens': 3429, 'cost': 0.00704429, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 4.429e-05, 'upstream_inference_prompt_cost': 2.929e-05, 'upstream_inference_completions_cost': 1.5e-05}, 'completion_tokens_details': {'reasoning_tokens': 0, 'image_tokens': 0, 'audio_tokens': 0}}`.
 
 ```
-Aktuell (August 2026) gelten laut den genannten Quellen folgende drei Dropshipping-Produkte im Bereich Haustiere/Hunde als besonders trendig:
+Konkretes Produkt, das aktuell (August 2026) eine sehr erfolgreiche, virale Werbeanzeige hat und zusätzlich im Aufwärtstrend ist:
 
-1. **GhostGuard™ Dog Mask** – Ein maskenartiges Halter für Hunde, das Kontrolle und Sichtbarkeit verbessert und sich durch ein futuristisches, maskenbasiertes Design auszeichnet.  
-   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)
+- Produktname: Cable Organizer Box (Kabelfutter-Box / Aufbewahrungsbox für Ladekabel)
+- Kategorie: Zubehör für Schreibtisch/Stationery / Kabelorganisation
+- Warum die Anzeige gut performt (laut den Quellen):
+  - Hook: Visueller “Before-After”-Transformations-Clip – im Sekunden-Takt wird das kabelgeschmierte Desk混乱 zu einem sauberen, aufgeräumten Schreibtisch gezeigt. Das Format ist kurz, klar und sofort verständlich („saubere Arbeitsfläche in drei Sekunden“).
+  - Angebot: Sub-$4-Preis macht es zu einem Impulskauf; leicht testbar mit geringem Risiko für den Käufer.
+  - Format: Kurzes, motivationsarmes Video eignet sich optimal für TikTok und Facebook-Reels; hohe Abspielfrequenz und klare Nutzungs情境e (Dorm Room Setup, Clean Desk) steigern die Wiederverwendbarkeit der Inhalte.
+  - Zusätzliche Performance-Faktoren: Es lässt sich gut bundlen (z. B. mit Phone Stand, LED-Lightbox), hat hohe Conversion durch den Clean-Desk-Trend und eignet sich für Influencer-Mashups mit dem Laptop-Camping-Set-Up.
 
-2. **PureFlow™ Pet Fountain** – Eine stromlose, gravity-basierte Trinkbrunnen für Haustiere, die frisches Wasser ohne Strom liefert.  
-   Quelle: [Sell The Trend – Best Trending Pet Products to Dropship (Weekly Updated List)](https://www.sellthetrend.com/niche/pet-products)
+- China-Bezug: Ja – über CJ Dropshipping und ähnliche Dropshipper (Alibaba-/1688-gestützte Lieferketten) lieferbar.
 
-3. **No-Pull Dog Harness** – Funktionale Geschirr-Systeme mit frontclip-Technik, die bei großen oder energischen Hunden helfen, Ziehen zu reduzieren und sicherer zu führen.  
-   Quelle: [Dog Harness Dropshipping 2026: Top Trends & Profit Tips](https://www.accio.com/business/dog-harness-dropshipping)
+Quellen:
+- TikTok Viral Products August 2026: „The cable organizer box is the quiet workhorse of every clean desk setup video. It hides the charger-cable tangle … before/after demos remain TikTok’s highest-engagement format.“ [astools.app](https://news.astools.app/en/blog/tiktok-viral-products-august-2026)
+- 10 Best Dropshipping Products to Sell in August 2026: Desk cable organizer als Top-Performance-Item für Dorm-Room
 ```
 
 Erst das beweist den Zugang. `/key` zu lesen gelingt auch
