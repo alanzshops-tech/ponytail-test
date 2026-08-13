@@ -1,689 +1,113 @@
 {
-  "stand": "2026-08-09",
+  "stand": "2026-08-13",
   "produkte": {
-    "CJJT2782337": {
+    "CJFU2392154": {
       "detail": {
-        "code": 200,
-        "result": true,
-        "message": "Success",
-        "data": {
-          "pid": "2031261233215868930",
-          "productName": "[\"收纳凳\",\"收纳凳\",\"收纳凳\"]",
-          "productNameSet": [
-            "收纳凳"
-          ],
-          "productNameEn": "Family Storage Stool",
-          "productSku": "CJJT2782337",
-          "bigImage": "https://cf.cjdropshipping.com/e141c987-613d-4d5a-960e-251e64aed66c.jpg",
-          "productImage": "[\"https://cf.cjdropshipping.com/e141c987-613d-4d5a-960e-251e64aed66c.jpg\",\"https://cf.cjdropshipping.com/0d96669e-5f5c-46c3-8c4a-37f90277af0c.jpg\",\"https://cf.cjdropshipping.com/f5de2452-643c-4a3c-8d7d-428a5efefc7f.jpg\",\"https://cf.cjdropshipping.com/18eaaa24-4af3-467b-9b1c-57eca3cd1915.jpg\",\"https://cf.cjdropshipping.com/0666e9e6-17fe-42c9-961b-614883dceecc.jpg\",\"https://cf.cjdropshipping.com/7bbadf88-c9dc-431f-a631-b9a5ba57d3bd.jpg\",\"https://cf.cjdropshipping.com/78289a54-af3d-433c-be73-0f34a03474ff.jpg\",\"https://cf.cjdropshipping.com/bf0e1f65-b079-4465-bb34-c112890f4800.jpg\",\"https://cf.cjdropshipping.com/b430bc8f-bf0b-4aa9-b8d2-6a165ee08013.jpg\",\"https://cf.cjdropshipping.com/e0d866ab-5fd2-4701-b071-34c6898590cb.jpg\",\"https://cf.cjdropshipping.com/11696cb2-de37-49ed-981f-6f7a38507141.jpg\",\"https://cf.cjdropshipping.com/7f1470a0-0ced-451a-b48c-b61c6df05580.jpg\",\"https://cf.cjdropshipping.com/8175d7f4-9d41-4b6a-87ae-80e699be9cd7.jpg\",\"https://cf.cjdropshipping.com/cb290299-60e7-4ed1-be7c-97a4d7369c1f.jpg\",\"https://cf.cjdropshipping.com/4914bd55-3468-4805-b9bd-ee0f7ea9e77f.jpg\",\"https://cf.cjdropshipping.com/9561835d-d97b-4b05-8672-d9e26a833864.jpg\",\"https://cf.cjdropshipping.com/f2e60cb1-110b-4b31-b27e-0b2d4e530e16.jpg\",\"https://cf.cjdropshipping.com/a95c428b-256a-4c06-a814-3d5cddcd3e6c.jpg\",\"https://cf.cjdropshipping.com/f56335b5-c129-45d5-8eff-0285c899f7b0.jpg\",\"https://cf.cjdropshipping.com/8e2812e8-290c-45f4-aa45-f3da92f558a8.jpg\",\"https://cf.cjdropshipping.com/2f310e00-f6d2-4c9a-8ac6-a98c2d28a279.jpg\",\"https://cf.cjdropshipping.com/1f55a5de-4d06-4ca2-8586-0cee4271ccea.jpg\",\"https://cf.cjdropshipping.com/5c8457e8-5591-489f-9b32-9be91e8fab38.jpg\",\"https://cf.cjdropshipping.com/b63eeac6-51f1-421f-bd63-8b2521a27705.jpg\",\"https://cf.cjdropshipping.com/c22387be-17a6-4cc6-800d-c6d09e109f3d.jpg\"]",
-          "productImageSet": [
-            "https://cf.cjdropshipping.com/8e2812e8-290c-45f4-aa45-f3da92f558a8.jpg",
-            "https://cf.cjdropshipping.com/cb290299-60e7-4ed1-be7c-97a4d7369c1f.jpg",
-            "https://cf.cjdropshipping.com/f5de2452-643c-4a3c-8d7d-428a5efefc7f.jpg",
-            "https://cf.cjdropshipping.com/11696cb2-de37-49ed-981f-6f7a38507141.jpg",
-            "https://cf.cjdropshipping.com/4914bd55-3468-4805-b9bd-ee0f7ea9e77f.jpg",
-            "https://cf.cjdropshipping.com/0666e9e6-17fe-42c9-961b-614883dceecc.jpg",
-            "https://cf.cjdropshipping.com/9561835d-d97b-4b05-8672-d9e26a833864.jpg",
-            "https://cf.cjdropshipping.com/5c8457e8-5591-489f-9b32-9be91e8fab38.jpg",
-            "https://cf.cjdropshipping.com/bf0e1f65-b079-4465-bb34-c112890f4800.jpg",
-            "https://cf.cjdropshipping.com/78289a54-af3d-433c-be73-0f34a03474ff.jpg",
-            "https://cf.cjdropshipping.com/b63eeac6-51f1-421f-bd63-8b2521a27705.jpg",
-            "https://cf.cjdropshipping.com/a95c428b-256a-4c06-a814-3d5cddcd3e6c.jpg",
-            "https://cf.cjdropshipping.com/7bbadf88-c9dc-431f-a631-b9a5ba57d3bd.jpg",
-            "https://cf.cjdropshipping.com/b430bc8f-bf0b-4aa9-b8d2-6a165ee08013.jpg",
-            "https://cf.cjdropshipping.com/2f310e00-f6d2-4c9a-8ac6-a98c2d28a279.jpg",
-            "https://cf.cjdropshipping.com/7f1470a0-0ced-451a-b48c-b61c6df05580.jpg",
-            "https://cf.cjdropshipping.com/f56335b5-c129-45d5-8eff-0285c899f7b0.jpg",
-            "https://cf.cjdropshipping.com/c22387be-17a6-4cc6-800d-c6d09e109f3d.jpg",
-            "https://cf.cjdropshipping.com/e141c987-613d-4d5a-960e-251e64aed66c.jpg",
-            "https://cf.cjdropshipping.com/e0d866ab-5fd2-4701-b071-34c6898590cb.jpg",
-            "https://cf.cjdropshipping.com/1f55a5de-4d06-4ca2-8586-0cee4271ccea.jpg",
-            "https://cf.cjdropshipping.com/0d96669e-5f5c-46c3-8c4a-37f90277af0c.jpg",
-            "https://cf.cjdropshipping.com/18eaaa24-4af3-467b-9b1c-57eca3cd1915.jpg",
-            "https://cf.cjdropshipping.com/f2e60cb1-110b-4b31-b27e-0b2d4e530e16.jpg",
-            "https://cf.cjdropshipping.com/8175d7f4-9d41-4b6a-87ae-80e699be9cd7.jpg"
-          ],
-          "productWeight": "3900-9300",
-          "productUnit": null,
-          "productType": "SUPPLIER_SHIPPED_PRODUCT",
-          "categoryId": "87CF251F-8D11-4DE0-A154-9694D9858EB3",
-          "categoryName": "Home, Garden & Furniture / Home Storage / Home Office Storage",
-          "entryCode": "",
-          "entryName": "",
-          "entryNameEn": "",
-          "materialName": "[\"其他\"]",
-          "materialNameSet": [
-            "其他"
-          ],
-          "materialNameEn": "[\"Others\"]",
-          "materialNameEnSet": [
-            "Others"
-          ],
-          "materialKey": "[\"MATERIAL\"]",
-          "materialKeySet": [
-            "MATERIAL"
-          ],
-          "packingWeight": "3900-9300",
-          "packingName": "[\"纸盒\"]",
-          "packingNameSet": [
-            "纸盒"
-          ],
-          "packingNameEn": "[\"Carton\"]",
-          "packingNameEnSet": [
-            "Carton"
-          ],
-          "packingKey": "[\"PAPER_BOX\"]",
-          "packingKeySet": [
-            "PAPER_BOX"
-          ],
-          "productKey": "[\"Specifications\"]",
-          "productKeySet": [
-            "Specifications"
-          ],
-          "productKeyEn": "Specifications",
-          "productKeyEnSet": [
-            "Specifications"
-          ],
-          "productPro": "[\"普货\"]",
-          "productProSet": [
-            "普货"
-          ],
-          "productProEn": "[\"COMMON\"]",
-          "productProEnSet": [
-            "COMMON"
-          ],
-          "sellPrice": "22.31-34.72",
-          "sourceFrom": 0,
-          "description": "\n <table>\n  <thead>\n   <tr>\n    <th>Product Name</th>\n    <th>SKU</th>\n    <th>Length(in)</th>\n    <th>Width(in)</th>\n    <th>Height(in)</th>\n    <th>Gross Weight(pc)(kg)</th>\n    <th>Length(mm)</th>\n    <th>Width(mm)</th>\n    <th>Height(mm)</th>\n    <th>Gross Weight(pc)(g)</th>\n   </tr>\n  </thead>\n  <tbody>\n   <tr>\n    <td>Storage Ottoman - Dark Grey</td>\n    <td>FO-SND29FX-15DGY-DY</td>\n    <td>40.5</td>\n    <td>11</td>\n    <td>39.5</td>\n    <td>3.9</td>\n    <td><strong>1028.7</strong></td>\n    <td><strong>279.4</strong></td>\n    <td><strong>1003.3</strong></td>\n    <td><strong>3900</strong></td>\n   </tr>\n   <tr>\n    <td>Storage Ottoman - Light Grey</td>\n    <td>FO-SND29FX-15LGY-DY</td>\n    <td>40.5</td>\n    <td>11</td>\n    <td>39.5</td>\n    <td>3.9</td>\n    <td><strong>1028.7</strong></td>\n    <td><strong>279.4</strong></td>\n    <td><strong>1003.3</strong></td>\n    <td><strong>3900</strong></td>\n   </tr>\n   <tr>\n    <td>Storage Ottoman - Dark Grey</td>\n    <td>FO-SND25DT-30DGY-DY</td>\n    <td>79.5</td>\n    <td>10</td>\n    <td>39.5</td>\n    <td>6.8</td>\n    <td><strong>2019.3</strong></td>\n    <td><strong>254.0</strong></td>\n    <td><strong>1003.3</strong></td>\n    <td><strong>6800</strong></td>\n   </tr>\n   <tr>\n    <td>Storage Ottoman - Dark Grey</td>\n    <td>FO-SND25DT-43DGY-DY</td>\n    <td>119</td>\n    <td>10</td>\n    <td>39.5</td>\n    <td>9.3</td>\n    <td><strong>3022.6</strong></td>\n    <td><strong>254.0</strong></td>\n    <td><strong>1003.3</strong></td>\n    <td><strong>9300</strong></td>\n   </tr>\n  </tbody>\n </table>\n <p><img src=\"https://cf.cjdropshipping.com/9d3d2080-907a-4050-9f74-ac1f84f1531b.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/df57a11c-c592-491e-8c02-2d4482be152f.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/00b2f180-145c-42b7-baa7-ffd7adacda1f.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/45dc0aad-a903-4a41-be5e-b0d2dd4834e4.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/d7d8f321-4f2f-4418-9e22-32378802c47b.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/0636e7a7-a11a-448a-a6d9-11d62fdbaadc.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/8f328937-90c0-4d6c-8ae9-04b4ebe99bec.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/91e36d39-8ca3-41fd-993c-c340d544566f.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/52dad611-ee63-46ef-8b63-b7f3bbd9a012.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/5bf94658-0c15-4cea-93a2-ec958a9a6142.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/43a42f46-7f50-447f-9ed2-b7ab7b0de4b9.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/46a73c08-5741-4b41-bd77-c1d9e253372e.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/f2f42716-ec31-47ae-8af6-bdbb4b36083c.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/89379590-c2eb-41ea-a880-f0182cf1ed03.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/3b19115f-2b99-45c8-846a-10e2e02c7090.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/0000c413-1df3-4179-8def-7f27ecf9ec65.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/f4d9016b-53f5-42c0-afac-9514242eca4c.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/b6d43c8c-6bc0-4afd-ab45-733c37aa7c27.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/fdf3a1c7-7232-4d14-8e71-665444f43134.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/1a877ee2-0f65-459c-aeff-a16a917728ab.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/d1794e0c-fc2f-4c1b-9492-786777090f79.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/cdcf2d4f-a827-4c52-8ddb-d5ae31455ddd.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/6e89063c-c079-4ef7-8255-dbde3730abf9.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/bc5d3b39-7396-4100-8514-d36cb7b2ca14.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"><img src=\"https://cf.cjdropshipping.com/f08fc4c5-5516-4ac9-8868-3e9bb45cb6a3.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"></p>\n",
-          "variants": [
-            {
-              "vid": "2031261233387835394",
-              "pid": "2031261233215868930",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/e141c987-613d-4d5a-960e-251e64aed66c.jpg",
-              "variantSku": "CJJT278233701AZ",
-              "barcode": "8600000654731",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "Dark Grey 15DGY",
-              "variantLength": 1029,
-              "variantWidth": 279,
-              "variantHeight": 1003,
-              "variantVolume": 287952273,
-              "variantWeight": 3900.0,
-              "variantSellPrice": 22.31,
-              "createTime": 1773125391000,
-              "variantStandard": "long=1029,width=279,height=1003",
-              "variantSugSellPrice": 151.49,
-              "combineNum": null,
-              "inventoryNum": 153,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 153,
-                  "cjInventory": 153,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "1927995081053224961",
-                      "inventory": 153,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "vid": "2031261233387835396",
-              "pid": "2031261233215868930",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/f5de2452-643c-4a3c-8d7d-428a5efefc7f.jpg",
-              "variantSku": "CJJT278233703CX",
-              "barcode": "8600000654733",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "Dark Grey 30DGY",
-              "variantLength": 2019,
-              "variantWidth": 254,
-              "variantHeight": 1003,
-              "variantVolume": 514364478,
-              "variantWeight": 6800.0,
-              "variantSellPrice": 29.89,
-              "createTime": 1773125391000,
-              "variantStandard": "long=2019,width=254,height=1003",
-              "variantSugSellPrice": 202.96,
-              "combineNum": null,
-              "inventoryNum": 209,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 209,
-                  "cjInventory": 209,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "1927995081053224961",
-                      "inventory": 209,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "vid": "2031261233387835397",
-              "pid": "2031261233215868930",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/18eaaa24-4af3-467b-9b1c-57eca3cd1915.jpg",
-              "variantSku": "CJJT278233704DW",
-              "barcode": "8600000654734",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "Dark Grey 43DGY",
-              "variantLength": 2019,
-              "variantWidth": 254,
-              "variantHeight": 1003,
-              "variantVolume": 514364478,
-              "variantWeight": 9300.0,
-              "variantSellPrice": 34.72,
-              "createTime": 1773125391000,
-              "variantStandard": "long=2019,width=254,height=1003",
-              "variantSugSellPrice": 235.75,
-              "combineNum": null,
-              "inventoryNum": 278,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 278,
-                  "cjInventory": 278,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "1927995081053224961",
-                      "inventory": 278,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "addMarkStatus": 1,
-          "createrTime": "2026-03-10T00:00:00+08:00",
-          "productVideo": null,
-          "status": "3",
-          "suggestSellPrice": "151.49 - 235.75",
-          "listedNum": 2,
-          "supplierName": "Jianglai",
-          "supplierId": "1889978736372359168",
-          "customizationVersion": null,
-          "customizationJson1": null,
-          "customizationJson2": null,
-          "customizationJson3": null,
-          "customizationJson4": null,
-          "isTestProduct": false
-        },
-        "requestId": "5118733a23ee41d8bdda9ce97ef49695",
+        "code": 1602002,
+        "result": false,
+        "message": "Product has been removed from shelves, pid:1930110470266302465",
+        "data": null,
+        "requestId": "31fd6c8c151348cea0773dde0c870ad8",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9620,
+          "usedToday": 4800,
           "remaining": 50000
         },
-        "success": true
+        "success": false
       },
       "lager": {
         "code": 200,
         "result": true,
         "message": "Success",
-        "data": [
-          {
-            "areaEn": "Germany Warehouse",
-            "areaId": 4,
-            "countryCode": "DE",
-            "totalInventoryNum": 640,
-            "cjInventoryNum": 640,
-            "factoryInventoryNum": 0,
-            "countryNameEn": null,
-            "stock": null
-          }
-        ],
-        "requestId": "c940328999c04b128e9449727f66326f",
+        "data": [],
+        "requestId": "c32e96a6046f4ab8b672ebd9c2f6ee6b",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9680,
+          "usedToday": 4810,
           "remaining": 50000
         },
         "success": true
       }
     },
-    "CJJT2782055": {
+    "CJJT2781974": {
       "detail": {
-        "code": 200,
-        "result": true,
-        "message": "Success",
-        "data": {
-          "pid": "2031210887381221378",
-          "productName": "[\"Storage Ottoman with Thicker \",\"Foam Padded Seat\",\" Folding Foot\",\" Rest for Living Room End of Bed Bench\"]",
-          "productNameSet": [
-            "Storage Ottoman with Thicker ",
-            "Foam Padded Seat",
-            " Folding Foot",
-            " Rest for Living Room End of Bed Bench"
-          ],
-          "productNameEn": "Storage Ottoman With Thicker Foam Padded Seat, Folding Foot Rest For Living Room End Of Bed Bench",
-          "productSku": "CJJT2782055",
-          "bigImage": "https://cf.cjdropshipping.com/998ce41b-2443-4594-86e0-85e04dfbb717.jpg",
-          "productImage": "[\"https://cf.cjdropshipping.com/998ce41b-2443-4594-86e0-85e04dfbb717.jpg\",\"https://cf.cjdropshipping.com/211ed9f0-f864-4519-bb81-62c02b629079.jpg\",\"https://cf.cjdropshipping.com/6668702c-648c-45dc-9a95-79dd49065cf7.png\",\"https://cf.cjdropshipping.com/3dcfa549-1b5f-4960-a50e-ed16bb5fd13c.png\",\"https://cf.cjdropshipping.com/881da075-a7b7-49a2-b0b6-57157e71f57f.png\",\"https://cf.cjdropshipping.com/70c5b579-c98f-4cd8-974e-02f423a9dfcc.png\",\"https://cf.cjdropshipping.com/bda55ad4-efea-42ef-a730-359c9760a268.png\",\"https://cf.cjdropshipping.com/2df2036a-15e1-463c-99af-f7e9089e077d.png\",\"https://cf.cjdropshipping.com/6cb9fea8-70b2-4e9b-9040-3cd0b407c059.png\"]",
-          "productImageSet": [
-            "https://cf.cjdropshipping.com/70c5b579-c98f-4cd8-974e-02f423a9dfcc.png",
-            "https://cf.cjdropshipping.com/2df2036a-15e1-463c-99af-f7e9089e077d.png",
-            "https://cf.cjdropshipping.com/211ed9f0-f864-4519-bb81-62c02b629079.jpg",
-            "https://cf.cjdropshipping.com/6668702c-648c-45dc-9a95-79dd49065cf7.png",
-            "https://cf.cjdropshipping.com/bda55ad4-efea-42ef-a730-359c9760a268.png",
-            "https://cf.cjdropshipping.com/881da075-a7b7-49a2-b0b6-57157e71f57f.png",
-            "https://cf.cjdropshipping.com/6cb9fea8-70b2-4e9b-9040-3cd0b407c059.png",
-            "https://cf.cjdropshipping.com/3dcfa549-1b5f-4960-a50e-ed16bb5fd13c.png",
-            "https://cf.cjdropshipping.com/998ce41b-2443-4594-86e0-85e04dfbb717.jpg"
-          ],
-          "productWeight": "6396-9163",
-          "productUnit": null,
-          "productType": "SUPPLIER_SHIPPED_PRODUCT",
-          "categoryId": "87CF251F-8D11-4DE0-A154-9694D9858EB3",
-          "categoryName": "Home, Garden & Furniture / Home Storage / Home Office Storage",
-          "entryCode": "",
-          "entryName": "",
-          "entryNameEn": "",
-          "materialName": "[\"其他\"]",
-          "materialNameSet": [
-            "其他"
-          ],
-          "materialNameEn": "[\"Others\"]",
-          "materialNameEnSet": [
-            "Others"
-          ],
-          "materialKey": "[\"MATERIAL\"]",
-          "materialKeySet": [
-            "MATERIAL"
-          ],
-          "packingWeight": "6396-9163",
-          "packingName": "[\"纸盒\"]",
-          "packingNameSet": [
-            "纸盒"
-          ],
-          "packingNameEn": "[\"Carton\"]",
-          "packingNameEnSet": [
-            "Carton"
-          ],
-          "packingKey": "[\"PAPER_BOX\"]",
-          "packingKeySet": [
-            "PAPER_BOX"
-          ],
-          "productKey": "[\"Specifications\"]",
-          "productKeySet": [
-            "Specifications"
-          ],
-          "productKeyEn": "Specifications",
-          "productKeyEnSet": [
-            "Specifications"
-          ],
-          "productPro": "[\"普货\"]",
-          "productProSet": [
-            "普货"
-          ],
-          "productProEn": "[\"COMMON\"]",
-          "productProEnSet": [
-            "COMMON"
-          ],
-          "sellPrice": "23.89-31.15",
-          "sourceFrom": 0,
-          "description": "\n <table>\n  <thead>\n   <tr>\n    <th>SKU</th>\n    <th>Color/Version</th>\n    <th>Product Size (L×W×H)</th>\n    <th>Product Weight</th>\n    <th>Package Size (L×W×H)</th>\n    <th>Package Weight</th>\n   </tr>\n  </thead>\n  <tbody>\n   <tr>\n    <td>ZHUMI-STO-76PE-GY</td>\n    <td>76PE (Grey)</td>\n    <td>29.90×14.90×14.90 in≈ <strong>759.5×378.5×378.5 mm</strong></td>\n    <td>12.20 lb≈ <strong>5533.8 g</strong></td>\n    <td>31.00×3.00×16.00 in≈ <strong>787.4×76.2×406.4 mm</strong></td>\n    <td>14.10 lb≈ <strong>6395.6 g</strong></td>\n   </tr>\n   <tr>\n    <td>ZHUMI-STO-110PE-GY</td>\n    <td>110PE (Grey)</td>\n    <td>43.30×14.90×14.90 in≈ <strong>1099.8×378.5×378.5 mm</strong></td>\n    <td>18.00 lb≈ <strong>8164.7 g</strong></td>\n    <td>45.00×3.00×16.00 in≈ <strong>1143.0×76.2×406.4 mm</strong></td>\n    <td>20.20 lb≈ <strong>9162.6 g</strong></td>\n   </tr>\n  </tbody>\n </table>\n <ul>\n  <li>【Sturdy】Our ottoman is made with Medium-Density Fiberboard for sturdy stability for seating, linen top for added seating comfort.</li>\n  <li>【Multifunctional】Our multi-purpose storage ottoman can provide extra seating as a step stool/bench or work as a coffee table/puppy step.</li>\n  <li>【Perfect Size】Designed size and high-quality thicker soft foam, bring more comfort for your foot rest.</li>\n  <li>【Easy Set Up】Unfold, insert the bottom panel, connect the feet, and your folding storage bench is set for use.</li>\n  <li>【Service】 If you have any problems with installation, operation, or appearance, please contact us, and we will provide you with efficient and patient solutions.</li>\n </ul>\n <p><br></p>\n",
-          "variants": [
-            {
-              "vid": "2031210887544799233",
-              "pid": "2031210887381221378",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/998ce41b-2443-4594-86e0-85e04dfbb717.jpg",
-              "variantSku": "CJJT278205501AZ",
-              "barcode": "8600000654350",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "76PE Grey",
-              "variantLength": 787,
-              "variantWidth": 76,
-              "variantHeight": 406,
-              "variantVolume": 24283672,
-              "variantWeight": 6396.0,
-              "variantSellPrice": 23.89,
-              "createTime": 1773113388000,
-              "variantStandard": "long=787,width=76,height=406",
-              "variantSugSellPrice": 162.22,
-              "combineNum": null,
-              "inventoryNum": 146,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 146,
-                  "cjInventory": 146,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "1927995081053224961",
-                      "inventory": 146,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "vid": "2031210887544799234",
-              "pid": "2031210887381221378",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/211ed9f0-f864-4519-bb81-62c02b629079.jpg",
-              "variantSku": "CJJT278205502BY",
-              "barcode": "8600000654351",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "110PE Grey",
-              "variantLength": 1143,
-              "variantWidth": 76,
-              "variantHeight": 406,
-              "variantVolume": 35268408,
-              "variantWeight": 9163.0,
-              "variantSellPrice": 31.15,
-              "createTime": 1773113388000,
-              "variantStandard": "long=1143,width=76,height=406",
-              "variantSugSellPrice": 211.51,
-              "combineNum": null,
-              "inventoryNum": 525,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 525,
-                  "cjInventory": 525,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "1927995081053224961",
-                      "inventory": 525,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "addMarkStatus": 1,
-          "createrTime": "2026-03-10T00:00:00+08:00",
-          "productVideo": null,
-          "status": "3",
-          "suggestSellPrice": "162.22 - 211.51",
-          "listedNum": 2,
-          "supplierName": "Jianglai",
-          "supplierId": "1889978736372359168",
-          "customizationVersion": null,
-          "customizationJson1": null,
-          "customizationJson2": null,
-          "customizationJson3": null,
-          "customizationJson4": null,
-          "isTestProduct": false
-        },
-        "requestId": "f9cc9075582c4db8a1eabdf6d318b239",
+        "code": 1602002,
+        "result": false,
+        "message": "Product has been removed from shelves, pid:2031205850244415490",
+        "data": null,
+        "requestId": "d944864701e448078776443a55956a15",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9690,
+          "usedToday": 4820,
           "remaining": 50000
         },
-        "success": true
+        "success": false
       },
       "lager": {
         "code": 200,
         "result": true,
         "message": "Success",
-        "data": [
-          {
-            "areaEn": "Germany Warehouse",
-            "areaId": 4,
-            "countryCode": "DE",
-            "totalInventoryNum": 671,
-            "cjInventoryNum": 671,
-            "factoryInventoryNum": 0,
-            "countryNameEn": null,
-            "stock": null
-          }
-        ],
-        "requestId": "1cc52ebd3f6b475089048cbca46fab28",
+        "data": [],
+        "requestId": "f9bcfdd44635479d9a0dfd218572f1b5",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9700,
+          "usedToday": 4830,
           "remaining": 50000
         },
         "success": true
       }
     },
-    "CJLY2839090": {
+    "CJFU2392143": {
       "detail": {
-        "code": 200,
-        "result": true,
-        "message": "Success",
-        "data": {
-          "pid": "2045028947218972674",
-          "productName": "[\"1/2\",\"X\",\"Super\"]",
-          "productNameSet": [
-            "1/2",
-            "X",
-            "Super"
-          ],
-          "productNameEn": "1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fackel - Zoom - Wasserfest",
-          "productSku": "CJLY2839090",
-          "bigImage": "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg",
-          "productImage": "[\"https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg\",\"https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg\",\"https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg\",\"https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg\",\"https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg\"]",
-          "productImageSet": [
-            "https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg",
-            "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg",
-            "https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg",
-            "https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg",
-            "https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg"
-          ],
-          "productWeight": "1000",
-          "productUnit": null,
-          "productType": "SUPPLIER_SHIPPED_PRODUCT",
-          "categoryId": "EA851596-F20F-4AA5-8869-4BB5CA1968DC",
-          "categoryName": "Sports & Outdoors / Other Sports Equipment / Camping & Hiking",
-          "entryCode": "6103320000",
-          "entryName": "豆巴商品",
-          "entryNameEn": "doba product",
-          "materialName": "[\"其他\"]",
-          "materialNameSet": [
-            "其他"
-          ],
-          "materialNameEn": "[\"Others\"]",
-          "materialNameEnSet": [
-            "Others"
-          ],
-          "materialKey": "[\"MATERIAL\"]",
-          "materialKeySet": [
-            "MATERIAL"
-          ],
-          "packingWeight": "172",
-          "packingName": "[\"纸盒\"]",
-          "packingNameSet": [
-            "纸盒"
-          ],
-          "packingNameEn": "[\"Carton\"]",
-          "packingNameEnSet": [
-            "Carton"
-          ],
-          "packingKey": "[\"PAPER_BOX\"]",
-          "packingKeySet": [
-            "PAPER_BOX"
-          ],
-          "productKey": "[\"Quantity\"]",
-          "productKeySet": [
-            "Quantity"
-          ],
-          "productKeyEn": "Quantity",
-          "productKeyEnSet": [
-            "Quantity"
-          ],
-          "productPro": "[\"普货\"]",
-          "productProSet": [
-            "普货"
-          ],
-          "productProEn": "[\"COMMON\"]",
-          "productProEnSet": [
-            "COMMON"
-          ],
-          "sellPrice": "9.27-12.04",
-          "sourceFrom": 0,
-          "description": "\n <p><em></em></p>\n <h2><em>Specification</em></h2>\n <em>Available Ship to:France,Germany<h2>Details</h2>Besonderheiten<br><br>[7 Modi]3 Hauptlichtmodi, durch Klicken auf den Schalter (superhell / mittelhell / blinkend). 4 Seitenlichtmodi, durch langes Drücken des Schalters (superhell / mittelhell / rot / rot und blau blinkend). Die Taschenlampe kann nach 10 Sekunden Betrieb in jedem Modus direkt ausgeschaltet werden, ohne alle Modi durchlaufen zu müssen.<br>[Warnlicht]Rotes / rot und blau blinkendes Seitenlicht kann als Warnlicht dienen.<br>[Hochleistungsakku]Der Handstrahler verfügt über einen verbesserten Hochleistungsakku, der länger hält als vergleichbare Akkus.<br>[USB-Eingang und Leistungsanzeige] Die wiederaufladbare Taschenlampe verfügt über einen Typ-C-Eingangsanschluss und eine Leistungsanzeige. Unterstützt USB-Aufladung. Sie können sie mit einem Laptop, einem Autoladegerät, einem Ladegerät usw. aufladen.<br>[IPX4 wasserdicht] Der Kopf dieser Taschenlampe besteht aus einer hochwertigen schwarzen Aluminiumlegierung, der Rahmen aus ABS-Kunststoff. Die Wasserdichtigkeit dieser Taschenlampe erreicht IPX4. (Sie darf jedoch nicht in Wasser getaucht werden.)<br>[Leicht zu transportieren] Die LED-Taschenlampe ist mit einem Trageband und einem Taschenclip ausgestattet, sodass Sie sie an Ihrem Handgelenk befestigen oder an Ihrer Tasche, Ihrem Rucksack, Ihrer Mütze oder Ihrem Gürtel befestigen können.<br>[Vielseitig einsetzbar] Sie eignet sich sehr gut für Arbeit, Lesen, Spazierengehen, Jagen, Klettern, Angeln, Laufen, Reiten, Wandern, Camping und andere Outdoor-Aktivitäten. &nbsp;&nbsp;<br><br>&nbsp;<br><br>Spezifikationen<br><br>Farbe: Schwarz<br>Beleuchtungsmodi: 7 Modi<br>Leuchtmittel: 30 W LED + 18 LED (10 LED weißes Licht + 4 LED rotes Licht + 4 LED blaues Licht)<br>Stromversorgung: Eingebauter Akku<br>Zoom-Modus: Teleskop-Zoom<br>Material: Aluminiumlegierung + ABS<br>Lademethode: Typ-C-USB-Aufladung<br>Ladezeit bei voller Ladung: 4–5 Stunden<br>Schrumpflänge: 6,49 Zoll<br>Ausfahrlänge: 7,08 Zoll<br>Bruttogewicht der Verpackung ca.: 172 g<br><br><br>&nbsp;Wasserdichtes Design, aber nicht in Wasser eintauchen.<br><br>&nbsp;<br><br>Inklusive Paket<br><br>1/2 * LED-Taschenlampe<br>1/2 * Schwanzseil<br>1/2 * USB-Kabel Typ C<br>1/2 * Box</em>\n <br>\n <p></p>\n <img src=\"https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <p></p>\n",
-          "variants": [
-            {
-              "vid": "2045028947319635969",
-              "pid": "2045028947218972674",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/17763840/d009cc1f-af71-4833-865e-bcd40f405f05.jpg",
-              "variantSku": "CJLY28390900001",
-              "barcode": "8600000709337",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "1pc",
-              "variantLength": 225,
-              "variantWidth": 105,
-              "variantHeight": 50,
-              "variantVolume": 1181250,
-              "variantWeight": 172.0,
-              "variantSellPrice": 9.27,
-              "createTime": 1776407870000,
-              "variantStandard": "long=225,width=105,height=50",
-              "variantSugSellPrice": 32.08,
-              "combineNum": null,
-              "inventoryNum": 230,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 230,
-                  "cjInventory": 230,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "2043581950272122882",
-                      "inventory": 230,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "vid": "2045028947319635970",
-              "pid": "2045028947218972674",
-              "variantName": null,
-              "variantNameEn": "",
-              "variantImage": "https://cf.cjdropshipping.com/17763840/3ccfd451-4545-4ed4-80f4-3fe62e8876dd.jpg",
-              "variantSku": "CJLY28390900002",
-              "barcode": "8600000709338",
-              "barcode2": null,
-              "variantUnit": null,
-              "variantProperty": null,
-              "variantKey": "2pcs",
-              "variantLength": 225,
-              "variantWidth": 105,
-              "variantHeight": 50,
-              "variantVolume": 1181250,
-              "variantWeight": 172.0,
-              "variantSellPrice": 12.04,
-              "createTime": 1776407870000,
-              "variantStandard": "long=225,width=105,height=50",
-              "variantSugSellPrice": 41.66,
-              "combineNum": null,
-              "inventoryNum": 230,
-              "combineVariants": null,
-              "inventories": [
-                {
-                  "countryCode": "DE",
-                  "totalInventory": 230,
-                  "cjInventory": 230,
-                  "factoryInventory": 0,
-                  "verifiedWarehouse": 1,
-                  "stock": [
-                    {
-                      "stockId": "2043581950272122882",
-                      "inventory": 230,
-                      "factoryInventory": 0
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "addMarkStatus": 1,
-          "createrTime": "2026-04-17T00:00:00+08:00",
-          "productVideo": null,
-          "status": "3",
-          "suggestSellPrice": "32.08 - 41.66",
-          "listedNum": 2,
-          "supplierName": "dbjjj",
-          "supplierId": "1848294695726489600",
-          "customizationVersion": null,
-          "customizationJson1": null,
-          "customizationJson2": null,
-          "customizationJson3": null,
-          "customizationJson4": null,
-          "isTestProduct": false
-        },
-        "requestId": "788e993c44214db791d96cc31fec28ff",
+        "code": 1602002,
+        "result": false,
+        "message": "Product has been removed from shelves, pid:1930098555599204353",
+        "data": null,
+        "requestId": "e6e18bc0246e4068a44992da385aefa9",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9710,
+          "usedToday": 4840,
           "remaining": 50000
         },
-        "success": true
+        "success": false
       },
       "lager": {
         "code": 200,
         "result": true,
         "message": "Success",
-        "data": [
-          {
-            "areaEn": "Germany Warehouse",
-            "areaId": 4,
-            "countryCode": "DE",
-            "totalInventoryNum": 460,
-            "cjInventoryNum": 460,
-            "factoryInventoryNum": 0,
-            "countryNameEn": null,
-            "stock": null
-          }
-        ],
-        "requestId": "058d8d644c1549f2a414f9cbaf2a8284",
+        "data": [],
+        "requestId": "6e48d897054a4526a91203c310c098fa",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 9720,
+          "usedToday": 4850,
+          "remaining": 50000
+        },
+        "success": true
+      }
+    },
+    "CJJT2782028": {
+      "detail": {
+        "code": 1602002,
+        "result": false,
+        "message": "Product has been removed from shelves, pid:2031208083869573122",
+        "data": null,
+        "requestId": "2008fa498f1c4a6ea4591c55d1930ef7",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 4860,
+          "remaining": 50000
+        },
+        "success": false
+      },
+      "lager": {
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": [],
+        "requestId": "44f7e3e6870b4ed68450e3d8c0c6d8cf",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 4870,
           "remaining": 50000
         },
         "success": true
