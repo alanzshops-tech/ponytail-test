@@ -292,3 +292,90 @@ kaputtmachen, und ist der einzige Verkehr, der ohne Geld kommt.
 
 **Der eine Satz:** Nicht mehr bauen, bevor nicht einmal etwas verkauft
 wurde. Der nächste Meilenstein ist **eine Bestellung**, nicht 1.000 €.
+
+---
+
+## Nachtrag 13.08.2026 — was sich seit dem letzten Audit geändert hat
+
+Drei Tage, sieben echte Entwicklungen. Wieder: **gemessen**, wo eine
+Quelle steht, **EINSCHÄTZUNG**, wo nicht.
+
+**1. Ein neues Produkt ist live und bricht mit dem eigenen Plan.**
+Die LED-Taschenlampe (`led-taschenlampe-aufladbar-zoom-warnlicht`) wurde
+heute nicht über eBay getestet, sondern direkt im eigenen Shop
+veröffentlicht — entgegen der Empfehlung unter Punkt F ("erst eBay,
+dann Zahlen, dann eigener Shop"). Sie kam über dieselbe
+Trends×Bestand-Methode wie die eBay-Kandidaten zustande, mit einem
+Unterschied: Sie ist die einzige Nische im ganzen Datensatz, deren
+CJ-Bestand an **drei getrennten Tagen** (9., 10., 13.08.) exakt
+identisch war — 11 von 11 SKUs, keine Abweichung. Das ist der
+verlässlichste Lieferantenbeleg, den dieses Projekt bisher hatte.
+**EINSCHÄTZUNG:** Ob der Bruch mit "erst eBay" richtig war, zeigt sich
+erst an echten Bestellungen — bisher: 0, wie bei den 146 anderen.
+
+| | Wert | Quelle |
+|---|---:|---|
+| Einkauf (CJ, inkl. Versand) | 9,27–12,04 € | `daten/produkte-roh.json` |
+| Verkaufspreis | 29,99 € / 39,99 € | Shopify |
+| Deckungsbeitrag | ~21–28 € | Rechnung |
+| GPSR-Angaben | **vorhanden** | live geprüft |
+| Bewertungen | 5 Sterne, 0 Bewertungen | live geprüft |
+
+**2. Dasselbe Judge.me-Problem wächst mit jedem neuen Produkt.**
+Die Taschenlampe zeigt fünf volle Sterne ohne eine einzige Bewertung —
+identisch zum bereits bekannten Fall auf `samt-sessel`. Das ist kein
+Einzelfall mehr, sondern ein systematisches Verhalten der App bei
+**jedem** neu angelegten Produkt. Sollte vor der nächsten
+Produktveröffentlichung geprüft werden, nicht danach.
+
+**3. CJs deutsches Lager ist instabiler als angenommen.** Kommode und
+Couchtisch — beide am 10.08. mit echten SKUs und Bestand bestätigt —
+sind am 13.08. bei direkter Einzelabfrage "removed from shelves". Bei
+Bürostuhl fiel die Trefferzahl im selben Zeitraum von 8 auf 2 SKUs. Das
+bedeutet: **eine einmalige Bestandsprüfung reicht bei diesem Lieferanten
+nicht** — vor jeder Einkaufsentscheidung erneut prüfen, nicht auf einen
+Stand von vor mehreren Tagen verlassen.
+
+**4. Erweiterte Nischensuche (Küche, Schlafzimmer, Büro-Technik, Heim-
+fitness) — größtenteils ergebnislos, aber ein echter Fund dabei.**
+Faszienrolle hat mit 83,2 den höchsten Nachfragewert aller 49 je
+gemessenen Begriffe in diesem Projekt — über 20 % mehr als der
+bisherige Spitzenreiter. Bei CJ nicht auffindbar (weder "foam roller"
+noch "fascia roller" liefern echte Treffer). **Offen, nicht erledigt:**
+Das ist die stärkste unbediente Nachfrage im ganzen Datensatz — ein Blick
+direkt auf cjdropshipping.com (Mensch, wegen Captcha) könnte lohnen,
+bevor die Sache liegen bleibt.
+
+**5. `PRODUKTBILDER.md` — neue Dauerhaft-Referenz.** Recherche zu
+Produktbildern, die messbar besser verkaufen, direkt an der
+Taschenlampe erprobt: Freisteller-Bild ergänzt, alle Detailbilder von
+Englisch auf Deutsch, Dateigröße von bis zu 1,2 MB auf unter 150 KB
+komprimiert. Für alle 145 übrigen Produkte noch nicht gemacht — die
+meisten haben vermutlich weder Freisteller noch Maßstabsbild, das ist
+aber **nicht geprüft**, nur naheliegend.
+
+**6. Neue Werkzeuge, direkt einsetzbar:**
+- `scripts/zoomprobe.py` — misst echten Pinch-/Tap-Zoom auf dem Handy, nicht nur ob die Seite lädt
+- `scripts/produktdaten.py --bildgroessen` — echte Pixelmaße von CJ-Bildern vor dem Einkauf
+- OpenRouter-Websuche und Bildbearbeitung (`scripts/openrouter.py`) — u. a. für die Bildübersetzung genutzt
+- Claude-Code-SessionStart-Hook — künftige Sitzungen starten mit allen nötigen Paketen bereits installiert
+
+**7. Der "Vertrag widerrufen"-Button ist kein Fehler.** Kurz als
+mögliches Bug-Risiko markiert, dann aufgeklärt: Er gehört zur App
+"Revoq" (EU-Widerrufsrecht-Erweiterung), ist rechtlich nicht
+vorgeschrieben, aber ein legitimes Vertrauens-Feature. Kein
+Handlungsbedarf.
+
+### Was das für die Prioritätenliste (Punkt D) ändert
+
+Nichts an der Reihenfolge — GPSR bleibt P0 für die **145 anderen**
+Produkte. Aber jetzt gibt es dafür eine funktionierende Vorlage: Die
+Taschenlampe zeigt exakt, wie die Pflichtangaben aussehen müssen. Neu
+dazu, beide 🔥 P0 wegen wachsendem Schaden bei jedem neuen Produkt:
+
+| Prio | Maßnahme | Beleg |
+|---|---|---|
+| 🔥 P0 | Judge.me-Sterne-Anzeige grundsätzlich prüfen/abstellen, bevor weitere Produkte veröffentlicht werden | jetzt 2 von 2 geprüften neuen Produkten betroffen |
+| 🟢 P1 | CJ-Bestand vor jedem Einkauf frisch prüfen, nicht auf alte Daten verlassen | Kommode/Couchtisch-Fund |
+| 🟡 P2 | Faszienrolle manuell bei CJ nachsehen (Mensch, wegen Captcha) | höchste gemessene Nachfrage im Datensatz |
+| 🟡 P2 | Bilder der übrigen 145 Produkte gegen `PRODUKTBILDER.md`-Checkliste prüfen | bisher nur 1 von 146 geprüft |
