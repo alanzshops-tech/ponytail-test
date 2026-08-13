@@ -8,6 +8,11 @@ name: Google Trends erfassen
 # Montags 05:00 UTC, also nach dem Reel-Rendern um 04:00.
 on:
   workflow_dispatch:
+    inputs:
+      tagestrends:
+        description: "Tagesaktuelle Trends DE statt der Gruppen aus trends.config.json"
+        type: boolean
+        default: false
 # Wird gebraucht, um Ergebnis und Bericht zurück in den Branch zu committen.
 permissions:
   contents: write
@@ -30,13 +35,22 @@ jobs:
           python3 -c "import pytrends, pandas; print('pytrends bereit')"
 
       - name: Trends abfragen
-        run: python3 scripts/trends.py --config trends.config.json --out daten
+        env:
+          TAGESTRENDS: ${{ inputs.tagestrends }}
+        run: |
+          if [ "$TAGESTRENDS" = "true" ]; then
+            python3 scripts/trends.py --tagestrends --out daten
+          else
+            python3 scripts/trends.py --config trends.config.json --out daten
+          fi
 
       # Nischenbericht direkt hinterher: Er braucht frische Trends-Daten
       # und die letzten CJ-Daten, beide liegen dann im Arbeitsverzeichnis.
       # Faellt der CJ-Lauf aus, fehlt nur die Angebotsseite -- kein Grund,
-      # den Trends-Lauf rot zu machen.
+      # den Trends-Lauf rot zu machen. Bei Tagestrends gibt es keine
+      # Gruppen, also auch keinen Nischenbericht.
       - name: Nischen zusammenführen
+        if: inputs.tagestrends != true
         continue-on-error: true
         run: |
           if [ -f daten/cj-aktuell.json ]; then
@@ -49,6 +63,7 @@ jobs:
         if: always()
         run: |
           if [ -f TRENDS.md ]; then cat TRENDS.md >> $GITHUB_STEP_SUMMARY; fi
+          if [ -f TAGESTRENDS.md ]; then cat TAGESTRENDS.md >> $GITHUB_STEP_SUMMARY; fi
 
       # Ergebnis versionieren. Der Commit löst keinen weiteren Lauf aus:
       # dieser Workflow reagiert nur auf Änderungen an Skript und
@@ -58,6 +73,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add daten TRENDS.md NISCHEN.md
+          [ -f TAGESTRENDS.md ] && git add TAGESTRENDS.md || true
           if git diff --cached --quiet; then
             echo "Keine Änderung, nichts zu committen."
             exit 0
@@ -94,5 +110,6 @@ jobs:
             daten/
             TRENDS.md
             NISCHEN.md
+            TAGESTRENDS.md
           retention-days: 90
           if-no-files-found: warn

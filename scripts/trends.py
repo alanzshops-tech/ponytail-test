@@ -103,6 +103,61 @@ def gruppe_holen(py, begriffe: list[str], zeitraum: str, region: str) -> dict:
     return {"verlauf": verlauf, "steigend": steigend}
 
 
+def tagestrends() -> dict:
+    """Tagesaktuelle Suchbegriffe für Deutschland, ohne vorgegebene Begriffe.
+
+    Jede andere Funktion hier braucht schon einen Verdacht, wonach gesucht
+    wird -- die Gruppen in trends.config.json sind von Hand gewählt. Das
+    hier ist die einzige wirklich nischenunabhängige Abfrage: was wird
+    heute tatsächlich in Deutschland gesucht, unabhängig vom bestehenden
+    Sortiment. pytrends' today_searches() braucht kein Stichwort.
+    """
+    py = klient()
+    for versuch in range(1, VERSUCHE + 1):
+        try:
+            s = py.today_searches(pn="DE")
+            begriffe = [str(x) for x in s.tolist()] if s is not None else []
+            if not begriffe:
+                # Eine leere Liste ist kein Beweis für "nichts trendet" --
+                # dieselbe Regel wie überall sonst in diesem Projekt.
+                print("  leere Antwort, kein Beweis für Fehlschlag")
+            return {"stand": str(date.today()), "begriffe": begriffe}
+        except DAUERHAFT as e:
+            print(f"  Dauerhafter Fehler, keine Wiederholung: "
+                  f"{type(e).__name__}: {e}")
+            return {"stand": str(date.today()),
+                    "fehler": f"{type(e).__name__}: {e}"[:200]}
+        except Exception as e:                                    # noqa: BLE001
+            wartezeit = WARTEN_START * versuch
+            print(f"  Versuch {versuch}/{VERSUCHE} fehlgeschlagen: {e}")
+            if versuch == VERSUCHE:
+                return {"stand": str(date.today()), "fehler": str(e)[:200]}
+            print(f"  warte {wartezeit}s ...")
+            time.sleep(wartezeit)
+    return {"stand": str(date.today()), "fehler": "unerreichbar"}
+
+
+def tagestrends_bericht(d: dict) -> str:
+    z = ["# Tagestrends Deutschland — nischenunabhängig", "",
+         f"Stand: {d.get('stand', '')}", "",
+         "Was heute tatsächlich in Deutschland gesucht wird, ohne "
+         "vorgegebene Suchbegriffe. Die meisten Treffer sind Nachrichten, "
+         "Sport, Personen -- kein Produktkatalog. Wer hier ein Produkt "
+         "sucht, muss selbst aussieben.", ""]
+    if "fehler" in d:
+        z += [f"**Fehlgeschlagen: {d['fehler']}**", ""]
+        return "\n".join(z) + "\n"
+    begriffe = d.get("begriffe") or []
+    z += [f"**{len(begriffe)} Begriffe** von Google Daily Trends.", ""]
+    if not begriffe:
+        z += ["Leere Antwort -- kein Beweis, dass nichts trendet. Google "
+              "liefert diese Liste unregelmäßig.", ""]
+    else:
+        z += [f"- {b}" for b in begriffe]
+        z.append("")
+    return "\n".join(z) + "\n"
+
+
 def auswerten(verlauf: list[dict]) -> dict:
     """Kennzahlen je Begriff: aktueller Stand, Jahresmittel, Saisonhoch."""
     werte = [p["wert"] for p in verlauf]
@@ -188,7 +243,23 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default="trends.config.json")
     ap.add_argument("--out", default="daten")
+    ap.add_argument("--tagestrends", action="store_true",
+                    help="Tagesaktuelle Trendsuchbegriffe DE, ohne "
+                         "Konfiguration -- nischenunabhängig")
     a = ap.parse_args()
+
+    if a.tagestrends:
+        out = Path(a.out)
+        out.mkdir(parents=True, exist_ok=True)
+        d = tagestrends()
+        text = json.dumps(d, ensure_ascii=False, indent=2)
+        (out / f"tagestrends-{d['stand']}.json").write_text(text, encoding="utf-8")
+        (out / "tagestrends-aktuell.json").write_text(text, encoding="utf-8")
+        Path("TAGESTRENDS.md").write_text(tagestrends_bericht(d), encoding="utf-8")
+        print(f"Geschrieben: TAGESTRENDS.md, {len(d.get('begriffe', []))} Begriffe")
+        if "fehler" in d:
+            sys.exit(f"Tagestrends fehlgeschlagen: {d['fehler']}")
+        return
 
     cfg = json.loads(Path(a.config).read_text(encoding="utf-8"))
     region, zeitraum = cfg.get("region", "DE"), cfg.get("zeitraum", "today 12-m")
