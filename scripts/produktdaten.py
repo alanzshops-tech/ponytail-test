@@ -31,45 +31,56 @@ sys.path.insert(0, str(Path(__file__).parent))
 from cj import TAKT, anfrage, token_holen, ANLEITUNG          # noqa: E402
 
 
+FENSTER = 524288          # 512 KB -- Lieferantenfotos tragen oft ein
+                          # eingebettetes Vorschaubild und ein Farbprofil
+                          # vor dem eigentlichen SOF-Marker; 64 KB reichten
+                          # bei CJs Bildern gemessen nicht (13.08.2026,
+                          # kein Fehler, der SOF-Marker lag einfach dahinter).
+
+
 def bildgroesse(url: str) -> tuple[int, int] | None:
-    """Echte Pixelmaße eines JPEG/PNG, ohne die ganze Datei zu laden --
-    nur so viel, wie der Kopf braucht. Shopify braucht mindestens 800x800
-    fuer Zoom, empfiehlt 2048x2048; ob eine CJ-Quelle das hergibt, ist
-    eine Messung, kein Blick auf den Dateinamen."""
+    """Echte Pixelmaße eines JPEG/PNG. Meldet ehrlich, WARUM eine Messung
+    scheitert, statt still None zurückzugeben -- eine Größe, die nicht
+    gemessen werden konnte, ist etwas anderes als eine Größe, die belegt
+    kleiner als empfohlen ist."""
     try:
-        req = urllib.request.Request(url, headers={"Range": "bytes=0-65535"})
-        with urllib.request.urlopen(req, timeout=20) as a:
-            # read(N) begrenzt auch dann, wenn ein Server Range ignoriert
-            # und die volle Datei anbietet -- sonst laedt das ganze Bild.
-            kopf = a.read(65536)
+        req = urllib.request.Request(url, headers={"Range": f"bytes=0-{FENSTER - 1}"})
+        with urllib.request.urlopen(req, timeout=30) as a:
+            kopf = a.read(FENSTER)
+            gesamt = a.headers.get("Content-Range", "").split("/")[-1] \
+                or a.headers.get("Content-Length", "?")
     except Exception as e:                                    # noqa: BLE001
         print(f"    Bildkopf nicht ladbar: {e}")
         return None
-    if kopf[:2] == b"\xff\xd8":                                 # JPEG
-        i = 2
-        try:
-            while i < len(kopf) - 9:
-                if kopf[i] != 0xFF:
-                    i += 1
-                    continue
-                marker = kopf[i + 1]
-                if marker in (0xC0, 0xC1, 0xC2, 0xC3):
-                    hoehe, breite = struct.unpack(">HH", kopf[i + 5:i + 9])
-                    return breite, hoehe
-                if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
-                    i += 2
-                    continue
-                segment_laenge = struct.unpack(">H", kopf[i + 2:i + 4])[0]
-                i += 2 + segment_laenge
-        except struct.error:
-            # Die geladenen 64 KB reichten nicht bis zum SOF-Marker --
-            # seltener bei Fotos, aber kein Grund, den ganzen Lauf mit
-            # einer Ausnahme zu beenden.
-            return None
+
+    if kopf[:2] != b"\xff\xd8" and kopf[:8] != b"\x89PNG\r\n\x1a\n":
+        print(f"    kein bekanntes Bildformat, erste Bytes: {kopf[:12].hex()}, "
+              f"Dateigröße laut Server: {gesamt}")
         return None
+
     if kopf[:8] == b"\x89PNG\r\n\x1a\n":                        # PNG
         breite, hoehe = struct.unpack(">II", kopf[16:24])
         return breite, hoehe
+
+    i = 2                                                       # JPEG
+    try:
+        while i < len(kopf) - 9:
+            if kopf[i] != 0xFF:
+                i += 1
+                continue
+            marker = kopf[i + 1]
+            if marker in (0xC0, 0xC1, 0xC2, 0xC3):
+                hoehe, breite = struct.unpack(">HH", kopf[i + 5:i + 9])
+                return breite, hoehe
+            if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                i += 2
+                continue
+            segment_laenge = struct.unpack(">H", kopf[i + 2:i + 4])[0]
+            i += 2 + segment_laenge
+    except struct.error:
+        pass
+    print(f"    SOF-Marker nicht innerhalb von {len(kopf)} geladenen Bytes "
+          f"gefunden, Dateigröße laut Server: {gesamt}")
     return None
 
 
