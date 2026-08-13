@@ -6,7 +6,24 @@ Gemessen, nicht angenommen: zwei unabhängige Fragen, jede mit Screenshot als Be
 
 ## 0. Herkunft des "Vertrag widerrufen"-Buttons
 
-Button auf dieser Seite nicht gefunden (Text stimmt nicht exakt überein oder er lädt verzögert nach).
+Elternpfad vom Button nach oben, bis zu 6 Ebenen:
+
+0. `<button>` class="widerruf-trigger-button widerruf-trigger-button--floating widerruf-trigger-button--floating-left" data-widerruf-popup-open="" data-widerruf-popup-bound="true"
+1. `<div>` class="widerruf-popup-source widerruf-popup-source--embed" data-widerruf-popup-source-root="true" data-widerruf-popup-source="" data-widerruf-popup-source-kind="embed" data-widerruf-popup-css-url="https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal
+
+**Fremde Skript-Adressen auf der Seite** (11, ohne shopify.com/homeeins.de selbst):
+
+- `https://cdn-bundler.nice-team.net/app/js/bundler.js?shop=7a0a31.myshopify.com`
+- `https://cdn.trustedsite.com/js/partner-shopify.js?shop=7a0a31.myshopify.com`
+- `https://metashop.dolphinsuite.com/ow_static/plugins/biolink/js/clicktracking.js?t=1706697725&shop=7a0a31.myshopify.com`
+- `https://app.cjdropshipping.com/static/shopify/pod/cjpodflag.js?shop=7a0a31.myshopify.com`
+- `https://www.googletagmanager.com/gtag/js?id=GT-K55447S&cx=c&gtm=4e68c0`
+- `https://connect.facebook.net/en_US/fbevents.js`
+- `https://shop.app/checkouts/internal/preloads.js?locale=de-US&shop_id=75888525635`
+- `https://bundler.nice-team.net/app/shop/status/7a0a31.myshopify.com.js?1786642353`
+- `https://cdn-bundler.nice-team.net/app/js/bundler-script.js?shop=7a0a31.myshopify.com&1785857358`
+- `https://www.googletagmanager.com/gtag/js?id=G-138EQ9NKMZ`
+- `https://www.googletagmanager.com/gtag/js?id=GT-K55447S`
 
 ## 1. Erlaubt das Viewport-Meta-Tag Pinch-Zoom?
 
