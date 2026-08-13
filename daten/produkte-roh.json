@@ -10,9 +10,9 @@
           "pid": "2045028947218972674",
           "productName": "[\"1/2\",\"X\",\"Super\"]",
           "productNameSet": [
-            "Super",
             "1/2",
-            "X"
+            "X",
+            "Super"
           ],
           "productNameEn": "1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fackel - Zoom - Wasserfest",
           "productSku": "CJLY2839090",
@@ -204,10 +204,10 @@
           "customizationJson4": null,
           "isTestProduct": false
         },
-        "requestId": "e6f8c94747494c9da611aa8d591bf8d4",
+        "requestId": "56f7aa0415814dc696a5cc3fd03b066e",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 14700,
+          "usedToday": 17140,
           "remaining": 50000
         },
         "success": true
@@ -238,20 +238,35 @@
             "stock": null
           }
         ],
-        "requestId": "0352ecc0fc344adda0ff309b7390aa25",
+        "requestId": "867f761fd023492f89ca4078563183c8",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 14710,
+          "usedToday": 17150,
           "remaining": 50000
         },
         "success": true
       },
       "bildgroessen": {
-        "https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg": null,
-        "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg": null,
-        "https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg": null,
-        "https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg": null,
-        "https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg": null
+        "https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg": {
+          "breite": 600,
+          "hoehe": 600
+        },
+        "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg": {
+          "breite": 600,
+          "hoehe": 600
+        },
+        "https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg": {
+          "breite": 600,
+          "hoehe": 600
+        },
+        "https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg": {
+          "breite": 600,
+          "hoehe": 600
+        },
+        "https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg": {
+          "breite": 600,
+          "hoehe": 600
+        }
       }
     }
   }
