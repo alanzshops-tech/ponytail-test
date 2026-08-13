@@ -1,0 +1,26 @@
+{
+  "pfad": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+  "viewport_meta": "width=device-width,initial-scale=1",
+  "user_scalable_no": false,
+  "maximum_scale_1": false,
+  "pinch_zoom_technisch_moeglich": true,
+  "vorher": {
+    "bilder": 13,
+    "dialoge_offen": 0,
+    "scrollHoehe": 4405
+  },
+  "bild_vorher": "bilder/zoomprobe-1-vorher.jpg",
+  "bild_selektor": ".product__media img",
+  "tap_fehler": "Locator.tap: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\".product__media img\").first\n    - locator resolved to <img width=\"1946\" height=\"1946\" class=\"image-magnify-lightbox\" alt=\"LED-T",
+  "nachher": {
+    "bilder": 13,
+    "dialoge_offen": 0,
+    "scrollHoehe": 4405
+  },
+  "bild_nachher": "bilder/zoomprobe-2-nach-tap.jpg",
+  "dialog_geoeffnet": false,
+  "seite_veraendert": false,
+  "doppeltipp_fehler": "Locator.dblclick: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\".product__media img\").first\n    - locator resolved to <img width=\"1946\" height=\"1946\" class=\"image-magnify-lightbox\" alt=\"",
+  "dialog_nach_doppeltipp": false,
+  "bild_nach_doppeltipp": "bilder/zoomprobe-3-doppeltipp.jpg"
+}
