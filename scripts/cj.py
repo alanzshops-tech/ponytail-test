@@ -121,7 +121,18 @@ def lager_pruefen(token: str) -> bool:
 def suchen(token: str, begriff: str, cfg: dict) -> tuple[list[dict], int]:
     """Holt alle Seiten, nicht nur die erste. Bei 368 Artikeln im Lager
     ist die erste Seite ein Ausschnitt — und ein Ausschnitt beantwortet
-    die Frage 'was gibt es dort' nicht."""
+    die Frage 'was gibt es dort' nicht.
+
+    WICHTIG, gemessen am 13.08.2026: `keyWord` filtert bei mehrwortigen
+    englischen Suchbegriffen nicht zuverlässig. Zwanzig Treffer für
+    "cable organizer box" waren Tischtennisschläger, Angelzubehör,
+    Autostoßstangen-Clips — nichts davon eine Kabelbox, und fast alle mit
+    identischem Bestand (230). Das sieht nach einem stillen Rückfall auf
+    eine generische Bestandsliste aus, wenn das Stichwort nichts trifft.
+    Ein Treffer aus dieser Funktion ist deshalb erst dann ein Treffer,
+    wenn `p["name"]" tatsächlich zum gesuchten Begriff passt — genau das
+    prüft nischen.py mit einem eigenen Muster nach, nicht diese Funktion.
+    Ein rohes "N geholt" aus dieser Suche allein beweist nichts."""
     treffer: list[dict] = []
     gesamt = 0
     seiten_max = cfg.get("seiten", 10)
