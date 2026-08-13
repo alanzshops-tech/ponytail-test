@@ -1,16 +1,16 @@
 {
   "stand": "2026-08-13",
   "produkte": {
-    "CJFU2392154": {
+    "CJJT2782290": {
       "detail": {
         "code": 1602002,
         "result": false,
-        "message": "Product has been removed from shelves, pid:1930110470266302465",
+        "message": "Product has been removed from shelves, pid:2031254384170672130",
         "data": null,
-        "requestId": "31fd6c8c151348cea0773dde0c870ad8",
+        "requestId": "cc381f75faa143c8a1cd3f74a0556db9",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 4800,
+          "usedToday": 7300,
           "remaining": 50000
         },
         "success": false
@@ -20,25 +20,25 @@
         "result": true,
         "message": "Success",
         "data": [],
-        "requestId": "c32e96a6046f4ab8b672ebd9c2f6ee6b",
+        "requestId": "6456c2c57f1449fab485ce879bc307ae",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 4810,
+          "usedToday": 7310,
           "remaining": 50000
         },
         "success": true
       }
     },
-    "CJJT2781974": {
+    "CJFU2392270": {
       "detail": {
         "code": 1602002,
         "result": false,
-        "message": "Product has been removed from shelves, pid:2031205850244415490",
+        "message": "Product has been removed from shelves, pid:1930142302042767361",
         "data": null,
-        "requestId": "d944864701e448078776443a55956a15",
+        "requestId": "c0c038bd6fda4f2382282de528737a46",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 4820,
+          "usedToday": 7320,
           "remaining": 50000
         },
         "success": false
@@ -48,66 +48,10 @@
         "result": true,
         "message": "Success",
         "data": [],
-        "requestId": "f9bcfdd44635479d9a0dfd218572f1b5",
+        "requestId": "0bdb155527734515897722335ae3ced5",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 4830,
-          "remaining": 50000
-        },
-        "success": true
-      }
-    },
-    "CJFU2392143": {
-      "detail": {
-        "code": 1602002,
-        "result": false,
-        "message": "Product has been removed from shelves, pid:1930098555599204353",
-        "data": null,
-        "requestId": "e6e18bc0246e4068a44992da385aefa9",
-        "pointsInfo": {
-          "total": 50000,
-          "usedToday": 4840,
-          "remaining": 50000
-        },
-        "success": false
-      },
-      "lager": {
-        "code": 200,
-        "result": true,
-        "message": "Success",
-        "data": [],
-        "requestId": "6e48d897054a4526a91203c310c098fa",
-        "pointsInfo": {
-          "total": 50000,
-          "usedToday": 4850,
-          "remaining": 50000
-        },
-        "success": true
-      }
-    },
-    "CJJT2782028": {
-      "detail": {
-        "code": 1602002,
-        "result": false,
-        "message": "Product has been removed from shelves, pid:2031208083869573122",
-        "data": null,
-        "requestId": "2008fa498f1c4a6ea4591c55d1930ef7",
-        "pointsInfo": {
-          "total": 50000,
-          "usedToday": 4860,
-          "remaining": 50000
-        },
-        "success": false
-      },
-      "lager": {
-        "code": 200,
-        "result": true,
-        "message": "Success",
-        "data": [],
-        "requestId": "44f7e3e6870b4ed68450e3d8c0c6d8cf",
-        "pointsInfo": {
-          "total": 50000,
-          "usedToday": 4870,
+          "usedToday": 7330,
           "remaining": 50000
         },
         "success": true
