@@ -4,6 +4,10 @@ Seite: `/products/led-taschenlampe-aufladbar-zoom-warnlicht`
 
 Gemessen, nicht angenommen: zwei unabhängige Fragen, jede mit Screenshot als Beleg.
 
+## 0. Herkunft des "Vertrag widerrufen"-Buttons
+
+Button auf dieser Seite nicht gefunden (Text stimmt nicht exakt überein oder er lädt verzögert nach).
+
 ## 1. Erlaubt das Viewport-Meta-Tag Pinch-Zoom?
 
 `width=device-width,initial-scale=1`

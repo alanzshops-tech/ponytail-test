@@ -1,5 +1,8 @@
 {
   "pfad": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+  "widerruf_button": {
+    "gefunden": false
+  },
   "viewport_meta": "width=device-width,initial-scale=1",
   "user_scalable_no": false,
   "maximum_scale_1": false,
