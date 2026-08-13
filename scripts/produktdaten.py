@@ -20,8 +20,10 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import struct
 import sys
 import time
+import urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -29,10 +31,54 @@ sys.path.insert(0, str(Path(__file__).parent))
 from cj import TAKT, anfrage, token_holen, ANLEITUNG          # noqa: E402
 
 
+def bildgroesse(url: str) -> tuple[int, int] | None:
+    """Echte Pixelmaße eines JPEG/PNG, ohne die ganze Datei zu laden --
+    nur so viel, wie der Kopf braucht. Shopify braucht mindestens 800x800
+    fuer Zoom, empfiehlt 2048x2048; ob eine CJ-Quelle das hergibt, ist
+    eine Messung, kein Blick auf den Dateinamen."""
+    try:
+        req = urllib.request.Request(url, headers={"Range": "bytes=0-65535"})
+        with urllib.request.urlopen(req, timeout=20) as a:
+            # read(N) begrenzt auch dann, wenn ein Server Range ignoriert
+            # und die volle Datei anbietet -- sonst laedt das ganze Bild.
+            kopf = a.read(65536)
+    except Exception as e:                                    # noqa: BLE001
+        print(f"    Bildkopf nicht ladbar: {e}")
+        return None
+    if kopf[:2] == b"\xff\xd8":                                 # JPEG
+        i = 2
+        try:
+            while i < len(kopf) - 9:
+                if kopf[i] != 0xFF:
+                    i += 1
+                    continue
+                marker = kopf[i + 1]
+                if marker in (0xC0, 0xC1, 0xC2, 0xC3):
+                    hoehe, breite = struct.unpack(">HH", kopf[i + 5:i + 9])
+                    return breite, hoehe
+                if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                    i += 2
+                    continue
+                segment_laenge = struct.unpack(">H", kopf[i + 2:i + 4])[0]
+                i += 2 + segment_laenge
+        except struct.error:
+            # Die geladenen 64 KB reichten nicht bis zum SOF-Marker --
+            # seltener bei Fotos, aber kein Grund, den ganzen Lauf mit
+            # einer Ausnahme zu beenden.
+            return None
+        return None
+    if kopf[:8] == b"\x89PNG\r\n\x1a\n":                        # PNG
+        breite, hoehe = struct.unpack(">II", kopf[16:24])
+        return breite, hoehe
+    return None
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--skus", required=True, help="SKUs, Komma-getrennt")
     ap.add_argument("--out", default="daten/produkte-roh.json")
+    ap.add_argument("--bildgroessen", action="store_true",
+                    help="Echte Pixelmaße der productImage-URLs mitmessen")
     a = ap.parse_args()
 
     schluessel = os.environ.get("CJ_API_KEY", "").strip()
@@ -62,6 +108,17 @@ def main() -> None:
         v = d.get("variants") or []
         print(f"  {len(v)} Varianten"
               + (f", Felder: {sorted(v[0].keys())}" if v else ""))
+
+        if a.bildgroessen:
+            bilder = d.get("productImageSet") or d.get("productImage") or []
+            groessen = {}
+            for url in bilder:
+                time.sleep(0.3)
+                g = bildgroesse(url)
+                groessen[url] = {"breite": g[0], "hoehe": g[1]} if g else None
+                anzeige = f"{g[0]}x{g[1]}" if g else "nicht messbar"
+                print(f"    {anzeige}  {url}")
+            ergebnis["produkte"][sku]["bildgroessen"] = groessen
 
     p = Path(a.out)
     p.parent.mkdir(parents=True, exist_ok=True)
