@@ -14,6 +14,10 @@ on:
         description: "Zusätzlich Bild-Zoom auf dem Handy prüfen für diesen Produktpfad (leer = überspringen)"
         required: false
         default: ""
+      schema_urls:
+        description: "Zusätzlich strukturierte Daten (JSON-LD) prüfen, Leerzeichen-getrennt (leer = überspringen)"
+        required: false
+        default: ""
   # Montags 07:00 UTC, nach dem Search-Console-Bericht.
 permissions:
   contents: write
@@ -47,6 +51,15 @@ jobs:
         env:
           ZOOM_PFAD: ${{ inputs.zoom_pfad }}
         run: python3 scripts/zoomprobe.py --pfad "$ZOOM_PFAD"
+
+      # Rein lesend: prueft, ob und wie vollstaendig Product-Schema
+      # (JSON-LD) auf den Seiten steht. Siehe TRAFFIC.md.
+      - name: Strukturierte Daten pruefen
+        if: inputs.schema_urls != ''
+        continue-on-error: true
+        env:
+          SCHEMA_URLS: ${{ inputs.schema_urls }}
+        run: python3 scripts/schemaprobe.py --urls $SCHEMA_URLS
 
       # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
       # die Mehrheit ankommt und die Schwächen sichtbarer sind.
@@ -99,6 +112,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add bilder WEBSITE.md daten/webcheck-aktuell.json 2>/dev/null || true
           git add ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
+          git add SCHEMAPROBE.md daten/schemaprobe.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
