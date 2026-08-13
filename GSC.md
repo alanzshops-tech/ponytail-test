@@ -11,6 +11,10 @@ Zeitraum: 2026-07-14 bis 2026-08-10 (28 Tage) · Vergleich mit den 28 Tagen davo
 
 > **198 von 251 Impressionen sind anonymisiert.** Über Suchanfragen sichtbar: 53. Über Seiten sichtbar: 251. Die Kennzahlen oben stammen aus der Anfragen-Dimension und zeigen daher nur den sichtbaren Rest — die Durchschnittsposition ist dadurch schlechter, als die Domain tatsächlich steht.
 
+## Sitemap
+
+**Keine Sitemap in der Search Console eingereicht.** Laut Recherche (13.08.2026) einer der häufigsten Gründe, warum neue Shops gar nicht oder nur langsam indexiert werden. Einreichen unter search.google.com/search-console -> Sitemaps -> `sitemap.xml` (Shopify erzeugt sie automatisch unter `/sitemap.xml`).
+
 ## Seiten auf Position 1–5
 
 9 Seiten stehen weit vorn, 9 davon ohne einen einzigen Klick. Wo Ranking da ist und Klicks fehlen, liegt es am Snippet, an der Sprache oder an der Suchabsicht — nicht an fehlender Autorität.
