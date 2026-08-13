@@ -62,8 +62,8 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | Knife Sharpener 5 In 1 Adjustable Angle Kitchen Grinding M | 16.30 | 230 | 20 | None | `CJSD2785163` |
 | Stainless Steel Potato Ricer, Masher, Dishwasher Safe, Kit | 16.43 | 230 | 10 | None | `CJSD2785222` |
 | 3 Pcs Glass Coffee Jars With Spoons, Candy Jars, Biscuit J | 21.35 | 230 | 62 | None | `CJCF2657561` |
-| 1000W Handheld Steam Cleaner, 280ml Portable Steamer For K | 31.13 | 230 | 6 | None | `CJSD2785300` |
 | 18 PCS Square Seasoning Jar Pepper Seasoning Bottle Pepper | 25.84 | 230 | 32 | None | `CJCF2657552` |
+| 1000W Handheld Steam Cleaner, 280ml Portable Steamer For K | 31.13 | 230 | 6 | None | `CJSD2785300` |
 | 3-Gang USB Pop-Up Power Outlet, Retractable Table Socket,  | 20.82 | 230 | 6 | None | `CJSD2785258` |
 | Powerful 1050W High-Temperature Steam Cleaner For Home Use | 33.88 | 230 | 13 | None | `CJSD2784992` |
 | Portable Handheld Steam Cleaner - Heavy-Duty High-Pressure | 34.89 | 230 | 35 | None | `CJSD2785010` |
@@ -304,6 +304,16 @@ Nichts mit geprüftem Bestand im deutschen Lager.
 | Compatible With Dyson Vacuum Cleaner Accessories: Roller S | 43.45 | 230 | 1 | None | `CJSD2785133` |
 | Universal Replacement Roller Brush Head Compatible With V6 | 24.68 | 230 | 1 | None | `CJSD3017983` |
 
+## fascia roller — 5 geholt, 5 laut CJ passend
+
+| Artikel | Preis | Bestand DE | gelistet von | Bearb. | SKU |
+|---|---:|---:|---:|---|---|
+| Woodworking Table Saw Featherboard Double Wheel Bearing Ro | 24.02 | 230 | 1 | None | `CJSD3017724` |
+| Professional Auto Car Battery Terminal Alternator Bearing  | 14.84 | 230 | 2 | None | `CJSD2785120` |
+| Newest Upgrade LED Floor Nozzle, Soft Roller Brush Head Fo | 23.58 | 230 | 3 | None | `CJSD2785316` |
+| Compatible With Dyson Vacuum Cleaner Accessories: Roller S | 43.45 | 230 | 1 | None | `CJSD2785133` |
+| Universal Replacement Roller Brush Head Compatible With V6 | 24.68 | 230 | 1 | None | `CJSD3017983` |
+
 ## resistance band set — 53 geholt, 53 laut CJ passend
 
 **Was dort liegt:** Hand Tools (43) · Suits & Sets (7) · Furniture (3)
@@ -317,8 +327,8 @@ Nichts mit geprüftem Bestand im deutschen Lager.
 | Table Tennis Racket 2 Rackets & 3 Balls Ping Pong Paddles  | 10.29 | 230 | 4 | None | `CJSD3017749` |
 | 24-in-1 Screwdriver Set, Multifunctional Ratchet Repair To | 14.51 | 230 | 2 | None | `CJSD3017745` |
 | Blue Manual Press Set, Manual Hole Punch Set, Equipped Wit | 31.92 | 230 | 1 | None | `CJSD3017980` |
-| 4-Pack Professional Saw Chains With 14" (35cm) Guide Bar S | 10.89 | 230 | 0 | None | `CJSD3017739` |
 | 13PCS Alternator Tool Set Including Bit Adapter For Variou | 19.49 | 230 | 1 | None | `CJSD3017805` |
+| 4-Pack Professional Saw Chains With 14" (35cm) Guide Bar S | 10.89 | 230 | 0 | None | `CJSD3017739` |
 | 6 PCS GARDEN TOOL SET Garden Tools Garden Tool Hand Tools | 18.08 | 230 | 7 | None | `CJSD3017786` |
 | 16Pcs Camping Cooking Ware Set Camping Stove Cookware Kit  | 22.66 | 230 | 31 | None | `CJSD2785043` |
 | Engine Adjustment Tool Timing Locking Tool Set For Audi/ S | 14.10 | 230 | 1 | None | `CJSD2785312` |
