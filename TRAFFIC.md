@@ -128,13 +128,21 @@ einer Person realistisch nur mit Batch-Produktion an einem Tag pro
 Woche machbar. **EINSCHÄTZUNG:** Das ist der Punkt, an dem organischer
 Content an die Kapazitätsgrenze eines Ein-Personen-Betriebs stößt.
 
-### 5. Content-Cluster / Ratgeber ausbauen
+### 5. Content-Cluster / Ratgeber ausbauen — erledigt (13.08.2026)
 
-**FAKT** (Repository): Zwei Ratgeber zu Hundemöbeln existieren bereits
+**FAKT** (Repository): Zwei Ratgeber zu Hundemöbeln existierten bereits
 (aus früherer Sitzung). **FAKT** (Recherche): Guides/Ratgeber sind ein
 etablierter SEO-Hebel für Long-Tail-Keywords ohne Backlink-Aufwand.
-**Aufwand:** 2–3 weitere Ratgeber (Bürostuhl-Ergonomie, Kratzbaum-Wahl)
-im gleichen Muster wie die vorhandenen zwei.
+
+Zwei weitere Ratgeber im gleichen Muster ergänzt, live veröffentlicht:
+- [„Ergonomischer Bürostuhl: Worauf es beim Sitzen wirklich ankommt"](https://www.homeeins.de/blogs/news/buerostuhl-ergonomie-worauf-es-ankommt)
+- [„Kratzbaum kaufen: Welche Größe passt zu deiner Katze?"](https://www.homeeins.de/blogs/news/kratzbaum-groesse-material-standort)
+
+Beide verlinken auf die jeweiligen realen Produkte (Bürostuhl 135°,
+kompakter und XXL-Kratzbaum) und passende Kollektionen. Noch **nicht**
+erledigt: Pinterest-Pins dazu, wie bei den beiden bestehenden
+Hundemöbel-Ratgebern (siehe `SOCIAL.md`) — dafür erst nachfragen, bevor
+etwas in Metricool eingeplant wird.
 
 ---
 
