@@ -38,11 +38,39 @@ FENSTER = 524288          # 512 KB -- Lieferantenfotos tragen oft ein
                           # kein Fehler, der SOF-Marker lag einfach dahinter).
 
 
+def webp_groesse(kopf: bytes) -> tuple[int, int] | None:
+    """RIFF/WEBP-Container. Gemessen am 13.08.2026: Alle fünf CJ-Bilder
+    der LED-Taschenlampe waren WebP, keins JPEG oder PNG -- ohne diese
+    Funktion hätte 'kein bekanntes Format' wie ein Fehlschlag ausgesehen,
+    obwohl der Kopf vollständig da war."""
+    if kopf[12:16] == b"VP8X":
+        b = kopf[20:26]
+        breite = int.from_bytes(b[0:3], "little") + 1
+        hoehe = int.from_bytes(b[3:6], "little") + 1
+        return breite, hoehe
+    if kopf[12:16] == b"VP8 ":                                   # verlustbehaftet
+        p = kopf[20:30]
+        if p[3:6] != b"\x9d\x01\x2a":
+            return None
+        breite = int.from_bytes(p[6:8], "little") & 0x3FFF
+        hoehe = int.from_bytes(p[8:10], "little") & 0x3FFF
+        return breite, hoehe
+    if kopf[12:16] == b"VP8L":                                   # verlustfrei
+        p = kopf[20:25]
+        if p[0] != 0x2F:
+            return None
+        bits = int.from_bytes(p[1:5], "little")
+        breite = (bits & 0x3FFF) + 1
+        hoehe = ((bits >> 14) & 0x3FFF) + 1
+        return breite, hoehe
+    return None
+
+
 def bildgroesse(url: str) -> tuple[int, int] | None:
-    """Echte Pixelmaße eines JPEG/PNG. Meldet ehrlich, WARUM eine Messung
-    scheitert, statt still None zurückzugeben -- eine Größe, die nicht
-    gemessen werden konnte, ist etwas anderes als eine Größe, die belegt
-    kleiner als empfohlen ist."""
+    """Echte Pixelmaße eines JPEG/PNG/WebP. Meldet ehrlich, WARUM eine
+    Messung scheitert, statt still None zurückzugeben -- eine Größe, die
+    nicht gemessen werden konnte, ist etwas anderes als eine Größe, die
+    belegt kleiner als empfohlen ist."""
     try:
         req = urllib.request.Request(url, headers={"Range": f"bytes=0-{FENSTER - 1}"})
         with urllib.request.urlopen(req, timeout=30) as a:
@@ -51,6 +79,14 @@ def bildgroesse(url: str) -> tuple[int, int] | None:
                 or a.headers.get("Content-Length", "?")
     except Exception as e:                                    # noqa: BLE001
         print(f"    Bildkopf nicht ladbar: {e}")
+        return None
+
+    if kopf[:4] == b"RIFF" and kopf[8:12] == b"WEBP":
+        g = webp_groesse(kopf)
+        if g:
+            return g
+        print(f"    WebP erkannt, aber Chunk-Typ nicht gelesen: "
+              f"{kopf[12:16]!r}, Dateigröße laut Server: {gesamt}")
         return None
 
     if kopf[:2] != b"\xff\xd8" and kopf[:8] != b"\x89PNG\r\n\x1a\n":
