@@ -10,9 +10,9 @@
           "pid": "2045028947218972674",
           "productName": "[\"1/2\",\"X\",\"Super\"]",
           "productNameSet": [
+            "Super",
             "1/2",
-            "X",
-            "Super"
+            "X"
           ],
           "productNameEn": "1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fackel - Zoom - Wasserfest",
           "productSku": "CJLY2839090",
@@ -204,10 +204,10 @@
           "customizationJson4": null,
           "isTestProduct": false
         },
-        "requestId": "6fda13d3182b459b9d3878c69699deb6",
+        "requestId": "e6f8c94747494c9da611aa8d591bf8d4",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 12260,
+          "usedToday": 14700,
           "remaining": 50000
         },
         "success": true
@@ -238,10 +238,10 @@
             "stock": null
           }
         ],
-        "requestId": "dd7fdcaaf8744e80bdcd80ab96e7e14e",
+        "requestId": "0352ecc0fc344adda0ff309b7390aa25",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 12270,
+          "usedToday": 14710,
           "remaining": 50000
         },
         "success": true
