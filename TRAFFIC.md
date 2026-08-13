@@ -5,6 +5,41 @@ getrennt wie im Master-Prompt gefordert. Ausgangslage bleibt die aus
 `AUDIT.md`: 0 Klicks in 28 Tagen, 0 Bestellungen 2026, kein Werbebudget
 im Einsatz.
 
+## Nachtrag 13./14.08.2026 (nachts) — technische Traffic-Grundlagen
+
+Zweite Recherche-Runde, diesmal zu technischen Grundlagen statt
+Content-Kanälen. Vier Funde, zwei davon direkt behoben:
+
+1. **Sitemap war nie eingereicht.** 🔥 Wahrscheinlich der größte
+   Einzelhebel der ganzen Recherche — siehe `AUDIT.md` P0. Braucht
+   einen Menschen (2 Minuten), automatisches Einreichen scheiterte
+   absichtlich an fehlender Schreibberechtigung.
+2. **Vertriebskanäle (Google Shopping, Bing, Amazon, TikTok, Pinterest)
+   sind längst verbunden**, nicht wie ursprünglich angenommen neu
+   einzurichten. Details: `VERTRIEBSKANAELE.md`.
+3. **GTIN-Kennzeichnung fehlte auf allen 101 aktiven Produkten** —
+   behoben (`mm-google-shopping.custom_product = true` gesetzt). Könnte
+   die Sichtbarkeit im Google-Shopping-Feed verbessern, unbelegt bis
+   zur Prüfung im Merchant-Center-Dashboard selbst.
+4. **Praxis-Note 58 (Lighthouse Best Practices) war seit Tagen
+   ungeklärt** — Ursache jetzt belegt (`GESAMTSCAN.md`): veraltete
+   APIs, Third-Party-Cookies, DevTools-Issues auf allen 34 Seiten.
+   Vermutlich Tracking-Skripte, nicht ohne Weiteres behebbar ohne
+   Marketing-Funktionalität zu verlieren. Die Tempo-Note (Performance)
+   hat konkretere Ansatzpunkte: ungenutztes JavaScript und
+   render-blockierende Anfragen auf allen 34 Seiten.
+
+Neues Mess-Werkzeug `scripts/schemaprobe.py`: prüft, ob Produktseiten
+vollständiges Product-Schema (JSON-LD) haben — Recherche nennt das
+einen weiteren CTR-Hebel unabhängig vom Ranking. Lauf gegen die echte
+Seite war beim Schreiben dieses Nachtrags noch nicht ausgewertet, siehe
+`SCHEMAPROBE.md` für das Ergebnis.
+
+Diese vier Funde ändern **nichts** an der Kanal-Priorisierung unten
+(Reels/Pinterest/Ratgeber) — sie sind eine Ebene darunter: Ob die
+Kanäle überhaupt technisch sauber funktionieren, bevor mehr Content
+draufgepackt wird.
+
 **Der Rahmen, bevor die Liste kommt:** Zwei Wege verlangen kein Geld und
 haben schon fertige Vorarbeit — die sollten zuerst laufen, bevor über
 Instagram-Content-Pläne oder Pinterest-Boards nachgedacht wird, die bei
