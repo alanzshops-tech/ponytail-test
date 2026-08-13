@@ -25,6 +25,10 @@ on:
       skus:
         description: "SKUs vollstaendig abrufen (Komma-getrennt), fuer neue Produkte"
         required: false
+      bildgroessen:
+        description: "Echte Pixelmaße der SKU-Produktbilder mitmessen"
+        type: boolean
+        default: false
   # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
   # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
 permissions:
@@ -99,7 +103,11 @@ jobs:
         env:
           CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
           SKUS: ${{ inputs.skus }}
-        run: python3 scripts/produktdaten.py --skus "$SKUS"
+          BILDGROESSEN: ${{ inputs.bildgroessen }}
+        run: |
+          ARGS=(--skus "$SKUS")
+          if [ "$BILDGROESSEN" = "true" ]; then ARGS+=(--bildgroessen); fi
+          python3 scripts/produktdaten.py "${ARGS[@]}"
 
       # Die Eingabe geht über eine Umgebungsvariable und von dort als
       # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
