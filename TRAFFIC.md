@@ -29,11 +29,25 @@ Content-Kanälen. Vier Funde, zwei davon direkt behoben:
    hat konkretere Ansatzpunkte: ungenutztes JavaScript und
    render-blockierende Anfragen auf allen 34 Seiten.
 
-Neues Mess-Werkzeug `scripts/schemaprobe.py`: prüft, ob Produktseiten
-vollständiges Product-Schema (JSON-LD) haben — Recherche nennt das
-einen weiteren CTR-Hebel unabhängig vom Ranking. Lauf gegen die echte
-Seite war beim Schreiben dieses Nachtrags noch nicht ausgewertet, siehe
-`SCHEMAPROBE.md` für das Ergebnis.
+5. **Product-Schema ist unvollständig — jetzt mit echten Daten belegt.**
+   `scripts/schemaprobe.py` gegen zwei echte Produktseiten laufen
+   lassen (Bürostuhl, Kratzbaum): Dawn liefert `sku`, `offers`
+   (Preis/Verfügbarkeit/Währung) und `image`, aber **kein** `brand`,
+   `gtin`, `aggregateRating`, `review` oder `description` im
+   JSON-LD-Block. Passt exakt zur Recherche ("Stores relying solely on
+   default schema miss out on 60–70% of available rich snippet
+   opportunities"). Startseite und Kollektionsseite zeigen erwartungs-
+   gemäß kein Product-Schema — das ist kein Fehler, Product-Schema
+   gehört nur auf Produktseiten. Details: `SCHEMAPROBE.md`.
+
+   **Bewusst nicht umgesetzt, aus gutem Grund:** Eine Ergänzung
+   gehört laut `CLAUDE.md` Regel 2 in `custom-liquid`, nicht in Dawns
+   eigene Dateien, und muss laut Regel 1 erst in einer Kopie stehen,
+   bevor ein Mensch veröffentlicht. `aggregateRating` sollte ohnehin
+   nicht blind ergänzt werden, solange die Judge.me-Bewertungssituation
+   noch nicht sauber ist (siehe `AUDIT.md`) — sonst wird genau der
+   Fehler wiederholt, der am 9.8. schon einmal entfernt wurde. Das ist
+   eine Aufgabe für die Theme-Sandbox, nicht für nachts im Alleingang.
 
 Diese vier Funde ändern **nichts** an der Kanal-Priorisierung unten
 (Reels/Pinterest/Ratgeber) — sie sind eine Ebene darunter: Ob die
