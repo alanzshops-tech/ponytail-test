@@ -143,13 +143,23 @@ Beide sind lesend und brauchen keine Ladenzugangsdaten.
 - **`SHOPIFY_CLI_THEME_TOKEN` fehlt.** Ohne ihn kein `shopify theme
   pull/push`, kein `theme check`, keine echte Versionsverwaltung des
   Themes. Anleitung in `WERKZEUGE.md`.
-- **Judge.me enthält erfundene Bewertungen.** Die Sterne-Metafelder auf
-  fünf Produkten sind gelöscht, die App liefert weiter ein
-  `aggregateRating`. Nur im Adminbereich der App zu bereinigen.
+- **Judge.me war die Quelle erfundener Bewertungen** (Sterne-Metafelder
+  gelöscht, App lieferte weiter `aggregateRating`) — am 13.08.2026
+  deaktiviert, live geprüft: keine Sterne mehr. Offener Rest: Der
+  Bewertungsblock zeigt seitdem Englisch statt Deutsch (⚪ P3 in
+  `AUDIT.md`).
 - **Währungsformat** steht auf `€{{amount}}`; deutsche Schreibweise wäre
   `{{amount}} €`. Shop-Einstellung, nicht Theme.
-- **Praxis-Note 58 auf 30 von 34 Seiten** — eine gemeinsame Ursache,
-  vermutlich in den App-Einbindungen. Noch nicht belegt.
+- **Praxis-Note 58 auf 34 von 34 Seiten — Ursache jetzt belegt**
+  (13.08.2026, `GESAMTSCAN.md`): "Uses deprecated APIs", "Uses
+  third-party cookies" und "Issues im DevTools-Issues-Panel" schlagen auf
+  jeder einzelnen Seite fehl, nicht nur auf den meisten. Vermutlich
+  App-Einbindungen (Tracking-/Analytics-Skripte) — noch nicht auf eine
+  einzelne App zurückgeführt, und drittanbieter-Cookies lassen sich ohne
+  Verzicht auf Marketing-Tracking oft gar nicht vermeiden. Die
+  Performance-Note (Tempo, Median 62) hat konkretere, eher behebbare
+  Funde: ungenutztes JavaScript und render-blockierende Anfragen auf
+  allen 34 Seiten.
 
 ## Wenn du hier neu bist
 
