@@ -1,52 +1,58 @@
 {
   "summary": {
-    "score": 0.81,
+    "score": 0.78,
     "categories": {
       "performance": {
-        "score": 0.73,
+        "score": 0.62,
         "scores": [
-          0.59,
           0.65,
-          0.76,
-          0.84,
-          0.85,
-          0.94,
-          0.8,
-          0.86,
-          0.89,
-          0.84,
-          0.62,
-          0.63,
-          0.61,
-          0.61,
-          0.62,
-          0.63,
-          0.62,
-          0.62,
-          0.81,
-          0.8,
-          0.79,
-          0.78,
-          0.8,
-          0.72,
-          0.78,
-          0.91,
+          0.6,
           0.6,
           0.63,
-          0.65,
-          0.59,
           0.61,
-          0.69,
-          0.65,
-          0.73
+          0.62,
+          0.6,
+          0.6,
+          0.63,
+          0.66,
+          0.63,
+          0.63,
+          0.62,
+          0.62,
+          0.57,
+          0.6,
+          0.62,
+          0.61,
+          0.62,
+          0.63,
+          0.62,
+          0.63,
+          0.63,
+          0.63,
+          0.62,
+          0.63,
+          0.62,
+          0.64,
+          0.64,
+          0.64,
+          0.62,
+          0.68,
+          0.59,
+          0.62
         ],
-        "averageScore": 0.72
+        "averageScore": 0.62
       },
       "accessibility": {
         "score": 0.89,
         "scores": [
           0.94,
           0.92,
+          0.94,
+          0.94,
+          0.9,
+          0.94,
+          0.94,
+          0.94,
           0.94,
           0.9,
           0.94,
@@ -59,12 +65,6 @@
           0.94,
           0.94,
           0.94,
-          0.94,
-          0.94,
-          0.94,
-          0.94,
-          0.92,
-          0.92,
           0.94,
           0.94,
           0.94,
@@ -83,8 +83,9 @@
         "averageScore": 0.93
       },
       "best-practices": {
-        "score": 0.58,
+        "score": 0.54,
         "scores": [
+          0.58,
           0.58,
           0.58,
           0.58,
@@ -93,18 +94,6 @@
           0.58,
           0.58,
           0.58,
-          0.77,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.58,
-          0.77,
           0.58,
           0.58,
           0.58,
@@ -118,25 +107,34 @@
           0.58,
           0.58,
           0.58,
-          0.58
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54
         ],
-        "averageScore": 0.59
+        "averageScore": 0.57
       },
       "seo": {
-        "score": 1,
+        "score": 0.92,
         "scores": [
           1,
           0.92,
           1,
+          1,
           0.92,
           1,
           1,
           1,
           1,
-          1,
-          1,
-          1,
-          1,
+          0.92,
           1,
           1,
           1,
@@ -147,6 +145,12 @@
           1,
           0.92,
           0.92,
+          0.92,
+          1,
+          1,
+          0.92,
+          1,
+          0.92,
           1,
           1,
           1,
@@ -154,62 +158,58 @@
           1,
           1,
           1,
-          1,
-          1,
-          1,
-          1,
-          1
+          0.92
         ],
-        "averageScore": 0.99
+        "averageScore": 0.98
       }
     },
     "metrics": {
       "largest-contentful-paint": {
-        "numericValue": 4523.920699999999,
-        "displayValue": "4.5 s",
+        "numericValue": 7857.0199999999995,
+        "displayValue": "7.9 s",
         "numericValues": [
-          5066.54,
-          4321.847999999999,
-          4954.674324999999,
-          4121.7119,
-          3748.2405,
-          2147.8867,
-          4667.721750000001,
-          3713.7487500000007,
-          2896.7497000000003,
-          4043.65135,
-          21847.931849999994,
-          23883.089849999993,
-          24442.370725000004,
-          24355.463050000002,
-          23042.35409999999,
-          23454.06009999999,
-          24218.263399999993,
-          23820.867049999986,
-          4451.527899999999,
-          4601.060999999998,
-          4924.776100000001,
-          4976.959499999999,
-          4642.5612,
-          4881.073150000001,
-          5006.408450000002,
-          3022.9061000000006,
-          7437.560049999996,
-          6886.778999999997,
-          5970.387349999999,
-          6688.670399999999,
-          7467.759000000002,
-          5124.531799999999,
-          5199.9559000000045,
-          4523.920699999999
+          4969.648,
+          22691.573,
+          22396.823549999986,
+          20069.020549999987,
+          24209.581799999993,
+          24091.865499999978,
+          22853.20264999999,
+          20901.456000000013,
+          19845.41480000002,
+          6419.523550000001,
+          23961.919199999993,
+          24024.512150000017,
+          23828.724000000002,
+          23491.538149999982,
+          21267.158550000022,
+          24770.180699999994,
+          23553.52670000001,
+          24239.235449999986,
+          22930.952536317352,
+          22958.489913397643,
+          22932.456800000004,
+          23189.05045000001,
+          28229.806500000013,
+          24082.361749999996,
+          23005.953700000013,
+          20772.487499999996,
+          6976.990449999998,
+          7805.36103,
+          5398.042599999999,
+          6556.937389999998,
+          7470.037445000002,
+          5154.2599500000015,
+          7660.2633200000055,
+          7857.0199999999995
         ],
-        "averageNumericValue": 9251.59
+        "averageNumericValue": 18251.92
       },
       "cumulative-layout-shift": {
         "numericValue": 0,
         "displayValue": "0",
         "numericValues": [
-          0.04681831440596328,
+          0.0001773814956512436,
           0,
           0,
           0,
@@ -230,11 +230,11 @@
           0,
           0,
           0,
+          0.0001020964887393855,
           0,
           0,
           0,
-          0,
-          0,
+          0.002606029806942854,
           0,
           0,
           0,
@@ -247,224 +247,224 @@
         "averageNumericValue": 0
       },
       "first-contentful-paint": {
-        "numericValue": 2130.3562,
-        "displayValue": "2.1 s",
+        "numericValue": 2731.919,
+        "displayValue": "2.7 s",
         "numericValues": [
-          2201.181,
-          2158.8905,
-          2213.6912500000008,
-          2238.8667,
-          2326.228,
-          2147.8867,
-          2304.3134999999997,
-          2295.0081000000005,
-          2133.7178,
-          2314.5262000000002,
-          2408.5215,
-          2255.6945,
-          2554.0648999999994,
-          2410.8630999999996,
-          2334.1017,
-          2321.2796,
-          2347.1763,
-          2325.3181999999997,
-          2304.7718,
-          2209.0013000000004,
-          2441.9733,
-          2293.0505999999996,
-          2221.1619499999997,
-          2298.0138000000006,
-          2283.5523,
-          2210.7458,
-          2822.5275,
-          2426.0874000000003,
-          2688.20985,
-          2803.14445,
-          2822.065600000001,
-          2348.8695,
-          2799.40085,
-          2130.3562
+          2251.4875,
+          2038.683,
+          2291.1285499999994,
+          2097.6044,
+          2352.3999999999996,
+          2376.6394999999998,
+          2224.7514,
+          2113.6043,
+          2093.8048,
+          2088.3174,
+          2169.4291388635056,
+          2301.8752999999997,
+          2299.2324499999995,
+          2482.1921500000003,
+          2091.3101,
+          2389.4010500000004,
+          2462.4816000000005,
+          2370.5123,
+          2216.9258485830537,
+          2228.3785514940714,
+          2307.4568,
+          2223.1114,
+          2253.6444,
+          2306.8852500000003,
+          2250.3471,
+          2034.7826499999996,
+          2745.73885,
+          2164.7268999999997,
+          2978.3774000000003,
+          2577.07055,
+          2489.8557,
+          2557.625525,
+          2292.4083,
+          2731.919
         ],
-        "averageNumericValue": 2364.54
+        "averageNumericValue": 2319.24
       },
       "total-blocking-time": {
-        "numericValue": 77.5,
-        "displayValue": "80 ms",
+        "numericValue": 6.5,
+        "displayValue": "10 ms",
         "numericValues": [
-          628,
-          605.5,
-          178,
-          53,
-          148.5,
-          192.9999999999991,
-          27,
-          50.5,
-          227,
-          15.5,
-          68,
-          40,
-          99,
-          127.00000000000091,
-          76,
-          59,
+          251,
+          224,
+          174,
+          97,
+          144,
+          109,
+          171,
+          210.9999999999991,
+          94,
+          34,
+          58,
+          62,
+          72,
+          41,
+          295,
+          160,
+          88,
+          129,
+          117,
           89,
-          93,
-          30.5,
-          71.5,
-          30.5,
-          34.49999999999909,
-          75,
-          304.9999999999982,
-          44,
-          91,
-          153,
-          91,
-          55,
-          223.4999999999991,
-          102.5,
-          89,
-          135,
-          77.5
+          95,
+          25,
+          29,
+          35.99999999999909,
+          93.99999999999818,
+          51,
+          97,
+          45.5,
+          115,
+          32.49999999999818,
+          119,
+          101.5,
+          236,
+          6.5
         ],
-        "averageNumericValue": 128.99
+        "averageNumericValue": 108.91
       },
       "max-potential-fid": {
-        "numericValue": 87,
-        "displayValue": "90 ms",
+        "numericValue": 58,
+        "displayValue": "60 ms",
         "numericValues": [
-          305,
-          305,
-          154,
-          76,
-          139,
-          137.9999999999991,
-          80,
-          90,
-          183,
-          71,
-          81,
-          78,
-          82,
-          118.00000000000091,
-          79,
-          79,
+          152,
+          121,
+          180,
+          100,
+          121,
+          96,
+          133,
+          104.99999999999909,
           92,
-          122,
-          79,
-          106,
+          66,
+          84,
           107,
-          74.99999999999909,
-          85,
-          158,
-          107,
+          75,
+          69,
           151,
-          168,
-          81,
-          83,
-          159,
-          162,
-          88,
-          123,
-          87
+          98,
+          107,
+          103,
+          110,
+          82,
+          106,
+          74,
+          65,
+          81.99999999999909,
+          92,
+          71,
+          103,
+          109,
+          148,
+          89,
+          113,
+          113,
+          181,
+          58
         ],
-        "averageNumericValue": 120.32
+        "averageNumericValue": 104.59
       },
       "interactive": {
-        "numericValue": 15136.926670000006,
-        "displayValue": "15.1 s",
+        "numericValue": 17059.631635000005,
+        "displayValue": "17.1 s",
         "numericValues": [
-          14747.44155,
-          11775.9182,
-          17234.58802249999,
-          14910.804089999998,
-          12652.6719,
-          11616.505304999999,
-          14672.436712999996,
-          14780.10948,
-          14475.135405,
-          10246.211540000002,
-          21886.434942999997,
-          23920.627484999994,
-          24516.090092500002,
-          24392.978275000005,
-          23117.383999999987,
-          23454.06009999999,
-          24292.329529999995,
-          23858.101614999985,
-          11092.000785,
-          14527.541325000006,
-          6184.354085000003,
-          14525.858915,
-          14637.563079999996,
-          19533.0215375,
-          15321.975757499993,
-          11582.242070000002,
-          17609.167570000005,
-          11567.883979999999,
-          16641.505211,
-          17429.53068500001,
-          18171.981970000008,
-          14222.474949999993,
-          21236.920069999996,
-          15136.926670000006
+          20980.855400000004,
+          22691.573,
+          22404.325674999985,
+          20076.521754999987,
+          24218.086539999993,
+          24091.865499999978,
+          22853.20264999999,
+          20916.457390000018,
+          19845.41480000002,
+          14428.968050000009,
+          24000.718769999992,
+          24032.056315000016,
+          23843.72713,
+          23529.06912499998,
+          21334.66417500002,
+          24800.348079999996,
+          23583.54954000001,
+          24298.547934999988,
+          22939.52360397322,
+          22958.489913397643,
+          22932.456800000007,
+          23211.963895000008,
+          28229.806500000013,
+          24089.870535000002,
+          23013.454280000013,
+          20772.4875,
+          20541.9401355,
+          17524.70821239747,
+          17341.83818191608,
+          15635.418858499994,
+          23614.763318702397,
+          15449.88940000001,
+          16583.280385000002,
+          17059.631635000005
         ],
-        "averageNumericValue": 16646.2
+        "averageNumericValue": 21583.22
       }
     }
   },
   "routes": [
     {
       "path": "/",
-      "score": 0.78,
-      "categories": {
-        "performance": {
-          "score": 0.59
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 5066.54,
-          "displayValue": "5.1 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0.04681831440596328,
-          "displayValue": "0.047"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2201.181,
-          "displayValue": "2.2 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 628,
-          "displayValue": "630 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 305,
-          "displayValue": "310 ms"
-        },
-        "interactive": {
-          "numericValue": 14747.44155,
-          "displayValue": "14.7 s"
-        }
-      }
-    },
-    {
-      "path": "/blogs/news",
-      "score": 0.77,
+      "score": 0.79,
       "categories": {
         "performance": {
           "score": 0.65
         },
         "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 4969.648,
+          "displayValue": "5.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0001773814956512436,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2251.4875,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 251,
+          "displayValue": "250 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 152,
+          "displayValue": "150 ms"
+        },
+        "interactive": {
+          "numericValue": 20980.855400000004,
+          "displayValue": "21.0 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
           "score": 0.92
         },
         "best-practices": {
@@ -476,37 +476,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4321.847999999999,
-          "displayValue": "4.3 s"
+          "numericValue": 22691.573,
+          "displayValue": "22.7 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2158.8905,
-          "displayValue": "2.2 s"
+          "numericValue": 2038.683,
+          "displayValue": "2.0 s"
         },
         "total-blocking-time": {
-          "numericValue": 605.5,
-          "displayValue": "610 ms"
+          "numericValue": 224,
+          "displayValue": "220 ms"
         },
         "max-potential-fid": {
-          "numericValue": 305,
-          "displayValue": "310 ms"
+          "numericValue": 121,
+          "displayValue": "120 ms"
         },
         "interactive": {
-          "numericValue": 11775.9182,
-          "displayValue": "11.8 s"
+          "numericValue": 22691.573,
+          "displayValue": "22.7 s"
         }
       }
     },
     {
       "path": "/blogs/news/balkon-terrasse-gemuetlich-einrichten",
-      "score": 0.82,
+      "score": 0.78,
       "categories": {
         "performance": {
-          "score": 0.76
+          "score": 0.6
         },
         "accessibility": {
           "score": 0.94
@@ -520,37 +520,81 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4954.674324999999,
-          "displayValue": "5.0 s"
+          "numericValue": 22396.823549999986,
+          "displayValue": "22.4 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2213.6912500000008,
-          "displayValue": "2.2 s"
+          "numericValue": 2291.1285499999994,
+          "displayValue": "2.3 s"
         },
         "total-blocking-time": {
-          "numericValue": 178,
-          "displayValue": "180 ms"
+          "numericValue": 174,
+          "displayValue": "170 ms"
         },
         "max-potential-fid": {
-          "numericValue": 154,
-          "displayValue": "150 ms"
+          "numericValue": 180,
+          "displayValue": "180 ms"
         },
         "interactive": {
-          "numericValue": 17234.58802249999,
-          "displayValue": "17.2 s"
+          "numericValue": 22404.325674999985,
+          "displayValue": "22.4 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/buerostuhl-ergonomie-worauf-es-ankommt",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 20069.020549999987,
+          "displayValue": "20.1 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2097.6044,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 97,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 100,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 20076.521754999987,
+          "displayValue": "20.1 s"
         }
       }
     },
     {
       "path": "/blogs/news/digitale-thermosflasche-test-innovation-fur-unterwegs",
-      "score": 0.8,
+      "score": 0.74,
       "categories": {
         "performance": {
-          "score": 0.84
+          "score": 0.61
         },
         "accessibility": {
           "score": 0.9
@@ -564,37 +608,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4121.7119,
-          "displayValue": "4.1 s"
+          "numericValue": 24209.581799999993,
+          "displayValue": "24.2 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2238.8667,
-          "displayValue": "2.2 s"
+          "numericValue": 2352.3999999999996,
+          "displayValue": "2.4 s"
         },
         "total-blocking-time": {
-          "numericValue": 53,
-          "displayValue": "50 ms"
+          "numericValue": 144,
+          "displayValue": "140 ms"
         },
         "max-potential-fid": {
-          "numericValue": 76,
-          "displayValue": "80 ms"
+          "numericValue": 121,
+          "displayValue": "120 ms"
         },
         "interactive": {
-          "numericValue": 14910.804089999998,
-          "displayValue": "14.9 s"
+          "numericValue": 24218.086539999993,
+          "displayValue": "24.2 s"
         }
       }
     },
     {
       "path": "/blogs/news/erhoehtes-hundebett-gelenke-aeltere-hunde",
-      "score": 0.84,
+      "score": 0.79,
       "categories": {
         "performance": {
-          "score": 0.85
+          "score": 0.62
         },
         "accessibility": {
           "score": 0.94
@@ -608,37 +652,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 3748.2405,
-          "displayValue": "3.7 s"
+          "numericValue": 24091.865499999978,
+          "displayValue": "24.1 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2326.228,
-          "displayValue": "2.3 s"
+          "numericValue": 2376.6394999999998,
+          "displayValue": "2.4 s"
         },
         "total-blocking-time": {
-          "numericValue": 148.5,
-          "displayValue": "150 ms"
+          "numericValue": 109,
+          "displayValue": "110 ms"
         },
         "max-potential-fid": {
-          "numericValue": 139,
-          "displayValue": "140 ms"
+          "numericValue": 96,
+          "displayValue": "100 ms"
         },
         "interactive": {
-          "numericValue": 12652.6719,
-          "displayValue": "12.7 s"
+          "numericValue": 24091.865499999978,
+          "displayValue": "24.1 s"
         }
       }
     },
     {
       "path": "/blogs/news/hundebett-groesse-welche-laenge-passt",
-      "score": 0.87,
+      "score": 0.78,
       "categories": {
         "performance": {
-          "score": 0.94
+          "score": 0.6
         },
         "accessibility": {
           "score": 0.94
@@ -652,37 +696,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 2147.8867,
-          "displayValue": "2.1 s"
+          "numericValue": 22853.20264999999,
+          "displayValue": "22.9 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2147.8867,
-          "displayValue": "2.1 s"
+          "numericValue": 2224.7514,
+          "displayValue": "2.2 s"
         },
         "total-blocking-time": {
-          "numericValue": 192.9999999999991,
-          "displayValue": "190 ms"
+          "numericValue": 171,
+          "displayValue": "170 ms"
         },
         "max-potential-fid": {
-          "numericValue": 137.9999999999991,
-          "displayValue": "140 ms"
+          "numericValue": 133,
+          "displayValue": "130 ms"
         },
         "interactive": {
-          "numericValue": 11616.505304999999,
-          "displayValue": "11.6 s"
+          "numericValue": 22853.20264999999,
+          "displayValue": "22.9 s"
         }
       }
     },
     {
       "path": "/blogs/news/hundefreundliches-wohnzimmer-einrichten",
-      "score": 0.83,
+      "score": 0.78,
       "categories": {
         "performance": {
-          "score": 0.8
+          "score": 0.6
         },
         "accessibility": {
           "score": 0.94
@@ -696,125 +740,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4667.721750000001,
-          "displayValue": "4.7 s"
+          "numericValue": 20901.456000000013,
+          "displayValue": "20.9 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2304.3134999999997,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 27,
-          "displayValue": "30 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 80,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 14672.436712999996,
-          "displayValue": "14.7 s"
-        }
-      }
-    },
-    {
-      "path": "/blogs/news/hundesofa-kaufberatung-worauf-achten",
-      "score": 0.85,
-      "categories": {
-        "performance": {
-          "score": 0.86
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 3713.7487500000007,
-          "displayValue": "3.7 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2295.0081000000005,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 50.5,
-          "displayValue": "50 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 90,
-          "displayValue": "90 ms"
-        },
-        "interactive": {
-          "numericValue": 14780.10948,
-          "displayValue": "14.8 s"
-        }
-      }
-    },
-    {
-      "path": "/blogs/news/samt-sessel",
-      "score": 0.9,
-      "categories": {
-        "performance": {
-          "score": 0.89
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.77
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 2896.7497000000003,
-          "displayValue": "2.9 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2133.7178,
+          "numericValue": 2113.6043,
           "displayValue": "2.1 s"
         },
         "total-blocking-time": {
-          "numericValue": 227,
-          "displayValue": "230 ms"
+          "numericValue": 210.9999999999991,
+          "displayValue": "210 ms"
         },
         "max-potential-fid": {
-          "numericValue": 183,
-          "displayValue": "180 ms"
+          "numericValue": 104.99999999999909,
+          "displayValue": "100 ms"
         },
         "interactive": {
-          "numericValue": 14475.135405,
-          "displayValue": "14.5 s"
+          "numericValue": 20916.457390000018,
+          "displayValue": "20.9 s"
         }
       }
     },
     {
-      "path": "/blogs/news/warum-liegt-mein-hund-lieber-auf-dem-sofa",
-      "score": 0.84,
+      "path": "/blogs/news/kratzbaum-groesse-material-standort",
+      "score": 0.79,
       "categories": {
         "performance": {
-          "score": 0.84
+          "score": 0.63
         },
         "accessibility": {
           "score": 0.94
@@ -828,28 +784,72 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4043.65135,
-          "displayValue": "4.0 s"
+          "numericValue": 19845.41480000002,
+          "displayValue": "19.8 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2314.5262000000002,
-          "displayValue": "2.3 s"
+          "numericValue": 2093.8048,
+          "displayValue": "2.1 s"
         },
         "total-blocking-time": {
-          "numericValue": 15.5,
-          "displayValue": "20 ms"
+          "numericValue": 94,
+          "displayValue": "90 ms"
         },
         "max-potential-fid": {
-          "numericValue": 71,
+          "numericValue": 92,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 19845.41480000002,
+          "displayValue": "19.8 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/nachhaltige-buroausstattung-umweltfreundlich-arbeiten",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.66
+        },
+        "accessibility": {
+          "score": 0.9
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 6419.523550000001,
+          "displayValue": "6.4 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2088.3174,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 34,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 66,
           "displayValue": "70 ms"
         },
         "interactive": {
-          "numericValue": 10246.211540000002,
-          "displayValue": "10.2 s"
+          "numericValue": 14428.968050000009,
+          "displayValue": "14.4 s"
         }
       }
     },
@@ -858,7 +858,7 @@
       "score": 0.79,
       "categories": {
         "performance": {
-          "score": 0.62
+          "score": 0.63
         },
         "accessibility": {
           "score": 0.94
@@ -872,28 +872,72 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 21847.931849999994,
-          "displayValue": "21.8 s"
+          "numericValue": 23961.919199999993,
+          "displayValue": "24.0 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2408.5215,
-          "displayValue": "2.4 s"
+          "numericValue": 2169.4291388635056,
+          "displayValue": "2.2 s"
         },
         "total-blocking-time": {
-          "numericValue": 68,
-          "displayValue": "70 ms"
+          "numericValue": 58,
+          "displayValue": "60 ms"
         },
         "max-potential-fid": {
-          "numericValue": 81,
+          "numericValue": 84,
           "displayValue": "80 ms"
         },
         "interactive": {
-          "numericValue": 21886.434942999997,
-          "displayValue": "21.9 s"
+          "numericValue": 24000.718769999992,
+          "displayValue": "24.0 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/bestesell-startbutton",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24024.512150000017,
+          "displayValue": "24.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2301.8752999999997,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 62,
+          "displayValue": "60 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 107,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 24032.056315000016,
+          "displayValue": "24.0 s"
         }
       }
     },
@@ -902,138 +946,6 @@
       "score": 0.79,
       "categories": {
         "performance": {
-          "score": 0.63
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 23883.089849999993,
-          "displayValue": "23.9 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2255.6945,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 40,
-          "displayValue": "40 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 78,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 23920.627484999994,
-          "displayValue": "23.9 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/dekoration",
-      "score": 0.78,
-      "categories": {
-        "performance": {
-          "score": 0.61
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 24442.370725000004,
-          "displayValue": "24.4 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2554.0648999999994,
-          "displayValue": "2.6 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 99,
-          "displayValue": "100 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 82,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 24516.090092500002,
-          "displayValue": "24.5 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/foyer",
-      "score": 0.78,
-      "categories": {
-        "performance": {
-          "score": 0.61
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 24355.463050000002,
-          "displayValue": "24.4 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2410.8630999999996,
-          "displayValue": "2.4 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 127.00000000000091,
-          "displayValue": "130 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 118.00000000000091,
-          "displayValue": "120 ms"
-        },
-        "interactive": {
-          "numericValue": 24392.978275000005,
-          "displayValue": "24.4 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/garten-outdoor",
-      "score": 0.79,
-      "categories": {
-        "performance": {
           "score": 0.62
         },
         "accessibility": {
@@ -1048,139 +960,7 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 23042.35409999999,
-          "displayValue": "23.0 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2334.1017,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 76,
-          "displayValue": "80 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 79,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 23117.383999999987,
-          "displayValue": "23.1 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/handtucher-textilien",
-      "score": 0.79,
-      "categories": {
-        "performance": {
-          "score": 0.63
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 23454.06009999999,
-          "displayValue": "23.5 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2321.2796,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 59,
-          "displayValue": "60 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 79,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 23454.06009999999,
-          "displayValue": "23.5 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/kinderzimmer",
-      "score": 0.79,
-      "categories": {
-        "performance": {
-          "score": 0.62
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 24218.263399999993,
-          "displayValue": "24.2 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2347.1763,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 89,
-          "displayValue": "90 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 92,
-          "displayValue": "90 ms"
-        },
-        "interactive": {
-          "numericValue": 24292.329529999995,
-          "displayValue": "24.3 s"
-        }
-      }
-    },
-    {
-      "path": "/collections/neuheitenentdecken",
-      "score": 0.79,
-      "categories": {
-        "performance": {
-          "score": 0.62
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 23820.867049999986,
+          "numericValue": 23828.724000000002,
           "displayValue": "23.8 s"
         },
         "cumulative-layout-shift": {
@@ -1188,249 +968,29 @@
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2325.3181999999997,
+          "numericValue": 2299.2324499999995,
           "displayValue": "2.3 s"
         },
         "total-blocking-time": {
-          "numericValue": 93,
-          "displayValue": "90 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 122,
-          "displayValue": "120 ms"
-        },
-        "interactive": {
-          "numericValue": 23858.101614999985,
-          "displayValue": "23.9 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/avada-sitemap",
-      "score": 0.83,
-      "categories": {
-        "performance": {
-          "score": 0.81
-        },
-        "accessibility": {
-          "score": 0.92
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4451.527899999999,
-          "displayValue": "4.5 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2304.7718,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 30.5,
-          "displayValue": "30 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 79,
-          "displayValue": "80 ms"
-        },
-        "interactive": {
-          "numericValue": 11092.000785,
-          "displayValue": "11.1 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/avada-sitemap-blogs",
-      "score": 0.87,
-      "categories": {
-        "performance": {
-          "score": 0.8
-        },
-        "accessibility": {
-          "score": 0.92
-        },
-        "best-practices": {
-          "score": 0.77
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4601.060999999998,
-          "displayValue": "4.6 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2209.0013000000004,
-          "displayValue": "2.2 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 71.5,
+          "numericValue": 72,
           "displayValue": "70 ms"
         },
         "max-potential-fid": {
-          "numericValue": 106,
-          "displayValue": "110 ms"
-        },
-        "interactive": {
-          "numericValue": 14527.541325000006,
-          "displayValue": "14.5 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/avada-sitemap-collections",
-      "score": 0.81,
-      "categories": {
-        "performance": {
-          "score": 0.79
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 0.92
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4924.776100000001,
-          "displayValue": "4.9 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2441.9733,
-          "displayValue": "2.4 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 30.5,
-          "displayValue": "30 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 107,
-          "displayValue": "110 ms"
-        },
-        "interactive": {
-          "numericValue": 6184.354085000003,
-          "displayValue": "6.2 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/avada-sitemap-pages",
-      "score": 0.81,
-      "categories": {
-        "performance": {
-          "score": 0.78
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 0.92
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4976.959499999999,
-          "displayValue": "5.0 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2293.0505999999996,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 34.49999999999909,
-          "displayValue": "30 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 74.99999999999909,
-          "displayValue": "70 ms"
-        },
-        "interactive": {
-          "numericValue": 14525.858915,
-          "displayValue": "14.5 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/contact",
-      "score": 0.83,
-      "categories": {
-        "performance": {
-          "score": 0.8
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4642.5612,
-          "displayValue": "4.6 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2221.1619499999997,
-          "displayValue": "2.2 s"
-        },
-        "total-blocking-time": {
           "numericValue": 75,
           "displayValue": "80 ms"
         },
-        "max-potential-fid": {
-          "numericValue": 85,
-          "displayValue": "90 ms"
-        },
         "interactive": {
-          "numericValue": 14637.563079999996,
-          "displayValue": "14.6 s"
+          "numericValue": 23843.72713,
+          "displayValue": "23.8 s"
         }
       }
     },
     {
-      "path": "/pages/data-sharing-opt-out",
-      "score": 0.81,
+      "path": "/collections/mobel-1",
+      "score": 0.79,
       "categories": {
         "performance": {
-          "score": 0.72
+          "score": 0.62
         },
         "accessibility": {
           "score": 0.94
@@ -1444,81 +1004,37 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 4881.073150000001,
-          "displayValue": "4.9 s"
+          "numericValue": 23491.538149999982,
+          "displayValue": "23.5 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2298.0138000000006,
-          "displayValue": "2.3 s"
+          "numericValue": 2482.1921500000003,
+          "displayValue": "2.5 s"
         },
         "total-blocking-time": {
-          "numericValue": 304.9999999999982,
-          "displayValue": "300 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 158,
-          "displayValue": "160 ms"
-        },
-        "interactive": {
-          "numericValue": 19533.0215375,
-          "displayValue": "19.5 s"
-        }
-      }
-    },
-    {
-      "path": "/pages/details-zur-produktsicherheit",
-      "score": 0.83,
-      "categories": {
-        "performance": {
-          "score": 0.78
-        },
-        "accessibility": {
-          "score": 0.94
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 5006.408450000002,
-          "displayValue": "5.0 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2283.5523,
-          "displayValue": "2.3 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 44,
+          "numericValue": 41,
           "displayValue": "40 ms"
         },
         "max-potential-fid": {
-          "numericValue": 107,
-          "displayValue": "110 ms"
+          "numericValue": 69,
+          "displayValue": "70 ms"
         },
         "interactive": {
-          "numericValue": 15321.975757499993,
-          "displayValue": "15.3 s"
+          "numericValue": 23529.06912499998,
+          "displayValue": "23.5 s"
         }
       }
     },
     {
-      "path": "/pages/uber-uns",
-      "score": 0.86,
+      "path": "/collections/ordnung-aufbewahrung",
+      "score": 0.77,
       "categories": {
         "performance": {
-          "score": 0.91
+          "score": 0.57
         },
         "accessibility": {
           "score": 0.94
@@ -1532,40 +1048,40 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 3022.9061000000006,
-          "displayValue": "3.0 s"
+          "numericValue": 21267.158550000022,
+          "displayValue": "21.3 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2210.7458,
-          "displayValue": "2.2 s"
+          "numericValue": 2091.3101,
+          "displayValue": "2.1 s"
         },
         "total-blocking-time": {
-          "numericValue": 91,
-          "displayValue": "90 ms"
+          "numericValue": 295,
+          "displayValue": "300 ms"
         },
         "max-potential-fid": {
           "numericValue": 151,
           "displayValue": "150 ms"
         },
         "interactive": {
-          "numericValue": 11582.242070000002,
-          "displayValue": "11.6 s"
+          "numericValue": 21334.66417500002,
+          "displayValue": "21.3 s"
         }
       }
     },
     {
-      "path": "/products/cat-tree-with-sisal-scratching-posts-230-250-cm",
-      "score": 0.77,
+      "path": "/collections/reisen-unterwegs",
+      "score": 0.78,
       "categories": {
         "performance": {
           "score": 0.6
         },
         "accessibility": {
-          "score": 0.89
+          "score": 0.94
         },
         "best-practices": {
           "score": 0.58
@@ -1576,40 +1092,260 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 7437.560049999996,
-          "displayValue": "7.4 s"
+          "numericValue": 24770.180699999994,
+          "displayValue": "24.8 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2822.5275,
-          "displayValue": "2.8 s"
+          "numericValue": 2389.4010500000004,
+          "displayValue": "2.4 s"
         },
         "total-blocking-time": {
-          "numericValue": 153,
-          "displayValue": "150 ms"
+          "numericValue": 160,
+          "displayValue": "160 ms"
         },
         "max-potential-fid": {
-          "numericValue": 168,
-          "displayValue": "170 ms"
+          "numericValue": 98,
+          "displayValue": "100 ms"
         },
         "interactive": {
-          "numericValue": 17609.167570000005,
-          "displayValue": "17.6 s"
+          "numericValue": 24800.348079999996,
+          "displayValue": "24.8 s"
         }
       }
     },
     {
-      "path": "/products/feuerschale-eckig-industrial-50x50",
+      "path": "/collections/schlafzimmer",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23553.52670000001,
+          "displayValue": "23.6 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2462.4816000000005,
+          "displayValue": "2.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 88,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 107,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 23583.54954000001,
+          "displayValue": "23.6 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/wohnen-deko",
       "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.61
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24239.235449999986,
+          "displayValue": "24.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2370.5123,
+          "displayValue": "2.4 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 129,
+          "displayValue": "130 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 103,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 24298.547934999988,
+          "displayValue": "24.3 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-collections",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22930.952536317352,
+          "displayValue": "22.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2216.9258485830537,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 117,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 110,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 22939.52360397322,
+          "displayValue": "22.9 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-pages",
+      "score": 0.77,
       "categories": {
         "performance": {
           "score": 0.63
         },
         "accessibility": {
-          "score": 0.89
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22958.489913397643,
+          "displayValue": "23.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2228.3785514940714,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 89,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 82,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 22958.489913397643,
+          "displayValue": "23.0 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-products",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22932.456800000004,
+          "displayValue": "22.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2307.4568,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 95,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 106,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 22932.456800000007,
+          "displayValue": "22.9 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/contact",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
         },
         "best-practices": {
           "score": 0.58
@@ -1620,43 +1356,219 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 6886.778999999997,
-          "displayValue": "6.9 s"
+          "numericValue": 23189.05045000001,
+          "displayValue": "23.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0001020964887393855,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2223.1114,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 25,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 74,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 23211.963895000008,
+          "displayValue": "23.2 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/data-sharing-opt-out",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 28229.806500000013,
+          "displayValue": "28.2 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2426.0874000000003,
-          "displayValue": "2.4 s"
+          "numericValue": 2253.6444,
+          "displayValue": "2.3 s"
         },
         "total-blocking-time": {
-          "numericValue": 91,
-          "displayValue": "90 ms"
+          "numericValue": 29,
+          "displayValue": "30 ms"
         },
         "max-potential-fid": {
-          "numericValue": 81,
-          "displayValue": "80 ms"
+          "numericValue": 65,
+          "displayValue": "70 ms"
         },
         "interactive": {
-          "numericValue": 11567.883979999999,
-          "displayValue": "11.6 s"
+          "numericValue": 28229.806500000013,
+          "displayValue": "28.2 s"
         }
       }
     },
     {
-      "path": "/products/gartendeko-cortenstahl-baum-55x55",
-      "score": 0.78,
+      "path": "/pages/eu-widerrufsformular",
+      "score": 0.77,
       "categories": {
         "performance": {
-          "score": 0.65
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24082.361749999996,
+          "displayValue": "24.1 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2306.8852500000003,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 35.99999999999909,
+          "displayValue": "40 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 81.99999999999909,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 24089.870535000002,
+          "displayValue": "24.1 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/gdpr-compliance",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23005.953700000013,
+          "displayValue": "23.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2250.3471,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 93.99999999999818,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 92,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 23013.454280000013,
+          "displayValue": "23.0 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/produkte",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 20772.487499999996,
+          "displayValue": "20.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.002606029806942854,
+          "displayValue": "0.003"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2034.7826499999996,
+          "displayValue": "2.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 51,
+          "displayValue": "50 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 71,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 20772.4875,
+          "displayValue": "20.8 s"
+        }
+      }
+    },
+    {
+      "path": "/products/aufbewahrungskorb-deckel-37cm-gross",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.62
         },
         "accessibility": {
           "score": 0.89
         },
         "best-practices": {
-          "score": 0.58
+          "score": 0.54
         },
         "seo": {
           "score": 1
@@ -1664,34 +1576,254 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 5970.387349999999,
-          "displayValue": "6.0 s"
+          "numericValue": 6976.990449999998,
+          "displayValue": "7.0 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2688.20985,
+          "numericValue": 2745.73885,
           "displayValue": "2.7 s"
         },
         "total-blocking-time": {
-          "numericValue": 55,
-          "displayValue": "60 ms"
+          "numericValue": 97,
+          "displayValue": "100 ms"
         },
         "max-potential-fid": {
-          "numericValue": 83,
-          "displayValue": "80 ms"
+          "numericValue": 103,
+          "displayValue": "100 ms"
         },
         "interactive": {
-          "numericValue": 16641.505211,
-          "displayValue": "16.6 s"
+          "numericValue": 20541.9401355,
+          "displayValue": "20.5 s"
         }
       }
     },
     {
-      "path": "/products/gartenstuhl-verstellbar-pe-rattan",
+      "path": "/products/garden-trolley-garden-trolley-garden-trolley-garden-trolley",
       "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7805.36103,
+          "displayValue": "7.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2164.7268999999997,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 45.5,
+          "displayValue": "50 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 109,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 17524.70821239747,
+          "displayValue": "17.5 s"
+        }
+      }
+    },
+    {
+      "path": "/products/hard-shell-trolley-set-3-pcs-abs-hard-shell-trolley-set-3",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 5398.042599999999,
+          "displayValue": "5.4 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2978.3774000000003,
+          "displayValue": "3.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 115,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 148,
+          "displayValue": "150 ms"
+        },
+        "interactive": {
+          "numericValue": 17341.83818191608,
+          "displayValue": "17.3 s"
+        }
+      }
+    },
+    {
+      "path": "/products/plant-pots-2-pcs-blue-grey-30x-polypropylene",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 6556.937389999998,
+          "displayValue": "6.6 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2577.07055,
+          "displayValue": "2.6 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 32.49999999999818,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 89,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 15635.418858499994,
+          "displayValue": "15.6 s"
+        }
+      }
+    },
+    {
+      "path": "/products/planter-80x30x27-5-cm-solid-acacia-wood-and",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7470.037445000002,
+          "displayValue": "7.5 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2489.8557,
+          "displayValue": "2.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 119,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 113,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 23614.763318702397,
+          "displayValue": "23.6 s"
+        }
+      }
+    },
+    {
+      "path": "/products/samt-sessel-design-armlehnen-holzbeine",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.68
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 5154.2599500000015,
+          "displayValue": "5.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2557.625525,
+          "displayValue": "2.6 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 101.5,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 113,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 15449.88940000001,
+          "displayValue": "15.4 s"
+        }
+      }
+    },
+    {
+      "path": "/products/upgrade-version-lash-lift-kit-iconsign-lifting-perm-eyelash-eyes-makeup-tools",
+      "score": 0.76,
       "categories": {
         "performance": {
           "score": 0.59
@@ -1700,7 +1832,7 @@
           "score": 0.89
         },
         "best-practices": {
-          "score": 0.58
+          "score": 0.54
         },
         "seo": {
           "score": 1
@@ -1708,204 +1840,72 @@
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 6688.670399999999,
-          "displayValue": "6.7 s"
+          "numericValue": 7660.2633200000055,
+          "displayValue": "7.7 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2803.14445,
-          "displayValue": "2.8 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 223.4999999999991,
-          "displayValue": "220 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 159,
-          "displayValue": "160 ms"
-        },
-        "interactive": {
-          "numericValue": 17429.53068500001,
-          "displayValue": "17.4 s"
-        }
-      }
-    },
-    {
-      "path": "/products/gartentisch-pe-rattan-akazienholz",
-      "score": 0.77,
-      "categories": {
-        "performance": {
-          "score": 0.61
-        },
-        "accessibility": {
-          "score": 0.89
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 7467.759000000002,
-          "displayValue": "7.5 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2822.065600000001,
-          "displayValue": "2.8 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 102.5,
-          "displayValue": "100 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 162,
-          "displayValue": "160 ms"
-        },
-        "interactive": {
-          "numericValue": 18171.981970000008,
-          "displayValue": "18.2 s"
-        }
-      }
-    },
-    {
-      "path": "/products/hundesofa-guenstig-modern-70cm",
-      "score": 0.79,
-      "categories": {
-        "performance": {
-          "score": 0.69
-        },
-        "accessibility": {
-          "score": 0.89
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 5124.531799999999,
-          "displayValue": "5.1 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2348.8695,
+          "numericValue": 2292.4083,
           "displayValue": "2.3 s"
         },
         "total-blocking-time": {
-          "numericValue": 89,
-          "displayValue": "90 ms"
+          "numericValue": 236,
+          "displayValue": "240 ms"
         },
         "max-potential-fid": {
-          "numericValue": 88,
-          "displayValue": "90 ms"
+          "numericValue": 181,
+          "displayValue": "180 ms"
         },
         "interactive": {
-          "numericValue": 14222.474949999993,
-          "displayValue": "14.2 s"
+          "numericValue": 16583.280385000002,
+          "displayValue": "16.6 s"
         }
       }
     },
     {
-      "path": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
-      "score": 0.78,
+      "path": "/products/wooden-ladder-golf",
+      "score": 0.74,
       "categories": {
         "performance": {
-          "score": 0.65
+          "score": 0.62
         },
         "accessibility": {
           "score": 0.89
         },
         "best-practices": {
-          "score": 0.58
+          "score": 0.54
         },
         "seo": {
-          "score": 1
+          "score": 0.92
         }
       },
       "metrics": {
         "largest-contentful-paint": {
-          "numericValue": 5199.9559000000045,
-          "displayValue": "5.2 s"
+          "numericValue": 7857.0199999999995,
+          "displayValue": "7.9 s"
         },
         "cumulative-layout-shift": {
           "numericValue": 0,
           "displayValue": "0"
         },
         "first-contentful-paint": {
-          "numericValue": 2799.40085,
-          "displayValue": "2.8 s"
+          "numericValue": 2731.919,
+          "displayValue": "2.7 s"
         },
         "total-blocking-time": {
-          "numericValue": 135,
-          "displayValue": "140 ms"
+          "numericValue": 6.5,
+          "displayValue": "10 ms"
         },
         "max-potential-fid": {
-          "numericValue": 123,
-          "displayValue": "120 ms"
+          "numericValue": 58,
+          "displayValue": "60 ms"
         },
         "interactive": {
-          "numericValue": 21236.920069999996,
-          "displayValue": "21.2 s"
-        }
-      }
-    },
-    {
-      "path": "/products/sitzbank-stauraum-gepolstert-klappbar",
-      "score": 0.8,
-      "categories": {
-        "performance": {
-          "score": 0.73
-        },
-        "accessibility": {
-          "score": 0.89
-        },
-        "best-practices": {
-          "score": 0.58
-        },
-        "seo": {
-          "score": 1
-        }
-      },
-      "metrics": {
-        "largest-contentful-paint": {
-          "numericValue": 4523.920699999999,
-          "displayValue": "4.5 s"
-        },
-        "cumulative-layout-shift": {
-          "numericValue": 0,
-          "displayValue": "0"
-        },
-        "first-contentful-paint": {
-          "numericValue": 2130.3562,
-          "displayValue": "2.1 s"
-        },
-        "total-blocking-time": {
-          "numericValue": 77.5,
-          "displayValue": "80 ms"
-        },
-        "max-potential-fid": {
-          "numericValue": 87,
-          "displayValue": "90 ms"
-        },
-        "interactive": {
-          "numericValue": 15136.926670000006,
-          "displayValue": "15.1 s"
+          "numericValue": 17059.631635000005,
+          "displayValue": "17.1 s"
         }
       }
     }
