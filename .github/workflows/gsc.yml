@@ -25,6 +25,10 @@ on:
         description: "Zeitraum in Tagen (Standard 28)"
         required: false
         default: "28"
+      sitemap_einreichen:
+        description: "Sitemap-URL einreichen (leer = nichts tun), z.B. https://www.homeeins.de/sitemap.xml"
+        required: false
+        default: ""
   schedule:
     - cron: "0 6 * * 1"
 # id-token: write erlaubt GitHub, ein kurzlebiges OIDC-Token auszustellen.
@@ -78,7 +82,8 @@ jobs:
           python3 scripts/gsc.py \
             --property "sc-domain:homeeins.de" \
             --out daten \
-            --tage "${{ inputs.tage || '28' }}"
+            --tage "${{ inputs.tage || '28' }}" \
+            --sitemap-einreichen "${{ inputs.sitemap_einreichen || '' }}"
 
       - name: Bericht in die Zusammenfassung
         if: always()

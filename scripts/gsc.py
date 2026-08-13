@@ -39,7 +39,11 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
-SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"]
+# Voller Schreibzugriff statt nur "webmasters.readonly", seit dieses
+# Skript auch Sitemaps einreichen kann (--sitemap-einreichen). Das
+# Einreichen selbst bleibt ein bewusster, expliziter Schritt per Flag --
+# diese Zeile öffnet nur die Möglichkeit dazu, sie tut noch nichts.
+SCOPES = ["https://www.googleapis.com/auth/webmasters"]
 
 # Search-Console-Daten sind zwei bis drei Tage verzögert. Ohne diesen
 # Versatz sieht der letzte Tag künstlich schwach aus.
@@ -178,6 +182,15 @@ def sitemap_bericht(eintraege: list[dict]) -> list[str]:
                          f"{c['indexiert']} indexiert")
             z.append("")
     return z
+
+
+def sitemap_einreichen(api, property_url: str, feed: str) -> str:
+    """Reicht eine Sitemap ein. Braucht den vollen webmasters-Scope, nicht
+    nur readonly -- absichtlich ein separater, expliziter Aufruf statt
+    Teil des normalen wöchentlichen Laufs, damit niemand versehentlich
+    jede Woche neu einreicht, ohne es zu wissen."""
+    api.sitemaps().submit(siteUrl=property_url, feedpath=feed).execute()
+    return f"Eingereicht: {feed}"
 
 
 def abfragen(api, property_url: str, start: date, ende: date,
@@ -412,6 +425,9 @@ def main() -> None:
     ap.add_argument("--property", default="sc-domain:homeeins.de")
     ap.add_argument("--out", default="daten")
     ap.add_argument("--tage", type=int, default=ZEITRAUM_TAGE)
+    ap.add_argument("--sitemap-einreichen", default="",
+                     help="Sitemap-URL einreichen, z.B. "
+                          "https://www.homeeins.de/sitemap.xml. Leer = nichts tun.")
     a = ap.parse_args()
 
     api = dienst()
@@ -419,6 +435,12 @@ def main() -> None:
         # Kein Abbruch: Der Workflow soll nicht rot sein, nur weil die
         # Zugangsdaten noch fehlen. Die Anleitung steht oben im Log.
         return
+
+    if a.sitemap_einreichen:
+        try:
+            print(sitemap_einreichen(api, a.property, a.sitemap_einreichen))
+        except Exception as e:
+            print(f"Einreichen fehlgeschlagen: {e}")
 
     ende = date.today() - timedelta(days=VERZUG_TAGE)
     start = ende - timedelta(days=a.tage - 1)
