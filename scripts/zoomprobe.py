@@ -54,11 +54,25 @@ def zoom_pruefen(browser, pfad: str, bilder: Path) -> dict:
         # Skript-Adressen, die nicht von shopify.com selbst stammen --
         # eine davon ist fast immer die Herkunft der App.
         d["widerruf_button"] = seite.evaluate("""() => {
-          const alle = [...document.querySelectorAll('button, a, div, span')];
-          const treffer = alle.find(
-            el => (el.textContent || '').trim() === 'Vertrag widerrufen'
-                  && el.children.length === 0);
-          if (!treffer) return {gefunden: false};
+          // Geht auch durch offene Shadow-DOM-Grenzen -- App-Widgets
+          // sind oft als Web Components mit eigenem Shadow-Root gebaut,
+          // ein normales querySelectorAll sieht da nicht hinein.
+          function alleKnoten(wurzel, sammlung) {
+            for (const el of wurzel.querySelectorAll('*')) {
+              sammlung.push(el);
+              if (el.shadowRoot) alleKnoten(el.shadowRoot, sammlung);
+            }
+            return sammlung;
+          }
+          const alle = alleKnoten(document, []);
+          const kandidaten = alle.filter(
+            el => (el.textContent || '').includes('Vertrag widerrufen'));
+          if (!kandidaten.length) return {gefunden: false, geprueft: alle.length};
+          // Das kleinste Element, das den Text noch vollstaendig enthaelt --
+          // das ist der eigentliche Button, nicht ein Vorfahre der ganzen Seite.
+          kandidaten.sort((a, b) =>
+            (a.textContent || '').length - (b.textContent || '').length);
+          const treffer = kandidaten[0];
 
           const pfad = [];
           let el = treffer;
@@ -176,8 +190,9 @@ def bericht(d: dict) -> str:
          "widerrufen\"-Buttons", ""]
     wb = d.get("widerruf_button") or {}
     if not wb.get("gefunden"):
-        z += ["Button auf dieser Seite nicht gefunden (Text stimmt "
-              "nicht exakt überein oder er lädt verzögert nach).", ""]
+        z += [f"Button auf dieser Seite nicht gefunden ({wb.get('geprueft', '?')} "
+              "Elemente durchsucht, auch innerhalb offener Shadow-DOM-Wurzeln).",
+              ""]
     else:
         z.append("Elternpfad vom Button nach oben, bis zu 6 Ebenen:")
         z.append("")
