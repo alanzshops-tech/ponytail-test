@@ -9,6 +9,11 @@ name: Shop messen
 # Kennzahlen, nach denen Google selbst bewertet.
 on:
   workflow_dispatch:
+    inputs:
+      zoom_pfad:
+        description: "Zusätzlich Bild-Zoom auf dem Handy prüfen für diesen Produktpfad (leer = überspringen)"
+        required: false
+        default: ""
   # Montags 07:00 UTC, nach dem Search-Console-Bericht.
 permissions:
   contents: write
@@ -33,6 +38,15 @@ jobs:
 
       - name: Fotografieren und messen
         run: python3 scripts/webcheck.py --urls urls-shop.txt
+
+      # Eigener, optionaler Schritt: prueft echten Tap-Zoom auf dem Handy,
+      # nicht nur ob die Seite laedt. Siehe PRODUKTBILDER.md.
+      - name: Bild-Zoom pruefen
+        if: inputs.zoom_pfad != ''
+        continue-on-error: true
+        env:
+          ZOOM_PFAD: ${{ inputs.zoom_pfad }}
+        run: python3 scripts/zoomprobe.py --pfad "$ZOOM_PFAD"
 
       # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
       # die Mehrheit ankommt und die Schwächen sichtbarer sind.
@@ -84,6 +98,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add bilder WEBSITE.md daten/webcheck-aktuell.json 2>/dev/null || true
+          git add ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
