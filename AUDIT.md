@@ -89,13 +89,13 @@ eine Rechnung, die aufgeht.
 
 | # | Chance | Beleg |
 |---|---|---|
-| **1** | **10 Seiten stehen auf Platz 1–5 und bekommen null Klicks.** Ranking ist da, Klick fehlt → Snippet-Problem. Billigster denkbarer Verkehr. | Search Console |
+| **1** | ~~10 Seiten stehen auf Platz 1–5 und bekommen null Klicks. Ranking ist da, Klick fehlt → Snippet-Problem.~~ **Geprüft, 13.08.2026:** Die Snippets von 5 der 6 realen Seiten sind bereits ordentlich (richtige Länge, Kaufintention) — kein echtes Snippet-Problem. Bei winzigen Impressionszahlen (6–34/28 Tage) ist 0 Klicks nicht ungewöhnlich. Ein echter Fund dabei behoben (Titel/URL-Mismatch bei der „dekoration"-Seite). Details: `GSC.md`, `TRAFFIC.md`. | Search Console |
 | **2** | **eBay.** Verkehr existiert dort. Gebühr 11 % + 0,35 €, Dropshipping vom Großhändler erlaubt. Keine Werbekosten. | eBay-Recherche |
 | **3** | **Saisonfenster steht offen.** Hundebett, Bürostuhl, Kratzbaum, Hocker haben ihr Nachfragehoch **November bis Januar**. Heute ist August. | TRENDS.md |
 | 4 | **Hundemöbel sind der einzige zusammenhängende Bereich mit belegter Nachfrage** (Index 69, +15 %) und tiefem Sortiment (7 Modelle). | TRENDS.md, Sortiment |
 | 5 | **Schreibtischstuhl +43 % Trend**, 570 Stück Bestand, 78 € Deckungsbeitrag. | TRENDS.md, Shopify |
 | 6 | **Hocker/Schuhbank +107 % Trend** — der stärkste Anstieg im ganzen Datensatz. | TRENDS.md |
-| 7 | **17 fertige Reels liegen unbenutzt.** Produktionskosten null (FFmpeg auf dem Runner). | Repository |
+| 7 | ~~17 fertige Reels liegen unbenutzt.~~ **Falsch — geprüft, 13.08.2026:** Es sind 19 Reels, und ein aktiver Metricool-Kalender veröffentlicht sie längst auf TikTok/YouTube Shorts/Instagram. Details: `SOCIAL.md`. | Metricool (live geprüft), nicht Repository |
 | 8 | **Deutsches Lager, 3–5 Tage Lieferzeit.** Voraussetzung für Marktplätze — hast du. | CJ-Daten |
 | 9 | **Break-even-ROAS 1,90.** Wenn die Conversion Rate 2 % erreicht, ist Werbung tragfähig. | Rechnung oben |
 | 10 | **45 Entwürfe:** darunter kann Brauchbares sein, das nur nie fertig wurde. | Shopify |
@@ -381,3 +381,18 @@ dazu, beide 🔥 P0 wegen wachsendem Schaden bei jedem neuen Produkt:
 | 🟡 P2 | Faszienrolle manuell bei CJ nachsehen (Mensch, wegen Captcha) | höchste gemessene Nachfrage im Datensatz |
 | 🟡 P2 | Bilder der übrigen 145 Produkte gegen `PRODUKTBILDER.md`-Checkliste prüfen | bisher nur 1 von 146 geprüft |
 | ⚪ P3 | Judge.me-Deaktivierung hat den Bewertungsblock auf Englisch zurückgesetzt ("Customer Reviews / Be the first to write a review") statt Deutsch — kurz prüfen, ob das so gewollt ist oder ein Theme-Text nachgestellt werden muss | live beobachtet, 13.08.2026 |
+
+### Nachtrag 13.08.2026 (abends) — Traffic-Mission
+
+Chance #1 und #7 waren beide unbelegte Annahmen — siehe Korrekturen oben.
+Was stattdessen an echtem Fortschritt entstand: SEO-Titel der
+"dekoration"-Seite korrigiert (echter Fund, kein Snippet-Mythos), zwei
+neue Ratgeber veröffentlicht (Bürostuhl-Ergonomie, Kratzbaum-Wahl,
+jeweils mit Pinterest-Pin). Vollständige Rechercheergebnisse und der
+gesamte Metricool-Kalender stehen in `TRAFFIC.md` und `SOCIAL.md`, nicht
+hier dupliziert.
+
+Weiterhin unangetastet, weil außerhalb dieser Sitzung: die 4 neuesten
+Produkte (rattan-ecksofa, sitzbank-stauraum, sitzhocker-38, Taschenlampe)
+haben laut `SOCIAL.md` noch keine Social-Posts — auf Nachfrage bewusst
+zurückgestellt.
