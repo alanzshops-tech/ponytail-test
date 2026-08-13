@@ -40,6 +40,10 @@ on:
         description: "Bildmodell für --bild-prompt"
         type: string
         default: "google/gemini-3.1-flash-lite-image"
+      bild_ausgabe:
+        description: "Zieldatei für --bild-prompt, damit mehrere Läufe sich nicht überschreiben"
+        type: string
+        default: "bilder/openrouter/ausgabe.png"
 permissions:
   contents: write
 
@@ -80,6 +84,7 @@ jobs:
           BILD_PROMPT: ${{ inputs.bild_prompt }}
           BILD_EINGABE: ${{ inputs.bild_eingabe }}
           BILD_MODELL: ${{ inputs.bild_modell || 'google/gemini-3.1-flash-lite-image' }}
+          BILD_AUSGABE: ${{ inputs.bild_ausgabe || 'bilder/openrouter/ausgabe.png' }}
         run: |
           # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
           # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
@@ -95,7 +100,8 @@ jobs:
             exit 0
           fi
           if [ -n "$BILD_PROMPT" ]; then
-            ARGS=(--bild-prompt "$BILD_PROMPT" --bild-modell "$BILD_MODELL")
+            ARGS=(--bild-prompt "$BILD_PROMPT" --bild-modell "$BILD_MODELL"
+                  --bild-ausgabe "$BILD_AUSGABE")
             if [ -n "$BILD_EINGABE" ]; then ARGS+=(--bild-eingabe "$BILD_EINGABE"); fi
             python3 scripts/openrouter.py "${ARGS[@]}"
             exit 0
