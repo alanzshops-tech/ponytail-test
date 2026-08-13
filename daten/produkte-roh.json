@@ -1,57 +1,820 @@
 {
   "stand": "2026-08-13",
   "produkte": {
-    "CJJT2782290": {
+    "CJLY2839090": {
       "detail": {
-        "code": 1602002,
-        "result": false,
-        "message": "Product has been removed from shelves, pid:2031254384170672130",
-        "data": null,
-        "requestId": "cc381f75faa143c8a1cd3f74a0556db9",
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": {
+          "pid": "2045028947218972674",
+          "productName": "[\"1/2\",\"X\",\"Super\"]",
+          "productNameSet": [
+            "1/2",
+            "X",
+            "Super"
+          ],
+          "productNameEn": "1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fackel - Zoom - Wasserfest",
+          "productSku": "CJLY2839090",
+          "bigImage": "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg",
+          "productImage": "[\"https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg\",\"https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg\",\"https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg\",\"https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg\",\"https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg\"]",
+          "productImageSet": [
+            "https://cf.cjdropshipping.com/17763840/12f5574b-b77b-410a-9c89-0991259decbe.jpg",
+            "https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg",
+            "https://cf.cjdropshipping.com/17763840/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg",
+            "https://cf.cjdropshipping.com/17763840/746c740b-bf29-4a1b-a690-7820d409bb72.jpg",
+            "https://cf.cjdropshipping.com/17763840/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg"
+          ],
+          "productWeight": "1000",
+          "productUnit": null,
+          "productType": "SUPPLIER_SHIPPED_PRODUCT",
+          "categoryId": "EA851596-F20F-4AA5-8869-4BB5CA1968DC",
+          "categoryName": "Sports & Outdoors / Other Sports Equipment / Camping & Hiking",
+          "entryCode": "6103320000",
+          "entryName": "豆巴商品",
+          "entryNameEn": "doba product",
+          "materialName": "[\"其他\"]",
+          "materialNameSet": [
+            "其他"
+          ],
+          "materialNameEn": "[\"Others\"]",
+          "materialNameEnSet": [
+            "Others"
+          ],
+          "materialKey": "[\"MATERIAL\"]",
+          "materialKeySet": [
+            "MATERIAL"
+          ],
+          "packingWeight": "172",
+          "packingName": "[\"纸盒\"]",
+          "packingNameSet": [
+            "纸盒"
+          ],
+          "packingNameEn": "[\"Carton\"]",
+          "packingNameEnSet": [
+            "Carton"
+          ],
+          "packingKey": "[\"PAPER_BOX\"]",
+          "packingKeySet": [
+            "PAPER_BOX"
+          ],
+          "productKey": "[\"Quantity\"]",
+          "productKeySet": [
+            "Quantity"
+          ],
+          "productKeyEn": "Quantity",
+          "productKeyEnSet": [
+            "Quantity"
+          ],
+          "productPro": "[\"普货\"]",
+          "productProSet": [
+            "普货"
+          ],
+          "productProEn": "[\"COMMON\"]",
+          "productProEnSet": [
+            "COMMON"
+          ],
+          "sellPrice": "9.27-12.04",
+          "sourceFrom": 0,
+          "description": "\n <p><em></em></p>\n <h2><em>Specification</em></h2>\n <em>Available Ship to:France,Germany<h2>Details</h2>Besonderheiten<br><br>[7 Modi]3 Hauptlichtmodi, durch Klicken auf den Schalter (superhell / mittelhell / blinkend). 4 Seitenlichtmodi, durch langes Drücken des Schalters (superhell / mittelhell / rot / rot und blau blinkend). Die Taschenlampe kann nach 10 Sekunden Betrieb in jedem Modus direkt ausgeschaltet werden, ohne alle Modi durchlaufen zu müssen.<br>[Warnlicht]Rotes / rot und blau blinkendes Seitenlicht kann als Warnlicht dienen.<br>[Hochleistungsakku]Der Handstrahler verfügt über einen verbesserten Hochleistungsakku, der länger hält als vergleichbare Akkus.<br>[USB-Eingang und Leistungsanzeige] Die wiederaufladbare Taschenlampe verfügt über einen Typ-C-Eingangsanschluss und eine Leistungsanzeige. Unterstützt USB-Aufladung. Sie können sie mit einem Laptop, einem Autoladegerät, einem Ladegerät usw. aufladen.<br>[IPX4 wasserdicht] Der Kopf dieser Taschenlampe besteht aus einer hochwertigen schwarzen Aluminiumlegierung, der Rahmen aus ABS-Kunststoff. Die Wasserdichtigkeit dieser Taschenlampe erreicht IPX4. (Sie darf jedoch nicht in Wasser getaucht werden.)<br>[Leicht zu transportieren] Die LED-Taschenlampe ist mit einem Trageband und einem Taschenclip ausgestattet, sodass Sie sie an Ihrem Handgelenk befestigen oder an Ihrer Tasche, Ihrem Rucksack, Ihrer Mütze oder Ihrem Gürtel befestigen können.<br>[Vielseitig einsetzbar] Sie eignet sich sehr gut für Arbeit, Lesen, Spazierengehen, Jagen, Klettern, Angeln, Laufen, Reiten, Wandern, Camping und andere Outdoor-Aktivitäten. &nbsp;&nbsp;<br><br>&nbsp;<br><br>Spezifikationen<br><br>Farbe: Schwarz<br>Beleuchtungsmodi: 7 Modi<br>Leuchtmittel: 30 W LED + 18 LED (10 LED weißes Licht + 4 LED rotes Licht + 4 LED blaues Licht)<br>Stromversorgung: Eingebauter Akku<br>Zoom-Modus: Teleskop-Zoom<br>Material: Aluminiumlegierung + ABS<br>Lademethode: Typ-C-USB-Aufladung<br>Ladezeit bei voller Ladung: 4–5 Stunden<br>Schrumpflänge: 6,49 Zoll<br>Ausfahrlänge: 7,08 Zoll<br>Bruttogewicht der Verpackung ca.: 172 g<br><br><br>&nbsp;Wasserdichtes Design, aber nicht in Wasser eintauchen.<br><br>&nbsp;<br><br>Inklusive Paket<br><br>1/2 * LED-Taschenlampe<br>1/2 * Schwanzseil<br>1/2 * USB-Kabel Typ C<br>1/2 * Box</em>\n <br>\n <p></p>\n <img src=\"https://cf.cjdropshipping.com/17763840/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <p></p>\n",
+          "variants": [
+            {
+              "vid": "2045028947319635969",
+              "pid": "2045028947218972674",
+              "variantName": null,
+              "variantNameEn": "",
+              "variantImage": "https://cf.cjdropshipping.com/17763840/d009cc1f-af71-4833-865e-bcd40f405f05.jpg",
+              "variantSku": "CJLY28390900001",
+              "barcode": "8600000709337",
+              "barcode2": null,
+              "variantUnit": null,
+              "variantProperty": null,
+              "variantKey": "1pc",
+              "variantLength": 225,
+              "variantWidth": 105,
+              "variantHeight": 50,
+              "variantVolume": 1181250,
+              "variantWeight": 172.0,
+              "variantSellPrice": 9.27,
+              "createTime": 1776407870000,
+              "variantStandard": "long=225,width=105,height=50",
+              "variantSugSellPrice": 31.71,
+              "combineNum": null,
+              "inventoryNum": 230,
+              "combineVariants": null,
+              "inventories": [
+                {
+                  "countryCode": "US",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "23453",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                },
+                {
+                  "countryCode": "DE",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "2043581950272122882",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "vid": "2045028947319635970",
+              "pid": "2045028947218972674",
+              "variantName": null,
+              "variantNameEn": "",
+              "variantImage": "https://cf.cjdropshipping.com/17763840/3ccfd451-4545-4ed4-80f4-3fe62e8876dd.jpg",
+              "variantSku": "CJLY28390900002",
+              "barcode": "8600000709338",
+              "barcode2": null,
+              "variantUnit": null,
+              "variantProperty": null,
+              "variantKey": "2pcs",
+              "variantLength": 225,
+              "variantWidth": 105,
+              "variantHeight": 50,
+              "variantVolume": 1181250,
+              "variantWeight": 172.0,
+              "variantSellPrice": 12.04,
+              "createTime": 1776407870000,
+              "variantStandard": "long=225,width=105,height=50",
+              "variantSugSellPrice": 41.18,
+              "combineNum": null,
+              "inventoryNum": 230,
+              "combineVariants": null,
+              "inventories": [
+                {
+                  "countryCode": "US",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "23453",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                },
+                {
+                  "countryCode": "DE",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "2043581950272122882",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "addMarkStatus": 1,
+          "createrTime": "2026-04-17T00:00:00+08:00",
+          "productVideo": null,
+          "status": "3",
+          "suggestSellPrice": "31.71 - 41.18",
+          "listedNum": 2,
+          "supplierName": "dbjjj",
+          "supplierId": "1848294695726489600",
+          "customizationVersion": null,
+          "customizationJson1": null,
+          "customizationJson2": null,
+          "customizationJson3": null,
+          "customizationJson4": null,
+          "isTestProduct": false
+        },
+        "requestId": "98832823bb554f339f4a35f167e1bd4f",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 7300,
+          "usedToday": 9760,
           "remaining": 50000
         },
-        "success": false
+        "success": true
       },
       "lager": {
         "code": 200,
         "result": true,
         "message": "Success",
-        "data": [],
-        "requestId": "6456c2c57f1449fab485ce879bc307ae",
+        "data": [
+          {
+            "areaEn": "US Warehouse",
+            "areaId": 2,
+            "countryCode": "US",
+            "totalInventoryNum": 460,
+            "cjInventoryNum": 460,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          },
+          {
+            "areaEn": "Germany Warehouse",
+            "areaId": 4,
+            "countryCode": "DE",
+            "totalInventoryNum": 460,
+            "cjInventoryNum": 460,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          }
+        ],
+        "requestId": "541637ce4f794c59bac0200a0990d674",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 7310,
+          "usedToday": 9770,
           "remaining": 50000
         },
         "success": true
       }
     },
-    "CJFU2392270": {
+    "CJLY2830638": {
       "detail": {
-        "code": 1602002,
-        "result": false,
-        "message": "Product has been removed from shelves, pid:1930142302042767361",
-        "data": null,
-        "requestId": "c0c038bd6fda4f2382282de528737a46",
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": {
+          "pid": "2043597849400545282",
+          "productName": "[\"35000000LM\",\"Extrem\",\"Hell\"]",
+          "productNameSet": [
+            "35000000LM",
+            "Extrem",
+            "Hell"
+          ],
+          "productNameEn": "35000000LM Extrem Hell Taschenlampe Taktische Polizei Aufladbar LED Fackel AKKU",
+          "productSku": "CJLY2830638",
+          "bigImage": "https://cf.cjdropshipping.com/17760384/ddcf2dd7-7e95-48aa-946b-7b9375d5e421.jpg",
+          "productImage": "[\"https://cf.cjdropshipping.com/17760384/ddcf2dd7-7e95-48aa-946b-7b9375d5e421.jpg\",\"https://cf.cjdropshipping.com/17760384/bbb7abb2-5455-490b-8254-aa27bd95f4f6.jpg\",\"https://cf.cjdropshipping.com/17760384/c20cd15b-5f2d-45d3-a648-4719fb2e6d6b.jpg\",\"https://cf.cjdropshipping.com/17760384/ed50e5c3-ceba-48af-a934-51a35bcd9eed.jpg\",\"https://cf.cjdropshipping.com/17760384/ebd4f91a-76a4-4fac-9fbe-e6f22c8a23ce.jpg\"]",
+          "productImageSet": [
+            "https://cf.cjdropshipping.com/17760384/ed50e5c3-ceba-48af-a934-51a35bcd9eed.jpg",
+            "https://cf.cjdropshipping.com/17760384/ddcf2dd7-7e95-48aa-946b-7b9375d5e421.jpg",
+            "https://cf.cjdropshipping.com/17760384/ebd4f91a-76a4-4fac-9fbe-e6f22c8a23ce.jpg",
+            "https://cf.cjdropshipping.com/17760384/bbb7abb2-5455-490b-8254-aa27bd95f4f6.jpg",
+            "https://cf.cjdropshipping.com/17760384/c20cd15b-5f2d-45d3-a648-4719fb2e6d6b.jpg"
+          ],
+          "productWeight": "1000",
+          "productUnit": null,
+          "productType": "SUPPLIER_SHIPPED_PRODUCT",
+          "categoryId": "EA851596-F20F-4AA5-8869-4BB5CA1968DC",
+          "categoryName": "Sports & Outdoors / Other Sports Equipment / Camping & Hiking",
+          "entryCode": "6103320000",
+          "entryName": "豆巴商品",
+          "entryNameEn": "doba product",
+          "materialName": "[\"其他\"]",
+          "materialNameSet": [
+            "其他"
+          ],
+          "materialNameEn": "[\"Others\"]",
+          "materialNameEnSet": [
+            "Others"
+          ],
+          "materialKey": "[\"MATERIAL\"]",
+          "materialKeySet": [
+            "MATERIAL"
+          ],
+          "packingWeight": "848",
+          "packingName": "[\"纸盒\"]",
+          "packingNameSet": [
+            "纸盒"
+          ],
+          "packingNameEn": "[\"Carton\"]",
+          "packingNameEnSet": [
+            "Carton"
+          ],
+          "packingKey": "[\"PAPER_BOX\"]",
+          "packingKeySet": [
+            "PAPER_BOX"
+          ],
+          "productKey": "[\"Quantity\"]",
+          "productKeySet": [
+            "Quantity"
+          ],
+          "productKeyEn": "Quantity",
+          "productKeyEnSet": [
+            "Quantity"
+          ],
+          "productPro": "[\"普货\"]",
+          "productProSet": [
+            "普货"
+          ],
+          "productProEn": "[\"COMMON\"]",
+          "productProEnSet": [
+            "COMMON"
+          ],
+          "sellPrice": "12.65",
+          "sourceFrom": 0,
+          "description": "\n <p><em></em></p>\n <h2><em>Specification</em></h2>\n <em>Available Ship to:Germany<h2>Details</h2>Merkmale:<br>1. Diese Taschenlampe mit Teleskop-Zoom, um das richtige Licht einzustellen.<br>2. Lebensrettende Hammer hat eine lebensrettende Wirkung im Falle eines Unfalls im Auto oder im Freien.&nbsp;<br>3. Die lotusförmige Fassung des Hammerkopfes schützt nicht nur die Linse, sondern zertrümmert auch Steine und Glasscherben, um im Notfall der Gefahr zu entgehen.<br>4. Wasserdicht: Diese Taschenlampe ist IPX4 wasserdicht, perfekt für den Einsatz im Regen, Schnee oder in Notsituationen. Ideal für den Einsatz rund um das Haus, Hund spazieren, Camping, Wandern oder Angeln.<br><br>&nbsp;<br><br>Spezifikationen:<br>Material: Aluminium-Legierung<br>Farbe: Schwarz<br>Lichtquelle Form: LED<br>Schaltmodi: 3 Modi: Hell-Dunkel-Blinken<br>Stromversorgung: 1*Akku(include)<br>Produktlänge:35cm/13.77in Dehnung:46cm/18.11in<br>Aufladen: USB-Ladegerät/Direktaufladung<br>Wasserdicht: IPX4 Life Wasserdicht<br>Verpackungsgröße: 40x14x4.5cm<br>Bruttogewicht: 434g<br><br>&nbsp;<br><br>Paket enthält:<br>1x Einziehbare Taschenlampe<br>1x Wiederaufladbare Batterie<br>1x USB-Ladegerät<br>1x USB-Kabel</em>\n <br>\n <p></p>\n <img src=\"https://cf.cjdropshipping.com/17760384/ddcf2dd7-7e95-48aa-946b-7b9375d5e421.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <p></p>\n",
+          "variants": [
+            {
+              "vid": "2043597849526374402",
+              "pid": "2043597849400545282",
+              "variantName": null,
+              "variantNameEn": "",
+              "variantImage": "https://cf.cjdropshipping.com/17760384/ca255d19-4a83-4a86-965b-44dc12b21a28.jpg",
+              "variantSku": "CJLY28306380001",
+              "barcode": "8600000695349",
+              "barcode2": null,
+              "variantUnit": null,
+              "variantProperty": null,
+              "variantKey": "1pc",
+              "variantLength": 399,
+              "variantWidth": 305,
+              "variantHeight": 45,
+              "variantVolume": 5476275,
+              "variantWeight": 848.0,
+              "variantSellPrice": 12.65,
+              "createTime": 1776066670000,
+              "variantStandard": "long=399,width=305,height=45",
+              "variantSugSellPrice": 43.27,
+              "combineNum": null,
+              "inventoryNum": 230,
+              "combineVariants": null,
+              "inventories": [
+                {
+                  "countryCode": "US",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "23453",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                },
+                {
+                  "countryCode": "DE",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "2043581950272122882",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "addMarkStatus": 1,
+          "createrTime": "2026-04-13T00:00:00+08:00",
+          "productVideo": null,
+          "status": "3",
+          "suggestSellPrice": "43.27",
+          "listedNum": 2,
+          "supplierName": "dbjjj",
+          "supplierId": "1848294695726489600",
+          "customizationVersion": null,
+          "customizationJson1": null,
+          "customizationJson2": null,
+          "customizationJson3": null,
+          "customizationJson4": null,
+          "isTestProduct": false
+        },
+        "requestId": "fd747ac7f7c14a3cb52a3805900c896e",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 7320,
+          "usedToday": 9780,
           "remaining": 50000
         },
-        "success": false
+        "success": true
       },
       "lager": {
         "code": 200,
         "result": true,
         "message": "Success",
-        "data": [],
-        "requestId": "0bdb155527734515897722335ae3ced5",
+        "data": [
+          {
+            "areaEn": "US Warehouse",
+            "areaId": 2,
+            "countryCode": "US",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          },
+          {
+            "areaEn": "Germany Warehouse",
+            "areaId": 4,
+            "countryCode": "DE",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          }
+        ],
+        "requestId": "874a96ddcc654118918dd9443068130d",
         "pointsInfo": {
           "total": 50000,
-          "usedToday": 7330,
+          "usedToday": 9790,
+          "remaining": 50000
+        },
+        "success": true
+      }
+    },
+    "CJSD2785094": {
+      "detail": {
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": {
+          "pid": "2032003687983730690",
+          "productName": "[\"4Pcs\",\"Caravan\",\"Jack\"]",
+          "productNameSet": [
+            "4Pcs",
+            "Jack",
+            "Caravan"
+          ],
+          "productNameEn": "4Pcs Caravan Jack Pads Leveller Wheel Foot Leg Support Jacking Lift Pad Support Stand For Trailers RV Universal Jack Lift Pad",
+          "productSku": "CJSD2785094",
+          "bigImage": "https://cf.cjdropshipping.com/17732736/33fb9312-d96d-4ce8-989e-f11d987313d0.jpg",
+          "productImage": "[\"https://cf.cjdropshipping.com/17732736/33fb9312-d96d-4ce8-989e-f11d987313d0.jpg\",\"https://cf.cjdropshipping.com/17732736/c47354d0-cc5f-40b0-b60c-316fb6bd4de9.jpg\",\"https://cf.cjdropshipping.com/17732736/609ebfa1-cc50-4546-9e49-07b9a7c0bb13.jpg\",\"https://cf.cjdropshipping.com/17732736/3ea3154a-92c4-4adc-9955-f214d023ea66.jpg\",\"https://cf.cjdropshipping.com/17732736/8a0a1bd8-b973-4373-ad3d-e6f5e8c722ac.jpg\"]",
+          "productImageSet": [
+            "https://cf.cjdropshipping.com/17732736/c47354d0-cc5f-40b0-b60c-316fb6bd4de9.jpg",
+            "https://cf.cjdropshipping.com/17732736/609ebfa1-cc50-4546-9e49-07b9a7c0bb13.jpg",
+            "https://cf.cjdropshipping.com/17732736/33fb9312-d96d-4ce8-989e-f11d987313d0.jpg",
+            "https://cf.cjdropshipping.com/17732736/3ea3154a-92c4-4adc-9955-f214d023ea66.jpg",
+            "https://cf.cjdropshipping.com/17732736/8a0a1bd8-b973-4373-ad3d-e6f5e8c722ac.jpg"
+          ],
+          "productWeight": "1000",
+          "productUnit": null,
+          "productType": "SUPPLIER_SHIPPED_PRODUCT",
+          "categoryId": "55795653-09E8-4EE6-B477-1E30E7A601B2",
+          "categoryName": "Home Improvement / Tools / Hand Tools",
+          "entryCode": "6103320000",
+          "entryName": "豆巴商品",
+          "entryNameEn": "doba product",
+          "materialName": "[\"其他\"]",
+          "materialNameSet": [
+            "其他"
+          ],
+          "materialNameEn": "[\"Others\"]",
+          "materialNameEnSet": [
+            "Others"
+          ],
+          "materialKey": "[\"MATERIAL\"]",
+          "materialKeySet": [
+            "MATERIAL"
+          ],
+          "packingWeight": "903",
+          "packingName": "[\"纸盒\"]",
+          "packingNameSet": [
+            "纸盒"
+          ],
+          "packingNameEn": "[\"Carton\"]",
+          "packingNameEnSet": [
+            "Carton"
+          ],
+          "packingKey": "[\"PAPER_BOX\"]",
+          "packingKeySet": [
+            "PAPER_BOX"
+          ],
+          "productKey": "[\"Color\"]",
+          "productKeySet": [
+            "Color"
+          ],
+          "productKeyEn": "Color",
+          "productKeyEnSet": [
+            "Color"
+          ],
+          "productPro": "[\"普货\"]",
+          "productProSet": [
+            "普货"
+          ],
+          "productProEn": "[\"COMMON\"]",
+          "productProEnSet": [
+            "COMMON"
+          ],
+          "sellPrice": "17.85",
+          "sourceFrom": 0,
+          "description": "\n <p><em></em></p>\n <h2><em>Specification</em></h2>\n <em>Shipping Limitations:Unlimited<br>Dimensions:7.09 in. * 5.52 in. * 3.15 in.<br>Weight:1.99 lbs<br>Available Ship to:France,Germany<h2>Details</h2>4Pcs Caravan Jack Pads Leveller Wheel Foot Leg Support Jacking Lift Pad Support Stand for Trailers RV Universal Jack Lift Pad<br><br><br><br><br><br>Product Name:<br><br>4PCS Generic RV Trailer Jack Pads, Easy Installation Leveller Wheel Foot Leg Support Universal Wheel Foot Leg Support Adapter<br><br>Description:<br><br><br><br><br>- Product Type: RV trailer Jack Pads, used to stabilize the ground and prevent the jack from sinking into soft ground. The internal metal fixing pins and anti-slip grooves can effectively prevent displacement.<br><br>- Package List: You will receive 4x Jack Pads for RV trailers.<br><br>- Premium Material: Wheel Foot Leg Support Adapter is made of PP material, which is lightweight, wear-resistant, durable, and collision-resistant. It is not easy to damage and has a long service life.<br><br><br><br><br>- Portable: Jacking Lift Pad, size is 17.8cm x 14cm / 7.01 inch x 5.51 inch. It is small in size, easy to carry, easy to store, and does not take up space.<br><br>Practical: Support Stand Adapter is suitable for most RVs and trailers, a very practical accessory.<br><br>Specification:<br><br>- Material: PP<br><br>- Size: 17.8cm x 14cm / 7.01 inch x 5.51 inch<br><br>Package Includes:<br><br>- 4x RV trailer Jack Pads<br><br>Note:<br><br>Please allow slight errors of 1-2cm differences due to manual measurement.<br><br><br></em>\n <br>\n <p></p>\n <img src=\"https://cf.cjdropshipping.com/17732736/8421176b-c053-4375-be19-d0ae8a68cd6d.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <img src=\"https://cf.cjdropshipping.com/17732736/a429eb6c-61b9-47ca-954d-f4c4809a4895.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <p></p>\n",
+          "variants": [
+            {
+              "vid": "2032003688227000321",
+              "pid": "2032003687983730690",
+              "variantName": null,
+              "variantNameEn": "",
+              "variantImage": "https://cf.cjdropshipping.com/17732736/b1918ce6-5ead-4122-8670-b2c0436e1469.jpg",
+              "variantSku": "CJSD27850940001",
+              "barcode": "8600000657106",
+              "barcode2": null,
+              "variantUnit": null,
+              "variantProperty": null,
+              "variantKey": "asshown",
+              "variantLength": 180,
+              "variantWidth": 140,
+              "variantHeight": 80,
+              "variantVolume": 2016000,
+              "variantWeight": 903.0,
+              "variantSellPrice": 17.85,
+              "createTime": 1773302406000,
+              "variantStandard": "long=180,width=140,height=80",
+              "variantSugSellPrice": 115.85,
+              "combineNum": null,
+              "inventoryNum": 230,
+              "combineVariants": null,
+              "inventories": [
+                {
+                  "countryCode": "US",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "23453",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                },
+                {
+                  "countryCode": "DE",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "2031987289079857153",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "addMarkStatus": 1,
+          "createrTime": "2026-03-12T00:00:00+08:00",
+          "productVideo": null,
+          "status": "3",
+          "suggestSellPrice": "115.85",
+          "listedNum": 1,
+          "supplierName": "dbjjj",
+          "supplierId": "1848294695726489600",
+          "customizationVersion": null,
+          "customizationJson1": null,
+          "customizationJson2": null,
+          "customizationJson3": null,
+          "customizationJson4": null,
+          "isTestProduct": false
+        },
+        "requestId": "cccac49cf6624f8b8b2ecc61adc98f5a",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 9800,
+          "remaining": 50000
+        },
+        "success": true
+      },
+      "lager": {
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": [
+          {
+            "areaEn": "US Warehouse",
+            "areaId": 2,
+            "countryCode": "US",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          },
+          {
+            "areaEn": "Germany Warehouse",
+            "areaId": 4,
+            "countryCode": "DE",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          }
+        ],
+        "requestId": "38c97f1cfc504fb2ae746d7247eea66d",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 9810,
+          "remaining": 50000
+        },
+        "success": true
+      }
+    },
+    "CJSD2785269": {
+      "detail": {
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": {
+          "pid": "2032010860890058753",
+          "productName": "[\"Caravan\",\"Tow\",\"Hitch\"]",
+          "productNameSet": [
+            "Caravan",
+            "Tow",
+            "Hitch"
+          ],
+          "productNameEn": "Caravan Tow Hitch Cover - All-Season Protection",
+          "productSku": "CJSD2785269",
+          "bigImage": "https://cf.cjdropshipping.com/17732736/d291e303-a5b7-49ce-a10a-6bc0bcec81ad.jpg",
+          "productImage": "[\"https://cf.cjdropshipping.com/17732736/d291e303-a5b7-49ce-a10a-6bc0bcec81ad.jpg\",\"https://cf.cjdropshipping.com/17732736/a24fce73-fc52-4ef2-8be6-7df754254ec9.jpg\",\"https://cf.cjdropshipping.com/17732736/8dfdd1d5-971c-49db-88de-4c489f0e320e.jpg\",\"https://cf.cjdropshipping.com/17732736/bd5a382d-83b3-4a33-a64a-e4e93b08cf88.jpg\",\"https://cf.cjdropshipping.com/17732736/19f613f0-4a23-4ab2-8521-94c5eef10a89.jpg\"]",
+          "productImageSet": [
+            "https://cf.cjdropshipping.com/17732736/d291e303-a5b7-49ce-a10a-6bc0bcec81ad.jpg",
+            "https://cf.cjdropshipping.com/17732736/bd5a382d-83b3-4a33-a64a-e4e93b08cf88.jpg",
+            "https://cf.cjdropshipping.com/17732736/8dfdd1d5-971c-49db-88de-4c489f0e320e.jpg",
+            "https://cf.cjdropshipping.com/17732736/19f613f0-4a23-4ab2-8521-94c5eef10a89.jpg",
+            "https://cf.cjdropshipping.com/17732736/a24fce73-fc52-4ef2-8be6-7df754254ec9.jpg"
+          ],
+          "productWeight": "1000",
+          "productUnit": null,
+          "productType": "SUPPLIER_SHIPPED_PRODUCT",
+          "categoryId": "55795653-09E8-4EE6-B477-1E30E7A601B2",
+          "categoryName": "Home Improvement / Tools / Hand Tools",
+          "entryCode": "6103320000",
+          "entryName": "豆巴商品",
+          "entryNameEn": "doba product",
+          "materialName": "[\"其他\"]",
+          "materialNameSet": [
+            "其他"
+          ],
+          "materialNameEn": "[\"Others\"]",
+          "materialNameEnSet": [
+            "Others"
+          ],
+          "materialKey": "[\"MATERIAL\"]",
+          "materialKeySet": [
+            "MATERIAL"
+          ],
+          "packingWeight": "404",
+          "packingName": "[\"纸盒\"]",
+          "packingNameSet": [
+            "纸盒"
+          ],
+          "packingNameEn": "[\"Carton\"]",
+          "packingNameEnSet": [
+            "Carton"
+          ],
+          "packingKey": "[\"PAPER_BOX\"]",
+          "packingKeySet": [
+            "PAPER_BOX"
+          ],
+          "productKey": "[\"Color\"]",
+          "productKeySet": [
+            "Color"
+          ],
+          "productKeyEn": "Color",
+          "productKeyEnSet": [
+            "Color"
+          ],
+          "productPro": "[\"普货\"]",
+          "productProSet": [
+            "普货"
+          ],
+          "productProEn": "[\"COMMON\"]",
+          "productProEnSet": [
+            "COMMON"
+          ],
+          "sellPrice": "11.77",
+          "sourceFrom": 0,
+          "description": "\n <p><em></em></p>\n <h2><em>Specification</em></h2>\n <em>Shipping Limitations:Unlimited<br>Dimensions:9.06 in. * 8.67 in. * 1.97 in.<br>Weight:0.89 lbs<br>Available Ship to:France,Germany<h2>Details</h2>**Caravan Tow Hitch Cover - All-Season Protection**<br><br>**Product Overview:**<br><br>- **Premium Material:** Made from a 3-layer truck canvas material, consisting of two PVC layers and a reinforced mesh, ensuring maximum protection throughout the year.<br><br>- **Double Lock:** Equipped with two high-quality plastic snap locks for extra security and stability.<br><br>- **Durable:** Double-layer material with reinforced mesh and UV-resistant hems increase the lifespan of the cover.<br><br><br><br><br>**Product Details:**<br><br>- **Material:** 600D Heavy Duty Oxford Cloth<br><br>- **Color:** Black<br><br>- **Size:** 95cm x 60cm x 15cm<br><br>- **Features:**<br><br>- UV Protection<br><br>- Wind Proof<br><br>- Snow Proof<br><br>- **Design:**<br><br>- Strong adjustable webbing strap for secure attachment<br><br>- High visibility for safety<br><br>- Full protection for hitch and support wheel<br><br>- Easy to use and maintain<br><br><br><br><br><br>**Benefits at a Glance:**<br><br>- Long-lasting due to robust and reinforced PVC canvas material<br><br>- Completely weatherproof, frost-resistant, and UV-resistant<br><br>- Extra-large, practical, and universal design<br><br>- All-in-one protection for electronics, support wheel, and hitch system<br><br>- Easy application and care for long-term use<br><br>- Optimal fit with a pocket shape and integrated center beam<br><br>- Universal suitability for pole hitches and Y-hitches<br><br><br><br><br>**Universal Fit:** Suitable for various trailers and caravans from manufacturers like Stema, Böckmann, Humbaur, Hobby, Knaus, Brüstner, and more.<br><br>**Order Now and Protect Your Caravan or Trailer Hitch from Weather Influences!**</em>\n <br>\n <p></p>\n <img src=\"https://cf.cjdropshipping.com/17732736/a673dca2-242b-4c72-bded-452dbf34dfcf.jpg\" style=\"max-width:100%;\" contenteditable=\"false\">\n <br>\n <p></p>\n",
+          "variants": [
+            {
+              "vid": "2032010860986527746",
+              "pid": "2032010860890058753",
+              "variantName": null,
+              "variantNameEn": "",
+              "variantImage": "https://cf.cjdropshipping.com/17732736/586a6748-1dcd-4329-ad73-be534b2bcb0b.jpg",
+              "variantSku": "CJSD27852690001",
+              "barcode": "8600000657283",
+              "barcode2": null,
+              "variantUnit": null,
+              "variantProperty": null,
+              "variantKey": "CaravanTowHitchCover",
+              "variantLength": 230,
+              "variantWidth": 220,
+              "variantHeight": 50,
+              "variantVolume": 2530000,
+              "variantWeight": 404.0,
+              "variantSellPrice": 11.77,
+              "createTime": 1773304116000,
+              "variantStandard": "long=230,width=220,height=50",
+              "variantSugSellPrice": 76.39,
+              "combineNum": null,
+              "inventoryNum": 230,
+              "combineVariants": null,
+              "inventories": [
+                {
+                  "countryCode": "US",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "23453",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                },
+                {
+                  "countryCode": "DE",
+                  "totalInventory": 230,
+                  "cjInventory": 230,
+                  "factoryInventory": 0,
+                  "verifiedWarehouse": 1,
+                  "stock": [
+                    {
+                      "stockId": "2031987289079857153",
+                      "inventory": 230,
+                      "factoryInventory": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "addMarkStatus": 1,
+          "createrTime": "2026-03-12T00:00:00+08:00",
+          "productVideo": null,
+          "status": "3",
+          "suggestSellPrice": "76.39",
+          "listedNum": 2,
+          "supplierName": "dbjjj",
+          "supplierId": "1848294695726489600",
+          "customizationVersion": null,
+          "customizationJson1": null,
+          "customizationJson2": null,
+          "customizationJson3": null,
+          "customizationJson4": null,
+          "isTestProduct": false
+        },
+        "requestId": "27187a1fa3fd4d41ac7978b1c38bd475",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 9820,
+          "remaining": 50000
+        },
+        "success": true
+      },
+      "lager": {
+        "code": 200,
+        "result": true,
+        "message": "Success",
+        "data": [
+          {
+            "areaEn": "US Warehouse",
+            "areaId": 2,
+            "countryCode": "US",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          },
+          {
+            "areaEn": "Germany Warehouse",
+            "areaId": 4,
+            "countryCode": "DE",
+            "totalInventoryNum": 230,
+            "cjInventoryNum": 230,
+            "factoryInventoryNum": 0,
+            "countryNameEn": null,
+            "stock": null
+          }
+        ],
+        "requestId": "d3ed8436b206437f8fda5c209a0daea1",
+        "pointsInfo": {
+          "total": 50000,
+          "usedToday": 9830,
           "remaining": 50000
         },
         "success": true
