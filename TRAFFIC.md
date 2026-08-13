@@ -32,10 +32,18 @@ gesamten Website-Traffics aus — mit einem durchschnittlichen Return von
 
 ### 2. 17 fertige Reels veröffentlichen
 
-**FAKT** (Repository, `reels.config.json` / `.github/workflows/reels.yml`):
+**Korrektur, noch am 13.08.2026 nachgetragen — dieser Punkt war falsch:**
+Beim Prüfen über Metricool (`mcp__Metricool__getScheduledPosts`) hat sich
+gezeigt, dass bereits ein aktiver Kalender läuft und ein Großteil der
+Reels längst auf TikTok/YouTube Shorts eingeplant oder veröffentlicht ist.
+Details, Belege und was tatsächlich noch fehlt: `SOCIAL.md`. Es sind
+außerdem 19 statt 17 Reels (drei Produkte kamen am 9.8. nach der ersten
+Zählung dazu).
+
+~~**FAKT** (Repository, `reels.config.json` / `.github/workflows/reels.yml`):
 17 vertikale 9:16-Reels liegen fertig gerendert, Produktionskosten
 bereits bezahlt (FFmpeg auf dem GitHub-Runner, kein laufendes Abo).
-Bisher: nicht veröffentlicht.
+Bisher: nicht veröffentlicht.~~ — falsch, siehe Korrektur oben.
 
 **FAKT** (Social Insider / Dash Social-Recherche): Organische Reichweite
 auf TikTok erreicht 10–30 % (gegenüber 2–5 % auf Instagram), der
@@ -58,7 +66,13 @@ genug herausgestellt hatte.
 
 ## 🟢 P1 — echte Arbeit, aber mit belegtem Hebel
 
-### 3. Pinterest — neu aufbauen, passt inhaltlich am besten
+### 3. Pinterest — läuft bereits, siehe Korrektur
+
+**Korrektur, noch am 13.08.2026 nachgetragen — "neu aufbauen" war falsch:**
+Pinterest ist über Metricool bereits aktiv, mit eigenem Board und
+mehreren veröffentlichten Pins. Details: `SOCIAL.md`. Die Einschätzung
+unten (warum Pinterest inhaltlich passt) bleibt richtig, nur die
+Ausgangslage "keine Vorarbeit vorhanden" nicht.
 
 **FAKT** (mehrere Quellen übereinstimmend): Pinterest ist
 such-orientiert, nicht scroll-orientiert — Nutzer kommen mit

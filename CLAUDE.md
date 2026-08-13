@@ -83,13 +83,24 @@ Probe mit einem Begriff, der treffen *muss*.
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
-`MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`.
+`MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
+`SOCIAL.md`.
+
+`SOCIAL.md` — **vor jeder Social-Media-Aktion zuerst hier lesen, dann
+live mit `mcp__Metricool__getScheduledPosts` gegenprüfen.** Es läuft
+bereits ein aktiver Metricool-Kalender auf den echten Konten (Facebook,
+Instagram, TikTok, YouTube, Pinterest, Bluesky, LinkedIn) — mehrfach in
+dieser Sitzung fälschlich als "nicht vorhanden" angenommen, weil
+Metricool-Aktionen keine Spur im Git hinterlassen. Diese Datei ist der
+Ausgleich dafür, aber nur ein Schnappschuss vom 13.08.2026.
 
 `TRAFFIC.md` — externe Recherche (Stand 13.08.2026) zu allen
-Traffic-Strategien, priorisiert P0–P3: die 10 unbeklickten Rankings und
-die 17 fertigen Reels zuerst (kostenlos, sofort einsetzbar), dann
-Pinterest/TikTok-Aufbau. Vor jeder neuen Marketing-Idee zuerst dort
-nachsehen, nicht neu recherchieren.
+Traffic-Strategien, priorisiert P0–P3. **Achtung:** Der Abschnitt zu den
+Reels und zu Pinterest ging von falschen Annahmen aus (siehe
+`SOCIAL.md`) — vor dem Umsetzen dort gegenprüfen, nicht blind befolgen.
+Die 10 unbeklickten Rankings (SEO-Snippets) bleiben davon unberührt und
+offen. Vor jeder neuen Marketing-Idee zuerst dort nachsehen, nicht neu
+recherchieren.
 
 `PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
 Produktbildern, die messbar besser verkaufen: wie viele Bilder,
