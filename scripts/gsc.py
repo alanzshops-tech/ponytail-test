@@ -119,6 +119,67 @@ def dienst():
                  cache_discovery=False)
 
 
+def sitemap_status(api, property_url: str) -> list[dict]:
+    """Eingereichte Sitemaps abfragen.
+
+    Grund für diese Ergänzung: Recherche (13.08.2026) zu Shopify-SEO zeigt
+    wiederholt denselben Befund — bei einem großen Teil neuer Shops fehlt
+    schlicht die Sitemap-Einreichung in der Search Console, unabhängig
+    von Snippets oder Content. Das ist mit wenigen Zeilen prüfbar und
+    war bisher nicht Teil dieses Skripts."""
+    try:
+        antwort = api.sitemaps().list(siteUrl=property_url).execute()
+    except Exception as e:  # defensiv: fehlende Berechtigung o.ä. soll den Rest nicht stoppen
+        return [{"fehler": str(e)}]
+    ergebnis = []
+    for s in antwort.get("sitemap", []):
+        ergebnis.append({
+            "pfad": s.get("path"),
+            "typ": s.get("type"),
+            "zuletzt_eingereicht": s.get("lastSubmitted"),
+            "zuletzt_geladen": s.get("lastDownloaded"),
+            "ist_index": s.get("isSitemapsIndex", False),
+            "fehler_anzahl": s.get("errors", 0),
+            "warnungen_anzahl": s.get("warnings", 0),
+            "inhalte": [
+                {"typ": c.get("type"), "eingereicht": c.get("submitted"),
+                 "indexiert": c.get("indexed")}
+                for c in s.get("contents", [])
+            ],
+        })
+    return ergebnis
+
+
+def sitemap_bericht(eintraege: list[dict]) -> list[str]:
+    z = ["## Sitemap", ""]
+    if not eintraege:
+        z += ["**Keine Sitemap in der Search Console eingereicht.** Laut "
+              "Recherche (13.08.2026) einer der häufigsten Gründe, warum "
+              "neue Shops gar nicht oder nur langsam indexiert werden. "
+              "Einreichen unter search.google.com/search-console -> "
+              "Sitemaps -> `sitemap.xml` (Shopify erzeugt sie automatisch "
+              "unter `/sitemap.xml`).", ""]
+        return z
+    if "fehler" in eintraege[0]:
+        z += [f"Abfrage fehlgeschlagen: {eintraege[0]['fehler']}", ""]
+        return z
+    z += ["| Sitemap | eingereicht | zuletzt geladen | Fehler | Warnungen |",
+          "|---|---|---|---:|---:|"]
+    for s in eintraege:
+        z.append(f"| `{s['pfad']}` | {s['zuletzt_eingereicht'] or '–'} | "
+                 f"{s['zuletzt_geladen'] or 'noch nie'} | "
+                 f"{s['fehler_anzahl']} | {s['warnungen_anzahl']} |")
+    z.append("")
+    for s in eintraege:
+        if s["inhalte"]:
+            z.append(f"**{s['pfad']}** nach Typ:")
+            for c in s["inhalte"]:
+                z.append(f"- {c['typ']}: {c['eingereicht']} eingereicht, "
+                         f"{c['indexiert']} indexiert")
+            z.append("")
+    return z
+
+
 def abfragen(api, property_url: str, start: date, ende: date,
              dimensionen: list[str], limit: int = 500) -> list[dict]:
     rumpf = {
@@ -256,6 +317,9 @@ def bericht(d: dict) -> str:
               f"sichtbaren Rest — die Durchschnittsposition ist dadurch "
               f"schlechter, als die Domain tatsächlich steht.", ""]
 
+    if "sitemap" in d:
+        z += sitemap_bericht(d["sitemap"])
+
     # Wichtigster Abschnitt: Seiten, die vorn stehen und trotzdem nicht
     # geklickt werden. Rankings sind da, es hakt am Snippet oder an der
     # Absicht dahinter - das ist behebbar, anders als fehlende Autoritaet.
@@ -389,8 +453,10 @@ def main() -> None:
     geraete = abfragen(api, a.property, start, ende, ["device"])
     verlauf = abfragen(api, a.property, start, ende, ["date"], limit=100)
     v_anfragen = abfragen(api, a.property, v_start, v_ende, ["query"])
+    sitemap = sitemap_status(api, a.property)
 
     daten = {
+        "sitemap": sitemap,
         "stand": str(date.today()), "property": a.property,
         "start": str(start), "ende": str(ende),
         "aktuell": summe(anfragen), "vorher": summe(v_anfragen),
