@@ -1,370 +1,10 @@
 {
-  "stand": "2026-08-10",
+  "stand": "2026-08-13",
   "faktor": 2.5,
   "kurs_usd_eur": 1.0,
   "kursdatum": "keine Umrechnung",
   "umsatzsteuer_prozent": 0.0,
   "zeilen": [
-    {
-      "nische": "Hocker mit Stauraum",
-      "name": "Storage Ottoman With Thicker Foam Padded Seat, Folding Foot Rest For Living Room End Of Bed Bench",
-      "sku": "CJJT2782055",
-      "gelistet_von": 2,
-      "bestand_liste": 669,
-      "bestand_de": 669,
-      "bestand_welt": 669,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 23.89,
-      "fracht_usd": 0.0,
-      "einstand_eur": 23.89,
-      "vk_ohne_steuer": 59.73,
-      "vk": 59.73,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Hocker mit Stauraum",
-      "name": "Family Storage Stool",
-      "sku": "CJJT2782337",
-      "gelistet_von": 2,
-      "bestand_liste": 634,
-      "bestand_de": 634,
-      "bestand_welt": 634,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 22.31,
-      "fracht_usd": 0.0,
-      "einstand_eur": 22.31,
-      "vk_ohne_steuer": 55.77,
-      "vk": 55.77,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Kommode",
-      "name": "Tall Dresser Fabric Storage Tower ,Wooden Top For Kid Room, Closet, Entryway, Nursery",
-      "sku": "CJJT2782028",
-      "gelistet_von": 3,
-      "bestand_liste": 66,
-      "bestand_de": 66,
-      "bestand_welt": 66,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 44.0,
-      "fracht_usd": 0.0,
-      "einstand_eur": 44.0,
-      "vk_ohne_steuer": 110.0,
-      "vk": 110.0,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Kommode",
-      "name": "Drawers Dresser Chest Of Drawers,Metal Frame And Wood Top",
-      "sku": "CJJT2781974",
-      "gelistet_von": 4,
-      "bestand_liste": 865,
-      "bestand_de": 865,
-      "bestand_welt": 865,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 28.45,
-      "fracht_usd": 0.0,
-      "einstand_eur": 28.45,
-      "vk_ohne_steuer": 71.12,
-      "vk": 71.12,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Wäschesortierer",
-      "name": "Laundry Hamper With 4 Pull-Out Removable Laundry Bags Clothing Sorter With Shelf And Wheels",
-      "sku": "CJJT2782077",
-      "gelistet_von": 4,
-      "bestand_liste": 386,
-      "bestand_de": 386,
-      "bestand_welt": 386,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 26.38,
-      "fracht_usd": 0.0,
-      "einstand_eur": 26.38,
-      "vk_ohne_steuer": 65.95,
-      "vk": 65.95,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Wäschesortierer",
-      "name": "Laundry Hamper With 3 Pull-Out Removable Laundry Bags Clothing Sorter With Shelf And Wheels-Adjustable Feet-3 X 8.6 Gallons -32.5 Liters",
-      "sku": "CJJT2782084",
-      "gelistet_von": 7,
-      "bestand_liste": 1023,
-      "bestand_de": 1023,
-      "bestand_welt": 1023,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 32.92,
-      "fracht_usd": 0.0,
-      "einstand_eur": 32.92,
-      "vk_ohne_steuer": 82.3,
-      "vk": 82.3,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Couchtisch",
-      "name": "Three Piece Lifting Table With Shelves",
-      "sku": "CJJT2782290",
-      "gelistet_von": 5,
-      "bestand_liste": 1625,
-      "bestand_de": 1625,
-      "bestand_welt": 1625,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 84.47,
-      "fracht_usd": 0.0,
-      "einstand_eur": 84.47,
-      "vk_ohne_steuer": 211.18,
-      "vk": 211.18,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Couchtisch",
-      "name": "Lift Tabletop Coffee Tables For Living Room With Storage Shelf And Hidden Compartment",
-      "sku": "CJFU2392270",
-      "gelistet_von": 39,
-      "bestand_liste": 1147,
-      "bestand_de": 1147,
-      "bestand_welt": 1147,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 55.98,
-      "fracht_usd": 0.0,
-      "einstand_eur": 55.98,
-      "vk_ohne_steuer": 139.95,
-      "vk": 139.95,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Bürostuhl",
-      "name": "High Back Desk Chair With Adjustable Lumbar Support & Headrest,Comfortable Mesh Computer Chair With Soft Flip Up Arms, Adjustable Height And 120 Tilt",
-      "sku": "CJJT2781930",
-      "gelistet_von": 1,
-      "bestand_liste": 106,
-      "bestand_de": 106,
-      "bestand_welt": 106,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 83.52,
-      "fracht_usd": 0.0,
-      "einstand_eur": 83.52,
-      "vk_ohne_steuer": 208.8,
-      "vk": 208.8,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
     {
       "nische": "Bürostuhl",
       "name": "Swivel Shower Chair For Inside Shower, Adjustable Round Shower Stool With Back Scrubber, Shower Seat For Inside Tub Bathroom Ben",
@@ -391,44 +31,59 @@
       ]
     },
     {
-      "nische": "Raumteiler",
-      "name": "67 X 24 In Grid Wall Panels, 2 Packs Wire Gridwall Display Racks Tower With T-Base, Floorstanding Double Side Gridwall Panels, Retail Display With Extra Clips And Hooks For Art Craft Shows",
-      "sku": "CJSB2825204",
-      "gelistet_von": 1,
-      "bestand_liste": 230,
-      "bestand_de": 230,
-      "bestand_welt": 230,
+      "nische": "Bürostuhl",
+      "name": "PU Leather Ergonomic Office Chair Swivel Computer Gaming Chair With Lumbar Support",
+      "sku": "CJJT2388879",
+      "gelistet_von": 175,
+      "bestand_liste": 37,
+      "bestand_de": 37,
+      "bestand_welt": 37,
       "lager": "Germany Warehouse",
-      "einkauf_usd": 54.75,
+      "einkauf_usd": 63.59,
       "fracht_usd": 0.0,
-      "einstand_eur": 54.75,
-      "vk_ohne_steuer": 136.88,
-      "vk": 136.88,
-      "versandart": "DHL DE to DE #3",
+      "einstand_eur": 63.59,
+      "vk_ohne_steuer": 158.98,
+      "vk": 158.98,
+      "versandart": "UPS DE to DE",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
       "versandoptionen": [
         {
-          "name": "DHL DE to DE #3",
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
           "preis": 0.0,
           "dauer": "3-5"
         }
       ]
     },
     {
-      "nische": "Dampfreiniger",
-      "name": "Handheld Steam Cleaner, Cleaning Essentials & Perfect Gift, 5Bar High-Pressure Steam With 2000Ml Water Tank, 180° Swivel Nozzle, Plastic, For Home Kitchen Bathroom Tiles Car",
-      "sku": "CJSD3017815",
+      "nische": "Raumteiler",
+      "name": "67 X 24 In Grid Wall Panels, 2 Packs Wire Gridwall Display Racks Tower With T-Base, Floorstanding Double Side Gridwall Panels, Retail Display With Extra Clips And Hooks For Art Craft Shows",
+      "sku": "CJSB2825204",
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
-      "einkauf_usd": 100.44,
+      "einkauf_usd": 54.75,
       "fracht_usd": 0.0,
-      "einstand_eur": 100.44,
-      "vk_ohne_steuer": 251.1,
-      "vk": 251.1,
+      "einstand_eur": 54.75,
+      "vk_ohne_steuer": 136.88,
+      "vk": 136.88,
       "versandart": "DHL DE to DE #3",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -454,6 +109,31 @@
       "einstand_eur": 35.05,
       "vk_ohne_steuer": 87.62,
       "vk": 87.62,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Dampfreiniger",
+      "name": "Handheld Steam Cleaner, Cleaning Essentials & Perfect Gift, 5Bar High-Pressure Steam With 2000Ml Water Tank, 180° Swivel Nozzle, Plastic, For Home Kitchen Bathroom Tiles Car",
+      "sku": "CJSD3017815",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 100.44,
+      "fracht_usd": 0.0,
+      "einstand_eur": 100.44,
+      "vk_ohne_steuer": 251.1,
+      "vk": 251.1,
       "versandart": "DHL DE to DE #3",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -494,7 +174,7 @@
       "nische": "Polsterreiniger",
       "name": "Handheld High Power Carpet Cleaner For Pet Hair Sofa Curtain Spray Suction Integrated Machine Household Clean Machine Vacuum",
       "sku": "CJSD3017732",
-      "gelistet_von": 1,
+      "gelistet_von": 2,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
@@ -519,10 +199,10 @@
       "nische": "Nass-Trockensauger",
       "name": "Compatible With Dyson Vacuum Cleaner Accessories: Roller Suction Heads V7/V8/V10/V11 Compatible With Dyson V7V8V10V11 Anti-entanglement Direct Drive Suction Heads",
       "sku": "CJSD2785133",
-      "gelistet_von": 0,
+      "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 43.45,
       "fracht_usd": 0.0,
@@ -542,18 +222,18 @@
     },
     {
       "nische": "Nass-Trockensauger",
-      "name": "20L Wet/Dry Vacuum Cleaner 2000W 18kPa Suction IPX4 Floor Blower With Stainless Steel Tank",
-      "sku": "CJSD3017760",
+      "name": "1-Piece Universal Vacuum Cleaner Attachment Replacement For V6, DC45, DC59, DC61, DC62 Models - Reusable And Durable, Long-Lasting Cleaning Performance - Essential",
+      "sku": "CJSD3018048",
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
       "lager": "Germany Warehouse",
-      "einkauf_usd": 31.79,
+      "einkauf_usd": 22.17,
       "fracht_usd": 0.0,
-      "einstand_eur": 31.79,
-      "vk_ohne_steuer": 79.47,
-      "vk": 79.47,
+      "einstand_eur": 22.17,
+      "vk_ohne_steuer": 55.43,
+      "vk": 55.43,
       "versandart": "DHL DE to DE #3",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -594,7 +274,7 @@
       "nische": "Akkustaubsauger",
       "name": "120W Cordless Handheld Vacuum Cleaner Vacuum Cleaner Lithium Battery For Car Office Home",
       "sku": "CJSD3017779",
-      "gelistet_von": 7,
+      "gelistet_von": 10,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
@@ -642,37 +322,12 @@
     },
     {
       "nische": "Akkuschrauber",
-      "name": "Electric Screwdriver Set 9 Bits USB Rechargeable Cordless Lithium Battery Power Screwdriver Kit Black Box",
-      "sku": "CJSD3017710",
-      "gelistet_von": 1,
-      "bestand_liste": 230,
-      "bestand_de": 230,
-      "bestand_welt": 230,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 19.87,
-      "fracht_usd": 0.0,
-      "einstand_eur": 19.87,
-      "vk_ohne_steuer": 49.68,
-      "vk": 49.68,
-      "versandart": "DHL DE to DE #3",
-      "laufzeit": "3-5",
-      "versand_inklusive": 1,
-      "versandoptionen": [
-        {
-          "name": "DHL DE to DE #3",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Akkuschrauber",
       "name": "Pagoda Drill Bit 3-piece Set, Hexagonal Handle Straight Groove Metric Large 3PC Iron Box (380g)",
       "sku": "CJSD2785006",
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 15.85,
       "fracht_usd": 0.0,
@@ -691,19 +346,19 @@
       ]
     },
     {
-      "nische": "Werkzeugkoffer",
-      "name": "34pcs Torx Bit Socket And E-Torx Star Socket Set 1/4\" 3/8\" 1/2\" Drive Male Female E-torx Security Bits Handheld Tool",
-      "sku": "CJSD3017923",
+      "nische": "Akkuschrauber",
+      "name": "Electric Screwdriver Set 9 Bits USB Rechargeable Cordless Lithium Battery Power Screwdriver Kit Black Box",
+      "sku": "CJSD3017710",
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
       "lager": "Germany Warehouse",
-      "einkauf_usd": 19.59,
+      "einkauf_usd": 19.87,
       "fracht_usd": 0.0,
-      "einstand_eur": 19.59,
-      "vk_ohne_steuer": 48.98,
-      "vk": 48.98,
+      "einstand_eur": 19.87,
+      "vk_ohne_steuer": 49.68,
+      "vk": 49.68,
       "versandart": "DHL DE to DE #3",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -729,6 +384,31 @@
       "einstand_eur": 13.75,
       "vk_ohne_steuer": 34.38,
       "vk": 34.38,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Werkzeugkoffer",
+      "name": "Engine Adjustment Tool Timing Locking Tool Set For Audi/ Seat/ Skoda/ Volkswagen",
+      "sku": "CJSD2785312",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 14.1,
+      "fracht_usd": 0.0,
+      "einstand_eur": 14.1,
+      "vk_ohne_steuer": 35.25,
+      "vk": 35.25,
       "versandart": "DHL DE to DE #3",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -797,7 +477,7 @@
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 17.85,
       "fracht_usd": 0.0,
@@ -872,7 +552,7 @@
       "gelistet_von": 1,
       "bestand_liste": 690,
       "bestand_de": 690,
-      "bestand_welt": 690,
+      "bestand_welt": 1380,
       "lager": "Germany Warehouse",
       "einkauf_usd": 10.25,
       "fracht_usd": 0.0,
@@ -897,7 +577,7 @@
       "gelistet_von": 2,
       "bestand_liste": 460,
       "bestand_de": 460,
-      "bestand_welt": 460,
+      "bestand_welt": 920,
       "lager": "Germany Warehouse",
       "einkauf_usd": 9.2,
       "fracht_usd": 0.0,
@@ -922,7 +602,7 @@
       "gelistet_von": 1,
       "bestand_liste": 460,
       "bestand_de": 460,
-      "bestand_welt": 460,
+      "bestand_welt": 920,
       "lager": "Germany Warehouse",
       "einkauf_usd": 6.91,
       "fracht_usd": 0.0,
@@ -931,7 +611,7 @@
       "vk": 17.27,
       "versandart": "DHL DE to DE #4",
       "laufzeit": "3-5",
-      "versand_inklusive": 0,
+      "versand_inklusive": 1,
       "versandoptionen": [
         {
           "name": "DHL DE to DE #4",
@@ -942,18 +622,18 @@
     },
     {
       "nische": "Taschenlampe",
-      "name": "Super Hell 9500000Lumen Taktische Taschenlampe LED XHP90 Militär Wiederaufladbar",
-      "sku": "CJLY2839046",
+      "name": "Kleine Taschenlampe Mini Handheld Ultrahelle Leistungsstarke LED Taktische Lampe",
+      "sku": "CJLY2839087",
       "gelistet_von": 1,
-      "bestand_liste": 230,
-      "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_liste": 460,
+      "bestand_de": 460,
+      "bestand_welt": 920,
       "lager": "Germany Warehouse",
-      "einkauf_usd": 14.46,
+      "einkauf_usd": 8.55,
       "fracht_usd": 0.0,
-      "einstand_eur": 14.46,
-      "vk_ohne_steuer": 36.15,
-      "vk": 36.15,
+      "einstand_eur": 8.55,
+      "vk_ohne_steuer": 21.38,
+      "vk": 21.38,
       "versandart": "DHL DE to DE #4",
       "laufzeit": "3-5",
       "versand_inklusive": 1,
@@ -972,7 +652,7 @@
       "gelistet_von": 3,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 17.89,
       "fracht_usd": 0.0,
@@ -1047,7 +727,7 @@
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 20.06,
       "fracht_usd": 0.0,
@@ -1072,7 +752,7 @@
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 8.0,
       "fracht_usd": 0.0,
@@ -1081,50 +761,10 @@
       "vk": 20.0,
       "versandart": "DHL DE to DE #4",
       "laufzeit": "3-5",
-      "versand_inklusive": 0,
-      "versandoptionen": [
-        {
-          "name": "DHL DE to DE #4",
-          "preis": 0.0,
-          "dauer": "3-5"
-        }
-      ]
-    },
-    {
-      "nische": "Heißluftfritteuse",
-      "name": "Air Fryer 6 Quart Capacity With Window Square Air Fryer 12-in-1 Air Fry, Roast, Reheat, Dehydrate, Bake, Steam With 400F",
-      "sku": "CJJT2782489",
-      "gelistet_von": 33,
-      "bestand_liste": 909,
-      "bestand_de": 909,
-      "bestand_welt": 909,
-      "lager": "Germany Warehouse",
-      "einkauf_usd": 45.66,
-      "fracht_usd": 0.0,
-      "einstand_eur": 45.66,
-      "vk_ohne_steuer": 114.15,
-      "vk": 114.15,
-      "versandart": "UPS DE to DE",
-      "laufzeit": "3-5",
       "versand_inklusive": 1,
       "versandoptionen": [
         {
-          "name": "UPS DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DPD DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "DHL DE to DE",
-          "preis": 0.0,
-          "dauer": "3-5"
-        },
-        {
-          "name": "GLS DE to DE",
+          "name": "DHL DE to DE #4",
           "preis": 0.0,
           "dauer": "3-5"
         }
@@ -1159,7 +799,7 @@
       "nische": "Duschhocker",
       "name": "Commode Chair, Height Adjustable Shower Wheelchair, Foldable Bath Chair, Toilet Chair With Padded Seat & Bedpan, Stable & Comfortable",
       "sku": "CJSD3017771",
-      "gelistet_von": 0,
+      "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
@@ -1187,7 +827,7 @@
       "gelistet_von": 1,
       "bestand_liste": 230,
       "bestand_de": 230,
-      "bestand_welt": 230,
+      "bestand_welt": 460,
       "lager": "Germany Warehouse",
       "einkauf_usd": 18.69,
       "fracht_usd": 0.0,
@@ -1212,7 +852,7 @@
       "gelistet_von": 2,
       "bestand_liste": 460,
       "bestand_de": 460,
-      "bestand_welt": 460,
+      "bestand_welt": 920,
       "lager": "Germany Warehouse",
       "einkauf_usd": 8.55,
       "fracht_usd": 0.0,
@@ -1221,7 +861,7 @@
       "vk": 21.38,
       "versandart": "DHL DE to DE #4",
       "laufzeit": "3-5",
-      "versand_inklusive": 0,
+      "versand_inklusive": 1,
       "versandoptionen": [
         {
           "name": "DHL DE to DE #4",
@@ -1259,7 +899,7 @@
       "nische": "Wäschespinne",
       "name": "13m Wall Mounted Retractable Double Clothesline, Indoor Outdoor Retracting Laundry Drying Rack",
       "sku": "CJSD3017774",
-      "gelistet_von": 2,
+      "gelistet_von": 4,
       "bestand_liste": 230,
       "bestand_de": 230,
       "bestand_welt": 230,
@@ -1285,9 +925,9 @@
       "name": "Beheiztes Katzenhaus, Katzenunterschlupf Für Draußen Mit Einstellbarer Temperatur Und Timer, Faltbarer Katzenunterschlupf Aus 600D Oxford-Gewebe Mit Beheiztem Kissen Für Den Winter",
       "sku": "CJFU2708253",
       "gelistet_von": 0,
-      "bestand_liste": 290,
-      "bestand_de": 290,
-      "bestand_welt": 290,
+      "bestand_liste": 289,
+      "bestand_de": 289,
+      "bestand_welt": 289,
       "lager": "Germany Warehouse",
       "einkauf_usd": 63.51,
       "fracht_usd": 0.0,
@@ -1385,9 +1025,9 @@
       "name": "Class A Mica Cool Silk Single Summer Quilt Ice Cream Solid Color Double Stitching",
       "sku": "CJYD2100152",
       "gelistet_von": 5,
-      "bestand_liste": 2019,
-      "bestand_de": 2019,
-      "bestand_welt": 725443,
+      "bestand_liste": 2014,
+      "bestand_de": 2014,
+      "bestand_welt": 725367,
       "lager": "Germany Warehouse",
       "einkauf_usd": 3.69,
       "fracht_usd": 8.94,
@@ -1407,6 +1047,31 @@
           "name": "DE-GLS",
           "preis": 10.87,
           "dauer": "2-6"
+        }
+      ]
+    },
+    {
+      "nische": "Wasserfilter Kanne",
+      "name": "Super Value! 6-Pack Activated Carbon Water Filter Pitcher Cartridges, Bulk 120-Count Box For Home & Kitchen, Universal Fit, Clean & Fresh Taste, Easy Installation",
+      "sku": "CJSD2785109",
+      "gelistet_von": 4,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 19.2,
+      "fracht_usd": 0.0,
+      "einstand_eur": 19.2,
+      "vk_ohne_steuer": 48.0,
+      "vk": 48.0,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
         }
       ]
     }
