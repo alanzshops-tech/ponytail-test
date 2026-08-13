@@ -15,7 +15,7 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | Class A Mica Cool Silk Single Summer Quilt Ice Cream Solid | 3.69 -- 12.94 | 2014 | 5 | None | `CJYD2100152` |
 | 99000000LM Stärkste Wiederaufladbare Stirnlampe Superhelle | 10.25 -- 21.08 | 690 | 1 | None | `CJLY2830642` |
 | Textured Zipper Half-Buttoned Dress With Patch Pockets | 3.76 | 577 | 140 | None | `CJLY2230925` |
-| Navel Belly Button Patch Slimming Patch Abdomen Magnetic D | 0.64 -- 11.55 | 465 | 3113 | None | `CJBJPFST00158` |
+| Navel Belly Button Patch Slimming Patch Abdomen Magnetic D | 0.64 -- 11.55 | 465 | 3114 | None | `CJBJPFST00158` |
 | Halb Gesicht Maske Atemgerät Gesichtsstück Für Holzbearbei | 10.85 -- 16.27 | 460 | 3 | None | `CJBG2839088` |
 | 2 / 4 Stück 3000mAh 3.7V Akku Und Ladegerät Für Akkus Wie  | 6.91 -- 9.20 | 460 | 1 | None | `CJDD2839051` |
 | 1/2 X Super Hell Taschenlampe Fackel - LED Taktisches Fack | 9.27 -- 12.04 | 460 | 2 | None | `CJLY2839090` |
@@ -31,7 +31,7 @@ Preise wie von CJ geliefert. Die Währung hängt an der Kontoeinstellung, das bi
 | Brutautomat Vollautomatisch 12-Eier Eierinkubator Mit Eier | 46.98 | 293 | 2 | None | `CJFU2708192` |
 | Beheiztes Katzenhaus, Katzenunterschlupf Für Draußen Mit E | 63.51 | 289 | 0 | None | `CJFU2708253` |
 | Hochleistungs-Luftkompressor Zweizylinder 300 L/min Tragba | 145.54 | 286 | 0 | None | `CJFU2708184` |
-| 2 Million HD Pixel Industrial Endoscope | 18.83 | 230 | 1 | None | `CJSD2785162` |
+| 1MW Starker Grüner Laserpointer Outdoor-Lazer-Taschenlampe | 11.82 | 230 | 11 | None | `CJBG2839039` |
 
 
 **Viel Bestand (ab 300), kaum gelistet (höchstens 5 Händler) — 12 Artikel:**
@@ -170,8 +170,8 @@ Nichts mit geprüftem Bestand im deutschen Lager.
 | 3 Pcs Glass Coffee Jars With Spoons, Candy Jars, Biscuit J | 21.35 | 230 | 62 | None | `CJCF2657561` |
 | 419 Pieces Of O-ring, Nitrile Rubber Ring, Plastic Box Gas | 16.79 | 230 | 1 | None | `CJSD2785022` |
 | Wall Mounted Tool Holder Rack, Garage Organizer For Electr | 17.01 | 230 | 9 | None | `CJSD2785295` |
-| 20m Portable Hose Cart Garden Hose Reel Trolley For Easy S | 15.81 | 230 | 3 | None | `CJSD2785266` |
 | Fireproof Safe Box, Security Safe For Documents, Money, Wa | 27.79 | 230 | 12 | None | `CJSD2785140` |
+| 20m Portable Hose Cart Garden Hose Reel Trolley For Easy S | 15.81 | 230 | 3 | None | `CJSD2785266` |
 | Electric Screwdriver Set 9 Bits USB Rechargeable Cordless  | 19.87 | 230 | 1 | None | `CJSD3017710` |
 | Pagoda Drill Bit 3-piece Set, Hexagonal Handle Straight Gr | 15.85 | 230 | 1 | None | `CJSD2785006` |
 | Reverse Thread Sleeve Sliding Thread Sleeve 14-piece Set 1 | 18.30 | 230 | 2 | None | `CJSD2785039` |
@@ -332,8 +332,8 @@ Nichts mit geprüftem Bestand im deutschen Lager.
 | 6 PCS GARDEN TOOL SET Garden Tools Garden Tool Hand Tools | 18.08 | 230 | 7 | None | `CJSD3017786` |
 | 16Pcs Camping Cooking Ware Set Camping Stove Cookware Kit  | 22.66 | 230 | 31 | None | `CJSD2785043` |
 | Engine Adjustment Tool Timing Locking Tool Set For Audi/ S | 14.10 | 230 | 1 | None | `CJSD2785312` |
-| 12cm U-shaped Rail Solar Photovoltaic Bracket Silver Rail  | 20.06 | 230 | 1 | None | `CJSD2785023` |
 | Valve Spring Compressor Tool Engine Valve Removal Installa | 16.92 | 230 | 1 | None | `CJSD3017721` |
+| 12cm U-shaped Rail Solar Photovoltaic Bracket Silver Rail  | 20.06 | 230 | 1 | None | `CJSD2785023` |
 | Pass-Through Ratchet Socket Wrench Set Bidirectional Quick | 28.01 | 230 | 1 | None | `CJSD3017720` |
 | Right Hand Universal Pocket Golf Putter Set Portable Indoo | 14.00 | 230 | 1 | None | `CJSD3017759` |
 | 34x Innenlager Abzieher Set (with Bag Hole, Base Hole, Int | 32.95 | 230 | 3 | None | `CJSD2785091` |

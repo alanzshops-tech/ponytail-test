@@ -15,7 +15,7 @@ CJ rechnet in Dollar. **Einstand** ist Einkauf plus Fracht in Euro; wo CJ den Ve
 | Stirnlampe | LED Stirnlampe Super Hell 60000LM USB Wieder | 9.2 | 0.0 | ja | 9.2 | **23.0** | 460 | 920 | 2 | 3-5 |
 | Stirnlampe | 99000000LM Stärkste Wiederaufladbare Stirnla | 10.25 | 0.0 | ja | 10.25 | **25.62** | 690 | 1380 | 1 | 3-5 |
 | Kettensäge | 4pcs Original Saw Chain 35cm 3/8" 52 Drive L | 10.32 | 0.0 | ja | 10.32 | **25.8** | 230 | 230 | 0 | 3-5 |
-| Gewichtsdecke | Class A Mica Cool Silk Single Summer Quilt I | 3.69 | 8.94 | nein | 12.63 | **31.57** | 2014 | 725371 | 5 | 1-3 |
+| Gewichtsdecke | Class A Mica Cool Silk Single Summer Quilt I | 3.69 | 8.94 | nein | 12.63 | **31.57** | 2014 | 725372 | 5 | 1-3 |
 | Akkustaubsauger | Wall Mount Charging Dock For Dyson V7 V8 Cor | 13.2 | 0.0 | ja | 13.2 | **33.0** | 230 | 230 | 2 | 3-5 |
 | Werkzeugkoffer | TIRE REPAIR SET 58 PCS MOTORCYCLE/CAR TIRE P | 13.75 | 0.0 | ja | 13.75 | **34.38** | 230 | 230 | 1 | 3-5 |
 | Werkzeugkoffer | Engine Adjustment Tool Timing Locking Tool S | 14.1 | 0.0 | ja | 14.1 | **35.25** | 230 | 460 | 1 | 3-5 |
