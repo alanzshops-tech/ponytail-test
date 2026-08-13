@@ -7,3 +7,5 @@ https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar
 https://www.homeeins.de/cart
 # Produkt, das bis 9.8.2026 sechs erfundene Bewertungen als Metafeld trug.
 https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine
+# Neues Produkt (13.8.2026), Bilder werden gegen PRODUKTBILDER.md geprüft.
+https://www.homeeins.de/products/led-taschenlampe-aufladbar-zoom-warnlicht
