@@ -91,7 +91,8 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
-`SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`, `DESIGN.md`.
+`SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`, `DESIGN.md`,
+`UMBAU.md`, `DIGITAL.md`.
 
 `GELDVERDIENEN.md` — **vor jeder Sortiments- oder Strategiefrage zuerst
 hier lesen.** Enthält den am 14.08.2026 erstmals abgefragten Befund aus den
@@ -134,6 +135,15 @@ bewerten** — der auffälligste Fehler der Startseite (unlesbarer Hero)
 fehlt deshalb im Prüfstand. Dafür gibt es `scripts/kontrast.py`.
 Ausserdem festgehalten, welche Werkzeuge verbunden, ungenutzt oder
 blockiert sind.
+
+`DIGITAL.md` — **vor jeder Entscheidung zu digitalen Produkten zuerst
+hier lesen.** Wichtigster Punkt: Bei digitalen Produkten an Privatkunden
+gilt das **Bestimmungsland** (§ 3a Abs. 5 UStG), § 19 UStG schützt nur
+vor deutscher Umsatzsteuer. **Reseller-Plattformen** (Digistore24,
+CopeCart, ablefy im Reseller-Modell) lösen das, weil dort der Kaufvertrag
+zwischen Plattform und Kunde zustande kommt. Dazu: Kurse und Memberships
+bringen am meisten, brauchen aber ein Publikum — das hier fehlt. Etsy ist
+die einzige Startoption mit eigenem Traffic.
 
 `PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
 Produktbildern, die messbar besser verkaufen: wie viele Bilder,
