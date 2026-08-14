@@ -1,6 +1,357 @@
 [
   {
-    "begriff": "geld in der partnerschaft",
+    "begriff": "milliardär liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0H7SHQN5J",
+        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 55,
+        "sterne": 4.3,
+        "bsr": 199
+      },
+      {
+        "asin": "B0FRSYBT37",
+        "titel": "Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 805,
+        "sterne": 4.1,
+        "bsr": 1462
+      },
+      {
+        "asin": "B0HCW28KG7",
+        "titel": "My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 56,
+        "sterne": 4.6,
+        "bsr": 82
+      },
+      {
+        "asin": "B0H8WXW6C5",
+        "titel": "Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 52,
+        "sterne": 4.1,
+        "bsr": 1700
+      },
+      {
+        "asin": "B0H9GK39B5",
+        "titel": "Kein Kuss für den Milliardär: Eine emotionale Sports Romance mit Secret Baby",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 61,
+        "sterne": 4.2,
+        "bsr": 902
+      },
+      {
+        "asin": "B0GX2SSKDF",
+        "titel": "Wie du deinem Boss widerstehst: Ein Grumpy/Sunshine Milliardärs-Boss-Liebesroman (Die Ashford-Brüder 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 110,
+        "sterne": 4.6
+      },
+      {
+        "asin": "B0DVCGHL4P",
+        "titel": "Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2770,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0FXBYX37M",
+        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1706,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0HCW2J122",
+        "titel": "Der Notfallkontakt des lesebegeisterten Mädchens ist ein Milliardär-Lykan-König: Eine Gestaltwandler-Romanze-Serie über abgelehnte Gefährten",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 3,
+        "sterne": 2.3
+      },
+      {
+        "asin": "B0H5C9LJYP",
+        "titel": "Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 295,
+        "sterne": 4.2
+      }
+    ],
+    "bsr_werte": [
+      199,
+      1462,
+      82,
+      1700,
+      902
+    ],
+    "bsr_median": 902,
+    "bsr_bester": 82,
+    "verkaeufe_tag_geschaetzt": 307.66,
+    "bewertungen_median": 56,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "billionaire romance deutsch",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0FV3PSKRV",
+        "titel": "Unmasking Billionaires' Row: Roman | High Society-New Adult von der SPIEGEL-Bestsellerautorin (London Elite 1)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 9.99,
+        "bewertungen": 105,
+        "sterne": 4.4,
+        "bsr": 17333
+      },
+      {
+        "asin": "B0GWRVY9XW",
+        "titel": "The 7 Rules of my Boss (New York Billionaires 18)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1023,
+        "sterne": 4.5,
+        "bsr": 1928
+      },
+      {
+        "asin": "B0H8NVZ9SP",
+        "titel": "Blackmailing Mr. Bossman (Billionaire Heists 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 308,
+        "sterne": 4.7,
+        "bsr": 428
+      },
+      {
+        "asin": "B0H7HR2TJL",
+        "titel": "The Billionaire’s Secret: Schwanger vom Milliardär (Unexpected Lovestories 35)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 403,
+        "sterne": 4.3,
+        "bsr": 309
+      },
+      {
+        "asin": "B0F3Y356RP",
+        "titel": "Sorry. Not Sorry: Eine leidenschaftliche Romanze mit einem Milliardär als alleinerziehendem Vater (Blingwood Billionaires - German Edition 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1558,
+        "sterne": 4.2,
+        "bsr": 20
+      },
+      {
+        "asin": "B0GF8XD7CJ",
+        "titel": "Billionaire Boss: Ein Enemies to Lovers - Liebesroman (Reife Beschützer 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 365,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0GX2WL1KW",
+        "titel": "Heimliche Nächte mit dem Boss: Ein Billionaire Romance (Die LeBlanc-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 496,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0H1SP9Q4H",
+        "titel": "Burning for my Boss: Ein Baby für Mr. West (New York Billionaires 19)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 883,
+        "sterne": 4.6
+      },
+      {
+        "asin": "B0GX2YN16L",
+        "titel": "Bought by the Billionaire: Vom Milliardär ersteigert (Unexpected Lovestories 34)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1071,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0GXXDTL6F",
+        "titel": "Billionaire Baby Deal: Marcus (New York Billionaires 20)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 481,
+        "sterne": 4.6
+      }
+    ],
+    "bsr_werte": [
+      17333,
+      1928,
+      428,
+      309,
+      20
+    ],
+    "bsr_median": 428,
+    "bsr_bester": 20,
+    "verkaeufe_tag_geschaetzt": 579.79,
+    "bewertungen_median": 403,
+    "preis_median": 9.99,
+    "kindle_unlimited": 9,
+    "im_70_prozent_fenster": 1
+  },
+  {
+    "begriff": "ceo liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0GWXJRYPJ",
+        "titel": "Icecold CEO (Die Manhattan CEOs 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 520,
+        "sterne": 4.3,
+        "bsr": 722
+      },
+      {
+        "asin": "B0H8JHNW83",
+        "titel": "Soulless CEO (Die Manhattan CEOs 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 315,
+        "sterne": 4.4,
+        "bsr": 237
+      },
+      {
+        "asin": "B0FHKM1F9T",
+        "titel": "Den CEO Verführt: Ein Grumpy x Sunshine Liebesroman (Die Whitley-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1780,
+        "sterne": 4.3,
+        "bsr": 1068
+      },
+      {
+        "asin": "B0GCPQ8CH4",
+        "titel": "Im Bann des CEO: Ein Enemies-To-Lovers Liebesroman (Die Whitley-Brüder 6)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1056,
+        "sterne": 4.3,
+        "bsr": 1235
+      },
+      {
+        "asin": "B0FHJQYQNQ",
+        "titel": "Küss den CEO (Die Whitley-Brüder 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1199,
+        "sterne": 4.3,
+        "bsr": 1403
+      },
+      {
+        "asin": "B0H4W5TDZ6",
+        "titel": "Ruthless CEO (Die Manhattan CEOs 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 395,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0GX2YVQ7T",
+        "titel": "Her Pucking CEO: Ein Second Chance - Enemies to Lovers Liebesroman (Die Chester Street Milliardäre 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 979,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0BS1FTXQ6",
+        "titel": "Die Bändigung von Mr. Walker: Ein CEO-Liebesroman (London-Mister-Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 6791,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H1DRVC98",
+        "titel": "Heartless CEO (Die Manhattan CEOs 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 513,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0HDSFCGCS",
+        "titel": "Business Only CEO (Die Manhattan CEOs 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2,
+        "sterne": 4.5
+      }
+    ],
+    "bsr_werte": [
+      722,
+      237,
+      1068,
+      1235,
+      1403
+    ],
+    "bsr_median": 1068,
+    "bsr_bester": 237,
+    "verkaeufe_tag_geschaetzt": 266.51,
+    "bewertungen_median": 1056,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "chef und angestellte liebesroman",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
     "davon_gesponsert": 0,
@@ -878,13 +1229,485 @@
         "sterne": 4.2
       }
     ],
-    "bsr_werte": [],
-    "bsr_median": null,
-    "bsr_bester": null,
-    "verkaeufe_tag_geschaetzt": null,
-    "bewertungen_median": 56,
+    "bsr_werte": [
+      14522,
+      14856,
+      78185
+    ],
+    "bsr_median": 14856,
+    "bsr_bester": 14522,
+    "verkaeufe_tag_geschaetzt": 28.44,
+    "bewertungen_median": 82,
+    "preis_median": 4.99,
+    "kindle_unlimited": 9,
+    "im_70_prozent_fenster": 1
+  },
+  {
+    "begriff": "scheinehe liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0FKBR9BWN",
+        "titel": "Für immer mit dem CEO (Die Whitley-Brüder 8)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1101,
+        "sterne": 4.4,
+        "bsr": 792
+      },
+      {
+        "asin": "B0B61D67BN",
+        "titel": "Die Scheinehe",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 715,
+        "sterne": 4.2,
+        "bsr": 70272
+      },
+      {
+        "asin": "B0H3DLVZ5S",
+        "titel": "Scheinehe mit meinem Milliardärsboss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 4.6,
+        "bsr": 15333
+      },
+      {
+        "asin": "B0GX3N1T7V",
+        "titel": "Die Heiratsvermittlerin und der unmögliche Laird: Ein Highland-Liebesroman voller Wortgefechte, Scheinehe und Slow Burn (Die legendären Lairds 6)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 5,
+        "sterne": 4.0,
+        "bsr": 12733
+      },
+      {
+        "asin": "B0GZ7Q8RVG",
+        "titel": "Meine gut arrangierte Scheinehe: ein romantische komödie in Schottland (Chaos in den Highlands)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 105,
+        "sterne": 4.2,
+        "bsr": 17015
+      },
+      {
+        "asin": "B0H7SHQN5J",
+        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 55,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0H2WR55VX",
+        "titel": "Nichts Ernstes: Eine Scheinehe, ein geheimes Baby, eine zweite Chance",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 7,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0HCJD1Y4C",
+        "titel": "Der Ehemann, der zu spät bereute: Ein Verrat, Zweite Chance, Schein-Ehe in der Krise – Eine Unterwürfige Romanze (Herzgebrochene Schatten-Ehefrauen)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 24,
+        "sterne": 3.8
+      },
+      {
+        "asin": "B0H5TQSGX7",
+        "titel": "Scheinehe mit dem Hockeyspieler: Eine College-Hockey-Romance über eine Streberin und einen Sportler (Kanadische Eishockey-Liebesromane 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 26,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0F6G8J7YF",
+        "titel": "Meine fast perfekte Scheinehe: ein Schottland-roman (Chaos in den Highlands)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 259,
+        "sterne": 4.5
+      }
+    ],
+    "bsr_werte": [
+      792,
+      70272,
+      15333,
+      12733,
+      17015
+    ],
+    "bsr_median": 15333,
+    "bsr_bester": 792,
+    "verkaeufe_tag_geschaetzt": 27.68,
+    "bewertungen_median": 105,
     "preis_median": null,
     "kindle_unlimited": 10,
     "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "geheimes baby liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0H9X4BLS4",
+        "titel": "Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 121,
+        "sterne": 3.8,
+        "bsr": 127
+      },
+      {
+        "asin": "B0F671SQP8",
+        "titel": "Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1043,
+        "sterne": 4.5,
+        "bsr": 119
+      },
+      {
+        "asin": "B0HD133PD7",
+        "titel": "Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 20,
+        "sterne": 3.6,
+        "bsr": 1002
+      },
+      {
+        "asin": "B0H5T8L75H",
+        "titel": "Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 43,
+        "sterne": 4.3,
+        "bsr": 671
+      },
+      {
+        "asin": "B0H6HLG71H",
+        "titel": "Das geheime Baby der Bratva (Reich der Sünde)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1,
+        "sterne": 5.0,
+        "bsr": 12752
+      },
+      {
+        "asin": "B0D9G5DJX2",
+        "titel": "Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 28,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H8MGQG8Q",
+        "titel": "Das Geheime Baby vom Griechischen CEO",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B0HB9DKD8Z",
+        "titel": "The Player of New York: Ein emotionaler Secret Baby & Second Chance Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 25,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B0FSLQGDZT",
+        "titel": "Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 78,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0H8DV2P38",
+        "titel": "Das geheime Baby des Alpha-Rates: Eine Omegaverse Dark Reverse Harem Mafia Romance (Die Tribute der Alpha-Mafia 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 22,
+        "sterne": 3.8
+      }
+    ],
+    "bsr_werte": [
+      127,
+      119,
+      1002,
+      671,
+      12752
+    ],
+    "bsr_median": 671,
+    "bsr_bester": 119,
+    "verkaeufe_tag_geschaetzt": 395.63,
+    "bewertungen_median": 43,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "enemies to lovers deutsch",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0F4KDKHJN",
+        "titel": "Silver Elite: Deutsche Ausgabe des TIKTOK-Hypes",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 14.99,
+        "bewertungen": 379,
+        "sterne": 4.7,
+        "bsr": 5513
+      },
+      {
+        "asin": "B0G51C4M6D",
+        "titel": "Hate to want you, Doc: Ein Enemies-to-Lovers-Doctor-Daddy-Liebesroman (From Rivals to Lovers 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1220,
+        "sterne": 4.3,
+        "bsr": 1936
+      },
+      {
+        "asin": "B0F4NRSCT4",
+        "titel": "Leave Me Behind: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 14.99,
+        "bewertungen": 2898,
+        "sterne": 4.4,
+        "bsr": 1385
+      },
+      {
+        "asin": "B0F4D6ZZ18",
+        "titel": "Where Good Girls go to Die (Good Girls 1): Ein emotionales Drama um eine verbotene Liebe!",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1051,
+        "sterne": 4.2,
+        "bsr": 359
+      },
+      {
+        "asin": "B0HCC4HZ4P",
+        "titel": "Gefährliche Nächte mit dem Miliardär: Ein Enemies To Lovers Romance (Die LeBlanc-Brüder 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 98,
+        "sterne": 4.4,
+        "bsr": 157
+      },
+      {
+        "asin": "B0H2D3G4G2",
+        "titel": "Her Secret Husband: Ein Enemies to Lovers - Liebesroman (Die Chester Street Milliardäre 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 817,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H6XCS85F",
+        "titel": "Five Week Wife: Ein Enemies to Lovers - Fake Marriage Liebesroman (Secret Desires 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 856,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0HCN4GK82",
+        "titel": "Legal Seduction: Ein Enemies-to-Lovers-Liebesroman (From Rivals to Lovers 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 46,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0H7FNDYDL",
+        "titel": "Loud Ruin: Ein Enemies to Lovers Liebesroman (Reife Beschützer 12)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 49,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0GKWWFZ7F",
+        "titel": "Drachenträgerin - Erbin der Flammen: Enemies to Lovers Fantasy Romance - Romantasy mit Drachen (Drachenträgerin Saga 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 267,
+        "sterne": 4.4
+      }
+    ],
+    "bsr_werte": [
+      5513,
+      1936,
+      1385,
+      359,
+      157
+    ],
+    "bsr_median": 1385,
+    "bsr_bester": 157,
+    "verkaeufe_tag_geschaetzt": 213.68,
+    "bewertungen_median": 1051,
+    "preis_median": 14.99,
+    "kindle_unlimited": 8,
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "milliardärsboss liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0H3DLVZ5S",
+        "titel": "Scheinehe mit meinem Milliardärsboss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 4.6,
+        "bsr": 15333
+      },
+      {
+        "asin": "B0CY5R5Q4N",
+        "titel": "Kontrolliert von meinem Milliardärs-Boss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 46,
+        "sterne": 4.1,
+        "bsr": 11710
+      },
+      {
+        "asin": "B0CNMBZJPK",
+        "titel": "Mein Fake Date mit den Milliardärs-Bossen: Ein Reverse Harem Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 976,
+        "sterne": 4.5,
+        "bsr": 52923
+      },
+      {
+        "asin": "B0H9YL7ZN2",
+        "titel": "Schwanger von meinem Milliardärs-Boss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 5)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 2.99,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 172773
+      },
+      {
+        "asin": "B0DTJHKPB7",
+        "titel": "Ein geheimes Baby für die Milliardärs-Bosse",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 183,
+        "sterne": 4.5,
+        "bsr": 32050
+      },
+      {
+        "asin": "B0DB3NGMJC",
+        "titel": "Durchschaut von meinem Milliardärs-Boss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 17,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0D9G5DJX2",
+        "titel": "Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 28,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H6VDV1PB",
+        "titel": "Verwöhnt Vom Milliardärs-Boss: Das Erste Mal Schwul MM-Kurzgeschichte (Der Milliardärs-Boss)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1,
+        "sterne": 5.0
+      },
+      {
+        "asin": "B0H46T1ML1",
+        "titel": "Sein Boss, mein Upgrade. Mein Mann hat mich seinem Milliardärs-Boss überlassen, um Karriere zu machen — also habe ich den Boss behalten: Eine spicy Romance ... Ehekrise (Ehefrauen, die zurückbeißen 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 12,
+        "sterne": 3.9
+      },
+      {
+        "asin": "B0GYWHYW52",
+        "titel": "Cinderella und der Milliardärs-Boss (Ein Boss unter Milliarden 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": null,
+        "sterne": null
+      }
+    ],
+    "bsr_werte": [
+      15333,
+      11710,
+      52923,
+      172773,
+      32050
+    ],
+    "bsr_median": 32050,
+    "bsr_bester": 11710,
+    "verkaeufe_tag_geschaetzt": 14.79,
+    "bewertungen_median": 114,
+    "preis_median": 2.99,
+    "kindle_unlimited": 9,
+    "im_70_prozent_fenster": 1
   }
 ]

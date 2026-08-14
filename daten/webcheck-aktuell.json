@@ -6,21 +6,21 @@
       "url": "https://www.homeeins.de/",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 1456,
+      "ms_bis_erste_anzeige": 636,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2378,
-      "dom_knoten": 1312,
+      "ms_bis_fertig": 1707,
+      "dom_knoten": 1359,
       "bilder_gesamt": 19,
       "bilder_ohne_alt": 1,
       "h1_anzahl": 1,
       "formulare": 4,
       "seitenhoehe": 4212,
       "waagerecht_scrollbar": false,
-      "anfragen": 340,
-      "gewicht_kb": 3366,
+      "anfragen": 396,
+      "gewicht_kb": 3458,
       "nach_typ_kb": {
-        "script": 1350,
-        "other": 893,
+        "script": 1351,
+        "other": 984,
         "image": 820,
         "font": 212,
         "stylesheet": 45,
@@ -30,26 +30,32 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=c87c388c-fda8-4f71-9d9e-e0209222687c&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=7f2fd4ec-f7d4-422c-bd93-d2729bd08bda&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 200,
-          "kb": 2039
+          "anfragen": 247,
+          "kb": 2109
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 90,
-          "kb": 651
+          "anfragen": 91,
+          "kb": 673
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
-          "anfragen": 10,
+          "anfragen": 11,
           "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 10,
+          "kb": 43
         },
         {
           "host": "monorail-edge.shopifysvc.com",
@@ -74,12 +80,6 @@
           "eigen": false,
           "anfragen": 3,
           "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 44
         },
         {
           "host": "connect.facebook.net",
@@ -112,6 +112,12 @@
           "kb": 0
         },
         {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "stats.g.doubleclick.net",
           "eigen": false,
           "anfragen": 1,
@@ -124,8 +130,20 @@
           "kb": 0
         },
         {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
@@ -136,31 +154,13 @@
           "kb": 0
         },
         {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
+          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
           "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -179,8 +179,8 @@
         }
       ],
       "fremde_hosts": 18,
-      "fremde_anfragen": 32,
-      "fremde_kb": 675,
+      "fremde_anfragen": 39,
+      "fremde_kb": 674,
       "bild": "bilder/startseite-mobil.jpg",
       "bild_kb": 562
     },
@@ -189,50 +189,56 @@
       "url": "https://www.homeeins.de/",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 336,
+      "ms_bis_erste_anzeige": 420,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1142,
-      "dom_knoten": 1309,
+      "ms_bis_fertig": 1371,
+      "dom_knoten": 1347,
       "bilder_gesamt": 19,
       "bilder_ohne_alt": 1,
       "h1_anzahl": 1,
       "formulare": 4,
       "seitenhoehe": 4047,
       "waagerecht_scrollbar": false,
-      "anfragen": 337,
-      "gewicht_kb": 3340,
+      "anfragen": 387,
+      "gewicht_kb": 3437,
       "nach_typ_kb": {
-        "script": 1376,
-        "other": 866,
+        "script": 1379,
+        "other": 961,
         "image": 794,
         "font": 212,
         "stylesheet": 45,
         "document": 45,
-        "fetch": 0,
+        "fetch": 1,
         "xhr": 0,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=3e85fda5-47a4-482b-812a-c72e32accbbc&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=e4065e35-fa54-45ec-8dd4-fe2689e23b3e&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 197,
-          "kb": 1985
+          "anfragen": 237,
+          "kb": 2081
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 90,
-          "kb": 651
+          "anfragen": 91,
+          "kb": 653
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
-          "anfragen": 10,
+          "anfragen": 12,
           "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 10,
+          "kb": 45
         },
         {
           "host": "monorail-edge.shopifysvc.com",
@@ -251,12 +257,6 @@
           "eigen": false,
           "anfragen": 3,
           "kb": 472
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 45
         },
         {
           "host": "ct.pinterest.com",
@@ -301,19 +301,25 @@
           "kb": 0
         },
         {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "forms.shopifyapps.com",
           "eigen": true,
           "anfragen": 1,
           "kb": 0
         },
         {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -325,25 +331,19 @@
           "kb": 5
         },
         {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "bundler.nice-team.net",
+          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.cjdropshipping.com",
+          "host": "bundler.nice-team.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -362,7 +362,7 @@
         }
       ],
       "fremde_hosts": 18,
-      "fremde_anfragen": 32,
+      "fremde_anfragen": 39,
       "fremde_kb": 702,
       "bild": "bilder/startseite-desktop.jpg",
       "bild_kb": 473
@@ -372,21 +372,21 @@
       "url": "https://www.homeeins.de/collections/hunde",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 592,
+      "ms_bis_erste_anzeige": 664,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1308,
-      "dom_knoten": 1508,
+      "ms_bis_fertig": 1577,
+      "dom_knoten": 1564,
       "bilder_gesamt": 12,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 4641,
       "waagerecht_scrollbar": false,
-      "anfragen": 329,
-      "gewicht_kb": 2750,
+      "anfragen": 393,
+      "gewicht_kb": 2905,
       "nach_typ_kb": {
-        "script": 1380,
-        "other": 850,
+        "script": 1421,
+        "other": 964,
         "font": 212,
         "image": 211,
         "stylesheet": 49,
@@ -396,20 +396,26 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=e7da8c1d-cead-4a93-841c-2a1b5c43eb60&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=745c2d14-5d13-44c8-a109-cbefc1b1c01b&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 187,
-          "kb": 1395
+          "anfragen": 243,
+          "kb": 1509
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
           "anfragen": 90,
           "kb": 651
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -428,12 +434,6 @@
           "eigen": false,
           "anfragen": 5,
           "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 45
         },
         {
           "host": "ct.pinterest.com",
@@ -667,19 +667,25 @@
           "kb": 0
         },
         {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "stats.g.doubleclick.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -703,13 +709,13 @@
           "kb": 0
         },
         {
-          "host": "bundler.nice-team.net",
+          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.cjdropshipping.com",
+          "host": "bundler.nice-team.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -728,243 +734,54 @@
         }
       ],
       "fremde_hosts": 18,
-      "fremde_anfragen": 34,
-      "fremde_kb": 742,
-      "bild": "bilder/collections-hunde-desktop.jpg",
-      "bild_kb": 378
-    },
-    {
-      "geraet": "mobil",
-      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
-      "status": 200,
-      "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 612,
-      "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1599,
-      "dom_knoten": 1477,
-      "bilder_gesamt": 25,
-      "bilder_ohne_alt": 0,
-      "h1_anzahl": 1,
-      "formulare": 6,
-      "seitenhoehe": 6297,
-      "waagerecht_scrollbar": false,
-      "anfragen": 383,
-      "gewicht_kb": 3122,
-      "nach_typ_kb": {
-        "script": 1545,
-        "other": 867,
-        "image": 385,
-        "font": 212,
-        "stylesheet": 60,
-        "document": 51,
-        "fetch": 2,
-        "xhr": 0,
-        "ping": 0
-      },
-      "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=5a1a44c0-2911-4f8d-8dc5-7a57c8b1ded9&target_origin=https%3A%2F%2Fw"
-      ],
-      "nach_host": [
-        {
-          "host": "www.homeeins.de",
-          "eigen": true,
-          "anfragen": 199,
-          "kb": 1557
-        },
-        {
-          "host": "cdn.shopify.com",
-          "eigen": true,
-          "anfragen": 114,
-          "kb": 821
-        },
-        {
-          "host": "otlp-http-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 16,
-          "kb": 0
-        },
-        {
-          "host": "monorail-edge.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 12,
-          "kb": 0
-        },
-        {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 8,
-          "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 45
-        },
-        {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
-        },
-        {
-          "host": "cdnwidget.judge.me",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "connect.facebook.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 172
-        },
-        {
-          "host": "cdn-bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 1
-        },
-        {
-          "host": "s3-us-west-2.amazonaws.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn.ywxi.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 7
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        }
-      ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 39,
+      "fremde_anfragen": 42,
       "fremde_kb": 743,
-      "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-mobil.jpg",
-      "bild_kb": 689
+      "bild": "bilder/collections-hunde-mobil.jpg",
+      "bild_kb": 681
     },
     {
       "geraet": "desktop",
-      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
+      "url": "https://www.homeeins.de/collections/hunde",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 528,
+      "ms_bis_erste_anzeige": 740,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1422,
-      "dom_knoten": 1472,
-      "bilder_gesamt": 25,
+      "ms_bis_fertig": 1661,
+      "dom_knoten": 1566,
+      "bilder_gesamt": 12,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
-      "seitenhoehe": 6082,
+      "seitenhoehe": 3365,
       "waagerecht_scrollbar": false,
-      "anfragen": 383,
-      "gewicht_kb": 3542,
+      "anfragen": 400,
+      "gewicht_kb": 2886,
       "nach_typ_kb": {
-        "script": 1544,
-        "other": 856,
-        "image": 817,
+        "script": 1381,
+        "other": 986,
         "font": 212,
-        "stylesheet": 60,
-        "document": 51,
-        "fetch": 2,
+        "image": 209,
+        "stylesheet": 49,
+        "document": 49,
+        "fetch": 1,
         "xhr": 0,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=1b044098-e511-4e4c-87f3-92780b8b5232&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=b71becdc-de32-4d96-b969-7c3cb6788ce4&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 202,
-          "kb": 1976
+          "anfragen": 246,
+          "kb": 1510
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 114,
-          "kb": 821
+          "anfragen": 91,
+          "kb": 673
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -973,582 +790,27 @@
           "kb": 0
         },
         {
-          "host": "monorail-edge.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 12,
-          "kb": 0
-        },
-        {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 8,
-          "kb": 0
-        },
-        {
           "host": "analytics.tiktok.com",
           "eigen": false,
-          "anfragen": 4,
+          "anfragen": 12,
           "kb": 45
         },
         {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
-        },
-        {
-          "host": "cdnwidget.judge.me",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "connect.facebook.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 172
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn-bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 1
-        },
-        {
-          "host": "s3-us-west-2.amazonaws.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn.ywxi.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 7
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        }
-      ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 39,
-      "fremde_kb": 743,
-      "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-desktop.jpg",
-      "bild_kb": 444
-    },
-    {
-      "geraet": "mobil",
-      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
-      "status": 200,
-      "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 564,
-      "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1553,
-      "dom_knoten": 1357,
-      "bilder_gesamt": 11,
-      "bilder_ohne_alt": 0,
-      "h1_anzahl": 1,
-      "formulare": 6,
-      "seitenhoehe": 4065,
-      "waagerecht_scrollbar": false,
-      "anfragen": 379,
-      "gewicht_kb": 3006,
-      "nach_typ_kb": {
-        "script": 1544,
-        "other": 896,
-        "image": 244,
-        "font": 212,
-        "stylesheet": 60,
-        "document": 49,
-        "fetch": 2,
-        "xhr": 0,
-        "ping": 0
-      },
-      "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=18f80742-2893-431a-afcd-842aac6e0d6a&target_origin=https%3A%2F%2Fw"
-      ],
-      "nach_host": [
-        {
-          "host": "www.homeeins.de",
-          "eigen": true,
-          "anfragen": 203,
-          "kb": 1556
-        },
-        {
-          "host": "cdn.shopify.com",
-          "eigen": true,
-          "anfragen": 110,
-          "kb": 707
-        },
-        {
-          "host": "otlp-http-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 13,
-          "kb": 0
-        },
-        {
           "host": "monorail-edge.shopifysvc.com",
           "eigen": true,
-          "anfragen": 11,
-          "kb": 0
-        },
-        {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 8,
-          "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 43
-        },
-        {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
-        },
-        {
-          "host": "cdnwidget.judge.me",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "connect.facebook.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 172
-        },
-        {
-          "host": "cdn-bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 1
-        },
-        {
-          "host": "s3-us-west-2.amazonaws.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn.ywxi.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 7
-        },
-        {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        }
-      ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 39,
-      "fremde_kb": 741,
-      "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-mobil.jpg",
-      "bild_kb": 434
-    },
-    {
-      "geraet": "desktop",
-      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
-      "status": 200,
-      "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 576,
-      "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1500,
-      "dom_knoten": 1356,
-      "bilder_gesamt": 11,
-      "bilder_ohne_alt": 0,
-      "h1_anzahl": 1,
-      "formulare": 6,
-      "seitenhoehe": 3844,
-      "waagerecht_scrollbar": false,
-      "anfragen": 390,
-      "gewicht_kb": 3426,
-      "nach_typ_kb": {
-        "script": 1547,
-        "other": 897,
-        "image": 660,
-        "font": 212,
-        "stylesheet": 60,
-        "document": 49,
-        "fetch": 2,
-        "xhr": 0,
-        "ping": 0
-      },
-      "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=22c2a2f2-4f5e-4c3f-b4b6-ac87e0a69d5f&target_origin=https%3A%2F%2Fw"
-      ],
-      "nach_host": [
-        {
-          "host": "www.homeeins.de",
-          "eigen": true,
-          "anfragen": 210,
-          "kb": 1974
-        },
-        {
-          "host": "cdn.shopify.com",
-          "eigen": true,
-          "anfragen": 110,
-          "kb": 707
-        },
-        {
-          "host": "otlp-http-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 16,
-          "kb": 0
-        },
-        {
-          "host": "monorail-edge.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 12,
-          "kb": 0
-        },
-        {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 8,
-          "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 45
-        },
-        {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
-        },
-        {
-          "host": "cdnwidget.judge.me",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "connect.facebook.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 172
-        },
-        {
-          "host": "cdn-bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 1
-        },
-        {
-          "host": "s3-us-west-2.amazonaws.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn.ywxi.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 7
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        }
-      ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 39,
-      "fremde_kb": 743,
-      "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-desktop.jpg",
-      "bild_kb": 303
-    },
-    {
-      "geraet": "mobil",
-      "url": "https://www.homeeins.de/cart",
-      "status": 200,
-      "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 488,
-      "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1137,
-      "dom_knoten": 890,
-      "bilder_gesamt": 1,
-      "bilder_ohne_alt": 0,
-      "h1_anzahl": 2,
-      "formulare": 5,
-      "seitenhoehe": 1077,
-      "waagerecht_scrollbar": false,
-      "anfragen": 328,
-      "gewicht_kb": 2642,
-      "nach_typ_kb": {
-        "script": 1455,
-        "other": 897,
-        "font": 200,
-        "document": 40,
-        "stylesheet": 39,
-        "image": 11,
-        "fetch": 0,
-        "xhr": 0,
-        "ping": 0
-      },
-      "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=1b52f3f5-4c33-44b0-8a73-12fc29f8b035&target_origin=https%3A%2F%2Fw"
-      ],
-      "nach_host": [
-        {
-          "host": "www.homeeins.de",
-          "eigen": true,
-          "anfragen": 182,
-          "kb": 1287
-        },
-        {
-          "host": "cdn.shopify.com",
-          "eigen": true,
-          "anfragen": 90,
-          "kb": 651
-        },
-        {
-          "host": "otlp-http-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 11,
-          "kb": 0
-        },
-        {
-          "host": "monorail-edge.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 8,
+          "anfragen": 6,
           "kb": 0
         },
         {
           "host": "shop.app",
           "eigen": false,
           "anfragen": 5,
+          "kb": 0
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 4,
           "kb": 0
         },
         {
@@ -1558,34 +820,10 @@
           "kb": 472
         },
         {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 45
-        },
-        {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 0
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
           "host": "connect.facebook.net",
           "eigen": false,
           "anfragen": 2,
           "kb": 172
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
         },
         {
           "host": "cdn-bundler.nice-team.net",
@@ -1606,13 +844,13 @@
           "kb": 7
         },
         {
-          "host": "stats.g.doubleclick.net",
+          "host": "analytics.google.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.google.com",
+          "host": "stats.g.doubleclick.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -1630,10 +868,10 @@
           "kb": 0
         },
         {
-          "host": "cdn.trustedsite.com",
+          "host": "analytics-ipv6.tiktokw.us",
           "eigen": false,
           "anfragen": 1,
-          "kb": 5
+          "kb": 0
         },
         {
           "host": "app.cjdropshipping.com",
@@ -1642,13 +880,13 @@
           "kb": 0
         },
         {
-          "host": "metashop.dolphinsuite.com",
+          "host": "cdn.trustedsite.com",
           "eigen": false,
           "anfragen": 1,
-          "kb": 0
+          "kb": 5
         },
         {
-          "host": "bundler.nice-team.net",
+          "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -1660,7 +898,7 @@
           "kb": 0
         },
         {
-          "host": "analytics-ipv6.tiktokw.us",
+          "host": "bundler.nice-team.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -1670,224 +908,41 @@
           "eigen": false,
           "anfragen": 1,
           "kb": 0
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
         }
       ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 34,
+      "fremde_hosts": 18,
+      "fremde_anfragen": 42,
       "fremde_kb": 702,
-      "bild": "bilder/cart-mobil.jpg",
-      "bild_kb": 86
-    },
-    {
-      "geraet": "desktop",
-      "url": "https://www.homeeins.de/cart",
-      "status": 200,
-      "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 360,
-      "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1100,
-      "dom_knoten": 889,
-      "bilder_gesamt": 1,
-      "bilder_ohne_alt": 0,
-      "h1_anzahl": 2,
-      "formulare": 5,
-      "seitenhoehe": 900,
-      "waagerecht_scrollbar": false,
-      "anfragen": 328,
-      "gewicht_kb": 2681,
-      "nach_typ_kb": {
-        "script": 1497,
-        "other": 895,
-        "font": 200,
-        "document": 40,
-        "stylesheet": 39,
-        "image": 9,
-        "fetch": 1,
-        "xhr": 0,
-        "ping": 0
-      },
-      "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=3174564e-096f-44ae-9817-ee9c73e3d28c&target_origin=https%3A%2F%2Fw"
-      ],
-      "nach_host": [
-        {
-          "host": "www.homeeins.de",
-          "eigen": true,
-          "anfragen": 180,
-          "kb": 1285
-        },
-        {
-          "host": "cdn.shopify.com",
-          "eigen": true,
-          "anfragen": 91,
-          "kb": 653
-        },
-        {
-          "host": "otlp-http-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 13,
-          "kb": 0
-        },
-        {
-          "host": "monorail-edge.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 7,
-          "kb": 0
-        },
-        {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 5,
-          "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 45
-        },
-        {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 0
-        },
-        {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "connect.facebook.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 172
-        },
-        {
-          "host": "analytics.google.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn-bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 1
-        },
-        {
-          "host": "s3-us-west-2.amazonaws.com",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
-          "host": "cdn.ywxi.net",
-          "eigen": false,
-          "anfragen": 2,
-          "kb": 7
-        },
-        {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.google.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        }
-      ],
-      "fremde_hosts": 19,
-      "fremde_anfragen": 34,
-      "fremde_kb": 743,
-      "bild": "bilder/cart-desktop.jpg",
-      "bild_kb": 53
+      "bild": "bilder/collections-hunde-desktop.jpg",
+      "bild_kb": 378
     },
     {
       "geraet": "mobil",
-      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 456,
+      "ms_bis_erste_anzeige": 832,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1400,
-      "dom_knoten": 1515,
-      "bilder_gesamt": 29,
-      "bilder_ohne_alt": 9,
+      "ms_bis_fertig": 1941,
+      "dom_knoten": 1509,
+      "bilder_gesamt": 25,
+      "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
-      "seitenhoehe": 5646,
+      "seitenhoehe": 6297,
       "waagerecht_scrollbar": false,
-      "anfragen": 384,
-      "gewicht_kb": 2988,
+      "anfragen": 422,
+      "gewicht_kb": 3216,
       "nach_typ_kb": {
-        "script": 1544,
-        "other": 899,
-        "image": 220,
+        "script": 1548,
+        "other": 958,
+        "image": 385,
         "font": 212,
         "stylesheet": 60,
         "document": 51,
@@ -1896,20 +951,20 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=112ebb44-ba19-4b36-a959-46cbc20ddd45&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=11f763a6-b9dc-43a6-a44c-a164798e9894&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 205,
-          "kb": 1468
+          "anfragen": 231,
+          "kb": 1646
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 113,
-          "kb": 776
+          "anfragen": 116,
+          "kb": 825
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -1920,13 +975,19 @@
         {
           "host": "monorail-edge.shopifysvc.com",
           "eigen": true,
-          "anfragen": 11,
+          "anfragen": 12,
           "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
         },
         {
           "host": "shop.app",
           "eigen": false,
-          "anfragen": 8,
+          "anfragen": 7,
           "kb": 0
         },
         {
@@ -1936,16 +997,22 @@
           "kb": 0
         },
         {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 4,
-          "kb": 45
-        },
-        {
           "host": "www.googletagmanager.com",
           "eigen": false,
           "anfragen": 3,
           "kb": 513
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 0
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
         },
         {
           "host": "cdnwidget.judge.me",
@@ -1954,12 +1021,6 @@
           "kb": 0
         },
         {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
           "host": "connect.facebook.net",
           "eigen": false,
           "anfragen": 2,
@@ -1984,14 +1045,14 @@
           "kb": 7
         },
         {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
           "anfragen": 1,
           "kb": 0
         },
@@ -2003,6 +1064,18 @@
         },
         {
           "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2020,25 +1093,13 @@
           "kb": 0
         },
         {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics-ipv6.tiktokw.us",
+          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
           "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2051,32 +1112,32 @@
         }
       ],
       "fremde_hosts": 19,
-      "fremde_anfragen": 39,
+      "fremde_anfragen": 46,
       "fremde_kb": 743,
-      "bild": "bilder/products-samt-sessel-design-armlehnen-holzbeine-mobil.jpg",
-      "bild_kb": 555
+      "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-mobil.jpg",
+      "bild_kb": 689
     },
     {
       "geraet": "desktop",
-      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 616,
+      "ms_bis_erste_anzeige": 416,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1409,
-      "dom_knoten": 1516,
-      "bilder_gesamt": 29,
-      "bilder_ohne_alt": 9,
+      "ms_bis_fertig": 1598,
+      "dom_knoten": 1521,
+      "bilder_gesamt": 25,
+      "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
-      "seitenhoehe": 5372,
+      "seitenhoehe": 6082,
       "waagerecht_scrollbar": false,
-      "anfragen": 396,
-      "gewicht_kb": 3483,
+      "anfragen": 439,
+      "gewicht_kb": 3611,
       "nach_typ_kb": {
-        "script": 1545,
-        "other": 899,
-        "image": 714,
+        "script": 1506,
+        "other": 963,
+        "image": 817,
         "font": 212,
         "stylesheet": 60,
         "document": 51,
@@ -2085,20 +1146,20 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=580df2f8-7571-48a4-b082-b2a9265f33ba&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=e7845637-43ca-4da4-9057-c1a74848dafb&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 214,
-          "kb": 1961
+          "anfragen": 250,
+          "kb": 2083
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 114,
-          "kb": 777
+          "anfragen": 115,
+          "kb": 824
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -2113,16 +1174,205 @@
           "kb": 0
         },
         {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
+        },
+        {
           "host": "shop.app",
           "eigen": false,
-          "anfragen": 8,
+          "anfragen": 6,
+          "kb": 0
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 4,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 472
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdnwidget.judge.me",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 45,
+      "fremde_kb": 702,
+      "bild": "bilder/products-hundesofa-samt-erhoeht-xxl-desktop.jpg",
+      "bild_kb": 444
+    },
+    {
+      "geraet": "mobil",
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 528,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1521,
+      "dom_knoten": 1400,
+      "bilder_gesamt": 11,
+      "bilder_ohne_alt": 0,
+      "h1_anzahl": 1,
+      "formulare": 6,
+      "seitenhoehe": 4065,
+      "waagerecht_scrollbar": false,
+      "anfragen": 431,
+      "gewicht_kb": 3097,
+      "nach_typ_kb": {
+        "script": 1544,
+        "other": 986,
+        "image": 244,
+        "font": 212,
+        "stylesheet": 60,
+        "document": 49,
+        "fetch": 2,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=18136e73-d76a-4377-8462-87905a82ad9f&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 246,
+          "kb": 1623
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 111,
+          "kb": 729
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 14,
+          "kb": 0
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 12,
           "kb": 0
         },
         {
           "host": "analytics.tiktok.com",
           "eigen": false,
-          "anfragen": 4,
+          "anfragen": 12,
           "kb": 45
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 6,
+          "kb": 0
         },
         {
           "host": "ct.pinterest.com",
@@ -2137,6 +1387,12 @@
           "kb": 513
         },
         {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
           "host": "cdnwidget.judge.me",
           "eigen": false,
           "anfragen": 2,
@@ -2145,6 +1401,189 @@
         {
           "host": "error-analytics-sessions-production.shopifysvc.com",
           "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 45,
+      "fremde_kb": 743,
+      "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-mobil.jpg",
+      "bild_kb": 434
+    },
+    {
+      "geraet": "desktop",
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 440,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1609,
+      "dom_knoten": 1400,
+      "bilder_gesamt": 11,
+      "bilder_ohne_alt": 0,
+      "h1_anzahl": 1,
+      "formulare": 6,
+      "seitenhoehe": 3844,
+      "waagerecht_scrollbar": false,
+      "anfragen": 442,
+      "gewicht_kb": 3517,
+      "nach_typ_kb": {
+        "script": 1549,
+        "other": 986,
+        "image": 660,
+        "font": 212,
+        "stylesheet": 60,
+        "document": 49,
+        "fetch": 2,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=dcb55bfc-6cbd-4833-aca6-07107978f893&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 250,
+          "kb": 2040
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 113,
+          "kb": 733
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 17,
+          "kb": 0
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 12,
+          "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 8,
+          "kb": 0
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 4,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 513
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdnwidget.judge.me",
+          "eigen": false,
           "anfragen": 2,
           "kb": 0
         },
@@ -2179,14 +1618,14 @@
           "kb": 0
         },
         {
-          "host": "analytics.google.com",
-          "eigen": false,
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
+          "host": "analytics.google.com",
+          "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
@@ -2240,54 +1679,432 @@
         }
       ],
       "fremde_hosts": 19,
-      "fremde_anfragen": 39,
+      "fremde_anfragen": 47,
       "fremde_kb": 743,
-      "bild": "bilder/products-samt-sessel-design-armlehnen-holzbeine-desktop.jpg",
-      "bild_kb": 409
+      "bild": "bilder/products-sitzbank-stauraum-gepolstert-klappbar-desktop.jpg",
+      "bild_kb": 303
     },
     {
       "geraet": "mobil",
-      "url": "https://www.homeeins.de/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+      "url": "https://www.homeeins.de/cart",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 672,
+      "ms_bis_erste_anzeige": 472,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1478,
-      "dom_knoten": 1376,
-      "bilder_gesamt": 13,
+      "ms_bis_fertig": 1317,
+      "dom_knoten": 935,
+      "bilder_gesamt": 1,
       "bilder_ohne_alt": 0,
-      "h1_anzahl": 1,
-      "formulare": 6,
-      "seitenhoehe": 4389,
+      "h1_anzahl": 2,
+      "formulare": 5,
+      "seitenhoehe": 1077,
       "waagerecht_scrollbar": false,
-      "anfragen": 377,
-      "gewicht_kb": 3077,
+      "anfragen": 381,
+      "gewicht_kb": 2772,
       "nach_typ_kb": {
-        "script": 1544,
-        "other": 896,
-        "image": 315,
-        "font": 212,
-        "stylesheet": 60,
-        "document": 49,
-        "fetch": 2,
+        "script": 1496,
+        "other": 986,
+        "font": 200,
+        "document": 40,
+        "stylesheet": 39,
+        "image": 11,
+        "fetch": 0,
         "xhr": 0,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=a0984003-0f14-4b33-a9da-f7b55465055f&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=59cd7e66-566c-402d-adc6-7ad4febb406d&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 202,
-          "kb": 1625
+          "anfragen": 227,
+          "kb": 1355
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 110,
-          "kb": 707
+          "anfragen": 91,
+          "kb": 673
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 11,
+          "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 10,
+          "kb": 45
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 8,
+          "kb": 0
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 5,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 513
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 0
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 41,
+      "fremde_kb": 743,
+      "bild": "bilder/cart-mobil.jpg",
+      "bild_kb": 86
+    },
+    {
+      "geraet": "desktop",
+      "url": "https://www.homeeins.de/cart",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 476,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1329,
+      "dom_knoten": 936,
+      "bilder_gesamt": 1,
+      "bilder_ohne_alt": 0,
+      "h1_anzahl": 2,
+      "formulare": 5,
+      "seitenhoehe": 900,
+      "waagerecht_scrollbar": false,
+      "anfragen": 384,
+      "gewicht_kb": 2773,
+      "nach_typ_kb": {
+        "script": 1498,
+        "other": 986,
+        "font": 200,
+        "document": 41,
+        "stylesheet": 39,
+        "image": 9,
+        "fetch": 1,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=60f5dff4-12a6-4094-a36d-db1adde0fbd2&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 229,
+          "kb": 1356
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 91,
+          "kb": 673
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 12,
+          "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 10,
+          "kb": 45
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 8,
+          "kb": 0
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 5,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 513
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 0
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 41,
+      "fremde_kb": 743,
+      "bild": "bilder/cart-desktop.jpg",
+      "bild_kb": 53
+    },
+    {
+      "geraet": "mobil",
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 512,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1625,
+      "dom_knoten": 1546,
+      "bilder_gesamt": 29,
+      "bilder_ohne_alt": 9,
+      "h1_anzahl": 1,
+      "formulare": 6,
+      "seitenhoehe": 5646,
+      "waagerecht_scrollbar": false,
+      "anfragen": 429,
+      "gewicht_kb": 3053,
+      "nach_typ_kb": {
+        "script": 1548,
+        "other": 960,
+        "image": 220,
+        "font": 212,
+        "stylesheet": 60,
+        "document": 51,
+        "fetch": 2,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=b66155c8-3fff-4845-a41f-70ac3632c8c0&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 236,
+          "kb": 1530
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 114,
+          "kb": 778
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -2302,28 +2119,28 @@
           "kb": 0
         },
         {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
+        },
+        {
           "host": "shop.app",
           "eigen": false,
-          "anfragen": 7,
+          "anfragen": 8,
           "kb": 0
         },
         {
-          "host": "analytics.tiktok.com",
+          "host": "www.googletagmanager.com",
           "eigen": false,
           "anfragen": 4,
-          "kb": 45
+          "kb": 513
         },
         {
           "host": "ct.pinterest.com",
           "eigen": false,
           "anfragen": 4,
           "kb": 0
-        },
-        {
-          "host": "www.googletagmanager.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 513
         },
         {
           "host": "cdnwidget.judge.me",
@@ -2386,13 +2203,7 @@
           "kb": 0
         },
         {
-          "host": "cdn.trustedsite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 5
-        },
-        {
-          "host": "metashop.dolphinsuite.com",
+          "host": "analytics-ipv6.tiktokw.us",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2404,7 +2215,202 @@
           "kb": 0
         },
         {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 48,
+      "fremde_kb": 743,
+      "bild": "bilder/products-samt-sessel-design-armlehnen-holzbeine-mobil.jpg",
+      "bild_kb": 555
+    },
+    {
+      "geraet": "desktop",
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 556,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1647,
+      "dom_knoten": 1558,
+      "bilder_gesamt": 29,
+      "bilder_ohne_alt": 9,
+      "h1_anzahl": 1,
+      "formulare": 6,
+      "seitenhoehe": 5372,
+      "waagerecht_scrollbar": false,
+      "anfragen": 445,
+      "gewicht_kb": 3571,
+      "nach_typ_kb": {
+        "script": 1548,
+        "other": 984,
+        "image": 714,
+        "font": 212,
+        "stylesheet": 60,
+        "document": 51,
+        "fetch": 2,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=a0c51c2a-f089-46f5-8292-0aebec424976&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 255,
+          "kb": 2027
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 116,
+          "kb": 801
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 14,
+          "kb": 0
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 12,
+          "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 43
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 6,
+          "kb": 0
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 4,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 513
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdnwidget.judge.me",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2429,7 +2435,196 @@
         }
       ],
       "fremde_hosts": 19,
-      "fremde_anfragen": 38,
+      "fremde_anfragen": 45,
+      "fremde_kb": 741,
+      "bild": "bilder/products-samt-sessel-design-armlehnen-holzbeine-desktop.jpg",
+      "bild_kb": 409
+    },
+    {
+      "geraet": "mobil",
+      "url": "https://www.homeeins.de/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+      "status": 200,
+      "cookie_dialog": "nicht gefunden",
+      "ms_bis_erste_anzeige": 584,
+      "ms_bis_groesstes_element": 0,
+      "ms_bis_fertig": 1688,
+      "dom_knoten": 1408,
+      "bilder_gesamt": 13,
+      "bilder_ohne_alt": 0,
+      "h1_anzahl": 1,
+      "formulare": 6,
+      "seitenhoehe": 4389,
+      "waagerecht_scrollbar": false,
+      "anfragen": 418,
+      "gewicht_kb": 3144,
+      "nach_typ_kb": {
+        "script": 1547,
+        "other": 960,
+        "image": 315,
+        "font": 212,
+        "stylesheet": 60,
+        "document": 49,
+        "fetch": 2,
+        "xhr": 0,
+        "ping": 0
+      },
+      "fehlerhafte_anfragen": [
+        "https://shop.app/pay/hop?analytics_trace_id=fb27f6f9-b487-4f18-9f96-98be9089c845&target_origin=https%3A%2F%2Fw"
+      ],
+      "nach_host": [
+        {
+          "host": "www.homeeins.de",
+          "eigen": true,
+          "anfragen": 232,
+          "kb": 1689
+        },
+        {
+          "host": "cdn.shopify.com",
+          "eigen": true,
+          "anfragen": 111,
+          "kb": 710
+        },
+        {
+          "host": "otlp-http-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 13,
+          "kb": 0
+        },
+        {
+          "host": "monorail-edge.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 12,
+          "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 12,
+          "kb": 45
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 8,
+          "kb": 0
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 4,
+          "kb": 0
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 513
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdnwidget.judge.me",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "connect.facebook.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 172
+        },
+        {
+          "host": "cdn-bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 1
+        },
+        {
+          "host": "s3-us-west-2.amazonaws.com",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 0
+        },
+        {
+          "host": "cdn.ywxi.net",
+          "eigen": false,
+          "anfragen": 2,
+          "kb": 7
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics.google.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "cdn.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 5
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.trustedsite.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        }
+      ],
+      "fremde_hosts": 19,
+      "fremde_anfragen": 47,
       "fremde_kb": 743,
       "bild": "bilder/products-led-taschenlampe-aufladbar-zoom-warnlicht-mobil.jpg",
       "bild_kb": 483
@@ -2439,44 +2634,44 @@
       "url": "https://www.homeeins.de/products/led-taschenlampe-aufladbar-zoom-warnlicht",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 436,
+      "ms_bis_erste_anzeige": 672,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1402,
-      "dom_knoten": 1376,
+      "ms_bis_fertig": 1744,
+      "dom_knoten": 1423,
       "bilder_gesamt": 13,
       "bilder_ohne_alt": 0,
       "h1_anzahl": 1,
       "formulare": 6,
       "seitenhoehe": 4188,
       "waagerecht_scrollbar": false,
-      "anfragen": 386,
-      "gewicht_kb": 3409,
+      "anfragen": 444,
+      "gewicht_kb": 3501,
       "nach_typ_kb": {
-        "script": 1545,
-        "other": 895,
+        "script": 1546,
+        "other": 986,
         "image": 646,
         "font": 212,
         "stylesheet": 60,
-        "document": 49,
+        "document": 50,
         "fetch": 2,
         "xhr": 0,
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=97e12d5a-843a-441c-81e3-6c5cf10f8301&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=cd086c52-dd94-40b1-b2c7-e4069c2c3ceb&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 206,
-          "kb": 1957
+          "anfragen": 257,
+          "kb": 2027
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 110,
-          "kb": 707
+          "anfragen": 111,
+          "kb": 729
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
@@ -2491,16 +2686,16 @@
           "kb": 0
         },
         {
-          "host": "shop.app",
-          "eigen": false,
-          "anfragen": 8,
-          "kb": 0
-        },
-        {
           "host": "analytics.tiktok.com",
           "eigen": false,
-          "anfragen": 4,
+          "anfragen": 12,
           "kb": 45
+        },
+        {
+          "host": "shop.app",
+          "eigen": false,
+          "anfragen": 6,
+          "kb": 0
         },
         {
           "host": "ct.pinterest.com",
@@ -2521,16 +2716,16 @@
           "kb": 0
         },
         {
-          "host": "error-analytics-sessions-production.shopifysvc.com",
-          "eigen": true,
-          "anfragen": 2,
-          "kb": 0
-        },
-        {
           "host": "connect.facebook.net",
           "eigen": false,
           "anfragen": 2,
           "kb": 172
+        },
+        {
+          "host": "error-analytics-sessions-production.shopifysvc.com",
+          "eigen": true,
+          "anfragen": 2,
+          "kb": 0
         },
         {
           "host": "cdn-bundler.nice-team.net",
@@ -2551,6 +2746,12 @@
           "kb": 7
         },
         {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "forms.shopifyapps.com",
           "eigen": true,
           "anfragen": 1,
@@ -2569,13 +2770,13 @@
           "kb": 0
         },
         {
-          "host": "www.merchant-center-analytics.goog",
+          "host": "analytics-ipv6.tiktokw.us",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "analytics-ipv6.tiktokw.us",
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2593,19 +2794,13 @@
           "kb": 5
         },
         {
-          "host": "metashop.dolphinsuite.com",
+          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
           "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -2618,7 +2813,7 @@
         }
       ],
       "fremde_hosts": 19,
-      "fremde_anfragen": 39,
+      "fremde_anfragen": 45,
       "fremde_kb": 743,
       "bild": "bilder/products-led-taschenlampe-aufladbar-zoom-warnlicht-desktop.jpg",
       "bild_kb": 372

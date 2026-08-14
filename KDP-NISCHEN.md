@@ -8,14 +8,14 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| geld in der partnerschaft | www.amazon.de | – | – | – | 2 | 14.99 | 1/10 | 5/10 | 0/10 |
-| finanzen als paar | www.amazon.de | – | – | – | 35 | 13.84 | 1/10 | 4/10 | 0/10 |
-| gemeinsame finanzen paar | www.amazon.de | – | – | – | 35 | 11.53 | 2/10 | 5/10 | 0/10 |
-| geld und beziehung | www.amazon.de | – | – | – | 76 | 13.83 | 0/10 | 4/10 | 0/10 |
-| streit ums geld beziehung | www.amazon.de | – | – | – | 3 | 8.07 | 4/10 | 5/10 | 0/10 |
-| finanzielle unabhängigkeit frauen | www.amazon.de | – | – | – | 30 | 18.45 | 2/10 | 1/10 | 0/10 |
-| haushaltsbuch paare | www.amazon.de | – | – | – | 7 | 3.45 | 1/10 | 9/10 | 0/10 |
-| milliardär liebesroman | www.amazon.de | – | – | – | 56 | – | 0/10 | 10/10 | 0/10 |
+| milliardär liebesroman | www.amazon.de | 902 | 82 | 307.66 | 56 | – | 0/10 | 10/10 | 0/10 |
+| billionaire romance deutsch | www.amazon.de | 428 | 20 | 579.79 | 403 | 9.99 | 1/10 | 9/10 | 0/10 |
+| ceo liebesroman | www.amazon.de | 1068 | 237 | 266.51 | 1056 | – | 0/10 | 10/10 | 0/10 |
+| chef und angestellte liebesroman | www.amazon.de | 14856 | 14522 | 28.44 | 82 | 4.99 | 1/10 | 9/10 | 0/10 |
+| scheinehe liebesroman | www.amazon.de | 15333 | 792 | 27.68 | 105 | – | 0/10 | 10/10 | 0/10 |
+| geheimes baby liebesroman | www.amazon.de | 671 | 119 | 395.63 | 43 | – | 0/10 | 10/10 | 0/10 |
+| enemies to lovers deutsch | www.amazon.de | 1385 | 157 | 213.68 | 1051 | 14.99 | 0/10 | 8/10 | 0/10 |
+| milliardärsboss liebesroman | www.amazon.de | 32050 | 11710 | 14.79 | 114 | 2.99 | 1/10 | 9/10 | 0/10 |
 
 ## Wie zu lesen
 
