@@ -92,7 +92,14 @@ Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
 `SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`, `DESIGN.md`,
-`UMBAU.md`, `DIGITAL.md`.
+`UMBAU.md`, `DIGITAL.md`, `ROMANCE.md`, `KDP-NISCHEN.md`.
+
+`ROMANCE.md` — Titelmuster für KDP-Romance, abgeleitet aus **60 echten
+amazon.de-Titeln mit Rängen**, nicht aus Blogartikeln. Kernbefund: Die
+erfolgreichen Selfpublisher-Titel sind **Reihen** nach dem Muster
+„Die [Nachname]-Brüder", und die Spitzenränge stehen bei Band 3 bis 8,
+nicht bei Band 1. Das passt zur KU-Dominanz aus `KDP-NISCHEN.md`: Im
+Abonnement wird gebingt. Ein Einzelroman ist dort kein Plan.
 
 `GELDVERDIENEN.md` — **vor jeder Sortiments- oder Strategiefrage zuerst
 hier lesen.** Enthält den am 14.08.2026 erstmals abgefragten Befund aus den
