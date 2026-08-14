@@ -8,14 +8,25 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| milliardär liebesroman | www.amazon.de | 902 | 82 | 307.66 | 56 | – | 0/10 | 10/10 | 0/10 |
-| billionaire romance deutsch | www.amazon.de | 428 | 20 | 579.79 | 403 | 9.99 | 1/10 | 9/10 | 0/10 |
-| ceo liebesroman | www.amazon.de | 1068 | 237 | 266.51 | 1056 | – | 0/10 | 10/10 | 0/10 |
-| chef und angestellte liebesroman | www.amazon.de | 14856 | 14522 | 28.44 | 82 | 4.99 | 1/10 | 9/10 | 0/10 |
-| scheinehe liebesroman | www.amazon.de | 15333 | 792 | 27.68 | 105 | – | 0/10 | 10/10 | 0/10 |
-| geheimes baby liebesroman | www.amazon.de | 671 | 119 | 395.63 | 43 | – | 0/10 | 10/10 | 0/10 |
-| enemies to lovers deutsch | www.amazon.de | 1385 | 157 | 213.68 | 1051 | 14.99 | 0/10 | 8/10 | 0/10 |
-| milliardärsboss liebesroman | www.amazon.de | 32050 | 11710 | 14.79 | 114 | 2.99 | 1/10 | 9/10 | 0/10 |
+| secret baby romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| billionaire romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| ceo romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| boss employee romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| fake marriage romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| enemies to lovers romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| arranged marriage romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| billionaire boss romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+
+## Fehlgeschlagen
+
+- **secret baby romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **billionaire romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **ceo romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **boss employee romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **fake marriage romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **enemies to lovers romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **arranged marriage romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+- **billionaire boss romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
 
 ## Wie zu lesen
 
