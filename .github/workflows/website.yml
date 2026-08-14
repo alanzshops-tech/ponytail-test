@@ -18,6 +18,14 @@ on:
         description: "Zusätzlich strukturierte Daten (JSON-LD) prüfen, Leerzeichen-getrennt (leer = überspringen)"
         required: false
         default: ""
+      bild_urls:
+        description: "Bild-URLs herunterladen, Leerzeichen-getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      bild_ordner:
+        description: "Zielordner für bild_urls, unter bilder/"
+        required: false
+        default: "bilder/heruntergeladen"
   # Montags 07:00 UTC, nach dem Search-Console-Bericht.
 permissions:
   contents: write
@@ -42,6 +50,18 @@ jobs:
 
       - name: Fotografieren und messen
         run: python3 scripts/webcheck.py --urls urls-shop.txt
+
+      # Rein zum Herunterladen -- die Arbeitsumgebung erreicht
+      # cdn.shopify.com nicht, der Runner schon.
+      - name: Bilder herunterladen
+        if: inputs.bild_urls != ''
+        continue-on-error: true
+        env:
+          BILD_URLS: ${{ inputs.bild_urls }}
+          BILD_ORDNER: ${{ inputs.bild_ordner }}
+        run: |
+          pip install --quiet requests
+          python3 scripts/bilder_holen.py --urls $BILD_URLS --ordner "$BILD_ORDNER"
 
       # Eigener, optionaler Schritt: prueft echten Tap-Zoom auf dem Handy,
       # nicht nur ob die Seite laedt. Siehe PRODUKTBILDER.md.
