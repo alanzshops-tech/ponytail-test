@@ -145,8 +145,15 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
           if (m) bewText = m[1];
         }
         const sterne = k.querySelector('[aria-label*="von 5"], [aria-label*="out of 5"]');
-        const gesponsert = !!k.querySelector('[aria-label*="Gesponsert"], [aria-label*="Sponsored"]')
-          || /Gesponsert|Sponsored/.test(k.textContent.slice(0, 400));
+        // Amazon markiert bezahlte Treffer unterschiedlich: mal per
+        // aria-label, mal als eigenes Element, mal nur als Text. Der
+        // vorige Selektor sah nur die ersten 400 Zeichen und traf nie --
+        // alle sechs Nischen meldeten exakt 0, was kein Befund sein kann.
+        const gesponsert =
+          !!k.querySelector('[aria-label*="Gesponsert"], [aria-label*="Sponsored"], '
+            + '[data-component-type="sp-sponsored-result"], .puis-sponsored-label-text, '
+            + 's-sponsored-label-info-icon, .s-sponsored-label-text')
+          || /\bGesponsert\b|\bSponsored\b/.test(k.textContent);
         raus.push({
           asin,
           titel: t ? t.textContent.trim() : '',
@@ -326,6 +333,20 @@ def main() -> None:
                         "AppleWebKit/537.36 (KHTML, like Gecko) "
                         "Chrome/124.0.0.0 Safari/537.36"))
         seite = ctx.new_page()
+
+        # Aufwaermen: Beim Lauf vom 14.08.2026 scheiterten zweimal
+        # ausgerechnet die ERSTEN Begriffe -- die Sitzung hatte noch keine
+        # Cookies, und die Consent-Abfrage verdeckte die Trefferliste. Ein
+        # Besuch der Startseite vorweg setzt sie, bevor gemessen wird.
+        try:
+            seite.goto(f"https://{markt['host']}/",
+                       wait_until="domcontentloaded", timeout=45000)
+            seite.wait_for_timeout(2000)
+            print(f"Aufwaermen: Consent {consent_wegklicken(seite)}", flush=True)
+            seite.wait_for_timeout(1500)
+        except Exception as e:
+            print(f"Aufwaermen fehlgeschlagen: {str(e)[:120]}", flush=True)
+
         for begriff in a_arg.begriffe:
             print(f"messe: {begriff} ({markt['host']}) ...", flush=True)
             ergebnisse.append(eine_nische(seite, markt, begriff, a_arg.titel,
