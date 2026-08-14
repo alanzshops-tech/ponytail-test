@@ -4,7 +4,7 @@ Stand: 2026-08-14
 
 Shopifys eigener Linter für Liquid, gelaufen über `theme/arbeitskopie`. Prüft, was kein Screenshot zeigt: ungültige Schemata, fehlende Übersetzungen, veraltete Filter, tote Snippets, teure Schleifen.
 
-356 Dateien im Theme, **12 Befunde**.
+357 Dateien im Theme, **12 Befunde**.
 
 | Schwere | Anzahl |
 |---|---:|
