@@ -76,6 +76,26 @@ Dafür braucht der Runner einen **Theme-Access-Token**:
 Den Token selbst brauche ich nie zu sehen — er liegt im Tresor von
 GitHub, der Runner holt ihn sich.
 
+### Admin-API-Token für die Bestandsautomatik
+
+`scripts/bestandsautomatik.py` (14.08.2026) setzt ausverkaufte Produkte
+morgens automatisch auf Entwurf und reaktiviert sie, sobald wieder
+Bestand da ist — dafür reicht der Theme-Token nicht, das ist eine
+andere Schnittstelle. Gebraucht wird ein **Admin-API-Zugriffstoken**:
+
+1. Shopify-Adminbereich → *Einstellungen → Apps und Vertriebskanäle →
+   Apps entwickeln* → **App entwickeln** (falls noch keine eigene App
+   existiert, sonst eine bestehende nutzen)
+2. Reiter *Konfiguration* → Admin-API-Zugriffsbereiche: mindestens
+   `read_products`, `write_products`, `read_inventory` anhaken
+3. App installieren, dann unter *API-Anmeldedaten* das
+   **Admin-API-Zugriffstoken** anzeigen lassen (beginnt mit `shpat_`)
+4. In GitHub unter *Settings → Secrets and variables → Actions →
+   New repository secret* als **`SHOPIFY_ADMIN_API_TOKEN`** hinterlegen
+
+Auch dieser Token bleibt im GitHub-Tresor — ich bekomme ihn nie zu
+sehen, nur der Runner liest ihn zur Laufzeit.
+
 ## Was ich nicht bauen werde
 
 Keine erfundene Verknappung, keine ablaufenden Zähler, keine „17 Leute

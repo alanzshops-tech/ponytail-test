@@ -149,6 +149,10 @@ Beide sind lesend und brauchen keine Ladenzugangsdaten.
 - **`SHOPIFY_CLI_THEME_TOKEN` fehlt.** Ohne ihn kein `shopify theme
   pull/push`, kein `theme check`, keine echte Versionsverwaltung des
   Themes. Anleitung in `WERKZEUGE.md`.
+- **`SHOPIFY_ADMIN_API_TOKEN` fehlt.** Ohne ihn läuft
+  `scripts/bestandsautomatik.py` (täglich 06:00 UTC) nicht — schreibt
+  nur eine Erklärung in `BESTANDSAUTOMATIK.md`, statt rot zu werden.
+  Anleitung in `WERKZEUGE.md`.
 - **Judge.me war die Quelle erfundener Bewertungen** (Sterne-Metafelder
   gelöscht, App lieferte weiter `aggregateRating`) — am 13.08.2026
   deaktiviert, live geprüft: keine Sterne mehr. Offener Rest: Der
