@@ -119,9 +119,27 @@ Age Gap.
 
 ## 5. Titelvorschläge nach diesem Muster
 
-Gebaut aus der gemessenen Formel, **nicht** aus einem vorhandenen Buch.
-Die Nische „chef und angestellte" war im Messlauf die am wenigsten
-besetzte (Bewertungen der Spitzentitel: 2, 25, 139, 858).
+> **Korrigiert am 14.08.2026 nach dem dritten Messlauf.** Die erste
+> Fassung setzte auf „chef und angestellte", weil diese Nische im
+> zweiten Lauf am offensten wirkte. In jenem Lauf waren aber ausgerechnet
+> die Kernbegriffe „milliardär liebesroman" und „billionaire romance
+> deutsch" am Abruf gescheitert. Vollständig gemessen hat „chef und
+> angestellte" **rund 20-mal weniger Nachfrage** als die beiden echten
+> Sieger. Die alte Empfehlung war auf Sand gebaut.
+
+Die gemessene Rangfolge (Details in `KDP-NISCHEN.md`):
+
+| Nische | BSR Median | Bewertungen | |
+|---|---:|---:|---|
+| **geheimes baby liebesroman** | **671** | **43** | Nachfrage, niemand sitzt fest |
+| **milliardär liebesroman** | **902** | **56** | Nachfrage, niemand sitzt fest |
+| ceo liebesroman | 1.068 | 1.056 | Nachfrage, aber besetzt |
+| enemies to lovers | 1.385 | 1.051 | Nachfrage, aber besetzt |
+| chef und angestellte | 14.856 | 82 | offen, aber kaum Nachfrage |
+
+Die Lücke liegt eindeutig bei **Geheimes Baby** und **Milliardär** —
+starke Nachfrage bei Spitzentiteln mit nur 43 bzw. 56 Bewertungen. Beide
+liegen zu **10/10 in Kindle Unlimited**, was die Reihenlogik bestätigt.
 
 **Reihenname** — Vorschlag: *Die Reinhardt-Brüder* oder
 *Die Falkenberg-Brüder*. Deutscher Nachname mit Klang, vier bis sechs
@@ -129,13 +147,19 @@ Brüder, jeder bekommt einen Band.
 
 | Band | Titelvorschlag | Trope |
 |---|---|---|
-| 1 | **Vertraglich mein: Ein CEO-Liebesroman mit Scheinehe** (Die Reinhardt-Brüder 1) | Fake Marriage + CEO |
-| 2 | **Zwischen uns nur Akten: Ein Chef-und-Angestellte-Liebesroman** (Die Reinhardt-Brüder 2) | Office + Forbidden |
+| 1 | **Sein bestgehütetes Geheimnis: Ein Geheimes-Baby-Milliardär-Liebesroman** (Die Reinhardt-Brüder 1) | Secret Baby + Milliardär |
+| 2 | **Vertraglich mein: Ein Milliardär-Liebesroman mit Scheinehe** (Die Reinhardt-Brüder 2) | Fake Marriage |
 | 3 | **Was du mir schuldest: Ein Enemies-to-Lovers-Milliardär-Liebesroman** (Die Reinhardt-Brüder 3) | Enemies to Lovers |
-| 4 | **Sein bestgehütetes Geheimnis: Ein Geheimes-Baby-Liebesroman** (Die Reinhardt-Brüder 4) | Secret Baby |
+| 4 | **Zwischen uns nur Akten: Ein Chef-und-Angestellte-Liebesroman** (Die Reinhardt-Brüder 4) | Office |
 
-Band 3 ist bewusst der Enemies-to-Lovers-Band — in den Daten war das die
-Position mit den besten Rängen.
+Geändert gegenüber der ersten Fassung: **Geheimes Baby ist von Band 4 auf
+Band 1 gerückt** — das ist die stärkste gemessene Nische und gehört an
+den Einstieg, wo neue Leser die Reihe finden. „Chef und angestellte"
+rutscht auf Band 4, weil die Nachfrage dort schwach ist; als Teil einer
+laufenden Reihe trägt der Band trotzdem, weil KU-Leser durchlesen.
+
+**Milliardär gehört in jeden Untertitel**, unabhängig vom Haupt-Trope —
+es ist der zweitstärkste Suchbegriff und kostet nur Zeichen.
 
 ---
 
