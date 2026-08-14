@@ -12,22 +12,467 @@
   {
     "begriff": "chef und angestellte liebesroman",
     "markt": "www.amazon.de",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0GHZQ5WL1",
+        "titel": "Cupido, bloß nicht mein Chef: Kurze Liebesromane für vielbeschäftigte Frauen (Cupido, der Chaosstifte 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 139,
+        "sterne": 4.4,
+        "bsr": 14522
+      },
+      {
+        "asin": "B0HCZB5FFG",
+        "titel": "Gebunden an den Alpha in Verkleidung: Ein Geheimes Baby – Verborgene Identität, Erzwungene Nähe, Chef & Angestellte Shifter-Romance (Erzwungene abgelehnte Gefährten)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 14856
+      },
+      {
+        "asin": "B0F499263W",
+        "titel": "Der fiese Chef krallt sich seine Angestellte (Freche Feministinnen werden erzogen)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 25,
+        "sterne": 3.1,
+        "bsr": null
+      },
+      {
+        "asin": "B0G2JHVRZW",
+        "titel": "Dem Chef gefügig: Eine erotische Gay-Kurzgeschichte Boss & Angestellter & Age Gap",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2,
+        "sterne": 3.0,
+        "bsr": null
+      },
+      {
+        "asin": "B0F9NRH194",
+        "titel": "Überraschender Babyglück für den Chef (Alpha Milliardär)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 858,
+        "sterne": 4.1,
+        "bsr": 78185
+      },
+      {
+        "asin": "B0HC2HQM4W",
+        "titel": "Breaking All the Rules: Eiskalter CEO – und er fällt zuerst (Terms of Desire 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 55,
+        "sterne": 4.6
+      },
+      {
+        "asin": "B0DVLMNCWR",
+        "titel": "Redacted Desire: Eine lesbische Romanze mit Altersunterschied, Chef, Angestellte, verbotene lesbische/sapphische Romanze (The Forbidden Series 1)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 4.99,
+        "bewertungen": 115,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0CWFP9M7L",
+        "titel": "Das Dilemma des Chefs: Kurz und dampfig, OTT Office Age Gap Romance (Dilemmas des Herzens 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 33,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H6QTGVNZ",
+        "titel": "Im Besitz ihres Chefs",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 5,
+        "sterne": 3.5
+      },
+      {
+        "asin": "B0FXBYX37M",
+        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1706,
+        "sterne": 4.5
+      }
+    ],
+    "bsr_werte": [
+      14522,
+      14856,
+      78185
+    ],
+    "bsr_median": 14856,
+    "bsr_bester": 14522,
+    "verkaeufe_tag_geschaetzt": 28.44,
+    "bewertungen_median": 82,
+    "preis_median": 4.99,
+    "kindle_unlimited": 9,
+    "im_70_prozent_fenster": 1
   },
   {
     "begriff": "enemies to lovers deutsch",
     "markt": "www.amazon.de",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0F4KDKHJN",
+        "titel": "Silver Elite: Deutsche Ausgabe des TIKTOK-Hypes",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 14.99,
+        "bewertungen": 379,
+        "sterne": 4.7,
+        "bsr": 5513
+      },
+      {
+        "asin": "B0G51C4M6D",
+        "titel": "Hate to want you, Doc: Ein Enemies-to-Lovers-Doctor-Daddy-Liebesroman (From Rivals to Lovers 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1220,
+        "sterne": 4.3,
+        "bsr": 1936
+      },
+      {
+        "asin": "B0F4NRSCT4",
+        "titel": "Leave Me Behind: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 14.99,
+        "bewertungen": 2898,
+        "sterne": 4.4,
+        "bsr": 1385
+      },
+      {
+        "asin": "B0F4D6ZZ18",
+        "titel": "Where Good Girls go to Die (Good Girls 1): Ein emotionales Drama um eine verbotene Liebe!",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1051,
+        "sterne": 4.2,
+        "bsr": 359
+      },
+      {
+        "asin": "B0HCC4HZ4P",
+        "titel": "Gefährliche Nächte mit dem Miliardär: Ein Enemies To Lovers Romance (Die LeBlanc-Brüder 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 98,
+        "sterne": 4.4,
+        "bsr": 157
+      },
+      {
+        "asin": "B0H2D3G4G2",
+        "titel": "Her Secret Husband: Ein Enemies to Lovers - Liebesroman (Die Chester Street Milliardäre 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 817,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H6XCS85F",
+        "titel": "Five Week Wife: Ein Enemies to Lovers - Fake Marriage Liebesroman (Secret Desires 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 856,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0HCN4GK82",
+        "titel": "Legal Seduction: Ein Enemies-to-Lovers-Liebesroman (From Rivals to Lovers 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 46,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0H7FNDYDL",
+        "titel": "Loud Ruin: Ein Enemies to Lovers Liebesroman (Reife Beschützer 12)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 49,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0GKWWFZ7F",
+        "titel": "Drachenträgerin - Erbin der Flammen: Enemies to Lovers Fantasy Romance - Romantasy mit Drachen (Drachenträgerin Saga 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 267,
+        "sterne": 4.4
+      }
+    ],
+    "bsr_werte": [
+      5513,
+      1936,
+      1385,
+      359,
+      157
+    ],
+    "bsr_median": 1385,
+    "bsr_bester": 157,
+    "verkaeufe_tag_geschaetzt": 213.68,
+    "bewertungen_median": 1051,
+    "preis_median": 14.99,
+    "kindle_unlimited": 8,
+    "im_70_prozent_fenster": 0
   },
   {
     "begriff": "scheinehe liebesroman",
     "markt": "www.amazon.de",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0FKBR9BWN",
+        "titel": "Für immer mit dem CEO (Die Whitley-Brüder 8)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1101,
+        "sterne": 4.4,
+        "bsr": 792
+      },
+      {
+        "asin": "B0B61D67BN",
+        "titel": "Die Scheinehe",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 715,
+        "sterne": 4.2,
+        "bsr": 70272
+      },
+      {
+        "asin": "B0H3DLVZ5S",
+        "titel": "Scheinehe mit meinem Milliardärsboss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 4.6,
+        "bsr": 15333
+      },
+      {
+        "asin": "B0GX3N1T7V",
+        "titel": "Die Heiratsvermittlerin und der unmögliche Laird: Ein Highland-Liebesroman voller Wortgefechte, Scheinehe und Slow Burn (Die legendären Lairds 6)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 5,
+        "sterne": 4.0,
+        "bsr": 12733
+      },
+      {
+        "asin": "B0GZ7Q8RVG",
+        "titel": "Meine gut arrangierte Scheinehe: ein romantische komödie in Schottland (Chaos in den Highlands)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 105,
+        "sterne": 4.2,
+        "bsr": 17015
+      },
+      {
+        "asin": "B0H7SHQN5J",
+        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 55,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0H2WR55VX",
+        "titel": "Nichts Ernstes: Eine Scheinehe, ein geheimes Baby, eine zweite Chance",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 7,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0HCJD1Y4C",
+        "titel": "Der Ehemann, der zu spät bereute: Ein Verrat, Zweite Chance, Schein-Ehe in der Krise – Eine Unterwürfige Romanze (Herzgebrochene Schatten-Ehefrauen)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 24,
+        "sterne": 3.8
+      },
+      {
+        "asin": "B0H5TQSGX7",
+        "titel": "Scheinehe mit dem Hockeyspieler: Eine College-Hockey-Romance über eine Streberin und einen Sportler (Kanadische Eishockey-Liebesromane 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 26,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0F6G8J7YF",
+        "titel": "Meine fast perfekte Scheinehe: ein Schottland-roman (Chaos in den Highlands)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 259,
+        "sterne": 4.5
+      }
+    ],
+    "bsr_werte": [
+      792,
+      70272,
+      15333,
+      12733,
+      17015
+    ],
+    "bsr_median": 15333,
+    "bsr_bester": 792,
+    "verkaeufe_tag_geschaetzt": 27.68,
+    "bewertungen_median": 105,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "im_70_prozent_fenster": 0
   },
   {
     "begriff": "zweite chance liebesroman",
     "markt": "www.amazon.de",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0H93P1LWL",
+        "titel": "Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 4.99,
+        "bewertungen": 1,
+        "sterne": 5.0,
+        "bsr": 169577
+      },
+      {
+        "asin": "B0HCLDL167",
+        "titel": "Die andere Frau Drama Zweite-Chance-Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 3.99,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": null
+      },
+      {
+        "asin": "B0H8XQYLWX",
+        "titel": "Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 3.99,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 246265
+      },
+      {
+        "asin": "B0H69VPG23",
+        "titel": "The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 124,
+        "sterne": 4.3,
+        "bsr": 377
+      },
+      {
+        "asin": "B0H1H8JVWW",
+        "titel": "Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 3.1,
+        "bsr": 291434
+      },
+      {
+        "asin": "B0H9SP5R4D",
+        "titel": "Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 46,
+        "sterne": 3.5
+      },
+      {
+        "asin": "B0GQP36T3H",
+        "titel": "Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 6,
+        "sterne": 3.8
+      },
+      {
+        "asin": "B0871NQ5Z1",
+        "titel": "Die zweite Chance: Ein Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 202,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0HCJ9BRM4",
+        "titel": "Die Frau, die alles niederbrannte: Ein Verrat – Geheimes Baby – Zweite Chance – Flehender Liebesroman (Herzgebrochene Schatten-Ehefrauen)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 22,
+        "sterne": 4.0
+      },
+      {
+        "asin": "B09NMQWY96",
+        "titel": "The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1779,
+        "sterne": 4.5
+      }
+    ],
+    "bsr_werte": [
+      169577,
+      246265,
+      377,
+      291434
+    ],
+    "bsr_median": 207921,
+    "bsr_bester": 377,
+    "verkaeufe_tag_geschaetzt": 3.02,
+    "bewertungen_median": 9,
+    "preis_median": 3.99,
+    "kindle_unlimited": 7,
+    "im_70_prozent_fenster": 3
   },
   {
     "begriff": "reicher mann liebesroman",
@@ -39,8 +484,9 @@
         "asin": "B0HCKHVDCQ",
         "titel": "Hüte dich vor dem reichen Mann (Reicher Mann | Armer Mann | Bettler | Dieb 1)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1,
         "sterne": 2.0,
         "bsr": 25504
       },
@@ -48,8 +494,9 @@
         "asin": "B07YCWMB1B",
         "titel": "Reicher Mann, armes Herz (Nancys Ostsee-Liebesromane - Deutsche Liebesromane mit Happy End)",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 3.99,
-        "bewertungen": null,
+        "bewertungen": 1148,
         "sterne": 4.1,
         "bsr": 186383
       },
@@ -57,8 +504,9 @@
         "asin": "B0GHPHH5S7",
         "titel": "Sündhaft reiche Männer – Manhattan – Komplette Serie, Bände 1–3: Heiße Milliardärsromanzen – Die komplette Serie",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2,
         "sterne": 4.5,
         "bsr": 265772
       },
@@ -66,8 +514,9 @@
         "asin": "B086PGVJCQ",
         "titel": "Sündhaft reich & unverschämt Alpha: Eine Büro-Romanze mit einem Milliardär, der nie verliert (Sündhaft reiche Männer – Manhattan 1)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 63,
         "sterne": 4.4,
         "bsr": 235686
       },
@@ -75,7 +524,8 @@
         "asin": "B0HCK6MPTZ",
         "titel": "Die Diebin (Reicher Mann | Armer Mann | Bettler | Dieb 4)",
         "gesponsert": false,
-        "preis": 0.0,
+        "kindle_unlimited": true,
+        "preis": null,
         "bewertungen": null,
         "sterne": null,
         "bsr": 58488
@@ -84,31 +534,35 @@
         "asin": "B0DZD32THG",
         "titel": "Mann der Stärke: Milliardärs Kurzroman (Unverschämt reiche Liebe 5)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 70,
         "sterne": 4.3
       },
       {
         "asin": "B08FMMCVD4",
         "titel": "Unzensierter Dreier mit reichen Männern (Luxuriöse Dreier mit zwei Milliardären 3)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 12,
         "sterne": 3.6
       },
       {
         "asin": "B0CY5R5Q4N",
         "titel": "Kontrolliert von meinem Milliardärs-Boss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 1)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 46,
         "sterne": 4.1
       },
       {
         "asin": "B0HCK7KZV2",
         "titel": "Verzaubert vom armen Mann (Reicher Mann | Armer Mann | Bettler | Dieb 2)",
         "gesponsert": false,
-        "preis": 0.0,
+        "kindle_unlimited": true,
+        "preis": null,
         "bewertungen": null,
         "sterne": null
       },
@@ -116,7 +570,8 @@
         "asin": "B0HCKCHHP7",
         "titel": "Verraten vom Bettler (Reicher Mann | Armer Mann | Bettler | Dieb 3)",
         "gesponsert": false,
-        "preis": 0.0,
+        "kindle_unlimited": true,
+        "preis": null,
         "bewertungen": null,
         "sterne": null
       }
@@ -131,8 +586,9 @@
     "bsr_median": 186383,
     "bsr_bester": 25504,
     "verkaeufe_tag_geschaetzt": 3.31,
-    "bewertungen_median": null,
+    "bewertungen_median": 32,
     "preis_median": 3.99,
+    "kindle_unlimited": 9,
     "im_70_prozent_fenster": 1
   },
   {
@@ -145,8 +601,9 @@
         "asin": "B0F3PG4MNN",
         "titel": "Lights Out: Roman | Heiße Dark RomCom für Leser:innen von Brynne Weaver endlich auf Deutsch! (Aly & Josh)",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 4.99,
-        "bewertungen": null,
+        "bewertungen": 2414,
         "sterne": 4.4,
         "bsr": 171
       },
@@ -154,8 +611,9 @@
         "asin": "B0FXSXY1C2",
         "titel": "Still Beating: Roman - Diese Dark-Thriller-Romance wird dein Herz zerbrechen: Der SPIEGEL-Bestseller und BookTok-Bestseller erstmals auf Deutsch!",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 13.99,
-        "bewertungen": null,
+        "bewertungen": 292,
         "sterne": 4.7,
         "bsr": 245
       },
@@ -163,8 +621,9 @@
         "asin": "B0F4NRSCT4",
         "titel": "Leave Me Behind: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 14.99,
-        "bewertungen": null,
+        "bewertungen": 2898,
         "sterne": 4.4,
         "bsr": 1385
       },
@@ -172,17 +631,19 @@
         "asin": "B0GSBBXXNC",
         "titel": "Sick Boys : Why Choose Dark Academy Romance (Skull & Serpent Society. 1)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 212,
         "sterne": 4.5,
-        "bsr": 199
+        "bsr": 221
       },
       {
         "asin": "B0H6J4T1J8",
         "titel": "Ghost: Solange du mich brauchst | Er muss mich nicht berühren, um meinen Körper zu besitzen. Er muss nur wissen, wie meine Seele funktioniert.",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2345,
         "sterne": 4.5,
         "bsr": 2888
       },
@@ -190,40 +651,45 @@
         "asin": "B0FMXQ19DB",
         "titel": "Bulletproof: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 14.99,
-        "bewertungen": null,
+        "bewertungen": 288,
         "sterne": 4.4
       },
       {
         "asin": "B0CW1KNFVV",
         "titel": "My Dark Romeo: Roman | Deutsche Ausgabe. Die Billionaire Romance, die TikTok nicht mehr aus der Hand legen kann! (Dark Prince Road 1)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 942,
         "sterne": 4.2
       },
       {
         "asin": "B0CW1DRG3T",
         "titel": "Credence – Sie ist tabu, doch Liebe kennt keine Regeln: Roman | Sinnliche Dark Romance von der TikTok-Lieblingsautorin des SPIEGEL-Bestsellers »Punk 57« endlich auf Deutsch!",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 4.99,
-        "bewertungen": null,
+        "bewertungen": 2255,
         "sterne": 4.3
       },
       {
         "asin": "B0HCYG7W43",
         "titel": "Become The Dark: Dunkle Mafia Romance Series, 3 Bucher in Einem! (Deutsche Ausgabe) (Mafia-Imperium Kollektion 2)",
         "gesponsert": false,
-        "preis": 0.0,
-        "bewertungen": null,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2,
         "sterne": 2.0
       },
       {
         "asin": "B0G39JZCWK",
         "titel": "Bad Bishop: Roman - Der Dark-Mafia-Romance-Hype endlich auf Deutsch! Mit exklusivem Bonuskapitel! (Society of Villains 1)",
         "gesponsert": false,
+        "kindle_unlimited": false,
         "preis": 14.99,
-        "bewertungen": null,
+        "bewertungen": 340,
         "sterne": 4.6
       }
     ],
@@ -231,14 +697,15 @@
       171,
       245,
       1385,
-      199,
+      221,
       2888
     ],
     "bsr_median": 245,
     "bsr_bester": 171,
     "verkaeufe_tag_geschaetzt": 931.56,
-    "bewertungen_median": null,
+    "bewertungen_median": 2345,
     "preis_median": 14.49,
+    "kindle_unlimited": 4,
     "im_70_prozent_fenster": 2
   }
 ]

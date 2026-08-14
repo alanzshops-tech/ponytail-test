@@ -8,64 +8,64 @@ Gemessen mit einem echten Browser auf dem Runner, Sprache de-DE. **Mobil** entsp
 
 | Seite | Gerät | Status | Erste Anzeige | Größtes Element | Gewicht | Anfragen | Höhe | Querscroll |
 |---|---|---:|---:|---:|---:|---:|---:|:-:|
-| / | mobil | 200 | 1244 ms | 0 ms | 3436 kB | 375 | 4212 px | – |
-| / | desktop | 200 | 804 ms | 0 ms | 3500 kB | 389 | 4047 px | – |
-| /collections/hunde | mobil | 200 | 956 ms | 0 ms | 2901 kB | 371 | 4641 px | – |
-| /collections/hunde | desktop | 200 | 380 ms | 0 ms | 2904 kB | 382 | 3365 px | – |
-| /products/hundesofa-samt-erhoeht-xxl | mobil | 200 | 776 ms | 0 ms | 3118 kB | 378 | 6297 px | – |
-| /products/hundesofa-samt-erhoeht-xxl | desktop | 200 | 512 ms | 0 ms | 3595 kB | 415 | 6082 px | – |
-| /products/sitzbank-stauraum-gepolstert-klappbar | mobil | 200 | 624 ms | 0 ms | 3062 kB | 404 | 4065 px | – |
-| /products/sitzbank-stauraum-gepolstert-klappbar | desktop | 200 | 516 ms | 0 ms | 3486 kB | 413 | 3844 px | – |
-| /cart | mobil | 200 | 420 ms | 0 ms | 2746 kB | 359 | 1077 px | – |
-| /cart | desktop | 200 | 376 ms | 0 ms | 2664 kB | 346 | 900 px | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | mobil | 200 | 464 ms | 0 ms | 3028 kB | 410 | 5646 px | – |
-| /products/samt-sessel-design-armlehnen-holzbeine | desktop | 200 | 628 ms | 0 ms | 3449 kB | 400 | 5372 px | – |
-| /products/led-taschenlampe-aufladbar-zoom-warnlicht | mobil | 200 | 584 ms | 0 ms | 3113 kB | 403 | 4389 px | – |
-| /products/led-taschenlampe-aufladbar-zoom-warnlicht | desktop | 200 | 540 ms | 0 ms | 3406 kB | 413 | 4188 px | – |
+| / | mobil | 200 | 520 ms | 0 ms | 3436 kB | 377 | 4212 px | – |
+| / | desktop | 200 | 468 ms | 0 ms | 3473 kB | 374 | 4047 px | – |
+| /collections/hunde | mobil | 200 | 592 ms | 0 ms | 2903 kB | 375 | 4641 px | – |
+| /collections/hunde | desktop | 200 | 280 ms | 0 ms | 2855 kB | 371 | 3365 px | – |
+| /products/hundesofa-samt-erhoeht-xxl | mobil | 200 | 472 ms | 0 ms | 3140 kB | 404 | 6297 px | – |
+| /products/hundesofa-samt-erhoeht-xxl | desktop | 200 | 504 ms | 0 ms | 3592 kB | 400 | 6082 px | – |
+| /products/sitzbank-stauraum-gepolstert-klappbar | mobil | 200 | 368 ms | 0 ms | 3029 kB | 398 | 4065 px | – |
+| /products/sitzbank-stauraum-gepolstert-klappbar | desktop | 200 | 476 ms | 0 ms | 3486 kB | 414 | 3844 px | – |
+| /cart | mobil | 200 | 384 ms | 0 ms | 2705 kB | 357 | 1077 px | – |
+| /cart | desktop | 200 | 420 ms | 0 ms | 2670 kB | 351 | 900 px | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | mobil | 200 | 428 ms | 0 ms | 3048 kB | 417 | 5646 px | – |
+| /products/samt-sessel-design-armlehnen-holzbeine | desktop | 200 | 512 ms | 0 ms | 3474 kB | 420 | 5372 px | – |
+| /products/led-taschenlampe-aufladbar-zoom-warnlicht | mobil | 200 | 436 ms | 0 ms | 3096 kB | 393 | 4389 px | – |
+| /products/led-taschenlampe-aufladbar-zoom-warnlicht | desktop | 200 | 400 ms | 0 ms | 3392 kB | 401 | 4188 px | – |
 
 Richtwerte von Google: Das größte Element sollte nach **2500 ms** stehen, alles darüber gilt als verbesserungswürdig. Ein Seitengewicht über **2000 kB** ist auf Mobilfunk spürbar.
 
 ## Was schwer wiegt
 
 - `/` — script 1353 kB, other 960 kB, image 820 kB, font 212 kB, document 46 kB, stylesheet 45 kB
-- `/collections/hunde` — script 1422 kB, other 958 kB, font 212 kB, image 211 kB, stylesheet 49 kB, document 49 kB
-- `/products/hundesofa-samt-erhoeht-xxl` — script 1547 kB, other 861 kB, image 385 kB, font 212 kB, stylesheet 60 kB, document 51 kB
-- `/products/sitzbank-stauraum-gepolstert-klappbar` — script 1546 kB, other 950 kB, image 244 kB, font 212 kB, stylesheet 60 kB, document 49 kB
-- `/cart` — script 1496 kB, other 960 kB, font 200 kB, document 40 kB, stylesheet 39 kB, image 11 kB
-- `/products/samt-sessel-design-armlehnen-holzbeine` — script 1549 kB, other 934 kB, image 220 kB, font 212 kB, stylesheet 60 kB, document 52 kB
-- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` — script 1548 kB, other 927 kB, image 315 kB, font 212 kB, stylesheet 60 kB, document 49 kB
+- `/collections/hunde` — script 1422 kB, other 960 kB, font 212 kB, image 211 kB, stylesheet 49 kB, document 49 kB
+- `/products/hundesofa-samt-erhoeht-xxl` — script 1506 kB, other 924 kB, image 385 kB, font 212 kB, stylesheet 60 kB, document 51 kB
+- `/products/sitzbank-stauraum-gepolstert-klappbar` — script 1546 kB, other 917 kB, image 244 kB, font 212 kB, stylesheet 60 kB, document 49 kB
+- `/cart` — script 1456 kB, other 958 kB, font 200 kB, document 40 kB, stylesheet 39 kB, image 11 kB
+- `/products/samt-sessel-design-armlehnen-holzbeine` — script 1549 kB, other 953 kB, image 220 kB, font 212 kB, stylesheet 60 kB, document 52 kB
+- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` — script 1545 kB, other 913 kB, image 315 kB, font 212 kB, stylesheet 60 kB, document 49 kB
 
 ## Befunde
 
 - `/` (mobil): 1 von 19 Bildern ohne Alt-Text
-- `/` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=d023f99d-4382-4fd1-8b60-fc0cbd9a69f8&target_origin=https%3A%2F%2Fw
+- `/` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=e8acfcad-c030-4c0f-b9cc-27d6206b4462&target_origin=https%3A%2F%2Fw
 - `/` (desktop): 1 von 19 Bildern ohne Alt-Text
-- `/` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=7a4b4157-4ae6-436d-8a11-e02d9e03e835&target_origin=https%3A%2F%2Fw
-- `/collections/hunde` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=5f0e7f7d-58a8-4b8b-93e1-a540899e526c&target_origin=https%3A%2F%2Fw
-- `/collections/hunde` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=b261a4c5-e2b5-4756-a065-d6538ff5b3b1&target_origin=https%3A%2F%2Fw
-- `/products/hundesofa-samt-erhoeht-xxl` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=bd4fcaa3-9d32-41d4-8385-9182514a5594&target_origin=https%3A%2F%2Fw
-- `/products/hundesofa-samt-erhoeht-xxl` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=a09694fb-372d-450e-a218-3be9549dead4&target_origin=https%3A%2F%2Fw
-- `/products/sitzbank-stauraum-gepolstert-klappbar` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=ac9fde52-32cd-419a-b730-138797d661c6&target_origin=https%3A%2F%2Fw
-- `/products/sitzbank-stauraum-gepolstert-klappbar` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=50cf8b4d-1e20-4f04-a233-99141de54012&target_origin=https%3A%2F%2Fw
+- `/` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=a06093f5-90a6-459c-b571-b7b1eda88724&target_origin=https%3A%2F%2Fw
+- `/collections/hunde` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=5e258ec9-6be7-452e-b261-a25847ebe1c9&target_origin=https%3A%2F%2Fw
+- `/collections/hunde` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=8b4fd77a-3f3b-4cbf-9dd5-f624bdffcba4&target_origin=https%3A%2F%2Fw
+- `/products/hundesofa-samt-erhoeht-xxl` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=7fd0ebc1-c7f9-4702-b8e0-975778850159&target_origin=https%3A%2F%2Fw
+- `/products/hundesofa-samt-erhoeht-xxl` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=302c9c5f-2349-4bb5-bea3-51505512bda1&target_origin=https%3A%2F%2Fw
+- `/products/sitzbank-stauraum-gepolstert-klappbar` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=2c82abf2-4aa9-48a0-ac2e-1fbd1ba2dd17&target_origin=https%3A%2F%2Fw
+- `/products/sitzbank-stauraum-gepolstert-klappbar` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=8dbf1cfe-4867-4048-abb0-541aa9184041&target_origin=https%3A%2F%2Fw
 - `/cart` hat 2 H1-Überschriften statt einer
-- `/cart` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=34003beb-bce4-4e7a-9db4-5be2c4c391bb&target_origin=https%3A%2F%2Fw
-- `/cart` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=a51529da-ccff-4f36-8511-fc3938dc640b&target_origin=https%3A%2F%2Fw
+- `/cart` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=48478c12-9cb5-4c34-a4df-7b3f5d5efb99&target_origin=https%3A%2F%2Fw
+- `/cart` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=d4d4140d-d301-48f7-a35f-91ca0461c87e&target_origin=https%3A%2F%2Fw
 - `/products/samt-sessel-design-armlehnen-holzbeine` (mobil): 9 von 29 Bildern ohne Alt-Text
-- `/products/samt-sessel-design-armlehnen-holzbeine` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=ca48cfac-4b05-4e8e-828b-049e23c85455&target_origin=https%3A%2F%2Fw
+- `/products/samt-sessel-design-armlehnen-holzbeine` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=9c2376a8-c076-4555-8f5f-924934ddba2e&target_origin=https%3A%2F%2Fw
 - `/products/samt-sessel-design-armlehnen-holzbeine` (desktop): 9 von 29 Bildern ohne Alt-Text
-- `/products/samt-sessel-design-armlehnen-holzbeine` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=797b79f3-5aba-4be6-81f5-7b9493121378&target_origin=https%3A%2F%2Fw
-- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=af35842f-63d5-43b4-b1a5-d80fe659ae7c&target_origin=https%3A%2F%2Fw
-- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=93ce3f36-376c-4a06-b352-fa770fdb14aa&target_origin=https%3A%2F%2Fw
+- `/products/samt-sessel-design-armlehnen-holzbeine` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=d07e5512-602a-4be6-aad8-4ddbabe141e0&target_origin=https%3A%2F%2Fw
+- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=e13daeeb-5695-469e-918f-0b7a93d55526&target_origin=https%3A%2F%2Fw
+- `/products/led-taschenlampe-aufladbar-zoom-warnlicht` lädt etwas, das fehlschlägt: https://shop.app/pay/hop?analytics_trace_id=c01f4568-486a-47f9-8ca0-6117747e6280&target_origin=https%3A%2F%2Fw
 
 ## Woher die Anfragen kommen
 
 Nur Startseite, mobil. **Fremd** heißt: nicht von homeeins.de und nicht von Shopify selbst — also Apps und Dienste Dritter.
 
-Insgesamt 375 Anfragen, davon **32 von 18 fremden Servern** mit 676 kB.
+Insgesamt 377 Anfragen, davon **32 von 18 fremden Servern** mit 676 kB.
 
 | Absender | Anfragen | kB | eigen |
 |---|---:|---:|:-:|
-| www.homeeins.de | 235 | 2107 | ja |
+| www.homeeins.de | 237 | 2107 | ja |
 | cdn.shopify.com | 90 | 652 | ja |
 | otlp-http-production.shopifysvc.com | 10 | 0 | ja |
 | monorail-edge.shopifysvc.com | 6 | 0 | ja |
@@ -77,13 +77,13 @@ Insgesamt 375 Anfragen, davon **32 von 18 fremden Servern** mit 676 kB.
 | cdn-bundler.nice-team.net | 2 | 1 | **nein** |
 | s3-us-west-2.amazonaws.com | 2 | 0 | **nein** |
 | cdn.ywxi.net | 2 | 7 | **nein** |
-| www.merchant-center-analytics.goog | 1 | 0 | **nein** |
 | forms.shopifyapps.com | 1 | 0 | ja |
+| www.merchant-center-analytics.goog | 1 | 0 | **nein** |
 | analytics.google.com | 1 | 0 | **nein** |
 | stats.g.doubleclick.net | 1 | 0 | **nein** |
 | cdn.trustedsite.com | 1 | 5 | **nein** |
-| app.cjdropshipping.com | 1 | 0 | **nein** |
 | metashop.dolphinsuite.com | 1 | 0 | **nein** |
+| app.cjdropshipping.com | 1 | 0 | **nein** |
 | analytics-ipv6.tiktokw.us | 1 | 0 | **nein** |
 | bundler.nice-team.net | 1 | 0 | **nein** |
 | www.cjdropshipping.com | 1 | 0 | **nein** |
@@ -93,7 +93,7 @@ Insgesamt 375 Anfragen, davon **32 von 18 fremden Servern** mit 676 kB.
 Vollständige Seitenfotos liegen in `bilder/`.
 
 - `bilder/startseite-mobil.jpg` (562 kB)
-- `bilder/startseite-desktop.jpg` (473 kB)
+- `bilder/startseite-desktop.jpg` (472 kB)
 - `bilder/collections-hunde-mobil.jpg` (681 kB)
 - `bilder/collections-hunde-desktop.jpg` (378 kB)
 - `bilder/products-hundesofa-samt-erhoeht-xxl-mobil.jpg` (689 kB)
@@ -111,13 +111,13 @@ Vollständige Seitenfotos liegen in `bilder/`.
 
 | Seite | Tempo | Barrierefreiheit | Praxis | SEO |
 |---|---:|---:|---:|---:|
-| cart | 68 | 93 | 59 | 92 |
+| cart | 66 | 93 | 59 | 92 |
 | collections-hunde | 67 | 94 | 59 | 100 |
-| products-hundesofa-samt-erhoeht-xxl | 89 | 90 | 56 | 100 |
-| products-led-taschenlampe-aufladbar-zoom-warnlicht | 90 | 90 | 56 | 100 |
-| products-samt-sessel-design-armlehnen-holzbeine | 88 | 90 | 56 | 100 |
-| products-sitzbank-stauraum-gepolstert-klappbar | 90 | 90 | 56 | 100 |
-| startseite | 88 | 93 | 59 | 100 |
+| products-hundesofa-samt-erhoeht-xxl | 84 | 90 | 56 | 100 |
+| products-led-taschenlampe-aufladbar-zoom-warnlicht | 89 | 90 | 56 | 100 |
+| products-samt-sessel-design-armlehnen-holzbeine | 89 | 90 | 56 | 100 |
+| products-sitzbank-stauraum-gepolstert-klappbar | 89 | 90 | 56 | 100 |
+| startseite | 79 | 93 | 59 | 100 |
 
 Skala 0 bis 100. Unter 50 ist rot, ab 90 gut.
 
