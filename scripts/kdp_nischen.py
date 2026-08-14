@@ -87,13 +87,44 @@ def geschaetzte_verkaeufe(bsr: int, a: float, b: float) -> float:
     return round(a * (bsr ** -b), 2)
 
 
+def consent_wegklicken(seite) -> str:
+    """Amazon zeigt beim ersten Aufruf eine Cookie-Abfrage, die die
+    Trefferliste verdeckt. Beim Lauf vom 14.08.2026 scheiterten dadurch
+    die ersten sechs von acht Begriffen -- die letzten beiden kamen nur
+    durch, weil die Huerde bis dahin von selbst weg war. Positionsabhaengig,
+    also kein Zufall."""
+    for text in ("Alle akzeptieren", "Accept all", "Alle Cookies akzeptieren",
+                 "Nur erforderliche Cookies", "Weiter shoppen"):
+        try:
+            k = seite.get_by_role("button", name=text, exact=False)
+            if k.count() and k.first.is_visible(timeout=1200):
+                k.first.click(timeout=2500)
+                seite.wait_for_timeout(1200)
+                return f"geschlossen via '{text}'"
+        except Exception:
+            continue
+    # Amazon nutzt teils <input type=submit> statt <button>.
+    for sel in ("#sp-cc-accept", 'input[name="accept"]',
+                'input[data-cel-widget="sp-cc-accept"]'):
+        try:
+            if seite.locator(sel).count():
+                seite.locator(sel).first.click(timeout=2500)
+                seite.wait_for_timeout(1200)
+                return f"geschlossen via {sel}"
+        except Exception:
+            continue
+    return "nicht gefunden"
+
+
 def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
     """Liest die Trefferliste. Nur was auf der Seite steht, nichts geraten."""
     from urllib.parse import quote_plus
     # i=digital-text schraenkt auf den Kindle-Shop ein.
     url = f"https://{host}/s?k={quote_plus(begriff)}&i=digital-text"
     seite.goto(url, wait_until="domcontentloaded", timeout=45000)
-    seite.wait_for_timeout(2500)
+    seite.wait_for_timeout(2000)
+    consent_wegklicken(seite)
+    seite.wait_for_timeout(1200)
 
     treffer = seite.evaluate("""() => {
       const raus = [];
@@ -103,7 +134,16 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
         if (!asin) continue;
         const t = k.querySelector('h2 span, h2 a span');
         const preis = k.querySelector('.a-price .a-offscreen');
-        const bew = k.querySelector('[aria-label*="Bewertungen"], [aria-label*="ratings"], .s-underline-text');
+        // Bewertungszahl: Der frueher genutzte Selektor .s-underline-text
+        // greift nicht mehr. Robuster ist, im Kartentext nach der Zahl in
+        // Klammern oder vor "Bewertungen"/"ratings" zu suchen.
+        let bewText = '';
+        const bewEl = k.querySelector('[aria-label$="Bewertungen"], [aria-label$="ratings"], a[href*="#customerReviews"] span');
+        if (bewEl) bewText = bewEl.getAttribute('aria-label') || bewEl.textContent || '';
+        if (!/\d/.test(bewText)) {
+          const m = k.textContent.match(/([\d.,]+)\s*(?:Bewertungen|Sternebewertungen|ratings)/);
+          if (m) bewText = m[1];
+        }
         const sterne = k.querySelector('[aria-label*="von 5"], [aria-label*="out of 5"]');
         const gesponsert = !!k.querySelector('[aria-label*="Gesponsert"], [aria-label*="Sponsored"]')
           || /Gesponsert|Sponsored/.test(k.textContent.slice(0, 400));
@@ -111,7 +151,7 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
           asin,
           titel: t ? t.textContent.trim() : '',
           preis_text: preis ? preis.textContent.trim() : '',
-          bewertungen_text: bew ? bew.textContent.trim() : '',
+          bewertungen_text: bewText.trim(),
           sterne_text: sterne ? (sterne.getAttribute('aria-label') || '') : '',
           gesponsert
         });
@@ -121,7 +161,12 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
 
     aus = []
     for t in treffer[:anzahl]:
-        t["preis"] = preis_aus(t.pop("preis_text", ""))
+        p = preis_aus(t.pop("preis_text", ""))
+        # 0,00 heisst bei Amazon in aller Regel Kindle Unlimited, nicht
+        # "kostenlos zu haben". Als Preis gewertet zieht es den Median
+        # nach unten und taeuscht ein billiges Marktsegment vor.
+        t["kindle_unlimited"] = (p == 0.0)
+        t["preis"] = None if (p is None or p == 0.0) else p
         t["bewertungen"] = zahl_aus(t.pop("bewertungen_text", ""))
         m = re.search(r"([\d,.]+)", t.pop("sterne_text", "") or "")
         t["sterne"] = preis_aus(m.group(1)) if m else None
@@ -148,6 +193,13 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
         ergebnis["fehler"] = f"Suche fehlgeschlagen: {str(e)[:160]}"
         return ergebnis
 
+    if not liste:
+        # Ein Fehlversuch kann an der Consent-Huerde liegen. Einmal neu.
+        time.sleep(3)
+        try:
+            liste = suche(seite, markt["host"], begriff, titel)
+        except Exception:
+            liste = []
     if not liste:
         # Leeres Ergebnis ist kein Befund. Entweder blockiert Amazon oder
         # der Selektor passt nicht mehr -- beides muss auffallen.
@@ -182,6 +234,8 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
         geschaetzte_verkaeufe(int(median(bsrs)), a, b) if bsrs else None)
     ergebnis["bewertungen_median"] = int(median(bews)) if bews else None
     ergebnis["preis_median"] = round(median(preise), 2) if preise else None
+    ergebnis["kindle_unlimited"] = sum(
+        1 for t in liste if t.get("kindle_unlimited"))
     ergebnis["im_70_prozent_fenster"] = (
         sum(1 for p in preise if 2.99 <= p <= 9.99) if preise else 0)
     return ergebnis
@@ -198,12 +252,13 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
          "Öffentlich kursierende Kalibrierung, **nicht selbst validiert** — "
          "gut für Größenordnungen, nicht für Planung.", "",
          "| Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | "
-         "Bewertungen Median | Preis Median | im 70-%-Fenster | gesponsert |",
-         "|---|---|---:|---:|---:|---:|---:|---:|---:|"]
+         "Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | "
+         "gesponsert |",
+         "|---|---|---:|---:|---:|---:|---:|---:|---:|---:|"]
     for e in ergebnisse:
         if e.get("fehler"):
             z.append(f"| {e['begriff']} | {e['markt']} | FEHLER | – | – | – "
-                     f"| – | – | – |")
+                     f"| – | – | – | – |")
             continue
         z.append(
             f"| {e['begriff']} | {e['markt']} | {e['bsr_median'] or '–'} "
@@ -212,6 +267,7 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
             f"| {e['bewertungen_median'] if e['bewertungen_median'] is not None else '–'} "
             f"| {e['preis_median'] or '–'} "
             f"| {e['im_70_prozent_fenster']}/{e['titel_gelesen']} "
+            f"| {e.get('kindle_unlimited', 0)}/{e['titel_gelesen']} "
             f"| {e['davon_gesponsert']}/{e['titel_gelesen']} |")
 
     fehler = [e for e in ergebnisse if e.get("fehler")]
@@ -227,6 +283,10 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
           "jemand seit Jahren.",
           "- **Viele gesponserte Treffer** = die Suche wird beworben, "
           "organisch sichtbar zu werden ist teurer.",
+          "- **in KU** = wie viele Titel bei Kindle Unlimited liegen (Preis "
+          "0,00 €). Hoher Anteil heißt: In dieser Nische wird gelesen, nicht "
+          "gekauft — Einnahmen kommen dann über Seitenaufrufe, nicht über "
+          "Tantiemen je Verkauf.",
           "- **im 70-%-Fenster** = wie viele Titel zwischen 2,99 und 9,99 € "
           "liegen. Weit darüber heißt: Der Markt trägt höhere Preise, aber "
           "die Tantieme fällt auf 35 %.",
