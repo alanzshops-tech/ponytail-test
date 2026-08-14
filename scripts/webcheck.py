@@ -69,6 +69,26 @@ def eine_seite(browser, url: str, geraet: str, bilder: Path,
         ctx.close()
         return messwerte
 
+    # Cookie-Dialog wegklicken. Ohne das liegt er ueber dem Hero und
+    # jede Kontrastmessung dort misst den Dialog statt der Seite --
+    # genau so war die erste Nachher-Aufnahme am 14.08.2026 unbrauchbar.
+    # "Ablehnen" statt "Akzeptieren": Wir wollen die Seite sehen, nicht
+    # in ihrem Namen einwilligen.
+    messwerte["cookie_dialog"] = "nicht gefunden"
+    for beschriftung in ("Ablehnen", "Alle ablehnen", "Decline",
+                         "Akzeptieren", "Alle akzeptieren"):
+        try:
+            knopf = seite.get_by_role("button", name=beschriftung, exact=False)
+            if knopf.count() and knopf.first.is_visible(timeout=1500):
+                knopf.first.click(timeout=3000)
+                seite.wait_for_timeout(900)
+                messwerte["cookie_dialog"] = f"geschlossen via '{beschriftung}'"
+                break
+        except PWError:
+            continue
+        except Exception:
+            continue
+
     # Kennzahlen direkt aus dem Browser, nicht geschätzt.
     messwerte.update(seite.evaluate("""() => {
       const n = performance.getEntriesByType('navigation')[0] || {};

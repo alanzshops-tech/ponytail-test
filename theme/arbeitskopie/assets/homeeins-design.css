@@ -109,12 +109,41 @@ h1, h2, h3,
 .banner__media::after {
   background: linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.10) 0%,
-    rgba(0, 0, 0, 0.20) 35%,
-    rgba(0, 0, 0, 0.50) 65%,
-    rgba(0, 0, 0, 0.72) 100%
+    rgba(0, 0, 0, 0.12) 0%,
+    rgba(0, 0, 0, 0.30) 45%,
+    rgba(0, 0, 0, 0.42) 100%
   ) !important;
   opacity: 1 !important;
+}
+
+/* KORREKTUR 14.08.2026, nach der ersten Nachher-Aufnahme:
+   Der Verlauf allein reicht nicht. Ich hatte aus
+   `desktop_content_position: bottom-center` geschlossen, der Text stehe
+   ganz unten, und die Abdunklung dort konzentriert. Tatsaechlich sitzt
+   er in der MITTE des Banners -- dort, wo der Verlauf noch hell war.
+   Die Annahme war falsch, die Rechnung darauf wertlos.
+
+   Deshalb jetzt ein Scrim direkt hinter dem Textblock statt an einer
+   vermuteten Stelle im Bild. Das haelt unabhaengig davon, wo der Text
+   steht, welches Bild dahinter liegt und wie das Banner sich auf dem
+   Handy umbricht.
+
+   alpha 0.58 ueber Weiss ergibt Hintergrund #6B6B6B, Kontrast gegen
+   Weiss 5,2:1 -- ueber AA auch fuer normalen Text, und das ohne den
+   Verlauf darunter mitzurechnen. */
+.banner__box {
+  background-color: rgba(18, 16, 14, 0.58);
+  backdrop-filter: blur(7px) saturate(0.92);
+  -webkit-backdrop-filter: blur(7px) saturate(0.92);
+  padding: var(--he-raum-4) var(--he-raum-3);
+  border-radius: 2px;
+}
+
+@media screen and (min-width: 750px) {
+  .banner__box {
+    padding: var(--he-raum-5) var(--he-raum-4);
+    max-width: 46rem;
+  }
 }
 
 /* Der Text bekommt zusaetzlich einen weichen Schatten. Das faengt den
