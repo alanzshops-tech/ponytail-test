@@ -1,9 +1,24 @@
 # eBay-Start: die ersten fünf Angebote
 
-Stand 10.08.2026 · Auswahl berechnet, nicht geraten · alle Angaben aus den
-echten Produktdaten, nichts erfunden
+Stand 10.08.2026, **Nachfrage korrigiert 14.08.2026** · alle Angaben aus
+den echten Produktdaten, nichts erfunden
 
 ---
+
+## Korrektur 14.08.2026: Nachfragewert beim Hundesofa war falsch
+
+Die Nachfrage-Zeile für "Hundesofa 90 cm" unten übernahm den Google-Trends-
+Wert des Suchbegriffs **"hundebett"** (70), nicht den des tatsächlichen
+Begriffs **"hundesofa"** — der liegt laut `TRENDS.md` (Gruppe
+`haustier-buero`) bei **1**, mit der Einordnung "Nebensaison,
+zurückstellen" (−50 % ggü. 3 Monaten). Nicht geprüft, bevor es hier stand.
+
+**Reihenfolge dadurch geändert:** Hundebett 70cm Samt rückt vor Hundesofa,
+weil die echte Nachfrage nach "hundebett" (70, stabil +21 %) die nach
+"hundesofa" deutlich übersteigt. Zusätzlich steigt "schreibtischstuhl"
+(30, **+36 %**) auffällig — als Ergänzung zum Bürostuhl-Angebot vormerken,
+nicht als eigenes Angebot Nummer sechs, dafür fehlt noch die Prüfung auf
+echten Bestand mit passendem Modell.
 
 ## Warum diese fünf
 
@@ -13,11 +28,18 @@ Artikel mit echtem Bestand. Nachfrage und Trend stammen aus `TRENDS.md`
 
 | # | Produkt | Nachfrage | Trend | Hoch im | Bestand | VK | Rohertrag |
 |---|---|---:|---:|---|---:|---:|---:|
-| 1 | Bürostuhl 135° | 62 | **+43 %** | November | 570 | 129,99 € | 78,00 € |
-| 2 | Hundesofa 90 cm Kunstleder | 69 | +15 % | November | 157 | 134,00 € | 80,40 € |
-| 3 | Hundebett 70 cm Samt | 69 | +15 % | November | 233 | 94,99 € | 57,00 € |
-| 4 | Schuhbank 102 cm | 31 | **+107 %** | Januar | 195 | 99,00 € | 59,40 € |
-| 5 | Kratzbaum kompakt | 38 | +19 % | Dezember | 174 | 44,99 € | 27,00 € |
+| 1 | Bürostuhl 135° | 62 | +9 % | November | 570 | 129,99 € | 78,00 € |
+| 2 | Hundebett 70 cm Samt | 70 | +21 % | November | 233 | 94,99 € | 57,00 € |
+| 3 | Kratzbaum kompakt | 38 | +23 % | Dezember | 174 | 44,99 € | 27,00 € |
+| 4 | Schuhbank 102 cm | 12 | — ⚠️ ungeprüft | Januar | 195 | 99,00 € | 59,40 € |
+| 5 | Hundesofa 90 cm Kunstleder | **1** ⚠️ Nebensaison | −50 % | November | 157 | 134,00 € | 80,40 € |
+
+Trend-Prozentwerte oben sind jetzt die aus `TRENDS.md` selbst
+("vs. 3 Mon."), nicht mehr die ursprünglich hier notierten — die stimmten
+beim Bürostuhl (+43 % statt echter +9 %) und bei der Schuhbank (+107 %,
+Quelle nicht mehr nachvollziehbar, daher ⚠️ ungeprüft) ebenfalls nicht mit
+`TRENDS.md` überein. Nachfragewert der Schuhbank (12) ist echt, aber die
+Nische ist laut `NISCHEN.md` klein — vor dem Einstellen keine Priorität.
 
 **Der Zeitpunkt ist das Beste daran:** Alle fünf haben ihr Nachfragehoch
 zwischen **November und Januar**. Heute ist der 10. August. Wer jetzt
