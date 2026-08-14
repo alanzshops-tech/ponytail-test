@@ -46,7 +46,8 @@ def name_aus(url: str) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "-", pfad)[:60].strip("-")
 
 
-def eine_seite(browser, url: str, geraet: str, bilder: Path) -> dict:
+def eine_seite(browser, url: str, geraet: str, bilder: Path,
+               praefix: str = "") -> dict:
     from playwright.sync_api import Error as PWError
 
     ctx = browser.new_context(locale="de-DE", **GERAETE[geraet])
@@ -124,7 +125,7 @@ def eine_seite(browser, url: str, geraet: str, bilder: Path) -> dict:
     messwerte["fremde_kb"] = sum(x["kb"] for x in fremd)
 
     bilder.mkdir(parents=True, exist_ok=True)
-    ziel = bilder / f"{name_aus(url)}-{geraet}.jpg"
+    ziel = bilder / f"{praefix}{name_aus(url)}-{geraet}.jpg"
     # Ganze Seite, damit auch der Bereich unterhalb des Falzes zu sehen
     # ist. Qualität 72 reicht zum Beurteilen und hält das Repo klein.
     seite.screenshot(path=str(ziel), full_page=True, type="jpeg", quality=72)
@@ -214,6 +215,10 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--urls", default="urls-shop.txt")
     ap.add_argument("--bilder", default="bilder")
+    # Vorschau-URLs haben keinen Pfad und hiessen sonst alle
+    # "startseite" -- damit wuerde eine Nachher-Aufnahme die
+    # Vorher-Aufnahme ueberschreiben und der Vergleich waere weg.
+    ap.add_argument("--praefix", default="")
     ap.add_argument("--out", default="daten")
     a = ap.parse_args()
 
@@ -227,7 +232,7 @@ def main() -> None:
         for url in adressen:
             for geraet in GERAETE:
                 print(f"  {geraet:8s} {url}")
-                m = eine_seite(browser, url, geraet, Path(a.bilder))
+                m = eine_seite(browser, url, geraet, Path(a.bilder), a.praefix)
                 if m.get("fehler"):
                     print(f"           FEHLER: {m['fehler'][:90]}")
                 else:

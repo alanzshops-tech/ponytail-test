@@ -26,6 +26,14 @@ on:
         description: "Zielordner für bild_urls, unter bilder/"
         required: false
         default: "bilder/heruntergeladen"
+      url_datei:
+        description: "Welche URL-Liste fotografieren (z. B. urls-vorschau.txt)"
+        required: false
+        default: "urls-shop.txt"
+      praefix:
+        description: "Präfix für die Bilddateien, z. B. nachher- (sonst überschreibt die Aufnahme die alte)"
+        required: false
+        default: ""
   # Montags 07:00 UTC, nach dem Search-Console-Bericht.
 permissions:
   contents: write
@@ -49,7 +57,10 @@ jobs:
           python3 -m playwright install --with-deps chromium
 
       - name: Fotografieren und messen
-        run: python3 scripts/webcheck.py --urls urls-shop.txt
+        env:
+          URL_DATEI: ${{ inputs.url_datei || 'urls-shop.txt' }}
+          PRAEFIX: ${{ inputs.praefix }}
+        run: python3 scripts/webcheck.py --urls "$URL_DATEI" --praefix "$PRAEFIX"
 
       # Rein zum Herunterladen -- die Arbeitsumgebung erreicht
       # cdn.shopify.com nicht, der Runner schon.
