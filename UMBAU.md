@@ -123,9 +123,44 @@ Die Unterzeile ist weiss geblieben und trennt deshalb die Effekte sauber:
 Der Scrim wirkt also nachweislich. Die Überschrift war schlecht, weil ich
 sie eingefärbt hatte, nicht weil der Scrim zu schwach wäre.
 
-### Noch offen
+**Runde 4 — der Scrim kam oben nicht an.** Mit `alpha 0.58` blieb die
+Überschrift bei Median 3,4:1. Verdacht: Kantenglättung der grossen
+Serifenschrift verfälscht die Messung. **Die Empfindlichkeitsprüfung hat
+diesen Verdacht widerlegt** — der Wert blieb über alle Ausschluss-Schwellen
+von 0 bis 150 flach bei 3,4:1, nur 11–13 % der Pixel sind Buchstaben. Der
+Zeilen-Scan zeigte den echten Grund: oben 155 Helligkeit, unten 85. Dawns
+eigene Klassen auf `.banner__box` gewinnen. Mit `!important` und
+`alpha 0.72` sitzt der Scrim.
 
-- **Dritte Messung** nach der Farbkorrektur steht aus.
+### Endstand der Messung
+
+| Hero, Handy | Ausgangszustand | Endstand |
+|---|---:|---:|
+| **Überschrift** — Median | 1,8:1 | **10,85:1** |
+| **Überschrift** — Fläche unter 4,5:1 | 92,2 % | **2,9 %** |
+| **Unterzeile** — Median | 4,09:1 | **12,48:1** |
+| **Unterzeile** — Fläche unter 4,5:1 | 53,0 % | 12,9 % |
+
+**Das Flächenurteil steht auf „durchgefallen"** — 2,9 % gegen die
+selbstgesetzte 2-%-Grenze. Diese Grenze wurde **nicht** nachträglich
+angehoben, um das Ergebnis grün zu bekommen. Sie stand vorher fest.
+
+Dass der Rest Kantenglättung ist und kein zu heller Grund, zeigt die
+Empfindlichkeitsprüfung — und zwar sauber gegen den Vergleichsfall:
+
+| Toleranz | Runde 3 (Grund zu hell) | Runde 4 (nur Kanten) |
+|---:|---:|---:|
+| 0 | 78,5 % | 13,1 % |
+| 140 | 75,9 % (**flach**) | 1,5 % (**steil**) |
+
+Bleibt der Anteil beim Hochdrehen flach, ist der Hintergrund wirklich zu
+hell. Fällt er steil, waren es Übergangspixel zwischen Schrift und Grund.
+Derselbe Test hat in Runde 3 eine bequeme Ausrede widerlegt und in Runde 4
+eine echte Verbesserung bestätigt. Deshalb gibt `kontrast.py` seit dem
+14.08.2026 beide Urteile aus, das strenge und das nach Fläche, und
+verweist im Bericht auf diese Prüfung.
+
+### Noch offen
 - **`spacing_sections` steht auf 0.** Der Weissraum kommt bisher aus
   meinem CSS. Dawns native Einstellung ist der sauberere Ort und bleibt
   im Theme-Editor sichtbar.

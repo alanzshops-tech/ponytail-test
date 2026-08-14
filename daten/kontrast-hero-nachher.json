@@ -1,0 +1,21 @@
+{
+  "bild": "bilder/nachher4-startseite-mobil.jpg",
+  "bereich": {
+    "x": 0,
+    "y": 470,
+    "breite": 780,
+    "hoehe": 250
+  },
+  "textfarbe": "#FFFFFF",
+  "pixel_gesamt": 195000,
+  "pixel_als_text_ausgeschlossen": 21599,
+  "pixel_hintergrund": 173401,
+  "kontrast_min": 1.36,
+  "kontrast_median": 10.85,
+  "kontrast_max": 20.86,
+  "anteil_unter_4_5_prozent": 2.9,
+  "anteil_unter_3_0_prozent": 2.2,
+  "urteil_streng": "durchgefallen",
+  "urteil_flaeche_normal": "durchgefallen",
+  "urteil_flaeche_gross": "durchgefallen"
+}

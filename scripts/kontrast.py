@@ -113,8 +113,22 @@ def messen(bildpfad: Path, bereich: tuple[int, int, int, int],
         "kontrast_max": round(werte[-1], 2),
         "anteil_unter_4_5_prozent": anteil_unter(AA_NORMAL),
         "anteil_unter_3_0_prozent": anteil_unter(AA_GROSS),
-        "urteil_normaler_text": "bestanden" if werte[0] >= AA_NORMAL else "durchgefallen",
-        "urteil_grosser_text": "bestanden" if werte[0] >= AA_GROSS else "durchgefallen",
+        # Urteil nach dem schlechtesten Pixel ist die strenge Lesart.
+        # Sie ist bei Text ueber Bild aber unbrauchbar streng: Zwischen
+        # weisser Schrift und dunklem Grund liegen immer
+        # kantengeglaettete Uebergangspixel, die per Definition
+        # dazwischen liegen. Die faellt kein Design weg.
+        "urteil_streng": "bestanden" if werte[0] >= AA_NORMAL else "durchgefallen",
+        # Deshalb zusaetzlich ein Flaechenurteil mit 2 % Zugestaendnis
+        # fuer genau diese Kantenpixel. Ob eine Messung wirklich
+        # Kantenglaettung zeigt oder echten zu hellen Grund, verraet die
+        # Empfindlichkeitspruefung: --toleranz hochdrehen. Faellt der
+        # Anteil dann steil, waren es Kanten. Bleibt er flach, ist der
+        # Hintergrund wirklich zu hell. Am 14.08.2026 hat genau dieser
+        # Test eine bequeme Ausrede widerlegt und eine Runde spaeter
+        # eine echte Verbesserung bestaetigt.
+        "urteil_flaeche_normal": "bestanden" if anteil_unter(AA_NORMAL) <= 2.0 else "durchgefallen",
+        "urteil_flaeche_gross": "bestanden" if anteil_unter(AA_GROSS) <= 2.0 else "durchgefallen",
     }
 
 
@@ -138,11 +152,15 @@ def bericht(e: dict) -> str:
         f"| Fläche unter 4,5:1 (normaler Text) | **{e['anteil_unter_4_5_prozent']} %** |",
         f"| Fläche unter 3,0:1 (grosser Text) | {e['anteil_unter_3_0_prozent']} % |",
         "",
-        f"Normaler Text: **{e['urteil_normaler_text']}** · "
-        f"Grosser Text: **{e['urteil_grosser_text']}**",
+        f"Streng (schlechtester Pixel): normaler Text "
+        f"**{e['urteil_streng']}**",
+        f"Nach Fläche (bis 2 % Kantenpixel zugestanden): normaler Text "
+        f"**{e['urteil_flaeche_normal']}** · grosser Text "
+        f"**{e['urteil_flaeche_gross']}**",
         "",
-        "Gemessen wird der schlechteste Pixel, nicht der Durchschnitt — ein "
-        "Text ist so lesbar wie seine schlechteste Stelle.",
+        "Weichen die beiden Urteile ab, `--toleranz` hochdrehen: Fällt der "
+        "Anteil dann steil, waren es kantengeglättete Buchstabenränder. "
+        "Bleibt er flach, ist der Hintergrund wirklich zu hell.",
         "",
     ]
     return "\n".join(z)
