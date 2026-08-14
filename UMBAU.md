@@ -161,14 +161,24 @@ eine echte Verbesserung bestätigt. Deshalb gibt `kontrast.py` seit dem
 verweist im Bericht auf diese Prüfung.
 
 ### Noch offen
-- **`spacing_sections` steht auf 0.** Der Weissraum kommt bisher aus
-  meinem CSS. Dawns native Einstellung ist der sauberere Ort und bleibt
-  im Theme-Editor sichtbar.
-- **Befund 2, schwebende Widgets.** Aus `settings_data.json` bekannt:
-  Shopify Inbox (Chat, unten rechts) ist aktiv, der Widerrufsbutton von
-  Revoq und die Essential Trust Badges stehen auf `disabled`. Auf den
-  Aufnahmen ist nur noch der Chat-Knopf zu sehen — der Befund hat sich
-  womöglich von selbst erledigt, ist aber nicht abgehakt.
+- **`spacing_sections` steht auf 0.** Der Weissraum kommt aus meinem CSS
+  und sitzt auf den Aufnahmen richtig. Dawns native Einstellung wäre der
+  sauberere Ort, weil sie im Theme-Editor sichtbar und verstellbar
+  bleibt. **Bewusst nicht umgestellt:** Beides gleichzeitig würde doppelt
+  wirken, und ein Umbau ohne anschliessende Messung widerspricht der
+  Arbeitsweise. Wer es angeht, muss die CSS-Regel
+  `.shopify-section + .shopify-section` gleichzeitig entfernen und danach
+  neu fotografieren.
+- **Befund 2, schwebende Widgets — erledigt.** Auf den Aufnahmen der
+  Arbeitskopie ist nur noch der Chat-Knopf von Shopify Inbox zu sehen
+  (unten rechts), und er verdeckt nichts. Der Widerrufsbutton von Revoq
+  und die Essential Trust Badges stehen in `settings_data.json` auf
+  `disabled` und erscheinen nicht mehr. Die Überlagerung von drei
+  Widgets aus dem Ausgangszustand tritt nicht mehr auf.
+- **Cookie-Dialog auf dem Desktop.** `webcheck.py` schliesst ihn auf dem
+  Handy zuverlässig, auf dem Desktop meldet es „nicht gefunden" — dort
+  liegt er weiterhin über dem Hero. Für die Handy-Messung ohne Belang,
+  aber die Desktop-Aufnahmen zeigen ihn. Ursache noch nicht untersucht.
 - **`snippets/ebay-default.liquid`** meldet einen `LiquidHTMLSyntaxError`.
   **Nicht reparieren:** Das ist eBays eigene Template-Sprache
   (`{if …}{else}{/if}`), kein kaputtes Liquid. Theme Check liest sie nur
