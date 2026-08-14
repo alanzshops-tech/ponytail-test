@@ -136,6 +136,7 @@ Punktzahlen sehen wie Wissen aus, ohne welches zu sein.
 | 🟡 **P2** | **Sortiment halbieren.** 101 aktive → ~40 in 2–3 Bereichen. | Fokus, weniger Pflege, klarere Marke | 3–4 h | 0 € | mittel |
 | 🟡 **P2** | **12 Verkaufskanäle durchsehen**, kostenpflichtige ohne Umsatz kündigen. | gespartes Geld | 1 h | 0 € | keins |
 | ✅ erledigt | ~~GTIN-Kennzeichnung für Google Shopping fehlte auf allen 101 aktiven Produkten.~~ Metafeld `mm-google-shopping.custom_product = true` gesetzt (13.08.2026 nachts), `vendor` war bereits überall gesetzt. Details, inkl. warum das nötig war: `VERTRIEBSKANAELE.md`. | könnte Sichtbarkeit im Google-Shopping-Feed verbessern | erledigt | 0 € | — |
+| 🔥 **P0, wartet auf dich** | **Product-Schema-Ergänzung liegt fertig in einer Theme-Kopie, noch nicht veröffentlicht.** `brand`/`mpn`/`description` ergänzt, gegen die Vorschau verifiziert (`TRAFFIC.md` Nachtrag). Shopify lässt Theme-Veröffentlichung nur durch einen Menschen zu — auch mit ausdrücklicher Freigabe blockiert das Werkzeug Schreibzugriffe aufs Live-Theme serverseitig. **Freigeben:** admin.shopify.com/store/7a0a31/themes/182683926851/editor → veröffentlichen. | bessere Rich-Snippets in der Google-Suche | 2 Min (nur Mensch) | 0 € | gering — nur ein zusätzlicher `<script>`-Block |
 | 🟡 **P2** | **Deko-Kleinteile zurückholen** — die einzige Kategorie mit echten Verkäufen. | testet ein belegtes Signal | 2 h | 0 € | niedrig |
 | ⚪ **P3** | Währungsformat, Praxis-Note 58, Reels veröffentlichen | Kosmetik und Reichweite | je 1 h | 0 € | keins |
 

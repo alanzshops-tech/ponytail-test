@@ -29,27 +29,31 @@ Content-Kanälen. Vier Funde, zwei davon direkt behoben:
    hat konkretere Ansatzpunkte: ungenutztes JavaScript und
    render-blockierende Anfragen auf allen 34 Seiten.
 
-5. **Product-Schema ist unvollständig — jetzt mit echten Daten belegt.**
-   `scripts/schemaprobe.py` gegen zwei echte Produktseiten laufen
-   lassen (Bürostuhl, Kratzbaum): Dawn liefert `sku`, `offers`
-   (Preis/Verfügbarkeit/Währung) und `image`, aber **kein** `brand`,
-   `gtin`, `aggregateRating`, `review` oder `description` im
-   JSON-LD-Block. Passt exakt zur Recherche ("Stores relying solely on
-   default schema miss out on 60–70% of available rich snippet
-   opportunities"). Startseite und Kollektionsseite zeigen erwartungs-
-   gemäß kein Product-Schema — das ist kein Fehler, Product-Schema
-   gehört nur auf Produktseiten. Details: `SCHEMAPROBE.md`.
+5. **Product-Schema war unvollständig — jetzt behoben, in einer
+   unveröffentlichten Theme-Kopie, bereit zur Freigabe (13./14.08.2026
+   nachts).** `scripts/schemaprobe.py` gegen zwei echte Produktseiten
+   zeigte: Dawn liefert `sku`, `offers` (Preis/Verfügbarkeit/Währung)
+   und `image`, aber **kein** `brand`, `gtin`, `aggregateRating`,
+   `review` oder `description` im JSON-LD-Block. Passt exakt zur
+   Recherche ("Stores relying solely on default schema miss out on
+   60–70% of available rich snippet opportunities").
 
-   **Bewusst nicht umgesetzt, aus gutem Grund:** Eine Ergänzung
-   gehört laut `CLAUDE.md` Regel 2 in `custom-liquid`, nicht in Dawns
-   eigene Dateien, und muss laut Regel 1 erst in einer Kopie stehen,
-   bevor ein Mensch veröffentlicht. `aggregateRating` sollte ohnehin
-   nicht blind ergänzt werden, solange die Judge.me-Bewertungssituation
-   noch nicht sauber ist (siehe `AUDIT.md`) — sonst wird genau der
-   Fehler wiederholt, der am 9.8. schon einmal entfernt wurde. Das ist
-   eine Aufgabe für die Theme-Sandbox, nicht für nachts im Alleingang.
+   **Umsetzung:** Auf ausdrückliche Freigabe hin (CLAUDE.md Regel 1
+   für diesen einen Fall bewusst aufgehoben) ein `custom_liquid`-Block
+   mit ergänzendem Product-Schema (`brand`, `mpn` = `sku`,
+   `description`) in einer **Kopie** des Live-Themes ergänzt — Dawns
+   eigene `sections/main-product.liquid` (Regel 2) blieb unangetastet,
+   das Werkzeug selbst verweigert Schreibzugriffe aufs Live-Theme
+   ohnehin serverseitig. Gegen die Vorschau-URL erneut mit
+   `schemaprobe.py` geprüft: `brand`/`mpn`/`description` jetzt ✅,
+   `aggregateRating`/`review`/`gtin` bewusst weiterhin ❌ (Judge.me-
+   Bewertungslage ungeklärt, kein echtes GTIN vorhanden). Theme:
+   „Schema-Ergänzung (Claude, 13.08.2026 nachts) – zur Freigabe",
+   `gid://shopify/OnlineStoreTheme/182683926851` — **noch nicht
+   veröffentlicht**, das kann laut Shopify-Regelwerk nur ein Mensch im
+   Adminbereich.
 
-Diese vier Funde ändern **nichts** an der Kanal-Priorisierung unten
+Diese fünf Funde ändern **nichts** an der Kanal-Priorisierung unten
 (Reels/Pinterest/Ratgeber) — sie sind eine Ebene darunter: Ob die
 Kanäle überhaupt technisch sauber funktionieren, bevor mehr Content
 draufgepackt wird.
