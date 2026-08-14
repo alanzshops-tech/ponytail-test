@@ -6,21 +6,21 @@
       "url": "https://www.homeeins.de/?preview_theme_id=182686056771",
       "status": 200,
       "cookie_dialog": "geschlossen via 'Ablehnen'",
-      "ms_bis_erste_anzeige": 1136,
+      "ms_bis_erste_anzeige": 1300,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2390,
-      "dom_knoten": 1370,
+      "ms_bis_fertig": 2225,
+      "dom_knoten": 1385,
       "bilder_gesamt": 16,
       "bilder_ohne_alt": 1,
       "h1_anzahl": 1,
       "formulare": 4,
       "seitenhoehe": 4183,
       "waagerecht_scrollbar": false,
-      "anfragen": 401,
-      "gewicht_kb": 3733,
+      "anfragen": 408,
+      "gewicht_kb": 3721,
       "nach_typ_kb": {
-        "script": 1615,
-        "other": 958,
+        "script": 1575,
+        "other": 986,
         "image": 706,
         "font": 259,
         "stylesheet": 146,
@@ -30,32 +30,26 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=8131a479-ff80-42e4-b2ea-5d936bd2ab98&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=5248bbd5-5d0c-474e-a4aa-91027e9a0352&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 236,
-          "kb": 1995
+          "anfragen": 250,
+          "kb": 2000
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 103,
-          "kb": 1063
+          "anfragen": 104,
+          "kb": 1084
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
-          "anfragen": 12,
+          "anfragen": 11,
           "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 10,
-          "kb": 43
         },
         {
           "host": "monorail-edge.shopifysvc.com",
@@ -73,13 +67,19 @@
           "host": "www.googletagmanager.com",
           "eigen": false,
           "anfragen": 3,
-          "kb": 513
+          "kb": 472
         },
         {
           "host": "ct.pinterest.com",
           "eigen": false,
           "anfragen": 3,
           "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 45
         },
         {
           "host": "connect.facebook.net",
@@ -112,18 +112,6 @@
           "kb": 7
         },
         {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "stats.g.doubleclick.net",
           "eigen": false,
           "anfragen": 1,
@@ -136,7 +124,25 @@
           "kb": 0
         },
         {
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "analytics-ipv6.tiktokw.us",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -148,19 +154,13 @@
           "kb": 5
         },
         {
-          "host": "metashop.dolphinsuite.com",
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
           "host": "bundler.nice-team.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -179,19 +179,19 @@
         }
       ],
       "fremde_hosts": 18,
-      "fremde_anfragen": 39,
-      "fremde_kb": 674,
-      "bild": "bilder/nachher2-startseite-mobil.jpg",
-      "bild_kb": 470
+      "fremde_anfragen": 32,
+      "fremde_kb": 635,
+      "bild": "bilder/nachher3-startseite-mobil.jpg",
+      "bild_kb": 475
     },
     {
       "geraet": "desktop",
       "url": "https://www.homeeins.de/?preview_theme_id=182686056771",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 664,
+      "ms_bis_erste_anzeige": 1348,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 1670,
+      "ms_bis_fertig": 2098,
       "dom_knoten": 1385,
       "bilder_gesamt": 16,
       "bilder_ohne_alt": 1,
@@ -199,11 +199,11 @@
       "formulare": 4,
       "seitenhoehe": 4172,
       "waagerecht_scrollbar": false,
-      "anfragen": 410,
-      "gewicht_kb": 3769,
+      "anfragen": 401,
+      "gewicht_kb": 3766,
       "nach_typ_kb": {
-        "script": 1685,
-        "other": 986,
+        "script": 1684,
+        "other": 984,
         "image": 646,
         "font": 259,
         "stylesheet": 146,
@@ -213,32 +213,26 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=ef6f7b99-b31c-48de-908b-3c98fa007e8a&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=a9dfc91c-702a-4ff4-a53a-a8fcb5299632&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 249,
+          "anfragen": 248,
           "kb": 1941
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 102,
-          "kb": 1084
+          "anfragen": 101,
+          "kb": 1083
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
           "anfragen": 11,
           "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 10,
-          "kb": 45
         },
         {
           "host": "monorail-edge.shopifysvc.com",
@@ -263,6 +257,12 @@
           "eigen": false,
           "anfragen": 3,
           "kb": 0
+        },
+        {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 43
         },
         {
           "host": "connect.facebook.net",
@@ -295,14 +295,14 @@
           "kb": 7
         },
         {
-          "host": "forms.shopifyapps.com",
-          "eigen": true,
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.merchant-center-analytics.goog",
-          "eigen": false,
+          "host": "forms.shopifyapps.com",
+          "eigen": true,
           "anfragen": 1,
           "kb": 0
         },
@@ -325,19 +325,13 @@
           "kb": 5
         },
         {
-          "host": "metashop.dolphinsuite.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "bundler.nice-team.net",
+          "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -355,6 +349,12 @@
           "kb": 0
         },
         {
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
           "host": "www.trustedsite.com",
           "eigen": false,
           "anfragen": 1,
@@ -362,10 +362,10 @@
         }
       ],
       "fremde_hosts": 18,
-      "fremde_anfragen": 39,
-      "fremde_kb": 743,
-      "bild": "bilder/nachher2-startseite-desktop.jpg",
-      "bild_kb": 439
+      "fremde_anfragen": 32,
+      "fremde_kb": 741,
+      "bild": "bilder/nachher3-startseite-desktop.jpg",
+      "bild_kb": 446
     }
   ]
 }
