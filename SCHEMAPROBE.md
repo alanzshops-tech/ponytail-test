@@ -2,7 +2,7 @@
 
 Rein lesend geprüft, keine Theme-Änderung. Prüft, ob und wie vollständig Product-Schema auf Produktseiten steht — das beeinflusst laut Recherche die Klickrate in der Google-Suche, unabhängig vom Ranking selbst.
 
-## https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad?preview_theme_id=182683926851
+## https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad
 
 3 `application/ld+json`-Block(e) gefunden, davon 4 mit `@type: Product`.
 
@@ -24,7 +24,7 @@ Rein lesend geprüft, keine Theme-Änderung. Prüft, ob und wie vollständig Pro
 
 `offers`-Unterfelder: `price` ✅, `availability` ✅, `priceCurrency` ✅
 
-## https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch?preview_theme_id=182683926851
+## https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch
 
 3 `application/ld+json`-Block(e) gefunden, davon 4 mit `@type: Product`.
 
