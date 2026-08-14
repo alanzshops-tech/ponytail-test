@@ -99,7 +99,8 @@ def consent_wegklicken(seite) -> str:
     durch, weil die Huerde bis dahin von selbst weg war. Positionsabhaengig,
     also kein Zufall."""
     for text in ("Alle akzeptieren", "Accept all", "Alle Cookies akzeptieren",
-                 "Nur erforderliche Cookies", "Weiter shoppen"):
+                 "Nur erforderliche Cookies", "Weiter shoppen",
+                 "Continue shopping", "Accept Cookies", "Dismiss"):
         try:
             k = seite.get_by_role("button", name=text, exact=False)
             if k.count() and k.first.is_visible(timeout=1200):
@@ -287,6 +288,9 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
         z += ["", "## Fehlgeschlagen", ""]
         for e in fehler:
             z.append(f"- **{e['begriff']}** — {e['fehler']}")
+            if e.get("seitentitel"):
+                z.append(f"  - Seitentitel: `{e['seitentitel']}`")
+                z.append(f"  - Seitenanfang: `{e.get('seitenanfang','')[:180]}`")
 
     z += ["", "## Wie zu lesen", "",
           "- **BSR Median niedrig** = viel Nachfrage in dieser Nische.",
