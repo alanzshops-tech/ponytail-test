@@ -53,6 +53,11 @@ MARKTPLAETZE = {
 # Groessenordnung, nicht der Buchhaltung. Ueber --konstanten aenderbar.
 A_STANDARD, B_STANDARD = 100_000.0, 0.85
 
+# Der Bericht wird bei jedem Lauf neu geschrieben. Von Hand ergaenzte
+# Auswertungen gingen dabei verloren -- am 14.08.2026 knapp verhindert.
+# Alles unterhalb dieser Zeile wird uebernommen.
+MARKER = '<!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->'
+
 
 def zahl_aus(text: str) -> int | None:
     """'1.234' oder '1,234' -> 1234. Beide Tausendertrennzeichen, weil
@@ -358,8 +363,15 @@ def main() -> None:
     ordner.mkdir(parents=True, exist_ok=True)
     (ordner / "kdp-nischen.json").write_text(
         json.dumps(ergebnisse, indent=2, ensure_ascii=False), encoding="utf-8")
-    Path("KDP-NISCHEN.md").write_text(bericht(ergebnisse, a, b),
-                                      encoding="utf-8")
+    ziel = Path("KDP-NISCHEN.md")
+    handnotizen = ""
+    if ziel.exists():
+        alt = ziel.read_text(encoding="utf-8")
+        if MARKER in alt:
+            handnotizen = "\n" + MARKER + alt.split(MARKER, 1)[1]
+            print("Handnotizen uebernommen "
+                  f"({len(handnotizen)} Zeichen)")
+    ziel.write_text(bericht(ergebnisse, a, b) + handnotizen, encoding="utf-8")
     print(f"\ngeschrieben: KDP-NISCHEN.md, {ordner / 'kdp-nischen.json'}")
 
 

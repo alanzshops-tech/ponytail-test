@@ -32,6 +32,7 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 Die beste Nische hat **niedrigen BSR bei niedrigen Bewertungszahlen**. Das ist Nachfrage ohne festsitzende Platzhirsche.
 
+<!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
 ---
 
 ## Auswertung 14.08.2026 — und was diese Zahlen NICHT hergeben
