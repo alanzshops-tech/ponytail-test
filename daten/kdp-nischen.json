@@ -1,0 +1,244 @@
+[
+  {
+    "begriff": "milliardär liebesroman",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "billionaire romance deutsch",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "chef und angestellte liebesroman",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "enemies to lovers deutsch",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "scheinehe liebesroman",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "zweite chance liebesroman",
+    "markt": "www.amazon.de",
+    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+  },
+  {
+    "begriff": "reicher mann liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0HCKHVDCQ",
+        "titel": "Hüte dich vor dem reichen Mann (Reicher Mann | Armer Mann | Bettler | Dieb 1)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 2.0,
+        "bsr": 25504
+      },
+      {
+        "asin": "B07YCWMB1B",
+        "titel": "Reicher Mann, armes Herz (Nancys Ostsee-Liebesromane - Deutsche Liebesromane mit Happy End)",
+        "gesponsert": false,
+        "preis": 3.99,
+        "bewertungen": null,
+        "sterne": 4.1,
+        "bsr": 186383
+      },
+      {
+        "asin": "B0GHPHH5S7",
+        "titel": "Sündhaft reiche Männer – Manhattan – Komplette Serie, Bände 1–3: Heiße Milliardärsromanzen – Die komplette Serie",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.5,
+        "bsr": 265772
+      },
+      {
+        "asin": "B086PGVJCQ",
+        "titel": "Sündhaft reich & unverschämt Alpha: Eine Büro-Romanze mit einem Milliardär, der nie verliert (Sündhaft reiche Männer – Manhattan 1)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.4,
+        "bsr": 235686
+      },
+      {
+        "asin": "B0HCK6MPTZ",
+        "titel": "Die Diebin (Reicher Mann | Armer Mann | Bettler | Dieb 4)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 58488
+      },
+      {
+        "asin": "B0DZD32THG",
+        "titel": "Mann der Stärke: Milliardärs Kurzroman (Unverschämt reiche Liebe 5)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B08FMMCVD4",
+        "titel": "Unzensierter Dreier mit reichen Männern (Luxuriöse Dreier mit zwei Milliardären 3)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B0CY5R5Q4N",
+        "titel": "Kontrolliert von meinem Milliardärs-Boss: Ein CEO-Liebesroman (Die Valenti-Männer – Millionär-Liebesromane 1)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0HCK7KZV2",
+        "titel": "Verzaubert vom armen Mann (Reicher Mann | Armer Mann | Bettler | Dieb 2)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B0HCKCHHP7",
+        "titel": "Verraten vom Bettler (Reicher Mann | Armer Mann | Bettler | Dieb 3)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": null
+      }
+    ],
+    "bsr_werte": [
+      25504,
+      186383,
+      265772,
+      235686,
+      58488
+    ],
+    "bsr_median": 186383,
+    "bsr_bester": 25504,
+    "verkaeufe_tag_geschaetzt": 3.31,
+    "bewertungen_median": null,
+    "preis_median": 3.99,
+    "im_70_prozent_fenster": 1
+  },
+  {
+    "begriff": "dark romance deutsch",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0F3PG4MNN",
+        "titel": "Lights Out: Roman | Heiße Dark RomCom für Leser:innen von Brynne Weaver endlich auf Deutsch! (Aly & Josh)",
+        "gesponsert": false,
+        "preis": 4.99,
+        "bewertungen": null,
+        "sterne": 4.4,
+        "bsr": 171
+      },
+      {
+        "asin": "B0FXSXY1C2",
+        "titel": "Still Beating: Roman - Diese Dark-Thriller-Romance wird dein Herz zerbrechen: Der SPIEGEL-Bestseller und BookTok-Bestseller erstmals auf Deutsch!",
+        "gesponsert": false,
+        "preis": 13.99,
+        "bewertungen": null,
+        "sterne": 4.7,
+        "bsr": 245
+      },
+      {
+        "asin": "B0F4NRSCT4",
+        "titel": "Leave Me Behind: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
+        "gesponsert": false,
+        "preis": 14.99,
+        "bewertungen": null,
+        "sterne": 4.4,
+        "bsr": 1385
+      },
+      {
+        "asin": "B0GSBBXXNC",
+        "titel": "Sick Boys : Why Choose Dark Academy Romance (Skull & Serpent Society. 1)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.5,
+        "bsr": 199
+      },
+      {
+        "asin": "B0H6J4T1J8",
+        "titel": "Ghost: Solange du mich brauchst | Er muss mich nicht berühren, um meinen Körper zu besitzen. Er muss nur wissen, wie meine Seele funktioniert.",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.5,
+        "bsr": 2888
+      },
+      {
+        "asin": "B0FMXQ19DB",
+        "titel": "Bulletproof: Roman - Der Dark-Romance-Hype endlich auf Deutsch!",
+        "gesponsert": false,
+        "preis": 14.99,
+        "bewertungen": null,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0CW1KNFVV",
+        "titel": "My Dark Romeo: Roman | Deutsche Ausgabe. Die Billionaire Romance, die TikTok nicht mehr aus der Hand legen kann! (Dark Prince Road 1)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0CW1DRG3T",
+        "titel": "Credence – Sie ist tabu, doch Liebe kennt keine Regeln: Roman | Sinnliche Dark Romance von der TikTok-Lieblingsautorin des SPIEGEL-Bestsellers »Punk 57« endlich auf Deutsch!",
+        "gesponsert": false,
+        "preis": 4.99,
+        "bewertungen": null,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0HCYG7W43",
+        "titel": "Become The Dark: Dunkle Mafia Romance Series, 3 Bucher in Einem! (Deutsche Ausgabe) (Mafia-Imperium Kollektion 2)",
+        "gesponsert": false,
+        "preis": 0.0,
+        "bewertungen": null,
+        "sterne": 2.0
+      },
+      {
+        "asin": "B0G39JZCWK",
+        "titel": "Bad Bishop: Roman - Der Dark-Mafia-Romance-Hype endlich auf Deutsch! Mit exklusivem Bonuskapitel! (Society of Villains 1)",
+        "gesponsert": false,
+        "preis": 14.99,
+        "bewertungen": null,
+        "sterne": 4.6
+      }
+    ],
+    "bsr_werte": [
+      171,
+      245,
+      1385,
+      199,
+      2888
+    ],
+    "bsr_median": 245,
+    "bsr_bester": 171,
+    "verkaeufe_tag_geschaetzt": 931.56,
+    "bewertungen_median": null,
+    "preis_median": 14.49,
+    "im_70_prozent_fenster": 2
+  }
+]
