@@ -26,6 +26,14 @@ on:
         description: "Zielordner für bild_urls, unter bilder/"
         required: false
         default: "bilder/heruntergeladen"
+      kdp_begriffe:
+        description: "KDP-Nischen messen, Begriffe durch | getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      kdp_markt:
+        description: "Marktplatz für die KDP-Messung: de oder com"
+        required: false
+        default: "de"
       url_datei:
         description: "Welche URL-Liste fotografieren (z. B. urls-vorschau.txt)"
         required: false
@@ -73,6 +81,31 @@ jobs:
         run: |
           pip install --quiet requests
           python3 scripts/bilder_holen.py --urls $BILD_URLS --ordner "$BILD_ORDNER"
+
+      # Misst Nachfrage und Wettbewerb fuer Buchnischen. Kleinvolumig und
+      # nur lesend -- Amazons Nutzungsbedingungen untersagen
+      # automatisierten Zugriff, das ist eine Grauzone und im Skriptkopf
+      # dokumentiert. Deshalb Pausen und wenige Seiten je Lauf.
+      # Der Trenner ist |, nicht das Leerzeichen: Suchbegriffe wie
+      # "milliardär liebesroman" bestehen aus mehreren Woertern.
+      - name: KDP-Nischen messen
+        if: inputs.kdp_begriffe != ''
+        continue-on-error: true
+        env:
+          KDP_BEGRIFFE: ${{ inputs.kdp_begriffe }}
+          KDP_MARKT: ${{ inputs.kdp_markt }}
+        run: |
+          python3 - <<'PY' > /tmp/begriffe.txt
+          import os
+          for b in os.environ["KDP_BEGRIFFE"].split("|"):
+              b = b.strip()
+              if b:
+                  print(b)
+          PY
+          mapfile -t BEGRIFFE < /tmp/begriffe.txt
+          printf 'Begriffe: %s\n' "${BEGRIFFE[@]}"
+          python3 scripts/kdp_nischen.py --markt "$KDP_MARKT" \
+            --begriffe "${BEGRIFFE[@]}"
 
       # Eigener, optionaler Schritt: prueft echten Tap-Zoom auf dem Handy,
       # nicht nur ob die Seite laedt. Siehe PRODUKTBILDER.md.
@@ -144,6 +177,7 @@ jobs:
           git add bilder WEBSITE.md daten/webcheck-aktuell.json 2>/dev/null || true
           git add ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
           git add SCHEMAPROBE.md daten/schemaprobe.json 2>/dev/null || true
+          git add KDP-NISCHEN.md daten/kdp-nischen.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
