@@ -18,6 +18,11 @@ on:
         description: "Zielordner im Repository"
         type: string
         default: "theme/live"
+      modus:
+        description: "holen = Theme herunterladen; hochladen = Ordner ins Theme zurueckschreiben"
+        type: choice
+        options: ["holen", "hochladen"]
+        default: "holen"
 permissions:
   contents: write
 
@@ -53,6 +58,7 @@ jobs:
           echo "Token vorhanden, ${#TOKEN} Zeichen."
 
       - name: Theme herunterladen
+        if: inputs.modus != 'hochladen'
         env:
           SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
           SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
@@ -67,6 +73,34 @@ jobs:
           fi
           echo "--- heruntergeladen ---"
           find "$ZIEL" -type f | wc -l
+
+      # Hochladen ist der gefaehrliche Weg, deshalb drei Sperren:
+      #   1. Eine Theme-ID ist Pflicht. Ohne sie wuerde die CLI aufs
+      #      veroeffentlichte Theme zielen -- genau das, was Regel 1 in
+      #      CLAUDE.md verbietet.
+      #   2. Kein --allow-live. Ohne dieses Flag verweigert die CLI den
+      #      Push auf ein veroeffentlichtes Theme von sich aus.
+      #   3. Der Zielordner muss existieren und Dateien enthalten, sonst
+      #      wuerde ein leerer Ordner das Theme leerraeumen.
+      - name: Theme hochladen
+        if: inputs.modus == 'hochladen'
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+          ZIEL: ${{ inputs.ziel }}
+        run: |
+          if [ -z "$THEME" ]; then
+            echo "::error::Zum Hochladen ist eine Theme-ID Pflicht. Leer wuerde aufs Live-Theme zielen."
+            exit 1
+          fi
+          ANZAHL=$(find "$ZIEL" -type f 2>/dev/null | wc -l)
+          if [ "$ANZAHL" -lt 50 ]; then
+            echo "::error::$ZIEL enthaelt nur $ANZAHL Dateien. Das sieht nach einem leeren oder halben Ordner aus - Abbruch, statt das Theme leerzuraeumen."
+            exit 1
+          fi
+          echo "Lade $ANZAHL Dateien nach Theme $THEME ..."
+          shopify theme push --path "$ZIEL" --theme "$THEME" --no-color
 
       - name: Theme Check
         continue-on-error: true

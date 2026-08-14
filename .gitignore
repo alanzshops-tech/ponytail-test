@@ -10,4 +10,8 @@ dist/
 # Laufs, nicht als Commit.
 theme/sandbox-voll/
 theme/sandbox-neu/
-arbeitskopie/
+# `arbeitskopie/` ohne fuehrenden Schraegstrich griff auf jeder Ebene und
+# hat damit auch `theme/arbeitskopie/` verschluckt -- der Pull vom
+# 14.08.2026 lief durch, committete aber nichts. Jetzt nur noch die
+# Kopie an der Wurzel, nicht die im theme-Ordner.
+/arbeitskopie/
