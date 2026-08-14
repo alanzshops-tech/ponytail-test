@@ -49,10 +49,12 @@ Content-Kanälen. Vier Funde, zwei davon direkt behoben:
    `aggregateRating`/`review`/`gtin` bewusst weiterhin ❌ (Judge.me-
    Bewertungslage ungeklärt, kein echtes GTIN vorhanden). Theme:
    „Schema-Ergänzung (Claude, 13.08.2026 nachts) – zur Freigabe",
-   `gid://shopify/OnlineStoreTheme/182683926851` — **veröffentlicht**
-   (14.08.2026, vom Nutzer selbst im Adminbereich). Per `graphql_query`
-   bestätigt: das Theme steht jetzt auf `role: MAIN`. Live-Verifizierung
-   gegen die echte Produkt-URL (ohne `preview_theme_id`) läuft.
+   `gid://shopify/OnlineStoreTheme/182683926851` — **veröffentlicht und
+   live bestätigt** (14.08.2026, vom Nutzer selbst im Adminbereich).
+   `schemaprobe.py` gegen die echte Produkt-URL (ohne
+   `preview_theme_id`) zeigt `brand`/`mpn`/`description` jetzt ✅ auf
+   der Produktionsseite, `aggregateRating`/`review`/`gtin` wie geplant
+   weiterhin ❌. Damit abgeschlossen.
 
 6. **Interne Verlinkung der 4 Ratgeber ergänzt (14.08.2026).** Alle vier
    waren nur über Pinterest/direkt erreichbar, keine Kollektionsseite
