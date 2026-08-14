@@ -216,10 +216,20 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
     if not liste:
         # Leeres Ergebnis ist kein Befund. Entweder blockiert Amazon oder
         # der Selektor passt nicht mehr -- beides muss auffallen.
-        ergebnis["fehler"] = ("Keine Treffer gelesen. Entweder blockiert "
-                              "Amazon den Abruf oder die Seitenstruktur hat "
-                              "sich geaendert. NICHT als 'keine Konkurrenz' "
-                              "deuten.")
+        # Ohne Diagnose sehen CAPTCHA, Consent-Variante und geaenderte
+        # Seitenstruktur im Bericht identisch aus. Am 14.08.2026 scheiterten
+        # acht .com-Begriffe, und die Ursache war aus dem Bericht nicht
+        # erkennbar.
+        try:
+            titel = seite.title()
+            text = " ".join(
+                seite.evaluate("() => document.body.innerText")[:220].split())
+        except Exception:
+            titel, text = "(nicht lesbar)", "(nicht lesbar)"
+        ergebnis["fehler"] = ("Keine Treffer gelesen. NICHT als 'keine "
+                              "Konkurrenz' deuten.")
+        ergebnis["seitentitel"] = titel
+        ergebnis["seitenanfang"] = text
         return ergebnis
 
     organisch = [t for t in liste if not t["gesponsert"]]

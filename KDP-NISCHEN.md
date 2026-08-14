@@ -180,3 +180,50 @@ Die Spalte **gesponsert** zeigt trotz reparierter Selektoren erneut in
 gewirkt. Weiterhin **nicht als „keine Anzeigenkonkurrenz" lesen** —
 entweder greift der Selektor immer noch nicht, oder Amazon liefert an
 den Runner Seiten ohne Anzeigen aus.
+
+---
+
+## Nachtrag: Marktvergleich Deutsch gegen Englisch (14.08.2026)
+
+### Werkzeuggrenze zuerst
+
+Von 11 Versuchen auf **amazon.com** ist **einer** durchgekommen. Auf
+amazon.de laufen dieselben Abrufe zuverlässig. Das ist eine
+**Werkzeuggrenze, kein Marktbefund** — die FEHLER-Zeilen bei
+amazon.com dürfen **nicht** als „keine Konkurrenz auf Englisch" gelesen
+werden. Vermutlich greift die Bot-Erkennung auf .com bei
+Rechenzentrums-Adressen härter.
+
+Beim Reparaturversuch ist mir ein eigener Fehler unterlaufen: Der
+Diagnose-Einbau hat nur zur Hälfte gegriffen (Berichtsteil ja, Setzen der
+Werte nein), und ich habe „eingebaut" gemeldet, ohne es zu prüfen.
+Deshalb blieb der zweite Fehlschlag wieder ohne Ursache. Korrigiert und
+diesmal mit `assert` nachgewiesen.
+
+### Der eine Datenpunkt, der durchkam
+
+| Nische | Markt | Bewertungen Median | Preis | in KU | gesponsert |
+|---|---|---:|---:|---:|---:|
+| geheimes baby liebesroman | **amazon.de** | **43** | – | 10/10 | 0/10 |
+| secret baby romance | **amazon.com** | **292** | 5,99 $ | 8/10 | **2/10** |
+
+Dieselbe Nische, zwei Märkte: Die Führenden auf Englisch haben rund
+**siebenmal so viele Bewertungen**. Genau das, was man erwartet — nur
+jetzt gemessen statt vermutet.
+
+**Nebenbefund:** Die Spalte „gesponsert" zeigt auf .com **2/10**, auf .de
+durchgehend 0/10. Der Selektor ist also **nicht grundsätzlich kaputt** —
+er trifft die englische Markierung und die deutsche nicht. Das verengt
+die Fehlersuche erheblich.
+
+### Bewertung
+
+Ein Datenpunkt trägt keine Marktentscheidung. Er zeigt aber in dieselbe
+Richtung wie alles andere, und die Entscheidung hängt ohnehin an etwas,
+das keine Messung beantwortet: **Romance lebt von Stimme und Dialog.**
+Das auf Marktniveau in einer Fremdsprache zu treffen, ist etwas anderes
+als eine Produktbeschreibung zu übersetzen.
+
+→ **Deutsch**, wo zwei Lücken gemessen sind. Übersetzung später, wenn die
+Reihe trägt — dann finanzieren die Bände sie, statt vorgeschossen zu
+werden.
