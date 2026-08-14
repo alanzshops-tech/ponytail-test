@@ -165,6 +165,95 @@ Wenn der Shop läuft, ist das eine ehrliche Geschichte. Vorher nicht.
 
 ---
 
+## 7. Amazon KDP — eigener Abschnitt, weil es anders funktioniert
+
+Recherchiert am 14.08.2026 auf Nachfrage.
+
+### Die Zahlen
+
+| | |
+|---|---|
+| Tantiemen | **35 %** oder **70 %** vom Verkaufspreis |
+| 70 % nur bei | Preis zwischen **2,99 und 9,99 €** (Deutschland) |
+| darunter/darüber | nur 35 % |
+| bei 70 % zusätzlich | Dateiübertragungsgebühr nach Dateigrösse |
+
+**Realistisch:** 100–500 € im Monat mit **20 bis 50 Büchern** im
+Portfolio. Die **Mehrheit der KDP-Autoren verdient unter 500 € im Monat.**
+Wer davon lebt, hat typischerweise 5–15 Titel und kommt auf
+3.000–10.000 € — das ist die Spitze, nicht der Normalfall.
+
+Entscheidend: **Die Zahlen gelten je Portfolio, nicht je Buch.** Ein
+einzelnes Buch ist kein Einkommen, es ist ein Versuch.
+
+### Der Vorteil
+
+Amazon bringt **eigenen Traffic**, und zwar sehr viel. Dieselbe Logik wie
+bei eBay und Etsy: Wo kein eigenes Publikum ist, leiht man sich fremdes.
+Für einen Shop mit sieben Bestellungen in drei Jahren ist das das
+stärkste Argument überhaupt.
+
+### Der Steuerhaken — hier anders als bei Reseller-Plattformen
+
+KDP zahlt über **Amazon Media EU S.à r.l., Luxemburg**
+(USt-IdNr. `LU 20944528`). Damit gilt **Reverse Charge**. Für einen
+Kleinunternehmer heisst das:
+
+- Es braucht eine **eigene USt-IdNr.**
+- Es braucht eine **Zusammenfassende Meldung**, quartalsweise, bis zum
+  **25. nach Quartalsende**.
+- Wer zusätzlich **Amazon Advertising** bucht, bezieht eine Leistung aus
+  dem EU-Ausland und muss die Umsatzsteuer **selbst abführen** — als
+  Kleinunternehmer **ohne Vorsteuerabzug**, also aus eigener Tasche.
+
+**Das ist der Unterschied zu Digistore24 oder CopeCart:** Dort verschwindet
+die Steuerfrage, weil die Plattform Verkäufer ist. Bei KDP entstehen
+laufende Meldepflichten. Kein Ausschlussgrund, aber jemand muss es machen.
+
+### Die KI-Regeln — streng, Verstösse sind teuer
+
+- **Offenlegungspflicht** für KI-erzeugten Text, Bilder und Übersetzungen,
+  die **im Buch landen** — auch wenn danach überarbeitet wurde.
+- **Nicht** offenzulegen ist KI im Arbeitsablauf, der nicht Buchinhalt
+  wird (Recherche, Gliederung, Lektoratshilfe).
+- **Höchstens 3 neue Titel pro Tag** je Konto.
+- Bei Nichtoffenlegung: Buch wird **ohne Vorwarnung** entfernt. Bei
+  Wiederholung **Kontosperre — und die nimmt den gesamten Katalog mit.**
+  Widerspruch gilt als schwierig.
+
+Entscheidend: **Amazon entfernt nicht wegen KI-Nutzung, sondern wegen
+nicht offengelegter KI-Nutzung.** Falsche Angaben gelten als der
+schnellste Weg zur Sperrung. Also: angeben, immer.
+
+### Der eigentliche Engpass
+
+Nicht die Plattform, nicht die Steuer, nicht die KI-Regeln — sondern
+**das Thema.** Ein Buch verkauft sich über Fachkenntnis oder eine
+Geschichte, die jemand lesen will.
+
+Dieselbe Grenze wie in Abschnitt 6: **Kein Buch über E-Commerce-Erfolg,
+Dropshipping oder Nebeneinkommen.** Sieben Bestellungen in drei Jahren
+sind keine Grundlage, und es ist die Kategorie mit dem grössten Angebot
+und den misstrauischsten Lesern.
+
+Diese Frage kann nur der Betreiber beantworten, keine Recherche.
+
+### KDP gegen Etsy-Printables
+
+| | KDP | Etsy-Printables |
+|---|---|---|
+| Traffic | sehr hoch | hoch |
+| Aufwand je Produkt | **hoch** (ein Buch) | niedrig |
+| Zeit bis zum ersten Verkauf | Wochen bis Monate | Tage |
+| Steuerpflichten | **USt-IdNr. + ZM** | einfacher |
+| Portfolio für 100–500 € | 20–50 Bücher | 50–100 Angebote |
+| Passt zur belegten Nische | nur bei passendem Thema | **ja, Wohn-Deko** |
+
+Beides sind Marktplatzstrategien mit fremdem Traffic. Etsy ist der
+schnellere Test, KDP der langsamere mit höherer Decke.
+
+---
+
 ## Quellen
 
 Produktkategorien und Umsatzpotenzial:
@@ -185,6 +274,17 @@ Plattformgebühren:
 [Payhip](https://payhip.com/blog/gumroad-alternatives/),
 [Colorlib](https://colorlib.com/wp/platforms-for-selling-digital-products/),
 [Designrr](https://designrr.io/where-to-sell-digital-products/) ·
+KDP-Tantiemen und Einnahmen:
+[kdp-guide](https://kdp-guide.de/kdp-tantiemen/),
+[Rezenzo](https://www.rezenzo.de/blog/amazon-kdp-tantiemen-erklart-so-funktioniert-dein-verdienst-2026),
+[Gaiswinkler](https://danielgaiswinkler.com/print-on-demand/kindle-direct-publishing/) ·
+KDP Reverse Charge und Kleinunternehmer:
+[Nomad Publishing](https://nomad-publishing.de/blog/amazon-kdp-steuern),
+[Gaiswinkler Reverse-Charge](https://danielgaiswinkler.com/print-on-demand/umsatzsteuer-reverse-charge/) ·
+KDP KI-Regeln:
+[publishing.co.uk](https://publishing.co.uk/guides/kdp-ai-content-disclosure/),
+[Built&Written](https://www.builtwritten.com/blog/disclose-ai-in-your-book-kdp-policy-2026),
+[univers.studio](https://www.univers.studio/blog/kdp-ai-content-policy-2026/) ·
 Etsy-Sättigung und Erwartungswerte:
 [SideQuestHustle](https://sidequesthustle.com/guides/etsy-digital-products-guide-2026),
 [Insight Agent](https://www.insightagent.app/trends/etsy-printables),
