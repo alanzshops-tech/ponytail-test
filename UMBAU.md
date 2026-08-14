@@ -80,6 +80,65 @@ Sammel-Durchgang, sobald der Token da ist.
 
 ---
 
+### Umgesetzt am 14.08.2026, nach dem Theme-Token
+
+Der Token war bereits im Tresor. Damit lief die richtige Pipeline an:
+`theme pull` → lokal bearbeiten → `theme check` → `theme push`.
+
+| Was | Wo |
+|---|---|
+| Designsystem: warmes Off-White, `#2e2e2e` statt Reinschwarz, Raum-Skala, Serifen | `assets/homeeins-design.css` (neu), eingebunden in `layout/theme.liquid` |
+| Farbschemata `background-1` und `background-2` | `config/settings_data.json` |
+| Vertrauensbalken mit vier SVG-Icons statt Emoji, doppelte Zahlungs-Icons entfernt | `templates/index.json` |
+| Kacheltitel auf zwei Zeilen begrenzt | CSS, `line-clamp` — kürzt nur optisch |
+| Hero-Scrim hinter dem Textblock | CSS, `.banner__box` |
+
+### Drei Messrunden, drei Befunde
+
+**Runde 1 — Cookie-Dialog über dem Hero.** Die erste Nachher-Aufnahme war
+unbrauchbar, weil ein Zustimmungsdialog genau über dem Messbereich lag.
+Eine Messung darauf hätte den Dialog gemessen. `webcheck.py` klickt ihn
+jetzt weg (bewusst „Ablehnen" vor „Akzeptieren").
+
+**Runde 2 — falsche Annahme über die Textposition.** Der erste Scrim war
+ein Verlauf, unten am dunkelsten, weil `desktop_content_position` auf
+`bottom-center` steht. Der Text sitzt aber in der **Mitte** des Banners,
+wo der Verlauf noch bei 0,3 lag. Die Rechnung war richtig, die Annahme
+darunter falsch. Der Scrim sitzt jetzt hinter `.banner__box` und ist
+damit unabhängig von der Textposition.
+
+**Runde 3 — selbst eingebauter Fehler.** Die Typografie-Regel setzte
+`color: var(--he-text)` auf alle Überschriften. Damit wurde die
+Hero-Überschrift dunkelgrau **auf dunklem Scrim**. Dawns Farbschemata
+kennen den Untergrund, eine pauschale Farbregel darüber nicht. Die Regel
+setzt jetzt nur noch Schriftschnitt und Rhythmus.
+
+Die Unterzeile ist weiss geblieben und trennt deshalb die Effekte sauber:
+
+| Hero, Handy | Ausgangszustand | nach Scrim |
+|---|---:|---:|
+| Unterzeile, Median | 4,09:1 | **7,22:1** |
+| Unterzeile, Fläche unter 4,5:1 | 53,0 % | **13,1 %** |
+
+Der Scrim wirkt also nachweislich. Die Überschrift war schlecht, weil ich
+sie eingefärbt hatte, nicht weil der Scrim zu schwach wäre.
+
+### Noch offen
+
+- **Dritte Messung** nach der Farbkorrektur steht aus.
+- **`spacing_sections` steht auf 0.** Der Weissraum kommt bisher aus
+  meinem CSS. Dawns native Einstellung ist der sauberere Ort und bleibt
+  im Theme-Editor sichtbar.
+- **Befund 2, schwebende Widgets.** Aus `settings_data.json` bekannt:
+  Shopify Inbox (Chat, unten rechts) ist aktiv, der Widerrufsbutton von
+  Revoq und die Essential Trust Badges stehen auf `disabled`. Auf den
+  Aufnahmen ist nur noch der Chat-Knopf zu sehen — der Befund hat sich
+  womöglich von selbst erledigt, ist aber nicht abgehakt.
+- **`snippets/ebay-default.liquid`** meldet einen `LiquidHTMLSyntaxError`.
+  **Nicht reparieren:** Das ist eBays eigene Template-Sprache
+  (`{if …}{else}{/if}`), kein kaputtes Liquid. Theme Check liest sie nur
+  falsch. Eine „Korrektur" würde die eBay-Vorlage zerstören.
+
 ## Der Engpass, der den Rest bremst
 
 Ohne `SHOPIFY_CLI_THEME_TOKEN` gibt es nur einen Schreibweg: die
