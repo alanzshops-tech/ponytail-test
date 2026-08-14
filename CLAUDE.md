@@ -91,7 +91,7 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
-`SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`.
+`SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`, `DESIGN.md`.
 
 `GELDVERDIENEN.md` — **vor jeder Sortiments- oder Strategiefrage zuerst
 hier lesen.** Enthält den am 14.08.2026 erstmals abgefragten Befund aus den
@@ -125,6 +125,15 @@ Reels und zu Pinterest ging von falschen Annahmen aus (siehe
 Die 10 unbeklickten Rankings (SEO-Snippets) bleiben davon unberührt und
 offen. Vor jeder neuen Marketing-Idee zuerst dort nachsehen, nicht neu
 recherchieren.
+
+`DESIGN.md` — **vor jeder Design- oder Theme-Änderung zuerst hier
+lesen.** Die acht konkreten Befunde aus den echten Screenshots
+(14.08.2026), Conversion-Benchmarks, Farb- und Typografiesystem, und der
+methodische Kernpunkt: **axe-core kann Text über einem Bild nicht
+bewerten** — der auffälligste Fehler der Startseite (unlesbarer Hero)
+fehlt deshalb im Prüfstand. Dafür gibt es `scripts/kontrast.py`.
+Ausserdem festgehalten, welche Werkzeuge verbunden, ungenutzt oder
+blockiert sind.
 
 `PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
 Produktbildern, die messbar besser verkaufen: wie viele Bilder,
