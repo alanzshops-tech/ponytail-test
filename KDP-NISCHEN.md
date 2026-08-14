@@ -8,25 +8,14 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| secret baby romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
+| secret baby romance | www.amazon.com | – | – | – | 292 | 5.99 | 2/10 | 8/10 | 2/10 |
 | billionaire romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
 | ceo romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| boss employee romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| fake marriage romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| enemies to lovers romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| arranged marriage romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| billionaire boss romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
 
 ## Fehlgeschlagen
 
-- **secret baby romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
 - **billionaire romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
 - **ceo romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **boss employee romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **fake marriage romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **enemies to lovers romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **arranged marriage romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **billionaire boss romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
 
 ## Wie zu lesen
 

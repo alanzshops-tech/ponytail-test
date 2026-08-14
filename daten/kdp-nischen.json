@@ -2,7 +2,113 @@
   {
     "begriff": "secret baby romance",
     "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "titel_gelesen": 10,
+    "davon_gesponsert": 2,
+    "titel": [
+      {
+        "asin": "B0F4JSZZQZ",
+        "titel": "Scarlet Secrets : A Secret Baby Russian Mafia Romance (Yegorov Bratva Book 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2109,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0DBHKGV5L",
+        "titel": "Claiming Juliet: An Enemies to Lovers Billionaire Secret Baby Romance (Evergreen Heights Alpha Daddies)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 163,
+        "sterne": 4.5,
+        "bsr": null
+      },
+      {
+        "asin": "B0H35XMQY3",
+        "titel": "Stolen Bride: A Possessive Mafia King Secret Baby Romance (Vows of Violence Book 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 935,
+        "sterne": 4.5,
+        "bsr": null
+      },
+      {
+        "asin": "B0GX2V3FS1",
+        "titel": "His Hidden Heir: A Secret Baby, Dark, Mafia Romance (Crowned in Sin)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 292,
+        "sterne": 4.5,
+        "bsr": null
+      },
+      {
+        "asin": "B0H5SXZPS4",
+        "titel": "Pucking Secrets: A Second Chance, Secret Baby Romance (Hockey, Heat and Heart Series)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 69,
+        "sterne": 4.6,
+        "bsr": null
+      },
+      {
+        "asin": "B0H1N35TCR",
+        "titel": "Try Again, Baby: A Secret Baby Romance (The Wells Brothers)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1889,
+        "sterne": 4.3,
+        "bsr": null
+      },
+      {
+        "asin": "B07NPMRTB7",
+        "titel": "Burn, Baby, Burn: A Magical Romantic Comedy (with a body count)",
+        "gesponsert": true,
+        "kindle_unlimited": false,
+        "preis": 6.99,
+        "bewertungen": 2237,
+        "sterne": 4.8
+      },
+      {
+        "asin": "B0H8P4LNLN",
+        "titel": "The Daughter He Never Knew: Alpha Male Billionaire Secret Baby Romance",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 30,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0DWMQPC6R",
+        "titel": "Whispered Sins: The CEO's Secret Baby (Baby Confessions Book 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 7214,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B0H862F1Y8",
+        "titel": "A Secret Pregnancy and Betrayed Old Lady MC Romance: The Baby He Didn't Deserve (betrayed revenge and grovel biker mc series Book 5)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 4.99,
+        "bewertungen": 133,
+        "sterne": 4.2
+      }
+    ],
+    "bsr_werte": [],
+    "bsr_median": null,
+    "bsr_bester": null,
+    "verkaeufe_tag_geschaetzt": null,
+    "bewertungen_median": 292,
+    "preis_median": 5.99,
+    "kindle_unlimited": 8,
+    "im_70_prozent_fenster": 2
   },
   {
     "begriff": "billionaire romance",
@@ -11,31 +117,6 @@
   },
   {
     "begriff": "ceo romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "boss employee romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "fake marriage romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "enemies to lovers romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "arranged marriage romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "billionaire boss romance",
     "markt": "www.amazon.com",
     "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
   }
