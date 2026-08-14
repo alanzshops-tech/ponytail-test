@@ -49,11 +49,29 @@ Content-Kanälen. Vier Funde, zwei davon direkt behoben:
    `aggregateRating`/`review`/`gtin` bewusst weiterhin ❌ (Judge.me-
    Bewertungslage ungeklärt, kein echtes GTIN vorhanden). Theme:
    „Schema-Ergänzung (Claude, 13.08.2026 nachts) – zur Freigabe",
-   `gid://shopify/OnlineStoreTheme/182683926851` — **noch nicht
-   veröffentlicht**, das kann laut Shopify-Regelwerk nur ein Mensch im
-   Adminbereich.
+   `gid://shopify/OnlineStoreTheme/182683926851` — **veröffentlicht**
+   (14.08.2026, vom Nutzer selbst im Adminbereich). Per `graphql_query`
+   bestätigt: das Theme steht jetzt auf `role: MAIN`. Live-Verifizierung
+   gegen die echte Produkt-URL (ohne `preview_theme_id`) läuft.
 
-Diese fünf Funde ändern **nichts** an der Kanal-Priorisierung unten
+6. **Interne Verlinkung der 4 Ratgeber ergänzt (14.08.2026).** Alle vier
+   waren nur über Pinterest/direkt erreichbar, keine Kollektionsseite
+   verlinkte auf sie — ein einfacher, oft übersehener SEO-Hebel
+   (interne Links geben Google zusätzliches Gewicht). Ergänzt:
+   `hunde` → beide Hundebett-Ratgeber, `haustiere` → Kratzbaum-Ratgeber,
+   `mobel-1` → Bürostuhl-Ratgeber. Jeweils nur ein Absatz angehängt,
+   nichts Bestehendes ersetzt.
+
+   **Dabei ein Fehler passiert und sofort korrigiert:** Beim ersten
+   Versuch eine falsche, veraltete Collection-ID aus einer viel
+   früheren Abfrage wiederverwendet — das hat kurz die
+   `haustiere`-Beschreibung mit dem `hunde`-Text überschrieben. Beim
+   Lesen der Antwort bemerkt (Handle stimmte nicht), sofort mit dem
+   ursprünglichen Text zurückgeschrieben, dann die echte `hunde`-ID neu
+   abgefragt statt geraten. Für die restlichen zwei Kollektionen wurden
+   beide IDs vorher frisch abgefragt.
+
+Diese sechs Funde ändern **nichts** an der Kanal-Priorisierung unten
 (Reels/Pinterest/Ratgeber) — sie sind eine Ebene darunter: Ob die
 Kanäle überhaupt technisch sauber funktionieren, bevor mehr Content
 draufgepackt wird.
