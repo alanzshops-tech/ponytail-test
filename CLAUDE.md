@@ -91,7 +91,18 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
 `MARGE.md`, `NISCHEN.md`, `TRENDS.md`, `PRODUKTBILDER.md`, `TRAFFIC.md`,
-`SOCIAL.md`, `VERTRIEBSKANAELE.md`.
+`SOCIAL.md`, `VERTRIEBSKANAELE.md`, `GELDVERDIENEN.md`.
+
+`GELDVERDIENEN.md` — **vor jeder Sortiments- oder Strategiefrage zuerst
+hier lesen.** Enthält den am 14.08.2026 erstmals abgefragten Befund aus den
+sieben echten Bestellungen: **alle sieben waren verschenkbare Wohn-Deko
+zwischen 30 und 130 €, und alle sieben Artikel sind heute nicht mehr im
+Sortiment** (mit Positivprobe gegengeprüft). Die heutigen 146 Produkte
+stehen in Kategorien mit null Bestellungen in drei Jahren. Dazu die
+Marktrecherche zu Dropshipping-Margen, Eigenmarke und
+Dienstleistungssätzen — inklusive des rechtlichen Zauns, dass
+**Kalt-E-Mails an Unternehmen nach § 7 UWG abmahnfähig** sind
+(1.500–3.000 € pro Fall), telefonische B2B-Akquise dagegen zulässig.
 
 `SOCIAL.md` — **vor jeder Social-Media-Aktion zuerst hier lesen, dann
 live mit `mcp__Metricool__getScheduledPosts` gegenprüfen.** Es läuft
