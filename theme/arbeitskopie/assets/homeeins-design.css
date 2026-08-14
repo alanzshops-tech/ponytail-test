@@ -62,6 +62,13 @@ body {
    2. Typografie
    -------------------------------------------------------------------------- */
 
+/* KEINE Farbe hier setzen. Erster Versuch hatte `color: var(--he-text)`
+   in dieser Regel — damit wurde auch die Hero-Ueberschrift dunkelgrau,
+   obwohl sie auf einem dunklen Scrim steht. Gemessen: Median 3,99:1,
+   71,8 % der Flaeche unter AA. Dawns Farbschemata (hier `inverse`)
+   setzen die Textfarbe je nach Untergrund bereits richtig; eine
+   pauschale Farbregel darueber macht genau das kaputt.
+   Hier also nur Schriftschnitt und Rhythmus, nie die Farbe. */
 h1, h2, h3,
 .h0, .h1, .h2, .h3,
 .banner__heading,
@@ -71,7 +78,6 @@ h1, h2, h3,
   font-weight: 400;          /* Serifen wirken fett schnell plump      */
   letter-spacing: -0.01em;   /* Grosse Serifen brauchen etwas Enge     */
   line-height: 1.15;
-  color: var(--he-text);
 }
 
 /* Die Kleinschrift ueber Ueberschriften bleibt serifenlos — der
