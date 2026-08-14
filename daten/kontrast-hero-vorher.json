@@ -1,0 +1,20 @@
+{
+  "bild": "bilder/startseite-mobil.jpg",
+  "bereich": {
+    "x": 0,
+    "y": 390,
+    "breite": 780,
+    "hoehe": 295
+  },
+  "textfarbe": "#FFFFFF",
+  "pixel_gesamt": 230100,
+  "pixel_als_text_ausgeschlossen": 5465,
+  "pixel_hintergrund": 224635,
+  "kontrast_min": 1.0,
+  "kontrast_median": 1.8,
+  "kontrast_max": 20.64,
+  "anteil_unter_4_5_prozent": 92.2,
+  "anteil_unter_3_0_prozent": 84.6,
+  "urteil_normaler_text": "durchgefallen",
+  "urteil_grosser_text": "durchgefallen"
+}

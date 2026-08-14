@@ -45,6 +45,39 @@ Datei: `templates/index.json`, geschrieben über `themeFilesUpsert`.
 MD5 in Shopify nach dem Schreiben identisch. Keine abgeschnittene
 Übertragung.
 
+### Nachgemessen — und die 50 % reichen nicht ganz
+
+Mit dem neuen `scripts/kontrast.py` den **Ausgangszustand** gemessen
+(`bilder/startseite-mobil.jpg`, weisser Text, ohne Pixel-Ausschluss, weil
+der Hintergrund selbst weiss ist):
+
+| Bereich | schlechtester Pixel | Median | Fläche unter 4,5:1 |
+|---|---:|---:|---:|
+| Überschrift (y 390–685) | 1,0:1 | 1,8:1 | **92,2 %** |
+| Unterzeile (y 725–900) | 1,01:1 | 4,09:1 | **53,0 %** |
+
+Die Überschrift steht auf weisser Marmorwand und weisser Decke — weisser
+Text auf Weiss, Kontrast 1,0:1. Das ist kein Geschmacksurteil mehr.
+
+**Was ein Overlay rechnerisch bringt** (weisser Text, weisser Grund):
+
+| Overlay | Hintergrund | Kontrast | grosser Text (3:1) | normaler Text (4,5:1) |
+|---:|---|---:|---|---|
+| 20 % (Ausgangszustand) | `#CCCCCC` | 1,61:1 | durchgefallen | durchgefallen |
+| **50 % (jetzt gesetzt)** | `#808080` | 3,95:1 | **bestanden** | **durchgefallen** |
+| 55 % | `#737373` | 4,74:1 | bestanden | bestanden |
+| 60 % | `#666666` | 5,74:1 | bestanden | bestanden |
+
+**Korrektur an der eigenen Arbeit:** Die gesetzten 50 % lösen die
+Überschrift (`h0`, gilt als grosser Text), **nicht aber die Unterzeile**
+(normaler Text, braucht 4,5:1). Stand der Arbeitskopie ist also
+„Überschrift repariert, Unterzeile weiterhin durchgefallen".
+
+Der saubere Weg ist nicht, das Overlay pauschal auf 60 % zu ziehen — dann
+versinkt das Foto im Grau. Besser ist ein **Verlauf, der nur dort
+abdunkelt, wo der Text steht**. Das braucht CSS und kommt in den
+Sammel-Durchgang, sobald der Token da ist.
+
 ---
 
 ## Der Engpass, der den Rest bremst
@@ -87,6 +120,7 @@ Laufzeit.
 
 | Befund | Wo zu beheben | Aufwand ohne Token |
 |---|---|---|
+| 1b · **Unterzeile im Hero** weiterhin unter 4,5:1 | Verlaufs-Scrim per CSS | im Sammel-Durchgang |
 | 2 · Drei schwebende Widgets überlagern sich | seitenweites CSS → `layout/theme.liquid` | 22 KB Übertragung |
 | 3 · Zehn Hauptmenüpunkte | Shopify-Navigation, **nicht** im Theme | im Adminbereich, von Hand |
 | 4 · Produkttitel sprengen die Kacheln | seitenweites CSS | 22 KB Übertragung |
