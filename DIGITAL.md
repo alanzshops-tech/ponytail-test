@@ -254,6 +254,113 @@ schnellere Test, KDP der langsamere mit höherer Decke.
 
 ---
 
+## 8. Welche Themen sich auf KDP verkaufen
+
+Recherchiert am 14.08.2026 auf Nachfrage.
+
+### Nach Volumen — was am meisten verkauft wird
+
+| Rang | Genre | Anmerkung |
+|---|---|---|
+| 1 | **Romance** | ~1,44 Mrd. $ Jahresumsatz, **fast doppelt so viel wie das nächste Genre** |
+| 2 | **Thriller & Mystery** | stark bei E-Book und Hörbuch |
+| 3 | **Fantasy, besonders Romantasy** | **am schnellsten wachsend**, getrieben von BookTok, Leser 13–34 |
+| — | **Self-Help** | stärkstes Sachbuch, weil suchgetrieben |
+| — | **Business & Money** | zweitstärkstes Sachbuch |
+
+Bei selbstverlegten Büchern auf KDP verkaufen sich Romance, Mystery/
+Thriller, Science-Fiction, Fantasy und Ratgeber/Self-Help am besten.
+
+### Warum „am meisten verkauft" nicht „am besten für dich" heisst
+
+Das ist der Punkt, an dem die meisten Listen aufhören und der teuer wird:
+
+**Belletristik wird gefunden, indem Leser stöbern.** Romance und Romantasy
+laufen über Serien, Pseudonyme, Cover-Handwerk und BookTok. Wer dort
+einsteigt, betreibt Marketing für ein Publikum — dasselbe Problem wie beim
+eigenen Shop, nur mit mehr Arbeit vorweg. Ein Einzeltitel ohne Serie und
+ohne Reichweite geht dort unter.
+
+**Sachbücher werden gesucht.** Jemand tippt ein Problem bei Amazon ein und
+findet ein Buch. Das ist derselbe geliehene Traffic wie bei eBay und Etsy —
+er funktioniert **ohne eigenes Publikum**. Genau deshalb ist KDP laut den
+Quellen besonders stark bei **Ratgeber-Nischen und suchgetriebenen
+Sachthemen**.
+
+→ **Für diese Ausgangslage ist Sachbuch/Ratgeber die passende Richtung,
+nicht Romance.** Nicht weil es mehr verkauft — es verkauft weniger —,
+sondern weil es ohne Reichweite funktioniert.
+
+### Die Nischenregel
+
+Übervolle Kategorien wie „Achtsamkeit" oder „Rezepte" sind verloren, dort
+kämpfen Hunderte Titel um Sichtbarkeit. Was funktioniert, sind **enge
+Unterthemen mit klarer Zielgruppe**:
+
+| statt | besser |
+|---|---|
+| Achtsamkeit | **Achtsamkeit für Väter** |
+| Rezepte | **Meal Prep für Berufstätige** |
+| Produktivität | Produktivität mit ADHS |
+
+Das deckt sich exakt mit dem Etsy-Befund aus Abschnitt 4: Produkte, die
+ein konkretes Problem einer bestimmten Gruppe lösen, haben höhere Preise
+und weniger Wettbewerb.
+
+### Deutsch oder Englisch
+
+Der englische Markt ist um ein Vielfaches grösser und entsprechend voller.
+Der deutsche ist kleiner, aber dünner besetzt. **KDP Select allein hat im
+März 2026 Autorenausschüttungen von 69,3 Mio. $ (59,3 Mio. €) gemeldet** —
+das ist ein Monat und nur ein Programmteil.
+
+Für jemanden, der auf Deutsch schreibt und den deutschen Markt kennt, ist
+Deutsch der naheliegende Start. Übersetzen geht später.
+
+### Das Wichtigste: Das lässt sich messen, nicht raten
+
+Alle Quellen sagen dasselbe — „Nachfrage hoch, Konkurrenz niedrig". Das ist
+eine Behauptung, kein Messwert. Nachrechnen lässt es sich über den
+**Amazon Bestseller-Rang (BSR)**:
+
+```
+Tägliche Verkäufe = a × BSR^(-b)
+```
+
+`a` und `b` sind kategorieabhängige Konstanten; es gibt Rechner, die
+ausdrücklich auf **Amazon.de** kalibriert sind. Damit wird aus „diese
+Nische wirkt gut" eine Zahl: geschätzte Verkäufe je Tag für die Titel, die
+dort vorne stehen.
+
+⚠️ **Grenzen, die dazugehören:** Das sind Schätzungen, keine
+Amazon-Zahlen. Kategorieunterschiede, Kindle-Unlimited-Seitenaufrufe,
+Werbung, Retouren und Saison verzerren teils erheblich.
+
+**Was daraus gebaut werden kann** (analog zu `scripts/trends.py` und
+`scripts/nischen.py`): Ein Skript, das für eine Liste von
+Themenkandidaten die Amazon.de-Suchergebnisse abruft und je Nische
+auswertet:
+
+- **Nachfrage** — BSR der Top-Titel, in geschätzte Tagesverkäufe umgerechnet
+- **Wettbewerb** — Zahl der Titel, Bewertungsanzahl der Spitzenreiter
+- **Preisniveau** — liegen die Titel im 2,99–9,99-€-Fenster für 70 % Tantiemen?
+- **Alter** — wie frisch sind die Spitzentitel
+
+Läuft über den Runner, weil die Arbeitsumgebung Amazon nicht erreicht.
+Ergebnis als `KDP-NISCHEN.md`, wie bei den Produktnischen.
+
+### Der Engpass bleibt derselbe
+
+Auch die beste Nischenanalyse beantwortet nicht, **worüber du schreiben
+kannst**. Ein Ratgeber verkauft sich über Fachkenntnis, und Amazon-Leser
+sind bei dünnen Büchern schnell mit Ein-Stern-Bewertungen. Die Nische
+sagt, *wo* Nachfrage ist — nicht, ob du sie bedienen kannst.
+
+Und unverändert gilt Abschnitt 6: **kein Buch über E-Commerce,
+Dropshipping oder Nebeneinkommen.**
+
+---
+
 ## Quellen
 
 Produktkategorien und Umsatzpotenzial:
@@ -285,6 +392,16 @@ KDP KI-Regeln:
 [publishing.co.uk](https://publishing.co.uk/guides/kdp-ai-content-disclosure/),
 [Built&Written](https://www.builtwritten.com/blog/disclose-ai-in-your-book-kdp-policy-2026),
 [univers.studio](https://www.univers.studio/blog/kdp-ai-content-policy-2026/) ·
+KDP-Genres und Nischen:
+[selfpublishing.com](https://selfpublishing.com/most-popular-book-genres-on-amazon/),
+[toptenpublishers](https://toptenpublishers.com/best-selling-book-genres/),
+[automateed](https://www.automateed.com/top-selling-book-categories-on-amazon),
+[mama-gruendet](https://mama-gruendet.de/2025/08/23/nischenfindung-fuer-selfpublishing-so-entdeckst-du-dein-profitables-buchthema/),
+[Creatorway](https://www.creatorway.de/blog/tom-schmidt-nomad-publishing) ·
+BSR in Verkäufe umrechnen:
+[Gaiswinkler BSR-Rechner](https://danielgaiswinkler.com/amazon-bestseller-rang-rechner/),
+[Selfpublisherbibel](https://www.selfpublisherbibel.de/kalkulator-amazon-bestsellerrang-und-verkaufszahlen/),
+[PuzzleGenerator](https://puzzlegenerator.org/de/amazon-bsr-calculator) ·
 Etsy-Sättigung und Erwartungswerte:
 [SideQuestHustle](https://sidequesthustle.com/guides/etsy-digital-products-guide-2026),
 [Insight Agent](https://www.insightagent.app/trends/etsy-printables),
