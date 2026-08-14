@@ -6,9 +6,9 @@
       "url": "https://www.homeeins.de/?preview_theme_id=182686056771",
       "status": 200,
       "cookie_dialog": "geschlossen via 'Ablehnen'",
-      "ms_bis_erste_anzeige": 1300,
+      "ms_bis_erste_anzeige": 1120,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2225,
+      "ms_bis_fertig": 2443,
       "dom_knoten": 1385,
       "bilder_gesamt": 16,
       "bilder_ohne_alt": 1,
@@ -30,13 +30,13 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=5248bbd5-5d0c-474e-a4aa-91027e9a0352&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=57e017bf-444b-4da9-96f8-6b7d8ef87d51&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 250,
+          "anfragen": 249,
           "kb": 2000
         },
         {
@@ -48,7 +48,7 @@
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
-          "anfragen": 11,
+          "anfragen": 12,
           "kb": 0
         },
         {
@@ -70,16 +70,16 @@
           "kb": 472
         },
         {
-          "host": "ct.pinterest.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 0
-        },
-        {
           "host": "analytics.tiktok.com",
           "eigen": false,
           "anfragen": 3,
           "kb": 45
+        },
+        {
+          "host": "ct.pinterest.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 0
         },
         {
           "host": "connect.facebook.net",
@@ -112,13 +112,7 @@
           "kb": 7
         },
         {
-          "host": "stats.g.doubleclick.net",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "analytics.google.com",
+          "host": "analytics-ipv6.tiktokw.us",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -130,13 +124,19 @@
           "kb": 0
         },
         {
-          "host": "www.merchant-center-analytics.goog",
+          "host": "analytics.google.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "analytics-ipv6.tiktokw.us",
+          "host": "stats.g.doubleclick.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -154,19 +154,13 @@
           "kb": 5
         },
         {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "bundler.nice-team.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "www.cjdropshipping.com",
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -176,22 +170,28 @@
           "eigen": false,
           "anfragen": 1,
           "kb": 0
+        },
+        {
+          "host": "www.cjdropshipping.com",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
         }
       ],
       "fremde_hosts": 18,
       "fremde_anfragen": 32,
       "fremde_kb": 635,
-      "bild": "bilder/nachher3-startseite-mobil.jpg",
-      "bild_kb": 475
+      "bild": "bilder/nachher4-startseite-mobil.jpg",
+      "bild_kb": 486
     },
     {
       "geraet": "desktop",
       "url": "https://www.homeeins.de/?preview_theme_id=182686056771",
       "status": 200,
       "cookie_dialog": "nicht gefunden",
-      "ms_bis_erste_anzeige": 1348,
+      "ms_bis_erste_anzeige": 972,
       "ms_bis_groesstes_element": 0,
-      "ms_bis_fertig": 2098,
+      "ms_bis_fertig": 1924,
       "dom_knoten": 1385,
       "bilder_gesamt": 16,
       "bilder_ohne_alt": 1,
@@ -200,10 +200,10 @@
       "seitenhoehe": 4172,
       "waagerecht_scrollbar": false,
       "anfragen": 401,
-      "gewicht_kb": 3766,
+      "gewicht_kb": 3768,
       "nach_typ_kb": {
         "script": 1684,
-        "other": 984,
+        "other": 986,
         "image": 646,
         "font": 259,
         "stylesheet": 146,
@@ -213,25 +213,25 @@
         "ping": 0
       },
       "fehlerhafte_anfragen": [
-        "https://shop.app/pay/hop?analytics_trace_id=a9dfc91c-702a-4ff4-a53a-a8fcb5299632&target_origin=https%3A%2F%2Fw"
+        "https://shop.app/pay/hop?analytics_trace_id=9a572b30-5a08-4a9c-a352-d02a8a1459a0&target_origin=https%3A%2F%2Fw"
       ],
       "nach_host": [
         {
           "host": "www.homeeins.de",
           "eigen": true,
-          "anfragen": 248,
-          "kb": 1941
+          "anfragen": 246,
+          "kb": 1939
         },
         {
           "host": "cdn.shopify.com",
           "eigen": true,
-          "anfragen": 101,
-          "kb": 1083
+          "anfragen": 102,
+          "kb": 1084
         },
         {
           "host": "otlp-http-production.shopifysvc.com",
           "eigen": true,
-          "anfragen": 11,
+          "anfragen": 12,
           "kb": 0
         },
         {
@@ -253,16 +253,16 @@
           "kb": 513
         },
         {
+          "host": "analytics.tiktok.com",
+          "eigen": false,
+          "anfragen": 3,
+          "kb": 45
+        },
+        {
           "host": "ct.pinterest.com",
           "eigen": false,
           "anfragen": 3,
           "kb": 0
-        },
-        {
-          "host": "analytics.tiktok.com",
-          "eigen": false,
-          "anfragen": 3,
-          "kb": 43
         },
         {
           "host": "connect.facebook.net",
@@ -295,7 +295,7 @@
           "kb": 7
         },
         {
-          "host": "www.merchant-center-analytics.goog",
+          "host": "analytics-ipv6.tiktokw.us",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -303,6 +303,12 @@
         {
           "host": "forms.shopifyapps.com",
           "eigen": true,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "www.merchant-center-analytics.goog",
+          "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
@@ -325,31 +331,25 @@
           "kb": 5
         },
         {
-          "host": "app.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
           "host": "metashop.dolphinsuite.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
-          "host": "analytics-ipv6.tiktokw.us",
+          "host": "bundler.nice-team.net",
+          "eigen": false,
+          "anfragen": 1,
+          "kb": 0
+        },
+        {
+          "host": "app.cjdropshipping.com",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
         },
         {
           "host": "www.cjdropshipping.com",
-          "eigen": false,
-          "anfragen": 1,
-          "kb": 0
-        },
-        {
-          "host": "bundler.nice-team.net",
           "eigen": false,
           "anfragen": 1,
           "kb": 0
@@ -363,9 +363,9 @@
       ],
       "fremde_hosts": 18,
       "fremde_anfragen": 32,
-      "fremde_kb": 741,
-      "bild": "bilder/nachher3-startseite-desktop.jpg",
-      "bild_kb": 446
+      "fremde_kb": 743,
+      "bild": "bilder/nachher4-startseite-desktop.jpg",
+      "bild_kb": 461
     }
   ]
 }
