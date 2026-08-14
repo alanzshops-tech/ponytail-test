@@ -1,7 +1,7 @@
 [
   {
-    "url": "https://www.homeeins.de/",
-    "anzahl_bloecke": 2,
+    "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad?preview_theme_id=182683926851",
+    "anzahl_bloecke": 3,
     "bloecke": [
       {
         "@context": "http://schema.org",
@@ -22,40 +22,25 @@
         "url": "https://www.homeeins.de"
       },
       {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "name": "Homeeins",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://www.homeeins.de/search?q={search_term_string}",
-          "query-input": "required name=search_term_string"
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen",
+        "description": "🪑 Nach Feierabend noch verspannt? Liegt oft am StuhlWer viele Stunden sitzt, merkt es abends im Rücken und Nacken. Dieser ergonomische Premium-Bürostuhl mit Liegefunktion, Fußstütze und Lendenkissen macht lange Arbeitstage spürbar angenehmer.⭐ Die Vorteile im ÜberblickArretierbare Liegefunktion (90–135°): Zurücklehnen für Pausen oder kurze ErholungNetz-Rückenlehne mit Lendenkissen: Atmungsaktiv, entlastet den unteren RückenAusziehbare Fußstütze &amp; verstellbare Kopfstütze: Perfekt für kurze Powernaps10,5 cm dickes Sitzpolster: Auch nach Stunden noch bequemBelastbar bis 125 kg: Stabiles 5-Stern-Fußkreuz mit leisen Rollen🔄 Passt sich dir anHöhenverstellung per Gasdruckfeder und 360° Drehfunktion sorgen dafür, dass der Stuhl zu unterschiedlichen Körpergrößen und Arbeitsplätzen passt.📋 ProduktdetailsRückenlehne: Netzstoff, atmungsaktivNeigung: 90–135°, arretierbarBelastbarkeit: bis 125 kgFarben: Blau, Grau, GrünEinsatzbereich: Büro, Homeoffice, Gaming✅ Dein Vorteil bei HomeeinsSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.      ",
+        "sku": "CJJT238883003CX",
+        "mpn": "CJJT238883003CX",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
         },
-        "url": "https://www.homeeins.de"
-      }
-    ],
-    "product_bloecke": 0
-  },
-  {
-    "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad",
-    "anzahl_bloecke": 2,
-    "bloecke": [
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "Homeeins",
-        "logo": "https://www.homeeins.de/cdn/shop/files/homeeins_gold8_7177c9fe-9f23-4e29-b8a1-637e5ffc4dbc.jpg?v=1706441587&width=500",
-        "sameAs": [
-          "https://x.com/homeeins?s=21",
-          "https://www.facebook.com/profile.php?id=100095079212499",
-          "https://pin.it/17AmzoHpU",
-          "https://www.instagram.com/homeeins.de?igsh=MXV6Z2kyanl1ZzVjMw%3D%3D&utm_source=qr",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "https://www.homeeins.de"
+        "image": "//www.homeeins.de/cdn/shop/files/4461f4b5-b93a-4a99-93e8-f900864b7831.jpg?v=1767652269&width=1200",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad",
+          "priceCurrency": "EUR",
+          "price": 12999,
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       },
       {
         "@context": "http://schema.org/",
@@ -119,21 +104,21 @@
         "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad"
       }
     ],
-    "product_bloecke": 3,
+    "product_bloecke": 4,
     "product_felder": {
       "gtin": false,
       "gtin8": false,
       "gtin12": false,
       "gtin13": false,
       "gtin14": false,
-      "mpn": false,
-      "brand": false,
+      "mpn": true,
+      "brand": true,
       "sku": true,
       "aggregateRating": false,
       "review": false,
       "offers": true,
       "image": true,
-      "description": false
+      "description": true
     },
     "offers_felder": {
       "price": true,
@@ -142,8 +127,8 @@
     }
   },
   {
-    "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch",
-    "anzahl_bloecke": 2,
+    "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch?preview_theme_id=182683926851",
+    "anzahl_bloecke": 3,
     "bloecke": [
       {
         "@context": "http://schema.org",
@@ -162,6 +147,27 @@
           ""
         ],
         "url": "https://www.homeeins.de"
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾",
+        "description": "🐱 Schluss mit zerkratzten Möbeln: der Kratzbaum, den deine Katze wirklich nutztSofa statt Kratzbaum? Viele Katzen ignorieren unattraktive Kratzsäulen und wählen stattdessen deine Möbel. Dieser kompakte Kratzbaum kombiniert Sisal-Kratzflächen, weichen Plüsch und Spielelemente – attraktiv genug, damit deine Katze ihn dem Sofa vorzieht.⭐ Die Vorteile im ÜberblickSisal-Kratzsäulen: Fördern natürliches Kratzverhalten und schonen deine MöbelWeicher Plüschbezug: Lädt zum Liegen und Dösen einIntegriertes Hängespielzeug: Extra Beschäftigung für neugierige KatzenKompakte Größe: Passt auch in kleine Wohnungen, mehrere Ebenen für BewegungFür Mehrkatzenhaushalte geeignet🏡 Design, das zu deinem Zuhause passtIn Blau, Grau oder Grau mit Pfotenmuster fügt sich der Kratzbaum unauffällig in dein Wohnzimmer, Schlafzimmer oder deinen Flur ein.📋 ProduktdetailsMaterial: Stabile Spanplatte, Plüschbezug (100% Polyester), SisalseilFarben: Blau, Grau, Grau mit PfotenmusterMaße: 30 × 30 × 65 cmSäulendurchmesser: ca. 5 cmMontage: Schnell und einfach✅ Dein Vorteil bei HomeeinsSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.      ",
+        "sku": "CJTC25964060001",
+        "mpn": "CJTC25964060001",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
+        },
+        "image": "//www.homeeins.de/cdn/shop/files/8a6dfd31-7926-4802-9ab2-74da24b208a9.jpg?v=1767652872&width=1200",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch",
+          "priceCurrency": "EUR",
+          "price": 4499,
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       },
       {
         "@context": "http://schema.org/",
@@ -225,51 +231,26 @@
         "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch"
       }
     ],
-    "product_bloecke": 3,
+    "product_bloecke": 4,
     "product_felder": {
       "gtin": false,
       "gtin8": false,
       "gtin12": false,
       "gtin13": false,
       "gtin14": false,
-      "mpn": false,
-      "brand": false,
+      "mpn": true,
+      "brand": true,
       "sku": true,
       "aggregateRating": false,
       "review": false,
       "offers": true,
       "image": true,
-      "description": false
+      "description": true
     },
     "offers_felder": {
       "price": true,
       "availability": true,
       "priceCurrency": true
     }
-  },
-  {
-    "url": "https://www.homeeins.de/collections/garten-outdoor",
-    "anzahl_bloecke": 1,
-    "bloecke": [
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "Homeeins",
-        "logo": "https://www.homeeins.de/cdn/shop/files/homeeins_gold8_7177c9fe-9f23-4e29-b8a1-637e5ffc4dbc.jpg?v=1706441587&width=500",
-        "sameAs": [
-          "https://x.com/homeeins?s=21",
-          "https://www.facebook.com/profile.php?id=100095079212499",
-          "https://pin.it/17AmzoHpU",
-          "https://www.instagram.com/homeeins.de?igsh=MXV6Z2kyanl1ZzVjMw%3D%3D&utm_source=qr",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "https://www.homeeins.de"
-      }
-    ],
-    "product_bloecke": 0
   }
 ]
