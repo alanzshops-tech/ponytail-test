@@ -51,8 +51,8 @@ Das gilt auch, wenn er es gut macht.
 
 ---
 
-In den sechs Tagen dazwischen kam er zweimal, freitags und am Silvester,
-und wir waren beide sehr höflich.
+In den sechs Tagen dazwischen kam er zweimal, am Freitag und am
+Sonntagnachmittag, und wir waren beide sehr höflich.
 
 Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
 obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
