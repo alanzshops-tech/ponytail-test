@@ -187,14 +187,43 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
     return aus
 
 
-def bsr_holen(seite, host: str, asin: str, muster: str) -> int | None:
-    """BSR steht nur auf der Produktseite, nicht in der Trefferliste."""
+# Oberkategorien, die bei jedem Titel stehen und nichts unterscheiden.
+# Interessant sind nur die Unterkategorien darunter -- die entscheiden
+# ueber das Bestseller-Abzeichen.
+OBERKATEGORIEN = ("Kindle-Shop", "Bücher", "Kindle Store", "Books",
+                  "Kindle eBooks", "eBook Kindle")
+
+
+def bsr_holen(seite, host: str, asin: str,
+              muster: str) -> tuple[int | None, list[tuple[int, str]]]:
+    """BSR und Kategorien stehen nur auf der Produktseite.
+
+    Amazon listet dort untereinander:
+        Nr. 1.234 in Kindle-Shop
+        Nr. 12 in Zeitgenössische Liebesromane
+        Nr. 34 in Liebesromane (Kindle-Shop)
+
+    Die erste Zeile ist der Gesamtrang, die darunter sind die
+    Kategorien, in denen ein Titel ein Abzeichen bekommen kann.
+    """
     seite.goto(f"https://{host}/dp/{asin}", wait_until="domcontentloaded",
                timeout=45000)
     seite.wait_for_timeout(1800)
     text = seite.evaluate("() => document.body.innerText")
+
     m = re.search(muster, text)
-    return zahl_aus(m.group(1)) if m else None
+    bsr = zahl_aus(m.group(1)) if m else None
+
+    kategorien = []
+    for rang, name in re.findall(
+            r"(?:Nr\.|#)\s*([\d.,]+)\s+in\s+([^\n(]{3,70})", text):
+        name = name.strip().rstrip(".,")
+        if any(name.startswith(o) for o in OBERKATEGORIEN):
+            continue
+        r = zahl_aus(rang)
+        if r:
+            kategorien.append((r, name))
+    return bsr, kategorien[:4]
 
 
 def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
@@ -238,10 +267,10 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
 
     for t in organisch[:details]:
         try:
-            t["bsr"] = bsr_holen(seite, markt["host"], t["asin"],
-                                 markt["bsr_muster"])
+            t["bsr"], t["kategorien"] = bsr_holen(
+                seite, markt["host"], t["asin"], markt["bsr_muster"])
         except Exception:
-            t["bsr"] = None
+            t["bsr"], t["kategorien"] = None, []
         time.sleep(pause + random.uniform(0, pause))
 
     bsrs = [t["bsr"] for t in organisch[:details] if t.get("bsr")]
@@ -259,6 +288,14 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
     ergebnis["preis_median"] = round(median(preise), 2) if preise else None
     ergebnis["kindle_unlimited"] = sum(
         1 for t in liste if t.get("kindle_unlimited"))
+    zaehler: dict[str, list[int]] = {}
+    for t in organisch[:details]:
+        for rang, name in t.get("kategorien", []):
+            zaehler.setdefault(name, []).append(rang)
+    ergebnis["kategorien"] = sorted(
+        ({"name": n, "titel": len(r), "rang_bester": min(r)}
+         for n, r in zaehler.items()),
+        key=lambda x: (-x["titel"], x["rang_bester"]))
     ergebnis["im_70_prozent_fenster"] = (
         sum(1 for p in preise if 2.99 <= p <= 9.99) if preise else 0)
     return ergebnis
@@ -320,6 +357,32 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
           "Die beste Nische hat **niedrigen BSR bei niedrigen "
           "Bewertungszahlen**. Das ist Nachfrage ohne festsitzende "
           "Platzhirsche.", ""]
+
+    z += ["## Kategorien der Spitzentitel", "",
+          "In welchen Unterkategorien die gemessenen Titel stehen und auf "
+          "welchem Rang der beste von ihnen dort liegt. Das ist die Liste, "
+          "aus der bei KDP die drei Kategorien gewählt werden. Die "
+          "Oberkategorien (Kindle-Shop, Bücher) sind ausgelassen, weil sie "
+          "bei jedem Titel stehen und nichts unterscheiden.", "",
+          "**Ein niedriger bester Rang heißt: dort ist es eng.** Eine "
+          "Kategorie, in der der beste gemessene Titel auf Rang 40 steht, "
+          "ist leichter zu erreichen als eine, in der er auf Rang 2 steht.",
+          ""]
+    leer = True
+    for e in ergebnisse:
+        if e.get("fehler") or not e.get("kategorien"):
+            continue
+        leer = False
+        z += [f"**{e['begriff']}**", "",
+              "| Kategorie | Titel darin | bester Rang |",
+              "|---|---:|---:|"]
+        for k in e["kategorien"][:8]:
+            z.append(f"| {k['name']} | {k['titel']} | {k['rang_bester']} |")
+        z.append("")
+    if leer:
+        z += ["*Keine Kategorien gelesen. Das heißt nicht, dass es keine "
+              "gibt — entweder wurde keine Produktseite erreicht oder das "
+              "Muster passt nicht mehr.*", ""]
     return "\n".join(z)
 
 

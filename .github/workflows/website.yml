@@ -42,8 +42,8 @@ on:
         description: "Cover je Nische"
         required: false
         default: "12"
-      nur_cover:
-        description: "true = nur die Cover messen, Shop-Fotos und Lighthouse überspringen"
+      ohne_shop:
+        description: "true = Shop-Fotos und Lighthouse überspringen (für reine Cover- oder Nischenläufe)"
         required: false
         default: "false"
       url_datei:
@@ -93,7 +93,7 @@ jobs:
       # Ueberspringbar, damit ein reiner Cover-Lauf nicht eine halbe
       # Stunde den Shop fotografiert. Standard bleibt: laeuft.
       - name: Fotografieren und messen
-        if: inputs.nur_cover != 'true'
+        if: inputs.ohne_shop != 'true'
         env:
           URL_DATEI: ${{ inputs.url_datei || 'urls-shop.txt' }}
           PRAEFIX: ${{ inputs.praefix }}
@@ -188,7 +188,7 @@ jobs:
       # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
       # die Mehrheit ankommt und die Schwächen sichtbarer sind.
       - name: Lighthouse
-        if: inputs.nur_cover != 'true'
+        if: inputs.ohne_shop != 'true'
         continue-on-error: true
         run: |
           npm install -g lighthouse@12 --silent
