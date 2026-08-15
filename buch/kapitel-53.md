@@ -96,8 +96,9 @@ dann sieht man, was übrig bleibt.
 
 Was übrig geblieben ist, sah im April so aus.
 
-Am zwölften, einem Sonntag, sind wir zu dritt nach Övelgönne gefahren
-und drei Stunden am Wasser gewesen.
+Am fünften, einem Sonntag, dem Tag nach dem Nachmittag auf dem Teppich,
+sind wir zu dritt nach Övelgönne gefahren und drei Stunden am Wasser
+gewesen.
 
 Es gab keinen Anlass. Niemand hatte Geburtstag, niemand musste etwas
 besprechen, es stand nichts an. Wir haben Emil Steine ins Wasser werfen
@@ -140,7 +141,8 @@ vermutlich das Einzige, was hält.
 
 ---
 
-Der Donnerstag danach war der zehnte.
+Der Donnerstag danach war der neunte — derselbe Tag, an dem oben
+eingezogen worden war.
 
 Wir standen in meiner Küche, Emil schlief seit halb acht, und wir hatten
 unseren einen wahren Satz vor uns.
@@ -207,9 +209,9 @@ Er hat den Ring am elften gekauft. Das habe ich erst viel später
 erfahren, und als ich es erfahren habe, habe ich mir das Datum
 aufgeschrieben.
 
-Einen Tag danach.
+Zwei Tage danach.
 
-Er ist am Tag nach diesem Satz losgegangen und hat einen Ring gekauft
+Er ist am übernächsten Tag losgegangen und hat einen Ring gekauft
 und ihn dann nicht benutzt, und er hat mir am dritten Tag gesagt, dass
 er da ist, und warum er nicht fragt.
 

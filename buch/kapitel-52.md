@@ -194,7 +194,7 @@ was ich in diesem Moment tun konnte.
 
 ---
 
-Wir haben es am Samstag gemacht, dem fünften April, nachmittags, auf dem
+Wir haben es am Samstag gemacht, dem vierten April, nachmittags, auf dem
 Teppich im Wohnzimmer, zwischen dem Holzlaster und einer Schüssel mit
 Bausteinen.
 

@@ -11,17 +11,17 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 56 Kapitel | **fertig**, 65.684 Wörter |
+| Manuskript, 56 Kapitel | **fertig**, 65.699 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
 | EPUB mit eingebettetem Cover | **fertig**, 647 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **65.684 Wörter** — im gemessenen Zielband |
+| **Länge** | **65.699 Wörter** — im gemessenen Zielband |
 
 **Es fehlt nichts mehr.** Die Länge war der letzte offene Punkt und ist
 erledigt: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000
-Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 65.684. Damit
+Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 65.699. Damit
 zahlt Kindle Unlimited über die volle Strecke und nicht über die halbe.
 
 Offen sind nur noch zwei Entscheidungen, die dir gehören und nicht mir
@@ -229,7 +229,7 @@ Leserin nichts extra kosten.
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **291 bis 337 Druckseiten**, also rund
 **65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
-**65.684** und liegt damit im Band, am unteren Rand. Bei vollständigem
+**65.699** und liegt damit im Band, am unteren Rand. Bei vollständigem
 Durchlesen bringt es die Seitenerlöse eines regulären Titels der Nische
 und nicht mehr die Hälfte davon.
 

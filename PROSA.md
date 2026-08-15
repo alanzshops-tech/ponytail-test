@@ -56,7 +56,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 50 | 946 | 11.0 | 10.7 | 7.1 % | 14.1 % | 4.2 | – |
 | 51 | 873 | 10.0 | 9.0 | 7.6 % | 9.2 % | 6.9 | – |
 | 52 | 1359 | 13.0 | 11.8 | 7.8 % | 30.2 % | 8.1 | – |
-| 53 | 1234 | 13.0 | 11.2 | 10.3 % | 16.5 % | 14.6 | – |
+| 53 | 1249 | 13.0 | 11.1 | 10.3 % | 16.3 % | 14.4 | – |
 | 54 | 854 | 12 | 12.2 | 9.1 % | 25.1 % | 16.4 | – |
 | 55 | 971 | 10 | 9.0 | 2.7 % | 3.5 % | 6.2 | – |
 | 56 | 1056 | 10 | 9.9 | 3.5 % | 17.0 % | 12.3 | – |
@@ -80,6 +80,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 - Auslassung falsch `...`: 0 · richtig `…`: 1
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 
