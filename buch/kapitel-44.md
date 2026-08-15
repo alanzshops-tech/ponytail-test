@@ -1,224 +1,170 @@
 # Kapitel 44 — Jonas
 
-Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
-vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als
-erwachsener Mann irgendwann wissen will, woran man ist.
+Am elften April habe ich einen Ring gekauft, und ich habe zweiundzwanzig
+Minuten in diesem Laden gebraucht, weil ich der Verkäuferin erst
+erklären musste, wen sie vor sich hat.
 
-Kita Kirchenweg, Gruppe zwei, vierzehn Kinder, drei Erzieherinnen, ein
-Raum, der nach nasser Wolle und Apfel riecht.
+Nicht mich. Marlene.
 
-Die Regeln der Eingewöhnung sind: Man sitzt. Man spielt nicht. Man ruft
-nicht. Man geht dem Kind nicht hinterher. Wenn es kommt, ist man da; wenn
-es nicht kommt, ist man trotzdem da.
+„Was gefällt ihr denn?“, hat sie gefragt, und ich habe gemerkt, dass
+ich das nicht weiß, weil sie keinen Schmuck trägt. Kein einziges Stück.
+Sie hat Mehl unter den Fingernägeln und Hände, die zwölf Stunden am Tag
+in Wasser sind.
 
-Man macht acht Vormittage lang nichts.
+„Sie kann nichts tragen“, habe ich gesagt. „Sie ist Konditorin. Sie
+nimmt es beim Arbeiten ab, und dann liegt es irgendwo.“
 
-Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt.“
+Die Verkäuferin hat genickt und ist weggegangen und ist mit etwas
+zurückgekommen, das flach ist und keine Kanten hat.
 
-„Ich weiß nicht, was ich tun soll.“
+„Das kann man tragen“, hat sie gesagt. „Das verhakt sich nicht in
+Teigresten.“
 
-„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
-
-Ich habe den Legoturm nicht gebaut.
-
-Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
-abgestimmt haben, ob ich noch Geschäftsführer bin.
+Ich habe es genommen.
 
 ---
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
+Er lag von April bis Mai in einer Schublade in meiner Küche, und sie
+wusste ab dem dritten Tag, dass er da ist, weil ich es ihr gesagt habe.
 
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
+Das war nicht geplant. Wir standen an einem Donnerstagabend in ihrer
+Küche und hatten unseren einen wahren Satz vor uns, und meiner war
+eigentlich ein anderer, und dann habe ich gesagt:
 
-Wir haben nicht miteinander geschlafen.
+„Ich habe am Samstag einen Ring gekauft.“
 
-Wir haben viermal gestritten. Zweimal über Kleinigkeiten, die keine
-waren — sie mag es nicht, wenn ich Emil aus dem Wagen hebe, ohne zu
-fragen, weil sie Angst hat, dass ich es besser kann als sie, und ich mag
-es nicht, wenn sie das Wort *Ihr Geld* benutzt. Einmal über den
-Baubeginn, weil im März die Bohrpfähle kamen und das Café drei Tage nicht
-öffnen konnte. Und einmal, im April, über die Frage, ob wir Emil sagen,
-dass ich sein Vater bin, oder ob er es einfach weiß, was übrigens meine
-Position war und die falsche.
+Sie hat weder gelacht noch geweint noch irgendetwas gemacht, was man in
+Filmen macht. Sie hat die Tasse abgestellt und gesagt:
 
-Und wir haben eine Verabredung, die von ihr kam und die albern klingt.
+„Und?“
 
-Einmal in der Woche, donnerstags, wenn Emil im Bett ist, sagt jeder von
-uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
-sagen würde.
+„Und ich frage nicht.“
 
-Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat.“
+„Warum nicht?“
 
-Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
-sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe.“
+„Weil du dann ja sagen würdest.“
 
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
+Sie hat mich lange angesehen.
+
+„Erklär das“, sagte sie.
 
 ---
 
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
+Ich habe es versucht, und ich brauchte dafür zwei Anläufe.
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+Der erste war zu kompliziert. Ich habe von Verhandlungen geredet, von
+Situationen, in denen die Gegenseite nur zustimmen kann, und sie hat
+gesagt: „Jonas. Nicht so.“
 
-„Der hing da zwei Monate“, sagte sie.
+Beim zweiten Anlauf habe ich gesagt:
 
-„Warum?“
+„Wenn ich dich frage, während ich derjenige bin, dem das Haus gehört
+hat, während dein Sohn meinen Nachnamen nicht hat und während du seit
+vier Monaten jeden Dienstag darauf wartest, dass ich es mir anders
+überlege — dann kannst du nicht nein sagen. Nicht ehrlich. Du würdest
+ja sagen, und dann würden wir beide in fünf Jahren nicht mehr wissen,
+ob du es gewollt hast.“
 
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
+Sie hat sich hingesetzt.
 
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
+„Also wartest du.“
 
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
+„Ich warte, bis es dich nichts kostet.“
 
----
+„Und wann ist das?“
 
-Im März kamen die Bohrpfähle.
+„Das weiß ich nicht“, sagte ich. „Vielleicht in einem Jahr. Vielleicht
+weiß ich es einfach, wenn es so weit ist.“
 
-Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
-gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
-kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
-Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
-gefragt hätte, sondern weil es im Vertrag von September steht, in einem
-Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
-was daraus wird.
+Sie hat lange nichts gesagt.
 
-Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
+Dann: „Gut. Dann weiß ich, dass es kommt, und muss nicht raten.“
 
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
-
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
-
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
+Das ist der ganze Unterschied, und ich habe zwei Jahre gebraucht, um zu
+verstehen, dass er alles ist.
 
 ---
 
-Am achten Mai wurde Emil zwei.
+Der April war der Monat, in dem der Hof entstand.
 
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
+Nicht der fertige. Der Rohbau: Die Bohrpfähle waren durch, die
+Bodenplatten lagen, und man konnte zum ersten Mal stehen, wo später der
+Hof ist, und sehen, dass Theo recht hatte.
 
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
+Er ist unregelmäßig, weil ihr Haus schief steht. Die beiden Neubauten
+treten zurück, als machten sie Platz. Wenn man in der Durchfahrt steht
+und nach hinten sieht, hat man das Gefühl, dass die Häuser um etwas
+herumgebaut wurden, und genau das ist passiert.
 
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
-
----
-
-Ich hatte einen Ring.
-
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
-
-Ich habe ihn an diesem Abend zweimal angefasst.
-
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
-
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
-
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
-
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
-
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
+Ich bin im April elfmal auf dieser Baustelle gewesen, und zwar nicht
+als Geschäftsführer.
 
 ---
 
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
+Am dreiundzwanzigsten kam der Tantiemebescheid.
 
-Es war eine Erbse.
+Das ist ein Blatt Papier von der Personalabteilung, auf dem steht, was
+zur Auszahlung angewiesen worden wäre und was stattdessen nicht
+angewiesen wird, mit Verweis auf den Nachtrag zum Anstellungsvertrag
+vom zwanzigsten Januar.
 
-Ich nahm sie.
+Einhundertzwanzigtausend, im ersten von drei Jahren.
 
-„Danke“, sagte ich.
+Ich habe das Blatt angesehen und auf das Gefühl gewartet, das dazugehört.
 
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
+Es kam nicht.
 
-„Papa.“
+Ich habe es Frau Kuhlmann gesagt, weil sie es ohnehin gesehen hatte.
 
-Dann drehte er sich wieder um und schob weiter Erbsen.
+Sie hat gesagt: „Darf ich?“
 
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
+„Bitte.“
 
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
+„Ihr Vater hat 1998 seine Tantieme in eine Beteiligung gesteckt und
+2003 verloren“, sagte sie. „Sie geben Ihre für etwas aus, das Sie schon
+haben. Das ist besser.“
 
 ---
 
-Um zehn nach neun klingelte mein Telefon.
+Und dann, am achtundzwanzigsten April, ist etwas passiert, das ich hier
+aufschreibe, obwohl es nach nichts klingt.
 
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
+Ich habe eine Mail bekommen von einem Professor an der TU Hamburg,
+Fachbereich Bauingenieurwesen, an den ich zwei Wochen vorher
+geschrieben hatte.
 
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
+Ich hatte gefragt, ob es möglich ist, ein Studium fortzusetzen, das man
+im Jahr 2014 nach dem zweiten Semester abgebrochen hat.
 
-„Herr Reinhardt? Jonas Reinhardt?“
+Er hat geantwortet: Ja. In Teilzeit. Es dauert dann acht bis neun Jahre.
 
-„Ja.“
+Ich habe die Mail dreimal gelesen und dann in einen Ordner gelegt, der
+seitdem *Punkt vier* heißt.
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+Ich habe es niemandem erzählt. Nicht Theo, nicht meiner Mutter, nicht
+ihr.
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+Nicht weil es ein Geheimnis ist.
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
-
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
-
-„Wer ist dran?“, fragte Marlene.
-
-Ich hielt das Telefon fest.
-
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+Weil ich zum ersten Mal seit zwölf Jahren etwas habe, das noch niemand
+beurteilt hat, und weil ich es eine Weile so lassen will.
 
 ---
 
-**ENDE**
+Am dreißigsten April, einem Donnerstag, war mein wahrer Satz:
 
-*Die Reinhardt-Brüder gehen weiter.*
+„Ich habe im April etwas angefangen, von dem ich dir im Sommer erzähle.
+Es ist nichts Schlimmes und es betrifft dich nicht direkt.“
 
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
+Sie hat gesagt: „Okay.“
+
+Und dann, nach einer Pause: „Danke, dass du es ankündigst.“
+
+„Wofür dankst du?“
+
+„Dafür, dass ich es nicht in einem Serienbrief erfahre“, sagte sie.
+
+Wir haben beide gelacht, und es war das erste Mal, dass jemand von uns
+darüber einen Witz gemacht hat, und ich habe an diesem Abend im Auto
+gesessen und gedacht, dass man an so etwas merkt, wann eine Sache vorbei
+ist.
