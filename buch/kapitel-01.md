@@ -77,14 +77,14 @@ herunter, weil er darauf bestanden hatte, und Emil marschierte auf mich
 zu, mit dieser Entschlossenheit, die achtzehn Monate alte Menschen haben,
 wenn sie ein Ziel sehen.
 
-„Ma", sagte er und griff nach meinem Bein.
+„Ma“, sagte er und griff nach meinem Bein.
 
-„Ma", sagte ich zurück und hob ihn hoch, und er roch nach Schlaf und nach
+„Ma“, sagte ich zurück und hob ihn hoch, und er roch nach Schlaf und nach
 dem Apfelmus, das ihm offensichtlich jemand schon gegeben hatte.
 
-„Er wollte dich sehen", sagte Frau Kettler entschuldigend.
+„Er wollte dich sehen“, sagte Frau Kettler entschuldigend.
 
-„Ist gut." Ich setzte ihn auf die Arbeitsplatte, wo er nicht sitzen
+„Ist gut.“ Ich setzte ihn auf die Arbeitsplatte, wo er nicht sitzen
 durfte, und gab ihm ein Stück Teigrest, das er nicht essen durfte, und wir
 sahen uns beide an und sagten nichts darüber.
 
@@ -128,7 +128,7 @@ Die Tür ging auf.
 Ich hörte sie, bevor ich hinsah — die Glocke, die meine Großmutter
 angebracht hatte, und die ich nie abgenommen habe, obwohl sie zu laut ist.
 Ich richtete mich auf, das Tuch noch in der Hand, und sagte: „Einen
-Moment, ich bin gleich —"
+Moment, ich bin gleich —“
 
 Und dann sah ich hin.
 
@@ -145,7 +145,7 @@ Vernichtendes sagt, etwas Vorbereitetes, etwas, das sitzt.
 
 Ich sagte gar nichts.
 
-„Marlene", sagte er.
+„Marlene“, sagte er.
 
 Und über uns, durch die Decke, durch dreißig Zentimeter Hamburger
 Kontorhausdielen, hörte ich, wie Emil zu weinen anfing.

@@ -9,12 +9,12 @@ Schlüssel, hängte das Schild um, und ging nach oben.
 
 Frau Kettler saß mit Emil auf dem Teppich und baute einen Turm.
 
-„Alles in Ordnung?", fragte sie.
+„Alles in Ordnung?“, fragte sie.
 
-„Ja." Ich hörte mich das sagen. „Können Sie noch eine Stunde?"
+„Ja.“ Ich hörte mich das sagen. „Können Sie noch eine Stunde?“
 
 Sie sah mich an, wie Menschen einen ansehen, die sechzig Jahre alt sind
-und viel gesehen haben, und sagte: „Ich kann bis vier."
+und viel gesehen haben, und sagte: „Ich kann bis vier.“
 
 Ich ging ins Schlafzimmer und setzte mich aufs Bett und sah die Wand an.
 
@@ -41,11 +41,11 @@ Es wurden zwei Nächte. Sonntagmorgen brachte er mich zum Zug, und auf dem
 Bahnsteig klingelte sein Telefon, und ich sah, wie er das Gesicht
 veränderte.
 
-„Ich muss", sagte er.
+„Ich muss“, sagte er.
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ich rufe an."
+„Ich rufe an.“
 
 Er hat nicht angerufen.
 
@@ -69,7 +69,7 @@ das Kratzen.
 
 Beim dritten Mal, zwei Wochen später, hat dieselbe Frau gesagt: „Frau
 Voss, Herr Reinhardt lässt ausrichten, dass er sich meldet, wenn es
-zeitlich passt."
+zeitlich passt.“
 
 *Lässt ausrichten.*
 
@@ -97,7 +97,7 @@ In der zweiten Nacht in Travemünde, spät, als wir beide nicht schliefen,
 hatte ich gefragt, ob er Kinder wolle. Einfach so, wie man das um vier Uhr
 morgens fragt, ohne Absicht.
 
-Und er hatte an die Decke gesehen und gesagt: „Nein. Nicht solange —"
+Und er hatte an die Decke gesehen und gesagt: „Nein. Nicht solange —“
 
 Und dann hatte er den Satz nicht beendet, weil ich ihn geküsst habe,
 weil ich um vier Uhr morgens keine Lust auf eine ernste Antwort hatte.
@@ -153,30 +153,30 @@ Name und Mobilnummer.
 
 Es klingelte zweimal.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Ich habe eine Frage", sagte ich. „Und dann habe ich vielleicht ein
-Angebot. Aber erst die Frage."
+„Ich habe eine Frage“, sagte ich. „Und dann habe ich vielleicht ein
+Angebot. Aber erst die Frage.“
 
 Eine Pause. Ich hörte, dass er irgendwo stehen blieb.
 
-„Ja."
+„Ja.“
 
 „Wie viel kostet Sie Ihr Projekt, wenn Sie um mein Haus herumbauen müssen,
-statt darüber?"
+statt darüber?“
 
 Diesmal war die Pause länger.
 
-„Warum fragen Sie das?"
+„Warum fragen Sie das?“
 
-„Weil ich wissen will, was ich in der Hand halte", sagte ich. „Und weil
+„Weil ich wissen will, was ich in der Hand halte“, sagte ich. „Und weil
 ich es lieber von Ihnen höre als von einem Gutachter, den ich mir nicht
-leisten kann."
+leisten kann.“
 
 Ich hörte ihn atmen. Dann ein Geräusch, das ich nicht einordnen konnte
 und das, wie ich viel später erfuhr, das Geräusch war, mit dem Jonas
 Reinhardt sich an eine Wand lehnt.
 
-„Vier Komma zwei Millionen", sagte er. „Ungefähr."
+„Vier Komma zwei Millionen“, sagte er. „Ungefähr.“
 
 Ich setzte mich hin.

@@ -47,18 +47,18 @@ genommen worden.
 
 > *Der Anruf kam am achten Mai um zehn nach neun.*
 >
-> „Herr Reinhardt? Jonas Reinhardt?"
+> „Herr Reinhardt? Jonas Reinhardt?“
 >
-> „Ja."
+> „Ja.“
 >
-> „Sie kennen mich nicht", sagte sie. „Mein Name ist Amira. Ich bin
-> seit vierzehn Monaten mit Ihrem Bruder verheiratet."
+> „Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin
+> seit vierzehn Monaten mit Ihrem Bruder verheiratet.“
 >
 > Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
 >
-> „Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen",
+> „Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
 > sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-> Land verlassen muss."
+> Land verlassen muss.“
 
 ---
 

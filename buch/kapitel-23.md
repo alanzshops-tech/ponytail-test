@@ -14,7 +14,7 @@ Um sieben fragte er zum vierten Mal an diesem Tag.
 Er kann den Namen nicht. Es ist dieser Laut mit dem harten Anfang, und
 danach sieht er zur Tür.
 
-„Der kommt am Siebenundzwanzigsten", sagte ich.
+„Der kommt am Siebenundzwanzigsten“, sagte ich.
 
 Er versteht *Siebenundzwanzigster* nicht. Er versteht den Tonfall, in
 dem man so etwas sagt, und mein Tonfall war in dieser Woche nicht
@@ -167,49 +167,49 @@ Reinhardt an.
 
 Ich hatte seine Nummer, weil sie auf jedem Plan steht.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Marlene Voss. Kehrwieder zwölf."
+„Marlene Voss. Kehrwieder zwölf.“
 
 Eine Pause, in der ich hörte, wie jemand eine Tür zumachte.
 
-„Frau Voss." Er klang vorsichtig. „Mein Bruder —"
+„Frau Voss.“ Er klang vorsichtig. „Mein Bruder —“
 
 „Ich rufe nicht wegen Ihres Bruders an. Ich rufe wegen des Hofs an, und
-zwar mit einer Frage, die Sie beantworten können und er nicht."
+zwar mit einer Frage, die Sie beantworten können und er nicht.“
 
-„Fragen Sie."
+„Fragen Sie.“
 
 Ich sah auf Blatt vier, auf das Tor, das meinem Haus gehört.
 
-„Was ist die Dienstbarkeit wert?"
+„Was ist die Dienstbarkeit wert?“
 
 Am anderen Ende war es ungefähr drei Sekunden still.
 
-„Wie meinen Sie das?", sagte Theo, und ich hörte genau, dass er es
+„Wie meinen Sie das?“, sagte Theo, und ich hörte genau, dass er es
 verstanden hatte.
 
-„Ich meine es genau so, wie es klingt", sagte ich. „Sie brauchen ein
+„Ich meine es genau so, wie es klingt“, sagte ich. „Sie brauchen ein
 Wegerecht durch meine Durchfahrt, ein Anbaurecht an meine Rückwand und
 ein Leitungsrecht unter meinem Hof. Alles drei für immer und
 grundbuchlich gesichert. Ich habe Ihnen das seit Oktober umsonst
 zugesagt, weil ich nett bin und weil mich niemand nach einem Preis
-gefragt hat."
+gefragt hat.“
 
-„Frau Voss —"
+„Frau Voss —“
 
-„Ich verkaufe mein Haus nicht", sagte ich. „Ich verkaufe ein Recht. Das
+„Ich verkaufe mein Haus nicht“, sagte ich. „Ich verkaufe ein Recht. Das
 ist nicht dasselbe, und ich möchte wissen, was es wert ist. Nicht von
-Ihnen. Von jemandem, den wir beide nicht kennen."
+Ihnen. Von jemandem, den wir beide nicht kennen.“
 
 Ich hörte ihn ausatmen.
 
-„Einen Gutachter", sagte er.
+„Einen Gutachter“, sagte er.
 
-„Einen Gutachter."
+„Einen Gutachter.“
 
-„Frau Voss, wissen Sie eigentlich, was Sie da gerade —"
+„Frau Voss, wissen Sie eigentlich, was Sie da gerade —“
 
-„Ja", sagte ich. „Ich frage. Zum ersten Mal in meinem Leben, und
+„Ja“, sagte ich. „Ich frage. Zum ersten Mal in meinem Leben, und
 ausgerechnet einen Reinhardt. Machen Sie sich darüber keine Gedanken,
-das mache ich schon selbst."
+das mache ich schon selbst.“

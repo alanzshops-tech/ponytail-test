@@ -18,17 +18,17 @@ Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
 Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
 ihm bedeutet, dass es ernst ist.
 
-Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen."
+Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
 
-„Ja."
+„Ja.“
 
-„Geht nicht."
+„Geht nicht.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil ein Erlass eine Schenkung ist." Er zog seinen Block heran. „Ihr
+„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
 seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
-zwanzigtausend. Auf den Rest dreißig Prozent."
+zwanzigtausend. Auf den Rest dreißig Prozent.“
 
 Er schrieb die Zahl hin und drehte den Block um.
 
@@ -37,23 +37,23 @@ Er schrieb die Zahl hin und drehte den Block um.
 Ich sah die Zahl an.
 
 „Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
-Haus", sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
-fünf."
+Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
+fünf.“
 
-„Und was geht?"
+„Und was geht?“
 
 „Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
-keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig." Er
+keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
 klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
 zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
-entscheidet, es nicht einzufordern."
+entscheidet, es nicht einzufordern.“
 
 Der Raum war eine Weile still.
 
-„Das ist schlimmer", sagte ich.
+„Das ist schlimmer“, sagte ich.
 
-„Das ist erheblich schlimmer", sagte Niklas. „Deshalb sage ich es dir
-ja."
+„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
+ja.“
 
 ---
 
@@ -64,64 +64,64 @@ Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
 kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
 immer eine Frage.
 
-„Hast du zwanzig Minuten?"
+„Hast du zwanzig Minuten?“
 
-„Ich habe eine Stunde."
+„Ich habe eine Stunde.“
 
-„Du hast nie eine Stunde." Er setzte sich in den Sessel, nicht auf die
+„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
 Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
-hast ein Kind."
+hast ein Kind.“
 
-„Ja."
+„Ja.“
 
-„Und Mama sagt, du bist verliebt."
+„Und Mama sagt, du bist verliebt.“
 
-„Auch ja."
+„Auch ja.“
 
-„Warum weiß ich das über Bande?"
+„Warum weiß ich das über Bande?“
 
 Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
 zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
 bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
 
-Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag."
+Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
 
 Bastian sah mich an, kaute an einem Daumennagel und sagte:
 
-„Weiß sie das?"
+„Weiß sie das?“
 
-„Ich sage es ihr morgen."
+„Ich sage es ihr morgen.“
 
-„Das ist nicht dasselbe."
+„Das ist nicht dasselbe.“
 
-„Es ist ein Tag."
+„Es ist ein Tag.“
 
-„Jonas." Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
+„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
 nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
-ablehnen."
+ablehnen.“
 
 ---
 
 Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
 weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
 
-„Was machst du eigentlich zurzeit?", fragte ich.
+„Was machst du eigentlich zurzeit?“, fragte ich.
 
-„Was Eigenes."
+„Was Eigenes.“
 
-„Was für was Eigenes?"
+„Was für was Eigenes?“
 
-„Frag mich im Sommer." Er stand auf und schulterte den Rucksack. „Und
-sag den anderen nicht, dass ich hier war."
+„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
+sag den anderen nicht, dass ich hier war.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil ich das dann erklären muss." Er blieb an der Tür stehen. „Kauf
-sie nicht, Jonas."
+„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
+sie nicht, Jonas.“
 
-„Ich habe bis achtzehn Uhr Zeit."
+„Ich habe bis achtzehn Uhr Zeit.“
 
-„Ich weiß." Er ging. „Deshalb sage ich es jetzt."
+„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
 
 ---
 
@@ -169,12 +169,12 @@ Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
 
 „Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
 Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
-ob Sie das zurückstellen wollen."
+ob Sie das zurückstellen wollen.“
 
 Ich war in Gedanken bei Punkt fünf.
 
-„Nein", sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
-sowieso mit ihr."
+„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
+sowieso mit ihr.“
 
 Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
 Schreibtischlampe ausmachte.

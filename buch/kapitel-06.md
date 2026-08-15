@@ -2,14 +2,14 @@
 
 Theo warf mir die Mappe auf den Tisch, ohne sich zu setzen.
 
-„Das funktioniert nicht."
+„Das funktioniert nicht.“
 
-„Guten Morgen auch."
+„Guten Morgen auch.“
 
-„Jonas." Er schlug die Mappe auf und drehte sie zu mir. „Sieh es dir an.
+„Jonas.“ Er schlug die Mappe auf und drehte sie zu mir. „Sieh es dir an.
 Du willst, dass ich eine Erschließung um ein Bestandsgebäude herumführe,
 das in der Mitte steht. Ich habe dir gesagt, dass das geht. Ich habe
-nicht gesagt, dass es *gut* ist."
+nicht gesagt, dass es *gut* ist.“
 
 Ich sah es mir an.
 
@@ -20,15 +20,15 @@ der Beschriftung *Bestand 14*.
 
 Der Entwurf sah aus wie ein Satz mit einem Wort zu viel.
 
-„Was schlägst du vor?", fragte ich.
+„Was schlägst du vor?“, fragte ich.
 
 „Dass du mit ihr redest. Sie kriegt zweihundertneunzig, sie ist raus, wir
 haben unsere Achse. Es ist nicht mal ein besonders schönes Haus, Jonas.
-Es ist ein Kontorhaus wie vierhundert andere."
+Es ist ein Kontorhaus wie vierhundert andere.“
 
-„Nein."
+„Nein.“
 
-„Warum nicht?"
+„Warum nicht?“
 
 Und da war sie, die Frage, die er mir seit drei Wochen stellte, in
 verschiedenen Verkleidungen, und die ich seit drei Wochen nicht beantwortet
@@ -36,24 +36,24 @@ hatte.
 
 Ich stand auf und ging zum Modelltisch.
 
-„Weißt du, was Vater gemacht hätte?", sagte ich.
+„Weißt du, was Vater gemacht hätte?“, sagte ich.
 
-„Gekauft."
+„Gekauft.“
 
-„Er hätte gewartet." Ich drehte das Modell, bis der Block zu mir zeigte.
+„Er hätte gewartet.“ Ich drehte das Modell, bis der Block zu mir zeigte.
 „Er hätte gewartet, bis die Bank kündigt, und dann wäre er hingefahren.
 Er hat mir das mal erklärt. Man wartet, hat er gesagt. Irgendwann ruft
-jeder an."
+jeder an.“
 
 Theo sagte nichts.
 
-„Ich habe in ihrer Akte gesehen, dass die Bank kündigt", sagte ich. „Vor
+„Ich habe in ihrer Akte gesehen, dass die Bank kündigt“, sagte ich. „Vor
 dem ersten Gespräch. Ich bin trotzdem hingefahren, und ein Teil von mir
-hat gedacht: in sechs Wochen hat sie keine Wahl mehr."
+hat gedacht: in sechs Wochen hat sie keine Wahl mehr.“
 
-„Das ist unser Geschäft."
+„Das ist unser Geschäft.“
 
-„Ja." Ich stellte das Modell wieder gerade. „Das ist unser Geschäft."
+„Ja.“ Ich stellte das Modell wieder gerade. „Das ist unser Geschäft.“
 
 ---
 
@@ -62,7 +62,7 @@ Wir änderten den Entwurf.
 Das kostete uns elf Tage und einen Statiker, und Theo redete drei davon
 kaum mit mir. Am zwölften Tag legte er eine neue Mappe auf den Tisch,
 setzte sich diesmal, und sagte: „Sieh es dir an. Und sag nichts, bis du
-es zu Ende gesehen hast."
+es zu Ende gesehen hast.“
 
 Er hatte die Achse aufgegeben.
 
@@ -76,34 +76,34 @@ Es war besser als vorher.
 
 Nicht ein bisschen. Deutlich.
 
-„Der Hof funktioniert nur, weil das Ding krumm ist", sagte Theo. „Wenn du
-es abreißt und gerade neu baust, kriegst du einen Schuhkarton."
+„Der Hof funktioniert nur, weil das Ding krumm ist“, sagte Theo. „Wenn du
+es abreißt und gerade neu baust, kriegst du einen Schuhkarton.“
 
-„Warum hast du das nicht gleich so gemacht?"
+„Warum hast du das nicht gleich so gemacht?“
 
 „Weil ich nicht darauf gekommen bin, solange ich das Haus als Problem
-gesehen habe." Er sah auf den Plan. „Man findet nichts, solange man
-etwas wegdenken will."
+gesehen habe.“ Er sah auf den Plan. „Man findet nichts, solange man
+etwas wegdenken will.“
 
 Ich sah ihn an.
 
-„Was?", sagte er.
+„Was?“, sagte er.
 
-„Nichts."
+„Nichts.“
 
-„Sag es."
+„Sag es.“
 
-„Du hast am Freitag gesagt, du hast was Familiäres."
+„Du hast am Freitag gesagt, du hast was Familiäres.“
 
 Theo lehnte sich zurück, und ich sah, wie er einen Moment lang überlegte,
 ob er es jetzt sagt.
 
-„Später", sagte er.
+„Später“, sagte er.
 
-„Theo."
+„Theo.“
 
-„Später, Jonas." Er stand auf und klopfte zweimal auf den Plan. „Erst
-das hier. Dann das andere."
+„Später, Jonas.“ Er stand auf und klopfte zweimal auf den Plan. „Erst
+das hier. Dann das andere.“
 
 ---
 
@@ -114,11 +114,11 @@ dass beide nicht stimmten.
 Sie war allein im Laden. Es war kurz vor fünf, die Vitrine schon halb
 leer, und sie war dabei, die Bleche zu stapeln.
 
-„Ich habe etwas, das ich Ihnen zeigen möchte", sagte ich.
+„Ich habe etwas, das ich Ihnen zeigen möchte“, sagte ich.
 
-„Ich habe in zwanzig Minuten Feierabend."
+„Ich habe in zwanzig Minuten Feierabend.“
 
-„Zwanzig Minuten reichen."
+„Zwanzig Minuten reichen.“
 
 Sie wischte sich die Hände an der Schürze ab und kam an den Fenstertisch,
 und ich legte den Plan aus, und dann tat ich etwas, das ich in meinem
@@ -133,18 +133,18 @@ aber man kann fragen.
 
 Sie sagte lange nichts. Dann legte sie einen Finger auf den Hof.
 
-„Was ist das für ein Kreis?"
+„Was ist das für ein Kreis?“
 
-„Ein Baum. Theo zeichnet immer Bäume ein. Sie werden nie gepflanzt."
+„Ein Baum. Theo zeichnet immer Bäume ein. Sie werden nie gepflanzt.“
 
-„Warum nicht?"
+„Warum nicht?“
 
 „Weil im Bauablauf jemand ausrechnet, was der Baum kostet, und dann wird
-er zu einem Fahrradständer."
+er zu einem Fahrradständer.“
 
 Sie sah mich an.
 
-„Pflanzen Sie den Baum", sagte sie.
+„Pflanzen Sie den Baum“, sagte sie.
 
 ---
 
@@ -164,28 +164,28 @@ aufgehängt, und der sei runtergefallen und habe ein Auto getroffen.
 Ich lachte. Ich hörte mich lachen und dachte, dass ich das lange nicht
 getan hatte.
 
-„Warum machen Sie das?", fragte sie dann.
+„Warum machen Sie das?“, fragte sie dann.
 
-„Was?"
+„Was?“
 
-„Das hier." Sie zeigte auf den Plan, auf die Tassen, auf den Tisch.
+„Das hier.“ Sie zeigte auf den Plan, auf die Tassen, auf den Tisch.
 „Sie fahren nicht auf jede Baustelle. Sie erklären nicht jedem
 Eigentümer den Entwurf. Sie zahlen kein Dach, wenn ein Wegerecht
-gereicht hätte."
+gereicht hätte.“
 
 Ich hätte etwas Kluges sagen können.
 
-„Weil ich vor zwei Jahren nicht angerufen habe", sagte ich.
+„Weil ich vor zwei Jahren nicht angerufen habe“, sagte ich.
 
 Sie wurde ganz still.
 
-„Ich weiß, dass das nichts wiedergutmacht", sagte ich. „Ich weiß, dass
+„Ich weiß, dass das nichts wiedergutmacht“, sagte ich. „Ich weiß, dass
 man so etwas nicht mit einem Dach verrechnet. Ich sage es nur, weil Sie
-gefragt haben, und weil ich es leid bin, so zu tun, als wäre es beruflich."
+gefragt haben, und weil ich es leid bin, so zu tun, als wäre es beruflich.“
 
 Sie sah auf ihre Hände.
 
-„Warum haben Sie nicht angerufen?"
+„Warum haben Sie nicht angerufen?“
 
 Und das war der Moment. Ich habe ihn später hundertmal durchgegangen.
 
@@ -196,16 +196,16 @@ spät vor.
 
 Beides wäre wahr gewesen.
 
-Ich sagte: „Es gab damals eine Situation in der Familie."
+Ich sagte: „Es gab damals eine Situation in der Familie.“
 
 Ich sah, wie es in ihrem Gesicht zumachte.
 
-„Verstehe", sagte sie und stand auf und begann, die Tassen einzusammeln.
-„Ich muss dann. Es ist spät."
+„Verstehe“, sagte sie und stand auf und begann, die Tassen einzusammeln.
+„Ich muss dann. Es ist spät.“
 
-„Marlene —"
+„Marlene —“
 
-„Vielen Dank für den Plan, Herr Reinhardt."
+„Vielen Dank für den Plan, Herr Reinhardt.“
 
 Wieder Herr Reinhardt.
 

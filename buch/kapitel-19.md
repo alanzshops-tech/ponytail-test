@@ -37,28 +37,28 @@ zusammengebettelt hatte.
 
 Er sah sich alles an. Er sah es sich wirklich an, das muss ich sagen.
 
-„Frau Voss, ich kann das nicht entscheiden."
+„Frau Voss, ich kann das nicht entscheiden.“
 
-„Wer kann es entscheiden?"
+„Wer kann es entscheiden?“
 
-„Im Moment niemand hier." Er legte die Hände flach auf den Tisch. „Ich
+„Im Moment niemand hier.“ Er legte die Hände flach auf den Tisch. „Ich
 sage Ihnen mehr, als ich darf. Wir bereinigen zum Jahresende. Ihr
 Engagement liegt in einem Paket, das bewertet wird. Solange das läuft,
 darf ich an den Konditionen nichts ändern, weil jede Änderung den Wert
-des Pakets verändert."
+des Pakets verändert.“
 
-„Sie verkaufen meinen Kredit."
+„Sie verkaufen meinen Kredit.“
 
-„Wir prüfen einen Verkauf."
+„Wir prüfen einen Verkauf.“
 
-„Und dann?"
+„Und dann?“
 
-„Dann tritt jemand anderes in unsere Rechte ein." Er sagte es leise.
+„Dann tritt jemand anderes in unsere Rechte ein.“ Er sagte es leise.
 „Das kann besser für Sie sein. Es kann auch schlechter sein. Ich weiß
-es nicht, und wer Ihnen das jetzt vorhersagt, lügt."
+es nicht, und wer Ihnen das jetzt vorhersagt, lügt.“
 
 An der Tür sagte er noch: „Wenn Sie irgendwo zweihundert bekommen — bis
-zum Fünfzehnten geht alles."
+zum Fünfzehnten geht alles.“
 
 ---
 
@@ -77,31 +77,31 @@ mein einziger Stolz aus diesem Dezember.
 Am zwölften kam Frau Kettler in die Küche, als ich die Kontoauszüge
 sortierte, und blieb hinter mir stehen.
 
-„Ich habe elftausendvierhundert."
+„Ich habe elftausendvierhundert.“
 
 Ich drehte mich nicht um.
 
-„Frau Kettler."
+„Frau Kettler.“
 
-„Auf einem Sparbuch. Für die Beerdigung." Sie schob einen Stuhl heran
+„Auf einem Sparbuch. Für die Beerdigung.“ Sie schob einen Stuhl heran
 und setzte sich, was sie nie tut, wenn sie im Dienst ist. „Beerdigungen
-sind billiger geworden. Man kann sich jetzt verstreuen lassen."
+sind billiger geworden. Man kann sich jetzt verstreuen lassen.“
 
-„Ich nehme kein Geld von Ihnen."
+„Ich nehme kein Geld von Ihnen.“
 
-„Das dachte ich mir." Sie faltete die Hände. „Ich sage es trotzdem, weil
-man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte."
+„Das dachte ich mir.“ Sie faltete die Hände. „Ich sage es trotzdem, weil
+man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
 
 Wir saßen eine Weile.
 
-„Es reicht sowieso nicht", sagte ich. „Es fehlen zweihundertdreizehn."
+„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
 
-„Ich weiß." Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
-Frau Voss. Nicht wegen des Geldes."
+„Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
+Frau Voss. Nicht wegen des Geldes.“
 
-„Sondern?"
+„Sondern?“
 
-„Damit Sie es einmal geübt hätten."
+„Damit Sie es einmal geübt hätten.“
 
 ---
 
@@ -149,9 +149,9 @@ nicht verstehe.
 
 Am neunzehnten saßen wir abends auf dem Boden vor dem Regal und sortierten
 Christbaumkugeln, und er sagte, ohne aufzusehen: „Ich muss dir vor
-Weihnachten was sagen. Nichts Schlimmes."
+Weihnachten was sagen. Nichts Schlimmes.“
 
-Und ich sagte: „Ich dir auch."
+Und ich sagte: „Ich dir auch.“
 
 Und wir haben beide gelacht und beide nichts gesagt, und wenn dieses
 Buch eine Stelle hat, an der ich zurückgehen und jemanden schütteln
@@ -161,7 +161,7 @@ möchte, dann diese.
 
 Zweimal habe ich es fast getan.
 
-Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —" und in
+Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —“ und in
 diesem Moment fiel Emil vom Sofa, und danach war es weg.
 
 Das zweite Mal am zwanzigsten, spät. Ich hatte die Worte schon
@@ -181,24 +181,24 @@ Das habe ich mir jedenfalls gesagt.
 Am einundzwanzigsten stellte Frau Kettler die Kaffeemühle ab, mitten am
 Vormittag, was Krieg bedeutet.
 
-„Frau Voss."
+„Frau Voss.“
 
-„Ich weiß, was Sie sagen wollen."
+„Ich weiß, was Sie sagen wollen.“
 
-„Dann sage ich es kurz." Sie wischte sich die Hände ab. „Sie machen es
-schon wieder."
+„Dann sage ich es kurz.“ Sie wischte sich die Hände ab. „Sie machen es
+schon wieder.“
 
-„Es ist etwas anderes."
+„Es ist etwas anderes.“
 
-„Es ist etwas *Kleineres*", sagte sie. „Das ist der Unterschied, und der
+„Es ist etwas *Kleineres*“, sagte sie. „Das ist der Unterschied, und der
 Unterschied hilft Ihnen nicht. Beim ersten Mal ging es um ein Kind, und
 es hat zwei Jahre gedauert. Diesmal geht es um ein Haus, und Sie sind
-bei drei Wochen." Sie sah mich an. „Wissen Sie, was in beiden Fällen
-gleich ist?"
+bei drei Wochen.“ Sie sah mich an. „Wissen Sie, was in beiden Fällen
+gleich ist?“
 
-„Sagen Sie es."
+„Sagen Sie es.“
 
-„Dass Sie entscheiden, was er verkraftet."
+„Dass Sie entscheiden, was er verkraftet.“
 
 ---
 

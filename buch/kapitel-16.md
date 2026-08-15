@@ -8,33 +8,33 @@ weiß nicht, was ich sagen soll, und solange ich nichts sage, habe ich
 auch nichts Falsches gesagt.
 
 Am Montag kam Theo in mein Büro, sah mich an und sagte: „Du siehst aus
-wie neunzehn Neunundneunzig."
+wie neunzehn Neunundneunzig.“
 
-„Danke."
+„Danke.“
 
-„Neunzehn Neunundneunzig warst du drei Monate lang so." Er setzte sich
+„Neunzehn Neunundneunzig warst du drei Monate lang so.“ Er setzte sich
 auf die Tischkante, genau wie Niklas, was mich zu der Frage bringt, wozu
-ich eigentlich Stühle habe. „Was ist passiert?"
+ich eigentlich Stühle habe. „Was ist passiert?“
 
-„Ich habe ihr eine Mappe hingelegt."
+„Ich habe ihr eine Mappe hingelegt.“
 
 Mein Bruder schloss kurz die Augen.
 
-„Sechsunddreißig Seiten", sagte ich.
+„Sechsunddreißig Seiten“, sagte ich.
 
-„Jonas."
+„Jonas.“
 
-„Mit Register."
+„Mit Register.“
 
-„Herrgott." Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
+„Herrgott.“ Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
 habe eine Frau, von der meine Mutter nicht weiß, dass es sie gibt. Ich
 bin die letzte Instanz auf diesem Planeten, die dir Vorträge halten
-darf."
+darf.“
 
 An der Tür drehte er sich um.
 
 „Aber wenn du mich fragst: Geh hin, ohne Papier. Ganz ohne. Nicht mal
-einen Kugelschreiber."
+einen Kugelschreiber.“
 
 ---
 
@@ -51,52 +51,52 @@ zweiundzwanzig Cent Rückgeld schuldig blieb.
 Die Sachbearbeiterin hieß Frau Adamczyk und hatte drei Aktenstapel und
 einen Kaktus.
 
-„Sie sind der Vater."
+„Sie sind der Vater.“
 
-„Ja."
+„Ja.“
 
-„Sind Sie verheiratet mit der Mutter?"
+„Sind Sie verheiratet mit der Mutter?“
 
-„Nein."
+„Nein.“
 
-„Dann sind Sie erst mal gar nichts." Sie sagte es ohne jede Schärfe, so
+„Dann sind Sie erst mal gar nichts.“ Sie sagte es ohne jede Schärfe, so
 wie man sagt, dass draußen Regen ist. „Das Sorgerecht liegt bei der
 Mutter. Sie können die Vaterschaft anerkennen — hier bei uns, kostenlos,
-das beurkunde ich Ihnen. Dauert eine Viertelstunde."
+das beurkunde ich Ihnen. Dauert eine Viertelstunde.“
 
-„Und was brauche ich dafür?"
+„Und was brauche ich dafür?“
 
-„Ihren Ausweis."
+„Ihren Ausweis.“
 
 Ich wartete.
 
-„Und?"
+„Und?“
 
-„Und die Mutter", sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
+„Und die Mutter“, sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
 Zustimmung ist die Anerkennung unwirksam. Beim gemeinsamen Sorgerecht
-genauso — das geht nur, wenn beide es erklären."
+genauso — das geht nur, wenn beide es erklären.“
 
-„Und wenn sie nicht will?"
+„Und wenn sie nicht will?“
 
 Sie legte den Kugelschreiber hin.
 
 „Herr Reinhardt, das ist die Frage, die hier jeden Tag zwanzigmal
 gestellt wird, und ich beantworte sie jeden Tag zwanzigmal gleich: Dann
 haben Sie kein rechtliches Problem. Dann haben Sie ein Problem mit der
-Mutter." Sie schob mir ein Merkblatt hin. „Und das löst kein Amt."
+Mutter.“ Sie schob mir ein Merkblatt hin. „Und das löst kein Amt.“
 
 Ich sah auf das Merkblatt. Vier Seiten, geheftet, in einer Schrift, die
 seit den Neunzigern nicht gewechselt wurde.
 
-„Darf ich Sie etwas fragen?"
+„Darf ich Sie etwas fragen?“
 
-„Bitte."
+„Bitte.“
 
-„Was machen die Leute falsch, die hier scheitern?"
+„Was machen die Leute falsch, die hier scheitern?“
 
 Frau Adamczyk sah mich zum ersten Mal richtig an.
 
-„Sie kommen zu mir, bevor sie mit ihr geredet haben", sagte sie.
+„Sie kommen zu mir, bevor sie mit ihr geredet haben“, sagte sie.
 
 ---
 
@@ -108,11 +108,11 @@ an Tisch vier saßen vier Frauen mit einem Kinderwagen quer im Gang.
 
 Ich stellte mich in die Schlange.
 
-Als ich dran war, sagte ich: „Ich habe zwei Stunden."
+Als ich dran war, sagte ich: „Ich habe zwei Stunden.“
 
 Sie sah mich an. Sehr lange, für eine Schlange von sechs Leuten.
 
-„Schürze hängt an der Tür", sagte sie.
+„Schürze hängt an der Tür“, sagte sie.
 
 ---
 
@@ -126,22 +126,22 @@ es in vier Teile und warf es weg.
 
 Sie sah zu.
 
-„Das war das Laborblatt", sagte ich.
+„Das war das Laborblatt“, sagte ich.
 
-„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast." Sie
-nahm mir das Tuch aus der Hand. „Das war eine Geste."
+„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast.“ Sie
+nahm mir das Tuch aus der Hand. „Das war eine Geste.“
 
-„Ja."
+„Ja.“
 
-„Ich mag Gesten nicht besonders."
+„Ich mag Gesten nicht besonders.“
 
-„Ich weiß nicht, was ich sonst machen soll."
+„Ich weiß nicht, was ich sonst machen soll.“
 
 Und dann sagte Marlene Voss den Satz, für den ich sie vermutlich
 geheiratet hätte, wenn wir zwei völlig andere Menschen mit einer völlig
 anderen Vorgeschichte gewesen wären:
 
-„Komm nächsten Dienstag wieder."
+„Komm nächsten Dienstag wieder.“
 
 ---
 
@@ -181,19 +181,19 @@ und ich tat es, ohne dass mir das Herz dabei schneller schlug.
 
 Ich rief Frau Kuhlmann.
 
-„Sie sind noch da?"
+„Sie sind noch da?“
 
-„Sie auch", sagte meine Assistentin.
+„Sie auch“, sagte meine Assistentin.
 
 „Können Sie morgen etwas für mich herausfinden? Kehrwieder 12. Wer
 finanziert, wie hoch die Valuta ist, ob die Kündigung ausgesprochen
-wurde und ob ein Verwertungsverfahren läuft."
+wurde und ob ein Verwertungsverfahren läuft.“
 
 Sie notierte es.
 
-„Soll ich mit jemandem sprechen?"
+„Soll ich mit jemandem sprechen?“
 
-„Nur zuhören." Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
-Kuhlmann. Ich will es nur wissen."
+„Nur zuhören.“ Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
+Kuhlmann. Ich will es nur wissen.“
 
 Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.

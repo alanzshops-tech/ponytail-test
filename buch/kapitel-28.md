@@ -14,12 +14,12 @@ es nicht kommt, ist man trotzdem da.
 Man macht acht Vormittage lang nichts.
 
 Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt."
+sind sehr angespannt.“
 
-„Ich weiß nicht, was ich tun soll."
+„Ich weiß nicht, was ich tun soll.“
 
-„Nichts", sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen."
+„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
+halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
 
 Ich habe den Legoturm nicht gebaut.
 
@@ -52,15 +52,15 @@ uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
 sagen würde.
 
 Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat."
+nur machst, damit Emil einen Vater hat.“
 
 Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
 sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe."
+vor dem Anruf habe.“
 
 Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
 Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter", was in ihrem Wortschatz an dritter Stelle nach
+für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
 Heiligsprechung kommt.
 
 ---
@@ -71,13 +71,13 @@ den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
 **23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
 Auch die Frist. Ohne Vorrede.**
 
-„Der hing da zwei Monate", sagte sie.
+„Der hing da zwei Monate“, sagte sie.
 
-„Warum?"
+„Warum?“
 
-„Damit ich ihn jeden Morgen sehe." Sie setzte sich mir gegenüber. „Ich
+„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
 habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist."
+mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
 
 Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
 Abschrift vom Jugendamt.
@@ -125,7 +125,7 @@ hätte, ja zu sagen.
 
 Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
 verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten."
+weiß ich, dass es kommt, und muss nicht raten.“
 
 Das ist der ganze Unterschied.
 
@@ -138,12 +138,12 @@ Es war eine Erbse.
 
 Ich nahm sie.
 
-„Danke", sagte ich.
+„Danke“, sagte ich.
 
 Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
 seit Weihnachten arbeitet:
 
-„Papa."
+„Papa.“
 
 Dann drehte er sich wieder um und schob weiter Erbsen.
 
@@ -163,32 +163,32 @@ Diesmal reichte es.
 Um zehn nach neun klingelte mein Telefon.
 
 Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit."
+„Geh ran, es ist Freitag, das ist nie die Arbeit.“
 
 Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
 von ruhig, die Menschen haben, die vorher lange geübt haben.
 
-„Herr Reinhardt? Jonas Reinhardt?"
+„Herr Reinhardt? Jonas Reinhardt?“
 
-„Ja."
+„Ja.“
 
-„Sie kennen mich nicht", sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet."
+„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
+vierzehn Monaten mit Ihrem Bruder verheiratet.“
 
 Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen",
+„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
 sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss."
+Land verlassen muss.“
 
 Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
 Decke, so wie es das in diesem Haus immer tut.
 
-„Wer ist dran?", fragte Marlene.
+„Wer ist dran?“, fragte Marlene.
 
 Ich hielt das Telefon fest.
 
-„Ich glaube", sagte ich, „meine Schwägerin."
+„Ich glaube“, sagte ich, „meine Schwägerin.“
 
 ---
 

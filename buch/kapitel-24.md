@@ -18,23 +18,23 @@ Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
 hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
 ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
 
-„Du guckst komisch", sagte Theo.
+„Du guckst komisch“, sagte Theo.
 
 „Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
-Gegenpartei halte."
+Gegenpartei halte.“
 
-„Sie *ist* eine Gegenpartei." Mein Bruder setzte sich, diesmal
+„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
 tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
 verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
 uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
-das kostet. Weil sie nett war."
+das kostet. Weil sie nett war.“
 
-„Sie hat es zugesagt."
+„Sie hat es zugesagt.“
 
-„Mündlich. Bei Kaffee. Ohne Gegenleistung." Theo zog Blatt vier aus der
+„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
 Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
 anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
-mich gefragt, was mit ihm nicht stimmt."
+mich gefragt, was mit ihm nicht stimmt.“
 
 ---
 
@@ -54,33 +54,33 @@ unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
 Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
 die ich nicht mal überschlagen wollte.
 
-„Was kostet die Alternative?", fragte ich schließlich.
+„Was kostet die Alternative?“, fragte ich schließlich.
 
 Theo rechnete auf dem Rand.
 
-„Ohne mich festzulegen: eine Komma vier. Plus neun Monate."
+„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
 
 Ich sah die Zahl an.
 
 „Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
-wert."
+wert.“
 
-„Mindestens", sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
-Gutachter nicht so rechnen. Aber ja."
+„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
+Gutachter nicht so rechnen. Aber ja.“
 
 ---
 
 Niklas kam am Dreißigsten, und wir bauten es zusammen.
 
-„Es muss drei Dinge erfüllen", sagte ich. „Erstens: Sie behält das Haus.
+„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
 Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
 nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
 nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
-sondern eine Entscheidung, die ich hinnehme."
+sondern eine Entscheidung, die ich hinnehme.“
 
-„Das dritte ist neu", sagte mein Bruder.
+„Das dritte ist neu“, sagte mein Bruder.
 
-„Ja."
+„Ja.“
 
 Er nahm den Block.
 
@@ -107,59 +107,59 @@ niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
 
 Niklas legte den Stift hin.
 
-„Sauber", sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
-und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus." Er
-sah auf. „Es hat nur einen Haken, und der ist groß."
+„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
+und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
+sah auf. „Es hat nur einen Haken, und der ist groß.“
 
-„Der Beirat."
+„Der Beirat.“
 
-„Der Beirat", sagte Niklas. „Du willst, dass die Gesellschaft
+„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
 zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
 etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
 Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
-Gläubiger."
+Gläubiger.“
 
-„Ja."
+„Ja.“
 
-„Weißt du, wie das aussieht?"
+„Weißt du, wie das aussieht?“
 
-„Ich weiß, wie das aussieht", sagte ich. „Deshalb sage ich es ihnen
-vorher."
+„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
+vorher.“
 
 ---
 
 Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
 mit drei Leuten gesprochen.
 
-„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt."
+„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
 
-„Bei wem?"
+„Bei wem?“
 
-„Bei jemandem, der es mir erzählt hat." Ein Rascheln. „Er weiß, dass die
-Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht."
+„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
+Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
 
-„Er wird es erfahren."
+„Er wird es erfahren.“
 
-„Ja", sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
+„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
 Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
 Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
-Gesellschaft braucht." Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
-ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören."
+Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
+ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
 
 Ich hörte es mir laut an.
 
-„Am zwanzigsten ist Sitzung", sagte ich. „Ich lege alles offen. Auch den
-Kauf. Auch den Preis."
+„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
+Kauf. Auch den Preis.“
 
 Am anderen Ende war es lange still.
 
-„Sie sind ein merkwürdiger Kaufmann, Reinhardt."
+„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ihr Vater hätte das nie gemacht."
+„Ihr Vater hätte das nie gemacht.“
 
-„Ich weiß", sagte ich. „Das ist inzwischen ein Argument dafür."
+„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
 
 ---
 
@@ -183,9 +183,9 @@ zwanzigsten Zeit hat.
 
 Kein Wort von mir. Keine Grüße. Nichts über den Rest.
 
-Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin."
+Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
 
-„Doch", sagte ich. „Da steht drin, dass sie entscheidet."
+„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
 
 ---
 
@@ -193,14 +193,14 @@ Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
 Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
 
 Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
-will? Nicht das Haus. *Dich.*"
+will? Nicht das Haus. *Dich.*“
 
 Ich hatte eine Weile gebraucht.
 
-„Dann hole ich ihn freitags um zehn ab", sagte ich, „und bringe ihn um
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
 sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
-mich nie wieder anrufen."
+mich nie wieder anrufen.“
 
-„Kannst du das?"
+„Kannst du das?“
 
-„Nein", hatte ich gesagt. „Aber das ist kein Grund."
+„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“

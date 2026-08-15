@@ -15,7 +15,7 @@ auch, warum.
 
 Drittens: Sie müssen heute nichts entscheiden.
 
-Ich sagte: „Marlene."
+Ich sagte: „Marlene.“
 
 Sie stand hinter der Vitrine, ein Tuch in der Hand, und sah mich an, und
 in ihrem Gesicht passierte etwas sehr Schnelles und dann gar nichts mehr.
@@ -32,9 +32,9 @@ alles weglegt, was nicht zum Gespräch gehört.
 
 Ich habe später oft an diese Sekunde gedacht.
 
-„Ich hätte anrufen sollen", sagte ich.
+„Ich hätte anrufen sollen“, sagte ich.
 
-„Ja", sagte sie.
+„Ja“, sagte sie.
 
 Nur das. Ein Wort, ohne Betonung, und irgendwo über uns machte jemand
 eine Tür zu, und das Weinen wurde leiser.
@@ -57,19 +57,19 @@ Ich habe mir eingeredet, dass es Anstand sei.
 
 ---
 
-„Sie wollen das Haus", sagte sie.
+„Sie wollen das Haus“, sagte sie.
 
 Sie stellte es nicht als Frage. Sie legte das Tuch weg, sehr ordentlich,
 gefaltet, und schob die Vitrinentür zu, und ich merkte, dass sie sich
 Zeit verschaffte, und dass sie es gut machte.
 
-„Ja."
+„Ja.“
 
-„Wie viel."
+„Wie viel.“
 
-„Marlene —"
+„Marlene —“
 
-„Wie viel, Herr Reinhardt."
+„Wie viel, Herr Reinhardt.“
 
 Herr Reinhardt. Ich hatte sie zwei Nächte lang meinen Vornamen sagen
 hören, und jetzt stand sie zwei Meter vor mir und nannte mich Herr
@@ -80,59 +80,59 @@ Ich nannte die Zahl.
 
 Sie blinzelte einmal. Sonst nichts.
 
-„Das ist etwa das Anderthalbfache", sagte ich, „von dem, was ein Gutachter
+„Das ist etwa das Anderthalbfache“, sagte ich, „von dem, was ein Gutachter
 Ihnen sagen würde. Ich sage Ihnen auch, warum. Wir haben Kehrwieder zehn
 bis zwanzig. Das Projekt funktioniert nur als Block. Ohne vierzehn haben
 wir zwei Bauteile, die nicht zusammenhängen, und eine Erschließung, die
 uns die Wirtschaftlichkeit kostet. Ihr Haus ist für mich mehr wert als
-für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik."
+für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik.“
 
 Ich sagte das, weil ich gelernt habe, dass Menschen ein Angebot besser
 annehmen, wenn sie verstehen, warum es kommt.
 
-Sie sagte: „Nein."
+Sie sagte: „Nein.“
 
 ---
 
 Ich brauchte einen Moment.
 
-„Sie wollen nicht darüber nachdenken?"
+„Sie wollen nicht darüber nachdenken?“
 
-„Ich habe nachgedacht." Sie kam um die Vitrine herum, und ich sah zum
+„Ich habe nachgedacht.“ Sie kam um die Vitrine herum, und ich sah zum
 ersten Mal, dass sie Mehl an der Schürze hatte und dass ihre Hände rot
 waren, so wie Hände rot sind, die den ganzen Morgen in kaltem Wasser und
 heißem Teig waren. „Ich denke seit zwei Jahren jeden Tag über dieses Haus
 nach. Ich habe über dieses Haus mehr nachgedacht als über alles andere in
-meinem Leben. Was glauben Sie, worüber ich noch nachdenken soll?"
+meinem Leben. Was glauben Sie, worüber ich noch nachdenken soll?“
 
-„Über zweihundertneunzig—"
+„Über zweihundertneunzig—“
 
-„Meine Großmutter hat hier Kaffee geröstet", sagte sie. „Und dann hat sie
+„Meine Großmutter hat hier Kaffee geröstet“, sagte sie. „Und dann hat sie
 hier gebacken. Und dann bin ich hier. Und wenn Sie das Haus kaufen, machen
 Sie daraus Büros mit Sichtachse zur Elbe, und irgendwo im Erdgeschoss
 kommt ein Café rein, das jemand anderem gehört, und es wird sehr schön
-aussehen." Sie sah mich an. „Ich weiß, wie das läuft. Ich lese die
-Aushänge."
+aussehen.“ Sie sah mich an. „Ich weiß, wie das läuft. Ich lese die
+Aushänge.“
 
-„Es wären keine Büros."
+„Es wären keine Büros.“
 
-„Was dann?"
+„Was dann?“
 
-„Wohnungen. Und im Erdgeschoss Gewerbe." Ich hörte selbst, wie das klang.
-„Ich weiß, wie *das* klingt."
+„Wohnungen. Und im Erdgeschoss Gewerbe.“ Ich hörte selbst, wie das klang.
+„Ich weiß, wie *das* klingt.“
 
 Zum ersten Mal veränderte sich etwas in ihrem Gesicht. Es war nicht viel.
 Es war der Anflug von etwas, das fast Belustigung gewesen wäre, wenn sie
 es zugelassen hätte.
 
-„Ja", sagte sie. „Weiß ich auch."
+„Ja“, sagte sie. „Weiß ich auch.“
 
 ---
 
 Draußen fing es richtig an zu regnen. Ich hörte es auf dem Pflaster und
 auf dem Wasser im Fleet und auf dem Blech der Winde über uns.
 
-„Sechs Wochen", sagte ich.
+„Sechs Wochen“, sagte ich.
 
 Sie erstarrte.
 
@@ -145,29 +145,29 @@ macht.
 Ich hatte nicht gedacht, wie es sich anfühlt, wenn jemand in dein Café
 kommt und weiß, wann dir das Wasser bis zum Hals steht.
 
-„Woher —" Sie brach ab. Dann, leiser, und das war schlimmer als lautes
-Reden: „Natürlich. Sie haben es geprüft."
+„Woher —“ Sie brach ab. Dann, leiser, und das war schlimmer als lautes
+Reden: „Natürlich. Sie haben es geprüft.“
 
-„Marlene."
+„Marlene.“
 
-„Sie sollten gehen."
+„Sie sollten gehen.“
 
-„Ich wollte nicht —"
+„Ich wollte nicht —“
 
-„Sie sollten *jetzt* gehen."
+„Sie sollten *jetzt* gehen.“
 
 Ich ging.
 
 An der Tür drehte ich mich um, weil ich es nicht lassen konnte, und
 fragte etwas, das mit dem Haus nichts zu tun hatte.
 
-„Geht es dir gut?"
+„Geht es dir gut?“
 
 Sie stand mitten in ihrem Café, zwischen zwölf leeren Tischen, und über
 ihr lief jemand durch die Wohnung, hin und her, mit kleinen schnellen
 Schritten.
 
-„Ausgezeichnet", sagte sie.
+„Ausgezeichnet“, sagte sie.
 
 ---
 
@@ -183,13 +183,13 @@ Und ich hatte oben jemanden laufen hören.
 Ich griff nach dem Telefon und rief Theo an, weil Theo mein Bruder ist
 und weil ich mit niemandem sonst rede.
 
-„Sie hat nein gesagt", sagte ich.
+„Sie hat nein gesagt“, sagte ich.
 
-„Dann bieten wir mehr."
+„Dann bieten wir mehr.“
 
-„Nein." Ich sah aus dem Seitenfenster auf die Backsteinfassade und auf
-das beschlagene Fenster im ersten Stock. „Nein, das machen wir nicht."
+„Nein.“ Ich sah aus dem Seitenfenster auf die Backsteinfassade und auf
+das beschlagene Fenster im ersten Stock. „Nein, das machen wir nicht.“
 
 Theo schwieg einen Moment zu lang.
 
-„Jonas", sagte er dann. „Wer ist die Frau?"
+„Jonas“, sagte er dann. „Wer ist die Frau?“

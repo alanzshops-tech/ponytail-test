@@ -34,13 +34,13 @@ Ich hatte das Café offen gelassen und Kinderpunsch verkauft, und um sieben
 war der Zug vorbei und die Gasse leer und ich stand mit Emil auf dem Arm
 vor der Tür und sah den letzten Laternen nach.
 
-„Frau Voss?"
+„Frau Voss?“
 
 Eine Frau Anfang sechzig, mit einem Stock, und neben ihr —
 
-„Mama", sagte Jonas. „Das ist —"
+„Mama“, sagte Jonas. „Das ist —“
 
-„Marlene", sagte die Frau. „Ja. Ich weiß."
+„Marlene“, sagte die Frau. „Ja. Ich weiß.“
 
 Und dann sah sie Emil an.
 
@@ -50,31 +50,31 @@ Ich habe in meinem Leben ein paar Sekunden erlebt, die länger dauerten,
 als die Uhr zulässt. Das war eine davon.
 
 Sie sah Emil an. Emil sah sie an, mit dieser ernsten Musterung, die er
-Fremden gegenüber macht. Und Jonas' Mutter — Renate Reinhardt, wie ich
+Fremden gegenüber macht. Und Jonas’ Mutter — Renate Reinhardt, wie ich
 später erfuhr — stand da, die linke Hand am Stock, und ihr Gesicht
 veränderte sich überhaupt nicht.
 
 Das war das Beeindruckendste, was ich je gesehen habe.
 
-„Wie heißt du denn?", fragte sie.
+„Wie heißt du denn?“, fragte sie.
 
-„Emil", sagte ich, weil Emil es nicht sagt.
+„Emil“, sagte ich, weil Emil es nicht sagt.
 
-„Emil." Sie nickte. „Ein guter Name. Mein Vater hieß so."
+„Emil.“ Sie nickte. „Ein guter Name. Mein Vater hieß so.“
 
 Ich sah Jonas an. Er sah seine Mutter an. Und ich sah, dass er es nicht
 wusste — dass er den Namen seines Großvaters nicht mit einem Kind
 verband, das seine Mutter zum ersten Mal sieht.
 
-„Wir wollten nur schnell hallo sagen", sagte er. „Ich fahre Mama nach
-Hause."
+„Wir wollten nur schnell hallo sagen“, sagte er. „Ich fahre Mama nach
+Hause.“
 
-„Ich wollte", sagte Renate Reinhardt, „das Café sehen, von dem mein Sohn
-seit sechs Wochen redet."
+„Ich wollte“, sagte Renate Reinhardt, „das Café sehen, von dem mein Sohn
+seit sechs Wochen redet.“
 
-„Mama."
+„Mama.“
 
-„Was?" Sie sah ihn an. „Soll ich lügen?"
+„Was?“ Sie sah ihn an. „Soll ich lügen?“
 
 ---
 
@@ -91,26 +91,26 @@ nach Emils Vater.
 
 Und irgendwann, als Jonas draußen war, um den Wagen zu holen, sagte sie:
 
-„Er war vierundzwanzig, als sein Vater starb."
+„Er war vierundzwanzig, als sein Vater starb.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Er hat drei Tage nicht geweint und dann die Firma übernommen." Sie sah
+„Er hat drei Tage nicht geweint und dann die Firma übernommen.“ Sie sah
 in ihre Tasse. „Ich war damals nicht in der Lage, ihm zu helfen. Und
 danach war es zu spät, weil er es allein konnte. Wissen Sie, was das
 Schlimmste ist, was man einem Menschen antun kann? Ihn allein
-zurechtkommen lassen, bis er es sich abgewöhnt hat, jemanden zu brauchen."
+zurechtkommen lassen, bis er es sich abgewöhnt hat, jemanden zu brauchen.“
 
 Ich hielt Emil fester.
 
-„Ich habe im Krankenhaus gelegen", sagte sie, „und er hat sechs Wochen
+„Ich habe im Krankenhaus gelegen“, sagte sie, „und er hat sechs Wochen
 lang jeden Abend an meinem Bett gesessen und Akten gelesen. Sechs Wochen,
-Frau Voss. Er hat in der Zeit sein eigenes Leben nicht angefasst."
+Frau Voss. Er hat in der Zeit sein eigenes Leben nicht angefasst.“
 
 Sie sah auf.
 
 „Er hat es nur nie jemandem erzählt. Er erzählt so etwas nicht. Er
-erklärt es, wenn man ihn zwingt, und es klingt dann wie eine Ausrede."
+erklärt es, wenn man ihn zwingt, und es klingt dann wie eine Ausrede.“
 
 *Es gab damals eine Situation in der Familie.*
 
@@ -124,7 +124,7 @@ An der Tür drehte Renate Reinhardt sich noch einmal um und sagte, zu mir,
 sehr freundlich und völlig unmissverständlich:
 
 „Er ist ein guter Mensch, mein Sohn. Aber er ist es gewohnt, dass man ihm
-Dinge nicht sagt. Machen Sie das nicht auch."
+Dinge nicht sagt. Machen Sie das nicht auch.“
 
 Dann gingen sie.
 
@@ -156,19 +156,19 @@ Großbuchstaben, weil man das nachts um elf am Küchentisch macht:
 
 Am Montag rief ich ihn an.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Können Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft."
+„Können Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft.“
 
 Am anderen Ende war es einen Moment still, und in dieser Stille lag alles,
 weil ich zum ersten Mal Emils Namen gesagt hatte, ohne dass er gefragt
 hatte.
 
-„Ja", sagte Jonas.
+„Ja“, sagte Jonas.
 
-„Es dauert länger."
+„Es dauert länger.“
 
-„Ich habe Zeit."
+„Ich habe Zeit.“
 
 Ich legte auf, ging in den Backraum und machte den Ofen an, obwohl ich
 nichts zu backen hatte.

@@ -9,70 +9,70 @@ unsere Mutter. Er stellte eine Flasche vor mich hin, setzte sich auf die
 Kante des Besprechungstisches und sagte:
 
 „Sag es noch mal. Am Telefon klang es nach einem Scherz, und du machst
-keine."
+keine.“
 
-„Ich habe einen Sohn."
+„Ich habe einen Sohn.“
 
-„Wie alt?"
+„Wie alt?“
 
-„Achtzehn Monate."
+„Achtzehn Monate.“
 
 Er nickte langsam, trank, sah aus dem Fenster auf den Hafen.
 
-„Travemünde", sagte er.
+„Travemünde“, sagte er.
 
 Ich sah ihn an.
 
-„Du warst danach vier Wochen komisch", sagte mein Bruder. „Theo hat es
-für die Bilanz gehalten. Ich nicht."
+„Du warst danach vier Wochen komisch“, sagte mein Bruder. „Theo hat es
+für die Bilanz gehalten. Ich nicht.“
 
 ---
 
 Er hatte eine Mappe dabei. Natürlich hatte er eine Mappe dabei.
 
-„Das Gute zuerst", sagte er und legte sie auf den Tisch. „Rechtlich ist
+„Das Gute zuerst“, sagte er und legte sie auf den Tisch. „Rechtlich ist
 das nicht kompliziert. Ihr seid nicht verheiratet, also ist die Mutter
 allein sorgeberechtigt. Du bist juristisch niemand. Kein Vater, kein
 Verwandter, nichts. Auf dem Papier existiert deine Verbindung zu diesem
-Kind nicht."
+Kind nicht.“
 
-„Das ist das Gute?"
+„Das ist das Gute?“
 
-„Das Gute ist, wie einfach es geht." Er zog ein Blatt heraus. „Vaterschaft
+„Das Gute ist, wie einfach es geht.“ Er zog ein Blatt heraus. „Vaterschaft
 anerkennen. Beim Jugendamt, beim Standesamt oder beim Notar. Kostet beim
 Jugendamt nichts, dauert zwanzig Minuten. Einzige Bedingung: Sie muss
-zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam."
+zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam.“
 
-„Und der Test?"
+„Und der Test?“
 
-Niklas sah hoch. „Welcher Test?"
+Niklas sah hoch. „Welcher Test?“
 
-„Ein Vaterschaftstest."
+„Ein Vaterschaftstest.“
 
-„Wozu?"
+„Wozu?“
 
-„Damit es feststeht."
+„Damit es feststeht.“
 
 Mein Bruder stellte die Flasche ab.
 
-„Jonas. Zweifelst du?"
+„Jonas. Zweifelst du?“
 
-„Nein."
+„Nein.“
 
-„Dann brauchst du keinen Test." Er sagte es freundlich, und genau das war
+„Dann brauchst du keinen Test.“ Er sagte es freundlich, und genau das war
 das Unangenehme daran. „Ein Test ist für Fälle, in denen jemand
-bestreitet. Bestreitet hier jemand?"
+bestreitet. Bestreitet hier jemand?“
 
-„Nein."
+„Nein.“
 
-„Also."
+„Also.“
 
 Ich stand auf und ging zum Fenster, weil ich das immer mache, wenn ich
 gleich etwas sage, das ich vorher nicht geprüft habe.
 
-„Ich möchte trotzdem eins haben, das man vorlegen kann."
+„Ich möchte trotzdem eins haben, das man vorlegen kann.“
 
-„Wem vorlegen?"
+„Wem vorlegen?“
 
 Darauf hatte ich keine Antwort, die gut geklungen hätte. Dem Beirat, der
 irgendwann fragen wird, warum in meinem Testament ein Name steht, den
@@ -81,9 +81,9 @@ etwas passiert, was ich mir nicht ausmalen wollte und trotzdem ausgemalt
 hatte, um zwei Uhr nachts, in einer Reihenfolge, die ich niemandem
 erzählt habe.
 
-„Der Ordnung halber", sagte ich.
+„Der Ordnung halber“, sagte ich.
 
-„Der Ordnung halber", wiederholte Niklas.
+„Der Ordnung halber“, wiederholte Niklas.
 
 ---
 
@@ -92,7 +92,7 @@ jedem Blatt fühlte ich mich besser, und ich hätte an dieser Stelle merken
 müssen, was das über mich sagt.
 
 Unterhalt: Düsseldorfer Tabelle, oberste Einkommensgruppe, dazu ein
-freiwilliger Aufstockungsbetrag, den er für „darstellbar" hielt.
+freiwilliger Aufstockungsbetrag, den er für „darstellbar“ hielt.
 
 Sorgerecht: gemeinsame Sorgeerklärung, ebenfalls beim Jugendamt,
 ebenfalls nur mit ihrer Zustimmung.
@@ -104,13 +104,13 @@ Erbfolge: ein Vermerk, dass mein Testament geändert werden muss, weil
 darin drei Brüder stehen und kein Kind.
 
 Und ganz hinten, weil mein Bruder gründlich ist, ein Blatt zu dem, was er
-„Interessenkonflikt" nannte: Die Kindesmutter ist Eigentümerin eines
+„Interessenkonflikt“ nannte: Die Kindesmutter ist Eigentümerin eines
 Objekts, das die Firma erwerben wollte. Empfehlung, das offenzulegen.
 
-„Das habe ich schon", sagte ich.
+„Das habe ich schon“, sagte ich.
 
-„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt." Er
-zuckte mit den Schultern. „Das ist Hamburg."
+„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt.“ Er
+zuckte mit den Schultern. „Das ist Hamburg.“
 
 ---
 
@@ -118,49 +118,49 @@ Ich packte die Blätter zusammen, und dabei sagte Niklas den Satz, wegen
 dem ich diesen Abend nie vergessen werde.
 
 „Willst du wissen, was ich denke, oder willst du, dass ich das nur
-aufsetze?"
+aufsetze?“
 
-„Sag es."
+„Sag es.“
 
-„Du hast gestern erfahren, dass du ein Kind hast." Er klopfte mit dem
+„Du hast gestern erfahren, dass du ein Kind hast.“ Er klopfte mit dem
 Finger auf die Mappe. „Und heute Abend liegt hier ein Aktenordner. Das
 ist schnell, Jonas. Das ist so schnell, dass es keine Reaktion mehr ist.
-Das ist eine Flucht."
+Das ist eine Flucht.“
 
-„Ich sichere ihn ab."
+„Ich sichere ihn ab.“
 
-„Du sicherst *dich* ab." Er stand auf. „Absichern heißt: Wenn es schief
+„Du sicherst *dich* ab.“ Er stand auf. „Absichern heißt: Wenn es schief
 geht, habe ich alles richtig gemacht. Das ist ein Satz für
-Aufsichtsräte. Für ein Kind ist das kein Satz."
+Aufsichtsräte. Für ein Kind ist das kein Satz.“
 
-„Was soll ich denn machen? Nichts?"
+„Was soll ich denn machen? Nichts?“
 
-„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben."
+„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben.“
 
 Ich lachte, und es klang nicht gut. „Zwei Wochen lang steht mein Sohn
-nirgends."
+nirgends.“
 
-„Er steht seit achtzehn Monaten nirgends", sagte Niklas, „und er hat es
+„Er steht seit achtzehn Monaten nirgends“, sagte Niklas, „und er hat es
 überlebt, weil eine Frau ihn getragen hat, die du bis vorgestern nicht
-gefragt hast."
+gefragt hast.“
 
 Es war das Härteste, was mein Bruder je zu mir gesagt hat.
 
 Er merkte es selbst. Er blieb an der Tür stehen.
 
-„Entschuldige."
+„Entschuldige.“
 
-„Nein", sagte ich. „Schon gut."
+„Nein“, sagte ich. „Schon gut.“
 
-„Ich mach dir das alles fertig", sagte er. „Bis Montag. Ich sag nur:
+„Ich mach dir das alles fertig“, sagte er. „Bis Montag. Ich sag nur:
 Wenn du ihr diese Mappe hinlegst, dann liest sie darin etwas anderes,
-als du hineingeschrieben hast."
+als du hineingeschrieben hast.“
 
-„Was denn?"
+„Was denn?“
 
 Niklas machte die Tür auf.
 
-„Frag mich das noch mal, wenn du es weißt."
+„Frag mich das noch mal, wenn du es weißt.“
 
 ---
 
@@ -195,9 +195,9 @@ gekannt hatte, weil es keins für einen Kunden war.
 
 Ich ging hinein. Es roch nach Butter und nassem Stein.
 
-„Du bist früh", sagte sie.
+„Du bist früh“, sagte sie.
 
-„Ich habe etwas mitgebracht."
+„Ich habe etwas mitgebracht.“
 
 Und dann legte ich, in demselben Café, an demselben Fenstertisch, mit
 derselben Handbewegung, mit der ich im Oktober die Anruferliste

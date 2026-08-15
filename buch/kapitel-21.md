@@ -38,12 +38,12 @@ Man denkt, so etwas geht nicht. Es geht. Es geht sogar sehr gut, und
 das ist das Erschreckende daran.
 
 Um halb zwölf kam Frau Kettler aus dem Backraum, sah mich einmal an und
-sagte: „Gehen Sie hoch."
+sagte: „Gehen Sie hoch.“
 
-„Es ist voll."
+„Es ist voll.“
 
-„Frau Voss." Sie nahm mir die Zange aus der Hand. „Ich mache das seit
-neununddreißig Jahren. Gehen Sie hoch."
+„Frau Voss.“ Sie nahm mir die Zange aus der Hand. „Ich mache das seit
+neununddreißig Jahren. Gehen Sie hoch.“
 
 Ich ging nicht hoch. Ich ging in den Hof und stand zehn Minuten neben
 den Mülltonnen, in der Kälte, ohne Jacke.
@@ -84,10 +84,10 @@ er schlief in vier Minuten, weil der Laster mit im Bett lag.
 Als ich runterkam, hatte Jonas den Tisch abgeräumt und saß da mit einem
 Zettel neben der Hand.
 
-„Ich muss dir was sagen", sagte er. „Es ist viel. Ich habe es
-aufgeschrieben, damit ich nichts weglasse und nichts beschönige."
+„Ich muss dir was sagen“, sagte er. „Es ist viel. Ich habe es
+aufgeschrieben, damit ich nichts weglasse und nichts beschönige.“
 
-„Dann sag es."
+„Dann sag es.“
 
 ---
 
@@ -114,22 +114,22 @@ Und dann sah er auf und sagte den fünften Punkt, und bei dem war seine
 Stimme anders:
 
 „Und wenn du willst — zieh mit Emil zu mir. Nicht deswegen. Sondern weil
-ich möchte, dass er morgens im selben Haus aufwacht wie ich."
+ich möchte, dass er morgens im selben Haus aufwacht wie ich.“
 
 ---
 
 Ich saß da und hatte beide Hände um eine Tasse, in der nichts mehr war.
 
-„Wann heute?", sagte ich.
+„Wann heute?“, sagte ich.
 
-„Was?"
+„Was?“
 
-„Wann heute wolltest du es mir sagen? Zu welcher Uhrzeit?"
+„Wann heute wolltest du es mir sagen? Zu welcher Uhrzeit?“
 
-„Jetzt", sagte er. „Genau jetzt. Das war der Plan seit gestern
-Nachmittag."
+„Jetzt“, sagte er. „Genau jetzt. Das war der Plan seit gestern
+Nachmittag.“
 
-„Neun Uhr vierzehn."
+„Neun Uhr vierzehn.“
 
 Er sah mich an.
 
@@ -143,18 +143,18 @@ Er las es. Er las es zweimal. Und dann sagte er ein Wort, das ich in
 sechs Monaten nicht von ihm gehört hatte, sehr leise, und danach nichts
 mehr.
 
-„Die Anzeige", sagte er schließlich. „Ich habe gesagt, sie sollen es
-machen wie üblich. Ich habe nicht —"
+„Die Anzeige“, sagte er schließlich. „Ich habe gesagt, sie sollen es
+machen wie üblich. Ich habe nicht —“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Marlene, ich schwöre dir, ich habe nicht daran gedacht, dass —"
+„Marlene, ich schwöre dir, ich habe nicht daran gedacht, dass —“
 
-„Ich weiß", sagte ich. „Das ist das Problem."
+„Ich weiß“, sagte ich. „Das ist das Problem.“
 
 ---
 
-„Zwei Dinge", sagte ich, „und dann bin ich fertig, und dann darfst du
+„Zwei Dinge“, sagte ich, „und dann bin ich fertig, und dann darfst du
 alles sagen, was du willst.
 
 Erstens: Du hast es am fünfzehnten erfahren. Heute ist der
@@ -163,83 +163,83 @@ Boden gesessen und Kugeln sortiert, und du hast gesagt: *Ich muss dir
 vor Weihnachten was sagen, nichts Schlimmes.* Da war es schon nichts
 Schlimmes.
 
-Zweitens." Ich holte Luft. „Heute Morgen um neun Uhr vierzehn hat mir
+Zweitens.“ Ich holte Luft. „Heute Morgen um neun Uhr vierzehn hat mir
 ein Serienbrief mitgeteilt, dass mein Haus dir gehört. Ein Serienbrief,
 Jonas. *Maschinell erstellt und ohne Unterschrift gültig.* Und heute
-Abend um zwanzig nach acht fragst du mich, ob ich bei dir einziehe."
+Abend um zwanzig nach acht fragst du mich, ob ich bei dir einziehe.“
 
-„Das eine hat mit dem anderen nichts —"
+„Das eine hat mit dem anderen nichts —“
 
-„Doch." Ich sagte es nicht laut. „Für dich nicht. Für mich schon. Und
-ich bin die, die einzieht."
+„Doch.“ Ich sagte es nicht laut. „Für dich nicht. Für mich schon. Und
+ich bin die, die einzieht.“
 
 ---
 
 Er saß sehr gerade, so wie er in Sitzungen sitzt.
 
-„Du hast es mir auch nicht gesagt", sagte er.
+„Du hast es mir auch nicht gesagt“, sagte er.
 
 Und da war er im Recht, und ich wusste es, und ich hatte den Zettel in
 der Schranktür hängen, drei Meter von uns entfernt.
 
-„Ja", sagte ich. „Neunzehn Tage. Ich habe es dir neunzehn Tage lang
-nicht gesagt, und ich hatte drei Gründe, und einer davon war sogar gut."
+„Ja“, sagte ich. „Neunzehn Tage. Ich habe es dir neunzehn Tage lang
+nicht gesagt, und ich hatte drei Gründe, und einer davon war sogar gut.“
 
-„Welcher?"
+„Welcher?“
 
-„Dass du zwischen mir und deinem Beirat hättest wählen müssen." Ich sah
-ihn an. „Merkst du was?"
+„Dass du zwischen mir und deinem Beirat hättest wählen müssen.“ Ich sah
+ihn an. „Merkst du was?“
 
 Er merkte es nicht sofort. Dann merkte er es.
 
-„Ich habe für dich entschieden, was du verkraftest", sagte ich. „Du hast
+„Ich habe für dich entschieden, was du verkraftest“, sagte ich. „Du hast
 für mich entschieden, was ich verkrafte. Wir machen genau dasselbe,
 Jonas. Wir machen es aus Liebe und wir nennen es Rücksicht und es ist
-beides Mal dasselbe: Wir lassen den anderen nicht wählen."
+beides Mal dasselbe: Wir lassen den anderen nicht wählen.“
 
-„Dann hören wir beide damit auf."
+„Dann hören wir beide damit auf.“
 
-„Ja." Ich stand auf. „Aber nicht heute Abend, und nicht in diesem
-Zimmer."
+„Ja.“ Ich stand auf. „Aber nicht heute Abend, und nicht in diesem
+Zimmer.“
 
 ---
 
-„Ich möchte, dass du gehst."
+„Ich möchte, dass du gehst.“
 
 Er stand auf, sehr langsam.
 
-„Marlene —"
+„Marlene —“
 
 „Nein. Hör zu, weil ich das genau sagen muss und ich es nur einmal
-schaffe." Ich hielt mich an der Stuhllehne fest. „Ich nehme dir Emil
+schaffe.“ Ich hielt mich an der Stuhllehne fest. „Ich nehme dir Emil
 nicht weg. Nichts, was wir unterschrieben haben, wird angefasst. Du
 kommst am Freitag um zehn, wie besprochen, und an Silvester, und du
 bringst ihn abends zurück, und wir sind höflich zueinander, weil er es
 merkt.
 
-Das ist seins. Nicht deins. Ich benutze es nicht."
+Das ist seins. Nicht deins. Ich benutze es nicht.“
 
 Er hat mich angesehen, und ich glaube, das war der Moment, in dem er
 begriffen hat, dass es ernst ist. Nicht bei *geh*. Bei *ich benutze es
 nicht*.
 
-„Und was ist mit uns?"
+„Und was ist mit uns?“
 
 „Es gibt kein *uns*, in dem mir jemand zweihundertvierzehntausend Euro
-erlässt, indem er sie nicht einfordert." Meine Stimme ging weg, und ich
+erlässt, indem er sie nicht einfordert.“ Meine Stimme ging weg, und ich
 holte sie zurück. „Jeden Morgen, Jonas. Jeden Morgen würdest du dich
 entscheiden, es nicht zu tun, und ich würde jeden Morgen wissen, dass du
-dich entschieden hast."
+dich entschieden hast.“
 
-„Ich verkaufe sie zurück."
+„Ich verkaufe sie zurück.“
 
-„An wen? An Kellermann?"
+„An wen? An Kellermann?“
 
 Er sagte nichts.
 
-„Siehst du", sagte ich. „Es geht nicht mehr weg. Das ist es, was du
+„Siehst du“, sagte ich. „Es geht nicht mehr weg. Das ist es, was du
 gestern um siebzehn Uhr vierzig gemacht hast. Du hast etwas gekauft,
-das man nicht zurückgeben kann."
+das man nicht zurückgeben kann.“
 
 ---
 
@@ -248,9 +248,9 @@ Er nahm seinen Mantel.
 An der Tür drehte er sich um, und ich sah, dass er weinte, und ich habe
 nicht hingesehen, weil ich sonst nicht durchgehalten hätte.
 
-„Ich wollte nur, dass ihr sicher seid", sagte er.
+„Ich wollte nur, dass ihr sicher seid“, sagte er.
 
-„Ich weiß", sagte ich. „Das ist das Traurigste an dem ganzen Abend."
+„Ich weiß“, sagte ich. „Das ist das Traurigste an dem ganzen Abend.“
 
 Dann ging er, und diesmal hörte ich den Wagen sofort.
 

@@ -30,12 +30,12 @@ Und dann, während ich mit dem Telefon zwischen Schulter und Ohr auf dem
 Boden des Kinderzimmers saß, wählte meine linke Hand eine zweite Nummer,
 ohne dass mein Kopf beteiligt war.
 
-„Marlene?"
+„Marlene?“
 
-„Emil krampft", sagte ich. „Der Krankenwagen kommt. Kinderklinik
-Altona."
+„Emil krampft“, sagte ich. „Der Krankenwagen kommt. Kinderklinik
+Altona.“
 
-„Ich bin in zwölf Minuten da."
+„Ich bin in zwölf Minuten da.“
 
 Er war in neun.
 
@@ -45,8 +45,8 @@ Der Notarzt war jung und ruhig und sagte das Wort *Fieberkrampf*, und
 es klang in seinem Mund wie *Schnupfen*, und ich habe diesen Mann dafür
 mehr geliebt als die meisten Menschen, die ich kenne.
 
-„Das sieht schlimm aus und ist meistens harmlos", sagte er. „Wir fahren
-trotzdem."
+„Das sieht schlimm aus und ist meistens harmlos“, sagte er. „Wir fahren
+trotzdem.“
 
 Im Wagen saß ich vorn. Emil war hinten, festgeschnallt, wach, verheult,
 und alles roch nach Desinfektionsmittel.
@@ -60,15 +60,15 @@ Aufnahme, Kinderklinik, halb vier.
 
 Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
 
-„Name des Kindes?"
+„Name des Kindes?“
 
-„Emil Voss."
+„Emil Voss.“
 
-„Geburtsdatum?"
+„Geburtsdatum?“
 
-„Achter Mai 2025."
+„Achter Mai 2025.“
 
-„Versichert bei?"
+„Versichert bei?“
 
 Und so weiter, elf Fragen lang, während hinter mir mein Sohn in einem
 zu großen Bett lag und Jonas neben dem Bett stand und seinen Zeigefinger
@@ -76,36 +76,36 @@ festhielt.
 
 Dann sah die Frau hoch, an mir vorbei.
 
-„Und der Herr?"
+„Und der Herr?“
 
-„Das ist —"
+„Das ist —“
 
-„Ich bin der Vater", sagte Jonas.
+„Ich bin der Vater“, sagte Jonas.
 
-Die Frau tippte etwas. „Sorgeberechtigt?"
+Die Frau tippte etwas. „Sorgeberechtigt?“
 
 Pause.
 
-„Nein", sagte er.
+„Nein“, sagte er.
 
-„Verheiratet mit der Mutter?"
+„Verheiratet mit der Mutter?“
 
-„Nein."
+„Nein.“
 
-„Vaterschaft anerkannt?"
+„Vaterschaft anerkannt?“
 
-„Nein."
+„Nein.“
 
 Sie tippte weiter, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
 Mensch, der um halb vier Uhr morgens seine Arbeit macht.
 
-„Dann trage ich Sie als Begleitperson ein", sagte sie.
+„Dann trage ich Sie als Begleitperson ein“, sagte sie.
 
 *Begleitperson.*
 
 Ich sah ihn an. Er sah geradeaus.
 
-„Ist in Ordnung", sagte er.
+„Ist in Ordnung“, sagte er.
 
 ---
 
@@ -148,7 +148,7 @@ elf Kilo.
 Emil hörte trotzdem auf.
 
 Nicht sofort. Über ungefähr eine Minute, wie ein Motor, der ausgeht.
-Dann legte er den Kopf in die Kuhle zwischen Jonas' Schulter und Hals,
+Dann legte er den Kopf in die Kuhle zwischen Jonas’ Schulter und Hals,
 und war weg.
 
 Und ich stand in einem Untersuchungszimmer der Kinderklinik Altona,
@@ -170,40 +170,40 @@ Erwachsene war.
 Jonas hatte einen Kaffee aus dem Automaten geholt, der schmeckte wie
 warmes Wasser mit einer Erinnerung.
 
-„Marlene", sagte er.
+„Marlene“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Ich lasse morgen —"
+„Ich lasse morgen —“
 
 Er brach ab.
 
 Ich sah ihn von der Seite an.
 
-„Was?"
+„Was?“
 
-„Nichts." Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
+„Nichts.“ Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
 dass ich morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein
 Reflex. Ich merke ihn inzwischen, das ist alles, was ich sagen kann. Ich
-merke ihn und mache ihn trotzdem."
+merke ihn und mache ihn trotzdem.“
 
-„Diesmal hast du ihn nicht gemacht."
+„Diesmal hast du ihn nicht gemacht.“
 
-„Diesmal habe ich ihn *gesagt*", sagte er. „Das ist nicht dasselbe wie
-nicht machen."
+„Diesmal habe ich ihn *gesagt*“, sagte er. „Das ist nicht dasselbe wie
+nicht machen.“
 
 Ich nahm ihm den Becher weg und trank einen Schluck, was er nicht
 kommentierte.
 
-„Begleitperson", sagte ich.
+„Begleitperson“, sagte ich.
 
-„Ja."
+„Ja.“
 
-„Das war das hässlichste Wort dieser Nacht."
+„Das war das hässlichste Wort dieser Nacht.“
 
-„Es stimmt aber."
+„Es stimmt aber.“
 
-„Es stimmt", sagte ich, „weil ich es so gelassen habe."
+„Es stimmt“, sagte ich, „weil ich es so gelassen habe.“
 
 ---
 
@@ -219,17 +219,17 @@ gedauert haben.
 
 Diese dauerte nicht lange.
 
-„Montag", sagte ich.
+„Montag“, sagte ich.
 
-„Was ist Montag?"
+„Was ist Montag?“
 
-„Da gehen wir zum Jugendamt." Ich gab ihm den Becher zurück. „Beides.
+„Da gehen wir zum Jugendamt.“ Ich gab ihm den Becher zurück. „Beides.
 Anerkennung und Sorgeerklärung. Nicht wegen heute Nacht. Weil ich es vor
-heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe."
+heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe.“
 
 Er sagte eine Weile nichts.
 
-„Danke", sagte er dann.
+„Danke“, sagte er dann.
 
-„Bedank dich nicht." Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
-Nicht dir."
+„Bedank dich nicht.“ Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
+Nicht dir.“

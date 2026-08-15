@@ -145,14 +145,14 @@ herunter, weil er darauf bestanden hatte, und Emil marschierte auf mich
 zu, mit dieser Entschlossenheit, die achtzehn Monate alte Menschen haben,
 wenn sie ein Ziel sehen.
 
-„Ma", sagte er und griff nach meinem Bein.
+„Ma“, sagte er und griff nach meinem Bein.
 
-„Ma", sagte ich zurück und hob ihn hoch, und er roch nach Schlaf und nach
+„Ma“, sagte ich zurück und hob ihn hoch, und er roch nach Schlaf und nach
 dem Apfelmus, das ihm offensichtlich jemand schon gegeben hatte.
 
-„Er wollte dich sehen", sagte Frau Kettler entschuldigend.
+„Er wollte dich sehen“, sagte Frau Kettler entschuldigend.
 
-„Ist gut." Ich setzte ihn auf die Arbeitsplatte, wo er nicht sitzen
+„Ist gut.“ Ich setzte ihn auf die Arbeitsplatte, wo er nicht sitzen
 durfte, und gab ihm ein Stück Teigrest, das er nicht essen durfte, und wir
 sahen uns beide an und sagten nichts darüber.
 
@@ -196,7 +196,7 @@ Die Tür ging auf.
 Ich hörte sie, bevor ich hinsah — die Glocke, die meine Großmutter
 angebracht hatte, und die ich nie abgenommen habe, obwohl sie zu laut ist.
 Ich richtete mich auf, das Tuch noch in der Hand, und sagte: „Einen
-Moment, ich bin gleich —"
+Moment, ich bin gleich —“
 
 Und dann sah ich hin.
 
@@ -213,7 +213,7 @@ Vernichtendes sagt, etwas Vorbereitetes, etwas, das sitzt.
 
 Ich sagte gar nichts.
 
-„Marlene", sagte er.
+„Marlene“, sagte er.
 
 Und über uns, durch die Decke, durch dreißig Zentimeter Hamburger
 Kontorhausdielen, hörte ich, wie Emil zu weinen anfing.
@@ -237,7 +237,7 @@ auch, warum.
 
 Drittens: Sie müssen heute nichts entscheiden.
 
-Ich sagte: „Marlene."
+Ich sagte: „Marlene.“
 
 Sie stand hinter der Vitrine, ein Tuch in der Hand, und sah mich an, und
 in ihrem Gesicht passierte etwas sehr Schnelles und dann gar nichts mehr.
@@ -254,9 +254,9 @@ alles weglegt, was nicht zum Gespräch gehört.
 
 Ich habe später oft an diese Sekunde gedacht.
 
-„Ich hätte anrufen sollen", sagte ich.
+„Ich hätte anrufen sollen“, sagte ich.
 
-„Ja", sagte sie.
+„Ja“, sagte sie.
 
 Nur das. Ein Wort, ohne Betonung, und irgendwo über uns machte jemand
 eine Tür zu, und das Weinen wurde leiser.
@@ -279,19 +279,19 @@ Ich habe mir eingeredet, dass es Anstand sei.
 
 ---
 
-„Sie wollen das Haus", sagte sie.
+„Sie wollen das Haus“, sagte sie.
 
 Sie stellte es nicht als Frage. Sie legte das Tuch weg, sehr ordentlich,
 gefaltet, und schob die Vitrinentür zu, und ich merkte, dass sie sich
 Zeit verschaffte, und dass sie es gut machte.
 
-„Ja."
+„Ja.“
 
-„Wie viel."
+„Wie viel.“
 
-„Marlene —"
+„Marlene —“
 
-„Wie viel, Herr Reinhardt."
+„Wie viel, Herr Reinhardt.“
 
 Herr Reinhardt. Ich hatte sie zwei Nächte lang meinen Vornamen sagen
 hören, und jetzt stand sie zwei Meter vor mir und nannte mich Herr
@@ -302,59 +302,59 @@ Ich nannte die Zahl.
 
 Sie blinzelte einmal. Sonst nichts.
 
-„Das ist etwa das Anderthalbfache", sagte ich, „von dem, was ein Gutachter
+„Das ist etwa das Anderthalbfache“, sagte ich, „von dem, was ein Gutachter
 Ihnen sagen würde. Ich sage Ihnen auch, warum. Wir haben Kehrwieder zehn
 bis zwanzig. Das Projekt funktioniert nur als Block. Ohne vierzehn haben
 wir zwei Bauteile, die nicht zusammenhängen, und eine Erschließung, die
 uns die Wirtschaftlichkeit kostet. Ihr Haus ist für mich mehr wert als
-für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik."
+für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik.“
 
 Ich sagte das, weil ich gelernt habe, dass Menschen ein Angebot besser
 annehmen, wenn sie verstehen, warum es kommt.
 
-Sie sagte: „Nein."
+Sie sagte: „Nein.“
 
 ---
 
 Ich brauchte einen Moment.
 
-„Sie wollen nicht darüber nachdenken?"
+„Sie wollen nicht darüber nachdenken?“
 
-„Ich habe nachgedacht." Sie kam um die Vitrine herum, und ich sah zum
+„Ich habe nachgedacht.“ Sie kam um die Vitrine herum, und ich sah zum
 ersten Mal, dass sie Mehl an der Schürze hatte und dass ihre Hände rot
 waren, so wie Hände rot sind, die den ganzen Morgen in kaltem Wasser und
 heißem Teig waren. „Ich denke seit zwei Jahren jeden Tag über dieses Haus
 nach. Ich habe über dieses Haus mehr nachgedacht als über alles andere in
-meinem Leben. Was glauben Sie, worüber ich noch nachdenken soll?"
+meinem Leben. Was glauben Sie, worüber ich noch nachdenken soll?“
 
-„Über zweihundertneunzig—"
+„Über zweihundertneunzig—“
 
-„Meine Großmutter hat hier Kaffee geröstet", sagte sie. „Und dann hat sie
+„Meine Großmutter hat hier Kaffee geröstet“, sagte sie. „Und dann hat sie
 hier gebacken. Und dann bin ich hier. Und wenn Sie das Haus kaufen, machen
 Sie daraus Büros mit Sichtachse zur Elbe, und irgendwo im Erdgeschoss
 kommt ein Café rein, das jemand anderem gehört, und es wird sehr schön
-aussehen." Sie sah mich an. „Ich weiß, wie das läuft. Ich lese die
-Aushänge."
+aussehen.“ Sie sah mich an. „Ich weiß, wie das läuft. Ich lese die
+Aushänge.“
 
-„Es wären keine Büros."
+„Es wären keine Büros.“
 
-„Was dann?"
+„Was dann?“
 
-„Wohnungen. Und im Erdgeschoss Gewerbe." Ich hörte selbst, wie das klang.
-„Ich weiß, wie *das* klingt."
+„Wohnungen. Und im Erdgeschoss Gewerbe.“ Ich hörte selbst, wie das klang.
+„Ich weiß, wie *das* klingt.“
 
 Zum ersten Mal veränderte sich etwas in ihrem Gesicht. Es war nicht viel.
 Es war der Anflug von etwas, das fast Belustigung gewesen wäre, wenn sie
 es zugelassen hätte.
 
-„Ja", sagte sie. „Weiß ich auch."
+„Ja“, sagte sie. „Weiß ich auch.“
 
 ---
 
 Draußen fing es richtig an zu regnen. Ich hörte es auf dem Pflaster und
 auf dem Wasser im Fleet und auf dem Blech der Winde über uns.
 
-„Sechs Wochen", sagte ich.
+„Sechs Wochen“, sagte ich.
 
 Sie erstarrte.
 
@@ -367,29 +367,29 @@ macht.
 Ich hatte nicht gedacht, wie es sich anfühlt, wenn jemand in dein Café
 kommt und weiß, wann dir das Wasser bis zum Hals steht.
 
-„Woher —" Sie brach ab. Dann, leiser, und das war schlimmer als lautes
-Reden: „Natürlich. Sie haben es geprüft."
+„Woher —“ Sie brach ab. Dann, leiser, und das war schlimmer als lautes
+Reden: „Natürlich. Sie haben es geprüft.“
 
-„Marlene."
+„Marlene.“
 
-„Sie sollten gehen."
+„Sie sollten gehen.“
 
-„Ich wollte nicht —"
+„Ich wollte nicht —“
 
-„Sie sollten *jetzt* gehen."
+„Sie sollten *jetzt* gehen.“
 
 Ich ging.
 
 An der Tür drehte ich mich um, weil ich es nicht lassen konnte, und
 fragte etwas, das mit dem Haus nichts zu tun hatte.
 
-„Geht es dir gut?"
+„Geht es dir gut?“
 
 Sie stand mitten in ihrem Café, zwischen zwölf leeren Tischen, und über
 ihr lief jemand durch die Wohnung, hin und her, mit kleinen schnellen
 Schritten.
 
-„Ausgezeichnet", sagte sie.
+„Ausgezeichnet“, sagte sie.
 
 ---
 
@@ -405,16 +405,16 @@ Und ich hatte oben jemanden laufen hören.
 Ich griff nach dem Telefon und rief Theo an, weil Theo mein Bruder ist
 und weil ich mit niemandem sonst rede.
 
-„Sie hat nein gesagt", sagte ich.
+„Sie hat nein gesagt“, sagte ich.
 
-„Dann bieten wir mehr."
+„Dann bieten wir mehr.“
 
-„Nein." Ich sah aus dem Seitenfenster auf die Backsteinfassade und auf
-das beschlagene Fenster im ersten Stock. „Nein, das machen wir nicht."
+„Nein.“ Ich sah aus dem Seitenfenster auf die Backsteinfassade und auf
+das beschlagene Fenster im ersten Stock. „Nein, das machen wir nicht.“
 
 Theo schwieg einen Moment zu lang.
 
-„Jonas", sagte er dann. „Wer ist die Frau?"
+„Jonas“, sagte er dann. „Wer ist die Frau?“
 
 ---
 
@@ -429,12 +429,12 @@ Schlüssel, hängte das Schild um, und ging nach oben.
 
 Frau Kettler saß mit Emil auf dem Teppich und baute einen Turm.
 
-„Alles in Ordnung?", fragte sie.
+„Alles in Ordnung?“, fragte sie.
 
-„Ja." Ich hörte mich das sagen. „Können Sie noch eine Stunde?"
+„Ja.“ Ich hörte mich das sagen. „Können Sie noch eine Stunde?“
 
 Sie sah mich an, wie Menschen einen ansehen, die sechzig Jahre alt sind
-und viel gesehen haben, und sagte: „Ich kann bis vier."
+und viel gesehen haben, und sagte: „Ich kann bis vier.“
 
 Ich ging ins Schlafzimmer und setzte mich aufs Bett und sah die Wand an.
 
@@ -461,11 +461,11 @@ Es wurden zwei Nächte. Sonntagmorgen brachte er mich zum Zug, und auf dem
 Bahnsteig klingelte sein Telefon, und ich sah, wie er das Gesicht
 veränderte.
 
-„Ich muss", sagte er.
+„Ich muss“, sagte er.
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ich rufe an."
+„Ich rufe an.“
 
 Er hat nicht angerufen.
 
@@ -489,7 +489,7 @@ das Kratzen.
 
 Beim dritten Mal, zwei Wochen später, hat dieselbe Frau gesagt: „Frau
 Voss, Herr Reinhardt lässt ausrichten, dass er sich meldet, wenn es
-zeitlich passt."
+zeitlich passt.“
 
 *Lässt ausrichten.*
 
@@ -517,7 +517,7 @@ In der zweiten Nacht in Travemünde, spät, als wir beide nicht schliefen,
 hatte ich gefragt, ob er Kinder wolle. Einfach so, wie man das um vier Uhr
 morgens fragt, ohne Absicht.
 
-Und er hatte an die Decke gesehen und gesagt: „Nein. Nicht solange —"
+Und er hatte an die Decke gesehen und gesagt: „Nein. Nicht solange —“
 
 Und dann hatte er den Satz nicht beendet, weil ich ihn geküsst habe,
 weil ich um vier Uhr morgens keine Lust auf eine ernste Antwort hatte.
@@ -573,31 +573,31 @@ Name und Mobilnummer.
 
 Es klingelte zweimal.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Ich habe eine Frage", sagte ich. „Und dann habe ich vielleicht ein
-Angebot. Aber erst die Frage."
+„Ich habe eine Frage“, sagte ich. „Und dann habe ich vielleicht ein
+Angebot. Aber erst die Frage.“
 
 Eine Pause. Ich hörte, dass er irgendwo stehen blieb.
 
-„Ja."
+„Ja.“
 
 „Wie viel kostet Sie Ihr Projekt, wenn Sie um mein Haus herumbauen müssen,
-statt darüber?"
+statt darüber?“
 
 Diesmal war die Pause länger.
 
-„Warum fragen Sie das?"
+„Warum fragen Sie das?“
 
-„Weil ich wissen will, was ich in der Hand halte", sagte ich. „Und weil
+„Weil ich wissen will, was ich in der Hand halte“, sagte ich. „Und weil
 ich es lieber von Ihnen höre als von einem Gutachter, den ich mir nicht
-leisten kann."
+leisten kann.“
 
 Ich hörte ihn atmen. Dann ein Geräusch, das ich nicht einordnen konnte
 und das, wie ich viel später erfuhr, das Geräusch war, mit dem Jonas
 Reinhardt sich an eine Wand lehnt.
 
-„Vier Komma zwei Millionen", sagte er. „Ungefähr."
+„Vier Komma zwei Millionen“, sagte er. „Ungefähr.“
 
 Ich setzte mich hin.
 
@@ -616,9 +616,9 @@ Ich stand im Treppenhaus unserer Etage am Alten Wandrahm, mit der Schulter
 an der Wand, und sagte einer Frau, die mir gerade gesagt hatte, dass sie
 sich keinen Gutachter leisten kann, wie viel Geld sie mir abnehmen könnte.
 
-„Sie sind ein schlechter Verhandler, Herr Reinhardt", sagte sie.
+„Sie sind ein schlechter Verhandler, Herr Reinhardt“, sagte sie.
 
-„Ja", sagte ich. „Offenbar."
+„Ja“, sagte ich. „Offenbar.“
 
 Es war das Erste, worüber wir beide fast gelacht hätten.
 
@@ -628,45 +628,45 @@ Sie kam am nächsten Morgen um halb neun, was mich überraschte, weil ich
 angenommen hatte, sie würde mich in ihr Café bestellen. Sie kam zu uns,
 in einem dunkelblauen Mantel, mit einer abgewetzten Ledermappe unter dem
 Arm, und Frau Dohrn an der Rezeption sah sie an und sah dann mich an, und
-ich sagte: „Frau Voss hat einen Termin."
+ich sagte: „Frau Voss hat einen Termin.“
 
 Sie hatte keinen Termin. Ich hatte um halb neun eine Bauleiterrunde. Ich
 sagte Theo ab.
 
 Im Besprechungsraum legte sie die Mappe auf den Tisch, setzte sich nicht,
-und sagte: „Ich verkaufe nicht."
+und sagte: „Ich verkaufe nicht.“
 
-„Das haben Sie erwähnt."
+„Das haben Sie erwähnt.“
 
-„Ich habe drei Vorschläge. Sie werden Ihnen alle nicht gefallen."
+„Ich habe drei Vorschläge. Sie werden Ihnen alle nicht gefallen.“
 
-„Ich höre."
+„Ich höre.“
 
 Sie zog ein Blatt heraus. Handschrift, keine Tabelle, keine Präsentation.
 Sie hatte es am Küchentisch geschrieben, das sah man.
 
-„Erstens", sagte sie. „Sie bekommen ein Wegerecht über meinen Hof. Damit
+„Erstens“, sagte sie. „Sie bekommen ein Wegerecht über meinen Hof. Damit
 hängen Ihre beiden Bauteile zusammen. Ich bekomme dafür kein Geld, sondern
-ein neues Dach."
+ein neues Dach.“
 
 Ich sah sie an.
 
 „Zweitens: Die zwei leeren Etagen über mir. Sie sanieren, Sie vermieten,
 Sie behalten die Mieten für fünfzehn Jahre. Danach fallen sie an mich
-zurück. Ich zahle nichts, Sie bekommen den Ertrag."
+zurück. Ich zahle nichts, Sie bekommen den Ertrag.“
 
-„Das nennt man Erbbaurecht auf Teilflächen. Das ist —"
+„Das nennt man Erbbaurecht auf Teilflächen. Das ist —“
 
-„Kompliziert. Ich weiß. Ich habe es gestern Nacht nachgelesen."
+„Kompliziert. Ich weiß. Ich habe es gestern Nacht nachgelesen.“
 
 Sie zog das Blatt nicht weg. Sie ließ es einfach liegen und sah mich an,
 und ich merkte, wie mir warm wurde im Nacken, und das hatte nichts mit
 dem Wegerecht zu tun.
 
-„Und drittens?"
+„Und drittens?“
 
-„Drittens", sagte sie, „lassen Sie das Erdgeschoss in Ruhe. Für immer.
-Das steht so im Vertrag, oder es gibt keinen Vertrag."
+„Drittens“, sagte sie, „lassen Sie das Erdgeschoss in Ruhe. Für immer.
+Das steht so im Vertrag, oder es gibt keinen Vertrag.“
 
 ---
 
@@ -687,17 +687,17 @@ gewusst, dass sie in sechs Wochen keine Wahl mehr hat.
 Und jetzt stand sie in meinem Besprechungsraum und bot mir ein
 Erbbaurecht an.
 
-„Warum?", fragte ich, ohne mich umzudrehen.
+„Warum?“, fragte ich, ohne mich umzudrehen.
 
-„Was warum?"
+„Was warum?“
 
 „Warum nicht einfach verkaufen. Sie nehmen das Geld, Sie sind alle
 Sorgen los. Sie könnten irgendwo neu anfangen, ohne ein undichtes Dach
-über sich."
+über sich.“
 
 Hinter mir war es lange still.
 
-„Weil ich dann nichts mehr habe, das mir gehört", sagte sie.
+„Weil ich dann nichts mehr habe, das mir gehört“, sagte sie.
 
 ---
 
@@ -713,47 +713,47 @@ trotzdem war sie gut, weil sie bei jedem Punkt genau eine Frage stellte:
 *Was passiert, wenn Sie das nicht einhalten?*
 
 Bei der vierten dieser Fragen legte Niklas den Stift hin und sagte:
-„Frau Voss, darf ich Ihnen etwas raten?"
+„Frau Voss, darf ich Ihnen etwas raten?“
 
-„Bitte."
+„Bitte.“
 
 „Nehmen Sie sich einen eigenen Anwalt. Nicht weil wir Sie über den Tisch
 ziehen wollen. Sondern weil Sie mir gerade eine Frage gestellt haben, die
 in unserem Entwurf nicht geregelt ist, und ich vergesse so etwas nicht
-zweimal."
+zweimal.“
 
 Sie sah ihn an. Dann sah sie mich an.
 
-„Kann ich mir nicht leisten", sagte sie ruhig. „Aber danke."
+„Kann ich mir nicht leisten“, sagte sie ruhig. „Aber danke.“
 
-„Wir übernehmen die Kosten", sagte ich.
+„Wir übernehmen die Kosten“, sagte ich.
 
-„Nein."
+„Nein.“
 
-„Frau Voss —"
+„Frau Voss —“
 
-„Nein. Dann ist es Ihr Anwalt." Sie schob die Mappe zu. „Ich frage meinen
-Steuerberater. Der ist nicht billig, aber er ist meiner."
+„Nein. Dann ist es Ihr Anwalt.“ Sie schob die Mappe zu. „Ich frage meinen
+Steuerberater. Der ist nicht billig, aber er ist meiner.“
 
 ---
 
 Um kurz nach eins ging sie. Ich brachte sie zum Aufzug, was ich sonst
 nicht mache.
 
-„Emil", sagte ich, als die Türen aufgingen.
+„Emil“, sagte ich, als die Türen aufgingen.
 
 Sie erstarrte, eine halbe Sekunde, und dann war es wieder weg.
 
-„Wie bitte?"
+„Wie bitte?“
 
-„Auf Ihrer Mappe." Ich zeigte darauf. In der Ecke, mit Filzstift, in der
+„Auf Ihrer Mappe.“ Ich zeigte darauf. In der Ecke, mit Filzstift, in der
 unsicheren Handschrift von jemandem, der noch nicht schreiben kann, waren
-drei Buchstaben und ein Kringel. „Steht da E-M-I."
+drei Buchstaben und ein Kringel. „Steht da E-M-I.“
 
-„Ah." Sie sah auf die Mappe. „Ja. Der Sohn einer Freundin. Er kritzelt
-alles voll."
+„Ah.“ Sie sah auf die Mappe. „Ja. Der Sohn einer Freundin. Er kritzelt
+alles voll.“
 
-„Verstehe."
+„Verstehe.“
 
 Die Aufzugtüren gingen zu.
 
@@ -763,32 +763,32 @@ Travemünde, wenn sie eine Verabredung absagte, die sie nicht wollte.
 
 Dann ging ich zurück ins Büro, und Theo saß auf meinem Stuhl.
 
-„Vier Stunden", sagte er. „Für ein Wegerecht."
+„Vier Stunden“, sagte er. „Für ein Wegerecht.“
 
 „Es ist kein Wegerecht. Es ist ein Erbbaurecht auf Teilflächen mit
-Rückfall."
+Rückfall.“
 
-„Jonas." Er stand auf. „Wer ist die Frau?"
+„Jonas.“ Er stand auf. „Wer ist die Frau?“
 
 Ich nahm die Unterlagen vom Tisch und ordnete sie, obwohl sie geordnet
 waren.
 
-„Eine Eigentümerin", sagte ich.
+„Eine Eigentümerin“, sagte ich.
 
-„Und deshalb sagst du eine Bauleiterrunde ab."
+„Und deshalb sagst du eine Bauleiterrunde ab.“
 
-„Theo."
+„Theo.“
 
 Er hob beide Hände und ging zur Tür. Dort blieb er stehen, und ich wusste,
 was jetzt kommt, weil bei Theo immer an der Tür kommt, was er eigentlich
 sagen wollte.
 
-„Ich habe übrigens Samstag was", sagte er. „Familiär. Ich erzähl's dir
-noch."
+„Ich habe übrigens Samstag was“, sagte er. „Familiär. Ich erzähl’s dir
+noch.“
 
-„Was denn?"
+„Was denn?“
 
-„Später."
+„Später.“
 
 Und er ging.
 
@@ -799,23 +799,23 @@ Und er ging.
 Herr Sievers, mein Steuerberater, brauchte elf Minuten, um mir zu sagen,
 dass ich verrückt sei.
 
-„Dreihunderttausend auf dem Tisch", sagte er und tippte mit dem Kugel-
-schreiber auf den Entwurf, „und Sie verhandeln über ein Dach."
+„Dreihunderttausend auf dem Tisch“, sagte er und tippte mit dem Kugel-
+schreiber auf den Entwurf, „und Sie verhandeln über ein Dach.“
 
-„Über ein Dach und zwei Etagen."
+„Über ein Dach und zwei Etagen.“
 
 „Die Ihnen in fünfzehn Jahren zurückfallen. Frau Voss, wissen Sie, was in
-fünfzehn Jahren ist?"
+fünfzehn Jahren ist?“
 
-„Nein."
+„Nein.“
 
-„Eben." Er blätterte um. „Andererseits."
+„Eben.“ Er blätterte um. „Andererseits.“
 
 Ich wartete.
 
-„Andererseits", sagte er langsam, „ist das der erste Vertragsentwurf seit
+„Andererseits“, sagte er langsam, „ist das der erste Vertragsentwurf seit
 langem, bei dem ich nicht sofort weiß, wo der Haken ist. Und das
-beunruhigt mich mehr, als wenn ich ihn fände."
+beunruhigt mich mehr, als wenn ich ihn fände.“
 
 ---
 
@@ -824,27 +824,27 @@ es Reinhardt Immobilien erlaubt hätte, das Wegerecht an einen Dritten
 weiterzugeben. Sievers strich sie durch und schrieb an den Rand: *nur
 mit schriftlicher Zustimmung, nicht übertragbar an Dritte.*
 
-„So", sagte er. „Jetzt können Sie unterschreiben."
+„So“, sagte er. „Jetzt können Sie unterschreiben.“
 
-„Und das Dach?"
+„Und das Dach?“
 
 „Steht drin. Vollständige Sanierung nach Denkmalschutzauflagen, Beginn
 innerhalb von acht Wochen nach Vertragsschluss, Kostenübernahme
-vollständig." Er sah über die Brille. „Ehrlich gesagt, Frau Voss: Das ist
+vollständig.“ Er sah über die Brille. „Ehrlich gesagt, Frau Voss: Das ist
 kein schlechter Vertrag. Das ist ein sehr guter Vertrag. Wer hat den
-aufgesetzt?"
+aufgesetzt?“
 
-„Ihr Anwalt."
+„Ihr Anwalt.“
 
-„Und Sie haben nichts dafür bezahlt?"
+„Und Sie haben nichts dafür bezahlt?“
 
-„Nein."
+„Nein.“
 
 Sievers legte den Kugelschreiber hin.
 
-„Dann würde ich mich fragen", sagte er, „warum jemand, dem vier Komma
+„Dann würde ich mich fragen“, sagte er, „warum jemand, dem vier Komma
 zwei Millionen auf dem Spiel stehen, einen Vertrag aufsetzt, bei dem er
-das Dach zahlt und Sie das Erdgeschoss behalten."
+das Dach zahlt und Sie das Erdgeschoss behalten.“
 
 ---
 
@@ -870,11 +870,11 @@ nach oben, weil jemand über mir sprach, und da stand er, in einer
 Warnweste über dem Hemd, ohne Mantel, und diskutierte mit einem Mann in
 einem Overall über etwas an der Traufe.
 
-„Sie sollten einen Helm tragen", rief ich.
+„Sie sollten einen Helm tragen“, rief ich.
 
-Er sah runter. „Ich trage einen Helm."
+Er sah runter. „Ich trage einen Helm.“
 
-„Sie tragen ihn in der Hand."
+„Sie tragen ihn in der Hand.“
 
 Der Mann im Overall lachte. Jonas setzte den Helm auf.
 
@@ -893,20 +893,20 @@ einen Kaffee im Stehen an der Theke, zahlte, und ging.
 Immer im Stehen. Immer gezahlt.
 
 In der dritten Woche sagte er: „Der Zitronenkuchen ist besser als letzte
-Woche."
+Woche.“
 
-„Es ist derselbe Kuchen."
+„Es ist derselbe Kuchen.“
 
-„Nein." Er stellte die Tasse ab. „Letzte Woche war die Baiserschicht
-dicker. Heute nicht. Heute schmeckt man die Zitrone zuerst."
+„Nein.“ Er stellte die Tasse ab. „Letzte Woche war die Baiserschicht
+dicker. Heute nicht. Heute schmeckt man die Zitrone zuerst.“
 
 Ich stand da mit dem Tuch in der Hand und wusste nicht, was ich sagen
 sollte, weil er recht hatte, weil ich das Rezept tatsächlich geändert
 hatte, und weil in zwei Jahren kein einziger Mensch das gemerkt hatte.
 
-„Ich habe weniger Zucker genommen", sagte ich.
+„Ich habe weniger Zucker genommen“, sagte ich.
 
-„Es ist besser."
+„Es ist besser.“
 
 Und dann ging er, und ich blieb hinter der Theke stehen und war wütend,
 und ich brauchte den halben Vormittag, um zu verstehen, worauf.
@@ -930,21 +930,21 @@ für das ich mich bis heute schäme: Ich schob den Laufstall mit dem Fuß
 weiter nach hinten, hinter das Regal, und legte Emil eine Hand auf den
 Rücken, damit er nichts sagt.
 
-Er sagte natürlich etwas. Er sagte „Ma".
+Er sagte natürlich etwas. Er sagte „Ma“.
 
 Jonas blieb in der Tür stehen.
 
 Wir sahen uns an, über zwölf leere Tische hinweg, und in dieser Sekunde
 wusste ich, dass es vorbei ist. Nicht heute. Aber bald.
 
-„Ich habe Sie nicht gestört?", fragte er.
+„Ich habe Sie nicht gestört?“, fragte er.
 
-„Nein."
+„Nein.“
 
-„Der Zimmermann sagt, Freitag ist das Dach dicht." Er kam nicht näher.
-„Ich wollte nur Bescheid sagen."
+„Der Zimmermann sagt, Freitag ist das Dach dicht.“ Er kam nicht näher.
+„Ich wollte nur Bescheid sagen.“
 
-„Danke."
+„Danke.“
 
 Er nickte. Er sah nicht hinter das Regal. Er sah mich an, und ich sah,
 dass er es nicht tat, weil er sich zwang, es nicht zu tun.
@@ -957,11 +957,11 @@ Freitagabend, nach Ladenschluss, saß ich auf der Treppe zur Wohnung, mit
 Emil auf dem Schoß, und hörte, wie es zum ersten Mal seit vier Jahren
 regnete, ohne dass ich einen Eimer in den dritten Stock tragen musste.
 
-„Hörst du das?", fragte ich ihn.
+„Hörst du das?“, fragte ich ihn.
 
-„Da", sagte Emil und zeigte an die Decke.
+„Da“, sagte Emil und zeigte an die Decke.
 
-„Ja", sagte ich. „Da."
+„Ja“, sagte ich. „Da.“
 
 Und dann saß ich noch lange da, nachdem er eingeschlafen war, und dachte
 an einen Mann, der auf einem Gerüst steht, obwohl er nicht muss, und der
@@ -983,14 +983,14 @@ Und dann, ganz leise, der Satz, vor dem ich seit zwei Jahren weglief:
 
 Theo warf mir die Mappe auf den Tisch, ohne sich zu setzen.
 
-„Das funktioniert nicht."
+„Das funktioniert nicht.“
 
-„Guten Morgen auch."
+„Guten Morgen auch.“
 
-„Jonas." Er schlug die Mappe auf und drehte sie zu mir. „Sieh es dir an.
+„Jonas.“ Er schlug die Mappe auf und drehte sie zu mir. „Sieh es dir an.
 Du willst, dass ich eine Erschließung um ein Bestandsgebäude herumführe,
 das in der Mitte steht. Ich habe dir gesagt, dass das geht. Ich habe
-nicht gesagt, dass es *gut* ist."
+nicht gesagt, dass es *gut* ist.“
 
 Ich sah es mir an.
 
@@ -1001,15 +1001,15 @@ der Beschriftung *Bestand 14*.
 
 Der Entwurf sah aus wie ein Satz mit einem Wort zu viel.
 
-„Was schlägst du vor?", fragte ich.
+„Was schlägst du vor?“, fragte ich.
 
 „Dass du mit ihr redest. Sie kriegt zweihundertneunzig, sie ist raus, wir
 haben unsere Achse. Es ist nicht mal ein besonders schönes Haus, Jonas.
-Es ist ein Kontorhaus wie vierhundert andere."
+Es ist ein Kontorhaus wie vierhundert andere.“
 
-„Nein."
+„Nein.“
 
-„Warum nicht?"
+„Warum nicht?“
 
 Und da war sie, die Frage, die er mir seit drei Wochen stellte, in
 verschiedenen Verkleidungen, und die ich seit drei Wochen nicht beantwortet
@@ -1017,24 +1017,24 @@ hatte.
 
 Ich stand auf und ging zum Modelltisch.
 
-„Weißt du, was Vater gemacht hätte?", sagte ich.
+„Weißt du, was Vater gemacht hätte?“, sagte ich.
 
-„Gekauft."
+„Gekauft.“
 
-„Er hätte gewartet." Ich drehte das Modell, bis der Block zu mir zeigte.
+„Er hätte gewartet.“ Ich drehte das Modell, bis der Block zu mir zeigte.
 „Er hätte gewartet, bis die Bank kündigt, und dann wäre er hingefahren.
 Er hat mir das mal erklärt. Man wartet, hat er gesagt. Irgendwann ruft
-jeder an."
+jeder an.“
 
 Theo sagte nichts.
 
-„Ich habe in ihrer Akte gesehen, dass die Bank kündigt", sagte ich. „Vor
+„Ich habe in ihrer Akte gesehen, dass die Bank kündigt“, sagte ich. „Vor
 dem ersten Gespräch. Ich bin trotzdem hingefahren, und ein Teil von mir
-hat gedacht: in sechs Wochen hat sie keine Wahl mehr."
+hat gedacht: in sechs Wochen hat sie keine Wahl mehr.“
 
-„Das ist unser Geschäft."
+„Das ist unser Geschäft.“
 
-„Ja." Ich stellte das Modell wieder gerade. „Das ist unser Geschäft."
+„Ja.“ Ich stellte das Modell wieder gerade. „Das ist unser Geschäft.“
 
 ---
 
@@ -1043,7 +1043,7 @@ Wir änderten den Entwurf.
 Das kostete uns elf Tage und einen Statiker, und Theo redete drei davon
 kaum mit mir. Am zwölften Tag legte er eine neue Mappe auf den Tisch,
 setzte sich diesmal, und sagte: „Sieh es dir an. Und sag nichts, bis du
-es zu Ende gesehen hast."
+es zu Ende gesehen hast.“
 
 Er hatte die Achse aufgegeben.
 
@@ -1057,34 +1057,34 @@ Es war besser als vorher.
 
 Nicht ein bisschen. Deutlich.
 
-„Der Hof funktioniert nur, weil das Ding krumm ist", sagte Theo. „Wenn du
-es abreißt und gerade neu baust, kriegst du einen Schuhkarton."
+„Der Hof funktioniert nur, weil das Ding krumm ist“, sagte Theo. „Wenn du
+es abreißt und gerade neu baust, kriegst du einen Schuhkarton.“
 
-„Warum hast du das nicht gleich so gemacht?"
+„Warum hast du das nicht gleich so gemacht?“
 
 „Weil ich nicht darauf gekommen bin, solange ich das Haus als Problem
-gesehen habe." Er sah auf den Plan. „Man findet nichts, solange man
-etwas wegdenken will."
+gesehen habe.“ Er sah auf den Plan. „Man findet nichts, solange man
+etwas wegdenken will.“
 
 Ich sah ihn an.
 
-„Was?", sagte er.
+„Was?“, sagte er.
 
-„Nichts."
+„Nichts.“
 
-„Sag es."
+„Sag es.“
 
-„Du hast am Freitag gesagt, du hast was Familiäres."
+„Du hast am Freitag gesagt, du hast was Familiäres.“
 
 Theo lehnte sich zurück, und ich sah, wie er einen Moment lang überlegte,
 ob er es jetzt sagt.
 
-„Später", sagte er.
+„Später“, sagte er.
 
-„Theo."
+„Theo.“
 
-„Später, Jonas." Er stand auf und klopfte zweimal auf den Plan. „Erst
-das hier. Dann das andere."
+„Später, Jonas.“ Er stand auf und klopfte zweimal auf den Plan. „Erst
+das hier. Dann das andere.“
 
 ---
 
@@ -1095,11 +1095,11 @@ dass beide nicht stimmten.
 Sie war allein im Laden. Es war kurz vor fünf, die Vitrine schon halb
 leer, und sie war dabei, die Bleche zu stapeln.
 
-„Ich habe etwas, das ich Ihnen zeigen möchte", sagte ich.
+„Ich habe etwas, das ich Ihnen zeigen möchte“, sagte ich.
 
-„Ich habe in zwanzig Minuten Feierabend."
+„Ich habe in zwanzig Minuten Feierabend.“
 
-„Zwanzig Minuten reichen."
+„Zwanzig Minuten reichen.“
 
 Sie wischte sich die Hände an der Schürze ab und kam an den Fenstertisch,
 und ich legte den Plan aus, und dann tat ich etwas, das ich in meinem
@@ -1114,18 +1114,18 @@ aber man kann fragen.
 
 Sie sagte lange nichts. Dann legte sie einen Finger auf den Hof.
 
-„Was ist das für ein Kreis?"
+„Was ist das für ein Kreis?“
 
-„Ein Baum. Theo zeichnet immer Bäume ein. Sie werden nie gepflanzt."
+„Ein Baum. Theo zeichnet immer Bäume ein. Sie werden nie gepflanzt.“
 
-„Warum nicht?"
+„Warum nicht?“
 
 „Weil im Bauablauf jemand ausrechnet, was der Baum kostet, und dann wird
-er zu einem Fahrradständer."
+er zu einem Fahrradständer.“
 
 Sie sah mich an.
 
-„Pflanzen Sie den Baum", sagte sie.
+„Pflanzen Sie den Baum“, sagte sie.
 
 ---
 
@@ -1145,28 +1145,28 @@ aufgehängt, und der sei runtergefallen und habe ein Auto getroffen.
 Ich lachte. Ich hörte mich lachen und dachte, dass ich das lange nicht
 getan hatte.
 
-„Warum machen Sie das?", fragte sie dann.
+„Warum machen Sie das?“, fragte sie dann.
 
-„Was?"
+„Was?“
 
-„Das hier." Sie zeigte auf den Plan, auf die Tassen, auf den Tisch.
+„Das hier.“ Sie zeigte auf den Plan, auf die Tassen, auf den Tisch.
 „Sie fahren nicht auf jede Baustelle. Sie erklären nicht jedem
 Eigentümer den Entwurf. Sie zahlen kein Dach, wenn ein Wegerecht
-gereicht hätte."
+gereicht hätte.“
 
 Ich hätte etwas Kluges sagen können.
 
-„Weil ich vor zwei Jahren nicht angerufen habe", sagte ich.
+„Weil ich vor zwei Jahren nicht angerufen habe“, sagte ich.
 
 Sie wurde ganz still.
 
-„Ich weiß, dass das nichts wiedergutmacht", sagte ich. „Ich weiß, dass
+„Ich weiß, dass das nichts wiedergutmacht“, sagte ich. „Ich weiß, dass
 man so etwas nicht mit einem Dach verrechnet. Ich sage es nur, weil Sie
-gefragt haben, und weil ich es leid bin, so zu tun, als wäre es beruflich."
+gefragt haben, und weil ich es leid bin, so zu tun, als wäre es beruflich.“
 
 Sie sah auf ihre Hände.
 
-„Warum haben Sie nicht angerufen?"
+„Warum haben Sie nicht angerufen?“
 
 Und das war der Moment. Ich habe ihn später hundertmal durchgegangen.
 
@@ -1177,16 +1177,16 @@ spät vor.
 
 Beides wäre wahr gewesen.
 
-Ich sagte: „Es gab damals eine Situation in der Familie."
+Ich sagte: „Es gab damals eine Situation in der Familie.“
 
 Ich sah, wie es in ihrem Gesicht zumachte.
 
-„Verstehe", sagte sie und stand auf und begann, die Tassen einzusammeln.
-„Ich muss dann. Es ist spät."
+„Verstehe“, sagte sie und stand auf und begann, die Tassen einzusammeln.
+„Ich muss dann. Es ist spät.“
 
-„Marlene —"
+„Marlene —“
 
-„Vielen Dank für den Plan, Herr Reinhardt."
+„Vielen Dank für den Plan, Herr Reinhardt.“
 
 Wieder Herr Reinhardt.
 
@@ -1225,13 +1225,13 @@ Am Montag rief ich in seinem Büro an.
 Nicht auf dem Handy. Auf der Zentrale, dieselbe Nummer wie damals, und
 als sich eine Frauenstimme meldete — nicht dieselbe, eine jüngere —,
 sagte ich: „Frau Voss, Kehrwieder vierzehn. Ich hätte gern Herrn
-Reinhardt."
+Reinhardt.“
 
-„Einen Moment, ich verbinde."
+„Einen Moment, ich verbinde.“
 
 Es klickte. Es klingelte einmal.
 
-„Reinhardt."
+„Reinhardt.“
 
 Ich legte auf.
 
@@ -1273,11 +1273,11 @@ Am Donnerstag stand statt seiner ein junger Mann in der Tür, sehr höflich,
 mit einer Mappe, und sagte, er sei von Reinhardt Immobilien und solle
 die Abnahme des Dachs begleiten.
 
-„Und Herr Reinhardt?"
+„Und Herr Reinhardt?“
 
-„Herr Reinhardt ist diese Woche in Frankfurt."
+„Herr Reinhardt ist diese Woche in Frankfurt.“
 
-„Ah."
+„Ah.“
 
 Der junge Mann sah mich an und wartete, ob noch etwas kommt, und dann
 ging er nach oben, und ich stand hinter meiner Theke und war wütend und
@@ -1293,12 +1293,12 @@ Hand hielt er einen Umschlag.
 
 Ich schloss auf.
 
-„Ich habe gelogen", sagte er.
+„Ich habe gelogen“, sagte er.
 
-„Sie standen im Regen, um mir das zu sagen?"
+„Sie standen im Regen, um mir das zu sagen?“
 
 „Nein. Ich stand im Regen, weil ich seit vierzig Minuten überlege, ob ich
-klopfe."
+klopfe.“
 
 Ich trat zur Seite und ließ ihn rein.
 
@@ -1308,57 +1308,57 @@ Er blieb in der Tür stehen, tropfte auf meine Fliesen, und sagte:
 Travemünde einen Schlaganfall. Ich war sechs Wochen im Krankenhaus, dann
 vier Monate mit Reha und Vollmachten und einer Firma, die niemand geführt
 hat. Und irgendwann in dem Herbst habe ich gedacht: Es ist jetzt zu
-spät. Sie hat sich auch nicht gemeldet. Sie hätte sich melden können."
+spät. Sie hat sich auch nicht gemeldet. Sie hätte sich melden können.“
 
 Er sah mich an.
 
-„Das habe ich gedacht", sagte er. „Zwei Jahre lang. *Sie hätte sich
-melden können.*"
+„Das habe ich gedacht“, sagte er. „Zwei Jahre lang. *Sie hätte sich
+melden können.*“
 
 Ich stand mitten in meinem Café und konnte nicht sprechen.
 
-„Und dann", sagte er, „habe ich am Montag eine Anruferliste geprüft."
+„Und dann“, sagte er, „habe ich am Montag eine Anruferliste geprüft.“
 
 Er legte den Umschlag auf den Tisch.
 
-„Warum haben Sie eine Anruferliste geprüft?"
+„Warum haben Sie eine Anruferliste geprüft?“
 
 „Weil Sie am Freitag zugemacht haben, als ich das mit der Situation
-gesagt habe. Und weil ich nicht wusste, warum." Er strich sich das nasse
+gesagt habe. Und weil ich nicht wusste, warum.“ Er strich sich das nasse
 Haar aus der Stirn. „Und weil meine damalige Assistentin im Januar
 gegangen ist und mir jemand mal gesagt hat, sie habe die Angewohnheit
-gehabt, mich vor Privatem zu schützen."
+gehabt, mich vor Privatem zu schützen.“
 
 Ich machte den Umschlag nicht auf.
 
 Ich wusste, was drin ist.
 
-„Drei Anrufe", sagte er. „22. Juni, 4. Juli, 18. Juli. Marlene Voss.
-Beim dritten steht ein Vermerk: *erledigt.*"
+„Drei Anrufe“, sagte er. „22. Juni, 4. Juli, 18. Juli. Marlene Voss.
+Beim dritten steht ein Vermerk: *erledigt.*“
 
 Es war sehr still.
 
-„Und der Brief?", sagte ich.
+„Und der Brief?“, sagte ich.
 
 Er sah mich an, und ich sah, wie es ihn traf.
 
-„Es gab einen Brief?"
+„Es gab einen Brief?“
 
 ---
 
 Ich setzte mich hin, weil meine Beine es entschieden.
 
-„Drei Seiten", sagte ich. „Ende Juli. Handschriftlich. Ich habe
-geschrieben, dass ich mit Ihnen sprechen muss. Dass es wichtig ist."
+„Drei Seiten“, sagte ich. „Ende Juli. Handschriftlich. Ich habe
+geschrieben, dass ich mit Ihnen sprechen muss. Dass es wichtig ist.“
 
-„Ich habe ihn nie gesehen."
+„Ich habe ihn nie gesehen.“
 
-„Das dachte ich mir gerade."
+„Das dachte ich mir gerade.“
 
 Er zog den Stuhl gegenüber heraus und setzte sich auch, langsam, wie
 jemand, dem gerade jemand etwas Schweres in die Arme gelegt hat.
 
-„Was stand drin?", fragte er.
+„Was stand drin?“, fragte er.
 
 Und da war es.
 
@@ -1374,37 +1374,37 @@ und rufen, und dann würde es keinen Satz mehr brauchen.
 
 Zwanzig Minuten.
 
-„Es stand drin", sagte ich langsam, „dass ich Sie nicht vergessen kann,
-und dass ich mich dafür schäme, das aufzuschreiben."
+„Es stand drin“, sagte ich langsam, „dass ich Sie nicht vergessen kann,
+und dass ich mich dafür schäme, das aufzuschreiben.“
 
 Das war die Hälfte der Wahrheit. Die Hälfte, die ich sagen konnte.
 
 Jonas legte seine Hand nicht auf meine. Ich weiß bis heute nicht, ob ich
 das gewollt hätte.
 
-„Marlene", sagte er, „ich hätte nicht warten sollen, bis eine Bank
-kündigt, um wieder in diese Stadt zu fahren."
+„Marlene“, sagte er, „ich hätte nicht warten sollen, bis eine Bank
+kündigt, um wieder in diese Stadt zu fahren.“
 
-„Nein", sagte ich. „Hätten Sie nicht."
+„Nein“, sagte ich. „Hätten Sie nicht.“
 
-„Darf ich morgen wiederkommen?"
+„Darf ich morgen wiederkommen?“
 
 Oben knarrte eine Diele.
 
-„Ja", sagte ich schnell. „Ja. Morgen."
+„Ja“, sagte ich schnell. „Ja. Morgen.“
 
 Er stand auf, und an der Tür drehte er sich noch einmal um, so wie er sich
 immer umdreht, und ich dachte: *Sag es. Sag es jetzt, solange er noch in
 der Tür steht und du es hinter ihm zumachen kannst.*
 
-„Jonas", sagte ich.
+„Jonas“, sagte ich.
 
 Es war das erste Mal seit zwei Jahren, dass ich seinen Vornamen benutzte,
 und ich hörte, dass er es merkte.
 
-„Ja?"
+„Ja?“
 
-Über uns, ganz deutlich, sagte eine kleine Stimme: „Ma?"
+Über uns, ganz deutlich, sagte eine kleine Stimme: „Ma?“
 
 Er sah zur Decke.
 
@@ -1419,7 +1419,7 @@ Ich fragte nicht.
 Das ist der Teil, den ich mir später am schwersten verzeihen konnte —
 nicht weil es falsch war, sondern weil es so leicht ging.
 
-Über uns hatte eine kleine Stimme „Ma" gesagt. Marlene stand zwei Schritte
+Über uns hatte eine kleine Stimme „Ma“ gesagt. Marlene stand zwei Schritte
 vor mir, die Hand noch am Türrahmen, und in ihrem Gesicht war etwas, das
 ich zwei Jahre lang nicht mehr gesehen hatte: nackte Angst.
 
@@ -1427,23 +1427,23 @@ Und ich, der ich gerade eine Anruferliste auf ihren Tisch gelegt hatte,
 weil mir jemand Post vorenthalten hatte — ich stellte mir vor, wie es
 wäre, in derselben Stunde hochzugehen und nachzusehen.
 
-„Ich lasse Sie", sagte ich.
+„Ich lasse Sie“, sagte ich.
 
 Die Erleichterung in ihrem Gesicht war so groß, dass sie fast wehtat.
 
-„Danke."
+„Danke.“
 
 Ich ging bis zur Tür. Dann drehte ich mich doch noch um, weil ich es nie
 lassen kann.
 
-„Wenn Sie mir irgendwann erzählen wollen, wer da oben ist", sagte ich,
+„Wenn Sie mir irgendwann erzählen wollen, wer da oben ist“, sagte ich,
 „dann erzählen Sie es mir. Und wenn nicht, dann nicht. Ich frage nicht
-mehr."
+mehr.“
 
 Sie sah mich an.
 
 „Das ist das Netteste und das Grausamste zugleich, was Sie hätten sagen
-können", sagte sie.
+können“, sagte sie.
 
 Ich verstand es damals nicht.
 
@@ -1473,38 +1473,38 @@ sagen, welchen Stift die Gegenseite benutzt hat.
 
 ---
 
-„Warum machen Sie das eigentlich?", fragte sie an einem dieser Abende.
+„Warum machen Sie das eigentlich?“, fragte sie an einem dieser Abende.
 
-„Das fragen Sie zum zweiten Mal."
+„Das fragen Sie zum zweiten Mal.“
 
-„Ich meine das nicht." Sie zeigte mit dem Bleistift auf mich, nicht auf
-den Plan. „Ich meine — das. Immobilien. Wollten Sie das?"
+„Ich meine das nicht.“ Sie zeigte mit dem Bleistift auf mich, nicht auf
+den Plan. „Ich meine — das. Immobilien. Wollten Sie das?“
 
 Ich öffnete den Mund, um die Antwort zu geben, die ich seit zwölf Jahren
 gebe.
 
-„Nein", sagte ich.
+„Nein“, sagte ich.
 
 Sie legte den Bleistift hin.
 
-„Ich habe Bauingenieurwesen angefangen", sagte ich. „Zweites Semester,
+„Ich habe Bauingenieurwesen angefangen“, sagte ich. „Zweites Semester,
 als mein Vater starb. Ich habe abgebrochen und die Firma übernommen, weil
 Theo neunzehn war und Niklas fünfzehn und Bastian zwölf, und weil
-zweihundert Leute Gehalt bekommen mussten."
+zweihundert Leute Gehalt bekommen mussten.“
 
-„Und dann?"
+„Und dann?“
 
-„Dann war ich gut darin." Ich sah auf den Plan. „Das ist die Falle. Wenn
-man gut in etwas ist, fragt einen niemand mehr, ob man es will."
+„Dann war ich gut darin.“ Ich sah auf den Plan. „Das ist die Falle. Wenn
+man gut in etwas ist, fragt einen niemand mehr, ob man es will.“
 
 Sie sagte lange nichts.
 
-„Was hätten Sie stattdessen gemacht?"
+„Was hätten Sie stattdessen gemacht?“
 
-„Ich weiß es nicht." Ich hörte selbst, wie ungeschützt das klang. „Ich
+„Ich weiß es nicht.“ Ich hörte selbst, wie ungeschützt das klang. „Ich
 war zweiundzwanzig. Man weiß es mit zweiundzwanzig nicht. Man hat nur das
 Gefühl, dass man es irgendwann herausfinden wird, und dann findet man es
-nicht heraus, weil dazwischen ein Leben passiert."
+nicht heraus, weil dazwischen ein Leben passiert.“
 
 Sie schob mir ihre Tasse hin, obwohl meine noch halb voll war.
 
@@ -1515,11 +1515,11 @@ Ich habe damals nicht verstanden, dass das ein Trost war.
 Ende Oktober kam Frau Kettler abends dazu, weil sie etwas vergessen hatte,
 und blieb in der Tür stehen, als sie uns sah.
 
-„Oh", sagte sie. „Entschuldigung."
+„Oh“, sagte sie. „Entschuldigung.“
 
-„Frau Kettler, das ist Herr Reinhardt", sagte Marlene. „Wegen des Hofs."
+„Frau Kettler, das ist Herr Reinhardt“, sagte Marlene. „Wegen des Hofs.“
 
-„Ja", sagte Frau Kettler. „Wegen des Hofs."
+„Ja“, sagte Frau Kettler. „Wegen des Hofs.“
 
 Sie sah mich an, und in diesem Blick war so viel — Prüfung, Urteil,
 Vorbehalt —, dass mir klar wurde: Diese Frau weiß etwas, und sie hat
@@ -1528,11 +1528,11 @@ richtig ist.
 
 Sie holte ihre Tasche und ging.
 
-„Sie mag mich nicht", sagte ich.
+„Sie mag mich nicht“, sagte ich.
 
-„Sie kennt Sie nicht."
+„Sie kennt Sie nicht.“
 
-„Das ist nicht dasselbe wie *sie mag mich*."
+„Das ist nicht dasselbe wie *sie mag mich*.“
 
 Marlene lachte. Es war das erste Mal, dass ich sie richtig lachen hörte,
 seit ich zurück war, und ich stellte fest, dass ich alles dafür getan
@@ -1547,33 +1547,33 @@ sie besteht darauf, dass ich sie bringe, obwohl sie es allein könnte. Sie
 geht langsam seit dem Schlaganfall, und die linke Hand macht nicht immer,
 was sie soll, aber sie geht.
 
-Auf dem Bahnsteig sagte sie: „Du siehst anders aus."
+Auf dem Bahnsteig sagte sie: „Du siehst anders aus.“
 
-„Wie anders?"
+„Wie anders?“
 
-„Wach." Sie sah mich von der Seite an. „Wer ist sie?"
+„Wach.“ Sie sah mich von der Seite an. „Wer ist sie?“
 
 Meine Mutter fragt so etwas ohne Umweg, seit sie im Krankenhaus lag. Sie
 sagt, sie habe keine Zeit mehr für Anläufe.
 
-„Eine Eigentümerin", sagte ich.
+„Eine Eigentümerin“, sagte ich.
 
-„Jonas."
+„Jonas.“
 
-„Sie heißt Marlene."
+„Sie heißt Marlene.“
 
-„Und?"
+„Und?“
 
 Der Zug fuhr ein. Ich stellte ihren Koffer auf die Stufe.
 
 „Und ich habe vor zwei Jahren nicht bei ihr angerufen, weil du im
-Krankenhaus lagst", sagte ich. „Und ich habe zwei Jahre lang gedacht, sie
+Krankenhaus lagst“, sagte ich. „Und ich habe zwei Jahre lang gedacht, sie
 hätte sich melden können. Und letzte Woche habe ich herausgefunden, dass
-sie es dreimal getan hat."
+sie es dreimal getan hat.“
 
 Meine Mutter stand auf der Stufe und hielt sich am Griff fest.
 
-„Dann geh nicht wieder", sagte sie.
+„Dann geh nicht wieder“, sagte sie.
 
 ---
 
@@ -1586,23 +1586,23 @@ noch drei Stunden bleiben werden.
 
 Ich stellte mich in die Schlange.
 
-Als ich dran war, sagte ich: „Ich habe zwei Stunden. Was kann ich tun?"
+Als ich dran war, sagte ich: „Ich habe zwei Stunden. Was kann ich tun?“
 
 Sie sah mich an, als hätte ich Chinesisch gesprochen.
 
-„Sie können —"
+„Sie können —“
 
 „Ich kann abräumen. Ich kann Geschirr in die Maschine stellen. Ich kann
 nicht kochen und ich kann nicht backen, aber ich kann Tische abwischen,
-und ich lerne schnell."
+und ich lerne schnell.“
 
-Hinter mir sagte jemand: „Ich hätte gern zwei Franzbrötchen."
+Hinter mir sagte jemand: „Ich hätte gern zwei Franzbrötchen.“
 
 Marlene stand da, mit der Zange in der Hand, und ich sah, wie sie den
 Stolz und die Erschöpfung gegeneinander abwog, und wie die Erschöpfung
 gewann.
 
-„Schürze hängt an der Tür", sagte sie.
+„Schürze hängt an der Tür“, sagte sie.
 
 ---
 
@@ -1610,24 +1610,24 @@ Ich habe an diesem Dienstag von elf bis halb zwei Tische abgewischt.
 
 Ich habe zwei Gläser zerbrochen. Ich habe einem Mann versehentlich einen
 Cappuccino statt eines Milchkaffees gebracht, und er hat es gemerkt, und
-Marlene hat aus zehn Metern Entfernung gerufen: „Das ist der Neue!"
+Marlene hat aus zehn Metern Entfernung gerufen: „Das ist der Neue!“
 
 Und irgendwann, gegen eins, während ich am Spülbecken stand und sie hinter
 mir Kaffee mahlte, sagte sie:
 
-„Wenn Sie sich weiter so anstellen, muss ich Sie doch bezahlen."
+„Wenn Sie sich weiter so anstellen, muss ich Sie doch bezahlen.“
 
 Ich drehte mich um, die Hände im Wasser.
 
-„Ich würde es umsonst machen."
+„Ich würde es umsonst machen.“
 
 Und dann war es still, und wir hörten beide, was ich gesagt hatte, und wie
 es geklungen hatte.
 
 Sie drehte sich zur Mühle zurück.
 
-„Der Cappuccino", sagte sie, „hat Milchschaum. Der Milchkaffee nicht.
-Merken Sie sich das, sonst hält der Laden das nicht aus."
+„Der Cappuccino“, sagte sie, „hat Milchschaum. Der Milchkaffee nicht.
+Merken Sie sich das, sonst hält der Laden das nicht aus.“
 
 ---
 
@@ -1637,25 +1637,25 @@ Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
 alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
 Emils Fläschchen ausspülte.
 
-„Der Mann, der abends bei Ihnen sitzt."
+„Der Mann, der abends bei Ihnen sitzt.“
 
-„Herr Reinhardt."
+„Herr Reinhardt.“
 
-„Ja." Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
+„Ja.“ Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
 angesehen, als er nicht hingesehen hat. Er hat dieselbe Stirn wie der
-Kleine."
+Kleine.“
 
 Ich sagte nichts.
 
-„Frau Voss." Sie drehte sich um und trocknete sich die Hände an der
+„Frau Voss.“ Sie drehte sich um und trocknete sich die Hände an der
 Schürze. „Ich bin einundsechzig. Ich habe drei Kinder großgezogen und
-neun fremde. Ich weiß, wann mich etwas nichts angeht."
+neun fremde. Ich weiß, wann mich etwas nichts angeht.“
 
-„Aber?"
+„Aber?“
 
-„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert." Sie
+„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert.“ Sie
 nahm ihren Mantel vom Haken. „Es geht nie gut aus, wenn der andere es
-selbst herausfindet. Nie."
+selbst herausfindet. Nie.“
 
 Sie ging.
 
@@ -1705,21 +1705,21 @@ Jackentasche trockneten.
 
 Ich saß auf einem Findling und sah ihm zu.
 
-Er hat Jonas' Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
+Er hat Jonas’ Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
 etwas anzusehen, bevor er es anfasst — dieses kurze Innehalten, das bei
 einem achtzehn Monate alten Menschen komisch wirkt und bei einem
 sechsunddreißigjährigen Mann in einer Vorstandssitzung vermutlich
 beeindruckend.
 
-„Emil", sagte ich.
+„Emil“, sagte ich.
 
 Er sah hoch.
 
-„Ich bin ein Feigling."
+„Ich bin ein Feigling.“
 
-„Da", sagte Emil und hielt mir einen Stein hin.
+„Da“, sagte Emil und hielt mir einen Stein hin.
 
-„Danke."
+„Danke.“
 
 Ich steckte ihn ein. Er ist heute noch in der Schublade unter der Kasse,
 neben dem Brief von der Bank, den ich aufgehoben habe, weil man solche
@@ -1729,28 +1729,28 @@ Briefe aufhebt.
 
 Am Montag rief ich ihn an.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Ich bin's."
+„Ich bin’s.“
 
-„Marlene." Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
-dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?"
+„Marlene.“ Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
+dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?“
 
-„Nein. Ich —" Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
-ob Sie Donnerstag kommen."
+„Nein. Ich —“ Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
+ob Sie Donnerstag kommen.“
 
-„Ich komme jeden Donnerstag."
+„Ich komme jeden Donnerstag.“
 
-„Ich weiß. Ich wollte trotzdem fragen."
+„Ich weiß. Ich wollte trotzdem fragen.“
 
 Eine Pause.
 
-„Marlene, ist alles in Ordnung?"
+„Marlene, ist alles in Ordnung?“
 
 Und da hatte ich es. Die offene Tür. Er hatte gefragt, ohne zu fragen, und
 ich hätte nur sagen müssen: *Nein.*
 
-„Ja", sagte ich. „Alles gut. Bis Donnerstag."
+„Ja“, sagte ich. „Alles gut. Bis Donnerstag.“
 
 Ich legte auf und stand eine Weile mit dem Telefon in der Hand.
 
@@ -1762,41 +1762,41 @@ diesmal einen Mantel dabei und trug ihn trotzdem nicht.
 Wir arbeiteten anderthalb Stunden am Entwässerungsplan, was ungefähr so
 romantisch ist, wie es klingt. Um kurz nach acht schob er den Plan weg.
 
-„Ich muss Ihnen etwas sagen", sagte er.
+„Ich muss Ihnen etwas sagen“, sagte er.
 
 Mein Herz machte etwas Unangenehmes.
 
-„Ja?"
+„Ja?“
 
 „Am fünfzehnten ist die Beiratssitzung. Da wird der Entwurf beschlossen —
-Ihrer, mit dem Hof." Er drehte die Tasse in der Hand. „Es gibt zwei
+Ihrer, mit dem Hof.“ Er drehte die Tasse in der Hand. „Es gibt zwei
 Leute im Beirat, die das für einen Fehler halten. Sie werden fragen,
 warum wir vier Komma zwei Millionen liegen lassen für ein Kontorhaus, das
-nicht mal besonders schön ist."
+nicht mal besonders schön ist.“
 
-„Und was sagen Sie dann?"
+„Und was sagen Sie dann?“
 
-„Dass der Entwurf besser ist. Was stimmt." Er sah auf. „Aber sie werden
+„Dass der Entwurf besser ist. Was stimmt.“ Er sah auf. „Aber sie werden
 weiterfragen, und irgendwann wird jemand fragen, ob ich die Eigentümerin
-kenne."
+kenne.“
 
 Ich stellte meine Tasse ab.
 
-„Und?"
+„Und?“
 
-„Und ich werde ja sagen."
+„Und ich werde ja sagen.“
 
-„Sie könnten nein sagen."
+„Sie könnten nein sagen.“
 
-„Ich könnte nein sagen", stimmte er zu. „Und dann würde in drei Monaten
+„Ich könnte nein sagen“, stimmte er zu. „Und dann würde in drei Monaten
 jemand herausfinden, dass ich sie kenne, und dann wäre es nicht mehr ein
-Entwurf, der besser ist. Dann wäre es Vetternwirtschaft."
+Entwurf, der besser ist. Dann wäre es Vetternwirtschaft.“
 
 Er strich sich über das Gesicht, und ich sah, wie müde er war.
 
 „Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
-Zweifel vor dem Beirat trägt", sagte er. „Und das hier trägt nur, wenn
-ich es vorher sage. Also sage ich es vorher."
+Zweifel vor dem Beirat trägt“, sagte er. „Und das hier trägt nur, wenn
+ich es vorher sage. Also sage ich es vorher.“
 
 ---
 
@@ -1805,33 +1805,33 @@ Ich saß da und sah ihn an, und mir wurde langsam übel.
 Er saß in meinem Café und erklärte mir, warum man unangenehme Wahrheiten
 lieber selbst ausspricht, bevor jemand anderes sie findet.
 
-„Jonas", sagte ich.
+„Jonas“, sagte ich.
 
-„Ja?"
+„Ja?“
 
 Die Tür ging auf. Zwei Handwerker vom Nachbarhaus, klatschnass, laut,
-fröhlich. „Frau Voss, ist noch was da? Egal was."
+fröhlich. „Frau Voss, ist noch was da? Egal was.“
 
 Ich stand auf.
 
-„Einen Moment", sagte ich, zu ihnen und zu ihm gleichzeitig.
+„Einen Moment“, sagte ich, zu ihnen und zu ihm gleichzeitig.
 
 Als ich zurückkam, hatte er den Plan wieder aufgerollt und stand am
 Fenster, und der Moment war weg, so wie diese Momente immer weggehen —
 nicht mit einem Knall, sondern weil jemand zwei Franzbrötchen will.
 
-„Ich muss los", sagte er. „Sitzung morgen früh."
+„Ich muss los“, sagte er. „Sitzung morgen früh.“
 
-„Ja."
+„Ja.“
 
 An der Tür drehte er sich um.
 
-„Was wollten Sie sagen?"
+„Was wollten Sie sagen?“
 
 Ich stand hinter der Theke, mit dem Tuch in der Hand, in dem Licht, das
 um diese Zeit von der Straße hereinkommt.
 
-„Viel Glück am Fünfzehnten", sagte ich.
+„Viel Glück am Fünfzehnten“, sagte ich.
 
 ---
 
@@ -1848,24 +1848,24 @@ Theo präsentierte den Entwurf. Er machte es gut — er zeigte zuerst die
 alte Variante, ließ sie zwei Sekunden stehen, und legte dann die neue
 daneben, und man sah im Raum, wie die Köpfe sich neigten.
 
-„Der Hof entsteht nur, weil der Bestand schief steht", sagte Theo. „Wenn
+„Der Hof entsteht nur, weil der Bestand schief steht“, sagte Theo. „Wenn
 wir abreißen und gerade neu bauen, bekommen wir eine Reihe. So bekommen
-wir einen Ort."
+wir einen Ort.“
 
 Dr. Wendland, der seit neunzehn Jahren im Beirat sitzt, tippte mit dem
 Stift auf den Plan.
 
-„Und die Wirtschaftlichkeit?"
+„Und die Wirtschaftlichkeit?“
 
-„Vier Komma zwei Millionen schlechter über die Laufzeit", sagte ich.
+„Vier Komma zwei Millionen schlechter über die Laufzeit“, sagte ich.
 
 Niemand sagte etwas.
 
-„Und Sie schlagen vor, das zu akzeptieren."
+„Und Sie schlagen vor, das zu akzeptieren.“
 
-„Ich schlage vor, es zu akzeptieren."
+„Ich schlage vor, es zu akzeptieren.“
 
-Wendland lehnte sich zurück. „Warum?"
+Wendland lehnte sich zurück. „Warum?“
 
 ---
 
@@ -1882,42 +1882,42 @@ Drittens: Das Objekt gehört einer Einzeleigentümerin, die nicht verkaufen
 will. Ein Ankauf gegen ihren Willen ist rechtlich nicht möglich, und ein
 Ankauf über die Bank ist —
 
-„Über die Bank", sagte Wendland. „Da läuft eine Kündigung."
+„Über die Bank“, sagte Wendland. „Da läuft eine Kündigung.“
 
 Ich sah ihn an.
 
 Natürlich wusste er das. Er sitzt in zwei Aufsichtsräten, in denen Leute
 sitzen, die in Banken sitzen. Das ist Hamburg.
 
-„Ja", sagte ich.
+„Ja“, sagte ich.
 
-„Dann warten Sie sechs Wochen."
+„Dann warten Sie sechs Wochen.“
 
 Der Raum war sehr still.
 
 Und ich hörte meinen Vater, ganz deutlich, so deutlich wie seit Jahren
 nicht: *Man wartet, Junge.*
 
-„Nein", sagte ich.
+„Nein“, sagte ich.
 
-„Herr Reinhardt —"
+„Herr Reinhardt —“
 
-„Nein." Ich stand nicht auf, ich hob die Stimme nicht, ich legte nur die
+„Nein.“ Ich stand nicht auf, ich hob die Stimme nicht, ich legte nur die
 Hände auf den Tisch. „Ich kenne die Eigentümerin persönlich. Das sage ich
 Ihnen hier und jetzt, damit es niemand in drei Monaten herausfindet und
 daraus etwas macht, was es nicht ist. Und ich sage Ihnen auch: Genau
 deshalb warte ich nicht, bis ihre Bank sie fertigmacht. Wenn dieses Haus
-je verkauft wird, dann weil sie es will."
+je verkauft wird, dann weil sie es will.“
 
 Wendland sah mich lange an.
 
-„Sie wissen, wie das aussieht", sagte er.
+„Sie wissen, wie das aussieht“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Und Sie sagen es trotzdem hier."
+„Und Sie sagen es trotzdem hier.“
 
-„Deshalb sage ich es hier."
+„Deshalb sage ich es hier.“
 
 Er nickte langsam, einmal, und schrieb etwas auf seinen Block.
 
@@ -1927,52 +1927,52 @@ Der Entwurf wurde mit fünf zu zwei angenommen.
 
 Danach hielt Theo mich im Flur fest.
 
-„Was war das?"
+„Was war das?“
 
-„Eine Beiratssitzung."
+„Eine Beiratssitzung.“
 
-„Jonas." Er stellte sich mir in den Weg, was er seit unserer Kindheit
+„Jonas.“ Er stellte sich mir in den Weg, was er seit unserer Kindheit
 macht und was seit unserer Kindheit nicht funktioniert. „Du hast gerade
 vor sieben Leuten gesagt, dass du eine Eigentümerin persönlich kennst.
 Du. Der Mensch, der zwölf Jahre lang jede Regung vor diesem Gremium
-versteckt hat."
+versteckt hat.“
 
-„Es stimmt doch."
+„Es stimmt doch.“
 
-„Das ist nicht der Punkt."
+„Das ist nicht der Punkt.“
 
 Ich sah aus dem Flurfenster auf die Kräne.
 
-„Weißt du, was der Punkt ist?", sagte ich. „Der Punkt ist, dass Wendland
+„Weißt du, was der Punkt ist?“, sagte ich. „Der Punkt ist, dass Wendland
 recht hat. In sechs Wochen kündigt die Bank, und dann hätte ich das Haus
 für zweihundert. Und ich hätte es genommen. Vor einem halben Jahr hätte
-ich es genommen und mir dabei nichts gedacht."
+ich es genommen und mir dabei nichts gedacht.“
 
 Theo sagte nichts.
 
-„Ich möchte nicht der Mann sein, der das nimmt", sagte ich. „Das ist der
+„Ich möchte nicht der Mann sein, der das nimmt“, sagte ich. „Das ist der
 ganze Grund. Es ist kein guter Geschäftsgrund. Es ist der einzige, den
-ich habe."
+ich habe.“
 
 Mein Bruder sah mich an, und dann tat er etwas, das er seit dem Tod
 unseres Vaters nicht getan hatte: Er legte mir kurz eine Hand auf die
 Schulter.
 
-„Sie heißt Marlene", sagte er. Es war keine Frage.
+„Sie heißt Marlene“, sagte er. Es war keine Frage.
 
-„Ja."
+„Ja.“
 
-„Gut." Er nahm die Hand weg. „Dann sag ihr das mit dem Beirat. Nicht die
-Kurzfassung. Alles."
+„Gut.“ Er nahm die Hand weg. „Dann sag ihr das mit dem Beirat. Nicht die
+Kurzfassung. Alles.“
 
-„Warum?"
+„Warum?“
 
 Theo war schon zwei Schritte weiter, drehte sich aber noch einmal um, und
 zum ersten Mal sah er nicht aus wie mein Architekt, sondern wie mein
 kleiner Bruder mit einunddreißig.
 
 „Weil ich seit vier Monaten mit jemandem verheiratet bin, dem ich es
-nicht gesagt habe", sagte er. „Und weil das jeden Tag schlimmer wird."
+nicht gesagt habe“, sagte er. „Und weil das jeden Tag schlimmer wird.“
 
 Und dann ging er.
 
@@ -1990,10 +1990,10 @@ klopfte.
 Sie machte auf, mit einer Teigkarte in der Hand und Mehl bis zum
 Ellenbogen.
 
-„Ich backe", sagte sie. „Donnerstag ist Vorbereitung. Sie können reden,
-aber ich höre nicht auf."
+„Ich backe“, sagte sie. „Donnerstag ist Vorbereitung. Sie können reden,
+aber ich höre nicht auf.“
 
-„Gut."
+„Gut.“
 
 Ich zog den Mantel aus, hängte ihn über einen Stuhl und setzte mich auf
 den Hocker neben ihren Arbeitstisch, und dann erzählte ich ihr alles.
@@ -2006,34 +2006,34 @@ strich mit dem Handrücken über die Stirn und hinterließ dort Mehl.
 
 Als ich fertig war, hörte sie auf.
 
-„Sie haben denen gesagt, dass Sie mich kennen."
+„Sie haben denen gesagt, dass Sie mich kennen.“
 
-„Ja."
+„Ja.“
 
-„Warum?"
+„Warum?“
 
-„Weil es sonst irgendwann jemand anderes gesagt hätte." Ich sah auf meine
+„Weil es sonst irgendwann jemand anderes gesagt hätte.“ Ich sah auf meine
 Hände. „Und weil Dinge, die man selbst sagt, kleiner sind als Dinge, die
-gefunden werden."
+gefunden werden.“
 
 Sie stand ganz still.
 
 Ich habe damals gedacht, dass sie über den Beirat nachdenkt.
 
-„Ja", sagte sie leise. „Das stimmt vermutlich."
+„Ja“, sagte sie leise. „Das stimmt vermutlich.“
 
 ---
 
 Sie schob mir eine Schüssel hin.
 
-„Was ist das?"
+„Was ist das?“
 
 „Butter und Mehl. Sie reiben es zwischen den Fingern, bis es aussieht wie
-Sand. Nicht kneten. Reiben."
+Sand. Nicht kneten. Reiben.“
 
-„Ich kann nicht backen."
+„Ich kann nicht backen.“
 
-„Sie können auch keine Tische abwischen und haben es trotzdem gemacht."
+„Sie können auch keine Tische abwischen und haben es trotzdem gemacht.“
 
 Ich zog das Jackett aus und krempelte die Ärmel hoch, und dann saß der
 Geschäftsführer der Reinhardt Immobilien GmbH um halb neun abends in
@@ -2042,25 +2042,25 @@ einem Café in der Speicherstadt und rieb Butter in Mehl.
 Es dauerte lange. Es tat den Fingern weh. Es war das Entspannendste, was
 ich seit Jahren gemacht hatte.
 
-„Sie machen das zu vorsichtig", sagte sie irgendwann und griff in die
+„Sie machen das zu vorsichtig“, sagte sie irgendwann und griff in die
 Schüssel und zeigte es mir, und dabei berührten ihre Finger meine, und wir
 hörten beide nicht auf.
 
 Es waren vielleicht drei Sekunden.
 
 Dann zog sie die Hand zurück, sehr ruhig, und sagte: „So. Sehen Sie? Wie
-Sand."
+Sand.“
 
-„Wie Sand", sagte ich.
+„Wie Sand“, sagte ich.
 
 Und über uns, im ersten Stock, ging jemand durch das Zimmer.
 
 Sie erstarrte nicht. Das war das Neue. Sie sah kurz zur Decke und dann
 wieder in die Schüssel, und ihre Hand zitterte ein bisschen.
 
-„Marlene."
+„Marlene.“
 
-„Nicht heute", sagte sie. „Bitte."
+„Nicht heute“, sagte sie. „Bitte.“
 
 Ich sagte nichts mehr.
 
@@ -2105,13 +2105,13 @@ Ich hatte das Café offen gelassen und Kinderpunsch verkauft, und um sieben
 war der Zug vorbei und die Gasse leer und ich stand mit Emil auf dem Arm
 vor der Tür und sah den letzten Laternen nach.
 
-„Frau Voss?"
+„Frau Voss?“
 
 Eine Frau Anfang sechzig, mit einem Stock, und neben ihr —
 
-„Mama", sagte Jonas. „Das ist —"
+„Mama“, sagte Jonas. „Das ist —“
 
-„Marlene", sagte die Frau. „Ja. Ich weiß."
+„Marlene“, sagte die Frau. „Ja. Ich weiß.“
 
 Und dann sah sie Emil an.
 
@@ -2121,31 +2121,31 @@ Ich habe in meinem Leben ein paar Sekunden erlebt, die länger dauerten,
 als die Uhr zulässt. Das war eine davon.
 
 Sie sah Emil an. Emil sah sie an, mit dieser ernsten Musterung, die er
-Fremden gegenüber macht. Und Jonas' Mutter — Renate Reinhardt, wie ich
+Fremden gegenüber macht. Und Jonas’ Mutter — Renate Reinhardt, wie ich
 später erfuhr — stand da, die linke Hand am Stock, und ihr Gesicht
 veränderte sich überhaupt nicht.
 
 Das war das Beeindruckendste, was ich je gesehen habe.
 
-„Wie heißt du denn?", fragte sie.
+„Wie heißt du denn?“, fragte sie.
 
-„Emil", sagte ich, weil Emil es nicht sagt.
+„Emil“, sagte ich, weil Emil es nicht sagt.
 
-„Emil." Sie nickte. „Ein guter Name. Mein Vater hieß so."
+„Emil.“ Sie nickte. „Ein guter Name. Mein Vater hieß so.“
 
 Ich sah Jonas an. Er sah seine Mutter an. Und ich sah, dass er es nicht
 wusste — dass er den Namen seines Großvaters nicht mit einem Kind
 verband, das seine Mutter zum ersten Mal sieht.
 
-„Wir wollten nur schnell hallo sagen", sagte er. „Ich fahre Mama nach
-Hause."
+„Wir wollten nur schnell hallo sagen“, sagte er. „Ich fahre Mama nach
+Hause.“
 
-„Ich wollte", sagte Renate Reinhardt, „das Café sehen, von dem mein Sohn
-seit sechs Wochen redet."
+„Ich wollte“, sagte Renate Reinhardt, „das Café sehen, von dem mein Sohn
+seit sechs Wochen redet.“
 
-„Mama."
+„Mama.“
 
-„Was?" Sie sah ihn an. „Soll ich lügen?"
+„Was?“ Sie sah ihn an. „Soll ich lügen?“
 
 ---
 
@@ -2162,26 +2162,26 @@ nach Emils Vater.
 
 Und irgendwann, als Jonas draußen war, um den Wagen zu holen, sagte sie:
 
-„Er war vierundzwanzig, als sein Vater starb."
+„Er war vierundzwanzig, als sein Vater starb.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Er hat drei Tage nicht geweint und dann die Firma übernommen." Sie sah
+„Er hat drei Tage nicht geweint und dann die Firma übernommen.“ Sie sah
 in ihre Tasse. „Ich war damals nicht in der Lage, ihm zu helfen. Und
 danach war es zu spät, weil er es allein konnte. Wissen Sie, was das
 Schlimmste ist, was man einem Menschen antun kann? Ihn allein
-zurechtkommen lassen, bis er es sich abgewöhnt hat, jemanden zu brauchen."
+zurechtkommen lassen, bis er es sich abgewöhnt hat, jemanden zu brauchen.“
 
 Ich hielt Emil fester.
 
-„Ich habe im Krankenhaus gelegen", sagte sie, „und er hat sechs Wochen
+„Ich habe im Krankenhaus gelegen“, sagte sie, „und er hat sechs Wochen
 lang jeden Abend an meinem Bett gesessen und Akten gelesen. Sechs Wochen,
-Frau Voss. Er hat in der Zeit sein eigenes Leben nicht angefasst."
+Frau Voss. Er hat in der Zeit sein eigenes Leben nicht angefasst.“
 
 Sie sah auf.
 
 „Er hat es nur nie jemandem erzählt. Er erzählt so etwas nicht. Er
-erklärt es, wenn man ihn zwingt, und es klingt dann wie eine Ausrede."
+erklärt es, wenn man ihn zwingt, und es klingt dann wie eine Ausrede.“
 
 *Es gab damals eine Situation in der Familie.*
 
@@ -2195,7 +2195,7 @@ An der Tür drehte Renate Reinhardt sich noch einmal um und sagte, zu mir,
 sehr freundlich und völlig unmissverständlich:
 
 „Er ist ein guter Mensch, mein Sohn. Aber er ist es gewohnt, dass man ihm
-Dinge nicht sagt. Machen Sie das nicht auch."
+Dinge nicht sagt. Machen Sie das nicht auch.“
 
 Dann gingen sie.
 
@@ -2227,19 +2227,19 @@ Großbuchstaben, weil man das nachts um elf am Küchentisch macht:
 
 Am Montag rief ich ihn an.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Können Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft."
+„Können Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft.“
 
 Am anderen Ende war es einen Moment still, und in dieser Stille lag alles,
 weil ich zum ersten Mal Emils Namen gesagt hatte, ohne dass er gefragt
 hatte.
 
-„Ja", sagte Jonas.
+„Ja“, sagte Jonas.
 
-„Es dauert länger."
+„Es dauert länger.“
 
-„Ich habe Zeit."
+„Ich habe Zeit.“
 
 Ich legte auf, ging in den Backraum und machte den Ofen an, obwohl ich
 nichts zu backen hatte.
@@ -2263,14 +2263,14 @@ Diagnose nicht ansieht, solange der Umschlag zu ist.
 Sie öffnete. Sie hatte die Schürze abgenommen. Das fiel mir auf, weil sie
 sie sonst nie abnimmt.
 
-„Er schläft", sagte sie.
+„Er schläft“, sagte sie.
 
-„Gut."
+„Gut.“
 
 Wir standen im dunklen Café, nur die Lampe über dem Tresen an, und
 draußen ging jemand mit einem Hund vorbei.
 
-„Setzen wir uns", sagte sie.
+„Setzen wir uns“, sagte sie.
 
 ---
 
@@ -2280,12 +2280,12 @@ Umschlag.
 
 Sie legte die Hand darauf, nahm sie aber nicht weg.
 
-„Ich fange nicht mit dem Anfang an", sagte sie. „Wenn ich mit dem Anfang
-anfange, rede ich mich raus. Also fange ich mit dem an, was zählt."
+„Ich fange nicht mit dem Anfang an“, sagte sie. „Wenn ich mit dem Anfang
+anfange, rede ich mich raus. Also fange ich mit dem an, was zählt.“
 
 Ich sagte nichts.
 
-„Emil ist deiner."
+„Emil ist deiner.“
 
 ---
 
@@ -2297,20 +2297,20 @@ Nichts fällt um, niemand schreit, das Licht ändert sich nicht. In der
 anderen Hälfte hat sich das ganze Leben umsortiert und man weiß noch
 nicht, in welcher Reihenfolge es jetzt liegt.
 
-„Wie alt", sagte ich schließlich.
+„Wie alt“, sagte ich schließlich.
 
-„Achtzehn Monate. Am achten Mai wird er zwei."
+„Achtzehn Monate. Am achten Mai wird er zwei.“
 
 Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
 gestimmt hatte.
 
-„Travemünde."
+„Travemünde.“
 
-„Ja."
+„Ja.“
 
 Ich sah auf das Album mit den Sonnenblumen.
 
-„Darf ich?"
+„Darf ich?“
 
 Sie schob es zu mir.
 
@@ -2330,60 +2330,60 @@ gesessen und über Entwässerung geredet hatte.
 
 Ich blätterte langsam. Ich wollte es nicht schnell machen.
 
-„Der achte Mai", sagte ich irgendwann.
+„Der achte Mai“, sagte ich irgendwann.
 
-„Ja."
+„Ja.“
 
-„Da war ich in Zürich." Ich hörte selbst, wie sinnlos das war. „Ich weiß
-nicht, warum ich das sage."
+„Da war ich in Zürich.“ Ich hörte selbst, wie sinnlos das war. „Ich weiß
+nicht, warum ich das sage.“
 
-„Weil man in solchen Momenten irgendwas sagt", sagte sie.
+„Weil man in solchen Momenten irgendwas sagt“, sagte sie.
 
 ---
 
 Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
 ohne dass ich fragen musste.
 
-„Ich habe es dir sagen wollen", sagte sie. „Im Juni, im Juli, im Juli
-noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief."
+„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
+noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
 
-„Was stand wirklich drin?"
+„Was stand wirklich drin?“
 
-„Dass ich schwanger bin." Sie sah auf den Tisch. „Nicht in den ersten
+„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
 zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
-dazu durchzuringen."
+dazu durchzuringen.“
 
 Ich schloss die Augen.
 
-„Und dann?"
+„Und dann?“
 
 „Dann kam keine Antwort. Und im November war ein Foto in der Zeitung, du
-mit einer Frau in Grün. Und dann —" Sie brach ab.
+mit einer Frau in Grün. Und dann —“ Sie brach ab.
 
-„Und dann?"
+„Und dann?“
 
 „Und dann war da noch etwas, und das ist der Teil, bei dem ich schlecht
-dastehe." Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
+dastehe.“ Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
 dich gefragt, ob du Kinder willst. Und du hast gesagt: *Nein. Nicht
-solange* — und dann hast du den Satz nicht zu Ende gesagt."
+solange* — und dann hast du den Satz nicht zu Ende gesagt.“
 
 Ich sah sie an.
 
 Ich hatte an diesen Satz nicht ein einziges Mal gedacht. Nicht in zwei
 Jahren.
 
-„Ich habe das *Nein* behalten", sagte sie. „Zwei Jahre lang. Jedes Mal,
-wenn ich es noch mal hätte versuchen können, war da dieses Nein."
+„Ich habe das *Nein* behalten“, sagte sie. „Zwei Jahre lang. Jedes Mal,
+wenn ich es noch mal hätte versuchen können, war da dieses Nein.“
 
-„Nicht solange die Firma so an mir hängt", sagte ich.
+„Nicht solange die Firma so an mir hängt“, sagte ich.
 
 Sie sah mich an.
 
-„Das war der Rest vom Satz", sagte ich. „*Nicht solange die Firma so an
+„Das war der Rest vom Satz“, sagte ich. „*Nicht solange die Firma so an
 mir hängt, dass ich nicht mal einen Sonntag habe.* Ich weiß es noch, weil
-ich es schon oft gedacht hatte." Ich hörte, wie meine Stimme nicht ganz
+ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
 richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
-Nein zu meinem Leben, so wie es damals war."
+Nein zu meinem Leben, so wie es damals war.“
 
 ---
 
@@ -2393,16 +2393,16 @@ und ohne das Gesicht zu verziehen.
 Ich stand auf, ging um den Tisch herum und hockte mich neben ihren Stuhl,
 und ich fasste sie nicht an, weil ich nicht wusste, ob ich das darf.
 
-„Ich hätte es trotzdem sagen müssen", sagte sie. „Auch mit dem Nein. Auch
+„Ich hätte es trotzdem sagen müssen“, sagte sie. „Auch mit dem Nein. Auch
 mit dem Foto. Ich hätte hinfahren können. Ich hätte in dein Büro gehen
 und im Foyer warten können, bis du rauskommst. Das habe ich nicht
-gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte."
+gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte.“
 
-„Welche?"
+„Welche?“
 
-„Dass ich Angst hatte, du sagst, du willst ihn nicht." Sie wischte sich
+„Dass ich Angst hatte, du sagst, du willst ihn nicht.“ Sie wischte sich
 mit dem Handrücken übers Gesicht. „Und solange ich nicht gefragt habe,
-konnte ich mir vorstellen, dass du ihn gewollt hättest."
+konnte ich mir vorstellen, dass du ihn gewollt hättest.“
 
 ---
 
@@ -2422,21 +2422,21 @@ Vierzig Bilder. Ultraschall, Mütze, Schnee, Löffel. Zwei Jahre, in denen
 niemand da war, um das zweite Foto zu machen, weil sie beide Rollen
 hatte.
 
-„Marlene."
+„Marlene.“
 
 Sie sah nicht auf.
 
-„Sieh mich bitte an."
+„Sieh mich bitte an.“
 
 Sie sah auf.
 
-„Ich bin nicht wütend", sagte ich. „Ich werde es vielleicht morgen sein,
+„Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein,
 oder nächste Woche, und dann sage ich es dir. Aber jetzt gerade sitze ich
-hier und denke die ganze Zeit nur einen einzigen Satz."
+hier und denke die ganze Zeit nur einen einzigen Satz.“
 
-„Welchen?"
+„Welchen?“
 
-„Dass du das zwei Jahre lang allein gemacht hast."
+„Dass du das zwei Jahre lang allein gemacht hast.“
 
 ---
 
@@ -2449,20 +2449,20 @@ Irgendwann, als es vorbei war, saßen wir nebeneinander auf zwei Stühlen
 in einem dunklen Café, und sie hatte mein Hemd nass gemacht, und ich
 merkte, dass ich immer noch das Album in der Hand hielt.
 
-„Was jetzt?", sagte sie.
+„Was jetzt?“, sagte sie.
 
-„Darf ich ihn sehen?"
+„Darf ich ihn sehen?“
 
 Sie zögerte nicht einmal eine Sekunde.
 
-„Er schläft."
+„Er schläft.“
 
-„Ich weiß."
+„Ich weiß.“
 
 Sie stand auf und nahm meine Hand, und wir gingen die Treppe hoch, und
-die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte."
+die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte.“
 
-„Die vierte", wiederholte ich.
+„Die vierte“, wiederholte ich.
 
 Und dann standen wir in einem Kinderzimmer, in dem ein Nachtlicht in Form
 eines Pilzes brannte, und in einem Gitterbett lag ein Kind auf dem Bauch,
@@ -2470,9 +2470,9 @@ mit dem Hintern in der Luft, so wie kleine Kinder liegen, und atmete.
 
 Ich stand da und sah ihn an und konnte nicht aufhören.
 
-„Er hat deine Stirn", flüsterte sie.
+„Er hat deine Stirn“, flüsterte sie.
 
-„Er hat deine Hände", sagte ich.
+„Er hat deine Hände“, sagte ich.
 
 Und dann heulte ich, zum ersten Mal seit dem Tod meines Vaters, im
 Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.
@@ -2493,18 +2493,18 @@ diesem Morgen, das mir wehtat.
 
 Ich schloss auf.
 
-„Ich wusste nicht, was man mitbringt", sagte er.
+„Ich wusste nicht, was man mitbringt“, sagte er.
 
-„Zu was?"
+„Zu was?“
 
-„Das ist die Frage." Er blieb auf der Matte stehen und sah an sich
+„Das ist die Frage.“ Er blieb auf der Matte stehen und sah an sich
 herunter. „Ich habe eine Stunde im Auto gesessen und überlegt, ob es
 angemessen ist, um sieben zu klingeln. Dann ist mir eingefallen, dass ich
-nicht weiß, wann er aufwacht."
+nicht weiß, wann er aufwacht.“
 
-„Halb sieben."
+„Halb sieben.“
 
-„Halb sieben", wiederholte er, so wie er am Abend zuvor *die vierte*
+„Halb sieben“, wiederholte er, so wie er am Abend zuvor *die vierte*
 wiederholt hatte.
 
 Ich habe später verstanden, dass er sich Dinge merkte. Nicht, weil er
@@ -2524,9 +2524,9 @@ Ich habe in meinem Leben zwei Menschen gesehen, die vor meinem Sohn
 Angst hatten. Der eine war ein Mann von der Versicherung. Der andere war
 sein Vater.
 
-„Er beißt nicht", sagte ich.
+„Er beißt nicht“, sagte ich.
 
-„Das beruhigt mich nur bedingt."
+„Das beruhigt mich nur bedingt.“
 
 Er ging in die Hocke, zwei Meter vom Hochstuhl entfernt, in einem Anzug,
 der so viel gekostet hat wie meine Kühltheke, und sagte nichts.
@@ -2535,7 +2535,7 @@ Emil sah ihn an. Diese ernste Musterung, die er bei Fremden macht.
 
 Dann streckte er den Arm aus, in der Faust ein Stück Banane, und sagte:
 
-„Da."
+„Da.“
 
 Jonas nahm es.
 
@@ -2543,18 +2543,18 @@ Er nahm ein zerdrücktes Stück Banane aus der Hand eines
 achtzehn Monate alten Kindes und hielt es fest, als wäre es ein Dokument,
 und dann sagte er, mit einer Stimme, die nicht ganz gerade war:
 
-„Danke."
+„Danke.“
 
-„Er gibt einem Sachen", sagte ich. „Steine, meistens. Man muss sie
-nehmen, sonst hält er den Arm ausgestreckt, bis der Arm wehtut."
+„Er gibt einem Sachen“, sagte ich. „Steine, meistens. Man muss sie
+nehmen, sonst hält er den Arm ausgestreckt, bis der Arm wehtut.“
 
-„Wie lange macht er das schon?"
+„Wie lange macht er das schon?“
 
-„Seit dem Sommer."
+„Seit dem Sommer.“
 
 Er sah das Stück Banane in seiner Hand an.
 
-„Seit dem Sommer", sagte er.
+„Seit dem Sommer“, sagte er.
 
 ---
 
@@ -2573,9 +2573,9 @@ Emil warf ihn wieder runter.
 
 Jonas hob ihn wieder auf.
 
-Beim vierten Mal sah er mich an. „Ist das ein Spiel?"
+Beim vierten Mal sah er mich an. „Ist das ein Spiel?“
 
-„Das ist ein Naturgesetz."
+„Das ist ein Naturgesetz.“
 
 Und dann lachte er. Richtig, laut, mit dem Kopf im Nacken, so wie Leute
 lachen, die es lange nicht gemacht haben und dann feststellen, dass es
@@ -2583,10 +2583,10 @@ noch geht.
 
 Emil erschrak und fing an zu weinen.
 
-„Oh Gott", sagte Jonas. „Entschuldigung. Entschuldige. Ich —"
+„Oh Gott“, sagte Jonas. „Entschuldigung. Entschuldige. Ich —“
 
-„Es ist gut." Ich nahm Emil raus. „Er kennt das nicht. In diesem Haus
-lacht nachts niemand so."
+„Es ist gut.“ Ich nahm Emil raus. „Er kennt das nicht. In diesem Haus
+lacht nachts niemand so.“
 
 Das war als Scherz gemeint und kam nicht so an, bei keinem von uns
 beiden.
@@ -2596,11 +2596,11 @@ beiden.
 Frau Kettler kam um Viertel nach acht und blieb in der Tür stehen, so
 wie sie im Oktober in der Tür stehen geblieben war.
 
-Sie sah Jonas an. Sie sah Emil an, der auf Jonas' Knie saß, weil er
+Sie sah Jonas an. Sie sah Emil an, der auf Jonas’ Knie saß, weil er
 irgendwann selbst hochgeklettert war, was ich nicht kommentiert habe,
 weil ich Angst hatte, dass es dann aufhört.
 
-„Na also", sagte sie.
+„Na also“, sagte sie.
 
 Mehr nicht. Sie hängte ihren Mantel auf und ging in den Backraum und
 machte den Ofen an, und ich hörte, wie sie drinnen etwas vor sich hin
@@ -2608,24 +2608,24 @@ sagte, das ich nicht verstand.
 
 Später, als er weg war, fragte ich sie danach.
 
-„Ich habe gesagt: *endlich*", sagte sie. Sie legte die Teigkarte weg.
+„Ich habe gesagt: *endlich*“, sagte sie. Sie legte die Teigkarte weg.
 „Und dann habe ich gedacht, dass es jetzt erst losgeht, und das habe ich
-lieber nicht laut gesagt."
+lieber nicht laut gesagt.“
 
-„Was geht jetzt erst los?"
+„Was geht jetzt erst los?“
 
 Frau Kettler ist einundsechzig und hat drei eigene Kinder großgezogen
 und neun fremde, und sie sagte:
 
 „Er ist ein Mann, der Dinge in Ordnung bringt. Das haben Sie doch
-gesehen. Das Dach, die Anrufliste, der Beirat." Sie strich Mehl vom
+gesehen. Das Dach, die Anrufliste, der Beirat.“ Sie strich Mehl vom
 Tisch. „So einer sitzt nicht lange auf einem Küchenstuhl und lässt sich
-Bananen geben. Der steht irgendwann auf und fängt an zu regeln."
+Bananen geben. Der steht irgendwann auf und fängt an zu regeln.“
 
-„Und das ist schlecht?"
+„Und das ist schlecht?“
 
-„Das ist nicht schlecht." Sie sah mich an. „Es fühlt sich nur von außen
-genauso an wie *wegnehmen*."
+„Das ist nicht schlecht.“ Sie sah mich an. „Es fühlt sich nur von außen
+genauso an wie *wegnehmen*.“
 
 ---
 
@@ -2638,25 +2638,25 @@ grüner Anorak, Größe M, seit zwei Jahren nicht abgeholt.
 
 Er sah lächerlich aus. Er hat es nicht gemerkt.
 
-„Marlene", sagte er.
+„Marlene“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Ich möchte das richtig machen."
+„Ich möchte das richtig machen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Nein." Er suchte nach Worten, und ich sah, wie er in den Modus rutschte,
+„Nein.“ Er suchte nach Worten, und ich sah, wie er in den Modus rutschte,
 in dem er vermutlich in Besprechungen ist. „Ich meine: Es gibt Dinge, die
 müssen jetzt geregelt werden. Damit er abgesichert ist. Falls mir etwas
 passiert, steht er heute nirgends. Er hat keinen Anspruch auf
 irgendetwas. Das ist ein Zustand, den ich nicht eine Woche länger
-akzeptiere."
+akzeptiere.“
 
-„Jonas —"
+„Jonas —“
 
-„Ich rufe Niklas an", sagte er. „Mein Bruder. Der macht das Rechtliche
-für die Firma. Er setzt so etwas in zwei Tagen auf."
+„Ich rufe Niklas an“, sagte er. „Mein Bruder. Der macht das Rechtliche
+für die Firma. Er setzt so etwas in zwei Tagen auf.“
 
 Und da war es.
 
@@ -2670,9 +2670,9 @@ Vorgang machte.
 Ich weiß, dass er es gut meinte. Ich wusste es schon in dieser Sekunde.
 Das ist ja das Ding: Ich wusste es die ganze Zeit.
 
-„Sag mal was", sagte er.
+„Sag mal was“, sagte er.
 
-Ich sagte: „Fahr vorsichtig. Es ist glatt."
+Ich sagte: „Fahr vorsichtig. Es ist glatt.“
 
 Er küsste mich auf die Stirn — das erste Mal, dass er mich überhaupt so
 angefasst hat — und ging zum Wagen, und bevor er die Tür zumachte, hatte
@@ -2701,70 +2701,70 @@ unsere Mutter. Er stellte eine Flasche vor mich hin, setzte sich auf die
 Kante des Besprechungstisches und sagte:
 
 „Sag es noch mal. Am Telefon klang es nach einem Scherz, und du machst
-keine."
+keine.“
 
-„Ich habe einen Sohn."
+„Ich habe einen Sohn.“
 
-„Wie alt?"
+„Wie alt?“
 
-„Achtzehn Monate."
+„Achtzehn Monate.“
 
 Er nickte langsam, trank, sah aus dem Fenster auf den Hafen.
 
-„Travemünde", sagte er.
+„Travemünde“, sagte er.
 
 Ich sah ihn an.
 
-„Du warst danach vier Wochen komisch", sagte mein Bruder. „Theo hat es
-für die Bilanz gehalten. Ich nicht."
+„Du warst danach vier Wochen komisch“, sagte mein Bruder. „Theo hat es
+für die Bilanz gehalten. Ich nicht.“
 
 ---
 
 Er hatte eine Mappe dabei. Natürlich hatte er eine Mappe dabei.
 
-„Das Gute zuerst", sagte er und legte sie auf den Tisch. „Rechtlich ist
+„Das Gute zuerst“, sagte er und legte sie auf den Tisch. „Rechtlich ist
 das nicht kompliziert. Ihr seid nicht verheiratet, also ist die Mutter
 allein sorgeberechtigt. Du bist juristisch niemand. Kein Vater, kein
 Verwandter, nichts. Auf dem Papier existiert deine Verbindung zu diesem
-Kind nicht."
+Kind nicht.“
 
-„Das ist das Gute?"
+„Das ist das Gute?“
 
-„Das Gute ist, wie einfach es geht." Er zog ein Blatt heraus. „Vaterschaft
+„Das Gute ist, wie einfach es geht.“ Er zog ein Blatt heraus. „Vaterschaft
 anerkennen. Beim Jugendamt, beim Standesamt oder beim Notar. Kostet beim
 Jugendamt nichts, dauert zwanzig Minuten. Einzige Bedingung: Sie muss
-zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam."
+zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam.“
 
-„Und der Test?"
+„Und der Test?“
 
-Niklas sah hoch. „Welcher Test?"
+Niklas sah hoch. „Welcher Test?“
 
-„Ein Vaterschaftstest."
+„Ein Vaterschaftstest.“
 
-„Wozu?"
+„Wozu?“
 
-„Damit es feststeht."
+„Damit es feststeht.“
 
 Mein Bruder stellte die Flasche ab.
 
-„Jonas. Zweifelst du?"
+„Jonas. Zweifelst du?“
 
-„Nein."
+„Nein.“
 
-„Dann brauchst du keinen Test." Er sagte es freundlich, und genau das war
+„Dann brauchst du keinen Test.“ Er sagte es freundlich, und genau das war
 das Unangenehme daran. „Ein Test ist für Fälle, in denen jemand
-bestreitet. Bestreitet hier jemand?"
+bestreitet. Bestreitet hier jemand?“
 
-„Nein."
+„Nein.“
 
-„Also."
+„Also.“
 
 Ich stand auf und ging zum Fenster, weil ich das immer mache, wenn ich
 gleich etwas sage, das ich vorher nicht geprüft habe.
 
-„Ich möchte trotzdem eins haben, das man vorlegen kann."
+„Ich möchte trotzdem eins haben, das man vorlegen kann.“
 
-„Wem vorlegen?"
+„Wem vorlegen?“
 
 Darauf hatte ich keine Antwort, die gut geklungen hätte. Dem Beirat, der
 irgendwann fragen wird, warum in meinem Testament ein Name steht, den
@@ -2773,9 +2773,9 @@ etwas passiert, was ich mir nicht ausmalen wollte und trotzdem ausgemalt
 hatte, um zwei Uhr nachts, in einer Reihenfolge, die ich niemandem
 erzählt habe.
 
-„Der Ordnung halber", sagte ich.
+„Der Ordnung halber“, sagte ich.
 
-„Der Ordnung halber", wiederholte Niklas.
+„Der Ordnung halber“, wiederholte Niklas.
 
 ---
 
@@ -2784,7 +2784,7 @@ jedem Blatt fühlte ich mich besser, und ich hätte an dieser Stelle merken
 müssen, was das über mich sagt.
 
 Unterhalt: Düsseldorfer Tabelle, oberste Einkommensgruppe, dazu ein
-freiwilliger Aufstockungsbetrag, den er für „darstellbar" hielt.
+freiwilliger Aufstockungsbetrag, den er für „darstellbar“ hielt.
 
 Sorgerecht: gemeinsame Sorgeerklärung, ebenfalls beim Jugendamt,
 ebenfalls nur mit ihrer Zustimmung.
@@ -2796,13 +2796,13 @@ Erbfolge: ein Vermerk, dass mein Testament geändert werden muss, weil
 darin drei Brüder stehen und kein Kind.
 
 Und ganz hinten, weil mein Bruder gründlich ist, ein Blatt zu dem, was er
-„Interessenkonflikt" nannte: Die Kindesmutter ist Eigentümerin eines
+„Interessenkonflikt“ nannte: Die Kindesmutter ist Eigentümerin eines
 Objekts, das die Firma erwerben wollte. Empfehlung, das offenzulegen.
 
-„Das habe ich schon", sagte ich.
+„Das habe ich schon“, sagte ich.
 
-„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt." Er
-zuckte mit den Schultern. „Das ist Hamburg."
+„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt.“ Er
+zuckte mit den Schultern. „Das ist Hamburg.“
 
 ---
 
@@ -2810,49 +2810,49 @@ Ich packte die Blätter zusammen, und dabei sagte Niklas den Satz, wegen
 dem ich diesen Abend nie vergessen werde.
 
 „Willst du wissen, was ich denke, oder willst du, dass ich das nur
-aufsetze?"
+aufsetze?“
 
-„Sag es."
+„Sag es.“
 
-„Du hast gestern erfahren, dass du ein Kind hast." Er klopfte mit dem
+„Du hast gestern erfahren, dass du ein Kind hast.“ Er klopfte mit dem
 Finger auf die Mappe. „Und heute Abend liegt hier ein Aktenordner. Das
 ist schnell, Jonas. Das ist so schnell, dass es keine Reaktion mehr ist.
-Das ist eine Flucht."
+Das ist eine Flucht.“
 
-„Ich sichere ihn ab."
+„Ich sichere ihn ab.“
 
-„Du sicherst *dich* ab." Er stand auf. „Absichern heißt: Wenn es schief
+„Du sicherst *dich* ab.“ Er stand auf. „Absichern heißt: Wenn es schief
 geht, habe ich alles richtig gemacht. Das ist ein Satz für
-Aufsichtsräte. Für ein Kind ist das kein Satz."
+Aufsichtsräte. Für ein Kind ist das kein Satz.“
 
-„Was soll ich denn machen? Nichts?"
+„Was soll ich denn machen? Nichts?“
 
-„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben."
+„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben.“
 
 Ich lachte, und es klang nicht gut. „Zwei Wochen lang steht mein Sohn
-nirgends."
+nirgends.“
 
-„Er steht seit achtzehn Monaten nirgends", sagte Niklas, „und er hat es
+„Er steht seit achtzehn Monaten nirgends“, sagte Niklas, „und er hat es
 überlebt, weil eine Frau ihn getragen hat, die du bis vorgestern nicht
-gefragt hast."
+gefragt hast.“
 
 Es war das Härteste, was mein Bruder je zu mir gesagt hat.
 
 Er merkte es selbst. Er blieb an der Tür stehen.
 
-„Entschuldige."
+„Entschuldige.“
 
-„Nein", sagte ich. „Schon gut."
+„Nein“, sagte ich. „Schon gut.“
 
-„Ich mach dir das alles fertig", sagte er. „Bis Montag. Ich sag nur:
+„Ich mach dir das alles fertig“, sagte er. „Bis Montag. Ich sag nur:
 Wenn du ihr diese Mappe hinlegst, dann liest sie darin etwas anderes,
-als du hineingeschrieben hast."
+als du hineingeschrieben hast.“
 
-„Was denn?"
+„Was denn?“
 
 Niklas machte die Tür auf.
 
-„Frag mich das noch mal, wenn du es weißt."
+„Frag mich das noch mal, wenn du es weißt.“
 
 ---
 
@@ -2887,9 +2887,9 @@ gekannt hatte, weil es keins für einen Kunden war.
 
 Ich ging hinein. Es roch nach Butter und nassem Stein.
 
-„Du bist früh", sagte sie.
+„Du bist früh“, sagte sie.
 
-„Ich habe etwas mitgebracht."
+„Ich habe etwas mitgebracht.“
 
 Und dann legte ich, in demselben Café, an demselben Fenstertisch, mit
 derselben Handbewegung, mit der ich im Oktober die Anruferliste
@@ -2915,7 +2915,7 @@ Dann las ich das Etikett.
 
 **REINHARDT / VOSS — PERSÖNLICH**
 
-„Setz dich", sagte ich. „Ich mach uns Kaffee."
+„Setz dich“, sagte ich. „Ich mach uns Kaffee.“
 
 Ich machte keinen Kaffee. Ich setzte Emil in den Laufstall hinter der
 Theke, wo er die Kaffeemühle nicht erreicht, und ich brauchte diese
@@ -2961,35 +2961,35 @@ Werktagen.
 Ich legte das Blatt auf den Tisch, mit der Schrift nach oben, und drehte
 es zu ihm.
 
-„Was ist das?"
+„Was ist das?“
 
-„Das ist —" Er sah es an. „Das gehört eigentlich nicht rein."
+„Das ist —“ Er sah es an. „Das gehört eigentlich nicht rein.“
 
-„Es ist aber drin."
+„Es ist aber drin.“
 
-„Marlene." Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
-brauche. Ich habe darauf bestanden."
+„Marlene.“ Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
+brauche. Ich habe darauf bestanden.“
 
-„Warum?"
+„Warum?“
 
-„Der Ordnung halber."
+„Der Ordnung halber.“
 
 Ich habe in diesem Moment nichts gesagt, weil mir das Wort *Ordnung* die
 Sprache genommen hat.
 
-„Ich zweifle nicht", sagte er. „Keine Sekunde. Das ist nicht die Frage."
+„Ich zweifle nicht“, sagte er. „Keine Sekunde. Das ist nicht die Frage.“
 
-„Was ist dann die Frage?"
+„Was ist dann die Frage?“
 
-„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere." Er sah
+„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere.“ Er sah
 mich an, und er war völlig ehrlich, und das machte es schlimmer. „Es
 gibt drei Brüder und eine Firma und einen Beirat. Wenn mir morgen etwas
-passiert, sitzt dein Sohn —"
+passiert, sitzt dein Sohn —“
 
-„*Dein* Sohn."
+„*Dein* Sohn.“
 
 „— sitzt unser Sohn vor Leuten, die ihn nicht kennen, und muss beweisen,
-wer er ist. Ich will nicht, dass er das je muss."
+wer er ist. Ich will nicht, dass er das je muss.“
 
 ---
 
@@ -3008,60 +3008,60 @@ muss.
 Und trotzdem lag da ein Blatt, auf dem stand, dass mein Sohn zum Labor
 soll, damit man ihn vorzeigen kann.
 
-„Jonas", sagte ich. „Wie viele Stunden hast du bisher mit ihm
-verbracht?"
+„Jonas“, sagte ich. „Wie viele Stunden hast du bisher mit ihm
+verbracht?“
 
 Er sah auf.
 
-„Ich meine es nicht als Vorwurf. Ich frage wirklich."
+„Ich meine es nicht als Vorwurf. Ich frage wirklich.“
 
 Er dachte nach. Er ist ein ehrlicher Mensch, deshalb rechnete er es
 tatsächlich aus.
 
-„Zweieinhalb Stunden", sagte er. „Am Donnerstagmorgen."
+„Zweieinhalb Stunden“, sagte er. „Am Donnerstagmorgen.“
 
-„Zweieinhalb Stunden." Ich legte die Hand auf die Mappe. „Und
-sechsunddreißig Seiten."
+„Zweieinhalb Stunden.“ Ich legte die Hand auf die Mappe. „Und
+sechsunddreißig Seiten.“
 
 ---
 
 Er wurde nicht laut. Ich glaube, ich hätte es besser gefunden, wenn er
 laut geworden wäre.
 
-„Was hätte ich tun sollen?", sagte er.
+„Was hätte ich tun sollen?“, sagte er.
 
-„Herkommen. Dasitzen. Nichts unterschreiben."
+„Herkommen. Dasitzen. Nichts unterschreiben.“
 
 Er zuckte, als hätte ihn etwas getroffen, und viel später habe ich
 erfahren, dass sein Bruder ihm exakt diese drei Sätze gesagt hatte, in
 dieser Reihenfolge, drei Tage vorher.
 
-„Ich weiß nicht, wie man das macht", sagte er.
+„Ich weiß nicht, wie man das macht“, sagte er.
 
-„Was?"
+„Was?“
 
-„Dasitzen." Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
+„Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
 zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
 wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
 Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
-Listen zu machen. Das hier —" er zeigte auf die Mappe — „ist die
-liebevollste Sprache, die ich kann."
+Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
+liebevollste Sprache, die ich kann.“
 
 Ich weiß bis heute nicht, ob das der traurigste oder der ehrlichste
 Satz war, den ich je gehört habe.
 
-„Ich verstehe das", sagte ich. „Ich verstehe es wirklich. Und ich sage
-trotzdem nein."
+„Ich verstehe das“, sagte ich. „Ich verstehe es wirklich. Und ich sage
+trotzdem nein.“
 
-„Zu was?"
+„Zu was?“
 
-„Zu dem Test." Ich schob das Blatt zurück über den Tisch. „Zu allem
+„Zu dem Test.“ Ich schob das Blatt zurück über den Tisch. „Zu allem
 anderen sage ich vielleicht ja, nächste Woche, wenn ich es gelesen habe.
-Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist."
+Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist.“
 
 Er nahm das Blatt.
 
-„Und wenn ich darauf bestehe?"
+„Und wenn ich darauf bestehe?“
 
 Da war er, der Satz.
 
@@ -3072,16 +3072,16 @@ Aber gefragt hat er es.
 
 ---
 
-„Dann sage ich dir, was passiert", sagte ich sehr ruhig. „Nichts. Du
+„Dann sage ich dir, was passiert“, sagte ich sehr ruhig. „Nichts. Du
 kannst gar nichts. Du kannst mich verklagen, und dann steht in einer
 Akte, dass ein Mann mit vierhundert Angestellten eine Konditorin
 gezwungen hat, ihr Kind untersuchen zu lassen. Das ist die einzige Macht,
-die du hier hast, und du kennst den Preis."
+die du hier hast, und du kennst den Preis.“
 
-„Ich will dich nicht verklagen."
+„Ich will dich nicht verklagen.“
 
-„Ich weiß." Ich stand auf. „Deshalb frage ich mich, warum ich es dir
-gerade erklären musste."
+„Ich weiß.“ Ich stand auf. „Deshalb frage ich mich, warum ich es dir
+gerade erklären musste.“
 
 ---
 
@@ -3090,16 +3090,16 @@ Er ging um Viertel nach acht.
 An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
 und dass er es nicht fand, und dass ihm das selbst auffiel.
 
-„Ich habe es falsch gemacht", sagte er.
+„Ich habe es falsch gemacht“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Sag mir, wie es richtig geht."
+„Sag mir, wie es richtig geht.“
 
-„Nein." Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
+„Nein.“ Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
 willst die Anleitung. Es gibt keine Anleitung, Jonas. Es gibt nur einen
 Dienstagvormittag, an dem du Tische abwischt, und den hattest du schon
-mal."
+mal.“
 
 Er nickte langsam.
 
@@ -3118,7 +3118,7 @@ der Bank und dem Stein vom Elbstrand, und ich habe die Schublade
 zugeschoben, und Emil stand im Laufstall, hielt sich am Gitter fest und
 sah zur Tür.
 
-„Weg", sagte er.
+„Weg“, sagte er.
 
 Das war ein neues Wort.
 
@@ -3134,33 +3134,33 @@ weiß nicht, was ich sagen soll, und solange ich nichts sage, habe ich
 auch nichts Falsches gesagt.
 
 Am Montag kam Theo in mein Büro, sah mich an und sagte: „Du siehst aus
-wie neunzehn Neunundneunzig."
+wie neunzehn Neunundneunzig.“
 
-„Danke."
+„Danke.“
 
-„Neunzehn Neunundneunzig warst du drei Monate lang so." Er setzte sich
+„Neunzehn Neunundneunzig warst du drei Monate lang so.“ Er setzte sich
 auf die Tischkante, genau wie Niklas, was mich zu der Frage bringt, wozu
-ich eigentlich Stühle habe. „Was ist passiert?"
+ich eigentlich Stühle habe. „Was ist passiert?“
 
-„Ich habe ihr eine Mappe hingelegt."
+„Ich habe ihr eine Mappe hingelegt.“
 
 Mein Bruder schloss kurz die Augen.
 
-„Sechsunddreißig Seiten", sagte ich.
+„Sechsunddreißig Seiten“, sagte ich.
 
-„Jonas."
+„Jonas.“
 
-„Mit Register."
+„Mit Register.“
 
-„Herrgott." Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
+„Herrgott.“ Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
 habe eine Frau, von der meine Mutter nicht weiß, dass es sie gibt. Ich
 bin die letzte Instanz auf diesem Planeten, die dir Vorträge halten
-darf."
+darf.“
 
 An der Tür drehte er sich um.
 
 „Aber wenn du mich fragst: Geh hin, ohne Papier. Ganz ohne. Nicht mal
-einen Kugelschreiber."
+einen Kugelschreiber.“
 
 ---
 
@@ -3177,52 +3177,52 @@ zweiundzwanzig Cent Rückgeld schuldig blieb.
 Die Sachbearbeiterin hieß Frau Adamczyk und hatte drei Aktenstapel und
 einen Kaktus.
 
-„Sie sind der Vater."
+„Sie sind der Vater.“
 
-„Ja."
+„Ja.“
 
-„Sind Sie verheiratet mit der Mutter?"
+„Sind Sie verheiratet mit der Mutter?“
 
-„Nein."
+„Nein.“
 
-„Dann sind Sie erst mal gar nichts." Sie sagte es ohne jede Schärfe, so
+„Dann sind Sie erst mal gar nichts.“ Sie sagte es ohne jede Schärfe, so
 wie man sagt, dass draußen Regen ist. „Das Sorgerecht liegt bei der
 Mutter. Sie können die Vaterschaft anerkennen — hier bei uns, kostenlos,
-das beurkunde ich Ihnen. Dauert eine Viertelstunde."
+das beurkunde ich Ihnen. Dauert eine Viertelstunde.“
 
-„Und was brauche ich dafür?"
+„Und was brauche ich dafür?“
 
-„Ihren Ausweis."
+„Ihren Ausweis.“
 
 Ich wartete.
 
-„Und?"
+„Und?“
 
-„Und die Mutter", sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
+„Und die Mutter“, sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
 Zustimmung ist die Anerkennung unwirksam. Beim gemeinsamen Sorgerecht
-genauso — das geht nur, wenn beide es erklären."
+genauso — das geht nur, wenn beide es erklären.“
 
-„Und wenn sie nicht will?"
+„Und wenn sie nicht will?“
 
 Sie legte den Kugelschreiber hin.
 
 „Herr Reinhardt, das ist die Frage, die hier jeden Tag zwanzigmal
 gestellt wird, und ich beantworte sie jeden Tag zwanzigmal gleich: Dann
 haben Sie kein rechtliches Problem. Dann haben Sie ein Problem mit der
-Mutter." Sie schob mir ein Merkblatt hin. „Und das löst kein Amt."
+Mutter.“ Sie schob mir ein Merkblatt hin. „Und das löst kein Amt.“
 
 Ich sah auf das Merkblatt. Vier Seiten, geheftet, in einer Schrift, die
 seit den Neunzigern nicht gewechselt wurde.
 
-„Darf ich Sie etwas fragen?"
+„Darf ich Sie etwas fragen?“
 
-„Bitte."
+„Bitte.“
 
-„Was machen die Leute falsch, die hier scheitern?"
+„Was machen die Leute falsch, die hier scheitern?“
 
 Frau Adamczyk sah mich zum ersten Mal richtig an.
 
-„Sie kommen zu mir, bevor sie mit ihr geredet haben", sagte sie.
+„Sie kommen zu mir, bevor sie mit ihr geredet haben“, sagte sie.
 
 ---
 
@@ -3234,11 +3234,11 @@ an Tisch vier saßen vier Frauen mit einem Kinderwagen quer im Gang.
 
 Ich stellte mich in die Schlange.
 
-Als ich dran war, sagte ich: „Ich habe zwei Stunden."
+Als ich dran war, sagte ich: „Ich habe zwei Stunden.“
 
 Sie sah mich an. Sehr lange, für eine Schlange von sechs Leuten.
 
-„Schürze hängt an der Tür", sagte sie.
+„Schürze hängt an der Tür“, sagte sie.
 
 ---
 
@@ -3252,22 +3252,22 @@ es in vier Teile und warf es weg.
 
 Sie sah zu.
 
-„Das war das Laborblatt", sagte ich.
+„Das war das Laborblatt“, sagte ich.
 
-„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast." Sie
-nahm mir das Tuch aus der Hand. „Das war eine Geste."
+„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast.“ Sie
+nahm mir das Tuch aus der Hand. „Das war eine Geste.“
 
-„Ja."
+„Ja.“
 
-„Ich mag Gesten nicht besonders."
+„Ich mag Gesten nicht besonders.“
 
-„Ich weiß nicht, was ich sonst machen soll."
+„Ich weiß nicht, was ich sonst machen soll.“
 
 Und dann sagte Marlene Voss den Satz, für den ich sie vermutlich
 geheiratet hätte, wenn wir zwei völlig andere Menschen mit einer völlig
 anderen Vorgeschichte gewesen wären:
 
-„Komm nächsten Dienstag wieder."
+„Komm nächsten Dienstag wieder.“
 
 ---
 
@@ -3307,20 +3307,20 @@ und ich tat es, ohne dass mir das Herz dabei schneller schlug.
 
 Ich rief Frau Kuhlmann.
 
-„Sie sind noch da?"
+„Sie sind noch da?“
 
-„Sie auch", sagte meine Assistentin.
+„Sie auch“, sagte meine Assistentin.
 
 „Können Sie morgen etwas für mich herausfinden? Kehrwieder 12. Wer
 finanziert, wie hoch die Valuta ist, ob die Kündigung ausgesprochen
-wurde und ob ein Verwertungsverfahren läuft."
+wurde und ob ein Verwertungsverfahren läuft.“
 
 Sie notierte es.
 
-„Soll ich mit jemandem sprechen?"
+„Soll ich mit jemandem sprechen?“
 
-„Nur zuhören." Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
-Kuhlmann. Ich will es nur wissen."
+„Nur zuhören.“ Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
+Kuhlmann. Ich will es nur wissen.“
 
 Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.
 
@@ -3358,12 +3358,12 @@ Und dann, während ich mit dem Telefon zwischen Schulter und Ohr auf dem
 Boden des Kinderzimmers saß, wählte meine linke Hand eine zweite Nummer,
 ohne dass mein Kopf beteiligt war.
 
-„Marlene?"
+„Marlene?“
 
-„Emil krampft", sagte ich. „Der Krankenwagen kommt. Kinderklinik
-Altona."
+„Emil krampft“, sagte ich. „Der Krankenwagen kommt. Kinderklinik
+Altona.“
 
-„Ich bin in zwölf Minuten da."
+„Ich bin in zwölf Minuten da.“
 
 Er war in neun.
 
@@ -3373,8 +3373,8 @@ Der Notarzt war jung und ruhig und sagte das Wort *Fieberkrampf*, und
 es klang in seinem Mund wie *Schnupfen*, und ich habe diesen Mann dafür
 mehr geliebt als die meisten Menschen, die ich kenne.
 
-„Das sieht schlimm aus und ist meistens harmlos", sagte er. „Wir fahren
-trotzdem."
+„Das sieht schlimm aus und ist meistens harmlos“, sagte er. „Wir fahren
+trotzdem.“
 
 Im Wagen saß ich vorn. Emil war hinten, festgeschnallt, wach, verheult,
 und alles roch nach Desinfektionsmittel.
@@ -3388,15 +3388,15 @@ Aufnahme, Kinderklinik, halb vier.
 
 Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
 
-„Name des Kindes?"
+„Name des Kindes?“
 
-„Emil Voss."
+„Emil Voss.“
 
-„Geburtsdatum?"
+„Geburtsdatum?“
 
-„Achter Mai 2025."
+„Achter Mai 2025.“
 
-„Versichert bei?"
+„Versichert bei?“
 
 Und so weiter, elf Fragen lang, während hinter mir mein Sohn in einem
 zu großen Bett lag und Jonas neben dem Bett stand und seinen Zeigefinger
@@ -3404,36 +3404,36 @@ festhielt.
 
 Dann sah die Frau hoch, an mir vorbei.
 
-„Und der Herr?"
+„Und der Herr?“
 
-„Das ist —"
+„Das ist —“
 
-„Ich bin der Vater", sagte Jonas.
+„Ich bin der Vater“, sagte Jonas.
 
-Die Frau tippte etwas. „Sorgeberechtigt?"
+Die Frau tippte etwas. „Sorgeberechtigt?“
 
 Pause.
 
-„Nein", sagte er.
+„Nein“, sagte er.
 
-„Verheiratet mit der Mutter?"
+„Verheiratet mit der Mutter?“
 
-„Nein."
+„Nein.“
 
-„Vaterschaft anerkannt?"
+„Vaterschaft anerkannt?“
 
-„Nein."
+„Nein.“
 
 Sie tippte weiter, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
 Mensch, der um halb vier Uhr morgens seine Arbeit macht.
 
-„Dann trage ich Sie als Begleitperson ein", sagte sie.
+„Dann trage ich Sie als Begleitperson ein“, sagte sie.
 
 *Begleitperson.*
 
 Ich sah ihn an. Er sah geradeaus.
 
-„Ist in Ordnung", sagte er.
+„Ist in Ordnung“, sagte er.
 
 ---
 
@@ -3476,7 +3476,7 @@ elf Kilo.
 Emil hörte trotzdem auf.
 
 Nicht sofort. Über ungefähr eine Minute, wie ein Motor, der ausgeht.
-Dann legte er den Kopf in die Kuhle zwischen Jonas' Schulter und Hals,
+Dann legte er den Kopf in die Kuhle zwischen Jonas’ Schulter und Hals,
 und war weg.
 
 Und ich stand in einem Untersuchungszimmer der Kinderklinik Altona,
@@ -3498,40 +3498,40 @@ Erwachsene war.
 Jonas hatte einen Kaffee aus dem Automaten geholt, der schmeckte wie
 warmes Wasser mit einer Erinnerung.
 
-„Marlene", sagte er.
+„Marlene“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Ich lasse morgen —"
+„Ich lasse morgen —“
 
 Er brach ab.
 
 Ich sah ihn von der Seite an.
 
-„Was?"
+„Was?“
 
-„Nichts." Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
+„Nichts.“ Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
 dass ich morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein
 Reflex. Ich merke ihn inzwischen, das ist alles, was ich sagen kann. Ich
-merke ihn und mache ihn trotzdem."
+merke ihn und mache ihn trotzdem.“
 
-„Diesmal hast du ihn nicht gemacht."
+„Diesmal hast du ihn nicht gemacht.“
 
-„Diesmal habe ich ihn *gesagt*", sagte er. „Das ist nicht dasselbe wie
-nicht machen."
+„Diesmal habe ich ihn *gesagt*“, sagte er. „Das ist nicht dasselbe wie
+nicht machen.“
 
 Ich nahm ihm den Becher weg und trank einen Schluck, was er nicht
 kommentierte.
 
-„Begleitperson", sagte ich.
+„Begleitperson“, sagte ich.
 
-„Ja."
+„Ja.“
 
-„Das war das hässlichste Wort dieser Nacht."
+„Das war das hässlichste Wort dieser Nacht.“
 
-„Es stimmt aber."
+„Es stimmt aber.“
 
-„Es stimmt", sagte ich, „weil ich es so gelassen habe."
+„Es stimmt“, sagte ich, „weil ich es so gelassen habe.“
 
 ---
 
@@ -3547,20 +3547,20 @@ gedauert haben.
 
 Diese dauerte nicht lange.
 
-„Montag", sagte ich.
+„Montag“, sagte ich.
 
-„Was ist Montag?"
+„Was ist Montag?“
 
-„Da gehen wir zum Jugendamt." Ich gab ihm den Becher zurück. „Beides.
+„Da gehen wir zum Jugendamt.“ Ich gab ihm den Becher zurück. „Beides.
 Anerkennung und Sorgeerklärung. Nicht wegen heute Nacht. Weil ich es vor
-heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe."
+heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe.“
 
 Er sagte eine Weile nichts.
 
-„Danke", sagte er dann.
+„Danke“, sagte er dann.
 
-„Bedank dich nicht." Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
-Nicht dir."
+„Bedank dich nicht.“ Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
+Nicht dir.“
 
 ---
 
@@ -3577,12 +3577,12 @@ hatte, mit drei Kerzen aus Pappe und einer vierten, die abgefallen war.
 
 Emil saß bei mir auf dem Arm und wollte den Getränkeautomaten.
 
-„Zweiundzwanzig Cent", sagte ich zu ihm. „Der behält zweiundzwanzig
-Cent. Merk dir das."
+„Zweiundzwanzig Cent“, sagte ich zu ihm. „Der behält zweiundzwanzig
+Cent. Merk dir das.“
 
-„Erzählst du ihm was von Geld?", sagte Marlene.
+„Erzählst du ihm was von Geld?“, sagte Marlene.
 
-„Ich erzähle ihm was von Unrecht."
+„Ich erzähle ihm was von Unrecht.“
 
 ---
 
@@ -3591,7 +3591,7 @@ Frau Adamczyk hatte den Kaktus umgestellt.
 Sie sah mich, dann Marlene, dann Emil, und dann sagte sie das Netteste,
 was ich je von einer Behörde gehört habe:
 
-„Ah. Sie haben also vorher geredet."
+„Ah. Sie haben also vorher geredet.“
 
 Es dauerte, wie angekündigt, eine Viertelstunde.
 
@@ -3602,16 +3602,16 @@ dabei nicht auf das Papier, sondern in unsere Gesichter, und ich
 verstand, dass diese Frage der eigentliche Vorgang ist und alles andere
 Formular.
 
-„Freiwillig", sagte Marlene.
+„Freiwillig“, sagte Marlene.
 
-„Freiwillig", sagte ich.
+„Freiwillig“, sagte ich.
 
 Dann die Sorgeerklärung, dieselbe Prozedur, dasselbe Zimmer, zwei
 Unterschriften.
 
 Emil aß in der Zwischenzeit die Ecke des Merkblattes.
 
-„Das machen sie alle", sagte Frau Adamczyk. „Wir haben es aufgegeben."
+„Das machen sie alle“, sagte Frau Adamczyk. „Wir haben es aufgegeben.“
 
 ---
 
@@ -3629,13 +3629,13 @@ außer mir kein Mensch unter fünfzig saß.
 
 Ich habe bei keiner davon zittrige Hände gehabt.
 
-„Alles gut?", sagte Marlene.
+„Alles gut?“, sagte Marlene.
 
-„Ja."
+„Ja.“
 
-„Du hast das Blatt jetzt viermal gelesen."
+„Du hast das Blatt jetzt viermal gelesen.“
 
-„Ich weiß."
+„Ich weiß.“
 
 ---
 
@@ -3646,23 +3646,23 @@ Vorschlag zum Feiern war.
 Pommes. Auf einem Stehtisch. Emil bekam vier Stück und hielt jedes
 einzelne vorher hoch, damit es jemand ansieht.
 
-„Was soll er eigentlich zu dir sagen?", fragte sie.
+„Was soll er eigentlich zu dir sagen?“, fragte sie.
 
-„Ich weiß nicht. Was sagt man?"
+„Ich weiß nicht. Was sagt man?“
 
-„Die meisten sagen Papa."
+„Die meisten sagen Papa.“
 
 Ich sah auf die Pommes.
 
-„Ich habe zu meinem *Vater* gesagt", sagte ich. „Immer. Alle vier. Ich
-habe das Wort Papa in meinem Elternhaus nie gehört."
+„Ich habe zu meinem *Vater* gesagt“, sagte ich. „Immer. Alle vier. Ich
+habe das Wort Papa in meinem Elternhaus nie gehört.“
 
 Marlene sagte nichts, aber sie legte kurz ihre Hand auf meine, mit
 Mayonnaise am Daumen, und das war der schönste Moment dieses Jahres,
 und ich schreibe das in vollem Wissen darüber, was elf Tage später
 passiert ist.
 
-„Papa geht", sagte ich.
+„Papa geht“, sagte ich.
 
 ---
 
@@ -3730,26 +3730,26 @@ Er heißt übersetzt: *Ich traue ihr die Entscheidung nicht zu.*
 
 Um Viertel nach fünf rief Wendland an, was er nie tut.
 
-„Reinhardt. Der Fünfzehnte war vor vier Wochen."
+„Reinhardt. Der Fünfzehnte war vor vier Wochen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ich habe gehört, die Volksbank räumt auf." Ein Geräusch, als würde er
+„Ich habe gehört, die Volksbank räumt auf.“ Ein Geräusch, als würde er
 etwas zur Seite schieben. „Ich sage das jetzt einmal und dann nie
 wieder: Wenn dieses Paket auf den Markt geht und wir es nicht nehmen,
 nimmt es Kellermann. Und dann steht in zwei Jahren neben Ihrem Hof ein
-Betreiber, den Sie sich nicht ausgesucht haben."
+Betreiber, den Sie sich nicht ausgesucht haben.“
 
-„Das ist mir bewusst."
+„Das ist mir bewusst.“
 
-„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?"
+„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?“
 
 Ich sah aus dem Fenster auf den Hafen, auf dem seit halb fünf nichts
 mehr zu sehen war außer Kranlichtern.
 
-„Beides", sagte ich.
+„Beides“, sagte ich.
 
-„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter",
+„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter“,
 sagte Wendland und legte auf, und das war das erste Mal in neunzehn
 Jahren, dass dieser Mann etwas über mein Privatleben gesagt hat.
 
@@ -3814,28 +3814,28 @@ zusammengebettelt hatte.
 
 Er sah sich alles an. Er sah es sich wirklich an, das muss ich sagen.
 
-„Frau Voss, ich kann das nicht entscheiden."
+„Frau Voss, ich kann das nicht entscheiden.“
 
-„Wer kann es entscheiden?"
+„Wer kann es entscheiden?“
 
-„Im Moment niemand hier." Er legte die Hände flach auf den Tisch. „Ich
+„Im Moment niemand hier.“ Er legte die Hände flach auf den Tisch. „Ich
 sage Ihnen mehr, als ich darf. Wir bereinigen zum Jahresende. Ihr
 Engagement liegt in einem Paket, das bewertet wird. Solange das läuft,
 darf ich an den Konditionen nichts ändern, weil jede Änderung den Wert
-des Pakets verändert."
+des Pakets verändert.“
 
-„Sie verkaufen meinen Kredit."
+„Sie verkaufen meinen Kredit.“
 
-„Wir prüfen einen Verkauf."
+„Wir prüfen einen Verkauf.“
 
-„Und dann?"
+„Und dann?“
 
-„Dann tritt jemand anderes in unsere Rechte ein." Er sagte es leise.
+„Dann tritt jemand anderes in unsere Rechte ein.“ Er sagte es leise.
 „Das kann besser für Sie sein. Es kann auch schlechter sein. Ich weiß
-es nicht, und wer Ihnen das jetzt vorhersagt, lügt."
+es nicht, und wer Ihnen das jetzt vorhersagt, lügt.“
 
 An der Tür sagte er noch: „Wenn Sie irgendwo zweihundert bekommen — bis
-zum Fünfzehnten geht alles."
+zum Fünfzehnten geht alles.“
 
 ---
 
@@ -3854,31 +3854,31 @@ mein einziger Stolz aus diesem Dezember.
 Am zwölften kam Frau Kettler in die Küche, als ich die Kontoauszüge
 sortierte, und blieb hinter mir stehen.
 
-„Ich habe elftausendvierhundert."
+„Ich habe elftausendvierhundert.“
 
 Ich drehte mich nicht um.
 
-„Frau Kettler."
+„Frau Kettler.“
 
-„Auf einem Sparbuch. Für die Beerdigung." Sie schob einen Stuhl heran
+„Auf einem Sparbuch. Für die Beerdigung.“ Sie schob einen Stuhl heran
 und setzte sich, was sie nie tut, wenn sie im Dienst ist. „Beerdigungen
-sind billiger geworden. Man kann sich jetzt verstreuen lassen."
+sind billiger geworden. Man kann sich jetzt verstreuen lassen.“
 
-„Ich nehme kein Geld von Ihnen."
+„Ich nehme kein Geld von Ihnen.“
 
-„Das dachte ich mir." Sie faltete die Hände. „Ich sage es trotzdem, weil
-man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte."
+„Das dachte ich mir.“ Sie faltete die Hände. „Ich sage es trotzdem, weil
+man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
 
 Wir saßen eine Weile.
 
-„Es reicht sowieso nicht", sagte ich. „Es fehlen zweihundertdreizehn."
+„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
 
-„Ich weiß." Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
-Frau Voss. Nicht wegen des Geldes."
+„Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
+Frau Voss. Nicht wegen des Geldes.“
 
-„Sondern?"
+„Sondern?“
 
-„Damit Sie es einmal geübt hätten."
+„Damit Sie es einmal geübt hätten.“
 
 ---
 
@@ -3926,9 +3926,9 @@ nicht verstehe.
 
 Am neunzehnten saßen wir abends auf dem Boden vor dem Regal und sortierten
 Christbaumkugeln, und er sagte, ohne aufzusehen: „Ich muss dir vor
-Weihnachten was sagen. Nichts Schlimmes."
+Weihnachten was sagen. Nichts Schlimmes.“
 
-Und ich sagte: „Ich dir auch."
+Und ich sagte: „Ich dir auch.“
 
 Und wir haben beide gelacht und beide nichts gesagt, und wenn dieses
 Buch eine Stelle hat, an der ich zurückgehen und jemanden schütteln
@@ -3938,7 +3938,7 @@ möchte, dann diese.
 
 Zweimal habe ich es fast getan.
 
-Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —" und in
+Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —“ und in
 diesem Moment fiel Emil vom Sofa, und danach war es weg.
 
 Das zweite Mal am zwanzigsten, spät. Ich hatte die Worte schon
@@ -3958,24 +3958,24 @@ Das habe ich mir jedenfalls gesagt.
 Am einundzwanzigsten stellte Frau Kettler die Kaffeemühle ab, mitten am
 Vormittag, was Krieg bedeutet.
 
-„Frau Voss."
+„Frau Voss.“
 
-„Ich weiß, was Sie sagen wollen."
+„Ich weiß, was Sie sagen wollen.“
 
-„Dann sage ich es kurz." Sie wischte sich die Hände ab. „Sie machen es
-schon wieder."
+„Dann sage ich es kurz.“ Sie wischte sich die Hände ab. „Sie machen es
+schon wieder.“
 
-„Es ist etwas anderes."
+„Es ist etwas anderes.“
 
-„Es ist etwas *Kleineres*", sagte sie. „Das ist der Unterschied, und der
+„Es ist etwas *Kleineres*“, sagte sie. „Das ist der Unterschied, und der
 Unterschied hilft Ihnen nicht. Beim ersten Mal ging es um ein Kind, und
 es hat zwei Jahre gedauert. Diesmal geht es um ein Haus, und Sie sind
-bei drei Wochen." Sie sah mich an. „Wissen Sie, was in beiden Fällen
-gleich ist?"
+bei drei Wochen.“ Sie sah mich an. „Wissen Sie, was in beiden Fällen
+gleich ist?“
 
-„Sagen Sie es."
+„Sagen Sie es.“
 
-„Dass Sie entscheiden, was er verkraftet."
+„Dass Sie entscheiden, was er verkraftet.“
 
 ---
 
@@ -4017,17 +4017,17 @@ Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
 Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
 ihm bedeutet, dass es ernst ist.
 
-Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen."
+Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
 
-„Ja."
+„Ja.“
 
-„Geht nicht."
+„Geht nicht.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil ein Erlass eine Schenkung ist." Er zog seinen Block heran. „Ihr
+„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
 seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
-zwanzigtausend. Auf den Rest dreißig Prozent."
+zwanzigtausend. Auf den Rest dreißig Prozent.“
 
 Er schrieb die Zahl hin und drehte den Block um.
 
@@ -4036,23 +4036,23 @@ Er schrieb die Zahl hin und drehte den Block um.
 Ich sah die Zahl an.
 
 „Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
-Haus", sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
-fünf."
+Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
+fünf.“
 
-„Und was geht?"
+„Und was geht?“
 
 „Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
-keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig." Er
+keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
 klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
 zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
-entscheidet, es nicht einzufordern."
+entscheidet, es nicht einzufordern.“
 
 Der Raum war eine Weile still.
 
-„Das ist schlimmer", sagte ich.
+„Das ist schlimmer“, sagte ich.
 
-„Das ist erheblich schlimmer", sagte Niklas. „Deshalb sage ich es dir
-ja."
+„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
+ja.“
 
 ---
 
@@ -4063,64 +4063,64 @@ Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
 kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
 immer eine Frage.
 
-„Hast du zwanzig Minuten?"
+„Hast du zwanzig Minuten?“
 
-„Ich habe eine Stunde."
+„Ich habe eine Stunde.“
 
-„Du hast nie eine Stunde." Er setzte sich in den Sessel, nicht auf die
+„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
 Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
-hast ein Kind."
+hast ein Kind.“
 
-„Ja."
+„Ja.“
 
-„Und Mama sagt, du bist verliebt."
+„Und Mama sagt, du bist verliebt.“
 
-„Auch ja."
+„Auch ja.“
 
-„Warum weiß ich das über Bande?"
+„Warum weiß ich das über Bande?“
 
 Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
 zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
 bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
 
-Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag."
+Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
 
 Bastian sah mich an, kaute an einem Daumennagel und sagte:
 
-„Weiß sie das?"
+„Weiß sie das?“
 
-„Ich sage es ihr morgen."
+„Ich sage es ihr morgen.“
 
-„Das ist nicht dasselbe."
+„Das ist nicht dasselbe.“
 
-„Es ist ein Tag."
+„Es ist ein Tag.“
 
-„Jonas." Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
+„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
 nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
-ablehnen."
+ablehnen.“
 
 ---
 
 Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
 weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
 
-„Was machst du eigentlich zurzeit?", fragte ich.
+„Was machst du eigentlich zurzeit?“, fragte ich.
 
-„Was Eigenes."
+„Was Eigenes.“
 
-„Was für was Eigenes?"
+„Was für was Eigenes?“
 
-„Frag mich im Sommer." Er stand auf und schulterte den Rucksack. „Und
-sag den anderen nicht, dass ich hier war."
+„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
+sag den anderen nicht, dass ich hier war.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil ich das dann erklären muss." Er blieb an der Tür stehen. „Kauf
-sie nicht, Jonas."
+„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
+sie nicht, Jonas.“
 
-„Ich habe bis achtzehn Uhr Zeit."
+„Ich habe bis achtzehn Uhr Zeit.“
 
-„Ich weiß." Er ging. „Deshalb sage ich es jetzt."
+„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
 
 ---
 
@@ -4168,12 +4168,12 @@ Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
 
 „Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
 Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
-ob Sie das zurückstellen wollen."
+ob Sie das zurückstellen wollen.“
 
 Ich war in Gedanken bei Punkt fünf.
 
-„Nein", sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
-sowieso mit ihr."
+„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
+sowieso mit ihr.“
 
 Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
 Schreibtischlampe ausmachte.
@@ -4234,12 +4234,12 @@ Man denkt, so etwas geht nicht. Es geht. Es geht sogar sehr gut, und
 das ist das Erschreckende daran.
 
 Um halb zwölf kam Frau Kettler aus dem Backraum, sah mich einmal an und
-sagte: „Gehen Sie hoch."
+sagte: „Gehen Sie hoch.“
 
-„Es ist voll."
+„Es ist voll.“
 
-„Frau Voss." Sie nahm mir die Zange aus der Hand. „Ich mache das seit
-neununddreißig Jahren. Gehen Sie hoch."
+„Frau Voss.“ Sie nahm mir die Zange aus der Hand. „Ich mache das seit
+neununddreißig Jahren. Gehen Sie hoch.“
 
 Ich ging nicht hoch. Ich ging in den Hof und stand zehn Minuten neben
 den Mülltonnen, in der Kälte, ohne Jacke.
@@ -4280,10 +4280,10 @@ er schlief in vier Minuten, weil der Laster mit im Bett lag.
 Als ich runterkam, hatte Jonas den Tisch abgeräumt und saß da mit einem
 Zettel neben der Hand.
 
-„Ich muss dir was sagen", sagte er. „Es ist viel. Ich habe es
-aufgeschrieben, damit ich nichts weglasse und nichts beschönige."
+„Ich muss dir was sagen“, sagte er. „Es ist viel. Ich habe es
+aufgeschrieben, damit ich nichts weglasse und nichts beschönige.“
 
-„Dann sag es."
+„Dann sag es.“
 
 ---
 
@@ -4310,22 +4310,22 @@ Und dann sah er auf und sagte den fünften Punkt, und bei dem war seine
 Stimme anders:
 
 „Und wenn du willst — zieh mit Emil zu mir. Nicht deswegen. Sondern weil
-ich möchte, dass er morgens im selben Haus aufwacht wie ich."
+ich möchte, dass er morgens im selben Haus aufwacht wie ich.“
 
 ---
 
 Ich saß da und hatte beide Hände um eine Tasse, in der nichts mehr war.
 
-„Wann heute?", sagte ich.
+„Wann heute?“, sagte ich.
 
-„Was?"
+„Was?“
 
-„Wann heute wolltest du es mir sagen? Zu welcher Uhrzeit?"
+„Wann heute wolltest du es mir sagen? Zu welcher Uhrzeit?“
 
-„Jetzt", sagte er. „Genau jetzt. Das war der Plan seit gestern
-Nachmittag."
+„Jetzt“, sagte er. „Genau jetzt. Das war der Plan seit gestern
+Nachmittag.“
 
-„Neun Uhr vierzehn."
+„Neun Uhr vierzehn.“
 
 Er sah mich an.
 
@@ -4339,18 +4339,18 @@ Er las es. Er las es zweimal. Und dann sagte er ein Wort, das ich in
 sechs Monaten nicht von ihm gehört hatte, sehr leise, und danach nichts
 mehr.
 
-„Die Anzeige", sagte er schließlich. „Ich habe gesagt, sie sollen es
-machen wie üblich. Ich habe nicht —"
+„Die Anzeige“, sagte er schließlich. „Ich habe gesagt, sie sollen es
+machen wie üblich. Ich habe nicht —“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Marlene, ich schwöre dir, ich habe nicht daran gedacht, dass —"
+„Marlene, ich schwöre dir, ich habe nicht daran gedacht, dass —“
 
-„Ich weiß", sagte ich. „Das ist das Problem."
+„Ich weiß“, sagte ich. „Das ist das Problem.“
 
 ---
 
-„Zwei Dinge", sagte ich, „und dann bin ich fertig, und dann darfst du
+„Zwei Dinge“, sagte ich, „und dann bin ich fertig, und dann darfst du
 alles sagen, was du willst.
 
 Erstens: Du hast es am fünfzehnten erfahren. Heute ist der
@@ -4359,83 +4359,83 @@ Boden gesessen und Kugeln sortiert, und du hast gesagt: *Ich muss dir
 vor Weihnachten was sagen, nichts Schlimmes.* Da war es schon nichts
 Schlimmes.
 
-Zweitens." Ich holte Luft. „Heute Morgen um neun Uhr vierzehn hat mir
+Zweitens.“ Ich holte Luft. „Heute Morgen um neun Uhr vierzehn hat mir
 ein Serienbrief mitgeteilt, dass mein Haus dir gehört. Ein Serienbrief,
 Jonas. *Maschinell erstellt und ohne Unterschrift gültig.* Und heute
-Abend um zwanzig nach acht fragst du mich, ob ich bei dir einziehe."
+Abend um zwanzig nach acht fragst du mich, ob ich bei dir einziehe.“
 
-„Das eine hat mit dem anderen nichts —"
+„Das eine hat mit dem anderen nichts —“
 
-„Doch." Ich sagte es nicht laut. „Für dich nicht. Für mich schon. Und
-ich bin die, die einzieht."
+„Doch.“ Ich sagte es nicht laut. „Für dich nicht. Für mich schon. Und
+ich bin die, die einzieht.“
 
 ---
 
 Er saß sehr gerade, so wie er in Sitzungen sitzt.
 
-„Du hast es mir auch nicht gesagt", sagte er.
+„Du hast es mir auch nicht gesagt“, sagte er.
 
 Und da war er im Recht, und ich wusste es, und ich hatte den Zettel in
 der Schranktür hängen, drei Meter von uns entfernt.
 
-„Ja", sagte ich. „Neunzehn Tage. Ich habe es dir neunzehn Tage lang
-nicht gesagt, und ich hatte drei Gründe, und einer davon war sogar gut."
+„Ja“, sagte ich. „Neunzehn Tage. Ich habe es dir neunzehn Tage lang
+nicht gesagt, und ich hatte drei Gründe, und einer davon war sogar gut.“
 
-„Welcher?"
+„Welcher?“
 
-„Dass du zwischen mir und deinem Beirat hättest wählen müssen." Ich sah
-ihn an. „Merkst du was?"
+„Dass du zwischen mir und deinem Beirat hättest wählen müssen.“ Ich sah
+ihn an. „Merkst du was?“
 
 Er merkte es nicht sofort. Dann merkte er es.
 
-„Ich habe für dich entschieden, was du verkraftest", sagte ich. „Du hast
+„Ich habe für dich entschieden, was du verkraftest“, sagte ich. „Du hast
 für mich entschieden, was ich verkrafte. Wir machen genau dasselbe,
 Jonas. Wir machen es aus Liebe und wir nennen es Rücksicht und es ist
-beides Mal dasselbe: Wir lassen den anderen nicht wählen."
+beides Mal dasselbe: Wir lassen den anderen nicht wählen.“
 
-„Dann hören wir beide damit auf."
+„Dann hören wir beide damit auf.“
 
-„Ja." Ich stand auf. „Aber nicht heute Abend, und nicht in diesem
-Zimmer."
+„Ja.“ Ich stand auf. „Aber nicht heute Abend, und nicht in diesem
+Zimmer.“
 
 ---
 
-„Ich möchte, dass du gehst."
+„Ich möchte, dass du gehst.“
 
 Er stand auf, sehr langsam.
 
-„Marlene —"
+„Marlene —“
 
 „Nein. Hör zu, weil ich das genau sagen muss und ich es nur einmal
-schaffe." Ich hielt mich an der Stuhllehne fest. „Ich nehme dir Emil
+schaffe.“ Ich hielt mich an der Stuhllehne fest. „Ich nehme dir Emil
 nicht weg. Nichts, was wir unterschrieben haben, wird angefasst. Du
 kommst am Freitag um zehn, wie besprochen, und an Silvester, und du
 bringst ihn abends zurück, und wir sind höflich zueinander, weil er es
 merkt.
 
-Das ist seins. Nicht deins. Ich benutze es nicht."
+Das ist seins. Nicht deins. Ich benutze es nicht.“
 
 Er hat mich angesehen, und ich glaube, das war der Moment, in dem er
 begriffen hat, dass es ernst ist. Nicht bei *geh*. Bei *ich benutze es
 nicht*.
 
-„Und was ist mit uns?"
+„Und was ist mit uns?“
 
 „Es gibt kein *uns*, in dem mir jemand zweihundertvierzehntausend Euro
-erlässt, indem er sie nicht einfordert." Meine Stimme ging weg, und ich
+erlässt, indem er sie nicht einfordert.“ Meine Stimme ging weg, und ich
 holte sie zurück. „Jeden Morgen, Jonas. Jeden Morgen würdest du dich
 entscheiden, es nicht zu tun, und ich würde jeden Morgen wissen, dass du
-dich entschieden hast."
+dich entschieden hast.“
 
-„Ich verkaufe sie zurück."
+„Ich verkaufe sie zurück.“
 
-„An wen? An Kellermann?"
+„An wen? An Kellermann?“
 
 Er sagte nichts.
 
-„Siehst du", sagte ich. „Es geht nicht mehr weg. Das ist es, was du
+„Siehst du“, sagte ich. „Es geht nicht mehr weg. Das ist es, was du
 gestern um siebzehn Uhr vierzig gemacht hast. Du hast etwas gekauft,
-das man nicht zurückgeben kann."
+das man nicht zurückgeben kann.“
 
 ---
 
@@ -4444,9 +4444,9 @@ Er nahm seinen Mantel.
 An der Tür drehte er sich um, und ich sah, dass er weinte, und ich habe
 nicht hingesehen, weil ich sonst nicht durchgehalten hätte.
 
-„Ich wollte nur, dass ihr sicher seid", sagte er.
+„Ich wollte nur, dass ihr sicher seid“, sagte er.
 
-„Ich weiß", sagte ich. „Das ist das Traurigste an dem ganzen Abend."
+„Ich weiß“, sagte ich. „Das ist das Traurigste an dem ganzen Abend.“
 
 Dann ging er, und diesmal hörte ich den Wagen sofort.
 
@@ -4483,7 +4483,7 @@ weil seit zwölf Jahren niemand den Mut hat, es zu ändern.
 
 Ich funktionierte gut. Ich habe darin Übung.
 
-Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch."
+Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch.“
 
 Es war keine Frage.
 
@@ -4492,11 +4492,11 @@ Es war keine Frage.
 Sie setzte sich in den Sessel, in dem sie seit dem Schlaganfall sitzt,
 weil man aus ihm allein aufstehen kann, und sagte:
 
-„Wo ist sie?"
+„Wo ist sie?“
 
-„Zu Hause."
+„Zu Hause.“
 
-„Und warum?"
+„Und warum?“
 
 Und dann erzählte ich es ihr. Vollständig, in der richtigen Reihenfolge,
 mit allen Zahlen, weil ich in dieser Woche ungefähr vierzigmal geübt
@@ -4515,103 +4515,103 @@ Meine Mutter hat mich nicht ein einziges Mal unterbrochen.
 Als ich fertig war, saß sie da mit der linken Hand im Schoß, die nicht
 immer macht, was sie soll, und sagte:
 
-„Das hat dein Vater auch immer so erzählt."
+„Das hat dein Vater auch immer so erzählt.“
 
 ---
 
 Ich weiß nicht, was ich erwartet hatte. Trost vermutlich. Meine Mutter
 gibt keinen Trost, sie gibt Auskunft.
 
-„Was meinst du damit?"
+„Was meinst du damit?“
 
-„Setz dich hin, Jonas. Du stehst so herum."
+„Setz dich hin, Jonas. Du stehst so herum.“
 
 Ich setzte mich.
 
-„Weißt du, wem das Haus in Reinbek gehört hat?", sagte sie.
+„Weißt du, wem das Haus in Reinbek gehört hat?“, sagte sie.
 
-„Uns."
+„Uns.“
 
-„Mir." Sie sagte es ohne Betonung. „Von meiner Mutter. Ich habe es 1991
+„Mir.“ Sie sagte es ohne Betonung. „Von meiner Mutter. Ich habe es 1991
 geerbt, mit dem Garten und der Garage, in der dein Vater dann seine
-Akten gelagert hat."
+Akten gelagert hat.“
 
-„Wir haben es 1997 verkauft."
+„Wir haben es 1997 verkauft.“
 
-„*Er* hat es 1997 verkauft." Sie sah auf ihre Hand. „Im Februar 1997
+„*Er* hat es 1997 verkauft.“ Sie sah auf ihre Hand. „Im Februar 1997
 hatte die Firma ein Liquiditätsloch von neunhunderttausend Mark. Es gab
-drei Möglichkeiten, und die schnellste war das Haus meiner Mutter."
+drei Möglichkeiten, und die schnellste war das Haus meiner Mutter.“
 
 Ich sagte nichts.
 
-„Er hat es gemacht. Notar am achten März, Übergabe im Mai." Sie sah auf.
+„Er hat es gemacht. Notar am achten März, Übergabe im Mai.“ Sie sah auf.
 „Erzählt hat er es mir am zwölften März. Vier Tage danach. Er hat mir
 den Vertrag auf den Küchentisch gelegt und alles erklärt, und es war
 alles richtig. Jedes Wort. Wenn er es nicht gemacht hätte, hätten
 vierundneunzig Leute im Juni kein Gehalt bekommen. Ich habe damals
-nachgerechnet, weil ich es nicht glauben wollte, und es stimmte."
+nachgerechnet, weil ich es nicht glauben wollte, und es stimmte.“
 
-„Warum weiß ich das nicht?"
+„Warum weiß ich das nicht?“
 
-„Weil ich nichts gesagt habe", sagte meine Mutter. „Achtundzwanzig
-Jahre lang."
+„Weil ich nichts gesagt habe“, sagte meine Mutter. „Achtundzwanzig
+Jahre lang.“
 
 ---
 
 Draußen fing es an zu regnen, weil es in Hamburg auch an Heiligabend
 regnet.
 
-„Ich habe ihn nicht verlassen", sagte sie. „Ich habe ihn geliebt, bis er
+„Ich habe ihn nicht verlassen“, sagte sie. „Ich habe ihn geliebt, bis er
 tot war, und ich vermisse ihn jeden Tag, und das ist alles wahr. Ich
-sage dir das, damit du das Folgende richtig einordnest."
+sage dir das, damit du das Folgende richtig einordnest.“
 
 Sie wartete, bis ich sie ansah.
 
 „Ich habe achtundzwanzig Jahre neben einem Mann gelebt, der recht
-hatte."
+hatte.“
 
 ---
 
 Ich habe seit dem dreiundzwanzigsten Dezember eine ganze Menge Sätze
-gehört, die wehtun. Marlenes Sätze, Bastians Satz, Niklas' Satz mit den
+gehört, die wehtun. Marlenes Sätze, Bastians Satz, Niklas’ Satz mit den
 achtzehn Monaten.
 
 Dieser war anders, weil er nicht mir galt.
 
-„Es geht nicht um das Haus", sagte meine Mutter. „Das Haus war ein
+„Es geht nicht um das Haus“, sagte meine Mutter. „Das Haus war ein
 Haus. Es geht darum, dass ich am achten März nichts wusste und am
 zwölften alles. In diesen vier Tagen war ich verheiratet mit jemandem,
 der eine Entscheidung über mein Elternhaus getroffen hatte, und ich habe
-in der Zeit Wäsche aufgehängt."
+in der Zeit Wäsche aufgehängt.“
 
-„Er hat es dir doch gesagt."
+„Er hat es dir doch gesagt.“
 
-„Ja." Sie nickte. „Er hat es mir gesagt. Er hat mich nie belogen, dein
+„Ja.“ Sie nickte. „Er hat es mir gesagt. Er hat mich nie belogen, dein
 Vater, nicht ein einziges Mal in vierunddreißig Jahren. Er hat mich nur
-nie gefragt."
+nie gefragt.“
 
 ---
 
 Ich saß eine Weile da.
 
-„Warum hast du nie etwas gesagt?"
+„Warum hast du nie etwas gesagt?“
 
-„Weil er recht hatte." Sie lachte kurz, ohne Freude. „Das ist die Falle,
+„Weil er recht hatte.“ Sie lachte kurz, ohne Freude. „Das ist die Falle,
 Jonas. Wenn der andere unrecht hat, kannst du streiten. Dann geht es
 raus, und danach ist es kleiner. Wenn der andere recht hat, kannst du
 nur schlucken. Und geschlucktes Zeug wird nicht kleiner. Es wird
-härter."
+härter.“
 
-„Und was hättest du gebraucht?"
+„Und was hättest du gebraucht?“
 
-„Am siebten März", sagte sie sofort, so schnell, dass ich merkte, wie
+„Am siebten März“, sagte sie sofort, so schnell, dass ich merkte, wie
 oft sie diesen Satz gedacht hat, „hätte er sich abends hinsetzen und
 sagen müssen: *Renate, ich sehe drei Wege, und der schnellste ist dein
-Elternhaus. Ich weiß nicht weiter. Was sagst du?*"
+Elternhaus. Ich weiß nicht weiter. Was sagst du?*“
 
-„Und dann hättest du ja gesagt."
+„Und dann hättest du ja gesagt.“
 
-„Vermutlich." Sie sah mich an. „Aber es wäre *meins* gewesen."
+„Vermutlich.“ Sie sah mich an. „Aber es wäre *meins* gewesen.“
 
 ---
 
@@ -4652,7 +4652,7 @@ es war das Schlimmste, was ich je erlebt habe.
 Ich brachte ihn um sechs zurück. An der Tür drehte Emil sich in meinem
 Arm um und griff nach meinem Kragen, weil er nicht runter wollte, und
 Marlene nahm ihn und sagte in seinen Nacken hinein, sehr ruhig: „Der
-kommt wieder. Am Silvester."
+kommt wieder. Am Silvester.“
 
 Sie sagte es zu ihm. Ich stand dabei.
 
@@ -4661,17 +4661,17 @@ Auf dem Rückweg hielt ich am Baumwall an und saß zehn Minuten im Auto.
 Und dann tat ich zum ersten Mal seit dem dreiundzwanzigsten etwas, das
 nicht Warten war: Ich rief meinen Bruder an. Nicht Niklas.
 
-„Theo. Ich brauche den Entwurf. Alle Fassungen, auch die verworfenen."
+„Theo. Ich brauche den Entwurf. Alle Fassungen, auch die verworfenen.“
 
-„Warum?"
+„Warum?“
 
-„Weil ich wissen will, was sie mir eigentlich gibt", sagte ich. „Und
-was das wert ist."
+„Weil ich wissen will, was sie mir eigentlich gibt“, sagte ich. „Und
+was das wert ist.“
 
 Er war einen Moment still.
 
-„Interessant", sagte Theo. „Die Frage hat mir gestern schon jemand
-gestellt."
+„Interessant“, sagte Theo. „Die Frage hat mir gestern schon jemand
+gestellt.“
 
 ---
 
@@ -4691,7 +4691,7 @@ Um sieben fragte er zum vierten Mal an diesem Tag.
 Er kann den Namen nicht. Es ist dieser Laut mit dem harten Anfang, und
 danach sieht er zur Tür.
 
-„Der kommt am Siebenundzwanzigsten", sagte ich.
+„Der kommt am Siebenundzwanzigsten“, sagte ich.
 
 Er versteht *Siebenundzwanzigster* nicht. Er versteht den Tonfall, in
 dem man so etwas sagt, und mein Tonfall war in dieser Woche nicht
@@ -4844,52 +4844,52 @@ Reinhardt an.
 
 Ich hatte seine Nummer, weil sie auf jedem Plan steht.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Marlene Voss. Kehrwieder zwölf."
+„Marlene Voss. Kehrwieder zwölf.“
 
 Eine Pause, in der ich hörte, wie jemand eine Tür zumachte.
 
-„Frau Voss." Er klang vorsichtig. „Mein Bruder —"
+„Frau Voss.“ Er klang vorsichtig. „Mein Bruder —“
 
 „Ich rufe nicht wegen Ihres Bruders an. Ich rufe wegen des Hofs an, und
-zwar mit einer Frage, die Sie beantworten können und er nicht."
+zwar mit einer Frage, die Sie beantworten können und er nicht.“
 
-„Fragen Sie."
+„Fragen Sie.“
 
 Ich sah auf Blatt vier, auf das Tor, das meinem Haus gehört.
 
-„Was ist die Dienstbarkeit wert?"
+„Was ist die Dienstbarkeit wert?“
 
 Am anderen Ende war es ungefähr drei Sekunden still.
 
-„Wie meinen Sie das?", sagte Theo, und ich hörte genau, dass er es
+„Wie meinen Sie das?“, sagte Theo, und ich hörte genau, dass er es
 verstanden hatte.
 
-„Ich meine es genau so, wie es klingt", sagte ich. „Sie brauchen ein
+„Ich meine es genau so, wie es klingt“, sagte ich. „Sie brauchen ein
 Wegerecht durch meine Durchfahrt, ein Anbaurecht an meine Rückwand und
 ein Leitungsrecht unter meinem Hof. Alles drei für immer und
 grundbuchlich gesichert. Ich habe Ihnen das seit Oktober umsonst
 zugesagt, weil ich nett bin und weil mich niemand nach einem Preis
-gefragt hat."
+gefragt hat.“
 
-„Frau Voss —"
+„Frau Voss —“
 
-„Ich verkaufe mein Haus nicht", sagte ich. „Ich verkaufe ein Recht. Das
+„Ich verkaufe mein Haus nicht“, sagte ich. „Ich verkaufe ein Recht. Das
 ist nicht dasselbe, und ich möchte wissen, was es wert ist. Nicht von
-Ihnen. Von jemandem, den wir beide nicht kennen."
+Ihnen. Von jemandem, den wir beide nicht kennen.“
 
 Ich hörte ihn ausatmen.
 
-„Einen Gutachter", sagte er.
+„Einen Gutachter“, sagte er.
 
-„Einen Gutachter."
+„Einen Gutachter.“
 
-„Frau Voss, wissen Sie eigentlich, was Sie da gerade —"
+„Frau Voss, wissen Sie eigentlich, was Sie da gerade —“
 
-„Ja", sagte ich. „Ich frage. Zum ersten Mal in meinem Leben, und
+„Ja“, sagte ich. „Ich frage. Zum ersten Mal in meinem Leben, und
 ausgerechnet einen Reinhardt. Machen Sie sich darüber keine Gedanken,
-das mache ich schon selbst."
+das mache ich schon selbst.“
 
 ---
 
@@ -4913,23 +4913,23 @@ Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
 hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
 ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
 
-„Du guckst komisch", sagte Theo.
+„Du guckst komisch“, sagte Theo.
 
 „Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
-Gegenpartei halte."
+Gegenpartei halte.“
 
-„Sie *ist* eine Gegenpartei." Mein Bruder setzte sich, diesmal
+„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
 tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
 verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
 uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
-das kostet. Weil sie nett war."
+das kostet. Weil sie nett war.“
 
-„Sie hat es zugesagt."
+„Sie hat es zugesagt.“
 
-„Mündlich. Bei Kaffee. Ohne Gegenleistung." Theo zog Blatt vier aus der
+„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
 Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
 anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
-mich gefragt, was mit ihm nicht stimmt."
+mich gefragt, was mit ihm nicht stimmt.“
 
 ---
 
@@ -4949,33 +4949,33 @@ unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
 Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
 die ich nicht mal überschlagen wollte.
 
-„Was kostet die Alternative?", fragte ich schließlich.
+„Was kostet die Alternative?“, fragte ich schließlich.
 
 Theo rechnete auf dem Rand.
 
-„Ohne mich festzulegen: eine Komma vier. Plus neun Monate."
+„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
 
 Ich sah die Zahl an.
 
 „Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
-wert."
+wert.“
 
-„Mindestens", sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
-Gutachter nicht so rechnen. Aber ja."
+„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
+Gutachter nicht so rechnen. Aber ja.“
 
 ---
 
 Niklas kam am Dreißigsten, und wir bauten es zusammen.
 
-„Es muss drei Dinge erfüllen", sagte ich. „Erstens: Sie behält das Haus.
+„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
 Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
 nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
 nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
-sondern eine Entscheidung, die ich hinnehme."
+sondern eine Entscheidung, die ich hinnehme.“
 
-„Das dritte ist neu", sagte mein Bruder.
+„Das dritte ist neu“, sagte mein Bruder.
 
-„Ja."
+„Ja.“
 
 Er nahm den Block.
 
@@ -5002,59 +5002,59 @@ niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
 
 Niklas legte den Stift hin.
 
-„Sauber", sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
-und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus." Er
-sah auf. „Es hat nur einen Haken, und der ist groß."
+„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
+und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
+sah auf. „Es hat nur einen Haken, und der ist groß.“
 
-„Der Beirat."
+„Der Beirat.“
 
-„Der Beirat", sagte Niklas. „Du willst, dass die Gesellschaft
+„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
 zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
 etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
 Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
-Gläubiger."
+Gläubiger.“
 
-„Ja."
+„Ja.“
 
-„Weißt du, wie das aussieht?"
+„Weißt du, wie das aussieht?“
 
-„Ich weiß, wie das aussieht", sagte ich. „Deshalb sage ich es ihnen
-vorher."
+„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
+vorher.“
 
 ---
 
 Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
 mit drei Leuten gesprochen.
 
-„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt."
+„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
 
-„Bei wem?"
+„Bei wem?“
 
-„Bei jemandem, der es mir erzählt hat." Ein Rascheln. „Er weiß, dass die
-Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht."
+„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
+Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
 
-„Er wird es erfahren."
+„Er wird es erfahren.“
 
-„Ja", sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
+„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
 Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
 Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
-Gesellschaft braucht." Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
-ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören."
+Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
+ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
 
 Ich hörte es mir laut an.
 
-„Am zwanzigsten ist Sitzung", sagte ich. „Ich lege alles offen. Auch den
-Kauf. Auch den Preis."
+„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
+Kauf. Auch den Preis.“
 
 Am anderen Ende war es lange still.
 
-„Sie sind ein merkwürdiger Kaufmann, Reinhardt."
+„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ihr Vater hätte das nie gemacht."
+„Ihr Vater hätte das nie gemacht.“
 
-„Ich weiß", sagte ich. „Das ist inzwischen ein Argument dafür."
+„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
 
 ---
 
@@ -5078,9 +5078,9 @@ zwanzigsten Zeit hat.
 
 Kein Wort von mir. Keine Grüße. Nichts über den Rest.
 
-Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin."
+Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
 
-„Doch", sagte ich. „Da steht drin, dass sie entscheidet."
+„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
 
 ---
 
@@ -5088,17 +5088,17 @@ Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
 Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
 
 Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
-will? Nicht das Haus. *Dich.*"
+will? Nicht das Haus. *Dich.*“
 
 Ich hatte eine Weile gebraucht.
 
-„Dann hole ich ihn freitags um zehn ab", sagte ich, „und bringe ihn um
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
 sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
-mich nie wieder anrufen."
+mich nie wieder anrufen.“
 
-„Kannst du das?"
+„Kannst du das?“
 
-„Nein", hatte ich gesagt. „Aber das ist kein Grund."
+„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“
 
 ---
 
@@ -5128,16 +5128,16 @@ Herr Dr. Sassenberg kam am fünften, öffentlich bestellt und vereidigt,
 mit einem Laser-Entfernungsmesser, einer Kladde und der geringsten
 Neigung zu Konversation, die mir je begegnet ist.
 
-„Kaffee?"
+„Kaffee?“
 
-„Nein."
+„Nein.“
 
-Vier Stunden später, im Hinterhof, im Nieselregen: „Doch. Jetzt gern."
+Vier Stunden später, im Hinterhof, im Nieselregen: „Doch. Jetzt gern.“
 
 Er maß die Durchfahrt aus, dreimal. Er fotografierte das Tor, den
 Sturz, die Pflasterung, den Kanaldeckel. Er ging in den Keller und sah
 sich die Leitungen an und sagte dabei zum ersten Mal etwas Freiwilliges:
-„Das ist von 1962. Das hält länger als das Haus."
+„Das ist von 1962. Das hält länger als das Haus.“
 
 Dann setzte er sich an meinen Fenstertisch und erklärte mir in acht
 Minuten, was er tut.
@@ -5146,18 +5146,18 @@ Minuten, was er tut.
 Grundstücks, wenn diese Rechte im Grundbuch stehen — Sie können dann
 bestimmte Dinge nie mehr tun, das ist ein echter Verlust, auch wenn Sie
 sie ohnehin nie vorhatten. Zweitens den Vorteil für die anderen
-Grundstücke. Der ist hier größer."
+Grundstücke. Der ist hier größer.“
 
-„Wie viel größer?"
+„Wie viel größer?“
 
-„Das steht im Gutachten." Er trank den Kaffee aus. „Frau Voss, eine
+„Das steht im Gutachten.“ Er trank den Kaffee aus. „Frau Voss, eine
 Bemerkung, die nicht zu meinem Auftrag gehört: Sie hätten das im Oktober
-fragen sollen."
+fragen sollen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Die meisten fragen nie", sagte Dr. Sassenberg. „Ich lebe davon, dass
-Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle."
+„Die meisten fragen nie“, sagte Dr. Sassenberg. „Ich lebe davon, dass
+Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle.“
 
 ---
 
@@ -5175,13 +5175,13 @@ Milchschaum hat.
 „Frau Voss, ich mache es kurz, weil Sie arbeiten müssen.
 Vierhundertsechzigtausend für das gesamte Objekt. Notartermin vor dem
 Fünfzehnten, ich habe einen, der Samstag aufmacht. Sie zahlen Ihre Bank
-zurück und behalten rund zweihundertfünfundvierzig."
+zurück und behalten rund zweihundertfünfundvierzig.“
 
 Er legte eine Karte hin und schob sie mit zwei Fingern über den Tisch,
 und dabei sah er mich nicht an, was höflich war.
 
-„Ich weiß, was gerade läuft", sagte er. „Ich weiß nicht alles. Ich weiß
-genug."
+„Ich weiß, was gerade läuft“, sagte er. „Ich weiß nicht alles. Ich weiß
+genug.“
 
 ---
 
@@ -5209,23 +5209,23 @@ gemacht, und sie war gut.
 
 Am nächsten Vormittag rief ich ihn an und stellte eine einzige Frage.
 
-„Herr Kellermann. Was passiert mit dem Erdgeschoss?"
+„Herr Kellermann. Was passiert mit dem Erdgeschoss?“
 
 „Das bleibt selbstverständlich gastronomisch. Das ist doch der Charme
-des Hauses."
+des Hauses.“
 
-„Schreiben wir das in den Vertrag?"
+„Schreiben wir das in den Vertrag?“
 
 Eine Pause. Nicht lang. Zwei Sekunden.
 
-„Frau Voss, so etwas schreibt man nicht in einen Kaufvertrag."
+„Frau Voss, so etwas schreibt man nicht in einen Kaufvertrag.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil niemand sich für zwanzig Jahre die Hände bindet." Er sagte es
-freundlich, fast entschuldigend. „Das würden Sie auch nicht tun."
+„Weil niemand sich für zwanzig Jahre die Hände bindet.“ Er sagte es
+freundlich, fast entschuldigend. „Das würden Sie auch nicht tun.“
 
-„Nein", sagte ich. „Aber ich hätte es auch nicht vorher behauptet."
+„Nein“, sagte ich. „Aber ich hätte es auch nicht vorher behauptet.“
 
 ---
 
@@ -5233,7 +5233,7 @@ Ich habe abgelehnt, und ich habe es nicht wegen Jonas Reinhardt getan.
 
 Das ist mir wichtig, und ich habe es Frau Kettler an diesem Tag dreimal
 gesagt, bis sie sagte: „Ja, Frau Voss, ich habe es beim ersten Mal
-verstanden."
+verstanden.“
 
 Ich habe aus zwei Gründen abgelehnt.
 
@@ -5295,25 +5295,25 @@ zähle die Nacht in der Kinderklinik mit.
 
 Es klingelte einmal.
 
-„Marlene."
+„Marlene.“
 
 Nicht *Reinhardt*. Er hatte draufgesehen, bevor er ranging.
 
-„Es geht nicht um Emil", sagte ich schnell, weil ich wusste, was er
-denkt. „Emil ist gesund. Es ist etwas anderes."
+„Es geht nicht um Emil“, sagte ich schnell, weil ich wusste, was er
+denkt. „Emil ist gesund. Es ist etwas anderes.“
 
-„Gut." Ich hörte, wie er irgendwo eine Tür zumachte. „Sag."
+„Gut.“ Ich hörte, wie er irgendwo eine Tür zumachte. „Sag.“
 
 Ich hatte mir drei Sätze zurechtgelegt und keinen davon geübt.
 
 „Die Frist der Bank ist am Fünfzehnten. Der Beirat tagt am
-Zwanzigsten." Ich sah aus dem Fenster auf das Fleet. „Du bist der
+Zwanzigsten.“ Ich sah aus dem Fenster auf das Fleet. „Du bist der
 Gläubiger. Du kannst die Frist verlängern. Ich kann das nicht selbst,
-und ich kenne niemanden, der es für mich machen kann."
+und ich kenne niemanden, der es für mich machen kann.“
 
 Ich holte Luft.
 
-„Ich bitte dich darum."
+„Ich bitte dich darum.“
 
 ---
 
@@ -5321,19 +5321,19 @@ Ich hatte mit vielem gerechnet. Mit einer Rückfrage. Mit *natürlich, das
 hätte ich längst*. Mit Erleichterung in seiner Stimme, die ich ihm nicht
 verziehen hätte.
 
-Er sagte: „Ja."
+Er sagte: „Ja.“
 
 Sonst nichts. Kein *selbstverständlich*, keine Bedingung, keine Frage,
 nicht ein Wort dazu, wie lange oder warum oder was danach.
 
-„Bis wann?", fragte ich.
+„Bis wann?“, fragte ich.
 
-„Bis du es sagst."
+„Bis du es sagst.“
 
 Und dann, nach einer Pause, in der ich ihn atmen hörte:
 
 „Niklas schickt dir das schriftlich, in einer Stunde. Damit du es in
-der Hand hast und nicht mir glauben musst."
+der Hand hast und nicht mir glauben musst.“
 
 Ich legte auf und setzte mich auf den Stuhl neben der Kasse, auf dem
 sonst die Tasche steht.
@@ -5353,10 +5353,10 @@ Ich hatte keine Präsentation vorbereitet. Ich hatte vier Blätter, für
 jeden eins, und auf dem ersten stand oben, weil Niklas darauf bestanden
 hatte, das Wort **Interessenkonflikt**.
 
-„Bevor wir mit dem Projekt anfangen", sagte ich, „muss ich Ihnen etwas
+„Bevor wir mit dem Projekt anfangen“, sagte ich, „muss ich Ihnen etwas
 über mich erzählen. Es dauert vier Minuten, und danach wissen Sie alles,
 und dann können Sie entscheiden, ob Sie mir überhaupt noch zuhören
-wollen."
+wollen.“
 
 Und dann erzählte ich es.
 
@@ -5379,34 +5379,34 @@ Dr. Wendland stellte die richtige Frage, weil er immer die richtige
 Frage stellt.
 
 „Was hätte die Gesellschaft am fünfzehnten Januar bezahlt, wenn Sie
-nichts getan hätten?"
+nichts getan hätten?“
 
 Ich hatte es ausrechnen lassen. Ich schob das dritte Blatt in die Mitte.
 
 „Bei einer Zwangsversteigerung im Frühjahr: geschätzt zwischen
 zweihundertvierzig und dreihundertzwanzigtausend für das gesamte Objekt.
 Mit dem Objekt hätten wir die drei Rechte umsonst gehabt, weil sie dann
-uns gehört hätten."
+uns gehört hätten.“
 
-„Und was schlagen Sie stattdessen vor?"
+„Und was schlagen Sie stattdessen vor?“
 
 „Zweihundertachtundsechzigtausend für die Rechte allein. Das Haus bleibt
-ihr."
+ihr.“
 
 Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
 man lacht, wenn eine Zahl für sich spricht.
 
-„Sie haben die Gesellschaft also", sagte Wendland, „durch eine private
+„Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
 Handlung um eine Erwerbschance gebracht, deren Wert wir mit — sagen wir
 vorsichtig — siebenhunderttausend beziffern können, wenn man die
-ersparte Alternativtrasse gegenrechnet."
+ersparte Alternativtrasse gegenrechnet.“
 
-„Ja."
+„Ja.“
 
-„Sagen Sie *ja* nicht so schnell, Reinhardt. Denken Sie darüber nach."
+„Sagen Sie *ja* nicht so schnell, Reinhardt. Denken Sie darüber nach.“
 
-„Ich denke seit vier Wochen über nichts anderes nach", sagte ich. „Es
-bleibt ja."
+„Ich denke seit vier Wochen über nichts anderes nach“, sagte ich. „Es
+bleibt ja.“
 
 ---
 
@@ -5420,33 +5420,33 @@ sichtbar.
 Und genau deshalb sagte ich den Satz, den mir Niklas ausdrücklich
 abgeraten hatte.
 
-„Ich möchte, dass wir das nicht so beschließen."
+„Ich möchte, dass wir das nicht so beschließen.“
 
 Wendland sah hoch.
 
 „Wenn wir das heute beschließen, weil es billiger ist als die
-Alternativtrasse, dann haben wir eine Rechnung gemacht", sagte ich. „Die
+Alternativtrasse, dann haben wir eine Rechnung gemacht“, sagte ich. „Die
 Rechnung stimmt. Sie ändert aber nichts daran, dass ich privat etwas
 getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
-sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück."
+sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
 
-„Und was schlagen Sie vor?"
+„Und was schlagen Sie vor?“
 
 Ich schob das vierte Blatt hin.
 
 „Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem
 Durchschnitt der letzten fünf Jahre sind das dreihundertsechzigtausend
 Euro. Der Verzicht ist unwiderruflich und wird im Anstellungsvertrag
-niedergelegt, nicht im Protokoll."
+niedergelegt, nicht im Protokoll.“
 
 Der Raum war sehr still.
 
-„Das ist mehr als der Schaden", sagte jemand.
+„Das ist mehr als der Schaden“, sagte jemand.
 
-„Der Schaden ist nicht ausrechenbar", sagte ich. „Deshalb nehme ich
+„Der Schaden ist nicht ausrechenbar“, sagte ich. „Deshalb nehme ich
 lieber zu viel als zu wenig. Ich möchte nicht, dass in fünf Jahren
 jemand an diesem Tisch sitzt und sagt, der Reinhardt hat sich das damals
-schöngerechnet."
+schöngerechnet.“
 
 ---
 
@@ -5456,7 +5456,7 @@ Herr Bosse, einer von den dreien, die selten etwas sagen, meldete sich.
 Ich habe diesen Mann in neunzehn Jahren vielleicht dreißig Sätze sagen
 hören.
 
-„Ich beantrage die Abberufung des Geschäftsführers."
+„Ich beantrage die Abberufung des Geschäftsführers.“
 
 Er sagte es ohne Feindseligkeit. Er begründete es in vier Sätzen, und
 jeder einzelne stimmte: Ein Geschäftsführer, der privat Positionen
@@ -5467,13 +5467,13 @@ durchgehen lässt, wird das nächste Mal gar nicht erst gefragt.
 Ich saß da und hörte mir zu, wie ein Fremder über mich sprach, und ich
 stimmte ihm in jedem Punkt zu.
 
-„Möchten Sie etwas dazu sagen?", fragte Wendland.
+„Möchten Sie etwas dazu sagen?“, fragte Wendland.
 
-„Er hat recht", sagte ich.
+„Er hat recht“, sagte ich.
 
-„Das ist keine Verteidigung."
+„Das ist keine Verteidigung.“
 
-„Ich habe keine."
+„Ich habe keine.“
 
 ---
 
@@ -5484,7 +5484,7 @@ Fünf zu zwei gegen die Abberufung.
 Ich habe hinterher nie herausgefunden, wer der zweite war. Bosse hat es
 nicht verheimlicht; er hat mir nach der Sitzung die Hand gegeben und
 gesagt: „Nichts Persönliches, Herr Reinhardt. Ich hoffe, Sie machen es
-gut." Den anderen kenne ich bis heute nicht, und ich habe aufgehört, es
+gut.“ Den anderen kenne ich bis heute nicht, und ich habe aufgehört, es
 wissen zu wollen.
 
 Dann wurde das Übrige beschlossen.
@@ -5511,31 +5511,31 @@ Danach blieb Wendland sitzen, bis die anderen draußen waren.
 Neunzehn Jahre. Ich habe mit diesem Mann nie über etwas anderes geredet
 als über Zahlen.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Ja."
+„Ja.“
 
-„Ihr Vater hat 1997 das Haus seiner Frau verkauft."
+„Ihr Vater hat 1997 das Haus seiner Frau verkauft.“
 
 Ich sah auf.
 
-„Ich war damals schon dabei", sagte Wendland. „Nicht im Beirat, ich war
-bei der Bank. Ich habe die Unterlagen gesehen." Er klappte seine Mappe
+„Ich war damals schon dabei“, sagte Wendland. „Nicht im Beirat, ich war
+bei der Bank. Ich habe die Unterlagen gesehen.“ Er klappte seine Mappe
 zu. „Er hat es genau richtig gemacht. Jede Zahl stimmte. Ich habe ihn
-dafür bewundert."
+dafür bewundert.“
 
 Er stand auf und nahm seinen Mantel vom Stuhl.
 
 „Ich habe ihn zwanzig Jahre lang für den vernünftigsten Menschen
 gehalten, den ich kenne, und ich habe erst auf seiner Beerdigung
 gemerkt, dass ich nicht ein einziges Mal mit ihm über etwas gesprochen
-habe, das ihm wichtig war." An der Tür blieb er stehen. „Sie haben heute
+habe, das ihm wichtig war.“ An der Tür blieb er stehen. „Sie haben heute
 vier Minuten lang über Ihr Kind geredet, in diesem Raum, vor diesen
-Leuten. Das war das Dümmste, was Sie machen konnten."
+Leuten. Das war das Dümmste, was Sie machen konnten.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Machen Sie es wieder", sagte Wendland und ging.
+„Machen Sie es wieder“, sagte Wendland und ging.
 
 ---
 
@@ -5644,11 +5644,11 @@ Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
 Anschaffungspreis des Verkäufers entspricht und dass die Parteien
 übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
 
-„Ist das so richtig?", fragte er.
+„Ist das so richtig?“, fragte er.
 
-„Ja", sagte Jonas.
+„Ja“, sagte Jonas.
 
-„Ja", sagte ich.
+„Ja“, sagte ich.
 
 **Drittens** las er einen Absatz vor, bei dem ich zum ersten Mal an
 diesem Vormittag nach Luft geschnappt habe.
@@ -5657,12 +5657,12 @@ diesem Vormittag nach Luft geschnappt habe.
 Forderung und Schuld in einer Person. Die Forderung erlischt
 (Konfusion).*
 
-„Konfusion", sagte ich.
+„Konfusion“, sagte ich.
 
-„Ein alter Ausdruck", sagte der Notar. „Vermengung. Es ist der einzige
+„Ein alter Ausdruck“, sagte der Notar. „Vermengung. Es ist der einzige
 Fall, in dem eine Schuld verschwindet, ohne dass jemand sie bezahlt oder
 erlässt. Sie hört einfach auf zu existieren, weil niemand mehr da ist,
-der sie fordern könnte."
+der sie fordern könnte.“
 
 Ich sah über den Tisch.
 
@@ -5675,7 +5675,7 @@ Jonas sah auf seine Hände.
 **Fünftens:** ein Blatt, das nicht auf der Tagesordnung stand.
 
 Niklas schob es rüber. „Von der Gesellschaft. Nicht von meinem Bruder.
-Er weiß, was drinsteht, er hat es nicht formuliert."
+Er weiß, was drinsteht, er hat es nicht formuliert.“
 
 Eine Verpflichtung der Reinhardt Immobilien GmbH, im Erdgeschoss von
 Kehrwieder 12 auf zwanzig Jahre keine Nutzungsänderung zu verlangen, zu
@@ -5684,12 +5684,12 @@ eintragen zu lassen.
 
 Ich las es zweimal.
 
-„Warum?", sagte ich.
+„Warum?“, sagte ich.
 
 „Weil Sie es Herrn Kellermann angeboten haben und er es nicht
-unterschreiben wollte", sagte Niklas. „Das hat sich herumgesprochen. In
+unterschreiben wollte“, sagte Niklas. „Das hat sich herumgesprochen. In
 dieser Stadt spricht sich alles herum, Frau Voss, das haben Sie
-inzwischen gemerkt."
+inzwischen gemerkt.“
 
 Ich unterschrieb um elf Uhr zehn.
 
@@ -5713,13 +5713,13 @@ Tage gearbeitet, weil ich es nicht anders bezahlen konnte, und sie hat
 nie ein Wort gesagt. Rückwirkend geht das nicht. Ab jetzt geht es.
 
 Sie hat den Vertrag gelesen, ihn hingelegt und gesagt: „Da steht
-Weihnachtsgeld."
+Weihnachtsgeld.“
 
-„Ja."
+„Ja.“
 
-„Frau Voss, ich bin einundsechzig."
+„Frau Voss, ich bin einundsechzig.“
 
-„Dann kriegen Sie es eben nur noch viermal."
+„Dann kriegen Sie es eben nur noch viermal.“
 
 Sie ist in den Backraum gegangen und eine Weile nicht wiedergekommen.
 
@@ -5735,17 +5735,17 @@ gegangen.
 
 Ich hatte keinen Termin. Das war Absicht.
 
-Unten fragte man mich nach dem Anlass. Ich sagte: „Privat", und die Frau
+Unten fragte man mich nach dem Anlass. Ich sagte: „Privat“, und die Frau
 am Empfang sah mich an und rief oben an und sagte danach: „Vierter
-Stock."
+Stock.“
 
 Frau Kuhlmann wartete am Aufzug. Sie ist Ende fünfzig und hat mich
 angesehen wie eine Zollbeamtin und dann gesagt: „Er hat gleich einen
-Termin. Der Termin fällt aus."
+Termin. Der Termin fällt aus.“
 
-„Ich brauche zehn Minuten."
+„Ich brauche zehn Minuten.“
 
-„Sie kriegen so viele, wie Sie wollen", sagte Frau Kuhlmann.
+„Sie kriegen so viele, wie Sie wollen“, sagte Frau Kuhlmann.
 
 ---
 
@@ -5757,22 +5757,22 @@ beiden ist Emil.
 Er stand auf, als ich reinkam, und blieb dann stehen, weil er nicht
 wusste, ob er um den Tisch herumgehen darf.
 
-„Setz dich hin", sagte ich. „Ich habe das geübt und ich kriege es nicht
-hin, wenn du so stehst."
+„Setz dich hin“, sagte ich. „Ich habe das geübt und ich kriege es nicht
+hin, wenn du so stehst.“
 
 Er setzte sich.
 
 Ich blieb stehen. Das gehörte nicht zum Plan, aber ich konnte nicht
 anders.
 
-„Erstens", sagte ich. „Punkt sieben. Ich habe es gelesen.
-Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben."
+„Erstens“, sagte ich. „Punkt sieben. Ich habe es gelesen.
+Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben.“
 
-„Nein."
+„Nein.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil es dann eine Rechnung gewesen wäre."
+„Weil es dann eine Rechnung gewesen wäre.“
 
 Ich nickte, weil das die richtige Antwort war und weil ich sie erwartet
 hatte und weil ich sie trotzdem hören musste.
@@ -5781,15 +5781,15 @@ hatte und weil ich sie trotzdem hören musste.
 Gruppe zwei, die Eingewöhnung geht über acht Tage. Man muss die ersten
 drei Vormittage dabeisitzen, in einem Raum mit vierzehn Kindern, auf
 einem Stuhl, der dreißig Zentimeter hoch ist, und darf nichts machen
-außer da sein."
+außer da sein.“
 
 Er sah mich an.
 
-„Ich kann das nicht allein", sagte ich. „Nicht weil es zu schwer wäre.
+„Ich kann das nicht allein“, sagte ich. „Nicht weil es zu schwer wäre.
 Weil ich morgens den Laden aufmache und Frau Kettler dienstags zum Arzt
 muss. Ich könnte es hinbiegen. Ich habe drei Jahre lang alles
-hingebogen." Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
-möchte dich fragen. Kommst du?"
+hingebogen.“ Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
+möchte dich fragen. Kommst du?“
 
 ---
 
@@ -5797,16 +5797,16 @@ Er hat nicht sofort geantwortet. Er hat eine Sekunde gebraucht, und in
 dieser Sekunde ist etwas mit seinem Gesicht passiert, das ich nicht
 beschreiben kann und auch nicht will.
 
-„Ja", sagte er. „Alle drei."
+„Ja“, sagte er. „Alle drei.“
 
-„Es sind nur die ersten drei Vormittage."
+„Es sind nur die ersten drei Vormittage.“
 
-„Ich habe acht gehört", sagte Jonas. „Ich komme acht."
+„Ich habe acht gehört“, sagte Jonas. „Ich komme acht.“
 
 Ich stand da in diesem scheußlichen Büro und merkte, dass ich weine, was
 mir in fremden Räumen noch nie passiert ist.
 
-„Drittens", sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
+„Drittens“, sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
 sage, für die es zu früh ist.
 
 Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
@@ -5814,12 +5814,12 @@ Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
 Ich möchte, dass du mich fragst, bevor du das nächste Mal etwas für mich
 entscheidest. Und ich möchte lernen, dich zu fragen, und das war eben
 mein zweites Mal überhaupt, und ich habe zweiunddreißig Jahre
-Rückstand." Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
-hin. Ich glaube, das dauert ein Jahr."
+Rückstand.“ Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
+hin. Ich glaube, das dauert ein Jahr.“
 
 Er stand auf.
 
-„Ich habe Zeit", sagte er.
+„Ich habe Zeit“, sagte er.
 
 Das hat er im November schon einmal gesagt, am Telefon, als ich ihn zu
 dem Mittwoch eingeladen habe, an dem ich es ihm gesagt habe. *Es dauert
@@ -5845,12 +5845,12 @@ es nicht kommt, ist man trotzdem da.
 Man macht acht Vormittage lang nichts.
 
 Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt."
+sind sehr angespannt.“
 
-„Ich weiß nicht, was ich tun soll."
+„Ich weiß nicht, was ich tun soll.“
 
-„Nichts", sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen."
+„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
+halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
 
 Ich habe den Legoturm nicht gebaut.
 
@@ -5883,15 +5883,15 @@ uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
 sagen würde.
 
 Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat."
+nur machst, damit Emil einen Vater hat.“
 
 Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
 sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe."
+vor dem Anruf habe.“
 
 Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
 Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter", was in ihrem Wortschatz an dritter Stelle nach
+für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
 Heiligsprechung kommt.
 
 ---
@@ -5902,13 +5902,13 @@ den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
 **23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
 Auch die Frist. Ohne Vorrede.**
 
-„Der hing da zwei Monate", sagte sie.
+„Der hing da zwei Monate“, sagte sie.
 
-„Warum?"
+„Warum?“
 
-„Damit ich ihn jeden Morgen sehe." Sie setzte sich mir gegenüber. „Ich
+„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
 habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist."
+mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
 
 Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
 Abschrift vom Jugendamt.
@@ -5956,7 +5956,7 @@ hätte, ja zu sagen.
 
 Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
 verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten."
+weiß ich, dass es kommt, und muss nicht raten.“
 
 Das ist der ganze Unterschied.
 
@@ -5969,12 +5969,12 @@ Es war eine Erbse.
 
 Ich nahm sie.
 
-„Danke", sagte ich.
+„Danke“, sagte ich.
 
 Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
 seit Weihnachten arbeitet:
 
-„Papa."
+„Papa.“
 
 Dann drehte er sich wieder um und schob weiter Erbsen.
 
@@ -5994,32 +5994,32 @@ Diesmal reichte es.
 Um zehn nach neun klingelte mein Telefon.
 
 Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit."
+„Geh ran, es ist Freitag, das ist nie die Arbeit.“
 
 Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
 von ruhig, die Menschen haben, die vorher lange geübt haben.
 
-„Herr Reinhardt? Jonas Reinhardt?"
+„Herr Reinhardt? Jonas Reinhardt?“
 
-„Ja."
+„Ja.“
 
-„Sie kennen mich nicht", sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet."
+„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
+vierzehn Monaten mit Ihrem Bruder verheiratet.“
 
 Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen",
+„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
 sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss."
+Land verlassen muss.“
 
 Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
 Decke, so wie es das in diesem Haus immer tut.
 
-„Wer ist dran?", fragte Marlene.
+„Wer ist dran?“, fragte Marlene.
 
 Ich hielt das Telefon fest.
 
-„Ich glaube", sagte ich, „meine Schwägerin."
+„Ich glaube“, sagte ich, „meine Schwägerin.“
 
 ---
 
@@ -6077,18 +6077,18 @@ genommen worden.
 
 > *Der Anruf kam am achten Mai um zehn nach neun.*
 >
-> „Herr Reinhardt? Jonas Reinhardt?"
+> „Herr Reinhardt? Jonas Reinhardt?“
 >
-> „Ja."
+> „Ja.“
 >
-> „Sie kennen mich nicht", sagte sie. „Mein Name ist Amira. Ich bin
-> seit vierzehn Monaten mit Ihrem Bruder verheiratet."
+> „Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin
+> seit vierzehn Monaten mit Ihrem Bruder verheiratet.“
 >
 > Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
 >
-> „Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen",
+> „Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
 > sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-> Land verlassen muss."
+> Land verlassen muss.“
 
 ---
 

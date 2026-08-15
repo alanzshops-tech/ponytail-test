@@ -3,23 +3,23 @@
 Herr Sievers, mein Steuerberater, brauchte elf Minuten, um mir zu sagen,
 dass ich verrückt sei.
 
-„Dreihunderttausend auf dem Tisch", sagte er und tippte mit dem Kugel-
-schreiber auf den Entwurf, „und Sie verhandeln über ein Dach."
+„Dreihunderttausend auf dem Tisch“, sagte er und tippte mit dem Kugel-
+schreiber auf den Entwurf, „und Sie verhandeln über ein Dach.“
 
-„Über ein Dach und zwei Etagen."
+„Über ein Dach und zwei Etagen.“
 
 „Die Ihnen in fünfzehn Jahren zurückfallen. Frau Voss, wissen Sie, was in
-fünfzehn Jahren ist?"
+fünfzehn Jahren ist?“
 
-„Nein."
+„Nein.“
 
-„Eben." Er blätterte um. „Andererseits."
+„Eben.“ Er blätterte um. „Andererseits.“
 
 Ich wartete.
 
-„Andererseits", sagte er langsam, „ist das der erste Vertragsentwurf seit
+„Andererseits“, sagte er langsam, „ist das der erste Vertragsentwurf seit
 langem, bei dem ich nicht sofort weiß, wo der Haken ist. Und das
-beunruhigt mich mehr, als wenn ich ihn fände."
+beunruhigt mich mehr, als wenn ich ihn fände.“
 
 ---
 
@@ -28,27 +28,27 @@ es Reinhardt Immobilien erlaubt hätte, das Wegerecht an einen Dritten
 weiterzugeben. Sievers strich sie durch und schrieb an den Rand: *nur
 mit schriftlicher Zustimmung, nicht übertragbar an Dritte.*
 
-„So", sagte er. „Jetzt können Sie unterschreiben."
+„So“, sagte er. „Jetzt können Sie unterschreiben.“
 
-„Und das Dach?"
+„Und das Dach?“
 
 „Steht drin. Vollständige Sanierung nach Denkmalschutzauflagen, Beginn
 innerhalb von acht Wochen nach Vertragsschluss, Kostenübernahme
-vollständig." Er sah über die Brille. „Ehrlich gesagt, Frau Voss: Das ist
+vollständig.“ Er sah über die Brille. „Ehrlich gesagt, Frau Voss: Das ist
 kein schlechter Vertrag. Das ist ein sehr guter Vertrag. Wer hat den
-aufgesetzt?"
+aufgesetzt?“
 
-„Ihr Anwalt."
+„Ihr Anwalt.“
 
-„Und Sie haben nichts dafür bezahlt?"
+„Und Sie haben nichts dafür bezahlt?“
 
-„Nein."
+„Nein.“
 
 Sievers legte den Kugelschreiber hin.
 
-„Dann würde ich mich fragen", sagte er, „warum jemand, dem vier Komma
+„Dann würde ich mich fragen“, sagte er, „warum jemand, dem vier Komma
 zwei Millionen auf dem Spiel stehen, einen Vertrag aufsetzt, bei dem er
-das Dach zahlt und Sie das Erdgeschoss behalten."
+das Dach zahlt und Sie das Erdgeschoss behalten.“
 
 ---
 
@@ -74,11 +74,11 @@ nach oben, weil jemand über mir sprach, und da stand er, in einer
 Warnweste über dem Hemd, ohne Mantel, und diskutierte mit einem Mann in
 einem Overall über etwas an der Traufe.
 
-„Sie sollten einen Helm tragen", rief ich.
+„Sie sollten einen Helm tragen“, rief ich.
 
-Er sah runter. „Ich trage einen Helm."
+Er sah runter. „Ich trage einen Helm.“
 
-„Sie tragen ihn in der Hand."
+„Sie tragen ihn in der Hand.“
 
 Der Mann im Overall lachte. Jonas setzte den Helm auf.
 
@@ -97,20 +97,20 @@ einen Kaffee im Stehen an der Theke, zahlte, und ging.
 Immer im Stehen. Immer gezahlt.
 
 In der dritten Woche sagte er: „Der Zitronenkuchen ist besser als letzte
-Woche."
+Woche.“
 
-„Es ist derselbe Kuchen."
+„Es ist derselbe Kuchen.“
 
-„Nein." Er stellte die Tasse ab. „Letzte Woche war die Baiserschicht
-dicker. Heute nicht. Heute schmeckt man die Zitrone zuerst."
+„Nein.“ Er stellte die Tasse ab. „Letzte Woche war die Baiserschicht
+dicker. Heute nicht. Heute schmeckt man die Zitrone zuerst.“
 
 Ich stand da mit dem Tuch in der Hand und wusste nicht, was ich sagen
 sollte, weil er recht hatte, weil ich das Rezept tatsächlich geändert
 hatte, und weil in zwei Jahren kein einziger Mensch das gemerkt hatte.
 
-„Ich habe weniger Zucker genommen", sagte ich.
+„Ich habe weniger Zucker genommen“, sagte ich.
 
-„Es ist besser."
+„Es ist besser.“
 
 Und dann ging er, und ich blieb hinter der Theke stehen und war wütend,
 und ich brauchte den halben Vormittag, um zu verstehen, worauf.
@@ -134,21 +134,21 @@ für das ich mich bis heute schäme: Ich schob den Laufstall mit dem Fuß
 weiter nach hinten, hinter das Regal, und legte Emil eine Hand auf den
 Rücken, damit er nichts sagt.
 
-Er sagte natürlich etwas. Er sagte „Ma".
+Er sagte natürlich etwas. Er sagte „Ma“.
 
 Jonas blieb in der Tür stehen.
 
 Wir sahen uns an, über zwölf leere Tische hinweg, und in dieser Sekunde
 wusste ich, dass es vorbei ist. Nicht heute. Aber bald.
 
-„Ich habe Sie nicht gestört?", fragte er.
+„Ich habe Sie nicht gestört?“, fragte er.
 
-„Nein."
+„Nein.“
 
-„Der Zimmermann sagt, Freitag ist das Dach dicht." Er kam nicht näher.
-„Ich wollte nur Bescheid sagen."
+„Der Zimmermann sagt, Freitag ist das Dach dicht.“ Er kam nicht näher.
+„Ich wollte nur Bescheid sagen.“
 
-„Danke."
+„Danke.“
 
 Er nickte. Er sah nicht hinter das Regal. Er sah mich an, und ich sah,
 dass er es nicht tat, weil er sich zwang, es nicht zu tun.
@@ -161,11 +161,11 @@ Freitagabend, nach Ladenschluss, saß ich auf der Treppe zur Wohnung, mit
 Emil auf dem Schoß, und hörte, wie es zum ersten Mal seit vier Jahren
 regnete, ohne dass ich einen Eimer in den dritten Stock tragen musste.
 
-„Hörst du das?", fragte ich ihn.
+„Hörst du das?“, fragte ich ihn.
 
-„Da", sagte Emil und zeigte an die Decke.
+„Da“, sagte Emil und zeigte an die Decke.
 
-„Ja", sagte ich. „Da."
+„Ja“, sagte ich. „Da.“
 
 Und dann saß ich noch lange da, nachdem er eingeschlafen war, und dachte
 an einen Mann, der auf einem Gerüst steht, obwohl er nicht muss, und der

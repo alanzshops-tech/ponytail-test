@@ -76,11 +76,11 @@ Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
 Anschaffungspreis des Verkäufers entspricht und dass die Parteien
 übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
 
-„Ist das so richtig?", fragte er.
+„Ist das so richtig?“, fragte er.
 
-„Ja", sagte Jonas.
+„Ja“, sagte Jonas.
 
-„Ja", sagte ich.
+„Ja“, sagte ich.
 
 **Drittens** las er einen Absatz vor, bei dem ich zum ersten Mal an
 diesem Vormittag nach Luft geschnappt habe.
@@ -89,12 +89,12 @@ diesem Vormittag nach Luft geschnappt habe.
 Forderung und Schuld in einer Person. Die Forderung erlischt
 (Konfusion).*
 
-„Konfusion", sagte ich.
+„Konfusion“, sagte ich.
 
-„Ein alter Ausdruck", sagte der Notar. „Vermengung. Es ist der einzige
+„Ein alter Ausdruck“, sagte der Notar. „Vermengung. Es ist der einzige
 Fall, in dem eine Schuld verschwindet, ohne dass jemand sie bezahlt oder
 erlässt. Sie hört einfach auf zu existieren, weil niemand mehr da ist,
-der sie fordern könnte."
+der sie fordern könnte.“
 
 Ich sah über den Tisch.
 
@@ -107,7 +107,7 @@ Jonas sah auf seine Hände.
 **Fünftens:** ein Blatt, das nicht auf der Tagesordnung stand.
 
 Niklas schob es rüber. „Von der Gesellschaft. Nicht von meinem Bruder.
-Er weiß, was drinsteht, er hat es nicht formuliert."
+Er weiß, was drinsteht, er hat es nicht formuliert.“
 
 Eine Verpflichtung der Reinhardt Immobilien GmbH, im Erdgeschoss von
 Kehrwieder 12 auf zwanzig Jahre keine Nutzungsänderung zu verlangen, zu
@@ -116,12 +116,12 @@ eintragen zu lassen.
 
 Ich las es zweimal.
 
-„Warum?", sagte ich.
+„Warum?“, sagte ich.
 
 „Weil Sie es Herrn Kellermann angeboten haben und er es nicht
-unterschreiben wollte", sagte Niklas. „Das hat sich herumgesprochen. In
+unterschreiben wollte“, sagte Niklas. „Das hat sich herumgesprochen. In
 dieser Stadt spricht sich alles herum, Frau Voss, das haben Sie
-inzwischen gemerkt."
+inzwischen gemerkt.“
 
 Ich unterschrieb um elf Uhr zehn.
 
@@ -145,13 +145,13 @@ Tage gearbeitet, weil ich es nicht anders bezahlen konnte, und sie hat
 nie ein Wort gesagt. Rückwirkend geht das nicht. Ab jetzt geht es.
 
 Sie hat den Vertrag gelesen, ihn hingelegt und gesagt: „Da steht
-Weihnachtsgeld."
+Weihnachtsgeld.“
 
-„Ja."
+„Ja.“
 
-„Frau Voss, ich bin einundsechzig."
+„Frau Voss, ich bin einundsechzig.“
 
-„Dann kriegen Sie es eben nur noch viermal."
+„Dann kriegen Sie es eben nur noch viermal.“
 
 Sie ist in den Backraum gegangen und eine Weile nicht wiedergekommen.
 
@@ -167,17 +167,17 @@ gegangen.
 
 Ich hatte keinen Termin. Das war Absicht.
 
-Unten fragte man mich nach dem Anlass. Ich sagte: „Privat", und die Frau
+Unten fragte man mich nach dem Anlass. Ich sagte: „Privat“, und die Frau
 am Empfang sah mich an und rief oben an und sagte danach: „Vierter
-Stock."
+Stock.“
 
 Frau Kuhlmann wartete am Aufzug. Sie ist Ende fünfzig und hat mich
 angesehen wie eine Zollbeamtin und dann gesagt: „Er hat gleich einen
-Termin. Der Termin fällt aus."
+Termin. Der Termin fällt aus.“
 
-„Ich brauche zehn Minuten."
+„Ich brauche zehn Minuten.“
 
-„Sie kriegen so viele, wie Sie wollen", sagte Frau Kuhlmann.
+„Sie kriegen so viele, wie Sie wollen“, sagte Frau Kuhlmann.
 
 ---
 
@@ -189,22 +189,22 @@ beiden ist Emil.
 Er stand auf, als ich reinkam, und blieb dann stehen, weil er nicht
 wusste, ob er um den Tisch herumgehen darf.
 
-„Setz dich hin", sagte ich. „Ich habe das geübt und ich kriege es nicht
-hin, wenn du so stehst."
+„Setz dich hin“, sagte ich. „Ich habe das geübt und ich kriege es nicht
+hin, wenn du so stehst.“
 
 Er setzte sich.
 
 Ich blieb stehen. Das gehörte nicht zum Plan, aber ich konnte nicht
 anders.
 
-„Erstens", sagte ich. „Punkt sieben. Ich habe es gelesen.
-Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben."
+„Erstens“, sagte ich. „Punkt sieben. Ich habe es gelesen.
+Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben.“
 
-„Nein."
+„Nein.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil es dann eine Rechnung gewesen wäre."
+„Weil es dann eine Rechnung gewesen wäre.“
 
 Ich nickte, weil das die richtige Antwort war und weil ich sie erwartet
 hatte und weil ich sie trotzdem hören musste.
@@ -213,15 +213,15 @@ hatte und weil ich sie trotzdem hören musste.
 Gruppe zwei, die Eingewöhnung geht über acht Tage. Man muss die ersten
 drei Vormittage dabeisitzen, in einem Raum mit vierzehn Kindern, auf
 einem Stuhl, der dreißig Zentimeter hoch ist, und darf nichts machen
-außer da sein."
+außer da sein.“
 
 Er sah mich an.
 
-„Ich kann das nicht allein", sagte ich. „Nicht weil es zu schwer wäre.
+„Ich kann das nicht allein“, sagte ich. „Nicht weil es zu schwer wäre.
 Weil ich morgens den Laden aufmache und Frau Kettler dienstags zum Arzt
 muss. Ich könnte es hinbiegen. Ich habe drei Jahre lang alles
-hingebogen." Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
-möchte dich fragen. Kommst du?"
+hingebogen.“ Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
+möchte dich fragen. Kommst du?“
 
 ---
 
@@ -229,16 +229,16 @@ Er hat nicht sofort geantwortet. Er hat eine Sekunde gebraucht, und in
 dieser Sekunde ist etwas mit seinem Gesicht passiert, das ich nicht
 beschreiben kann und auch nicht will.
 
-„Ja", sagte er. „Alle drei."
+„Ja“, sagte er. „Alle drei.“
 
-„Es sind nur die ersten drei Vormittage."
+„Es sind nur die ersten drei Vormittage.“
 
-„Ich habe acht gehört", sagte Jonas. „Ich komme acht."
+„Ich habe acht gehört“, sagte Jonas. „Ich komme acht.“
 
 Ich stand da in diesem scheußlichen Büro und merkte, dass ich weine, was
 mir in fremden Räumen noch nie passiert ist.
 
-„Drittens", sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
+„Drittens“, sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
 sage, für die es zu früh ist.
 
 Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
@@ -246,12 +246,12 @@ Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
 Ich möchte, dass du mich fragst, bevor du das nächste Mal etwas für mich
 entscheidest. Und ich möchte lernen, dich zu fragen, und das war eben
 mein zweites Mal überhaupt, und ich habe zweiunddreißig Jahre
-Rückstand." Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
-hin. Ich glaube, das dauert ein Jahr."
+Rückstand.“ Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
+hin. Ich glaube, das dauert ein Jahr.“
 
 Er stand auf.
 
-„Ich habe Zeit", sagte er.
+„Ich habe Zeit“, sagte er.
 
 Das hat er im November schon einmal gesagt, am Telefon, als ich ihn zu
 dem Mittwoch eingeladen habe, an dem ich es ihm gesagt habe. *Es dauert

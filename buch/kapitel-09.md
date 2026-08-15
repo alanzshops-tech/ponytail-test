@@ -4,25 +4,25 @@ Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
 alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
 Emils Fläschchen ausspülte.
 
-„Der Mann, der abends bei Ihnen sitzt."
+„Der Mann, der abends bei Ihnen sitzt.“
 
-„Herr Reinhardt."
+„Herr Reinhardt.“
 
-„Ja." Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
+„Ja.“ Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
 angesehen, als er nicht hingesehen hat. Er hat dieselbe Stirn wie der
-Kleine."
+Kleine.“
 
 Ich sagte nichts.
 
-„Frau Voss." Sie drehte sich um und trocknete sich die Hände an der
+„Frau Voss.“ Sie drehte sich um und trocknete sich die Hände an der
 Schürze. „Ich bin einundsechzig. Ich habe drei Kinder großgezogen und
-neun fremde. Ich weiß, wann mich etwas nichts angeht."
+neun fremde. Ich weiß, wann mich etwas nichts angeht.“
 
-„Aber?"
+„Aber?“
 
-„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert." Sie
+„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert.“ Sie
 nahm ihren Mantel vom Haken. „Es geht nie gut aus, wenn der andere es
-selbst herausfindet. Nie."
+selbst herausfindet. Nie.“
 
 Sie ging.
 
@@ -72,21 +72,21 @@ Jackentasche trockneten.
 
 Ich saß auf einem Findling und sah ihm zu.
 
-Er hat Jonas' Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
+Er hat Jonas’ Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
 etwas anzusehen, bevor er es anfasst — dieses kurze Innehalten, das bei
 einem achtzehn Monate alten Menschen komisch wirkt und bei einem
 sechsunddreißigjährigen Mann in einer Vorstandssitzung vermutlich
 beeindruckend.
 
-„Emil", sagte ich.
+„Emil“, sagte ich.
 
 Er sah hoch.
 
-„Ich bin ein Feigling."
+„Ich bin ein Feigling.“
 
-„Da", sagte Emil und hielt mir einen Stein hin.
+„Da“, sagte Emil und hielt mir einen Stein hin.
 
-„Danke."
+„Danke.“
 
 Ich steckte ihn ein. Er ist heute noch in der Schublade unter der Kasse,
 neben dem Brief von der Bank, den ich aufgehoben habe, weil man solche
@@ -96,28 +96,28 @@ Briefe aufhebt.
 
 Am Montag rief ich ihn an.
 
-„Reinhardt."
+„Reinhardt.“
 
-„Ich bin's."
+„Ich bin’s.“
 
-„Marlene." Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
-dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?"
+„Marlene.“ Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
+dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?“
 
-„Nein. Ich —" Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
-ob Sie Donnerstag kommen."
+„Nein. Ich —“ Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
+ob Sie Donnerstag kommen.“
 
-„Ich komme jeden Donnerstag."
+„Ich komme jeden Donnerstag.“
 
-„Ich weiß. Ich wollte trotzdem fragen."
+„Ich weiß. Ich wollte trotzdem fragen.“
 
 Eine Pause.
 
-„Marlene, ist alles in Ordnung?"
+„Marlene, ist alles in Ordnung?“
 
 Und da hatte ich es. Die offene Tür. Er hatte gefragt, ohne zu fragen, und
 ich hätte nur sagen müssen: *Nein.*
 
-„Ja", sagte ich. „Alles gut. Bis Donnerstag."
+„Ja“, sagte ich. „Alles gut. Bis Donnerstag.“
 
 Ich legte auf und stand eine Weile mit dem Telefon in der Hand.
 
@@ -129,41 +129,41 @@ diesmal einen Mantel dabei und trug ihn trotzdem nicht.
 Wir arbeiteten anderthalb Stunden am Entwässerungsplan, was ungefähr so
 romantisch ist, wie es klingt. Um kurz nach acht schob er den Plan weg.
 
-„Ich muss Ihnen etwas sagen", sagte er.
+„Ich muss Ihnen etwas sagen“, sagte er.
 
 Mein Herz machte etwas Unangenehmes.
 
-„Ja?"
+„Ja?“
 
 „Am fünfzehnten ist die Beiratssitzung. Da wird der Entwurf beschlossen —
-Ihrer, mit dem Hof." Er drehte die Tasse in der Hand. „Es gibt zwei
+Ihrer, mit dem Hof.“ Er drehte die Tasse in der Hand. „Es gibt zwei
 Leute im Beirat, die das für einen Fehler halten. Sie werden fragen,
 warum wir vier Komma zwei Millionen liegen lassen für ein Kontorhaus, das
-nicht mal besonders schön ist."
+nicht mal besonders schön ist.“
 
-„Und was sagen Sie dann?"
+„Und was sagen Sie dann?“
 
-„Dass der Entwurf besser ist. Was stimmt." Er sah auf. „Aber sie werden
+„Dass der Entwurf besser ist. Was stimmt.“ Er sah auf. „Aber sie werden
 weiterfragen, und irgendwann wird jemand fragen, ob ich die Eigentümerin
-kenne."
+kenne.“
 
 Ich stellte meine Tasse ab.
 
-„Und?"
+„Und?“
 
-„Und ich werde ja sagen."
+„Und ich werde ja sagen.“
 
-„Sie könnten nein sagen."
+„Sie könnten nein sagen.“
 
-„Ich könnte nein sagen", stimmte er zu. „Und dann würde in drei Monaten
+„Ich könnte nein sagen“, stimmte er zu. „Und dann würde in drei Monaten
 jemand herausfinden, dass ich sie kenne, und dann wäre es nicht mehr ein
-Entwurf, der besser ist. Dann wäre es Vetternwirtschaft."
+Entwurf, der besser ist. Dann wäre es Vetternwirtschaft.“
 
 Er strich sich über das Gesicht, und ich sah, wie müde er war.
 
 „Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
-Zweifel vor dem Beirat trägt", sagte er. „Und das hier trägt nur, wenn
-ich es vorher sage. Also sage ich es vorher."
+Zweifel vor dem Beirat trägt“, sagte er. „Und das hier trägt nur, wenn
+ich es vorher sage. Also sage ich es vorher.“
 
 ---
 
@@ -172,30 +172,30 @@ Ich saß da und sah ihn an, und mir wurde langsam übel.
 Er saß in meinem Café und erklärte mir, warum man unangenehme Wahrheiten
 lieber selbst ausspricht, bevor jemand anderes sie findet.
 
-„Jonas", sagte ich.
+„Jonas“, sagte ich.
 
-„Ja?"
+„Ja?“
 
 Die Tür ging auf. Zwei Handwerker vom Nachbarhaus, klatschnass, laut,
-fröhlich. „Frau Voss, ist noch was da? Egal was."
+fröhlich. „Frau Voss, ist noch was da? Egal was.“
 
 Ich stand auf.
 
-„Einen Moment", sagte ich, zu ihnen und zu ihm gleichzeitig.
+„Einen Moment“, sagte ich, zu ihnen und zu ihm gleichzeitig.
 
 Als ich zurückkam, hatte er den Plan wieder aufgerollt und stand am
 Fenster, und der Moment war weg, so wie diese Momente immer weggehen —
 nicht mit einem Knall, sondern weil jemand zwei Franzbrötchen will.
 
-„Ich muss los", sagte er. „Sitzung morgen früh."
+„Ich muss los“, sagte er. „Sitzung morgen früh.“
 
-„Ja."
+„Ja.“
 
 An der Tür drehte er sich um.
 
-„Was wollten Sie sagen?"
+„Was wollten Sie sagen?“
 
 Ich stand hinter der Theke, mit dem Tuch in der Hand, in dem Licht, das
 um diese Zeit von der Straße hereinkommt.
 
-„Viel Glück am Fünfzehnten", sagte ich.
+„Viel Glück am Fünfzehnten“, sagte ich.

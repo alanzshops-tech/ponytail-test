@@ -24,16 +24,16 @@ Herr Dr. Sassenberg kam am fünften, öffentlich bestellt und vereidigt,
 mit einem Laser-Entfernungsmesser, einer Kladde und der geringsten
 Neigung zu Konversation, die mir je begegnet ist.
 
-„Kaffee?"
+„Kaffee?“
 
-„Nein."
+„Nein.“
 
-Vier Stunden später, im Hinterhof, im Nieselregen: „Doch. Jetzt gern."
+Vier Stunden später, im Hinterhof, im Nieselregen: „Doch. Jetzt gern.“
 
 Er maß die Durchfahrt aus, dreimal. Er fotografierte das Tor, den
 Sturz, die Pflasterung, den Kanaldeckel. Er ging in den Keller und sah
 sich die Leitungen an und sagte dabei zum ersten Mal etwas Freiwilliges:
-„Das ist von 1962. Das hält länger als das Haus."
+„Das ist von 1962. Das hält länger als das Haus.“
 
 Dann setzte er sich an meinen Fenstertisch und erklärte mir in acht
 Minuten, was er tut.
@@ -42,18 +42,18 @@ Minuten, was er tut.
 Grundstücks, wenn diese Rechte im Grundbuch stehen — Sie können dann
 bestimmte Dinge nie mehr tun, das ist ein echter Verlust, auch wenn Sie
 sie ohnehin nie vorhatten. Zweitens den Vorteil für die anderen
-Grundstücke. Der ist hier größer."
+Grundstücke. Der ist hier größer.“
 
-„Wie viel größer?"
+„Wie viel größer?“
 
-„Das steht im Gutachten." Er trank den Kaffee aus. „Frau Voss, eine
+„Das steht im Gutachten.“ Er trank den Kaffee aus. „Frau Voss, eine
 Bemerkung, die nicht zu meinem Auftrag gehört: Sie hätten das im Oktober
-fragen sollen."
+fragen sollen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Die meisten fragen nie", sagte Dr. Sassenberg. „Ich lebe davon, dass
-Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle."
+„Die meisten fragen nie“, sagte Dr. Sassenberg. „Ich lebe davon, dass
+Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle.“
 
 ---
 
@@ -71,13 +71,13 @@ Milchschaum hat.
 „Frau Voss, ich mache es kurz, weil Sie arbeiten müssen.
 Vierhundertsechzigtausend für das gesamte Objekt. Notartermin vor dem
 Fünfzehnten, ich habe einen, der Samstag aufmacht. Sie zahlen Ihre Bank
-zurück und behalten rund zweihundertfünfundvierzig."
+zurück und behalten rund zweihundertfünfundvierzig.“
 
 Er legte eine Karte hin und schob sie mit zwei Fingern über den Tisch,
 und dabei sah er mich nicht an, was höflich war.
 
-„Ich weiß, was gerade läuft", sagte er. „Ich weiß nicht alles. Ich weiß
-genug."
+„Ich weiß, was gerade läuft“, sagte er. „Ich weiß nicht alles. Ich weiß
+genug.“
 
 ---
 
@@ -105,23 +105,23 @@ gemacht, und sie war gut.
 
 Am nächsten Vormittag rief ich ihn an und stellte eine einzige Frage.
 
-„Herr Kellermann. Was passiert mit dem Erdgeschoss?"
+„Herr Kellermann. Was passiert mit dem Erdgeschoss?“
 
 „Das bleibt selbstverständlich gastronomisch. Das ist doch der Charme
-des Hauses."
+des Hauses.“
 
-„Schreiben wir das in den Vertrag?"
+„Schreiben wir das in den Vertrag?“
 
 Eine Pause. Nicht lang. Zwei Sekunden.
 
-„Frau Voss, so etwas schreibt man nicht in einen Kaufvertrag."
+„Frau Voss, so etwas schreibt man nicht in einen Kaufvertrag.“
 
-„Warum nicht?"
+„Warum nicht?“
 
-„Weil niemand sich für zwanzig Jahre die Hände bindet." Er sagte es
-freundlich, fast entschuldigend. „Das würden Sie auch nicht tun."
+„Weil niemand sich für zwanzig Jahre die Hände bindet.“ Er sagte es
+freundlich, fast entschuldigend. „Das würden Sie auch nicht tun.“
 
-„Nein", sagte ich. „Aber ich hätte es auch nicht vorher behauptet."
+„Nein“, sagte ich. „Aber ich hätte es auch nicht vorher behauptet.“
 
 ---
 
@@ -129,7 +129,7 @@ Ich habe abgelehnt, und ich habe es nicht wegen Jonas Reinhardt getan.
 
 Das ist mir wichtig, und ich habe es Frau Kettler an diesem Tag dreimal
 gesagt, bis sie sagte: „Ja, Frau Voss, ich habe es beim ersten Mal
-verstanden."
+verstanden.“
 
 Ich habe aus zwei Gründen abgelehnt.
 
@@ -191,25 +191,25 @@ zähle die Nacht in der Kinderklinik mit.
 
 Es klingelte einmal.
 
-„Marlene."
+„Marlene.“
 
 Nicht *Reinhardt*. Er hatte draufgesehen, bevor er ranging.
 
-„Es geht nicht um Emil", sagte ich schnell, weil ich wusste, was er
-denkt. „Emil ist gesund. Es ist etwas anderes."
+„Es geht nicht um Emil“, sagte ich schnell, weil ich wusste, was er
+denkt. „Emil ist gesund. Es ist etwas anderes.“
 
-„Gut." Ich hörte, wie er irgendwo eine Tür zumachte. „Sag."
+„Gut.“ Ich hörte, wie er irgendwo eine Tür zumachte. „Sag.“
 
 Ich hatte mir drei Sätze zurechtgelegt und keinen davon geübt.
 
 „Die Frist der Bank ist am Fünfzehnten. Der Beirat tagt am
-Zwanzigsten." Ich sah aus dem Fenster auf das Fleet. „Du bist der
+Zwanzigsten.“ Ich sah aus dem Fenster auf das Fleet. „Du bist der
 Gläubiger. Du kannst die Frist verlängern. Ich kann das nicht selbst,
-und ich kenne niemanden, der es für mich machen kann."
+und ich kenne niemanden, der es für mich machen kann.“
 
 Ich holte Luft.
 
-„Ich bitte dich darum."
+„Ich bitte dich darum.“
 
 ---
 
@@ -217,19 +217,19 @@ Ich hatte mit vielem gerechnet. Mit einer Rückfrage. Mit *natürlich, das
 hätte ich längst*. Mit Erleichterung in seiner Stimme, die ich ihm nicht
 verziehen hätte.
 
-Er sagte: „Ja."
+Er sagte: „Ja.“
 
 Sonst nichts. Kein *selbstverständlich*, keine Bedingung, keine Frage,
 nicht ein Wort dazu, wie lange oder warum oder was danach.
 
-„Bis wann?", fragte ich.
+„Bis wann?“, fragte ich.
 
-„Bis du es sagst."
+„Bis du es sagst.“
 
 Und dann, nach einer Pause, in der ich ihn atmen hörte:
 
 „Niklas schickt dir das schriftlich, in einer Stunde. Damit du es in
-der Hand hast und nicht mir glauben musst."
+der Hand hast und nicht mir glauben musst.“
 
 Ich legte auf und setzte mich auf den Stuhl neben der Kasse, auf dem
 sonst die Tasche steht.

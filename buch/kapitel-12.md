@@ -11,14 +11,14 @@ Diagnose nicht ansieht, solange der Umschlag zu ist.
 Sie öffnete. Sie hatte die Schürze abgenommen. Das fiel mir auf, weil sie
 sie sonst nie abnimmt.
 
-„Er schläft", sagte sie.
+„Er schläft“, sagte sie.
 
-„Gut."
+„Gut.“
 
 Wir standen im dunklen Café, nur die Lampe über dem Tresen an, und
 draußen ging jemand mit einem Hund vorbei.
 
-„Setzen wir uns", sagte sie.
+„Setzen wir uns“, sagte sie.
 
 ---
 
@@ -28,12 +28,12 @@ Umschlag.
 
 Sie legte die Hand darauf, nahm sie aber nicht weg.
 
-„Ich fange nicht mit dem Anfang an", sagte sie. „Wenn ich mit dem Anfang
-anfange, rede ich mich raus. Also fange ich mit dem an, was zählt."
+„Ich fange nicht mit dem Anfang an“, sagte sie. „Wenn ich mit dem Anfang
+anfange, rede ich mich raus. Also fange ich mit dem an, was zählt.“
 
 Ich sagte nichts.
 
-„Emil ist deiner."
+„Emil ist deiner.“
 
 ---
 
@@ -45,20 +45,20 @@ Nichts fällt um, niemand schreit, das Licht ändert sich nicht. In der
 anderen Hälfte hat sich das ganze Leben umsortiert und man weiß noch
 nicht, in welcher Reihenfolge es jetzt liegt.
 
-„Wie alt", sagte ich schließlich.
+„Wie alt“, sagte ich schließlich.
 
-„Achtzehn Monate. Am achten Mai wird er zwei."
+„Achtzehn Monate. Am achten Mai wird er zwei.“
 
 Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
 gestimmt hatte.
 
-„Travemünde."
+„Travemünde.“
 
-„Ja."
+„Ja.“
 
 Ich sah auf das Album mit den Sonnenblumen.
 
-„Darf ich?"
+„Darf ich?“
 
 Sie schob es zu mir.
 
@@ -78,60 +78,60 @@ gesessen und über Entwässerung geredet hatte.
 
 Ich blätterte langsam. Ich wollte es nicht schnell machen.
 
-„Der achte Mai", sagte ich irgendwann.
+„Der achte Mai“, sagte ich irgendwann.
 
-„Ja."
+„Ja.“
 
-„Da war ich in Zürich." Ich hörte selbst, wie sinnlos das war. „Ich weiß
-nicht, warum ich das sage."
+„Da war ich in Zürich.“ Ich hörte selbst, wie sinnlos das war. „Ich weiß
+nicht, warum ich das sage.“
 
-„Weil man in solchen Momenten irgendwas sagt", sagte sie.
+„Weil man in solchen Momenten irgendwas sagt“, sagte sie.
 
 ---
 
 Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
 ohne dass ich fragen musste.
 
-„Ich habe es dir sagen wollen", sagte sie. „Im Juni, im Juli, im Juli
-noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief."
+„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
+noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
 
-„Was stand wirklich drin?"
+„Was stand wirklich drin?“
 
-„Dass ich schwanger bin." Sie sah auf den Tisch. „Nicht in den ersten
+„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
 zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
-dazu durchzuringen."
+dazu durchzuringen.“
 
 Ich schloss die Augen.
 
-„Und dann?"
+„Und dann?“
 
 „Dann kam keine Antwort. Und im November war ein Foto in der Zeitung, du
-mit einer Frau in Grün. Und dann —" Sie brach ab.
+mit einer Frau in Grün. Und dann —“ Sie brach ab.
 
-„Und dann?"
+„Und dann?“
 
 „Und dann war da noch etwas, und das ist der Teil, bei dem ich schlecht
-dastehe." Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
+dastehe.“ Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
 dich gefragt, ob du Kinder willst. Und du hast gesagt: *Nein. Nicht
-solange* — und dann hast du den Satz nicht zu Ende gesagt."
+solange* — und dann hast du den Satz nicht zu Ende gesagt.“
 
 Ich sah sie an.
 
 Ich hatte an diesen Satz nicht ein einziges Mal gedacht. Nicht in zwei
 Jahren.
 
-„Ich habe das *Nein* behalten", sagte sie. „Zwei Jahre lang. Jedes Mal,
-wenn ich es noch mal hätte versuchen können, war da dieses Nein."
+„Ich habe das *Nein* behalten“, sagte sie. „Zwei Jahre lang. Jedes Mal,
+wenn ich es noch mal hätte versuchen können, war da dieses Nein.“
 
-„Nicht solange die Firma so an mir hängt", sagte ich.
+„Nicht solange die Firma so an mir hängt“, sagte ich.
 
 Sie sah mich an.
 
-„Das war der Rest vom Satz", sagte ich. „*Nicht solange die Firma so an
+„Das war der Rest vom Satz“, sagte ich. „*Nicht solange die Firma so an
 mir hängt, dass ich nicht mal einen Sonntag habe.* Ich weiß es noch, weil
-ich es schon oft gedacht hatte." Ich hörte, wie meine Stimme nicht ganz
+ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
 richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
-Nein zu meinem Leben, so wie es damals war."
+Nein zu meinem Leben, so wie es damals war.“
 
 ---
 
@@ -141,16 +141,16 @@ und ohne das Gesicht zu verziehen.
 Ich stand auf, ging um den Tisch herum und hockte mich neben ihren Stuhl,
 und ich fasste sie nicht an, weil ich nicht wusste, ob ich das darf.
 
-„Ich hätte es trotzdem sagen müssen", sagte sie. „Auch mit dem Nein. Auch
+„Ich hätte es trotzdem sagen müssen“, sagte sie. „Auch mit dem Nein. Auch
 mit dem Foto. Ich hätte hinfahren können. Ich hätte in dein Büro gehen
 und im Foyer warten können, bis du rauskommst. Das habe ich nicht
-gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte."
+gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte.“
 
-„Welche?"
+„Welche?“
 
-„Dass ich Angst hatte, du sagst, du willst ihn nicht." Sie wischte sich
+„Dass ich Angst hatte, du sagst, du willst ihn nicht.“ Sie wischte sich
 mit dem Handrücken übers Gesicht. „Und solange ich nicht gefragt habe,
-konnte ich mir vorstellen, dass du ihn gewollt hättest."
+konnte ich mir vorstellen, dass du ihn gewollt hättest.“
 
 ---
 
@@ -170,21 +170,21 @@ Vierzig Bilder. Ultraschall, Mütze, Schnee, Löffel. Zwei Jahre, in denen
 niemand da war, um das zweite Foto zu machen, weil sie beide Rollen
 hatte.
 
-„Marlene."
+„Marlene.“
 
 Sie sah nicht auf.
 
-„Sieh mich bitte an."
+„Sieh mich bitte an.“
 
 Sie sah auf.
 
-„Ich bin nicht wütend", sagte ich. „Ich werde es vielleicht morgen sein,
+„Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein,
 oder nächste Woche, und dann sage ich es dir. Aber jetzt gerade sitze ich
-hier und denke die ganze Zeit nur einen einzigen Satz."
+hier und denke die ganze Zeit nur einen einzigen Satz.“
 
-„Welchen?"
+„Welchen?“
 
-„Dass du das zwei Jahre lang allein gemacht hast."
+„Dass du das zwei Jahre lang allein gemacht hast.“
 
 ---
 
@@ -197,20 +197,20 @@ Irgendwann, als es vorbei war, saßen wir nebeneinander auf zwei Stühlen
 in einem dunklen Café, und sie hatte mein Hemd nass gemacht, und ich
 merkte, dass ich immer noch das Album in der Hand hielt.
 
-„Was jetzt?", sagte sie.
+„Was jetzt?“, sagte sie.
 
-„Darf ich ihn sehen?"
+„Darf ich ihn sehen?“
 
 Sie zögerte nicht einmal eine Sekunde.
 
-„Er schläft."
+„Er schläft.“
 
-„Ich weiß."
+„Ich weiß.“
 
 Sie stand auf und nahm meine Hand, und wir gingen die Treppe hoch, und
-die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte."
+die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte.“
 
-„Die vierte", wiederholte ich.
+„Die vierte“, wiederholte ich.
 
 Und dann standen wir in einem Kinderzimmer, in dem ein Nachtlicht in Form
 eines Pilzes brannte, und in einem Gitterbett lag ein Kind auf dem Bauch,
@@ -218,9 +218,9 @@ mit dem Hintern in der Luft, so wie kleine Kinder liegen, und atmete.
 
 Ich stand da und sah ihn an und konnte nicht aufhören.
 
-„Er hat deine Stirn", flüsterte sie.
+„Er hat deine Stirn“, flüsterte sie.
 
-„Er hat deine Hände", sagte ich.
+„Er hat deine Hände“, sagte ich.
 
 Und dann heulte ich, zum ersten Mal seit dem Tod meines Vaters, im
 Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.

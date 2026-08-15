@@ -11,12 +11,12 @@ hatte, mit drei Kerzen aus Pappe und einer vierten, die abgefallen war.
 
 Emil saß bei mir auf dem Arm und wollte den Getränkeautomaten.
 
-„Zweiundzwanzig Cent", sagte ich zu ihm. „Der behält zweiundzwanzig
-Cent. Merk dir das."
+„Zweiundzwanzig Cent“, sagte ich zu ihm. „Der behält zweiundzwanzig
+Cent. Merk dir das.“
 
-„Erzählst du ihm was von Geld?", sagte Marlene.
+„Erzählst du ihm was von Geld?“, sagte Marlene.
 
-„Ich erzähle ihm was von Unrecht."
+„Ich erzähle ihm was von Unrecht.“
 
 ---
 
@@ -25,7 +25,7 @@ Frau Adamczyk hatte den Kaktus umgestellt.
 Sie sah mich, dann Marlene, dann Emil, und dann sagte sie das Netteste,
 was ich je von einer Behörde gehört habe:
 
-„Ah. Sie haben also vorher geredet."
+„Ah. Sie haben also vorher geredet.“
 
 Es dauerte, wie angekündigt, eine Viertelstunde.
 
@@ -36,16 +36,16 @@ dabei nicht auf das Papier, sondern in unsere Gesichter, und ich
 verstand, dass diese Frage der eigentliche Vorgang ist und alles andere
 Formular.
 
-„Freiwillig", sagte Marlene.
+„Freiwillig“, sagte Marlene.
 
-„Freiwillig", sagte ich.
+„Freiwillig“, sagte ich.
 
 Dann die Sorgeerklärung, dieselbe Prozedur, dasselbe Zimmer, zwei
 Unterschriften.
 
 Emil aß in der Zwischenzeit die Ecke des Merkblattes.
 
-„Das machen sie alle", sagte Frau Adamczyk. „Wir haben es aufgegeben."
+„Das machen sie alle“, sagte Frau Adamczyk. „Wir haben es aufgegeben.“
 
 ---
 
@@ -63,13 +63,13 @@ außer mir kein Mensch unter fünfzig saß.
 
 Ich habe bei keiner davon zittrige Hände gehabt.
 
-„Alles gut?", sagte Marlene.
+„Alles gut?“, sagte Marlene.
 
-„Ja."
+„Ja.“
 
-„Du hast das Blatt jetzt viermal gelesen."
+„Du hast das Blatt jetzt viermal gelesen.“
 
-„Ich weiß."
+„Ich weiß.“
 
 ---
 
@@ -80,23 +80,23 @@ Vorschlag zum Feiern war.
 Pommes. Auf einem Stehtisch. Emil bekam vier Stück und hielt jedes
 einzelne vorher hoch, damit es jemand ansieht.
 
-„Was soll er eigentlich zu dir sagen?", fragte sie.
+„Was soll er eigentlich zu dir sagen?“, fragte sie.
 
-„Ich weiß nicht. Was sagt man?"
+„Ich weiß nicht. Was sagt man?“
 
-„Die meisten sagen Papa."
+„Die meisten sagen Papa.“
 
 Ich sah auf die Pommes.
 
-„Ich habe zu meinem *Vater* gesagt", sagte ich. „Immer. Alle vier. Ich
-habe das Wort Papa in meinem Elternhaus nie gehört."
+„Ich habe zu meinem *Vater* gesagt“, sagte ich. „Immer. Alle vier. Ich
+habe das Wort Papa in meinem Elternhaus nie gehört.“
 
 Marlene sagte nichts, aber sie legte kurz ihre Hand auf meine, mit
 Mayonnaise am Daumen, und das war der schönste Moment dieses Jahres,
 und ich schreibe das in vollem Wissen darüber, was elf Tage später
 passiert ist.
 
-„Papa geht", sagte ich.
+„Papa geht“, sagte ich.
 
 ---
 
@@ -164,26 +164,26 @@ Er heißt übersetzt: *Ich traue ihr die Entscheidung nicht zu.*
 
 Um Viertel nach fünf rief Wendland an, was er nie tut.
 
-„Reinhardt. Der Fünfzehnte war vor vier Wochen."
+„Reinhardt. Der Fünfzehnte war vor vier Wochen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Ich habe gehört, die Volksbank räumt auf." Ein Geräusch, als würde er
+„Ich habe gehört, die Volksbank räumt auf.“ Ein Geräusch, als würde er
 etwas zur Seite schieben. „Ich sage das jetzt einmal und dann nie
 wieder: Wenn dieses Paket auf den Markt geht und wir es nicht nehmen,
 nimmt es Kellermann. Und dann steht in zwei Jahren neben Ihrem Hof ein
-Betreiber, den Sie sich nicht ausgesucht haben."
+Betreiber, den Sie sich nicht ausgesucht haben.“
 
-„Das ist mir bewusst."
+„Das ist mir bewusst.“
 
-„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?"
+„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?“
 
 Ich sah aus dem Fenster auf den Hafen, auf dem seit halb fünf nichts
 mehr zu sehen war außer Kranlichtern.
 
-„Beides", sagte ich.
+„Beides“, sagte ich.
 
-„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter",
+„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter“,
 sagte Wendland und legte auf, und das war das erste Mal in neunzehn
 Jahren, dass dieser Mann etwas über mein Privatleben gesagt hat.
 

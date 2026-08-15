@@ -12,7 +12,7 @@ Dann las ich das Etikett.
 
 **REINHARDT / VOSS — PERSÖNLICH**
 
-„Setz dich", sagte ich. „Ich mach uns Kaffee."
+„Setz dich“, sagte ich. „Ich mach uns Kaffee.“
 
 Ich machte keinen Kaffee. Ich setzte Emil in den Laufstall hinter der
 Theke, wo er die Kaffeemühle nicht erreicht, und ich brauchte diese
@@ -58,35 +58,35 @@ Werktagen.
 Ich legte das Blatt auf den Tisch, mit der Schrift nach oben, und drehte
 es zu ihm.
 
-„Was ist das?"
+„Was ist das?“
 
-„Das ist —" Er sah es an. „Das gehört eigentlich nicht rein."
+„Das ist —“ Er sah es an. „Das gehört eigentlich nicht rein.“
 
-„Es ist aber drin."
+„Es ist aber drin.“
 
-„Marlene." Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
-brauche. Ich habe darauf bestanden."
+„Marlene.“ Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
+brauche. Ich habe darauf bestanden.“
 
-„Warum?"
+„Warum?“
 
-„Der Ordnung halber."
+„Der Ordnung halber.“
 
 Ich habe in diesem Moment nichts gesagt, weil mir das Wort *Ordnung* die
 Sprache genommen hat.
 
-„Ich zweifle nicht", sagte er. „Keine Sekunde. Das ist nicht die Frage."
+„Ich zweifle nicht“, sagte er. „Keine Sekunde. Das ist nicht die Frage.“
 
-„Was ist dann die Frage?"
+„Was ist dann die Frage?“
 
-„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere." Er sah
+„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere.“ Er sah
 mich an, und er war völlig ehrlich, und das machte es schlimmer. „Es
 gibt drei Brüder und eine Firma und einen Beirat. Wenn mir morgen etwas
-passiert, sitzt dein Sohn —"
+passiert, sitzt dein Sohn —“
 
-„*Dein* Sohn."
+„*Dein* Sohn.“
 
 „— sitzt unser Sohn vor Leuten, die ihn nicht kennen, und muss beweisen,
-wer er ist. Ich will nicht, dass er das je muss."
+wer er ist. Ich will nicht, dass er das je muss.“
 
 ---
 
@@ -105,60 +105,60 @@ muss.
 Und trotzdem lag da ein Blatt, auf dem stand, dass mein Sohn zum Labor
 soll, damit man ihn vorzeigen kann.
 
-„Jonas", sagte ich. „Wie viele Stunden hast du bisher mit ihm
-verbracht?"
+„Jonas“, sagte ich. „Wie viele Stunden hast du bisher mit ihm
+verbracht?“
 
 Er sah auf.
 
-„Ich meine es nicht als Vorwurf. Ich frage wirklich."
+„Ich meine es nicht als Vorwurf. Ich frage wirklich.“
 
 Er dachte nach. Er ist ein ehrlicher Mensch, deshalb rechnete er es
 tatsächlich aus.
 
-„Zweieinhalb Stunden", sagte er. „Am Donnerstagmorgen."
+„Zweieinhalb Stunden“, sagte er. „Am Donnerstagmorgen.“
 
-„Zweieinhalb Stunden." Ich legte die Hand auf die Mappe. „Und
-sechsunddreißig Seiten."
+„Zweieinhalb Stunden.“ Ich legte die Hand auf die Mappe. „Und
+sechsunddreißig Seiten.“
 
 ---
 
 Er wurde nicht laut. Ich glaube, ich hätte es besser gefunden, wenn er
 laut geworden wäre.
 
-„Was hätte ich tun sollen?", sagte er.
+„Was hätte ich tun sollen?“, sagte er.
 
-„Herkommen. Dasitzen. Nichts unterschreiben."
+„Herkommen. Dasitzen. Nichts unterschreiben.“
 
 Er zuckte, als hätte ihn etwas getroffen, und viel später habe ich
 erfahren, dass sein Bruder ihm exakt diese drei Sätze gesagt hatte, in
 dieser Reihenfolge, drei Tage vorher.
 
-„Ich weiß nicht, wie man das macht", sagte er.
+„Ich weiß nicht, wie man das macht“, sagte er.
 
-„Was?"
+„Was?“
 
-„Dasitzen." Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
+„Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
 zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
 wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
 Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
-Listen zu machen. Das hier —" er zeigte auf die Mappe — „ist die
-liebevollste Sprache, die ich kann."
+Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
+liebevollste Sprache, die ich kann.“
 
 Ich weiß bis heute nicht, ob das der traurigste oder der ehrlichste
 Satz war, den ich je gehört habe.
 
-„Ich verstehe das", sagte ich. „Ich verstehe es wirklich. Und ich sage
-trotzdem nein."
+„Ich verstehe das“, sagte ich. „Ich verstehe es wirklich. Und ich sage
+trotzdem nein.“
 
-„Zu was?"
+„Zu was?“
 
-„Zu dem Test." Ich schob das Blatt zurück über den Tisch. „Zu allem
+„Zu dem Test.“ Ich schob das Blatt zurück über den Tisch. „Zu allem
 anderen sage ich vielleicht ja, nächste Woche, wenn ich es gelesen habe.
-Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist."
+Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist.“
 
 Er nahm das Blatt.
 
-„Und wenn ich darauf bestehe?"
+„Und wenn ich darauf bestehe?“
 
 Da war er, der Satz.
 
@@ -169,16 +169,16 @@ Aber gefragt hat er es.
 
 ---
 
-„Dann sage ich dir, was passiert", sagte ich sehr ruhig. „Nichts. Du
+„Dann sage ich dir, was passiert“, sagte ich sehr ruhig. „Nichts. Du
 kannst gar nichts. Du kannst mich verklagen, und dann steht in einer
 Akte, dass ein Mann mit vierhundert Angestellten eine Konditorin
 gezwungen hat, ihr Kind untersuchen zu lassen. Das ist die einzige Macht,
-die du hier hast, und du kennst den Preis."
+die du hier hast, und du kennst den Preis.“
 
-„Ich will dich nicht verklagen."
+„Ich will dich nicht verklagen.“
 
-„Ich weiß." Ich stand auf. „Deshalb frage ich mich, warum ich es dir
-gerade erklären musste."
+„Ich weiß.“ Ich stand auf. „Deshalb frage ich mich, warum ich es dir
+gerade erklären musste.“
 
 ---
 
@@ -187,16 +187,16 @@ Er ging um Viertel nach acht.
 An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
 und dass er es nicht fand, und dass ihm das selbst auffiel.
 
-„Ich habe es falsch gemacht", sagte er.
+„Ich habe es falsch gemacht“, sagte er.
 
-„Ja."
+„Ja.“
 
-„Sag mir, wie es richtig geht."
+„Sag mir, wie es richtig geht.“
 
-„Nein." Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
+„Nein.“ Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
 willst die Anleitung. Es gibt keine Anleitung, Jonas. Es gibt nur einen
 Dienstagvormittag, an dem du Tische abwischt, und den hattest du schon
-mal."
+mal.“
 
 Er nickte langsam.
 
@@ -215,6 +215,6 @@ der Bank und dem Stein vom Elbstrand, und ich habe die Schublade
 zugeschoben, und Emil stand im Laufstall, hielt sich am Gitter fest und
 sah zur Tür.
 
-„Weg", sagte er.
+„Weg“, sagte er.
 
 Das war ein neues Wort.
