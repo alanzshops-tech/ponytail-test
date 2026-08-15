@@ -16,7 +16,7 @@ Ich sah es mir an.
 Er hatte recht. Man sah es sofort, wenn man wusste, wie man hinsieht: Der
 ganze Block hatte eine Achse, eine einzige lange Sichtlinie vom Fleet bis
 zur Straße, und mitten in dieser Achse stand jetzt ein rotes Rechteck mit
-der Beschriftung *Bestand 14*.
+der Beschriftung *Bestand 12*.
 
 Der Entwurf sah aus wie ein Satz mit einem Wort zu viel.
 

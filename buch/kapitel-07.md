@@ -142,9 +142,10 @@ Er legte den Umschlag auf den Tisch.
 
 „Weil Sie am Freitag zugemacht haben, als ich das mit der Situation
 gesagt habe. Und weil ich nicht wusste, warum.“ Er strich sich das nasse
-Haar aus der Stirn. „Und weil meine damalige Assistentin im Januar
-gegangen ist und mir jemand mal gesagt hat, sie habe die Angewohnheit
-gehabt, mich vor Privatem zu schützen.“
+Haar aus der Stirn. „Und weil die Frau, die bei uns bis Januar die
+Zentrale gemacht hat, die Angewohnheit hatte, mich vor Privatem zu
+schützen. Das hat mir mal jemand erzählt, und ich habe darüber
+gelacht.“
 
 Ich machte den Umschlag nicht auf.
 
