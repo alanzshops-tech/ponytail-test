@@ -187,6 +187,33 @@ Ich habe damals gedacht, dass sie über den Beirat nachdenkt.
 
 ---
 
+Zwischendurch kam sie an den Hocker, wischte sich die Hände ab und sah
+mich an, als überlege sie etwas.
+
+„Sie haben heute vor sieben Leuten gesagt, dass Sie mich kennen“, sagte
+sie noch einmal, „und dann sind Sie hierhergefahren und sitzen in meinem
+Backraum.“
+
+„Ja.“
+
+„Merken Sie, wie das aussieht?“
+
+„Ja.“
+
+„Und?“
+
+Ich sah auf die Bleche, die auf dem Wagen standen, achtzehn Stück, und
+auf ihre Hände, die weitermachten, während sie mit mir redete.
+
+„Es sieht so aus, wie es ist“, sagte ich.
+
+Sie hielt einen Moment an.
+
+Dann drehte sie sich um und holte etwas aus dem Kühlraum, und ich merkte,
+dass ich lächelte, und ich hörte damit auf, bevor sie sich umdrehte.
+
+---
+
 Sie schob mir eine Schüssel hin.
 
 „Was ist das?“

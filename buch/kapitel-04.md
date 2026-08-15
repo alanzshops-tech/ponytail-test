@@ -19,6 +19,21 @@ Es war das Erste, worüber wir beide fast gelacht hätten.
 
 ---
 
+Ich habe die Nacht danach nicht besonders gut geschlafen, und um sechs
+saß ich am Küchentisch in einer Wohnung, in der außer mir nie jemand
+frühstückt.
+
+Ich wohne im dritten Stock eines Hauses, das mir gehört, in einer
+Wohnung, die eine Innenarchitektin eingerichtet hat, die ich zweimal
+gesehen habe. Es steht dort nichts, was ich selbst gekauft hätte, außer
+einer Kaffeemaschine und den Büchern meines Vaters, die ich nicht lese
+und nicht wegwerfe.
+
+Ich sage das, weil ich am Morgen danach zum ersten Mal seit Jahren
+gemerkt habe, wie still es ist.
+
+---
+
 Sie kam am nächsten Morgen um halb neun, was mich überraschte, weil ich
 angenommen hatte, sie würde mich in ihr Café bestellen. Sie kam zu uns,
 in einem dunkelblauen Mantel, mit einer abgewetzten Ledermappe unter dem
@@ -62,6 +77,43 @@ dem Wegerecht zu tun.
 
 „Drittens“, sagte sie, „lassen Sie das Erdgeschoss in Ruhe. Für immer.
 Das steht so im Vertrag, oder es gibt keinen Vertrag.“
+
+Ich sah auf das Blatt.
+
+Ich habe in zwölf Jahren ungefähr vierhundert Verhandlungen geführt. Die
+meisten beginnen damit, dass die Gegenseite eine Zahl nennt, die sie
+nicht meint, damit ich eine Zahl nenne, die ich nicht meine, und
+irgendwann trifft man sich in der Mitte und alle sind unzufrieden, was
+man dann einen guten Abschluss nennt.
+
+Sie hatte keine Zahl genannt. Sie hatte drei Dinge genannt, die sie
+haben will, und keins davon war Geld.
+
+Das ist die schwierigste Verhandlungsposition überhaupt, und zwar für
+mich. Gegen jemanden, der Geld will, habe ich Werkzeug.
+
+„Darf ich Ihnen sagen, was mir daran auffällt?“, sagte ich.
+
+„Bitte.“
+
+„Sie haben drei Vorschläge gemacht, und bei allen dreien bekommen Sie
+etwas, das nichts kostet, solange alles gutgeht.“ Ich legte den Finger
+auf Punkt zwei. „Ein Dach kostet mich einmal. Die Mieten für fünfzehn
+Jahre kosten mich nichts, weil ich sie sonst gar nicht hätte. Und das
+Erdgeschoss kostet mich nur dann etwas, wenn ich es irgendwann anders
+nutzen will — und dann kostet es mich viel.“
+
+„Ja“, sagte sie.
+
+„Sie haben also den einzigen Punkt, der wehtut, ganz nach hinten
+gestellt.“
+
+„Ja.“
+
+„Wer hat Ihnen das beigebracht?“
+
+„Niemand.“ Sie sah auf das Blatt. „Ich verkaufe seit sechs Jahren
+Kuchen. Man lernt, was man zuletzt sagt.“
 
 ---
 

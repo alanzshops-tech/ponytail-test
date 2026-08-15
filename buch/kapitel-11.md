@@ -78,7 +78,25 @@ seit sechs Wochen redet.“
 
 ---
 
-Sie kamen rein. Sie tranken jeder einen Kinderpunsch, weil nichts anderes
+Sie kamen rein.
+
+Renate Reinhardt ging langsam, mit dem Stock in der Rechten, und sie
+brauchte für die vier Meter bis zum Fenstertisch ungefähr so lange wie
+ich für die ganze Theke. Jonas ging neben ihr, ohne sie zu stützen, und
+ohne sie anzusehen, und ich verstand nach zwei Sekunden, dass das eine
+Abmachung war, an die sich beide seit Jahren halten.
+
+Am Tisch setzte sie sich, atmete einmal aus und sah sich um, so wie
+Leute sich umsehen, die früher selbst gearbeitet haben.
+
+„Die Fliesen sind original“, sagte sie.
+
+„Bis auf die Ecke.“
+
+„Die Ecke sieht man.“ Sie lächelte. „Das ist kein Vorwurf. Man soll sie
+sehen.“
+
+Sie tranken jeder einen Kinderpunsch, weil nichts anderes
 mehr da war. Emil saß auf meinem Schoß und ließ sich von einer fremden
 Frau die Hand halten, was er sonst nie tut.
 

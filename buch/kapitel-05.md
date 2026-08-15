@@ -63,6 +63,22 @@ Und der Satz, der dahinter kam, war noch unbequemer: *Und du nimmst es.*
 
 ---
 
+Ich habe an dem Abend das Kassenbuch meiner Großmutter aus der
+Schublade geholt, ohne genau zu wissen, warum.
+
+Es ist kein sentimentales Ding. Ein DIN-A4-Buch mit grauem Deckel und
+Spalten, in das sie vierzig Jahre lang jeden Tag zwei Zeilen geschrieben
+hat. Ich führe seit der Übernahme ein eigenes, digital, weil das
+Finanzamt es so lieber hat.
+
+Ich habe eine halbe Stunde darin geblättert und dabei nichts gesucht.
+
+Was mir auffiel: In der Spalte für Einlagen steht fast nie etwas. Über
+vierzig Jahre vielleicht sechs Einträge. Ich habe damals gedacht, das
+sei ein Kompliment.
+
+---
+
 Die Bauarbeiten begannen elf Tage später.
 
 Ich hatte mit Krach gerechnet, mit Staub, mit Männern, die um sechs
@@ -95,6 +111,19 @@ Ich sagte nichts. Er kam morgens, ging aufs Gerüst, kam runter, trank
 einen Kaffee im Stehen an der Theke, zahlte, und ging.
 
 Immer im Stehen. Immer gezahlt.
+
+Ich habe in der zweiten Woche angefangen, ihn zu beobachten, ohne es mir
+einzugestehen.
+
+Er kommt nie vor acht und nie nach halb zehn. Er stellt die Tasse immer
+an dieselbe Stelle, links vom Zuckerstreuer, obwohl rechts mehr Platz
+ist. Er sagt beim Bezahlen den Betrag mit, was ich sonst nur von alten
+Leuten kenne. Und wenn jemand nach ihm zur Tür hereinkommt, tritt er
+einen halben Schritt zur Seite, bevor er weiß, wer es ist.
+
+Einmal hat Herr Kubatz ihn gefragt, ob der Hund stört, und er hat
+gesagt: „Der Hund sitzt hier länger als ich.“ Seitdem grüßt Herr Kubatz
+ihn.
 
 In der dritten Woche sagte er: „Der Zitronenkuchen ist besser als letzte
 Woche.“

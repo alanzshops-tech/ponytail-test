@@ -59,6 +59,96 @@ sagen, welchen Stift die Gegenseite benutzt hat.
 
 ---
 
+Ich schreibe einen dieser Abende auf, damit klar ist, wovon ich rede.
+
+Es war der siebzehnte Oktober, ein Donnerstag. Regen, aber der feine, der
+nicht runterfällt, sondern in der Luft steht. Ich kam um zwanzig nach
+sechs, sie hatte um sechs zugemacht, die Stühle standen schon auf den
+Tischen bis auf zwei.
+
+Auf der Tagesordnung stand die Entwässerung.
+
+Das ist der unromantischste Gegenstand, den man sich vorstellen kann.
+Regenwasser aus einem Innenhof muss irgendwohin, und der Bestandskanal
+unter ihrem Hinterhof ist von 1962 und hat einen Querschnitt, der für
+den Hof zu klein wird. Es gibt drei Möglichkeiten, und alle drei sind
+langweilig.
+
+Wir haben zwei Stunden gebraucht.
+
+Nicht, weil es schwierig war. Sondern weil sie bei Möglichkeit zwei
+fragte, ob man den Kanal auch offen führen könne, als Rinne, mit
+Steinen, und ich sagte, das sei bei Starkregen problematisch, und sie
+sagte, sie wisse, wie Starkregen aussieht, sie wohne seit
+zweiunddreißig Jahren in diesem Haus.
+
+Dann zeichnete sie es. Mit dem Bleistift ihrer Großmutter, auf die
+Rückseite von Blatt vier, ziemlich schief, und sie sagte dazu: „Ich kann
+nicht zeichnen“, was stimmte, und dann zeigte sie mir mit dem Finger,
+wie das Wasser läuft.
+
+Sie hatte recht. Nicht ganz, aber zu drei Vierteln. Man kann die Rinne
+offen führen, wenn man sie unter dem Durchgang verschwinden lässt, und
+das hat Theo zwei Wochen später so gebaut, und keiner von uns beiden hat
+ihr das je gesagt.
+
+Um halb neun stand sie auf und machte die Maschine wieder an, obwohl der
+Kaffee zu dieser Zeit niemandem guttut.
+
+„Ich frage Sie jetzt was Unhöfliches“, sagte sie mit dem Rücken zu mir.
+
+„Bitte.“
+
+„Wann waren Sie zuletzt im Urlaub?“
+
+Ich musste tatsächlich nachdenken.
+
+„Travemünde.“
+
+Sie stellte die Kanne ab, und einen Moment lang bewegte sich niemand von
+uns.
+
+„Das war ein Wochenende“, sagte sie.
+
+„Ja.“
+
+„Und davor?“
+
+„Zweitausendvierzehn. Zwei Wochen Sardinien mit einer Frau, die danach
+gesagt hat, sie habe zwei Wochen neben einem Telefon gelegen.“
+
+Sie kam zurück und stellte die Tasse hin, an die Stelle links vom
+Zuckerstreuer, ohne hinzusehen.
+
+„Sie sollten das ändern“, sagte sie.
+
+„Sie schließen um sechs und stehen um vier auf.“
+
+„Ich habe ja auch nicht gesagt, dass ich es besser mache.“
+
+---
+
+Am neunzehnten Oktober regnete es nicht, und wir saßen trotzdem drin,
+weil draußen kein Tisch steht.
+
+An diesem Abend erzählte sie mir von ihrer Mutter. Nicht viel, und nicht
+in einem Stück — sie erzählt so, wie andere Leute etwas zugeben. Dass
+die Mutter nach der Scheidung zwei Jahre lang morgens nicht aufgestanden
+ist. Dass Marlene mit zwölf gelernt hat, die Waschmaschine zu bedienen,
+und dass sie das damals für eine Auszeichnung gehalten hat.
+
+„Und heute?“, fragte ich.
+
+„Heute halte ich es für den Grund, warum ich niemanden frage.“
+
+Sie sagte das leichthin, wie eine Feststellung über das Wetter, und ging
+danach in den Backraum und holte etwas, das gar nicht geholt werden
+musste.
+
+Ich habe damals gedacht, sie rede über ihre Kindheit.
+
+---
+
 „Warum machen Sie das eigentlich?“, fragte sie an einem dieser Abende.
 
 „Das fragen Sie zum zweiten Mal.“
@@ -193,6 +283,18 @@ gewann.
 ---
 
 Ich habe an diesem Dienstag von elf bis halb zwei Tische abgewischt.
+
+Es gibt eine Reihenfolge, die man nach zwanzig Minuten von selbst
+versteht: erst abräumen, dann wischen, dann Stühle richten, und die
+Tassen kommen nicht gestapelt zurück, sondern nebeneinander, weil sie
+heiß aneinander festsaugen.
+
+Ich habe an diesem Vormittag mehr über den Betrieb dieses Ladens
+gelernt als aus jeder Bilanz, die ich je über ein Gastronomieobjekt
+gelesen habe. Zum Beispiel: Der Engpass ist nicht der Ofen und nicht die
+Kasse. Der Engpass ist die Spülmaschine, die vierzig Minuten braucht,
+und deshalb geht zwischen zwölf und eins das Geschirr aus, und deshalb
+muss jemand von Hand spülen, und dieser Jemand ist sonst sie.
 
 Ich habe zwei Gläser zerbrochen. Ich habe einem Mann versehentlich einen
 Cappuccino statt eines Milchkaffees gebracht, und er hat es gemerkt, und

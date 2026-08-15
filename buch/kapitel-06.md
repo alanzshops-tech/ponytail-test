@@ -107,6 +107,34 @@ das hier. Dann das andere.“
 
 ---
 
+Am Abend davor war ich bei meiner Mutter.
+
+Sie wohnt seit dem Schlaganfall in einer Wohnung in Eppendorf mit einer
+ebenerdigen Dusche und einem Sessel, aus dem man allein aufstehen kann,
+und sie hat beides selbst ausgesucht, weil sie es nicht ertragen hätte,
+wenn ich es getan hätte.
+
+Wir haben Tee getrunken und über nichts geredet, was bei uns bedeutet:
+über die Firma.
+
+„Wie läuft das Kontorhaus?“, fragte sie.
+
+„Kompliziert.“
+
+„Gut.“ Sie stellte die Tasse ab, mit der rechten Hand, weil die linke
+nicht immer macht, was sie soll. „Alles, was bei euch einfach ist, ist
+später teuer.“
+
+Das ist der Satz meines Vaters. Sie sagt ihn manchmal, ohne zu merken,
+dass sie ihn sagt, und ich sage ihn manchmal in Sitzungen, und dann höre
+ich ihn und werde still.
+
+An der Tür hat sie gefragt, ob ich eigentlich noch Klavier spiele.
+
+Ich habe mit vierzehn aufgehört.
+
+---
+
 Ich fuhr am selben Nachmittag hin, mit der Mappe unter dem Arm, und ich
 sage ehrlich, dass ich zwei Ausreden hatte, weshalb ich selbst fuhr, und
 dass beide nicht stimmten.

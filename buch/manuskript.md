@@ -886,6 +886,21 @@ Es war das Erste, worüber wir beide fast gelacht hätten.
 
 ---
 
+Ich habe die Nacht danach nicht besonders gut geschlafen, und um sechs
+saß ich am Küchentisch in einer Wohnung, in der außer mir nie jemand
+frühstückt.
+
+Ich wohne im dritten Stock eines Hauses, das mir gehört, in einer
+Wohnung, die eine Innenarchitektin eingerichtet hat, die ich zweimal
+gesehen habe. Es steht dort nichts, was ich selbst gekauft hätte, außer
+einer Kaffeemaschine und den Büchern meines Vaters, die ich nicht lese
+und nicht wegwerfe.
+
+Ich sage das, weil ich am Morgen danach zum ersten Mal seit Jahren
+gemerkt habe, wie still es ist.
+
+---
+
 Sie kam am nächsten Morgen um halb neun, was mich überraschte, weil ich
 angenommen hatte, sie würde mich in ihr Café bestellen. Sie kam zu uns,
 in einem dunkelblauen Mantel, mit einer abgewetzten Ledermappe unter dem
@@ -929,6 +944,43 @@ dem Wegerecht zu tun.
 
 „Drittens“, sagte sie, „lassen Sie das Erdgeschoss in Ruhe. Für immer.
 Das steht so im Vertrag, oder es gibt keinen Vertrag.“
+
+Ich sah auf das Blatt.
+
+Ich habe in zwölf Jahren ungefähr vierhundert Verhandlungen geführt. Die
+meisten beginnen damit, dass die Gegenseite eine Zahl nennt, die sie
+nicht meint, damit ich eine Zahl nenne, die ich nicht meine, und
+irgendwann trifft man sich in der Mitte und alle sind unzufrieden, was
+man dann einen guten Abschluss nennt.
+
+Sie hatte keine Zahl genannt. Sie hatte drei Dinge genannt, die sie
+haben will, und keins davon war Geld.
+
+Das ist die schwierigste Verhandlungsposition überhaupt, und zwar für
+mich. Gegen jemanden, der Geld will, habe ich Werkzeug.
+
+„Darf ich Ihnen sagen, was mir daran auffällt?“, sagte ich.
+
+„Bitte.“
+
+„Sie haben drei Vorschläge gemacht, und bei allen dreien bekommen Sie
+etwas, das nichts kostet, solange alles gutgeht.“ Ich legte den Finger
+auf Punkt zwei. „Ein Dach kostet mich einmal. Die Mieten für fünfzehn
+Jahre kosten mich nichts, weil ich sie sonst gar nicht hätte. Und das
+Erdgeschoss kostet mich nur dann etwas, wenn ich es irgendwann anders
+nutzen will — und dann kostet es mich viel.“
+
+„Ja“, sagte sie.
+
+„Sie haben also den einzigen Punkt, der wehtut, ganz nach hinten
+gestellt.“
+
+„Ja.“
+
+„Wer hat Ihnen das beigebracht?“
+
+„Niemand.“ Sie sah auf das Blatt. „Ich verkaufe seit sechs Jahren
+Kuchen. Man lernt, was man zuletzt sagt.“
 
 ---
 
@@ -1121,6 +1173,22 @@ Und der Satz, der dahinter kam, war noch unbequemer: *Und du nimmst es.*
 
 ---
 
+Ich habe an dem Abend das Kassenbuch meiner Großmutter aus der
+Schublade geholt, ohne genau zu wissen, warum.
+
+Es ist kein sentimentales Ding. Ein DIN-A4-Buch mit grauem Deckel und
+Spalten, in das sie vierzig Jahre lang jeden Tag zwei Zeilen geschrieben
+hat. Ich führe seit der Übernahme ein eigenes, digital, weil das
+Finanzamt es so lieber hat.
+
+Ich habe eine halbe Stunde darin geblättert und dabei nichts gesucht.
+
+Was mir auffiel: In der Spalte für Einlagen steht fast nie etwas. Über
+vierzig Jahre vielleicht sechs Einträge. Ich habe damals gedacht, das
+sei ein Kompliment.
+
+---
+
 Die Bauarbeiten begannen elf Tage später.
 
 Ich hatte mit Krach gerechnet, mit Staub, mit Männern, die um sechs
@@ -1153,6 +1221,19 @@ Ich sagte nichts. Er kam morgens, ging aufs Gerüst, kam runter, trank
 einen Kaffee im Stehen an der Theke, zahlte, und ging.
 
 Immer im Stehen. Immer gezahlt.
+
+Ich habe in der zweiten Woche angefangen, ihn zu beobachten, ohne es mir
+einzugestehen.
+
+Er kommt nie vor acht und nie nach halb zehn. Er stellt die Tasse immer
+an dieselbe Stelle, links vom Zuckerstreuer, obwohl rechts mehr Platz
+ist. Er sagt beim Bezahlen den Betrag mit, was ich sonst nur von alten
+Leuten kenne. Und wenn jemand nach ihm zur Tür hereinkommt, tritt er
+einen halben Schritt zur Seite, bevor er weiß, wer es ist.
+
+Einmal hat Herr Kubatz ihn gefragt, ob der Hund stört, und er hat
+gesagt: „Der Hund sitzt hier länger als ich.“ Seitdem grüßt Herr Kubatz
+ihn.
 
 In der dritten Woche sagte er: „Der Zitronenkuchen ist besser als letzte
 Woche.“
@@ -1350,6 +1431,34 @@ das hier. Dann das andere.“
 
 ---
 
+Am Abend davor war ich bei meiner Mutter.
+
+Sie wohnt seit dem Schlaganfall in einer Wohnung in Eppendorf mit einer
+ebenerdigen Dusche und einem Sessel, aus dem man allein aufstehen kann,
+und sie hat beides selbst ausgesucht, weil sie es nicht ertragen hätte,
+wenn ich es getan hätte.
+
+Wir haben Tee getrunken und über nichts geredet, was bei uns bedeutet:
+über die Firma.
+
+„Wie läuft das Kontorhaus?“, fragte sie.
+
+„Kompliziert.“
+
+„Gut.“ Sie stellte die Tasse ab, mit der rechten Hand, weil die linke
+nicht immer macht, was sie soll. „Alles, was bei euch einfach ist, ist
+später teuer.“
+
+Das ist der Satz meines Vaters. Sie sagt ihn manchmal, ohne zu merken,
+dass sie ihn sagt, und ich sage ihn manchmal in Sitzungen, und dann höre
+ich ihn und werde still.
+
+An der Tür hat sie gefragt, ob ich eigentlich noch Klavier spiele.
+
+Ich habe mit vierzehn aufgehört.
+
+---
+
 Ich fuhr am selben Nachmittag hin, mit der Mappe unter dem Arm, und ich
 sage ehrlich, dass ich zwei Ausreden hatte, weshalb ich selbst fuhr, und
 dass beide nicht stimmten.
@@ -1526,6 +1635,27 @@ Ich saß lange davor.
 
 Die linke Spalte hatte ich zwei Jahre lang für die ganze Wahrheit
 gehalten. Die rechte war mir bis heute nie eingefallen.
+
+---
+
+Am Dienstag kam Frau Kettler zwanzig Minuten zu früh, was sie nie tut,
+und blieb im Backraum stehen, bis ich sie ansah.
+
+„Ich habe eine Frage, und Sie müssen nicht antworten“, sagte sie.
+
+„Dann fragen Sie lieber nicht.“
+
+„Frau Voss.“ Sie nahm die Schürze vom Haken und band sie zu, was bei ihr
+heißt, dass sie sich Zeit lässt. „Der Kleine wird bald zwei. In einem
+Jahr fragt er selbst. Nicht Sie. Er.“
+
+Ich schnitt weiter.
+
+„Und wenn er fragt“, sagte sie, „dann ist die Antwort entweder ein Name
+oder eine Lücke. Beides bleibt.“
+
+Sie ging nach vorn und machte die Kasse auf, und wir haben den Rest des
+Tages über Bestellungen geredet.
 
 ---
 
@@ -1735,6 +1865,96 @@ sagen, welchen Stift die Gegenseite benutzt hat.
 
 ---
 
+Ich schreibe einen dieser Abende auf, damit klar ist, wovon ich rede.
+
+Es war der siebzehnte Oktober, ein Donnerstag. Regen, aber der feine, der
+nicht runterfällt, sondern in der Luft steht. Ich kam um zwanzig nach
+sechs, sie hatte um sechs zugemacht, die Stühle standen schon auf den
+Tischen bis auf zwei.
+
+Auf der Tagesordnung stand die Entwässerung.
+
+Das ist der unromantischste Gegenstand, den man sich vorstellen kann.
+Regenwasser aus einem Innenhof muss irgendwohin, und der Bestandskanal
+unter ihrem Hinterhof ist von 1962 und hat einen Querschnitt, der für
+den Hof zu klein wird. Es gibt drei Möglichkeiten, und alle drei sind
+langweilig.
+
+Wir haben zwei Stunden gebraucht.
+
+Nicht, weil es schwierig war. Sondern weil sie bei Möglichkeit zwei
+fragte, ob man den Kanal auch offen führen könne, als Rinne, mit
+Steinen, und ich sagte, das sei bei Starkregen problematisch, und sie
+sagte, sie wisse, wie Starkregen aussieht, sie wohne seit
+zweiunddreißig Jahren in diesem Haus.
+
+Dann zeichnete sie es. Mit dem Bleistift ihrer Großmutter, auf die
+Rückseite von Blatt vier, ziemlich schief, und sie sagte dazu: „Ich kann
+nicht zeichnen“, was stimmte, und dann zeigte sie mir mit dem Finger,
+wie das Wasser läuft.
+
+Sie hatte recht. Nicht ganz, aber zu drei Vierteln. Man kann die Rinne
+offen führen, wenn man sie unter dem Durchgang verschwinden lässt, und
+das hat Theo zwei Wochen später so gebaut, und keiner von uns beiden hat
+ihr das je gesagt.
+
+Um halb neun stand sie auf und machte die Maschine wieder an, obwohl der
+Kaffee zu dieser Zeit niemandem guttut.
+
+„Ich frage Sie jetzt was Unhöfliches“, sagte sie mit dem Rücken zu mir.
+
+„Bitte.“
+
+„Wann waren Sie zuletzt im Urlaub?“
+
+Ich musste tatsächlich nachdenken.
+
+„Travemünde.“
+
+Sie stellte die Kanne ab, und einen Moment lang bewegte sich niemand von
+uns.
+
+„Das war ein Wochenende“, sagte sie.
+
+„Ja.“
+
+„Und davor?“
+
+„Zweitausendvierzehn. Zwei Wochen Sardinien mit einer Frau, die danach
+gesagt hat, sie habe zwei Wochen neben einem Telefon gelegen.“
+
+Sie kam zurück und stellte die Tasse hin, an die Stelle links vom
+Zuckerstreuer, ohne hinzusehen.
+
+„Sie sollten das ändern“, sagte sie.
+
+„Sie schließen um sechs und stehen um vier auf.“
+
+„Ich habe ja auch nicht gesagt, dass ich es besser mache.“
+
+---
+
+Am neunzehnten Oktober regnete es nicht, und wir saßen trotzdem drin,
+weil draußen kein Tisch steht.
+
+An diesem Abend erzählte sie mir von ihrer Mutter. Nicht viel, und nicht
+in einem Stück — sie erzählt so, wie andere Leute etwas zugeben. Dass
+die Mutter nach der Scheidung zwei Jahre lang morgens nicht aufgestanden
+ist. Dass Marlene mit zwölf gelernt hat, die Waschmaschine zu bedienen,
+und dass sie das damals für eine Auszeichnung gehalten hat.
+
+„Und heute?“, fragte ich.
+
+„Heute halte ich es für den Grund, warum ich niemanden frage.“
+
+Sie sagte das leichthin, wie eine Feststellung über das Wetter, und ging
+danach in den Backraum und holte etwas, das gar nicht geholt werden
+musste.
+
+Ich habe damals gedacht, sie rede über ihre Kindheit.
+
+---
+
 „Warum machen Sie das eigentlich?“, fragte sie an einem dieser Abende.
 
 „Das fragen Sie zum zweiten Mal.“
@@ -1870,6 +2090,18 @@ gewann.
 
 Ich habe an diesem Dienstag von elf bis halb zwei Tische abgewischt.
 
+Es gibt eine Reihenfolge, die man nach zwanzig Minuten von selbst
+versteht: erst abräumen, dann wischen, dann Stühle richten, und die
+Tassen kommen nicht gestapelt zurück, sondern nebeneinander, weil sie
+heiß aneinander festsaugen.
+
+Ich habe an diesem Vormittag mehr über den Betrieb dieses Ladens
+gelernt als aus jeder Bilanz, die ich je über ein Gastronomieobjekt
+gelesen habe. Zum Beispiel: Der Engpass ist nicht der Ofen und nicht die
+Kasse. Der Engpass ist die Spülmaschine, die vierzig Minuten braucht,
+und deshalb geht zwischen zwölf und eins das Geschirr aus, und deshalb
+muss jemand von Hand spülen, und dieser Jemand ist sonst sie.
+
 Ich habe zwei Gläser zerbrochen. Ich habe einem Mann versehentlich einen
 Cappuccino statt eines Milchkaffees gebracht, und er hat es gemerkt, und
 Marlene hat aus zehn Metern Entfernung gerufen: „Das ist der Neue!“
@@ -1923,6 +2155,27 @@ Sie ging.
 
 Ich stand in meiner Küche, und Emil saß im Hochstuhl und trommelte mit
 einem Löffel, und ich dachte: *Ich weiß.*
+
+---
+
+Ich hatte in diesen Wochen zum ersten Mal seit langem abends jemanden
+gegenüber, und ich habe unterschätzt, was das mit einem macht.
+
+Es ist nicht das Reden. Ich rede den ganzen Tag, mit Herrn Osterkamp,
+mit Herrn Kubatz, mit den Handwerkern vom Umbau.
+
+Es ist, dass jemand die Antwort abwartet.
+
+Am siebzehnten hat er mich gefragt, wann ich zuletzt im Urlaub war, und
+ich habe die Frage zurückgegeben, weil ich sie nicht beantworten wollte.
+Meine ehrliche Antwort wäre gewesen: 2019, drei Tage Sylt mit Sanne, und
+ich habe an allen drei Tagen die Umsätze der Vertretung kontrolliert.
+
+Am neunzehnten habe ich ihm von meiner Mutter erzählt. Das war ein
+Fehler, nicht weil er es weitererzählen würde, sondern weil ich danach
+in den Backraum gehen musste, um etwas zu holen, das ich nicht brauchte.
+
+Ich weiß, wie das aussieht. Ich wusste es auch damals.
 
 ---
 
@@ -2286,6 +2539,33 @@ Ich habe damals gedacht, dass sie über den Beirat nachdenkt.
 
 ---
 
+Zwischendurch kam sie an den Hocker, wischte sich die Hände ab und sah
+mich an, als überlege sie etwas.
+
+„Sie haben heute vor sieben Leuten gesagt, dass Sie mich kennen“, sagte
+sie noch einmal, „und dann sind Sie hierhergefahren und sitzen in meinem
+Backraum.“
+
+„Ja.“
+
+„Merken Sie, wie das aussieht?“
+
+„Ja.“
+
+„Und?“
+
+Ich sah auf die Bleche, die auf dem Wagen standen, achtzehn Stück, und
+auf ihre Hände, die weitermachten, während sie mit mir redete.
+
+„Es sieht so aus, wie es ist“, sagte ich.
+
+Sie hielt einen Moment an.
+
+Dann drehte sie sich um und holte etwas aus dem Kühlraum, und ich merkte,
+dass ich lächelte, und ich hörte damit auf, bevor sie sich umdrehte.
+
+---
+
 Sie schob mir eine Schüssel hin.
 
 „Was ist das?“
@@ -2411,7 +2691,25 @@ seit sechs Wochen redet.“
 
 ---
 
-Sie kamen rein. Sie tranken jeder einen Kinderpunsch, weil nichts anderes
+Sie kamen rein.
+
+Renate Reinhardt ging langsam, mit dem Stock in der Rechten, und sie
+brauchte für die vier Meter bis zum Fenstertisch ungefähr so lange wie
+ich für die ganze Theke. Jonas ging neben ihr, ohne sie zu stützen, und
+ohne sie anzusehen, und ich verstand nach zwei Sekunden, dass das eine
+Abmachung war, an die sich beide seit Jahren halten.
+
+Am Tisch setzte sie sich, atmete einmal aus und sah sich um, so wie
+Leute sich umsehen, die früher selbst gearbeitet haben.
+
+„Die Fliesen sind original“, sagte sie.
+
+„Bis auf die Ecke.“
+
+„Die Ecke sieht man.“ Sie lächelte. „Das ist kein Vorwurf. Man soll sie
+sehen.“
+
+Sie tranken jeder einen Kinderpunsch, weil nichts anderes
 mehr da war. Emil saß auf meinem Schoß und ließ sich von einer fremden
 Frau die Hand halten, was er sonst nie tut.
 

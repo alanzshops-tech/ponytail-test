@@ -31,6 +31,27 @@ einem Löffel, und ich dachte: *Ich weiß.*
 
 ---
 
+Ich hatte in diesen Wochen zum ersten Mal seit langem abends jemanden
+gegenüber, und ich habe unterschätzt, was das mit einem macht.
+
+Es ist nicht das Reden. Ich rede den ganzen Tag, mit Herrn Osterkamp,
+mit Herrn Kubatz, mit den Handwerkern vom Umbau.
+
+Es ist, dass jemand die Antwort abwartet.
+
+Am siebzehnten hat er mich gefragt, wann ich zuletzt im Urlaub war, und
+ich habe die Frage zurückgegeben, weil ich sie nicht beantworten wollte.
+Meine ehrliche Antwort wäre gewesen: 2019, drei Tage Sylt mit Sanne, und
+ich habe an allen drei Tagen die Umsätze der Vertretung kontrolliert.
+
+Am neunzehnten habe ich ihm von meiner Mutter erzählt. Das war ein
+Fehler, nicht weil er es weitererzählen würde, sondern weil ich danach
+in den Backraum gehen musste, um etwas zu holen, das ich nicht brauchte.
+
+Ich weiß, wie das aussieht. Ich wusste es auch damals.
+
+---
+
 Das Problem war nicht, dass ich es nicht sagen wollte.
 
 Das Problem war, dass ich es jeden Tag ein bisschen weniger konnte.

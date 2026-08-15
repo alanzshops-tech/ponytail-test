@@ -63,6 +63,27 @@ gehalten. Die rechte war mir bis heute nie eingefallen.
 
 ---
 
+Am Dienstag kam Frau Kettler zwanzig Minuten zu früh, was sie nie tut,
+und blieb im Backraum stehen, bis ich sie ansah.
+
+„Ich habe eine Frage, und Sie müssen nicht antworten“, sagte sie.
+
+„Dann fragen Sie lieber nicht.“
+
+„Frau Voss.“ Sie nahm die Schürze vom Haken und band sie zu, was bei ihr
+heißt, dass sie sich Zeit lässt. „Der Kleine wird bald zwei. In einem
+Jahr fragt er selbst. Nicht Sie. Er.“
+
+Ich schnitt weiter.
+
+„Und wenn er fragt“, sagte sie, „dann ist die Antwort entweder ein Name
+oder eine Lücke. Beides bleibt.“
+
+Sie ging nach vorn und machte die Kasse auf, und wir haben den Rest des
+Tages über Bestellungen geredet.
+
+---
+
 Dienstagmorgen kam er nicht. Mittwoch auch nicht.
 
 Am Donnerstag stand statt seiner ein junger Mann in der Tür, sehr höflich,
