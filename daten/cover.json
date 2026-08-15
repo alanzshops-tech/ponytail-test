@@ -2,22 +2,2038 @@
   {
     "begriff": "geheimes baby liebesroman",
     "markt": "www.amazon.de",
-    "cover": [],
-    "fehler": "Keine Treffer gelesen. NICHT als 'keine Cover' deuten.",
-    "seitentitel": "Tut uns Leid!"
+    "cover": [
+      {
+        "breite": 311,
+        "hoehe": 500,
+        "verhaeltnis": 1.608,
+        "helligkeit": 141.5,
+        "kontrast": 90.7,
+        "saettigung": 66.7,
+        "kantenbaender": [
+          0.187,
+          0.245,
+          0.202,
+          0.248,
+          0.118
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#1e161e",
+            "anteil": 0.271,
+            "ton": 300,
+            "saettigung": 0.27,
+            "helligkeit": 0.12
+          },
+          {
+            "hex": "#dbbda8",
+            "anteil": 0.23,
+            "ton": 25,
+            "saettigung": 0.23,
+            "helligkeit": 0.86
+          },
+          {
+            "hex": "#715957",
+            "anteil": 0.215,
+            "ton": 5,
+            "saettigung": 0.23,
+            "helligkeit": 0.44
+          },
+          {
+            "hex": "#fefffe",
+            "anteil": 0.181,
+            "ton": 120,
+            "saettigung": 0.0,
+            "helligkeit": 1.0
+          },
+          {
+            "hex": "#f7ede0",
+            "anteil": 0.102,
+            "ton": 34,
+            "saettigung": 0.09,
+            "helligkeit": 0.97
+          }
+        ],
+        "asin": "B0H9X4BLS4",
+        "titel": "Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin",
+        "datei": "cover/geheimes-baby-liebesroman/01-B0H9X4BLS4.jpg"
+      },
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 152.3,
+        "kontrast": 38.1,
+        "saettigung": 141.1,
+        "kantenbaender": [
+          0.177,
+          0.208,
+          0.224,
+          0.185,
+          0.205
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#9c65fc",
+            "anteil": 0.54,
+            "ton": 262,
+            "saettigung": 0.6,
+            "helligkeit": 0.99
+          },
+          {
+            "hex": "#e3c680",
+            "anteil": 0.237,
+            "ton": 42,
+            "saettigung": 0.44,
+            "helligkeit": 0.89
+          },
+          {
+            "hex": "#ac80de",
+            "anteil": 0.16,
+            "ton": 268,
+            "saettigung": 0.42,
+            "helligkeit": 0.87
+          },
+          {
+            "hex": "#7d55c9",
+            "anteil": 0.044,
+            "ton": 261,
+            "saettigung": 0.58,
+            "helligkeit": 0.79
+          },
+          {
+            "hex": "#a358e1",
+            "anteil": 0.018,
+            "ton": 273,
+            "saettigung": 0.61,
+            "helligkeit": 0.88
+          }
+        ],
+        "asin": "B0F671SQP8",
+        "titel": "Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3)",
+        "datei": "cover/geheimes-baby-liebesroman/02-B0F671SQP8.jpg"
+      },
+      {
+        "breite": 342,
+        "hoehe": 500,
+        "verhaeltnis": 1.462,
+        "helligkeit": 46.2,
+        "kontrast": 50.1,
+        "saettigung": 78.1,
+        "kantenbaender": [
+          0.082,
+          0.085,
+          0.157,
+          0.386,
+          0.29
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#201916",
+            "anteil": 0.287,
+            "ton": 18,
+            "saettigung": 0.31,
+            "helligkeit": 0.13
+          },
+          {
+            "hex": "#2d241f",
+            "anteil": 0.276,
+            "ton": 21,
+            "saettigung": 0.31,
+            "helligkeit": 0.18
+          },
+          {
+            "hex": "#0d0b0b",
+            "anteil": 0.205,
+            "ton": 0,
+            "saettigung": 0.15,
+            "helligkeit": 0.05
+          },
+          {
+            "hex": "#a6917f",
+            "anteil": 0.117,
+            "ton": 28,
+            "saettigung": 0.23,
+            "helligkeit": 0.65
+          },
+          {
+            "hex": "#40352d",
+            "anteil": 0.115,
+            "ton": 25,
+            "saettigung": 0.3,
+            "helligkeit": 0.25
+          }
+        ],
+        "asin": "B0HD133PD7",
+        "titel": "Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3)",
+        "datei": "cover/geheimes-baby-liebesroman/03-B0HD133PD7.jpg"
+      },
+      {
+        "breite": 334,
+        "hoehe": 500,
+        "verhaeltnis": 1.497,
+        "helligkeit": 62.9,
+        "kontrast": 86.1,
+        "saettigung": 123.0,
+        "kantenbaender": [
+          0.175,
+          0.172,
+          0.213,
+          0.23,
+          0.21
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#412821",
+            "anteil": 0.272,
+            "ton": 13,
+            "saettigung": 0.49,
+            "helligkeit": 0.25
+          },
+          {
+            "hex": "#030202",
+            "anteil": 0.221,
+            "ton": 0,
+            "saettigung": 0.33,
+            "helligkeit": 0.01
+          },
+          {
+            "hex": "#1a0d0b",
+            "anteil": 0.178,
+            "ton": 8,
+            "saettigung": 0.58,
+            "helligkeit": 0.1
+          },
+          {
+            "hex": "#c5b7b3",
+            "anteil": 0.173,
+            "ton": 13,
+            "saettigung": 0.09,
+            "helligkeit": 0.77
+          },
+          {
+            "hex": "#0c0605",
+            "anteil": 0.157,
+            "ton": 9,
+            "saettigung": 0.58,
+            "helligkeit": 0.05
+          }
+        ],
+        "asin": "B0H5T8L75H",
+        "titel": "Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55)",
+        "datei": "cover/geheimes-baby-liebesroman/04-B0H5T8L75H.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 56.9,
+        "kontrast": 63.0,
+        "saettigung": 64.4,
+        "kantenbaender": [
+          0.128,
+          0.171,
+          0.23,
+          0.279,
+          0.192
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#0e0e0e",
+            "anteil": 0.44,
+            "ton": 0,
+            "saettigung": 0.0,
+            "helligkeit": 0.05
+          },
+          {
+            "hex": "#735950",
+            "anteil": 0.18,
+            "ton": 15,
+            "saettigung": 0.3,
+            "helligkeit": 0.45
+          },
+          {
+            "hex": "#392221",
+            "anteil": 0.149,
+            "ton": 2,
+            "saettigung": 0.42,
+            "helligkeit": 0.22
+          },
+          {
+            "hex": "#2d1212",
+            "anteil": 0.12,
+            "ton": 0,
+            "saettigung": 0.6,
+            "helligkeit": 0.18
+          },
+          {
+            "hex": "#c7b5b0",
+            "anteil": 0.111,
+            "ton": 13,
+            "saettigung": 0.12,
+            "helligkeit": 0.78
+          }
+        ],
+        "asin": "B0H6HLG71H",
+        "titel": "Das geheime Baby der Bratva (Reich der Sünde)",
+        "datei": "cover/geheimes-baby-liebesroman/05-B0H6HLG71H.jpg"
+      },
+      {
+        "breite": 311,
+        "hoehe": 500,
+        "verhaeltnis": 1.608,
+        "helligkeit": 90.9,
+        "kontrast": 87.8,
+        "saettigung": 58.2,
+        "kantenbaender": [
+          0.106,
+          0.111,
+          0.234,
+          0.319,
+          0.229
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#050202",
+            "anteil": 0.299,
+            "ton": 0,
+            "saettigung": 0.6,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#746a68",
+            "anteil": 0.216,
+            "ton": 10,
+            "saettigung": 0.1,
+            "helligkeit": 0.45
+          },
+          {
+            "hex": "#282220",
+            "anteil": 0.215,
+            "ton": 15,
+            "saettigung": 0.2,
+            "helligkeit": 0.16
+          },
+          {
+            "hex": "#bfb6ab",
+            "anteil": 0.136,
+            "ton": 33,
+            "saettigung": 0.1,
+            "helligkeit": 0.75
+          },
+          {
+            "hex": "#f5f4f3",
+            "anteil": 0.134,
+            "ton": 30,
+            "saettigung": 0.01,
+            "helligkeit": 0.96
+          }
+        ],
+        "asin": "B0D9G5DJX2",
+        "titel": "Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)",
+        "datei": "cover/geheimes-baby-liebesroman/06-B0D9G5DJX2.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 59.7,
+        "kontrast": 67.4,
+        "saettigung": 123.3,
+        "kantenbaender": [
+          0.182,
+          0.2,
+          0.232,
+          0.173,
+          0.213
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#010101",
+            "anteil": 0.316,
+            "ton": 0,
+            "saettigung": 0.0,
+            "helligkeit": 0.0
+          },
+          {
+            "hex": "#573c1d",
+            "anteil": 0.25,
+            "ton": 32,
+            "saettigung": 0.67,
+            "helligkeit": 0.34
+          },
+          {
+            "hex": "#251509",
+            "anteil": 0.174,
+            "ton": 26,
+            "saettigung": 0.76,
+            "helligkeit": 0.15
+          },
+          {
+            "hex": "#816742",
+            "anteil": 0.149,
+            "ton": 35,
+            "saettigung": 0.49,
+            "helligkeit": 0.51
+          },
+          {
+            "hex": "#cab8a3",
+            "anteil": 0.111,
+            "ton": 32,
+            "saettigung": 0.19,
+            "helligkeit": 0.79
+          }
+        ],
+        "asin": "B0FSLQGDZT",
+        "titel": "Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43)",
+        "datei": "cover/geheimes-baby-liebesroman/07-B0FSLQGDZT.jpg"
+      },
+      {
+        "breite": 312,
+        "hoehe": 500,
+        "verhaeltnis": 1.603,
+        "helligkeit": 51.3,
+        "kontrast": 68.5,
+        "saettigung": 83.9,
+        "kantenbaender": [
+          0.132,
+          0.124,
+          0.118,
+          0.307,
+          0.319
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#312625",
+            "anteil": 0.26,
+            "ton": 5,
+            "saettigung": 0.24,
+            "helligkeit": 0.19
+          },
+          {
+            "hex": "#020204",
+            "anteil": 0.21,
+            "ton": 240,
+            "saettigung": 0.5,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#9e8c7f",
+            "anteil": 0.193,
+            "ton": 25,
+            "saettigung": 0.2,
+            "helligkeit": 0.62
+          },
+          {
+            "hex": "#100e12",
+            "anteil": 0.185,
+            "ton": 270,
+            "saettigung": 0.22,
+            "helligkeit": 0.07
+          },
+          {
+            "hex": "#08080c",
+            "anteil": 0.153,
+            "ton": 240,
+            "saettigung": 0.33,
+            "helligkeit": 0.05
+          }
+        ],
+        "asin": "B0HB9DKD8Z",
+        "titel": "The Player of New York: Ein emotionaler Secret Baby & Second Chance Liebesroman",
+        "datei": "cover/geheimes-baby-liebesroman/08-B0HB9DKD8Z.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 81.1,
+        "kontrast": 66.9,
+        "saettigung": 138.5,
+        "kantenbaender": [
+          0.163,
+          0.21,
+          0.194,
+          0.283,
+          0.149
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#0f1130",
+            "anteil": 0.28,
+            "ton": 236,
+            "saettigung": 0.69,
+            "helligkeit": 0.19
+          },
+          {
+            "hex": "#5a5270",
+            "anteil": 0.22,
+            "ton": 256,
+            "saettigung": 0.27,
+            "helligkeit": 0.44
+          },
+          {
+            "hex": "#441f46",
+            "anteil": 0.218,
+            "ton": 297,
+            "saettigung": 0.56,
+            "helligkeit": 0.27
+          },
+          {
+            "hex": "#848aa1",
+            "anteil": 0.168,
+            "ton": 228,
+            "saettigung": 0.18,
+            "helligkeit": 0.63
+          },
+          {
+            "hex": "#b2c8d4",
+            "anteil": 0.115,
+            "ton": 201,
+            "saettigung": 0.16,
+            "helligkeit": 0.83
+          }
+        ],
+        "asin": "B0H6J148TC",
+        "titel": "Beansprucht Von Meinem Obersten Alpha: Geheimes Baby Schicksalsgefährten Langsam Entflammende Gestaltwandler Romanze (Aufstieg Der Abgelehnten 1)",
+        "datei": "cover/geheimes-baby-liebesroman/09-B0H6J148TC.jpg"
+      },
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 69.5,
+        "kontrast": 59.5,
+        "saettigung": 141.7,
+        "kantenbaender": [
+          0.165,
+          0.198,
+          0.184,
+          0.187,
+          0.267
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#090c16",
+            "anteil": 0.249,
+            "ton": 226,
+            "saettigung": 0.59,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#6e3f38",
+            "anteil": 0.242,
+            "ton": 8,
+            "saettigung": 0.49,
+            "helligkeit": 0.43
+          },
+          {
+            "hex": "#c48665",
+            "anteil": 0.215,
+            "ton": 21,
+            "saettigung": 0.48,
+            "helligkeit": 0.77
+          },
+          {
+            "hex": "#211b21",
+            "anteil": 0.159,
+            "ton": 300,
+            "saettigung": 0.18,
+            "helligkeit": 0.13
+          },
+          {
+            "hex": "#4f251d",
+            "anteil": 0.136,
+            "ton": 10,
+            "saettigung": 0.63,
+            "helligkeit": 0.31
+          }
+        ],
+        "asin": "B0H8MGQG8Q",
+        "titel": "Das Geheime Baby vom Griechischen CEO",
+        "datei": "cover/geheimes-baby-liebesroman/10-B0H8MGQG8Q.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 26.1,
+        "kontrast": 47.0,
+        "saettigung": 152.0,
+        "kantenbaender": [
+          0.227,
+          0.168,
+          0.139,
+          0.222,
+          0.244
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#010101",
+            "anteil": 0.359,
+            "ton": 0,
+            "saettigung": 0.0,
+            "helligkeit": 0.0
+          },
+          {
+            "hex": "#090202",
+            "anteil": 0.219,
+            "ton": 0,
+            "saettigung": 0.78,
+            "helligkeit": 0.04
+          },
+          {
+            "hex": "#432b20",
+            "anteil": 0.16,
+            "ton": 19,
+            "saettigung": 0.52,
+            "helligkeit": 0.26
+          },
+          {
+            "hex": "#190d0b",
+            "anteil": 0.159,
+            "ton": 9,
+            "saettigung": 0.56,
+            "helligkeit": 0.1
+          },
+          {
+            "hex": "#846b51",
+            "anteil": 0.103,
+            "ton": 31,
+            "saettigung": 0.39,
+            "helligkeit": 0.52
+          }
+        ],
+        "asin": "B0H8DV2P38",
+        "titel": "Das geheime Baby des Alpha-Rates: Eine Omegaverse Dark Reverse Harem Mafia Romance (Die Tribute der Alpha-Mafia 3)",
+        "datei": "cover/geheimes-baby-liebesroman/11-B0H8DV2P38.jpg"
+      },
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 66.0,
+        "kontrast": 74.6,
+        "saettigung": 89.4,
+        "kantenbaender": [
+          0.176,
+          0.143,
+          0.202,
+          0.261,
+          0.218
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#070c10",
+            "anteil": 0.227,
+            "ton": 207,
+            "saettigung": 0.56,
+            "helligkeit": 0.06
+          },
+          {
+            "hex": "#b8b3ad",
+            "anteil": 0.221,
+            "ton": 33,
+            "saettigung": 0.06,
+            "helligkeit": 0.72
+          },
+          {
+            "hex": "#353433",
+            "anteil": 0.204,
+            "ton": 30,
+            "saettigung": 0.04,
+            "helligkeit": 0.21
+          },
+          {
+            "hex": "#0b1016",
+            "anteil": 0.175,
+            "ton": 213,
+            "saettigung": 0.5,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#151416",
+            "anteil": 0.173,
+            "ton": 270,
+            "saettigung": 0.09,
+            "helligkeit": 0.09
+          }
+        ],
+        "asin": "B0F6PBR99N",
+        "titel": "One Last Chance: Ein Baby Surprise - Liebesroman",
+        "datei": "cover/geheimes-baby-liebesroman/12-B0F6PBR99N.jpg"
+      }
+    ],
+    "kontaktbogen": "cover/kontaktbogen-geheimes-baby-liebesroman.png"
   },
   {
     "begriff": "milliardär liebesroman",
     "markt": "www.amazon.de",
-    "cover": [],
-    "fehler": "Keine Treffer gelesen. NICHT als 'keine Cover' deuten.",
-    "seitentitel": "Tut uns Leid!"
+    "cover": [
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 52.4,
+        "kontrast": 59.8,
+        "saettigung": 147.2,
+        "kantenbaender": [
+          0.154,
+          0.219,
+          0.123,
+          0.215,
+          0.288
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#020a0f",
+            "anteil": 0.332,
+            "ton": 203,
+            "saettigung": 0.87,
+            "helligkeit": 0.06
+          },
+          {
+            "hex": "#242733",
+            "anteil": 0.237,
+            "ton": 228,
+            "saettigung": 0.29,
+            "helligkeit": 0.2
+          },
+          {
+            "hex": "#2c0f19",
+            "anteil": 0.182,
+            "ton": 339,
+            "saettigung": 0.66,
+            "helligkeit": 0.17
+          },
+          {
+            "hex": "#675359",
+            "anteil": 0.125,
+            "ton": 342,
+            "saettigung": 0.19,
+            "helligkeit": 0.4
+          },
+          {
+            "hex": "#c4aba0",
+            "anteil": 0.124,
+            "ton": 18,
+            "saettigung": 0.18,
+            "helligkeit": 0.77
+          }
+        ],
+        "asin": "B0HCW28KG7",
+        "titel": "My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5)",
+        "datei": "cover/milliard-r-liebesroman/01-B0HCW28KG7.jpg"
+      },
+      {
+        "breite": 342,
+        "hoehe": 500,
+        "verhaeltnis": 1.462,
+        "helligkeit": 44.6,
+        "kontrast": 50.7,
+        "saettigung": 81.7,
+        "kantenbaender": [
+          0.193,
+          0.1,
+          0.136,
+          0.372,
+          0.199
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#181514",
+            "anteil": 0.339,
+            "ton": 15,
+            "saettigung": 0.17,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#131212",
+            "anteil": 0.207,
+            "ton": 0,
+            "saettigung": 0.05,
+            "helligkeit": 0.07
+          },
+          {
+            "hex": "#35364c",
+            "anteil": 0.18,
+            "ton": 237,
+            "saettigung": 0.3,
+            "helligkeit": 0.3
+          },
+          {
+            "hex": "#211f28",
+            "anteil": 0.18,
+            "ton": 253,
+            "saettigung": 0.23,
+            "helligkeit": 0.16
+          },
+          {
+            "hex": "#998d81",
+            "anteil": 0.095,
+            "ton": 30,
+            "saettigung": 0.16,
+            "helligkeit": 0.6
+          }
+        ],
+        "asin": "B0FRSYBT37",
+        "titel": "Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1)",
+        "datei": "cover/milliard-r-liebesroman/02-B0FRSYBT37.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 60.0,
+        "kontrast": 79.1,
+        "saettigung": 144.0,
+        "kantenbaender": [
+          0.206,
+          0.177,
+          0.163,
+          0.246,
+          0.208
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#0e0404",
+            "anteil": 0.348,
+            "ton": 0,
+            "saettigung": 0.71,
+            "helligkeit": 0.05
+          },
+          {
+            "hex": "#260609",
+            "anteil": 0.25,
+            "ton": 354,
+            "saettigung": 0.84,
+            "helligkeit": 0.15
+          },
+          {
+            "hex": "#2f1718",
+            "anteil": 0.144,
+            "ton": 358,
+            "saettigung": 0.51,
+            "helligkeit": 0.18
+          },
+          {
+            "hex": "#e6d6d0",
+            "anteil": 0.144,
+            "ton": 16,
+            "saettigung": 0.1,
+            "helligkeit": 0.9
+          },
+          {
+            "hex": "#a37f83",
+            "anteil": 0.115,
+            "ton": 353,
+            "saettigung": 0.22,
+            "helligkeit": 0.64
+          }
+        ],
+        "asin": "B0H7SHQN5J",
+        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
+        "datei": "cover/milliard-r-liebesroman/03-B0H7SHQN5J.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 45.3,
+        "kontrast": 58.0,
+        "saettigung": 148.7,
+        "kantenbaender": [
+          0.242,
+          0.211,
+          0.152,
+          0.238,
+          0.158
+        ],
+        "textzone": 1,
+        "farben": [
+          {
+            "hex": "#3d2b1e",
+            "anteil": 0.264,
+            "ton": 25,
+            "saettigung": 0.51,
+            "helligkeit": 0.24
+          },
+          {
+            "hex": "#000205",
+            "anteil": 0.211,
+            "ton": 216,
+            "saettigung": 1.0,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#837669",
+            "anteil": 0.198,
+            "ton": 30,
+            "saettigung": 0.2,
+            "helligkeit": 0.51
+          },
+          {
+            "hex": "#030305",
+            "anteil": 0.164,
+            "ton": 240,
+            "saettigung": 0.4,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#140c08",
+            "anteil": 0.162,
+            "ton": 20,
+            "saettigung": 0.6,
+            "helligkeit": 0.08
+          }
+        ],
+        "asin": "B0HC8L5HYN",
+        "titel": "Vernachlässigt von meinem Milliardär-Ehemann: Eine Romanzen-Serie um einen Milliardär, eine Ehe in der Krise und eine zweite Chance",
+        "datei": "cover/milliard-r-liebesroman/04-B0HC8L5HYN.jpg"
+      },
+      {
+        "breite": 342,
+        "hoehe": 500,
+        "verhaeltnis": 1.462,
+        "helligkeit": 48.5,
+        "kontrast": 58.9,
+        "saettigung": 98.2,
+        "kantenbaender": [
+          0.135,
+          0.116,
+          0.114,
+          0.335,
+          0.299
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#272623",
+            "anteil": 0.299,
+            "ton": 45,
+            "saettigung": 0.1,
+            "helligkeit": 0.15
+          },
+          {
+            "hex": "#060707",
+            "anteil": 0.205,
+            "ton": 180,
+            "saettigung": 0.14,
+            "helligkeit": 0.03
+          },
+          {
+            "hex": "#111312",
+            "anteil": 0.2,
+            "ton": 150,
+            "saettigung": 0.11,
+            "helligkeit": 0.07
+          },
+          {
+            "hex": "#89796c",
+            "anteil": 0.167,
+            "ton": 27,
+            "saettigung": 0.21,
+            "helligkeit": 0.54
+          },
+          {
+            "hex": "#1d1610",
+            "anteil": 0.128,
+            "ton": 28,
+            "saettigung": 0.45,
+            "helligkeit": 0.11
+          }
+        ],
+        "asin": "B0H8WXW6C5",
+        "titel": "Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)",
+        "datei": "cover/milliard-r-liebesroman/05-B0H8WXW6C5.jpg"
+      },
+      {
+        "breite": 335,
+        "hoehe": 500,
+        "verhaeltnis": 1.493,
+        "helligkeit": 55.2,
+        "kontrast": 53.0,
+        "saettigung": 136.4,
+        "kantenbaender": [
+          0.152,
+          0.164,
+          0.182,
+          0.243,
+          0.259
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#150b20",
+            "anteil": 0.275,
+            "ton": 269,
+            "saettigung": 0.66,
+            "helligkeit": 0.13
+          },
+          {
+            "hex": "#362245",
+            "anteil": 0.252,
+            "ton": 274,
+            "saettigung": 0.51,
+            "helligkeit": 0.27
+          },
+          {
+            "hex": "#25143a",
+            "anteil": 0.235,
+            "ton": 267,
+            "saettigung": 0.66,
+            "helligkeit": 0.23
+          },
+          {
+            "hex": "#715157",
+            "anteil": 0.124,
+            "ton": 349,
+            "saettigung": 0.28,
+            "helligkeit": 0.44
+          },
+          {
+            "hex": "#bc9d95",
+            "anteil": 0.114,
+            "ton": 12,
+            "saettigung": 0.21,
+            "helligkeit": 0.74
+          }
+        ],
+        "asin": "B0H5C9LJYP",
+        "titel": "Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4)",
+        "datei": "cover/milliard-r-liebesroman/06-B0H5C9LJYP.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 77.7,
+        "kontrast": 67.9,
+        "saettigung": 83.8,
+        "kantenbaender": [
+          0.118,
+          0.218,
+          0.251,
+          0.22,
+          0.194
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#08080a",
+            "anteil": 0.273,
+            "ton": 240,
+            "saettigung": 0.2,
+            "helligkeit": 0.04
+          },
+          {
+            "hex": "#436069",
+            "anteil": 0.233,
+            "ton": 194,
+            "saettigung": 0.36,
+            "helligkeit": 0.41
+          },
+          {
+            "hex": "#2b2a2c",
+            "anteil": 0.228,
+            "ton": 270,
+            "saettigung": 0.05,
+            "helligkeit": 0.17
+          },
+          {
+            "hex": "#9c8791",
+            "anteil": 0.134,
+            "ton": 331,
+            "saettigung": 0.13,
+            "helligkeit": 0.61
+          },
+          {
+            "hex": "#cbc5c2",
+            "anteil": 0.131,
+            "ton": 20,
+            "saettigung": 0.04,
+            "helligkeit": 0.8
+          }
+        ],
+        "asin": "B0FXBYX37M",
+        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
+        "datei": "cover/milliard-r-liebesroman/07-B0FXBYX37M.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 100.8,
+        "kontrast": 84.9,
+        "saettigung": 74.3,
+        "kantenbaender": [
+          0.17,
+          0.14,
+          0.262,
+          0.228,
+          0.2
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#060709",
+            "anteil": 0.284,
+            "ton": 220,
+            "saettigung": 0.33,
+            "helligkeit": 0.04
+          },
+          {
+            "hex": "#d6d5d7",
+            "anteil": 0.268,
+            "ton": 270,
+            "saettigung": 0.01,
+            "helligkeit": 0.84
+          },
+          {
+            "hex": "#8d7e88",
+            "anteil": 0.19,
+            "ton": 320,
+            "saettigung": 0.11,
+            "helligkeit": 0.55
+          },
+          {
+            "hex": "#5a4039",
+            "anteil": 0.155,
+            "ton": 13,
+            "saettigung": 0.37,
+            "helligkeit": 0.35
+          },
+          {
+            "hex": "#1b1e21",
+            "anteil": 0.102,
+            "ton": 210,
+            "saettigung": 0.18,
+            "helligkeit": 0.13
+          }
+        ],
+        "asin": "B0DVCGHL4P",
+        "titel": "Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London)",
+        "datei": "cover/milliard-r-liebesroman/08-B0DVCGHL4P.jpg"
+      },
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 56.3,
+        "kontrast": 57.0,
+        "saettigung": 145.3,
+        "kantenbaender": [
+          0.187,
+          0.189,
+          0.13,
+          0.189,
+          0.304
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#030e14",
+            "anteil": 0.35,
+            "ton": 201,
+            "saettigung": 0.85,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#343340",
+            "anteil": 0.231,
+            "ton": 245,
+            "saettigung": 0.2,
+            "helligkeit": 0.25
+          },
+          {
+            "hex": "#635859",
+            "anteil": 0.146,
+            "ton": 355,
+            "saettigung": 0.11,
+            "helligkeit": 0.39
+          },
+          {
+            "hex": "#261218",
+            "anteil": 0.146,
+            "ton": 342,
+            "saettigung": 0.53,
+            "helligkeit": 0.15
+          },
+          {
+            "hex": "#c9a28e",
+            "anteil": 0.127,
+            "ton": 20,
+            "saettigung": 0.29,
+            "helligkeit": 0.79
+          }
+        ],
+        "asin": "B0H2D3G4G2",
+        "titel": "Her Secret Husband: Ein Enemies to Lovers - Liebesroman (Die Chester Street Milliardäre 4)",
+        "datei": "cover/milliard-r-liebesroman/09-B0H2D3G4G2.jpg"
+      },
+      {
+        "breite": 344,
+        "hoehe": 500,
+        "verhaeltnis": 1.453,
+        "helligkeit": 46.7,
+        "kontrast": 55.8,
+        "saettigung": 47.8,
+        "kantenbaender": [
+          0.192,
+          0.127,
+          0.113,
+          0.378,
+          0.19
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#1e1c1a",
+            "anteil": 0.302,
+            "ton": 30,
+            "saettigung": 0.13,
+            "helligkeit": 0.12
+          },
+          {
+            "hex": "#161513",
+            "anteil": 0.245,
+            "ton": 40,
+            "saettigung": 0.14,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#7d6f63",
+            "anteil": 0.173,
+            "ton": 28,
+            "saettigung": 0.21,
+            "helligkeit": 0.49
+          },
+          {
+            "hex": "#191714",
+            "anteil": 0.157,
+            "ton": 36,
+            "saettigung": 0.2,
+            "helligkeit": 0.1
+          },
+          {
+            "hex": "#131210",
+            "anteil": 0.123,
+            "ton": 40,
+            "saettigung": 0.16,
+            "helligkeit": 0.07
+          }
+        ],
+        "asin": "B0FRSWBZQ3",
+        "titel": "Das Haustier des Milliardärs: Liebesroman (Die Winters Saga 3)",
+        "datei": "cover/milliard-r-liebesroman/10-B0FRSWBZQ3.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 99.1,
+        "kontrast": 83.8,
+        "saettigung": 55.3,
+        "kantenbaender": [
+          0.14,
+          0.19,
+          0.285,
+          0.182,
+          0.203
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#d8d9ea",
+            "anteil": 0.28,
+            "ton": 237,
+            "saettigung": 0.08,
+            "helligkeit": 0.92
+          },
+          {
+            "hex": "#141214",
+            "anteil": 0.244,
+            "ton": 300,
+            "saettigung": 0.1,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#7c6884",
+            "anteil": 0.171,
+            "ton": 283,
+            "saettigung": 0.21,
+            "helligkeit": 0.52
+          },
+          {
+            "hex": "#3d2a3d",
+            "anteil": 0.164,
+            "ton": 300,
+            "saettigung": 0.31,
+            "helligkeit": 0.24
+          },
+          {
+            "hex": "#291b25",
+            "anteil": 0.141,
+            "ton": 317,
+            "saettigung": 0.34,
+            "helligkeit": 0.16
+          }
+        ],
+        "asin": "B0H4YN8ZB2",
+        "titel": "Temporary Vows: Ein Milliardär-Liebesroman (Vale Milliardäre 2)",
+        "datei": "cover/milliard-r-liebesroman/11-B0H4YN8ZB2.jpg"
+      },
+      {
+        "breite": 312,
+        "hoehe": 500,
+        "verhaeltnis": 1.603,
+        "helligkeit": 66.9,
+        "kontrast": 74.3,
+        "saettigung": 90.8,
+        "kantenbaender": [
+          0.159,
+          0.129,
+          0.15,
+          0.294,
+          0.268
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#010105",
+            "anteil": 0.259,
+            "ton": 240,
+            "saettigung": 0.8,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#c3a993",
+            "anteil": 0.257,
+            "ton": 28,
+            "saettigung": 0.25,
+            "helligkeit": 0.76
+          },
+          {
+            "hex": "#211718",
+            "anteil": 0.185,
+            "ton": 354,
+            "saettigung": 0.3,
+            "helligkeit": 0.13
+          },
+          {
+            "hex": "#55453d",
+            "anteil": 0.178,
+            "ton": 20,
+            "saettigung": 0.28,
+            "helligkeit": 0.33
+          },
+          {
+            "hex": "#0a090c",
+            "anteil": 0.121,
+            "ton": 260,
+            "saettigung": 0.25,
+            "helligkeit": 0.05
+          }
+        ],
+        "asin": "B0H9GK39B5",
+        "titel": "Kein Kuss für den Milliardär: Eine emotionale Sports Romance mit Secret Baby",
+        "datei": "cover/milliard-r-liebesroman/12-B0H9GK39B5.jpg"
+      }
+    ],
+    "kontaktbogen": "cover/kontaktbogen-milliard-r-liebesroman.png"
   },
   {
     "begriff": "ceo liebesroman",
     "markt": "www.amazon.de",
-    "cover": [],
-    "fehler": "Keine Treffer gelesen. NICHT als 'keine Cover' deuten.",
-    "seitentitel": "Tut uns Leid!"
+    "cover": [
+      {
+        "breite": 316,
+        "hoehe": 500,
+        "verhaeltnis": 1.582,
+        "helligkeit": 57.8,
+        "kontrast": 67.2,
+        "saettigung": 153.4,
+        "kantenbaender": [
+          0.201,
+          0.283,
+          0.166,
+          0.207,
+          0.142
+        ],
+        "textzone": 2,
+        "farben": [
+          {
+            "hex": "#79a7be",
+            "anteil": 0.246,
+            "ton": 200,
+            "saettigung": 0.36,
+            "helligkeit": 0.75
+          },
+          {
+            "hex": "#010208",
+            "anteil": 0.231,
+            "ton": 231,
+            "saettigung": 0.88,
+            "helligkeit": 0.03
+          },
+          {
+            "hex": "#324251",
+            "anteil": 0.197,
+            "ton": 209,
+            "saettigung": 0.38,
+            "helligkeit": 0.32
+          },
+          {
+            "hex": "#0c0d14",
+            "anteil": 0.17,
+            "ton": 232,
+            "saettigung": 0.4,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#04060d",
+            "anteil": 0.156,
+            "ton": 227,
+            "saettigung": 0.69,
+            "helligkeit": 0.05
+          }
+        ],
+        "asin": "B0GWXJRYPJ",
+        "titel": "Icecold CEO (Die Manhattan CEOs 1)",
+        "datei": "cover/ceo-liebesroman/01-B0GWXJRYPJ.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 52.9,
+        "kontrast": 69.1,
+        "saettigung": 126.3,
+        "kantenbaender": [
+          0.136,
+          0.095,
+          0.238,
+          0.292,
+          0.24
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#2d3136",
+            "anteil": 0.263,
+            "ton": 213,
+            "saettigung": 0.17,
+            "helligkeit": 0.21
+          },
+          {
+            "hex": "#000103",
+            "anteil": 0.224,
+            "ton": 220,
+            "saettigung": 1.0,
+            "helligkeit": 0.01
+          },
+          {
+            "hex": "#8a9ca0",
+            "anteil": 0.203,
+            "ton": 191,
+            "saettigung": 0.14,
+            "helligkeit": 0.63
+          },
+          {
+            "hex": "#0a0c16",
+            "anteil": 0.194,
+            "ton": 230,
+            "saettigung": 0.55,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#03040c",
+            "anteil": 0.117,
+            "ton": 233,
+            "saettigung": 0.75,
+            "helligkeit": 0.05
+          }
+        ],
+        "asin": "B0FHKM1F9T",
+        "titel": "Den CEO Verführt: Ein Grumpy x Sunshine Liebesroman (Die Whitley-Brüder 1)",
+        "datei": "cover/ceo-liebesroman/02-B0FHKM1F9T.jpg"
+      },
+      {
+        "breite": 316,
+        "hoehe": 500,
+        "verhaeltnis": 1.582,
+        "helligkeit": 87.0,
+        "kontrast": 71.7,
+        "saettigung": 100.9,
+        "kantenbaender": [
+          0.119,
+          0.304,
+          0.174,
+          0.208,
+          0.196
+        ],
+        "textzone": 2,
+        "farben": [
+          {
+            "hex": "#b4beca",
+            "anteil": 0.249,
+            "ton": 213,
+            "saettigung": 0.11,
+            "helligkeit": 0.79
+          },
+          {
+            "hex": "#0a0e17",
+            "anteil": 0.234,
+            "ton": 222,
+            "saettigung": 0.57,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#696870",
+            "anteil": 0.222,
+            "ton": 248,
+            "saettigung": 0.07,
+            "helligkeit": 0.44
+          },
+          {
+            "hex": "#282d3a",
+            "anteil": 0.15,
+            "ton": 223,
+            "saettigung": 0.31,
+            "helligkeit": 0.23
+          },
+          {
+            "hex": "#132032",
+            "anteil": 0.145,
+            "ton": 215,
+            "saettigung": 0.62,
+            "helligkeit": 0.2
+          }
+        ],
+        "asin": "B0H8JHNW83",
+        "titel": "Soulless CEO (Die Manhattan CEOs 4)",
+        "datei": "cover/ceo-liebesroman/03-B0H8JHNW83.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 59.7,
+        "kontrast": 76.3,
+        "saettigung": 147.3,
+        "kantenbaender": [
+          0.144,
+          0.106,
+          0.278,
+          0.2,
+          0.272
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#000107",
+            "anteil": 0.286,
+            "ton": 231,
+            "saettigung": 1.0,
+            "helligkeit": 0.03
+          },
+          {
+            "hex": "#070915",
+            "anteil": 0.273,
+            "ton": 231,
+            "saettigung": 0.67,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#2d3339",
+            "anteil": 0.179,
+            "ton": 210,
+            "saettigung": 0.21,
+            "helligkeit": 0.22
+          },
+          {
+            "hex": "#879ea3",
+            "anteil": 0.138,
+            "ton": 191,
+            "saettigung": 0.17,
+            "helligkeit": 0.64
+          },
+          {
+            "hex": "#b2ced7",
+            "anteil": 0.123,
+            "ton": 195,
+            "saettigung": 0.17,
+            "helligkeit": 0.84
+          }
+        ],
+        "asin": "B0GCPQ8CH4",
+        "titel": "Im Bann des CEO: Ein Enemies-To-Lovers Liebesroman (Die Whitley-Brüder 6)",
+        "datei": "cover/ceo-liebesroman/04-B0GCPQ8CH4.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 75.4,
+        "kontrast": 78.8,
+        "saettigung": 25.8,
+        "kantenbaender": [
+          0.148,
+          0.138,
+          0.214,
+          0.206,
+          0.294
+        ],
+        "textzone": 5,
+        "farben": [
+          {
+            "hex": "#bac5c7",
+            "anteil": 0.242,
+            "ton": 189,
+            "saettigung": 0.07,
+            "helligkeit": 0.78
+          },
+          {
+            "hex": "#070707",
+            "anteil": 0.216,
+            "ton": 0,
+            "saettigung": 0.0,
+            "helligkeit": 0.03
+          },
+          {
+            "hex": "#484b4d",
+            "anteil": 0.21,
+            "ton": 204,
+            "saettigung": 0.06,
+            "helligkeit": 0.3
+          },
+          {
+            "hex": "#1e1e20",
+            "anteil": 0.167,
+            "ton": 240,
+            "saettigung": 0.06,
+            "helligkeit": 0.13
+          },
+          {
+            "hex": "#121314",
+            "anteil": 0.164,
+            "ton": 210,
+            "saettigung": 0.1,
+            "helligkeit": 0.08
+          }
+        ],
+        "asin": "B0FHJQYQNQ",
+        "titel": "Küss den CEO (Die Whitley-Brüder 2)",
+        "datei": "cover/ceo-liebesroman/05-B0FHJQYQNQ.jpg"
+      },
+      {
+        "breite": 316,
+        "hoehe": 500,
+        "verhaeltnis": 1.582,
+        "helligkeit": 73.2,
+        "kontrast": 65.9,
+        "saettigung": 120.0,
+        "kantenbaender": [
+          0.152,
+          0.266,
+          0.205,
+          0.215,
+          0.163
+        ],
+        "textzone": 2,
+        "farben": [
+          {
+            "hex": "#161f2e",
+            "anteil": 0.303,
+            "ton": 218,
+            "saettigung": 0.52,
+            "helligkeit": 0.18
+          },
+          {
+            "hex": "#060c15",
+            "anteil": 0.259,
+            "ton": 216,
+            "saettigung": 0.71,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#485160",
+            "anteil": 0.157,
+            "ton": 218,
+            "saettigung": 0.25,
+            "helligkeit": 0.38
+          },
+          {
+            "hex": "#8d9bac",
+            "anteil": 0.153,
+            "ton": 213,
+            "saettigung": 0.18,
+            "helligkeit": 0.67
+          },
+          {
+            "hex": "#a8bcd0",
+            "anteil": 0.128,
+            "ton": 210,
+            "saettigung": 0.19,
+            "helligkeit": 0.82
+          }
+        ],
+        "asin": "B0H4W5TDZ6",
+        "titel": "Ruthless CEO (Die Manhattan CEOs 3)",
+        "datei": "cover/ceo-liebesroman/06-B0H4W5TDZ6.jpg"
+      },
+      {
+        "breite": 313,
+        "hoehe": 500,
+        "verhaeltnis": 1.597,
+        "helligkeit": 52.3,
+        "kontrast": 47.7,
+        "saettigung": 149.5,
+        "kantenbaender": [
+          0.188,
+          0.155,
+          0.143,
+          0.264,
+          0.25
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#031018",
+            "anteil": 0.323,
+            "ton": 203,
+            "saettigung": 0.88,
+            "helligkeit": 0.09
+          },
+          {
+            "hex": "#363244",
+            "anteil": 0.233,
+            "ton": 253,
+            "saettigung": 0.26,
+            "helligkeit": 0.27
+          },
+          {
+            "hex": "#55475b",
+            "anteil": 0.185,
+            "ton": 282,
+            "saettigung": 0.22,
+            "helligkeit": 0.36
+          },
+          {
+            "hex": "#281721",
+            "anteil": 0.154,
+            "ton": 325,
+            "saettigung": 0.42,
+            "helligkeit": 0.16
+          },
+          {
+            "hex": "#a6857f",
+            "anteil": 0.106,
+            "ton": 9,
+            "saettigung": 0.23,
+            "helligkeit": 0.65
+          }
+        ],
+        "asin": "B0GX2YVQ7T",
+        "titel": "Her Pucking CEO: Ein Second Chance - Enemies to Lovers Liebesroman (Die Chester Street Milliardäre 3)",
+        "datei": "cover/ceo-liebesroman/07-B0GX2YVQ7T.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 73.2,
+        "kontrast": 76.5,
+        "saettigung": 154.0,
+        "kantenbaender": [
+          0.296,
+          0.123,
+          0.156,
+          0.284,
+          0.141
+        ],
+        "textzone": 1,
+        "farben": [
+          {
+            "hex": "#021735",
+            "anteil": 0.258,
+            "ton": 215,
+            "saettigung": 0.96,
+            "helligkeit": 0.21
+          },
+          {
+            "hex": "#9bc9d9",
+            "anteil": 0.244,
+            "ton": 195,
+            "saettigung": 0.29,
+            "helligkeit": 0.85
+          },
+          {
+            "hex": "#171828",
+            "anteil": 0.238,
+            "ton": 236,
+            "saettigung": 0.42,
+            "helligkeit": 0.16
+          },
+          {
+            "hex": "#2f3c52",
+            "anteil": 0.174,
+            "ton": 218,
+            "saettigung": 0.43,
+            "helligkeit": 0.32
+          },
+          {
+            "hex": "#061633",
+            "anteil": 0.085,
+            "ton": 219,
+            "saettigung": 0.88,
+            "helligkeit": 0.2
+          }
+        ],
+        "asin": "B0BS1FTXQ6",
+        "titel": "Die Bändigung von Mr. Walker: Ein CEO-Liebesroman (London-Mister-Reihe 1)",
+        "datei": "cover/ceo-liebesroman/08-B0BS1FTXQ6.jpg"
+      },
+      {
+        "breite": 315,
+        "hoehe": 500,
+        "verhaeltnis": 1.587,
+        "helligkeit": 62.5,
+        "kontrast": 64.6,
+        "saettigung": 107.9,
+        "kantenbaender": [
+          0.158,
+          0.281,
+          0.256,
+          0.168,
+          0.136
+        ],
+        "textzone": 2,
+        "farben": [
+          {
+            "hex": "#10131b",
+            "anteil": 0.293,
+            "ton": 224,
+            "saettigung": 0.41,
+            "helligkeit": 0.11
+          },
+          {
+            "hex": "#04070b",
+            "anteil": 0.255,
+            "ton": 214,
+            "saettigung": 0.64,
+            "helligkeit": 0.04
+          },
+          {
+            "hex": "#3b3c43",
+            "anteil": 0.184,
+            "ton": 232,
+            "saettigung": 0.12,
+            "helligkeit": 0.26
+          },
+          {
+            "hex": "#a7b6c9",
+            "anteil": 0.146,
+            "ton": 214,
+            "saettigung": 0.17,
+            "helligkeit": 0.79
+          },
+          {
+            "hex": "#918785",
+            "anteil": 0.122,
+            "ton": 10,
+            "saettigung": 0.08,
+            "helligkeit": 0.57
+          }
+        ],
+        "asin": "B0HDSFCGCS",
+        "titel": "Business Only CEO (Die Manhattan CEOs 5)",
+        "datei": "cover/ceo-liebesroman/09-B0HDSFCGCS.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 93.7,
+        "kontrast": 83.3,
+        "saettigung": 119.4,
+        "kantenbaender": [
+          0.178,
+          0.266,
+          0.222,
+          0.205,
+          0.128
+        ],
+        "textzone": 2,
+        "farben": [
+          {
+            "hex": "#dbccb9",
+            "anteil": 0.279,
+            "ton": 34,
+            "saettigung": 0.16,
+            "helligkeit": 0.86
+          },
+          {
+            "hex": "#020307",
+            "anteil": 0.269,
+            "ton": 228,
+            "saettigung": 0.71,
+            "helligkeit": 0.03
+          },
+          {
+            "hex": "#887671",
+            "anteil": 0.177,
+            "ton": 13,
+            "saettigung": 0.17,
+            "helligkeit": 0.53
+          },
+          {
+            "hex": "#34333b",
+            "anteil": 0.153,
+            "ton": 248,
+            "saettigung": 0.14,
+            "helligkeit": 0.23
+          },
+          {
+            "hex": "#0d1f3a",
+            "anteil": 0.121,
+            "ton": 216,
+            "saettigung": 0.78,
+            "helligkeit": 0.23
+          }
+        ],
+        "asin": "B0H5KDZV9G",
+        "titel": "Eine NANNY für den CEO (Seattle Single Daddies 1)",
+        "datei": "cover/ceo-liebesroman/10-B0H5KDZV9G.jpg"
+      },
+      {
+        "breite": 324,
+        "hoehe": 500,
+        "verhaeltnis": 1.543,
+        "helligkeit": 65.2,
+        "kontrast": 67.1,
+        "saettigung": 88.1,
+        "kantenbaender": [
+          0.185,
+          0.187,
+          0.156,
+          0.301,
+          0.17
+        ],
+        "textzone": 4,
+        "farben": [
+          {
+            "hex": "#110c11",
+            "anteil": 0.319,
+            "ton": 300,
+            "saettigung": 0.29,
+            "helligkeit": 0.07
+          },
+          {
+            "hex": "#40353d",
+            "anteil": 0.217,
+            "ton": 316,
+            "saettigung": 0.17,
+            "helligkeit": 0.25
+          },
+          {
+            "hex": "#1e1319",
+            "anteil": 0.208,
+            "ton": 327,
+            "saettigung": 0.37,
+            "helligkeit": 0.12
+          },
+          {
+            "hex": "#d7c7b0",
+            "anteil": 0.128,
+            "ton": 35,
+            "saettigung": 0.18,
+            "helligkeit": 0.84
+          },
+          {
+            "hex": "#937476",
+            "anteil": 0.128,
+            "ton": 356,
+            "saettigung": 0.21,
+            "helligkeit": 0.58
+          }
+        ],
+        "asin": "B0HC2HQM4W",
+        "titel": "Breaking All the Rules: Eiskalter CEO – und er fällt zuerst (Terms of Desire 1)",
+        "datei": "cover/ceo-liebesroman/11-B0HC2HQM4W.jpg"
+      },
+      {
+        "breite": 333,
+        "hoehe": 500,
+        "verhaeltnis": 1.502,
+        "helligkeit": 56.8,
+        "kontrast": 67.7,
+        "saettigung": 26.6,
+        "kantenbaender": [
+          0.131,
+          0.145,
+          0.292,
+          0.2,
+          0.232
+        ],
+        "textzone": 3,
+        "farben": [
+          {
+            "hex": "#040404",
+            "anteil": 0.288,
+            "ton": 0,
+            "saettigung": 0.0,
+            "helligkeit": 0.02
+          },
+          {
+            "hex": "#323434",
+            "anteil": 0.236,
+            "ton": 180,
+            "saettigung": 0.04,
+            "helligkeit": 0.2
+          },
+          {
+            "hex": "#151414",
+            "anteil": 0.226,
+            "ton": 0,
+            "saettigung": 0.05,
+            "helligkeit": 0.08
+          },
+          {
+            "hex": "#b4cbcc",
+            "anteil": 0.134,
+            "ton": 183,
+            "saettigung": 0.12,
+            "helligkeit": 0.8
+          },
+          {
+            "hex": "#626665",
+            "anteil": 0.116,
+            "ton": 165,
+            "saettigung": 0.04,
+            "helligkeit": 0.4
+          }
+        ],
+        "asin": "B0FHJMGSXT",
+        "titel": "Flirten mit dem CEO: Ein Single Dad Liebesroman (Die Whitley-Brüder 3)",
+        "datei": "cover/ceo-liebesroman/12-B0FHJMGSXT.jpg"
+      }
+    ],
+    "kontaktbogen": "cover/kontaktbogen-ceo-liebesroman.png"
   }
 ]
