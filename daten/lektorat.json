@@ -2,52 +2,180 @@
   {
     "kapitel": 1,
     "antworten": {
-      "openai/gpt-5.5-pro": {
-        "fehler": "Antwort mit leerem Inhalt",
-        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Man kann sehr viel nicht denken, während man Blätterteig tourniert.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       },
-      "anthropic/claude-opus-4.7-fast": {
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"was ihr sehr ähnlich sieht und wofür ich ihr\" — unklar, ob „ihr\" die Mutter oder die Großmutter meint\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "was ihr sehr ähnlich sieht und wofür ich ihr",
+            "grund": "unklar, ob „ihr\" die Mutter oder die Großmutter meint",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Man kann sehr viel nicht denken, während man Blätterteig tourniert.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       }
     }
   },
   {
     "kapitel": 12,
     "antworten": {
-      "openai/gpt-5.5-pro": {
-        "fehler": "Antwort mit leerem Inhalt",
-        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': \"**Clarifying th"
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich bin nicht wütend",
+            "grund": null,
+            "belegt": true
+          }
+        }
       },
-      "anthropic/claude-opus-4.7-fast": {
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Nicht solange — und dann hast du den Satz nicht zu Ende gesagt\" — unklar, ob sie seine genauen Worte zitiert oder ihre Erinnerung daran zusammenfasst\nSTARK: \"dass du das zwei Jahre lang allein gemacht hast\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Nicht solange — und dann hast du den Satz nicht zu Ende gesagt",
+            "grund": "und dann hast du den Satz nicht zu Ende gesagt\" — unklar, ob sie seine genauen Worte zitiert oder ihre Erinnerung daran zusammenfasst",
+            "belegt": false
+          },
+          "STARK": {
+            "zitat": "dass du das zwei Jahre lang allein gemacht hast",
+            "grund": null,
+            "belegt": true
+          }
+        }
       }
     }
   },
   {
     "kapitel": 21,
     "antworten": {
-      "openai/gpt-5.5-pro": {
-        "fehler": "Antwort mit leerem Inhalt",
-        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Ich möchte, dass du gehst.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich möchte, dass du gehst.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       },
-      "anthropic/claude-opus-4.7-fast": {
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"für einhundertsechsundachtzig\" — unklar ob Tausend, ob Euro, ob Prozentwert der Schuld gemeint ist\nSTARK: \"Das ist das Traurigste an dem ganzen Abend.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "für einhundertsechsundachtzig",
+            "grund": "unklar ob Tausend, ob Euro, ob Prozentwert der Schuld gemeint ist",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Das ist das Traurigste an dem ganzen Abend.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       }
     }
   },
   {
     "kapitel": 28,
     "antworten": {
-      "openai/gpt-5.5-pro": {
-        "fehler": "Antwort mit leerem Inhalt",
-        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich zähle den zwanzigsten Januar mit.\" — Warum ist der zwanzigste Januar besonders?\n\nSTARK: \"Man kann sehr viel nicht sagen, während man jemanden festhält.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich zähle den zwanzigsten Januar mit.",
+            "grund": "Warum ist der zwanzigste Januar besonders?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Man kann sehr viel nicht sagen, während man jemanden festhält.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       },
-      "anthropic/claude-opus-4.7-fast": {
-        "fehler": "HTTP 400",
-        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"dass ich ihn nicht mehr lese. Ich habe nur noch geguckt\" — unklar, ob sie den Zettel täglich sah oder irgendwann aufhörte, ihn bewusst wahrzunehmen\nSTARK: \"Ein Antrag ist eine Frage, die keine ist.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "dass ich ihn nicht mehr lese. Ich habe nur noch geguckt",
+            "grund": "unklar, ob sie den Zettel täglich sah oder irgendwann aufhörte, ihn bewusst wahrzunehmen",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Ein Antrag ist eine Frage, die keine ist.",
+            "grund": null,
+            "belegt": true
+          }
+        }
       }
     }
   }
