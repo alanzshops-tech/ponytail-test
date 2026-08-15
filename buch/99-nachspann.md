@@ -26,17 +26,17 @@ Zwei Jahre Schweigen, ein Kind, das er nicht kennt, und ein Haus, das
 er kaufen wollte. — Sie haben es gerade gelesen.
 
 **Band 2 — Theo**
-*[Arbeitstitel]*
+*in Arbeit*
 Seit vierzehn Monaten verheiratet, und niemand in der Familie weiß,
 dass es sie gibt. Am Montag läuft ihre Frist ab.
 
 **Band 3 — Niklas**
-*[Arbeitstitel]*
+*geplant*
 Der Anwalt, der der Gegenseite geraten hat, sich einen eigenen zu
 nehmen. Jetzt sitzt sie ihm im Nachbarprozess gegenüber.
 
 **Band 4 — Bastian**
-*[Arbeitstitel]*
+*geplant*
 Der Bruder, der nicht in der Firma arbeitet. Er hat sich unter
 falschem Namen bei einer Reinhardt-Tochterfirma beworben — und ist
 genommen worden.
@@ -62,5 +62,5 @@ genommen worden.
 
 ---
 
-*[Hier später: Link zur Reihenseite bei Amazon, sobald Band 1 online
-ist. Ein toter Link im Buch ist schlimmer als keiner.]*
+*Sobald Band 1 online ist, kommt hier der Link zur Reihenseite hinein
+— vorher wäre es ein toter Link.*

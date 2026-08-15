@@ -8,38 +8,38 @@
 
 **Die Reinhardt-Brüder — Band 1**
 
-*[AUTORENNAME]*
+*Alan Lorenz*
 
 ---
 
 ## Impressum
 
-> ⚠️ **Auszufüllen vor dem Hochladen — und zwar vollständig.** In
-> Deutschland veröffentlichte Bücher unterliegen der Impressumspflicht
-> nach den Landespressegesetzen; für Nordrhein-Westfalen ist das § 8
-> LPrG NRW. Ein E-Book, das über KDP in Deutschland verkauft wird,
-> braucht eine ladungsfähige Anschrift. Ein Postfach genügt nicht.
-> Wer die Privatadresse nicht im Buch haben will, nimmt einen
-> Impressumsservice oder eine Ladungsadresse — das kostet im Jahr
-> ungefähr so viel wie zwei Bücher einbringen. Ich trage hier keine
-> Adresse ein, weil ich sie nicht raten darf.
+Angaben gemäß § 8 Landespressegesetz NRW
 
-**Herausgeber und Verantwortlicher im Sinne des Presserechts:**
+**Alan Lorenz GbR**
+Welperstraße 3 G
+44879 Bochum
+Deutschland
 
-[VORNAME NACHNAME]
-[STRASSE UND HAUSNUMMER]
-[PLZ ORT]
-[E-MAIL-ADRESSE]
+Vertretungsberechtigter Gesellschafter: Alan Lorenz
 
-Kleinunternehmer nach § 19 UStG — es wird keine Umsatzsteuer
-ausgewiesen.
+Telefon: 0152 31840613
+E-Mail: alanz.shops@gmail.com
 
-1. Auflage
-© [JAHR] [VORNAME NACHNAME]
-Alle Rechte vorbehalten.
+Umsatzsteuer-Identifikationsnummer: DE353917356
+Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
 
-Umschlaggestaltung: [wer das Cover gemacht hat]
-Umschlagbild: [Quelle des Bildes]
+Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
+Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+
+1. Auflage 2026
+© 2026 Alan Lorenz
+Alle Rechte vorbehalten. Die Vervielfältigung, Verbreitung und
+öffentliche Zugänglichmachung dieses Werkes, auch auszugsweise, ist
+ohne schriftliche Zustimmung des Rechteinhabers unzulässig.
+
+Umschlaggestaltung: Alan Lorenz
+Umschlagbild: mit einem KI-Bildgenerator erstellt
 
 ---
 
@@ -51,9 +51,9 @@ Banken oder Gebäuden sind nicht beabsichtigt und rein zufällig. Die
 Reinhardt Immobilien GmbH, das Café Voss, die Hanseatische Volksbank
 und sämtliche Nebenfiguren existieren nicht.
 
-**Zur Verwendung von KI.** Dieses Buch wurde unter Einsatz
-künstlicher Intelligenz erstellt. [Anpassen an den tatsächlichen
-Anteil, siehe `KDP-UPLOAD.md`.]
+**Zur Verwendung von KI.** Der Text und das Umschlagbild dieses Buches
+wurden unter Einsatz künstlicher Intelligenz erstellt. Aufbau,
+Recherche und Überarbeitung stammen vom Herausgeber.
 
 **Inhaltshinweise.** Dieses Buch enthält: einen unangekündigten
 Klinikaufenthalt mit einem kranken Kleinkind, eine drohende

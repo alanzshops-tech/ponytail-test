@@ -1,0 +1,9 @@
+# Was die Skripte hier brauchen. Der Runner installiert je Workflow nur,
+# was der jeweilige Schritt benoetigt -- diese Datei ist fuer den Fall,
+# dass jemand alles lokal laufen lassen will.
+playwright        # webcheck, kaufprobe, kdp_nischen, cover
+pillow            # pruefstand, kontrast, cover, coverbau
+ebooklib          # manuskript -- EPUB fuer KDP
+markdown          # manuskript -- Markdown nach XHTML
+requests          # bilder_holen
+trafilatura       # lesen -- Haupttext von Navigation trennen
