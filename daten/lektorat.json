@@ -3,7 +3,7 @@
     "kapitel": 1,
     "antworten": {
       "openai/gpt-4o-2024-05-13": {
-        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Die Immobilie ist in ihrer aktuellen Nutzung nicht\" — Was bedeutet \"nicht ausreichend werthaltig\"?\n\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -11,9 +11,9 @@
             "belegt": null
           },
           "UNKLAR": {
-            "zitat": null,
-            "grund": null,
-            "belegt": null
+            "zitat": "Die Immobilie ist in ihrer aktuellen Nutzung nicht",
+            "grund": "Was bedeutet \"nicht ausreichend werthaltig\"?",
+            "belegt": true
           },
           "STARK": {
             "zitat": "Man kann sehr viel nicht denken, während man Blätterteig tourniert.",
@@ -23,7 +23,7 @@
         }
       },
       "anthropic/claude-sonnet-4.6": {
-        "text": "ABBRUCH: keine\nUNKLAR: \"was ihr sehr ähnlich sieht und wofür ich ihr\" — unklar, ob „ihr\" die Mutter oder die Großmutter meint\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
+        "text": "ABBRUCH: keine\nUNKLAR: \"Das Ergebnis war jedes Mal dasselbe, egal wie oft\" — unklar ob sie tatsächlich keine Option sieht oder einfach aufgehört hat, kreativ zu rechnen\nSTARK: \"Und dann sah ich hin.\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -31,12 +31,12 @@
             "belegt": null
           },
           "UNKLAR": {
-            "zitat": "was ihr sehr ähnlich sieht und wofür ich ihr",
-            "grund": "unklar, ob „ihr\" die Mutter oder die Großmutter meint",
+            "zitat": "Das Ergebnis war jedes Mal dasselbe, egal wie oft",
+            "grund": "unklar ob sie tatsächlich keine Option sieht oder einfach aufgehört hat, kreativ zu rechnen",
             "belegt": true
           },
           "STARK": {
-            "zitat": "Man kann sehr viel nicht denken, während man Blätterteig tourniert.",
+            "zitat": "Und dann sah ich hin.",
             "grund": null,
             "belegt": true
           }
@@ -68,7 +68,7 @@
         }
       },
       "anthropic/claude-sonnet-4.6": {
-        "text": "ABBRUCH: keine\nUNKLAR: \"Nicht solange — und dann hast du den Satz nicht zu Ende gesagt\" — unklar, ob sie seine genauen Worte zitiert oder ihre Erinnerung daran zusammenfasst\nSTARK: \"dass du das zwei Jahre lang allein gemacht hast\"",
+        "text": "ABBRUCH: keine\nUNKLAR: \"das ist der Teil, bei dem ich schlecht dastehe\" — kurz unklar, ob sie die eigene Feigheit meint oder etwas Konkretes, das noch kommt\nSTARK: \"solange ich nicht gefragt habe, konnte ich mir vorstellen, dass du ihn gewollt hättest\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -76,12 +76,12 @@
             "belegt": null
           },
           "UNKLAR": {
-            "zitat": "Nicht solange — und dann hast du den Satz nicht zu Ende gesagt",
-            "grund": "und dann hast du den Satz nicht zu Ende gesagt\" — unklar, ob sie seine genauen Worte zitiert oder ihre Erinnerung daran zusammenfasst",
-            "belegt": false
+            "zitat": "das ist der Teil, bei dem ich schlecht dastehe",
+            "grund": "kurz unklar, ob sie die eigene Feigheit meint oder etwas Konkretes, das noch kommt",
+            "belegt": true
           },
           "STARK": {
-            "zitat": "dass du das zwei Jahre lang allein gemacht hast",
+            "zitat": "solange ich nicht gefragt habe, konnte ich mir vorstellen, dass du ihn gewollt hättest",
             "grund": null,
             "belegt": true
           }
@@ -93,7 +93,7 @@
     "kapitel": 21,
     "antworten": {
       "openai/gpt-4o-2024-05-13": {
-        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Ich möchte, dass du gehst.\"",
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Es war die schönste halbe Stunde des ganzen Dezembers.\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -106,14 +106,14 @@
             "belegt": null
           },
           "STARK": {
-            "zitat": "Ich möchte, dass du gehst.",
+            "zitat": "Es war die schönste halbe Stunde des ganzen Dezembers.",
             "grund": null,
             "belegt": true
           }
         }
       },
       "anthropic/claude-sonnet-4.6": {
-        "text": "ABBRUCH: keine\nUNKLAR: \"für einhundertsechsundachtzig\" — unklar ob Tausend, ob Euro, ob Prozentwert der Schuld gemeint ist\nSTARK: \"Das ist das Traurigste an dem ganzen Abend.\"",
+        "text": "ABBRUCH: keine\nUNKLAR: \"wählen müssen. Merkst du was? Er merkte es nicht sofort\" — unklar, was genau Jonas \"merkt\"; der gedankliche Sprung von Beirat zu Symmetrie passiert ohne Brücke\nSTARK: \"Das ist das Traurigste an dem ganzen Abend.\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -121,9 +121,9 @@
             "belegt": null
           },
           "UNKLAR": {
-            "zitat": "für einhundertsechsundachtzig",
-            "grund": "unklar ob Tausend, ob Euro, ob Prozentwert der Schuld gemeint ist",
-            "belegt": true
+            "zitat": "wählen müssen. Merkst du was? Er merkte es nicht sofort",
+            "grund": "unklar, was genau Jonas \"merkt\"; der gedankliche Sprung von Beirat zu Symmetrie passiert ohne Brücke",
+            "belegt": false
           },
           "STARK": {
             "zitat": "Das ist das Traurigste an dem ganzen Abend.",
@@ -138,7 +138,7 @@
     "kapitel": 28,
     "antworten": {
       "openai/gpt-4o-2024-05-13": {
-        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich zähle den zwanzigsten Januar mit.\" — Warum ist der zwanzigste Januar besonders?\n\nSTARK: \"Man kann sehr viel nicht sagen, während man jemanden festhält.\"",
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich zähle den zwanzigsten Januar mit.\" — Was ist am zwanzigsten Januar passiert?\n\nSTARK: \"Man kann sehr viel nicht sagen, während man jemanden festhält.\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -147,7 +147,7 @@
           },
           "UNKLAR": {
             "zitat": "Ich zähle den zwanzigsten Januar mit.",
-            "grund": "Warum ist der zwanzigste Januar besonders?",
+            "grund": "Was ist am zwanzigsten Januar passiert?",
             "belegt": true
           },
           "STARK": {
@@ -158,7 +158,7 @@
         }
       },
       "anthropic/claude-sonnet-4.6": {
-        "text": "ABBRUCH: keine\nUNKLAR: \"dass ich ihn nicht mehr lese. Ich habe nur noch geguckt\" — unklar, ob sie den Zettel täglich sah oder irgendwann aufhörte, ihn bewusst wahrzunehmen\nSTARK: \"Ein Antrag ist eine Frage, die keine ist.\"",
+        "text": "ABBRUCH: keine\nUNKLAR: \"die von ihr kam und die albern klingt\" — unklar ist, ob er \"albern\" ironisch meint oder wirklich kritisch, was seinen Ton zur Verabredung kurz verfälscht\nSTARK: \"Eine echte Frage ist eine, bei der die andere Person nein sagen kann\"",
         "gelesen": {
           "ABBRUCH": {
             "zitat": null,
@@ -166,12 +166,12 @@
             "belegt": null
           },
           "UNKLAR": {
-            "zitat": "dass ich ihn nicht mehr lese. Ich habe nur noch geguckt",
-            "grund": "unklar, ob sie den Zettel täglich sah oder irgendwann aufhörte, ihn bewusst wahrzunehmen",
+            "zitat": "die von ihr kam und die albern klingt",
+            "grund": "unklar ist, ob er \"albern\" ironisch meint oder wirklich kritisch, was seinen Ton zur Verabredung kurz verfälscht",
             "belegt": true
           },
           "STARK": {
-            "zitat": "Ein Antrag ist eine Frage, die keine ist.",
+            "zitat": "Eine echte Frage ist eine, bei der die andere Person nein sagen kann",
             "grund": null,
             "belegt": true
           }
