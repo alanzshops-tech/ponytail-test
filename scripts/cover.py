@@ -219,13 +219,40 @@ def gross(url: str) -> str:
     return re.sub(r"\._[A-Za-z0-9_,]+_\.", "._SL500_.", url)
 
 
+def gesperrt(seite) -> bool:
+    """Amazons Sperrseite heißt auf .de 'Tut uns Leid!' und auf .com
+    'Sorry! Something went wrong'. Sie ist eine gültige HTML-Seite ohne
+    Treffer — ohne diese Prüfung sieht sie aus wie eine leere Nische.
+    Beim Lauf am 15.08.2026 kam sie dreimal von drei."""
+    try:
+        titel = seite.title()
+    except Exception:
+        return False
+    return bool(re.search(r"Tut uns Leid|Sorry!\s*Something", titel, re.I))
+
+
+def aufwaermen(seite, host: str) -> str:
+    """Erst die Startseite, dann die Suche. Übernommen aus
+    kdp_nischen.py: Ohne gesetzte Cookies verdeckt die Consent-Abfrage
+    die Trefferliste, und ausgerechnet die ersten Begriffe scheitern."""
+    try:
+        seite.goto(f"https://{host}/", wait_until="domcontentloaded",
+                   timeout=45000)
+        seite.wait_for_timeout(2500)
+        zustand = consent_wegklicken(seite)
+        seite.wait_for_timeout(1500)
+        return f"Consent {zustand}" + (" GESPERRT" if gesperrt(seite) else "")
+    except Exception as e:
+        return f"fehlgeschlagen: {str(e)[:120]}"
+
+
 def treffer_mit_covern(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
     from urllib.parse import quote_plus
     url = f"https://{host}/s?k={quote_plus(begriff)}&i=digital-text"
     seite.goto(url, wait_until="domcontentloaded", timeout=45000)
-    seite.wait_for_timeout(2000)
+    seite.wait_for_timeout(2500)
     consent_wegklicken(seite)
-    seite.wait_for_timeout(1200)
+    seite.wait_for_timeout(1500)
 
     roh = seite.evaluate("""() => {
       const raus = [];
@@ -303,7 +330,8 @@ def bericht(nischen: list[dict]) -> str:
          "|---|---:|---:|---:|---:|---:|---:|---|"]
     for n in nischen:
         if n.get("fehler"):
-            z.append(f"| {n['begriff']} | FEHLER | – | – | – | – | – | – |")
+            grund = "GESPERRT" if n.get("gesperrt") else "FEHLER"
+            z.append(f"| {n['begriff']} | {grund} | – | – | – | – | – | – |")
             continue
         c = n["cover"]
         if not c:
@@ -405,25 +433,43 @@ def main() -> None:
                         "AppleWebKit/537.36 (KHTML, like Gecko) "
                         "Chrome/126.0 Safari/537.36"))
         seite = kontext.new_page()
+        print(f"Aufwaermen: {aufwaermen(seite, markt['host'])}", flush=True)
 
         for begriff in args.begriffe:
             print(f"\n=== {begriff} ===", flush=True)
             eintrag: dict = {"begriff": begriff, "markt": markt["host"],
                              "cover": []}
-            try:
-                treffer = treffer_mit_covern(seite, markt["host"], begriff,
-                                             args.anzahl)
-            except Exception as e:
-                eintrag["fehler"] = f"Suche fehlgeschlagen: {str(e)[:160]}"
-                nischen.append(eintrag)
-                continue
+            treffer = []
+            for versuch in (1, 2, 3):
+                try:
+                    treffer = treffer_mit_covern(seite, markt["host"],
+                                                 begriff, args.anzahl)
+                except Exception as e:
+                    print(f"  Versuch {versuch}: {str(e)[:110]}", flush=True)
+                    treffer = []
+                if treffer:
+                    break
+                # Kein Treffer heisst hier fast immer: Sperrseite. Ein
+                # zweiter sofortiger Versuch bringt dann nichts -- erst
+                # ueber die Startseite zurueck, dann laenger warten.
+                print(f"  Versuch {versuch} leer, gesperrt="
+                      f"{gesperrt(seite)}", flush=True)
+                if versuch < 3:
+                    print(f"  Aufwaermen: {aufwaermen(seite, markt['host'])}",
+                          flush=True)
+                    time.sleep(8 * versuch)
 
             if not treffer:
-                # Leeres Ergebnis ist kein Befund.
+                # Leeres Ergebnis ist kein Befund. Sperrseite, geaenderter
+                # Selektor und leere Nische sehen sonst gleich aus.
                 eintrag["fehler"] = ("Keine Treffer gelesen. NICHT als "
                                      "'keine Cover' deuten.")
+                eintrag["gesperrt"] = gesperrt(seite)
                 try:
                     eintrag["seitentitel"] = seite.title()
+                    eintrag["seitenanfang"] = " ".join(
+                        seite.evaluate(
+                            "() => document.body.innerText")[:220].split())
                 except Exception:
                     pass
                 nischen.append(eintrag)
