@@ -59,7 +59,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 53 | 1234 | 13.0 | 11.2 | 10.3 % | 16.5 % | 14.6 | – |
 | 54 | 854 | 12 | 12.2 | 9.1 % | 25.1 % | 16.4 | – |
 | 55 | 971 | 10 | 9.0 | 2.7 % | 3.5 % | 6.2 | – |
-| 56 | 1079 | 10 | 10.4 | 4.7 % | 16.7 % | 12.0 | – |
+| 56 | 1056 | 10 | 9.9 | 3.5 % | 17.0 % | 12.3 | – |
 
 ## Ausreißer
 
@@ -80,6 +80,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 - Auslassung falsch `...`: 0 · richtig `…`: 1
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

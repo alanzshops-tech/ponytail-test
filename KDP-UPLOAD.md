@@ -11,29 +11,28 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 28 Kapitel | **fertig**, 35.692 Wörter |
+| Manuskript, 56 Kapitel | **fertig**, 65.599 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
-| EPUB mit eingebettetem Cover | **fertig**, 554 kB |
+| EPUB mit eingebettetem Cover | **fertig**, 647 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **35.692 von 65.000** — siehe unten |
+| **Länge** | **65.599 Wörter** — im gemessenen Zielband |
 
-**Hochladbar ist es damit heute.** Der einzige offene Punkt ist die
-Länge: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000 Wörtern
-(`KDP-NISCHEN.md`). Bei Kindle Unlimited wird pro gelesener Seite
-gezahlt — dieses Buch bringt bei vollständigem Durchlesen rund die
-Hälfte dessen, was ein Titel üblicher Länge bringt.
+**Es fehlt nichts mehr.** Die Länge war der letzte offene Punkt und ist
+erledigt: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000
+Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 65.599. Damit
+zahlt Kindle Unlimited über die volle Strecke und nicht über die halbe.
 
-Das ist eine Entscheidung, keine Baustelle: als Novelle veröffentlichen
-und die Länge im Klappentext ehrlich nennen, oder einen dritten
-Durchgang schreiben. Der Weg dafür steht in `buch/STAND.md`.
+Offen sind nur noch zwei Entscheidungen, die dir gehören und nicht mir
+— *Happy for now statt Antrag* und *Explizitheit*. Beide stehen mit
+Begründung in `buch/STAND.md`, Abschnitt „Was du entscheiden musst".
 
 ## Die Dateien
 
 | Datei | Wofür | Stand |
 |---|---|---|
-| `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 239 kB, 30 Abschnitte |
+| `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 647 kB, 58 Abschnitte |
 | `buch/manuskript.md` | zum Lesen und Korrigieren | fertig |
 | `cover/fertig/cover.jpg` | Cover, 1600 × 2560 | Schrift fertig, Bild fehlt |
 | `cover/fertig/schrift-ebene.png` | transparent, für Canva | fertig |
@@ -213,7 +212,7 @@ Minuten umsetzbar.
 
 Das 70-%-Fenster liegt in Deutschland zwischen 2,99 € und 9,99 €.
 Darunter und darüber gibt es 35 %. Bei 70 % werden zusätzlich
-Auslieferungskosten nach Dateigröße abgezogen — bei 239 kB sind das
+Auslieferungskosten nach Dateigröße abgezogen — bei 647 kB sind das
 Cent, nicht Euro.
 
 **KDP Select: ja.** Das bedeutet 90 Tage Exklusivität bei Amazon —
@@ -230,9 +229,14 @@ Leserin nichts extra kosten.
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **291 bis 337 Druckseiten**, also rund
 **65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
-30.575 — **etwa 40 % davon**. Bei vollständigem Durchlesen bringt es
-entsprechend rund 40 % der Seitenerlöse eines typischen Titels der
-Nische.
+**65.599** und liegt damit im Band, am unteren Rand. Bei vollständigem
+Durchlesen bringt es die Seitenerlöse eines regulären Titels der Nische
+und nicht mehr die Hälfte davon.
+
+Zur Einordnung, damit die Zahl nicht als Versprechen gelesen wird: Ein
+Platz im Zielband entscheidet nichts über Verkäufe. Er sorgt nur dafür,
+dass die Länge kein Grund gegen das Buch mehr ist — weder in der
+Vergütung noch in den Bewertungen.
 
 **Steuerinterview nicht vergessen.** KDP verlangt vor der ersten
 Auszahlung ein US-Steuerinterview. Ohne ausgefülltes Formular behält

@@ -24,14 +24,13 @@ geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
 
 Wir haben nicht miteinander geschlafen.
 
-Wir haben viermal gestritten. Zweimal über Kleinigkeiten, die keine
-waren — sie mag es nicht, wenn ich Emil aus dem Wagen hebe, ohne zu
-fragen, weil sie Angst hat, dass ich es besser kann als sie, und ich mag
-es nicht, wenn sie das Wort *Ihr Geld* benutzt. Einmal über den
-Baubeginn im März. Und einmal am zweiten April, in ihrer Küche, über ein
-Wort, und das war der einzige, bei dem ich etwas gelernt habe.
+Von den vier Streitigkeiten habe ich den einen aufgeschrieben, bei dem
+ich etwas gelernt habe. Die anderen drei waren: dass ich Emil aus dem
+Wagen hebe, ohne zu fragen, weil sie Angst hat, dass ich es besser kann
+als sie. Dass sie das Wort *Ihr Geld* benutzt. Und der Baubeginn im
+März.
 
-Von den Donnerstagen habe ich schon geschrieben. Der schwerste von
+Von den Donnerstagen habe ich auch schon geschrieben. Der schwerste von
 meiner Seite war der zweite: „Ich habe Angst, dass du das alles nur
 machst, damit Emil einen Vater hat.“
 

@@ -60,7 +60,7 @@ letzten Seite öffnet sich der Blick auf Band 2.*
 
 | | |
 |---|---|
-| Umfang | 28 Kapitel, **30.500 Wörter** (Rohfassung fertig) — siehe `STAND.md`, Abschnitt „Länge" |
+| Umfang | 56 Kapitel, **65.599 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
 | Erzählform | Ich-Perspektive, wechselnd Leni / Jonas, Präteritum |
 | Kategorie | Liebesroman › Zeitgenössisch |
 | Keywords | geheimes baby, milliardär, zweite chance, hamburg, alleinerziehend, ceo |
@@ -82,16 +82,16 @@ Ein-Stern-Kritik („warum hat sie es ihm nicht gesagt") die Grundlage,
 bevor jemand das Buch öffnet.
 
 **„Abgeschlossen, kein Cliffhanger für dieses Paar."** Steht so und
-nicht kürzer, weil es sonst nicht stimmt. Kapitel 28 endet mit Amiras
-Anruf — das ist ein Reihenhaken, kein offener Konflikt zwischen Leni und
-Jonas. Wer „keine Cliffhanger" verspricht und dann so endet, bekommt
+nicht kürzer, weil es sonst nicht stimmt. Das Schlusskapitel endet mit
+Amiras Anruf — das ist ein Reihenhaken, kein offener Konflikt zwischen
+Leni und Jonas. Wer „keine Cliffhanger" verspricht und dann so endet, bekommt
 dafür Ein-Stern-Bewertungen.
 
 **Was der Klappentext (noch) nicht verspricht: einen Antrag.** Das Buch
 endet als *Happy for now*, nicht als *Happily ever after*: Emil sagt
 Papa, die Schulden sind weg, sie wohnen nicht zusammen, der Ring liegt
 in einer Schublade. Das ist erzählerisch die richtige Entscheidung
-(Kapitel 28 begründet sie), aber es ist eine **Abweichung von der
+(Kapitel 54 begründet sie), aber es ist eine **Abweichung von der
 Genre-Erwartung** in diesem Segment. Zwei Wege, beide vertretbar:
 eine Schluss-Szene mit Antrag ergänzen — oder es so lassen und im
 Klappentext ehrlich „Happy for now" andeuten. Die Entscheidung gehört
