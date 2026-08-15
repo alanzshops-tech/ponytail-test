@@ -1,228 +1,210 @@
 # Kapitel 28 — Jonas
 
-Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
+Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
+wachte um vier auf und wusste, dass ich es tun werde.
 
-Sieben Leute. Dieselben sieben.
+Nicht: dass ich es tun *soll*. Dass ich es tun *werde*. Das ist ein
+Unterschied, den man erst hinterher hört.
 
-Ich hatte keine Präsentation vorbereitet. Ich hatte vier Blätter, für
-jeden eins, und auf dem ersten stand oben, weil Niklas darauf bestanden
-hatte, das Wort **Interessenkonflikt**.
+Ich habe zwischen vier und sechs im Dunkeln gelegen und alles noch
+einmal durchgespielt, und jedes Mal kam ich an dieselbe Stelle: Wenn ich
+sie frage, sagt sie nein. Nicht weil es falsch wäre. Weil sie es ist.
 
-„Bevor wir mit dem Projekt anfangen“, sagte ich, „muss ich Ihnen etwas
-über mich erzählen. Es dauert vier Minuten, und danach wissen Sie alles,
-und dann können Sie entscheiden, ob Sie mir überhaupt noch zuhören
-wollen.“
-
-Und dann erzählte ich es.
-
-Dass ich ein Kind habe mit der Eigentümerin von Kehrwieder zwölf. Dass
-ich das seit November weiß und im Beirat am fünfzehnten offengelegt
-habe, dass ich sie kenne, aber nicht, dass es ein Kind gibt. Dass ihre
-Bank am dritten Dezember gekündigt hat. Dass ich am zweiundzwanzigsten
-Dezember die Forderung privat gekauft habe, für einhundertsechs-
-undachtzigtausend Euro, ohne sie zu fragen. Dass ich die Frist auf ihre
-Bitte hin verlängert habe.
-
-Ich habe nichts weggelassen und nichts erklärt. Erklärungen kamen mir in
-diesem Raum billig vor.
-
-Als ich fertig war, sagte lange niemand etwas.
+Und am fünfzehnten Januar steht Kellermann in ihrer Küche.
 
 ---
 
-Dr. Wendland stellte die richtige Frage, weil er immer die richtige
-Frage stellt.
+Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
+Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
+ihm bedeutet, dass es ernst ist.
 
-„Was hätte die Gesellschaft am fünfzehnten Januar bezahlt, wenn Sie
-nichts getan hätten?“
-
-Ich hatte es ausrechnen lassen. Ich schob das dritte Blatt in die Mitte.
-
-„Bei einer Zwangsversteigerung im Frühjahr: geschätzt zwischen
-zweihundertvierzig und dreihundertzwanzigtausend für das gesamte Objekt.
-Mit dem Objekt hätten wir die drei Rechte umsonst gehabt, weil sie dann
-uns gehört hätten.“
-
-„Und was schlagen Sie stattdessen vor?“
-
-„Zweihundertachtundsechzigtausend für die Rechte allein. Das Haus bleibt
-ihr.“
-
-Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
-man lacht, wenn eine Zahl für sich spricht.
-
-„Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
-Handlung um eine Erwerbschance gebracht, deren Wert wir mit — sagen wir
-vorsichtig — siebenhunderttausend beziffern können, wenn man die
-ersparte Alternativtrasse gegenrechnet.“
+Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
 
 „Ja.“
 
-„Sagen Sie *ja* nicht so schnell, Reinhardt. Denken Sie darüber nach.“
+„Geht nicht.“
 
-„Ich denke seit vier Wochen über nichts anderes nach“, sagte ich. „Es
-bleibt ja.“
+„Warum nicht?“
 
----
+„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
+seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
+zwanzigtausend. Auf den Rest dreißig Prozent.“
 
-Theo rechnete danach die Alternativtrasse vor: eine Komma vier Millionen,
-neun Monate, Genehmigung ungewiss.
+Er schrieb die Zahl hin und drehte den Block um.
 
-Es half. Es machte die zweihundertachtundsechzigtausend zu einem guten
-Geschäft, rein wirtschaftlich, und drei Leute im Raum entspannten sich
-sichtbar.
+**≈ 49.800 € Schenkungsteuer. Zahlbar von: Marlene Voss.**
 
-Und genau deshalb sagte ich den Satz, den mir Niklas ausdrücklich
-abgeraten hatte.
+Ich sah die Zahl an.
 
-„Ich möchte, dass wir das nicht so beschließen.“
+„Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
+Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
+fünf.“
 
-Wendland sah hoch.
+„Und was geht?“
 
-„Wenn wir das heute beschließen, weil es billiger ist als die
-Alternativtrasse, dann haben wir eine Rechnung gemacht“, sagte ich. „Die
-Rechnung stimmt. Sie ändert aber nichts daran, dass ich privat etwas
-getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
-sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
+„Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
+keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
+klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
+zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
+entscheidet, es nicht einzufordern.“
 
-„Und was schlagen Sie vor?“
+Der Raum war eine Weile still.
 
-Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
-betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
-sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
-Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
-hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
-Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
-damit die nächste Zahl eine hat.
+„Das ist schlimmer“, sagte ich.
 
-Ich schob das vierte Blatt hin.
-
-„Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem
-Durchschnitt der letzten fünf Jahre sind das dreihundertsechzigtausend
-Euro. Der Verzicht ist unwiderruflich und wird im Anstellungsvertrag
-niedergelegt, nicht im Protokoll.“
-
-Der Raum war sehr still.
-
-„Das ist mehr als der Schaden“, sagte jemand.
-
-„Der Schaden ist nicht ausrechenbar“, sagte ich. „Deshalb nehme ich
-lieber zu viel als zu wenig. Ich möchte nicht, dass in fünf Jahren
-jemand an diesem Tisch sitzt und sagt, der Reinhardt hat sich das damals
-schöngerechnet.“
+„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
+ja.“
 
 ---
 
-Es kam, wie Niklas gesagt hatte, dass es kommen würde.
+Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
+habe.
 
-Herr Bosse, einer von den dreien, die selten etwas sagen, meldete sich.
-Ich habe diesen Mann in neunzehn Jahren vielleicht dreißig Sätze sagen
-hören.
+Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
+Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
+sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
+meinem Schreibtisch und sah aus dem Fenster.
 
-„Ich beantrage die Abberufung des Geschäftsführers.“
+Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
+ihre Nummer aufgerufen und wieder weggelegt.
 
-Er sagte es ohne Feindseligkeit. Er begründete es in vier Sätzen, und
-jeder einzelne stimmte: Ein Geschäftsführer, der privat Positionen
-aufbaut, die Projekte der Gesellschaft berühren, ist untragbar,
-unabhängig vom Ausgang, unabhängig vom Motiv, und ein Beirat, der das
-durchgehen lässt, wird das nächste Mal gar nicht erst gefragt.
-
-Ich saß da und hörte mir zu, wie ein Fremder über mich sprach, und ich
-stimmte ihm in jedem Punkt zu.
-
-„Möchten Sie etwas dazu sagen?“, fragte Wendland.
-
-„Er hat recht“, sagte ich.
-
-„Das ist keine Verteidigung.“
-
-„Ich habe keine.“
+Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
+nicht daran gedacht.
 
 ---
 
-Es wurde abgestimmt.
+Bastian stand um halb eins in der Tür, mit einem Rucksack, in einer
+Jacke, die er seit dem Abitur hat.
 
-Fünf zu zwei gegen die Abberufung.
+Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
+kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
+immer eine Frage.
 
-Ich habe hinterher nie herausgefunden, wer der zweite war. Bosse hat es
-nicht verheimlicht; er hat mir nach der Sitzung die Hand gegeben und
-gesagt: „Nichts Persönliches, Herr Reinhardt. Ich hoffe, Sie machen es
-gut.“ Den anderen kenne ich bis heute nicht, und ich habe aufgehört, es
-wissen zu wollen.
+„Hast du zwanzig Minuten?“
 
-Dann wurde das Übrige beschlossen.
+„Ich habe eine Stunde.“
 
-Der Erwerb der drei Grunddienstbarkeiten zum Gutachtenwert: sechs zu
-eins.
-
-Ein Zustimmungsvorbehalt des Beirats für sämtliche Geschäfte der
-Gesellschaft in der Speicherstadt, unbefristet: einstimmig.
-
-Der Tantiemeverzicht: einstimmig, mit dem Zusatz, dass er im Protokoll
-ausdrücklich als *vom Geschäftsführer selbst angeboten* zu vermerken
-sei. Das war Wendland.
-
-Und ein Vermerk im Protokoll, dass der Geschäftsführer in eigener Sache
-befangen war und dies vor der Beratung vollständig offengelegt hat. Der
-steht da jetzt. Der steht da für immer. Jeder, der in zwanzig Jahren die
-Protokolle dieser Gesellschaft liest, wird ihn finden.
-
----
-
-Danach blieb Wendland sitzen, bis die anderen draußen waren.
-
-Neunzehn Jahre. Ich habe mit diesem Mann nie über etwas anderes geredet
-als über Zahlen.
-
-„Reinhardt.“
+„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
+Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
+hast ein Kind.“
 
 „Ja.“
 
-„Ihr Vater hat 1997 das Haus seiner Frau verkauft.“
+„Und Mama sagt, du bist verliebt.“
 
-Ich sah auf.
+„Auch ja.“
 
-„Ich war damals schon dabei“, sagte Wendland. „Nicht im Beirat, ich war
-bei der Bank. Ich habe die Unterlagen gesehen.“ Er klappte seine Mappe
-zu. „Er hat es genau richtig gemacht. Jede Zahl stimmte. Ich habe ihn
-dafür bewundert.“
+„Warum weiß ich das über Bande?“
 
-Er stand auf und nahm seinen Mantel vom Stuhl.
+Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
+zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
+bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
 
-„Ich habe ihn zwanzig Jahre lang für den vernünftigsten Menschen
-gehalten, den ich kenne, und ich habe erst auf seiner Beerdigung
-gemerkt, dass ich nicht ein einziges Mal mit ihm über etwas gesprochen
-habe, das ihm wichtig war.“ An der Tür blieb er stehen. „Sie haben heute
-vier Minuten lang über Ihr Kind geredet, in diesem Raum, vor diesen
-Leuten. Das war das Dümmste, was Sie machen konnten.“
+Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
 
-„Ich weiß.“
+Bastian sah mich an, kaute an einem Daumennagel und sagte:
 
-„Machen Sie es wieder“, sagte Wendland und ging.
+„Weiß sie das?“
+
+„Ich sage es ihr morgen.“
+
+„Das ist nicht dasselbe.“
+
+„Es ist ein Tag.“
+
+„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
+nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
+ablehnen.“
 
 ---
 
-Ich fuhr nicht zum Kehrwieder.
+Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
+weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
 
-Ich saß bis halb sieben im Büro und ließ das Protokoll schreiben, und
-als es fertig war, las ich es einmal durch und schickte es ihr.
+„Was machst du eigentlich zurzeit?“, fragte ich.
 
-Vollständig. Ungekürzt. Mit dem Abberufungsantrag, mit dem Ergebnis
-fünf zu zwei, mit dem Vermerk über meine Befangenheit.
+„Was Eigenes.“
 
-Ich schrieb keinen Text dazu. Ich schrieb nur:
+„Was für was Eigenes?“
 
-*Zur Kenntnis. Der Notartermin kann jederzeit stattfinden, oder auch
-nicht. Beides ist in Ordnung. J.*
+„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
+sag den anderen nicht, dass ich hier war.“
 
-Ich hatte einen Satz über die Tantieme geschrieben und ihn wieder
-gelöscht.
+„Warum nicht?“
 
-Nicht aus Bescheidenheit. Weil er wie eine Rechnung ausgesehen hätte,
-die ich ihr aufmache, und weil ich in diesem Winter gelernt habe, wie
-schnell aus etwas Gutgemeintem eine Forderung wird.
+„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
+sie nicht, Jonas.“
 
-Sie hat es trotzdem gefunden. Es stand im Protokoll, Seite drei, Punkt
-sieben, zwischen dem Zustimmungsvorbehalt und den Verschiedenes.
+„Ich habe bis achtzehn Uhr Zeit.“
 
-Ich hatte vergessen, dass Marlene Voss alles liest.
+„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
+
+---
+
+Ich unterschrieb um siebzehn Uhr vierzig.
+
+Nicht über die Firma. Das war mir wichtig, und ich habe es mir damals
+als Anstand ausgelegt: Wenn die Reinhardt Immobilien GmbH die Forderung
+kauft, ist es genau das, was Wendland meint und was in Reiter sechs
+steht. Also kaufte ich sie privat. Eigenes Geld, eigener Name, drei
+Telefonate, ein Vertragsentwurf per Mail, eine qualifizierte Signatur.
+
+Einhundertsechsundachtzigtausend.
+
+Ich habe dabei nichts gefühlt. Ich habe zwölf Jahre Übung darin, bei
+Zahlen nichts zu fühlen.
+
+Was ich stattdessen tat: Ich schrieb auf einen Zettel, was ich ihr
+morgen sagen wollte, in der Reihenfolge, in der ich es sagen wollte.
+
+1. Deine Bank hat gekündigt. Ich weiß es seit dem fünfzehnten.
+2. Ich habe die Forderung gekauft. Gestern. Privat.
+3. Ich fordere nichts. Nie. Ich kann sie dir nicht schenken, das
+   erkläre ich dir, das ist ein Steuerding.
+4. Das Haus gehört dir. Es hat sich nichts geändert außer dem Namen auf
+   dem Papier.
+5. Und wenn du willst: Zieh mit Emil zu mir. Nicht deshalb. Sondern
+   weil ich möchte, dass er morgens im selben Haus aufwacht wie ich.
+
+Ich habe diesen Zettel dreimal überarbeitet. Ich habe an Punkt fünf
+vierzig Minuten gesessen.
+
+An Punkt eins bis vier habe ich nichts geändert, weil sie mir richtig
+vorkamen.
+
+Sie sind auch richtig. Jeder einzelne Satz ist wahr, überprüfbar und
+gut gemeint.
+
+Es ist die Reihenfolge, die falsch ist. Punkt eins hätte am
+fünfzehnten Dezember gesagt werden müssen, und alles andere hätte danach
+nicht mehr stattgefunden.
+
+---
+
+Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
+
+„Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
+Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
+ob Sie das zurückstellen wollen.“
+
+Ich war in Gedanken bei Punkt fünf.
+
+„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
+sowieso mit ihr.“
+
+Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
+Schreibtischlampe ausmachte.
+
+Das ist der Satz.
+
+Von allem, was ich in diesem Jahr gesagt und unterschrieben und
+angeordnet habe, ist es dieser: *Machen Sie es wie üblich.*
+
+Vier Wörter, gesagt im Mantel, an einem Dienstagabend, ohne
+nachzudenken, weil ich mit dem Kopf bei einem Satz war, in dem es darum
+ging, wo mein Sohn morgens aufwacht.
+
+Die Anzeige ging am dreiundzwanzigsten Dezember um neun Uhr vierzehn
+raus.
+
+Ich kam um sieben.

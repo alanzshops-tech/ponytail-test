@@ -1,160 +1,211 @@
 # Kapitel 30 — Jonas
 
-Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
-auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
-Arbeit ist.
+Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
+und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
 
-**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
-Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
-Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
-und Apfel, den ich seitdem sofort wiedererkenne.
+Es gab Kartoffelsalat und Würstchen, weil mein Vater das so wollte und
+weil seit zwölf Jahren niemand den Mut hat, es zu ändern.
 
-Frau Özdemir, die die Gruppe leitet, erklärte mir die Regeln in vier
-Sätzen: Sie sitzen. Sie spielen nicht. Sie rufen nicht. Wenn er kommt,
-sind Sie da; wenn er nicht kommt, sind Sie trotzdem da.
+Wir sind vier Brüder und sitzen zu dritt am Tisch, seit Bastian nicht
+mehr kommt. Niklas erzählt, Theo sagt etwas Trockenes dazu, ich schenke
+nach. Das ist die Aufteilung. Sie steht nirgends und wird nie
+verhandelt.
 
-Ich saß sechzig Minuten auf einem Stuhl von einunddreißig Zentimetern
-und tat nichts.
+Meine Mutter hat gefragt, ob es im Kontorhaus vorangeht. Theo hat
+gesagt, ja. Niklas hat mich angesehen und nichts gesagt.
 
-Emil hat in dieser Stunde dreimal zu mir hergesehen. Beim dritten Mal
-hat er gewinkt, und ich habe zurückgewinkt, und Frau Özdemir hat gesagt:
-„Nicht winken. Nur da sein.“
+Um neun hat Niklas eine Geschichte über einen Mandanten erzählt, die
+sehr lustig war, und ich habe zwei Sekunden zu spät gelacht, und Theo
+hat es gemerkt.
 
-**Tag zwei.** Emil hat einen anderen Jungen geschubst. Ich bin
-aufgestanden. Frau Özdemir hat den Kopf geschüttelt, ohne mich anzusehen,
-und ich habe mich wieder hingesetzt, und eine Erzieherin hat das in
-elf Sekunden geregelt, ohne dass jemand geweint hat.
+Ich funktionierte gut. Ich habe darin Übung.
 
-Ich habe an diesem Tag verstanden, dass ich nicht gebraucht werde, und
-dass genau das die Übung ist.
+Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch.“
 
-**Tag drei.** Der erste Trennungsversuch. Ich gehe raus, zwei Minuten,
-in den Flur, und komme wieder.
+Es war keine Frage.
 
-Er hat nicht gemerkt, dass ich weg war.
+---
 
-Ich habe zwei Minuten in einem Kita-Flur gestanden, zwischen
-Gummistiefeln und einer Wand mit vierzehn Fotos, und war beleidigt. Ich
-schreibe das hin, weil es die Wahrheit ist: Ein Mann von
-sechsunddreißig, Geschäftsführer, war beleidigt, weil ein
-Einundzwanzigmonatiger ihn nicht vermisst hat.
+Sie setzte sich in den Sessel, in dem sie seit dem Schlaganfall sitzt,
+weil man aus ihm allein aufstehen kann, und sagte:
 
-**Tag vier.** Fünf Minuten. Er hat gemerkt, dass ich weg war, und hat
-weitergespielt.
+„Wo ist sie?“
 
-Frau Özdemir sagte: „Das ist das Beste, was passieren kann.“
+„Zu Hause.“
+
+„Und warum?“
+
+Und dann erzählte ich es ihr. Vollständig, in der richtigen Reihenfolge,
+mit allen Zahlen, weil ich in dieser Woche ungefähr vierzigmal geübt
+hatte, es so zu erzählen, dass es stimmt.
+
+Ich erzählte von der Kündigung und dem fünfzehnten Januar. Von
+Kellermann und den sechs Ferienwohnungen. Von der Schenkungsteuer und
+den neunundvierzigtausendachthundert Euro, die sie nicht hat. Von den
+achtzehn Uhr am Zweiundzwanzigsten und davon, dass ich am nächsten Abend
+alles gesagt habe, alles, ohne dass sie fragen musste.
+
+Ich habe ungefähr zwölf Minuten geredet.
+
+Meine Mutter hat mich nicht ein einziges Mal unterbrochen.
+
+Als ich fertig war, saß sie da mit der linken Hand im Schoß, die nicht
+immer macht, was sie soll, und sagte:
+
+„Das hat dein Vater auch immer so erzählt.“
+
+---
+
+Ich weiß nicht, was ich erwartet hatte. Trost vermutlich. Meine Mutter
+gibt keinen Trost, sie gibt Auskunft.
+
+„Was meinst du damit?“
+
+„Setz dich hin, Jonas. Du stehst so herum.“
+
+Ich setzte mich.
+
+„Weißt du, wem das Haus in Reinbek gehört hat?“, sagte sie.
+
+„Uns.“
+
+„Mir.“ Sie sagte es ohne Betonung. „Von meiner Mutter. Ich habe es 1991
+geerbt, mit dem Garten und der Garage, in der dein Vater dann seine
+Akten gelagert hat.“
+
+„Wir haben es 1997 verkauft.“
+
+„*Er* hat es 1997 verkauft.“ Sie sah auf ihre Hand. „Im Februar 1997
+hatte die Firma ein Liquiditätsloch von neunhunderttausend Mark. Es gab
+drei Möglichkeiten, und die schnellste war das Haus meiner Mutter.“
+
+Ich sagte nichts.
+
+„Er hat es gemacht. Notar am achten März, Übergabe im Mai.“ Sie sah auf.
+„Erzählt hat er es mir am zwölften März. Vier Tage danach. Er hat mir
+den Vertrag auf den Küchentisch gelegt und alles erklärt, und es war
+alles richtig. Jedes Wort. Wenn er es nicht gemacht hätte, hätten
+vierundneunzig Leute im Juni kein Gehalt bekommen. Ich habe damals
+nachgerechnet, weil ich es nicht glauben wollte, und es stimmte.“
+
+„Warum weiß ich das nicht?“
+
+„Weil ich nichts gesagt habe“, sagte meine Mutter. „Achtundzwanzig
+Jahre lang.“
+
+---
+
+Draußen fing es an zu regnen, weil es in Hamburg auch an Heiligabend
+regnet.
+
+„Ich habe ihn nicht verlassen“, sagte sie. „Ich habe ihn geliebt, bis er
+tot war, und ich vermisse ihn jeden Tag, und das ist alles wahr. Ich
+sage dir das, damit du das Folgende richtig einordnest.“
+
+Sie wartete, bis ich sie ansah.
+
+„Ich habe achtundzwanzig Jahre neben einem Mann gelebt, der recht
+hatte.“
+
+---
+
+Ich habe seit dem dreiundzwanzigsten Dezember eine ganze Menge Sätze
+gehört, die wehtun. Marlenes Sätze, Bastians Satz, Niklas’ Satz mit den
+achtzehn Monaten.
+
+Dieser war anders, weil er nicht mir galt.
+
+„Es geht nicht um das Haus“, sagte meine Mutter. „Das Haus war ein
+Haus. Es geht darum, dass ich am achten März nichts wusste und am
+zwölften alles. In diesen vier Tagen war ich verheiratet mit jemandem,
+der eine Entscheidung über mein Elternhaus getroffen hatte, und ich habe
+in der Zeit Wäsche aufgehängt.“
+
+„Er hat es dir doch gesagt.“
+
+„Ja.“ Sie nickte. „Er hat es mir gesagt. Er hat mich nie belogen, dein
+Vater, nicht ein einziges Mal in vierunddreißig Jahren. Er hat mich nur
+nie gefragt.“
+
+---
+
+Ich saß eine Weile da.
+
+„Warum hast du nie etwas gesagt?“
+
+„Weil er recht hatte.“ Sie lachte kurz, ohne Freude. „Das ist die Falle,
+Jonas. Wenn der andere unrecht hat, kannst du streiten. Dann geht es
+raus, und danach ist es kleiner. Wenn der andere recht hat, kannst du
+nur schlucken. Und geschlucktes Zeug wird nicht kleiner. Es wird
+härter.“
+
+„Und was hättest du gebraucht?“
+
+„Am siebten März“, sagte sie sofort, so schnell, dass ich merkte, wie
+oft sie diesen Satz gedacht hat, „hätte er sich abends hinsetzen und
+sagen müssen: *Renate, ich sehe drei Wege, und der schnellste ist dein
+Elternhaus. Ich weiß nicht weiter. Was sagst du?*“
+
+„Und dann hättest du ja gesagt.“
+
+„Vermutlich.“ Sie sah mich an. „Aber es wäre *meins* gewesen.“
+
+---
+
+Ich fuhr um eins nach Hause, über die leere Stadt, und an einer roten
+Ampel an der Willy-Brandt-Straße, an der außer mir kein Auto stand,
+verstand ich es endlich.
+
+Ich hatte die ganze Woche gedacht, mein Fehler sei ein Timing-Fehler.
+Acht Tage. Vierzehn Stunden. Ein Serienbrief um neun Uhr vierzehn. Ich
+hatte mir tatsächlich vorgestellt, wie es gelaufen wäre, wenn Frau
+Kuhlmann die Anzeige zurückgestellt hätte, und in dieser Vorstellung war
+alles gut ausgegangen.
+
+Es wäre nicht gut ausgegangen.
+
+Es wäre nur später schlecht ausgegangen.
+
+Weil sie dann am dreiundzwanzigsten Dezember um zwanzig nach acht
+erfahren hätte, dass ihr Haus mir gehört — von mir, freundlich,
+vollständig, mit einem Zettel neben der Hand — und weil das immer noch
+eine Mitteilung gewesen wäre und keine Frage.
+
+Ich hatte nicht zu spät geredet.
+
+Ich hatte in der falschen Richtung geredet.
+
+---
+
+Am siebenundzwanzigsten holte ich Emil um zehn ab, wie besprochen.
+
+Marlene öffnete, gab mir die Tasche, sagte, dass er seit Mittwoch
+Karotten verweigert, und sagte danach nichts mehr, was nicht Emil
+betraf.
+
+Sie war höflich. Sie hatte es angekündigt, und sie hielt sich daran, und
+es war das Schlimmste, was ich je erlebt habe.
+
+Ich brachte ihn um sechs zurück. An der Tür drehte Emil sich in meinem
+Arm um und griff nach meinem Kragen, weil er nicht runter wollte, und
+Marlene nahm ihn und sagte in seinen Nacken hinein, sehr ruhig: „Der
+kommt wieder. Am Silvester.“
+
+Sie sagte es zu ihm. Ich stand dabei.
+
+Auf dem Rückweg hielt ich am Baumwall an und saß zehn Minuten im Auto.
+
+Und dann tat ich zum ersten Mal seit dem dreiundzwanzigsten etwas, das
+nicht Warten war: Ich rief meinen Bruder an. Nicht Niklas.
+
+„Theo. Ich brauche den Entwurf. Alle Fassungen, auch die verworfenen.“
 
 „Warum?“
 
-„Weil er weiß, dass Sie wiederkommen.“ Sie räumte Becher ein. „Kinder,
-die nicht merken, dass jemand geht, haben es sich abgewöhnt. Kinder, die
-merken und weiterspielen, haben Vertrauen. Das sind zwei völlig
-verschiedene Sachen, und sie sehen von außen gleich aus.“
+„Weil ich wissen will, was sie mir eigentlich gibt“, sagte ich. „Und
+was das wert ist.“
 
-Ich habe an diesem Vormittag an meine Mutter gedacht, an den Satz aus
-dem Café: *Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt
-hat, jemanden zu brauchen.*
+Er war einen Moment still.
 
-Ich habe zum ersten Mal begriffen, dass das kein Vorwurf an sie war.
-Es war eine Warnung.
-
----
-
-**Tag fünf.** Zwanzig Minuten. Ich bin in ein Café an der Ecke gegangen
-und habe einen Kaffee getrunken, der schlecht war, und drei Mails
-beantwortet.
-
-Ich habe in diesen zwanzig Minuten dreimal aufs Telefon gesehen.
-
-**Tag sechs.** Vierzig Minuten. Rückschlag: Er hat geweint, als ich
-ging, und Frau Özdemir hat mich trotzdem gehen lassen und nach
-achtundzwanzig Minuten geschrieben, dass er seit fünfundzwanzig Minuten
-mit dem Wasserhahn spielt.
-
-**Tag sieben.** Der ganze Vormittag. Ich habe zu Hause gesessen und
-gearbeitet und um elf gemerkt, dass ich seit einer Stunde dieselbe Seite
-lese.
-
-**Tag acht.** Er ist morgens allein in die Garderobe gelaufen und hat
-versucht, seine Jacke auf den Haken zu hängen, was nicht funktioniert
-hat, weil der Haken auf einem Meter zehn sitzt und Emil auf sechsundachtzig
-Zentimetern.
-
-Frau Özdemir hat gesagt: „Er ist drin.“
-
-Ich habe gefragt, ob das heißt, dass wir fertig sind.
-
-Sie hat gesagt: „Sie sind fertig. Er fängt an.“
-
----
-
-An diesen acht Vormittagen habe ich Dinge gelernt, die in keiner
-Übergabe stehen und die ich hier aufschreibe, weil ich sie sonst wieder
-vergesse.
-
-Ein Kind mit einundzwanzig Monaten braucht für den Weg von der Tür zur
-Garderobe zwischen vierzig Sekunden und elf Minuten, und man kann nicht
-vorher wissen, welches von beidem.
-
-Man zieht die Schuhe im Sitzen an, nicht im Stehen, und man fängt mit
-dem Fuß an, den das Kind hinstreckt, nicht mit dem linken.
-
-Wenn ein Kind fällt und einen ansieht, bevor es weint, entscheidet das
-Gesicht des Erwachsenen, ob geweint wird. Das ist keine Erziehungsfrage,
-das ist Physik.
-
-Und: Es gibt in dieser Gruppe genau eine andere Person, die morgens
-allein kommt, ein Vater namens Ole, der bei der Hafenbahn arbeitet und
-mit dem ich seitdem zweimal die Woche vier Sätze wechsle. Er hat mich
-am zweiten Tag gefragt, was ich beruflich mache, und ich habe gesagt:
-Immobilien.
-
-„Oh“, hat er gesagt. „Und, viel zu tun?“
-
-Ich habe gesagt: „Geht so.“
-
-Das war die erste Unterhaltung seit Jahren, in der niemand wusste, wer
-ich bin, und ich habe nachts noch daran gedacht.
-
----
-
-Am fünften Vormittag stand Marlene um zehn plötzlich in der Tür.
-
-Sie war dienstags nie da. Dienstag ist Backtag; sie hat den ganzen
-Vormittag Blätterteig, sie kann nicht weg, das war der ganze Grund,
-warum sie mich gefragt hat.
-
-„Ich wollte nur sehen, wie es aussieht“, sagte sie.
-
-Wir standen zusammen im Flur, zwischen den Gummistiefeln, und sahen
-durch die Scheibe in der Tür.
-
-Emil saß am kleinen Tisch und schob einen Becher hin und her. Er hat
-uns nicht bemerkt.
-
-„Er sitzt da, als wäre er immer schon da gewesen“, sagte sie.
-
-„Ja.“
-
-„Ich habe achtzehn Monate lang gedacht, ich kann ihn nirgends hingeben.“
-Sie sah nicht weg von der Scheibe. „Und jetzt steht er da und braucht
-mich zwei Stunden lang nicht, und ich stehe hier und weiß nicht, ob ich
-erleichtert bin oder ob mir schlecht ist.“
-
-„Beides“, sagte ich. „Sagt Frau Özdemir.“
-
-Sie lachte, einmal, kurz.
-
-Und dann stand sie noch eine Minute da, und ich stand daneben, und
-irgendwann hat sie ihre Hand an meinen Ärmel gelegt — nicht in meine
-Hand, an den Ärmel, wie man das macht, wenn man sich an etwas festhält,
-das zufällig da ist.
-
-Wir haben beide nichts dazu gesagt.
-
-Als sie ging, sagte sie an der Treppe: „Danke, dass du acht gemacht
-hast und nicht drei.“
-
-„Ich habe acht gehört.“
-
-„Ich weiß“, sagte sie. „Deshalb sage ich es ja.“
+„Interessant“, sagte Theo. „Die Frage hat mir gestern schon jemand
+gestellt.“

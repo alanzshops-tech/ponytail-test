@@ -1,224 +1,206 @@
 # Kapitel 32 — Jonas
 
-Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
-vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als
-erwachsener Mann irgendwann wissen will, woran man ist.
+Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
+Telefonat, so gut er es erinnerte, und zweimal wörtlich.
 
-Kita Kirchenweg, Gruppe zwei, vierzehn Kinder, drei Erzieherinnen, ein
-Raum, der nach nasser Wolle und Apfel riecht.
+Ich hörte zu und merkte, wie mir etwas den Rücken hochlief, und ich
+sage jetzt, was es war, weil ich sonst dieses ganze Kapitel schönfärben
+müsste.
 
-Die Regeln der Eingewöhnung sind: Man sitzt. Man spielt nicht. Man ruft
-nicht. Man geht dem Kind nicht hinterher. Wenn es kommt, ist man da; wenn
-es nicht kommt, ist man trotzdem da.
+Es war Ärger.
 
-Man macht acht Vormittage lang nichts.
+Der erste Gedanke von Jonas Reinhardt, Geschäftsführer, war: *Sie setzt
+uns unter Druck. Drei Tage vor Jahresende, vier Wochen vor Baubeginn.*
 
-Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt.“
+Der zweite Gedanke war: *Wer hat ihr das geraten?*
 
-„Ich weiß nicht, was ich tun soll.“
+Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
+hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
+ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
 
-„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
+„Du guckst komisch“, sagte Theo.
 
-Ich habe den Legoturm nicht gebaut.
+„Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
+Gegenpartei halte.“
 
-Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
-abgestimmt haben, ob ich noch Geschäftsführer bin.
+„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
+tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
+verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
+uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
+das kostet. Weil sie nett war.“
 
----
+„Sie hat es zugesagt.“
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
-
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
-
-Wir haben nicht miteinander geschlafen.
-
-Wir haben viermal gestritten. Zweimal über Kleinigkeiten, die keine
-waren — sie mag es nicht, wenn ich Emil aus dem Wagen hebe, ohne zu
-fragen, weil sie Angst hat, dass ich es besser kann als sie, und ich mag
-es nicht, wenn sie das Wort *Ihr Geld* benutzt. Einmal über den
-Baubeginn, weil im März die Bohrpfähle kamen und das Café drei Tage nicht
-öffnen konnte. Und einmal, im April, über die Frage, ob wir Emil sagen,
-dass ich sein Vater bin, oder ob er es einfach weiß, was übrigens meine
-Position war und die falsche.
-
-Und wir haben eine Verabredung, die von ihr kam und die albern klingt.
-
-Einmal in der Woche, donnerstags, wenn Emil im Bett ist, sagt jeder von
-uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
-sagen würde.
-
-Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat.“
-
-Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
-sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe.“
-
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
+„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
+Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
+anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
+mich gefragt, was mit ihm nicht stimmt.“
 
 ---
 
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
+Wir saßen zwei Stunden über dem Plan.
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+Ich hatte ihn zwanzigmal gesehen. Ich sah ihn zum ersten Mal von ihrer
+Seite.
 
-„Der hing da zwei Monate“, sagte sie.
+Die Durchfahrt: einziger Fahrzeugzugang. Ohne sie ist der Hof eine
+Grube, die man zu Fuß erreicht.
 
-„Warum?“
+Die Rückwand: an sie kommt der Übergang. Ohne Anbaurecht steht der
+Übergang auf zwei Stützen im Nichts.
 
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
+Die Leitungen: Schmutzwasser, Regenwasser, Fernwärme. Der Bestand liegt
+unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
+Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
+die ich nicht mal überschlagen wollte.
 
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
+„Was kostet die Alternative?“, fragte ich schließlich.
 
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
+Theo rechnete auf dem Rand.
 
----
+„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
 
-Im März kamen die Bohrpfähle.
+Ich sah die Zahl an.
 
-Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
-gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
-kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
-Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
-gefragt hätte, sondern weil es im Vertrag von September steht, in einem
-Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
-was daraus wird.
+„Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
+wert.“
 
-Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
-
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
-
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
-
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
+„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
+Gutachter nicht so rechnen. Aber ja.“
 
 ---
 
-Am achten Mai wurde Emil zwei.
+Niklas kam am Dreißigsten, und wir bauten es zusammen.
 
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
+„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
+Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
+nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
+nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
+sondern eine Entscheidung, die ich hinnehme.“
 
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
-
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
-
----
-
-Ich hatte einen Ring.
-
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
-
-Ich habe ihn an diesem Abend zweimal angefasst.
-
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
-
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
-
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
-
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
-
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
-
----
-
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
-
-Es war eine Erbse.
-
-Ich nahm sie.
-
-„Danke“, sagte ich.
-
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
-
-„Papa.“
-
-Dann drehte er sich wieder um und schob weiter Erbsen.
-
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
-
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
-
----
-
-Um zehn nach neun klingelte mein Telefon.
-
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
-
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
-
-„Herr Reinhardt? Jonas Reinhardt?“
+„Das dritte ist neu“, sagte mein Bruder.
 
 „Ja.“
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+Er nahm den Block.
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+Es sieht am Ende einfach aus, und deshalb schreibe ich die vier Schritte
+hin, damit klar ist, wie lange man dafür braucht:
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
+**Eins.** Ein öffentlich bestellter und vereidigter Sachverständiger
+bewertet die drei Rechte — Wegerecht, Anbaurecht, Leitungsrecht — als
+Grunddienstbarkeiten zugunsten unserer drei Grundstücke. Nicht von uns
+beauftragt. Von ihr, oder gemeinsam, und in jedem Fall von jemandem, den
+weder sie noch ich kennt.
 
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
+**Zwei.** Die Gesellschaft kauft die Rechte zum Gutachtenwert. Kein Cent
+darüber. Ein Cent darüber wäre eine verdeckte Schenkung, und dann sitzt
+in zwei Jahren das Finanzamt bei ihr und nicht bei mir.
 
-„Wer ist dran?“, fragte Marlene.
+**Drei.** Sie kauft mit dem Geld die Forderung. Von mir. Zu dem Preis,
+den ich bezahlt habe: einhundertsechsundachtzigtausend. Kein Gewinn, kein
+Nachlass, ein normaler Forderungskauf, notariell, prüfbar.
 
-Ich hielt das Telefon fest.
+**Vier.** In dem Moment, in dem sie Gläubigerin ihrer eigenen Schuld
+ist, erlischt die Forderung. Das Wort dafür ist Konfusion. Sie schuldet
+niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
 
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+Niklas legte den Stift hin.
+
+„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
+und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
+sah auf. „Es hat nur einen Haken, und der ist groß.“
+
+„Der Beirat.“
+
+„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
+zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
+etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
+Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
+Gläubiger.“
+
+„Ja.“
+
+„Weißt du, wie das aussieht?“
+
+„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
+vorher.“
 
 ---
 
-**ENDE**
+Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
+mit drei Leuten gesprochen.
 
-*Die Reinhardt-Brüder gehen weiter.*
+„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
 
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
+„Bei wem?“
+
+„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
+Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
+
+„Er wird es erfahren.“
+
+„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
+Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
+Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
+Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
+ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
+
+Ich hörte es mir laut an.
+
+„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
+Kauf. Auch den Preis.“
+
+Am anderen Ende war es lange still.
+
+„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
+
+„Ich weiß.“
+
+„Ihr Vater hätte das nie gemacht.“
+
+„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
+
+---
+
+Ich rief sie nicht an.
+
+Das ist die Sache, auf die ich in diesem ganzen Jahr am ehesten stolz
+bin, und sie besteht darin, dass ich zwei Wochen lang etwas *nicht*
+getan habe.
+
+Ich hätte hinfahren können. Ich hatte einen Plan in vier Schritten, der
+funktioniert, und ich hätte ihn ihr erklären können, gut, verständlich,
+mit einer Skizze, und sie hätte am Ende genickt.
+
+Und dann wäre es wieder meiner gewesen.
+
+Also machte ich es anders. Theo schrieb ihr — nicht ich —, dass die
+Gesellschaft bereit ist, die drei Rechte zu erwerben, dass sie den
+Sachverständigen aussucht, dass die Gesellschaft das Gutachten bezahlt
+und an das Ergebnis gebunden ist, und dass sie bis zur Sitzung am
+zwanzigsten Zeit hat.
+
+Kein Wort von mir. Keine Grüße. Nichts über den Rest.
+
+Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
+
+„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
+
+---
+
+Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
+Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
+
+Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
+will? Nicht das Haus. *Dich.*“
+
+Ich hatte eine Weile gebraucht.
+
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
+sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
+mich nie wieder anrufen.“
+
+„Kannst du das?“
+
+„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“

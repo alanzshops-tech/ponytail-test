@@ -1,238 +1,174 @@
 # Kapitel 21 — Leni
 
-Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
-also mit der Post, die eigentlich niemand mehr bekommt.
+Es gab in der ersten Dezemberwoche drei Dienstage, und das ist
+arithmetisch unmöglich, aber so hat es sich angefühlt.
 
-Er war kurz. Ich habe ihn so oft gelesen, dass ich ihn auswendig kann.
+Er kam jeden Dienstag um elf, band sich die Schürze um, die inzwischen
+seine ist, und wischte Tische, bis der Andrang durch war. Danach trank
+er einen Kaffee im Stehen, zahlte, und ging.
 
-*…kündigen wir hiermit die oben bezeichneten Darlehensverträge fristlos.
-Der Gesamtbetrag von 214.600,00 € ist zur Rückzahlung fällig. Wir setzen
-Ihnen eine letzte Frist bis zum 15.01. Nach fruchtlosem Ablauf werden
-wir die Verwertung der Sicherheiten einleiten.*
+Ich habe ihn zweimal gefragt, ob er nicht arbeiten muss.
 
-*Verwertung der Sicherheiten* heißt Zwangsversteigerung. Das musste ich
-nicht nachschlagen. Ich hatte es im Sommer schon nachgeschlagen, für den
-Fall.
+Beim ersten Mal hat er gesagt: „Doch.“
 
-Emil saß im Hochstuhl und aß Grießbrei, und ich stand mit dem Brief in
-der Küche und wartete darauf, dass es mich umhaut.
-
-Es haute mich nicht um.
-
-Das habe ich damals für Stärke gehalten. Es war Übung.
+Beim zweiten Mal hat er gesagt: „Ich habe vierhundert Leute, die
+arbeiten. Ich habe einen Sohn, der mich seit sechs Wochen kennt.“
 
 ---
 
-Ich habe zwischen dem vierten und dem achten drei Nächte lang gerechnet,
-und ich schreibe das Ergebnis hin, weil man es sonst für eine
-Redewendung hält.
+Was in diesen Wochen zwischen den beiden passiert ist, kann ich nicht
+in einer Szene erzählen, weil es nicht in einer Szene passiert ist.
 
-Verkauf des Wagens: dreitausendzweihundert. Er ist von 2014 und ich
-brauche ihn für die Großmärkte.
-Auflösung der Lebensversicherung: neuntausendsechshundert, abzüglich
-Abschlag.
-Die zwei leeren Etagen an Reinhardt, sofort, nicht in fünfzehn Jahren:
-vielleicht sechzigtausend, und dann gehören sie mir nie wieder.
-Sanne: sie hat es nicht, und ich würde sie nicht fragen.
+Es passierte in Millimetern.
 
-Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
-dreiundsiebzigtausend.
+**Anfang der ersten Woche** saß Emil im Laufstall und sah zu.
 
-Es fehlen zweihunderteinundvierzig.
+**Mitte der Woche** stand er am Gitter und hielt sich fest, wenn Jonas
+durch den Raum ging, und drehte sich mit, wie ein Sonnenblumenkopf.
 
----
+**Ende der Woche** hat er die Arme ausgestreckt.
 
-Am achten war ich bei der Bank.
+Jonas hat ihn nicht sofort genommen. Er hat mich angesehen — quer durch
+das Café, über vier Tische hinweg — und gewartet, bis ich genickt habe.
 
-Herr Timm, dritter Stock, ein Büro mit einem Rollcontainer und einem
-Foto von zwei Kindern auf Skiern. Er war höflich. Er war so höflich, dass
-ich lieber angeschrien worden wäre.
-
-Ich hatte drei Dinge dabei: die Umsätze der letzten sechs Monate, die
-seit August zum ersten Mal wieder steigen. Einen Vorschlag für einen
-Ratenplan über achtzehn Monate. Und eine schriftliche Zusage der
-Handelskammer über einen Beratungszuschuss, den ich in vier Wochen
-zusammengebettelt hatte.
-
-Er sah sich alles an. Er sah es sich wirklich an, das muss ich sagen.
-
-„Frau Voss, ich kann das nicht entscheiden.“
-
-„Wer kann es entscheiden?“
-
-„Im Moment niemand hier.“ Er legte die Hände flach auf den Tisch. „Ich
-sage Ihnen mehr, als ich darf. Wir bereinigen zum Jahresende. Ihr
-Engagement liegt in einem Paket, das bewertet wird. Solange das läuft,
-darf ich an den Konditionen nichts ändern, weil jede Änderung den Wert
-des Pakets verändert.“
-
-„Sie verkaufen meinen Kredit.“
-
-„Wir prüfen einen Verkauf.“
-
-„Und dann?“
-
-„Dann tritt jemand anderes in unsere Rechte ein.“ Er sagte es leise.
-„Das kann besser für Sie sein. Es kann auch schlechter sein. Ich weiß
-es nicht, und wer Ihnen das jetzt vorhersagt, lügt.“
-
-An der Tür sagte er noch: „Wenn Sie irgendwo zweihundert bekommen — bis
-zum Fünfzehnten geht alles.“
+Ich habe erst hinterher verstanden, was das war. Er hat um Erlaubnis
+gefragt, sein eigenes Kind hochzunehmen, in dem Wissen, dass er sie
+nicht braucht.
 
 ---
 
-Ich bekam nirgendwo zweihundert.
+**In der zweiten Woche** hat Emil angefangen, ihm Dinge zu bringen.
 
-Ich war bei drei Banken. Eine hat mich freundlich weggeschickt, eine
-unfreundlich, und die dritte hat gerechnet und dann gefragt, wer im
-Notfall bürgt, und ich habe gesagt: niemand, und dann war das Gespräch
-zu Ende.
+Nicht hinzuhalten — das macht er bei allen. Bringen. Er ist quer durch
+den Laden gelaufen, mit einem Bauklotz, an drei Gästen vorbei, und hat
+ihn Jonas auf den Schuh gelegt.
 
-Ich habe die Zahlen ehrlich gemacht. Ich habe nichts geschönt. Das ist
-mein einziger Stolz aus diesem Dezember.
+Frau Kettler hat das gesehen und ist in den Backraum gegangen und hat
+dort länger gebraucht, als es dauert.
 
----
+**Am Donnerstag** hat Emil ihn zum ersten Mal gerufen.
 
-Am zwölften kam Frau Kettler in die Küche, als ich die Kontoauszüge
-sortierte, und blieb hinter mir stehen.
+Es war immer noch kein Wort. Der harte Anfang und dann ein Vokal, der
+sich nicht entscheiden konnte. Aber er hat es gerufen, quer durch den
+Raum, in die Richtung, in der Jonas stand, und dann hat er gewartet.
 
-„Ich habe elftausendvierhundert.“
+Jonas hat sich umgedreht und gesagt: „Ja.“
 
-Ich drehte mich nicht um.
+Nur das. Nicht „ja, mein Schatz“, nicht „was ist denn“, keine
+Kinderstimme. Er hat geantwortet, wie man einem Erwachsenen antwortet,
+der einen ruft.
 
-„Frau Kettler.“
-
-„Auf einem Sparbuch. Für die Beerdigung.“ Sie schob einen Stuhl heran
-und setzte sich, was sie nie tut, wenn sie im Dienst ist. „Beerdigungen
-sind billiger geworden. Man kann sich jetzt verstreuen lassen.“
-
-„Ich nehme kein Geld von Ihnen.“
-
-„Das dachte ich mir.“ Sie faltete die Hände. „Ich sage es trotzdem, weil
-man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
-
-Wir saßen eine Weile.
-
-„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
-
-„Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
-Frau Voss. Nicht wegen des Geldes.“
-
-„Sondern?“
-
-„Damit Sie es einmal geübt hätten.“
+Ich stand hinter der Theke und habe die Kaffeemühle laufen lassen,
+obwohl niemand Kaffee wollte, weil man dann nicht sprechen muss.
 
 ---
 
-Und jetzt der Teil, für den ich keine gute Erklärung habe, nur die
-wahre.
+Und dann gab es die andere Seite dieser Wochen, und die gehört auch
+hierher.
 
-Ich habe es Jonas nicht gesagt.
+**Er hat angefangen, Dinge zu bemerken.**
 
-Nicht am achten, nicht am zwölften, nicht am fünfzehnten.
+Am zweiten Dienstag sagte er: „Die Spülmaschine braucht vierzig
+Minuten.“
 
-Ich hatte drei Gründe, und einer davon war sogar gut.
+„Ja.“
 
-**Der gute:** In seiner eigenen Mappe, Reiter sechs, standen zwei Seiten
-darüber, dass die Kindesmutter Eigentümerin eines Objekts ist, an dem
-die Gesellschaft Erwerbsinteresse hat. Er hatte das im Beirat offengelegt
-und war dafür angegriffen worden. Wenn ich ihm jetzt sage, dass meine
-Bank kündigt, hat er genau zwei Möglichkeiten: Er hilft — und ist
-erledigt vor diesen sieben Leuten. Oder er hilft nicht — und wir wissen
-beide für den Rest unseres Lebens, dass er es nicht getan hat.
+„Zwischen zwölf und eins geht Ihnen deshalb das Geschirr aus.“
 
-Ich wollte ihn nicht in dieses Zimmer stellen.
+„Ja.“
 
-**Der mittlere:** Ich wollte es allein schaffen. Ich hatte es fast
-geschafft. Die Umsätze stiegen. Noch ein Jahr, und die Zahlen hätten
-für mich gesprochen. Es fehlte ein Jahr, das ist alles, was mir gefehlt
-hat.
+„Es gibt Geräte, die brauchen zwei Minuten.“
 
-**Der schlechte:** Ich hatte Angst, dass er es *regelt*.
+„Ich weiß, was die kosten“, sagte ich.
 
-Und wenn er es regelt, ist es nicht mehr mein Laden. Dann ist es der
-Laden, den er mir gelassen hat.
+Er hat es dabei belassen. Er hat nicht gesagt, dass er eine kaufen
+kann. Ich habe drei Tage darauf gewartet, dass er es sagt, und er hat
+es nicht gesagt, und ich habe gemerkt, dass ich fast enttäuscht war,
+und mich dafür geschämt.
 
----
+**Am dritten Dienstag** fragte er, wie hoch die Rate ist.
 
-Er kam in diesen zwei Wochen fast täglich.
+Nicht die Schulden. Die Rate.
 
-Er hängte eine Lichterkette ins Schaufenster, die er selbst gekauft
-hatte, in der falschen Länge, und ich habe sie nicht umgetauscht und
-hänge sie bis heute so auf.
+„Warum?“
 
-Er lernte, Emil anzuziehen. Das dauert bei einem
-Achtzehn-Monats-Menschen im Winter zwanzig Minuten und ist die
-demütigendste Tätigkeit, die es gibt, und er machte es gern, was ich
-nicht verstehe.
+„Weil ich hier seit sechs Wochen stehe und sehe, was reinkommt“, sagte
+er. „Und weil ich rechnen kann.“
 
-Am neunzehnten saßen wir abends auf dem Boden vor dem Regal und sortierten
-Christbaumkugeln, und er sagte, ohne aufzusehen: „Ich muss dir vor
-Weihnachten was sagen. Nichts Schlimmes.“
+Ich habe die Zahl nicht genannt.
 
-Und ich sagte: „Ich dir auch.“
+Ich habe gesagt: „Das ist mein Teil.“
 
-Und wir haben beide gelacht und beide nichts gesagt, und wenn dieses
-Buch eine Stelle hat, an der ich zurückgehen und jemanden schütteln
-möchte, dann diese.
+Und er hat genickt und weitergewischt, und wir haben beide gewusst,
+dass das nicht das Ende der Sache ist.
 
 ---
 
-Zweimal habe ich es fast getan.
+Am sechsten Dezember hat er Emil zum zweiten Mal allein gehabt.
 
-Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —“ und in
-diesem Moment fiel Emil vom Sofa, und danach war es weg.
+Diesmal einen ganzen Samstag, von neun bis fünf. Ich habe keine Liste
+mehr mitgegeben.
 
-Das zweite Mal am zwanzigsten, spät. Ich hatte die Worte schon
-zurechtgelegt. Dann erzählte er mir, mit einem Gesicht, das ich vorher
-nicht kannte, dass Emil an diesem Nachmittag zum ersten Mal beim
-Weggehen die Hand gehoben hat. Nicht gewinkt. Gehoben. Und dass er
-deshalb zweimal um den Block gefahren ist und noch mal geklingelt hat,
-nur um zu sehen, ob es wieder passiert.
+Um vier rief er an.
 
-Man sagt einem Menschen in dieser Sekunde nicht, dass sein Sohn im
-Februar kein Zimmer mehr hat.
+„Nichts Schlimmes“, sagte er sofort, was der beste erste Satz ist, den
+ein Mensch am Telefon sagen kann. „Ich habe eine Frage.“
 
-Das habe ich mir jedenfalls gesagt.
+„Ja?“
 
----
+„Er ist hingefallen. Auf dem Spielplatz, von der kleinen Rutsche, auf
+Sand. Er hat nicht geweint. Er hat mich angesehen.“
 
-Am einundzwanzigsten stellte Frau Kettler die Kaffeemühle ab, mitten am
-Vormittag, was Krieg bedeutet.
+„Und?“
 
-„Frau Voss.“
+„Und ich habe nichts gemacht.“ Eine Pause. „Ich habe ihn nur angesehen
+und gewartet, und dann ist er aufgestanden und weitergegangen. War das
+richtig?“
 
-„Ich weiß, was Sie sagen wollen.“
+Ich stand in meinem Café und musste mich am Tresen festhalten.
 
-„Dann sage ich es kurz.“ Sie wischte sich die Hände ab. „Sie machen es
-schon wieder.“
+„Ja“, sagte ich. „Das war genau richtig.“
 
-„Es ist etwas anderes.“
+„Woher weiß man das?“
 
-„Es ist etwas *Kleineres*“, sagte sie. „Das ist der Unterschied, und der
-Unterschied hilft Ihnen nicht. Beim ersten Mal ging es um ein Kind, und
-es hat zwei Jahre gedauert. Diesmal geht es um ein Haus, und Sie sind
-bei drei Wochen.“ Sie sah mich an. „Wissen Sie, was in beiden Fällen
-gleich ist?“
+„Man weiß es nicht. Man macht es und schaut, was passiert.“
 
-„Sagen Sie es.“
+Er hat einen Moment geschwiegen.
 
-„Dass Sie entscheiden, was er verkraftet.“
+„Das ist eine schlechte Methode“, sagte er.
+
+„Es ist die einzige, Jonas.“
 
 ---
 
-Ich saß an diesem Abend um elf am Küchentisch und machte, was ich immer
-mache, wenn ich anders nicht denken kann.
+Ich habe an diesem Samstagabend zum ersten Mal seit achtzehn Monaten
+zwei Stunden am Stück geschlafen, während jemand anderes wach war.
 
-Ich schrieb es auf.
+Nicht nachts. Nachmittags, auf dem Sofa, um halb drei, mitten am Tag,
+mit dem Telefon in der Hand.
 
-Diesmal keine zwei Spalten. Diesmal ein Satz, damit ich mich nicht
-rausreden kann:
+Ich bin davon aufgewacht, dass es dunkel wurde, und der erste Gedanke
+war Panik, und der zweite war: *Der ist bei seinem Vater.*
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+Es war das erste Mal, dass ich diesen Satz gedacht habe, ohne dass er
+weh tat.
 
-Ich habe den Zettel an die Innenseite der Schranktür gehängt, neben den
-Dienstplan.
+---
 
-Ich habe ihn erst im Februar wieder abgenommen.
+Am achten Dezember, einem Sonntag, war er nicht da, weil Sonntag nicht
+abgesprochen war.
+
+Emil ist an diesem Nachmittag zweimal zur Tür gegangen.
+
+Ich habe ihm erklärt, dass Dienstag ist. Er ist einundzwanzig — nein.
+Er war damals neunzehn Monate alt. Er versteht Dienstag nicht.
+
+Am Abend hatte er neununddreißig Komma zwei.
+
+Ich habe es für einen Zufall gehalten. Kinder haben Fieber, ständig, das
+hat mit gar nichts zu tun, und jede Kinderärztin sagt einem das.
+
+Ich schreibe es trotzdem hin, weil ich in dieser Nacht um zwei Uhr im
+Kinderzimmer saß und zum ersten Mal seit sehr langer Zeit gedacht habe:
+
+*Ich will nicht mehr die Einzige sein, die wach ist.*

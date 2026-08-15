@@ -1,210 +1,163 @@
 # Kapitel 22 — Jonas
 
-Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
-wachte um vier auf und wusste, dass ich es tun werde.
+Wendland rief am zweiten Dezember an, und das war das zweite Mal in
+neunzehn Jahren, dass er von sich aus anrief.
 
-Nicht: dass ich es tun *soll*. Dass ich es tun *werde*. Das ist ein
-Unterschied, den man erst hinterher hört.
+„Reinhardt. Kennen Sie Kellermann?“
 
-Ich habe zwischen vier und sechs im Dunkeln gelegen und alles noch
-einmal durchgespielt, und jedes Mal kam ich an dieselbe Stelle: Wenn ich
-sie frage, sagt sie nein. Nicht weil es falsch wäre. Weil sie es ist.
+„Ich weiß, wer er ist.“
 
-Und am fünfzehnten Januar steht Kellermann in ihrer Küche.
+„Er hat sich in der Speicherstadt umgehört.“ Ein Rascheln. „Nicht bei
+uns. Bei zwei Leuten, die es mir erzählt haben.“
 
----
+„Wonach?“
 
-Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
-Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
-ihm bedeutet, dass es ernst ist.
+„Nach Objekten mit Finanzierungsproblemen.“ Eine Pause. „Er sammelt.
+Das macht er seit zwei Jahren so: Er wartet, bis eine Bank aufräumt,
+und dann ist er da.“
 
-Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
+Ich stand in meinem Büro am Fenster und sah auf die Kräne.
 
-„Ja.“
+„Warum rufen Sie mich an?“
 
-„Geht nicht.“
+„Weil Sie im November vor dem Beirat gesagt haben, Sie kennen die
+Eigentümerin von Kehrwieder zwölf persönlich“, sagte Wendland. „Und
+weil ich seit neunzehn Jahren beobachte, wann jemand einen Satz sagt,
+den er nicht sagen müsste.“
 
-„Warum nicht?“
-
-„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
-seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
-zwanzigtausend. Auf den Rest dreißig Prozent.“
-
-Er schrieb die Zahl hin und drehte den Block um.
-
-**≈ 49.800 € Schenkungsteuer. Zahlbar von: Marlene Voss.**
-
-Ich sah die Zahl an.
-
-„Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
-Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
-fünf.“
-
-„Und was geht?“
-
-„Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
-keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
-klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
-zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
-entscheidet, es nicht einzufordern.“
-
-Der Raum war eine Weile still.
-
-„Das ist schlimmer“, sagte ich.
-
-„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
-ja.“
+Er legte auf, bevor ich antworten konnte. Er legt immer zuerst auf.
 
 ---
 
-Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
-habe.
+Ich habe an diesem Nachmittag nichts unternommen.
 
-Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
-Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
-sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
-meinem Schreibtisch und sah aus dem Fenster.
+Ich schreibe das hin, weil es später wichtig wird: Am zweiten Dezember
+wusste ich, dass ein Mann durch diese Stadt geht und nach Objekten mit
+Finanzierungsproblemen sucht. Ich habe es gewusst und habe es
+weggelegt, weil ich am selben Abend um sechs mit einem Zwanzig-Monate-
+Menschen verabredet war.
 
-Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
-ihre Nummer aufgerufen und wieder weggelegt.
+Am ersten Dezember hatte ich Frau Kuhlmann gebeten, die Finanzierung
+von Kehrwieder zwölf zu prüfen. *Nur wissen. Nichts tun.*
 
-Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
-nicht daran gedacht.
+Am zweiten hätte ich das zurücknehmen können.
 
----
-
-Bastian stand um halb eins in der Tür, mit einem Rucksack, in einer
-Jacke, die er seit dem Abitur hat.
-
-Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
-kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
-immer eine Frage.
-
-„Hast du zwanzig Minuten?“
-
-„Ich habe eine Stunde.“
-
-„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
-Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
-hast ein Kind.“
-
-„Ja.“
-
-„Und Mama sagt, du bist verliebt.“
-
-„Auch ja.“
-
-„Warum weiß ich das über Bande?“
-
-Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
-zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
-bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
-
-Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
-
-Bastian sah mich an, kaute an einem Daumennagel und sagte:
-
-„Weiß sie das?“
-
-„Ich sage es ihr morgen.“
-
-„Das ist nicht dasselbe.“
-
-„Es ist ein Tag.“
-
-„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
-nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
-ablehnen.“
+Ich habe es nicht zurückgenommen. Ich habe auch nicht nachgefragt. Ich
+habe den Auftrag einfach stehen lassen, drei Wochen lang, wie man ein
+Fenster auf Kipp lässt.
 
 ---
 
-Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
-weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
+Die Dienstage in dieser Zeit waren das Beste, was ich hatte.
 
-„Was machst du eigentlich zurzeit?“, fragte ich.
+Ich habe morgens um elf im Café gestanden und Tische abgewischt, und
+irgendwann in der zweiten Woche ist etwas passiert, das ich hier
+aufschreibe, weil ich es niemandem erzählt habe.
 
-„Was Eigenes.“
+Emil kam quer durch den Laden gelaufen, an drei Gästen vorbei, mit
+einem Bauklotz, und legte ihn mir auf den Schuh.
 
-„Was für was Eigenes?“
+Ich habe ihn aufgehoben und gesagt: „Danke.“
 
-„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
-sag den anderen nicht, dass ich hier war.“
+Er ist wieder losgelaufen und hat den nächsten geholt.
 
-„Warum nicht?“
-
-„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
-sie nicht, Jonas.“
-
-„Ich habe bis achtzehn Uhr Zeit.“
-
-„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
+Es waren am Ende elf Bauklötze auf meinem Schuh, und ich stand in
+diesem Café mit einem Lappen in der Hand und wagte mich nicht zu
+bewegen, weil ich Angst hatte, dass es aufhört.
 
 ---
 
-Ich unterschrieb um siebzehn Uhr vierzig.
+Am Donnerstag hat er mich gerufen.
 
-Nicht über die Firma. Das war mir wichtig, und ich habe es mir damals
-als Anstand ausgelegt: Wenn die Reinhardt Immobilien GmbH die Forderung
-kauft, ist es genau das, was Wendland meint und was in Reiter sechs
-steht. Also kaufte ich sie privat. Eigenes Geld, eigener Name, drei
-Telefonate, ein Vertragsentwurf per Mail, eine qualifizierte Signatur.
+Es war kein Wort. Es war ein Laut mit einem harten Anfang, quer durch
+den Raum, in meine Richtung, und danach hat er gewartet.
 
-Einhundertsechsundachtzigtausend.
+Ich habe „ja“ gesagt.
 
-Ich habe dabei nichts gefühlt. Ich habe zwölf Jahre Übung darin, bei
-Zahlen nichts zu fühlen.
-
-Was ich stattdessen tat: Ich schrieb auf einen Zettel, was ich ihr
-morgen sagen wollte, in der Reihenfolge, in der ich es sagen wollte.
-
-1. Deine Bank hat gekündigt. Ich weiß es seit dem fünfzehnten.
-2. Ich habe die Forderung gekauft. Gestern. Privat.
-3. Ich fordere nichts. Nie. Ich kann sie dir nicht schenken, das
-   erkläre ich dir, das ist ein Steuerding.
-4. Das Haus gehört dir. Es hat sich nichts geändert außer dem Namen auf
-   dem Papier.
-5. Und wenn du willst: Zieh mit Emil zu mir. Nicht deshalb. Sondern
-   weil ich möchte, dass er morgens im selben Haus aufwacht wie ich.
-
-Ich habe diesen Zettel dreimal überarbeitet. Ich habe an Punkt fünf
-vierzig Minuten gesessen.
-
-An Punkt eins bis vier habe ich nichts geändert, weil sie mir richtig
-vorkamen.
-
-Sie sind auch richtig. Jeder einzelne Satz ist wahr, überprüfbar und
-gut gemeint.
-
-Es ist die Reihenfolge, die falsch ist. Punkt eins hätte am
-fünfzehnten Dezember gesagt werden müssen, und alles andere hätte danach
-nicht mehr stattgefunden.
+Ich habe später darüber nachgedacht, warum ausgerechnet „ja“. Ich
+glaube, es lag daran, dass mein Vater immer „gleich“ gesagt hat.
 
 ---
 
-Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
+In dieser Zeit habe ich zwei Dinge gleichzeitig gemacht, und ich habe
+damals nicht gemerkt, dass sie sich widersprechen.
 
-„Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
-Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
-ob Sie das zurückstellen wollen.“
+**Das eine:** Ich habe angefangen, Dinge nicht zu tun.
 
-Ich war in Gedanken bei Punkt fünf.
+Ich habe gesehen, dass ihre Spülmaschine vierzig Minuten braucht und
+dass ihr deshalb mittags das Geschirr ausgeht. Ich weiß, was eine
+Gastro-Maschine mit Zwei-Minuten-Programm kostet: sechstausend, plus
+Anschluss. Das ist für mich kein Geld. Ich habe es nicht angeboten.
 
-„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
-sowieso mit ihr.“
+Ich habe gesehen, dass der Ofen links vierzig Grad kälter ist. Ich habe
+nichts gesagt.
 
-Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
-Schreibtischlampe ausmachte.
+Ich habe gefragt, wie hoch ihre Rate ist, und sie hat gesagt, das sei
+ihr Teil, und ich habe genickt und weitergewischt.
 
-Das ist der Satz.
+Ich war ziemlich stolz darauf.
 
-Von allem, was ich in diesem Jahr gesagt und unterschrieben und
-angeordnet habe, ist es dieser: *Machen Sie es wie üblich.*
+**Das andere:** Ich habe im Hintergrund einen Auftrag laufen lassen, der
+genau das Gegenteil war.
 
-Vier Wörter, gesagt im Mantel, an einem Dienstagabend, ohne
-nachzudenken, weil ich mit dem Kopf bei einem Satz war, in dem es darum
-ging, wo mein Sohn morgens aufwacht.
+Das ist der Punkt, an dem ich mich selbst nicht mehr verteidigen kann.
+Ich habe im Café die Hände in der Tasche gelassen und gleichzeitig in
+meinem Büro jemanden herausfinden lassen, wie tief sie drinsteckt.
 
-Die Anzeige ging am dreiundzwanzigsten Dezember um neun Uhr vierzehn
-raus.
+Beides zur selben Zeit. Beides mit demselben Gefühl, das Richtige zu
+tun.
 
-Ich kam um sieben.
+---
+
+Am sechsten Dezember hatte ich ihn einen ganzen Samstag.
+
+Neun bis fünf. Ohne Liste diesmal.
+
+Wir waren am Spielplatz an der Ericusspitze, weil er von meiner Wohnung
+zu Fuß erreichbar ist und weil ich zum ersten Mal in zwölf Jahren an
+einem Samstag zu Fuß irgendwohin gegangen bin.
+
+Er ist von der kleinen Rutsche gefallen. Auf Sand, aus vielleicht
+fünfzig Zentimetern.
+
+Er hat nicht geweint. Er hat mich angesehen.
+
+Ich habe in diesem Moment gewusst, dass mein Gesicht entscheidet, was
+in den nächsten zwei Sekunden passiert, und ich habe keine Ahnung
+gehabt, welches Gesicht das richtige ist.
+
+Ich habe gar keins gemacht.
+
+Er ist aufgestanden und weitergegangen.
+
+Ich habe danach zwanzig Minuten auf einer Bank gesessen und ihm
+zugesehen und dabei angerufen, um zu fragen, ob das richtig war.
+
+Marlene hat gesagt: „Man weiß es nicht. Man macht es und schaut, was
+passiert.“
+
+Ich habe gesagt, das sei eine schlechte Methode.
+
+Sie hat gesagt: „Es ist die einzige, Jonas.“
+
+Ich bin an diesem Abend nach Hause gefahren und habe in meiner Wohnung
+gestanden, in der es nach nichts riecht, und hatte Sand in beiden
+Schuhen.
+
+---
+
+Am achten Dezember, einem Sonntag, war ich nicht da, weil Sonntag nicht
+abgesprochen war.
+
+Ich habe an diesem Tag zwei Stunden lang die Kontorhaus-Kalkulation
+durchgesehen, ohne einen Fehler zu finden, und um vier festgestellt,
+dass ich sie zweimal gelesen hatte.
+
+Um zwanzig nach zwei in der Nacht klingelte das Telefon.
+
+Ich hatte es auf dem Nachttisch, was ich seit November so mache, und
+ich war beim zweiten Klingeln wach und beim dritten schon am Aufstehen,
+und in dem Moment, in dem ich ihren Namen auf dem Bildschirm gesehen
+habe, wusste ich, dass es keine gute Nachricht ist.
+
+Man weiß das. Ich habe nicht gewusst, dass man das weiß.

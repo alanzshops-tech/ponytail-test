@@ -1,229 +1,215 @@
 # Kapitel 20 — Jonas
 
-Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
-Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
+Ich rief vier Tage nicht an.
 
-Ich habe am Sonntagabend meinen Ausweis rausgelegt. Auf den Küchentisch,
-neben die Autoschlüssel, so wie man das mit Dingen macht, die man am
-nächsten Morgen nicht vergessen darf.
+Ich habe mir eingeredet, dass ich ihr Raum gebe. Das ist die
+Lieblingslüge von Männern wie mir. *Raum geben* heißt in Wahrheit: Ich
+weiß nicht, was ich sagen soll, und solange ich nichts sage, habe ich
+auch nichts Falsches gesagt.
 
-Dann habe ich ihn wieder eingesteckt, weil ich mir albern vorkam, und um
-halb sieben am Montagmorgen habe ich ihn noch einmal rausgeholt und
-kontrolliert, ob er gültig ist.
+Am Montag kam Theo in mein Büro, sah mich an und sagte: „Du siehst aus
+wie neunzehn Neunundneunzig.“
 
-Er war seit vier Monaten abgelaufen.
+„Danke.“
 
-Es gibt eine Sorte Panik, die man mit Anfang dreißig nicht mehr für
-möglich hält, und ich hatte sie um Viertel vor sieben in meiner Küche.
-Der Reisepass lag im Safe im Büro. Ich bin über die leere Stadt gefahren,
-war um zwanzig nach sieben an der Ericusspitze, und Frau Kuhlmann, die
-immer vor mir da ist, sah mich in Mantel und Turnschuhen an und fragte
-nichts.
+„Neunzehn Neunundneunzig warst du drei Monate lang so.“ Er setzte sich
+auf die Tischkante, genau wie Niklas, was mich zu der Frage bringt, wozu
+ich eigentlich Stühle habe. „Was ist passiert?“
 
-Um halb neun stand ich mit einem gültigen Reisepass vor dem Jugendamt,
-in Turnschuhen, und habe im Aufzug gemerkt, dass ich das Jackett im Büro
-gelassen hatte.
+„Ich habe ihr eine Mappe hingelegt.“
 
-Ich hatte alles vier.
+Mein Bruder schloss kurz die Augen.
 
-Der Gang im zweiten Stock roch nach Bohnerwachs und Weihnachten, weil
-jemand einen Adventskranz aus Filz an die Tür der Teeküche gehängt
-hatte, mit drei Kerzen aus Pappe und einer vierten, die abgefallen war.
+„Sechsunddreißig Seiten“, sagte ich.
 
-Emil saß bei mir auf dem Arm und wollte den Getränkeautomaten.
+„Jonas.“
 
-„Zweiundzwanzig Cent“, sagte ich zu ihm. „Der behält zweiundzwanzig
-Cent. Merk dir das.“
+„Mit Register.“
 
-„Erzählst du ihm was von Geld?“, sagte Marlene.
+„Herrgott.“ Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
+habe eine Frau, von der meine Mutter nicht weiß, dass es sie gibt. Ich
+bin die letzte Instanz auf diesem Planeten, die dir Vorträge halten
+darf.“
 
-„Ich erzähle ihm was von Unrecht.“
+An der Tür drehte er sich um.
+
+„Aber wenn du mich fragst: Geh hin, ohne Papier. Ganz ohne. Nicht mal
+einen Kugelschreiber.“
 
 ---
 
-Frau Adamczyk hatte den Kaktus umgestellt.
+Ich ging nicht sofort zu ihr. Ich ging erst ins Jugendamt.
 
-Sie sah mich, dann Marlene, dann Emil, und dann sagte sie das Netteste,
-was ich je von einer Behörde gehört habe:
+Vorher habe ich zwei Tage lang etwas gemacht, das ich noch nie gemacht
+habe: Ich habe gelesen, ohne dass jemand es von mir verlangt hat.
 
-„Ah. Sie haben also vorher geredet.“
+Nicht Gesetze — die kann Niklas. Ich habe gelesen, wie das ist, wenn ein
+Vater spät dazukommt. Es gibt darüber erstaunlich wenig, und das meiste
+davon ist entweder Werbung für einen Anwalt oder ein Forum, in dem
+Menschen sehr wütend sind.
 
-Es dauerte, wie angekündigt, eine Viertelstunde.
+Ein Satz ist hängen geblieben, aus einem Text, den eine Erzieherin
+geschrieben hat: *Das Kind hat nicht auf Sie gewartet. Es hat auf
+niemanden gewartet. Es hatte alles, was es brauchte, und Sie kommen jetzt
+dazu — das ist ein Geschenk und keine Rettung.*
 
-Sie las mir vor, dass die Anerkennung der Vaterschaft nicht
-widerrufbar ist. Sie las Marlene vor, dass die Zustimmung dasselbe
-bedeutet. Sie fragte uns beide, ob wir das freiwillig tun, und sie sah
-dabei nicht auf das Papier, sondern in unsere Gesichter, und ich
-verstand, dass diese Frage der eigentliche Vorgang ist und alles andere
-Formular.
+Ich habe den Satz zweimal gelesen und mich geärgert und dann gemerkt,
+dass ich mich ärgere, weil er stimmt.
 
-„Freiwillig“, sagte Marlene.
+Das klingt nach dem nächsten Fehler, und ich verstehe, wenn Sie das
+denken. Aber ich wollte einmal in meinem Leben in ein Gespräch gehen,
+in dem ich nicht derjenige bin, der die Regeln erklärt.
 
-„Freiwillig“, sagte ich.
+Abteilung Beistandschaften, Hamburg-Mitte, zweiter Stock, ein Gang mit
+Kinderzeichnungen an der Wand und einem Getränkeautomaten, der
+zweiundzwanzig Cent Rückgeld schuldig blieb.
 
-Dann die Sorgeerklärung, dieselbe Prozedur, dasselbe Zimmer, zwei
-Unterschriften.
+Die Sachbearbeiterin hieß Frau Adamczyk und hatte drei Aktenstapel und
+einen Kaktus.
 
-Emil aß in der Zwischenzeit die Ecke des Merkblattes.
-
-„Das machen sie alle“, sagte Frau Adamczyk. „Wir haben es aufgegeben.“
-
----
-
-Ich bekam eine beglaubigte Abschrift, geheftet, mit einem Siegel.
-
-Draußen auf dem Gang blieb ich stehen und las sie.
-
-Da stand mein Name. Darunter stand: *Vater*.
-
-Ich habe zwölf Jahre lang Urkunden unterschrieben. Kaufverträge über
-Beträge, für die man in dieser Stadt eine Straße bekommt. Grundschulden,
-Bürgschaften, einen Gesellschafterbeschluss, mit dem ich mit
-zweiundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
-außer mir kein Mensch unter fünfzig saß.
-
-Ich habe bei keiner davon zittrige Hände gehabt.
-
-„Alles gut?“, sagte Marlene.
+„Sie sind der Vater.“
 
 „Ja.“
 
-„Du hast das Blatt jetzt viermal gelesen.“
+„Sind Sie verheiratet mit der Mutter?“
 
-„Ich weiß.“
+„Nein.“
 
----
+„Dann sind Sie erst mal gar nichts.“ Sie sagte es ohne jede Schärfe, so
+wie man sagt, dass draußen Regen ist. „Das Sorgerecht liegt bei der
+Mutter. Sie können die Vaterschaft anerkennen — hier bei uns, kostenlos,
+das beurkunde ich Ihnen. Dauert eine Viertelstunde.“
 
-Wir gingen danach zu einem Imbiss am Klosterwall, weil Marlene sagte,
-sie habe Hunger, und weil ich zu blöd war zu verstehen, dass das ein
-Vorschlag zum Feiern war.
+„Und was brauche ich dafür?“
 
-Pommes. Auf einem Stehtisch. Emil bekam vier Stück und hielt jedes
-einzelne vorher hoch, damit es jemand ansieht.
+„Ihren Ausweis.“
 
-„Was soll er eigentlich zu dir sagen?“, fragte sie.
+Ich wartete.
 
-„Ich weiß nicht. Was sagt man?“
+„Und?“
 
-„Die meisten sagen Papa.“
+„Und die Mutter“, sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
+Zustimmung ist die Anerkennung unwirksam. Beim gemeinsamen Sorgerecht
+genauso — das geht nur, wenn beide es erklären.“
 
-Ich sah auf die Pommes.
+„Und wenn sie nicht will?“
 
-„Ich habe zu meinem *Vater* gesagt“, sagte ich. „Immer. Alle vier. Ich
-habe das Wort Papa in meinem Elternhaus nie gehört.“
+Sie legte den Kugelschreiber hin.
 
-Marlene sagte nichts, aber sie legte kurz ihre Hand auf meine, mit
-Mayonnaise am Daumen, und das war der schönste Moment dieses Jahres,
-und ich schreibe das in vollem Wissen darüber, was elf Tage später
-passiert ist.
+„Herr Reinhardt, das ist die Frage, die hier jeden Tag zwanzigmal
+gestellt wird, und ich beantworte sie jeden Tag zwanzigmal gleich: Dann
+haben Sie kein rechtliches Problem. Dann haben Sie ein Problem mit der
+Mutter.“ Sie schob mir ein Merkblatt hin. „Und das löst kein Amt.“
 
-„Papa geht“, sagte ich.
+Ich sah auf das Merkblatt. Vier Seiten, geheftet, in einer Schrift, die
+seit den Neunzigern nicht gewechselt wurde.
 
----
+„Darf ich Sie etwas fragen?“
 
-Um vier war ich im Büro.
+„Bitte.“
 
-Frau Kuhlmann hatte den Vermerk auf den Schreibtisch gelegt, in der
-Mitte, wie sie es tut, wenn sie will, dass ich es sofort sehe. Sie
-führte ihn seit dem zweiten Dezember; das war die dritte Fassung, und es
-war die erste, in der etwas stand.
+„Was machen die Leute falsch, die hier scheitern?“
 
-Ich las ihn im Stehen, mit dem Mantel noch an.
+Frau Adamczyk sah mich zum ersten Mal richtig an.
 
-**Kehrwieder 12, Voss.** Hanseatische Volksbank. Betriebsmitteldarlehen
-und Objektfinanzierung, Restvaluta zusammen 214.600 €, besichert durch
-eine Grundschuld über 260.000 € nebst Unterwerfung unter die sofortige
-Zwangsvollstreckung.
-
-Kündigung ausgesprochen am 3. Dezember, wirksam.
-
-Zahlungsfrist bis 15. Januar.
-
-Danach: Verwertung.
-
-Und darunter, in dem trockenen Ton, in dem meine Assistentin seit
-neunzehn Jahren die interessanten Dinge nach hinten stellt:
-
-*Die Bank bereinigt zum Jahresende ihr Portfolio. Die Forderung ist Teil
-eines Pakets, das über einen Makler angeboten wird. Auf Nachfrage:
-Einzelabtretung ist möglich. Ansprechpartner und Konditionen anbei.*
+„Sie kommen zu mir, bevor sie mit ihr geredet haben“, sagte sie.
 
 ---
 
-Ich saß eine Stunde da.
+Am Dienstag um elf stand ich im Café.
 
-Ich möchte an dieser Stelle etwas festhalten, damit später niemand
-sagen kann, ich hätte es nicht gewusst.
+Es war voll. Es ist dienstags um elf immer voll, das weiß ich inzwischen.
+Sie war allein hinter der Theke, und Frau Kettler war oben bei Emil, und
+an Tisch vier saßen vier Frauen mit einem Kinderwagen quer im Gang.
 
-Ich wusste es.
+Ich stellte mich in die Schlange.
 
-Ich wusste, dass es zwei Wege gibt und dass sie sich in genau einem
-Punkt unterscheiden, nämlich darin, ob sie es vorher weiß.
+Als ich dran war, sagte ich: „Ich habe zwei Stunden.“
 
-Weg eins: Ich fahre heute Abend zum Kehrwieder, lege den Vermerk auf den
-Tisch — nein. Ich lege gar nichts auf den Tisch. Ich sage: *Deine Bank
-verkauft deinen Kredit. Ich kann ihn kaufen. Willst du das?* Und dann
-sagt sie ja oder nein, und beides ist ihre Entscheidung, und beides kann
-ich aushalten.
+Sie sah mich an. Sehr lange, für eine Schlange von sechs Leuten.
 
-Weg zwei: Ich kaufe ihn.
-
-Weg eins hatte einen Fehler, und der Fehler war echt: Wenn sie nein
-sagt, ist am fünfzehnten Januar das Haus weg. Nicht an mich. An
-irgendjemanden. An einen Investor, der aus einem Kontorhaus in der
-Speicherstadt in vierzehn Monaten sechs Ferienwohnungen macht und dem
-egal ist, dass im Erdgeschoss seit sechzig Jahren eine Konditorei ist.
-
-Ich habe an diesem Nachmittag ungefähr zwanzigmal gedacht: *Sie soll
-nicht wählen müssen zwischen ihrem Stolz und ihrem Haus.*
-
-Das ist ein schöner Satz. Er hat nur einen Haken.
-
-Er heißt übersetzt: *Ich traue ihr die Entscheidung nicht zu.*
+„Schürze hängt an der Tür“, sagte sie.
 
 ---
 
-Um Viertel nach fünf rief Wendland an, was er nie tut.
+Ich habe an diesem Dienstag von elf bis eins Tische abgewischt.
 
-„Reinhardt. Der Fünfzehnte war vor vier Wochen.“
+Ich habe nichts zerbrochen. Das war der einzige messbare Fortschritt.
 
-„Ich weiß.“
+Um kurz vor eins, als es leerer wurde, ging ich hinter die Theke, wo der
+Mülleimer steht, und holte ein Blatt Papier aus der Innentasche und riss
+es in vier Teile und warf es weg.
 
-„Ich habe gehört, die Volksbank räumt auf.“ Ein Geräusch, als würde er
-etwas zur Seite schieben. „Ich sage das jetzt einmal und dann nie
-wieder: Wenn dieses Paket auf den Markt geht und wir es nicht nehmen,
-nimmt es Kellermann. Und dann steht in zwei Jahren neben Ihrem Hof ein
-Betreiber, den Sie sich nicht ausgesucht haben.“
+Sie sah zu.
 
-„Das ist mir bewusst.“
+„Das war das Laborblatt“, sagte ich.
 
-„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?“
+„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast.“ Sie
+nahm mir das Tuch aus der Hand. „Das war eine Geste.“
 
-Ich sah aus dem Fenster auf den Hafen, auf dem seit halb fünf nichts
-mehr zu sehen war außer Kranlichtern.
+„Ja.“
 
-„Beides“, sagte ich.
+„Ich mag Gesten nicht besonders.“
 
-„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter“,
-sagte Wendland und legte auf, und das war das erste Mal in neunzehn
-Jahren, dass dieser Mann etwas über mein Privatleben gesagt hat.
+„Ich weiß nicht, was ich sonst machen soll.“
+
+Und dann sagte Marlene Voss den Satz, für den ich sie vermutlich
+geheiratet hätte, wenn wir zwei völlig andere Menschen mit einer völlig
+anderen Vorgeschichte gewesen wären:
+
+„Komm nächsten Dienstag wieder.“
 
 ---
 
-Ich rief den Makler an.
+Ich kam nächsten Dienstag wieder. Und den Dienstag darauf.
 
-Ich habe an diesem Abend nichts zugesagt. Ich habe nur zwei Dinge
-gefragt: was die Einzelabtretung kostet, und bis wann ich zusagen kann.
+Ich lernte, dass man Tassen nicht stapelt, wenn sie noch heiß sind, weil
+sie dann festsaugen. Ich lernte, dass der Mann mit dem Hund um zehn nach
+neun kommt und immer dasselbe will und trotzdem jedes Mal die Karte
+liest. Ich lernte, dass Frau Kettler mich duldet und dass Dulden bei ihr
+eine hohe Auszeichnung ist.
 
-Die Antworten waren: einhundertsechsundachtzigtausend.
+Emil kletterte auf mich, wenn ich mich hinsetzte. Nicht *zu* mir. *Auf*
+mich, wie auf einen Gegenstand, was, glaube ich, die höchste Form von
+Vertrauen ist, die ein achtzehn Monate alter Mensch vergeben kann.
 
-Und: bis zum zweiundzwanzigsten Dezember, achtzehn Uhr.
+Von der Mappe sprachen wir nicht.
 
-Danach fuhr ich nach Hause und legte die beglaubigte Abschrift aus dem
-Jugendamt auf den Küchentisch, gegen die Obstschale gelehnt, damit ich
-sie beim Frühstück sehe.
+Ich dachte, das heißt, dass sie erledigt ist.
 
-*Vater.*
+---
 
-Ich habe in dieser Woche jeden Morgen darauf gesehen und keinen
-einzigen Morgen daran gedacht, sie zu fragen.
+Am ersten Dezember, einem Montag, saß ich um sieben Uhr abends im Büro
+und ging die Kontorhaus-Kalkulation durch, und dabei fiel mein Blick auf
+eine Zeile, die seit August in jeder Version stand:
+
+*Kehrwieder 12 — Erwerb, nicht realisiert. Risiko: Finanzierung
+Eigentümerin.*
+
+Wendland hatte im Beirat gesagt: *Dann warten Sie sechs Wochen.*
+
+Das war am fünfzehnten November gewesen. Sechs Wochen von da aus: der
+siebenundzwanzigste Dezember.
+
+Ich saß in einem leeren Büro und rechnete Tage aus, und dann tat ich das
+Ding, für das ich mich am Ende dieses Jahres am meisten schämen werde,
+und ich tat es, ohne dass mir das Herz dabei schneller schlug.
+
+Ich rief Frau Kuhlmann.
+
+„Sie sind noch da?“
+
+„Sie auch“, sagte meine Assistentin.
+
+„Können Sie morgen etwas für mich herausfinden? Kehrwieder 12. Wer
+finanziert, wie hoch die Valuta ist, ob die Kündigung ausgesprochen
+wurde und ob ein Verwertungsverfahren läuft.“
+
+Sie notierte es.
+
+„Soll ich mit jemandem sprechen?“
+
+„Nur zuhören.“ Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
+Kuhlmann. Ich will es nur wissen.“
+
+Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.
