@@ -1,8 +1,8 @@
 # www.Homeeins.de
 
 - Quelle: https://www.homeeins.de/
-- Abgerufen: 2026-08-10 19:33 UTC
-- Sprache laut HTML: de · gemessen: Deutsch (de 88 / en 0)
+- Abgerufen: 2026-08-15 15:13 UTC
+- Sprache laut HTML: de · gemessen: Deutsch (de 64 / en 0)
 - Extraktion: trafilatura
 - Zeichen: 897
 - Verfügbarkeit: 2 JSON-LD-Blöcke (Organization, SearchAction, WebSite), aber keine Angebotsdaten
