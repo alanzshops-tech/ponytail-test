@@ -1,225 +1,202 @@
 # Kapitel 18 — Jonas
 
-Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
-macht, wenn man nicht weiß, wie man es macht.
+Ich habe meiner Mutter am Samstag gesagt, dass sie einen Enkel hat.
 
-Ich war in einer Sitzung über Rothenburgsort und habe hinterher gefragt,
-was beschlossen wurde. Ich habe am Donnerstagabend in einem Laden am
-Neuen Wall gestanden, zwischen Holzeisenbahnen und Stapelbechern, und
-bin nach zwanzig Minuten ohne etwas wieder rausgegangen, weil ich nicht
-wusste, was ein Kind mit achtzehn Monaten kann.
+Nicht am Telefon. Ich bin hingefahren, an einem Samstagvormittag im
+November, und habe vor ihrer Tür gestanden und zum ersten Mal seit
+zwanzig Jahren nicht gewusst, wie ich anfangen soll.
 
-Ich habe es nachgelesen. Nachts, im Bett, auf einer Seite für Eltern.
-Achtzehn Monate: fünfzig Wörter, Treppen im Nachstellschritt, Trotz
-beginnt. Ich habe zwanzig Minuten über eine Tabelle gelesen und mich
-dabei gefühlt wie jemand, der für eine Prüfung lernt, die vor anderthalb
-Jahren stattgefunden hat.
-
----
-
-Niklas kam am Freitagabend in mein Büro, ohne anzuklopfen, mit einer
-Flasche Bier in jeder Hand, was bei ihm bedeutet, dass er die Sache ernst
-nimmt.
-
-Er ist neunundzwanzig und der einzige von uns vieren, der aussieht wie
-unsere Mutter. Er stellte eine Flasche vor mich hin, setzte sich auf die
-Kante des Besprechungstisches und sagte:
-
-„Sag es noch mal. Am Telefon klang es nach einem Scherz, und du machst
-keine.“
-
-„Ich habe einen Sohn.“
-
-„Wie alt?“
-
-„Achtzehn Monate.“
-
-Er nickte langsam, trank, sah aus dem Fenster auf den Hafen.
-
-„Travemünde“, sagte er.
-
-Ich sah ihn an.
-
-„Du warst danach vier Wochen komisch“, sagte mein Bruder. „Theo hat es
-für die Bilanz gehalten. Ich nicht.“
-
----
-
-Er hatte eine Mappe dabei. Natürlich hatte er eine Mappe dabei.
-
-„Das Gute zuerst“, sagte er und legte sie auf den Tisch. „Rechtlich ist
-das nicht kompliziert. Ihr seid nicht verheiratet, also ist die Mutter
-allein sorgeberechtigt. Du bist juristisch niemand. Kein Vater, kein
-Verwandter, nichts. Auf dem Papier existiert deine Verbindung zu diesem
-Kind nicht.“
-
-„Das ist das Gute?“
-
-„Das Gute ist, wie einfach es geht.“ Er zog ein Blatt heraus. „Vaterschaft
-anerkennen. Beim Jugendamt, beim Standesamt oder beim Notar. Kostet beim
-Jugendamt nichts, dauert zwanzig Minuten. Einzige Bedingung: Sie muss
-zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam.“
-
-„Und der Test?“
-
-Niklas sah hoch. „Welcher Test?“
-
-„Ein Vaterschaftstest.“
-
-„Wozu?“
-
-„Damit es feststeht.“
-
-Mein Bruder stellte die Flasche ab.
-
-„Jonas. Zweifelst du?“
+Sie machte auf, sah mich an und sagte: „Du hast nicht angerufen.“
 
 „Nein.“
 
-„Dann brauchst du keinen Test.“ Er sagte es freundlich, und genau das war
-das Unangenehme daran. „Ein Test ist für Fälle, in denen jemand
-bestreitet. Bestreitet hier jemand?“
+„Dann komm rein.“
+
+---
+
+Wir saßen in ihrem Wohnzimmer, sie in dem Sessel, aus dem man allein
+aufstehen kann, ich auf dem Sofa, das zu tief ist.
+
+Ich hatte mir drei Sätze zurechtgelegt. Das ist ein Muster bei mir,
+inzwischen weiß ich das.
+
+Ich sagte: „Der Junge im Café. Emil.“
+
+Und meine Mutter sagte, ohne eine Sekunde zu warten:
+
+„Ja.“
+
+Ich sah sie an.
+
+„Was heißt ja?“
+
+„Es heißt ja, Jonas.“ Sie legte die Hände in den Schoß, die rechte über
+die linke, wie immer. „Ich habe ihn im November gesehen. Vier Wochen
+ist das her.“
+
+„Und du hast nichts gesagt?“
+
+„Was hätte ich sagen sollen?“ Sie sah mich an. „Dein Sohn sieht aus wie
+du, als du zwei warst? Das ist keine Auskunft, das ist eine Vermutung.
+Und Vermutungen über andere Leute sagt man nicht laut, das habe ich
+achtundzwanzig Jahre lang so gehalten.“
+
+„Mama.“
+
+„Er hat deine Stirn“, sagte sie. „Und er hält Sachen hin, damit man sie
+nimmt. Das hast du auch gemacht. Bis du ungefähr vier warst, dann hat
+es aufgehört.“
+
+Ich saß auf diesem zu tiefen Sofa und wusste nicht, wohin mit den
+Händen.
+
+„Warum hat es aufgehört?“, fragte ich.
+
+Meine Mutter sah aus dem Fenster.
+
+„Weil dein Vater es nicht genommen hat“, sagte sie. „Nicht aus
+Bosheit. Er hat es nicht gesehen. Er hat abends um acht am Tisch
+gesessen und gerechnet, und du bist mit irgendetwas gekommen, und er
+hat gesagt: gleich, Junge. Und irgendwann bist du nicht mehr
+gekommen.“
+
+Sie sagte das ohne Vorwurf, so wie sie alles sagt, seit sie im
+Krankenhaus lag.
+
+„Ich habe das damals für Erziehung gehalten“, sagte sie. „Ich habe
+gedacht, so werden Jungen selbstständig.“
+
+---
+
+Ich blieb bis zwei.
+
+Sie hat gefragt, wie alt er ist, wann er Geburtstag hat, ob er schläft,
+was er isst. Sie hat gefragt, ob er Karotten mag, und ich habe gesagt,
+er verweigert sie seit Mittwoch, und sie hat gesagt, das sei bei mir
+genauso gewesen, nur mit Kohlrabi.
+
+Dann hat sie gefragt, was ich jetzt vorhabe.
+
+„Ich lasse etwas aufsetzen“, sagte ich. „Damit er abgesichert ist. Er
+steht heute nirgends.“
+
+Meine Mutter sagte lange nichts.
+
+„Jonas“, sagte sie dann. „Weißt du, was das Erste war, das dein Vater
+getan hat, als du geboren wurdest?“
 
 „Nein.“
 
-„Also.“
+„Er hat eine Lebensversicherung abgeschlossen. Am dritten Tag. Er ist
+aus dem Krankenhaus direkt zur Sparkasse.“ Sie sah mich an. „Das war
+richtig. Ich habe später davon gelebt.“
 
-Ich stand auf und ging zum Fenster, weil ich das immer mache, wenn ich
-gleich etwas sage, das ich vorher nicht geprüft habe.
+„Und?“
 
-„Ich möchte trotzdem eins haben, das man vorlegen kann.“
-
-„Wem vorlegen?“
-
-Darauf hatte ich keine Antwort, die gut geklungen hätte. Dem Beirat, der
-irgendwann fragen wird, warum in meinem Testament ein Name steht, den
-niemand kennt. Der Bank. Den Brüdern. Einem Gericht in fünf Jahren, falls
-etwas passiert, was ich mir nicht ausmalen wollte und trotzdem ausgemalt
-hatte, um zwei Uhr nachts, in einer Reihenfolge, die ich niemandem
-erzählt habe.
-
-„Der Ordnung halber“, sagte ich.
-
-„Der Ordnung halber“, wiederholte Niklas.
+„Und ich habe ihn in dieser Woche kein einziges Mal weinen sehen.“
 
 ---
 
-Er blätterte weiter, und mit jedem Blatt wurde es sachlicher, und mit
-jedem Blatt fühlte ich mich besser, und ich hätte an dieser Stelle merken
-müssen, was das über mich sagt.
+Am Sonntag rief ich Theo an.
 
-Unterhalt: Düsseldorfer Tabelle, oberste Einkommensgruppe, dazu ein
-freiwilliger Aufstockungsbetrag, den er für „darstellbar“ hielt.
+„Ich muss dir was sagen“, sagte ich.
 
-Sorgerecht: gemeinsame Sorgeerklärung, ebenfalls beim Jugendamt,
-ebenfalls nur mit ihrer Zustimmung.
+„Ich weiß.“
 
-Umgang: ein Vorschlag mit Wochentagen. Er hatte Wochentage
-hingeschrieben. Dienstag, Donnerstag, jedes zweite Wochenende.
+„Du weißt es nicht.“
 
-Erbfolge: ein Vermerk, dass mein Testament geändert werden muss, weil
-darin drei Brüder stehen und kein Kind.
+„Jonas.“ Ich hörte, dass er draußen war; im Hintergrund fuhr etwas
+vorbei. „Du hast vor drei Wochen vor sieben Leuten gesagt, dass du eine
+Eigentümerin persönlich kennst. Ich habe dich seit September dreimal
+die Woche an einem Fenstertisch sitzen sehen. Ich bin Architekt, kein
+Idiot.“
 
-Und ganz hinten, weil mein Bruder gründlich ist, ein Blatt zu dem, was er
-„Interessenkonflikt“ nannte: Die Kindesmutter ist Eigentümerin eines
-Objekts, das die Firma erwerben wollte. Empfehlung, das offenzulegen.
+„Es ist mehr als das.“
 
-„Das habe ich schon“, sagte ich.
+Er war einen Moment still.
 
-„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt.“ Er
-zuckte mit den Schultern. „Das ist Hamburg.“
+„Wie viel mehr?“
 
----
+„Er ist eineinhalb“, sagte ich. „Er heißt Emil.“
 
-Ich packte die Blätter zusammen, und dabei sagte Niklas den Satz, wegen
-dem ich diesen Abend nie vergessen werde.
+Das Geräusch im Hintergrund hörte auf. Ich glaube, mein Bruder ist
+stehen geblieben.
 
-„Willst du wissen, was ich denke, oder willst du, dass ich das nur
-aufsetze?“
+„Okay“, sagte er.
 
-„Sag es.“
+„Sag was.“
 
-„Du hast gestern erfahren, dass du ein Kind hast.“ Er klopfte mit dem
-Finger auf die Mappe. „Und heute Abend liegt hier ein Aktenordner. Das
-ist schnell, Jonas. Das ist so schnell, dass es keine Reaktion mehr ist.
-Das ist eine Flucht.“
+„Ich denke nach.“ Eine Pause. „Jonas, ich sage jetzt etwas, und du wirst
+es falsch verstehen, und ich sage es trotzdem: Ich bin froh.“
 
-„Ich sichere ihn ab.“
+„Worüber?“
 
-„Du sicherst *dich* ab.“ Er stand auf. „Absichern heißt: Wenn es schief
-geht, habe ich alles richtig gemacht. Das ist ein Satz für
-Aufsichtsräte. Für ein Kind ist das kein Satz.“
-
-„Was soll ich denn machen? Nichts?“
-
-„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben.“
-
-Ich lachte, und es klang nicht gut. „Zwei Wochen lang steht mein Sohn
-nirgends.“
-
-„Er steht seit achtzehn Monaten nirgends“, sagte Niklas, „und er hat es
-überlebt, weil eine Frau ihn getragen hat, die du bis vorgestern nicht
-gefragt hast.“
-
-Es war das Härteste, was mein Bruder je zu mir gesagt hat.
-
-Er merkte es selbst. Er blieb an der Tür stehen.
-
-„Entschuldige.“
-
-„Nein“, sagte ich. „Schon gut.“
-
-„Ich mach dir das alles fertig“, sagte er. „Bis Montag. Ich sag nur:
-Wenn du ihr diese Mappe hinlegst, dann liest sie darin etwas anderes,
-als du hineingeschrieben hast.“
-
-„Was denn?“
-
-Niklas machte die Tür auf.
-
-„Frag mich das noch mal, wenn du es weißt.“
+„Dass dir mal etwas passiert, das nicht in deinem Kalender stand.“
 
 ---
 
-Am Montag um sechs stand die Mappe auf meinem Schreibtisch, blau, mit
-einem Etikett, auf das jemand aus dem Sekretariat getippt hatte:
+Am Montag war ich um sieben im Büro, und um Viertel nach sieben stand
+ich wieder vor der Tür und wusste nicht, warum ich hier bin.
 
-**REINHARDT / VOSS — PERSÖNLICH**
+Ich habe an diesem Tag drei Sitzungen gehabt und in allen dreien
+funktioniert. Das ist das Merkwürdige: Es hat nichts aufgehört. Der
+Aufzug in Barmbek, die Fundamentplatte in Rothenburgsort, die elf
+Wohnungen — es lief alles weiter, und ich lief mit.
 
-Ich sah dieses Etikett ungefähr eine Minute lang an.
+Um halb sechs habe ich Frau Kuhlmann gebeten, mir die nächsten vier
+Donnerstage ab siebzehn Uhr freizuhalten.
 
-Voss. Nicht Marlene. Nicht Leni, wie Frau Kettler sie nennt und wie ich
-sie noch nie genannt habe, weil ich das Recht dazu nicht hatte.
+Sie hat es eingetragen und gefragt: „Als was soll ich es benennen?“
 
-*Reinhardt / Voss.* Zwei Parteien.
+Ich habe eine Weile gebraucht.
 
-Ich hätte das Etikett abziehen können. Es klebte nicht besonders fest.
+„Privat“, sagte ich.
 
-Ich habe darüber später sehr oft nachgedacht — über diese eine Minute, in
-der alles noch zu machen gewesen wäre, mit einem Fingernagel.
+Es steht seitdem so in meinem Kalender, jeden Donnerstag, und ich habe
+in den ersten Wochen jedes Mal hingesehen, wenn ich den Kalender
+aufgemacht habe.
 
 ---
 
-Ich fuhr um halb sieben zum Kehrwieder.
+Am Mittwoch habe ich einen Fehler gemacht, der klein aussieht.
 
-Es war der erste richtig kalte Abend, der Fleet dampfte, und durch die
-Fenster sah ich Emil, der auf dem Tresen saß, während sie mit einer Hand
-die Kasse abrechnete und mit der anderen sein Bein festhielt, damit er
-nicht runterfällt.
+Ich war um sechs am Kehrwieder, und Emil saß im Hochstuhl, und Marlene
+war im Backraum. Er hatte einen Becher, und der Becher fiel runter, und
+ich habe ihn aufgehoben.
 
-Sie sah mich und lächelte, und das war ein Lächeln, das ich vorher nicht
-gekannt hatte, weil es keins für einen Kunden war.
+Beim vierten Mal habe ich ihn nicht mehr aufgehoben.
 
-Ich ging hinein. Es roch nach Butter und nassem Stein.
+Ich habe gedacht: Er lernt sonst, dass ich das immer mache.
 
-„Du bist früh“, sagte sie.
+Er hat mich angesehen, ungefähr drei Sekunden lang, und dann hat er
+sich weggedreht und mit dem Löffel weitergemacht.
 
-„Ich habe etwas mitgebracht.“
+Ich habe an diesem Abend im Auto gesessen und mir das ungefähr
+zwanzigmal angesehen, und beim einundzwanzigsten Mal habe ich den Satz
+meiner Mutter gehört.
 
-Und dann legte ich, in demselben Café, an demselben Fenstertisch, mit
-derselben Handbewegung, mit der ich im Oktober die Anruferliste
-hingelegt hatte, eine blaue Mappe vor sie hin.
+*Und irgendwann bist du nicht mehr gekommen.*
 
-Auf dem Etikett stand **REINHARDT / VOSS**.
+Ich bin am Donnerstag zurückgefahren und habe den Becher
+achtundzwanzigmal aufgehoben. Ich habe mitgezählt.
 
-Ich hatte es nicht abgezogen.
+Beim neunundzwanzigsten Mal hat er aufgehört und gelacht.
+
+---
+
+Am Freitag saß ich abends allein in meiner Wohnung und habe etwas
+getan, das ich seit Jahren nicht getan habe: Ich habe eine Liste
+gemacht, die nichts mit der Firma zu tun hat.
+
+Sie hatte zwei Überschriften.
+
+**Was er braucht:**
+Da stand am Ende: nichts, was ich kaufen kann.
+
+**Was ich brauche:**
+Da stand nichts. Ich habe zwanzig Minuten davorgesessen, und da stand
+nichts.
+
+Ich habe das Blatt weggeworfen und die zweite Hälfte dieser Frage erst
+im Februar beantworten können, auf einem Stuhl von einunddreißig
+Zentimetern.

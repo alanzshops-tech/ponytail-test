@@ -1,161 +1,186 @@
 # Kapitel 43 — Leni
 
-Der März war der Monat, in dem alles gleichzeitig funktionierte, und
-genau deshalb war er schwer.
+Die Woche vor dem zwanzigsten Januar war die erste seit sechs Jahren,
+in der ich nichts tun konnte.
 
-Das klingt undankbar. Ich versuche es zu erklären.
+Das Gutachten lag da. Die Frist war verlängert. Der Termin stand. Es
+gab keinen Anruf, den ich hätte machen, keinen Antrag, den ich hätte
+stellen, keine Zahl, die ich hätte umstellen können.
 
-Seit dem siebenundzwanzigsten Januar habe ich keine Schulden. Seit dem
-achtzehnten Februar ist Emil vormittags in der Kita. Seit dem
-einundzwanzigsten läuft der neue Ofen, der links dieselbe Temperatur hat
-wie rechts, worüber ich in der ersten Woche zweimal geweint habe, und
-zwar beide Male aus dem falschen Grund.
+Ich habe in dieser Woche gebacken wie eine Verrückte.
 
-Zum ersten Mal seit sechs Jahren habe ich vormittags drei Stunden, in
-denen niemand etwas von mir will.
+Am Mittwoch standen achtzehn Zitronentarten in der Kühlung, und Frau
+Kettler hat sie gezählt und gesagt: „Wir verkaufen vier am Tag.“
 
-Ich habe in der ersten Woche nicht gewusst, was ich damit machen soll.
+„Ich weiß.“
 
----
+„Frau Voss.“
 
-Ich habe angefangen, die Bücher aufzuräumen.
+„Ich weiß, Frau Kettler.“
 
-Nicht die Buchhaltung — die macht Sievers. Die Bücher: das Kassenbuch
-meiner Großmutter, die Chronik im Flur, drei Kartons mit Rechnungen aus
-den Neunzigern, die im dritten Stock standen und die niemand je
-angesehen hat.
-
-In der zweiten Woche fand ich in einem dieser Kartons einen Umschlag mit
-Fotos von der Rösterei. 1968, glaube ich. Meine Großmutter steht neben
-einer Maschine, die höher ist als sie, und sieht in die Kamera, als
-hätte man sie bei etwas gestört.
-
-Auf der Rückseite steht in ihrer Handschrift: *Erste eigene Röstung.
-Hat nicht geschmeckt.*
-
-Ich habe das Foto in den Flur gehängt, neben die Chronik.
+Wir haben elf davon an die Kita Kirchenweg gegeben, wo sie für den
+Elternabend dankbar waren, und drei an den Copyshop, und Sanne hat
+gefragt, ob ich einen Zusammenbruch habe.
 
 ---
 
-Die Bohrpfähle kamen am zehnten März.
+Am dreizehnten war ich mit Emil zur Anmeldung in der Kita.
 
-Drei Tage, und ich habe zu, weil man in einem Café nicht sitzen kann, in
-dem der Boden schlägt. Reinhardt Immobilien hat den Ausfall ersetzt,
-ohne dass ich fragen musste, weil das in dem Vertrag von September
-steht, in einem Absatz, den Herr Sievers hineinverhandelt hat, als noch
-niemand ahnte, was daraus wird.
+Das hatte ich seit einem Jahr vor mir hergeschoben, mit der Begründung,
+dass ich es mir nicht leisten kann, was auch stimmte, und mit der
+zweiten Begründung, die ich mir nicht eingestanden habe.
 
-Ich habe Sievers deswegen angerufen und mich bedankt.
+Die zweite lautet: Solange er den ganzen Tag bei mir ist, bin ich die
+Einzige, die ihn kennt.
 
-Er hat gesagt: „Das war mein Job, Frau Voss.“ Und dann, nach einer
-Pause: „Ich hatte damals unrecht, übrigens. Mit dem Verkaufen.“
+Ich schreibe das hin, weil es hässlich ist und weil es wahr ist.
 
-„Sie hatten nicht unrecht. Es war der vernünftigere Rat.“
+Frau Özdemir hat uns durch die Räume geführt, und Emil ist sofort zu
+einer Kiste mit Bauklötzen gegangen und hat sich hingesetzt, ohne sich
+umzudrehen.
 
-„Ja“, sagte er. „Der vernünftigere.“
+„Er kennt das“, hat sie gesagt.
 
----
+„Er war noch nie hier.“
 
-Und jetzt der Teil, der schwer war.
+„Ich meine nicht den Raum. Ich meine: Er kennt es, dass Erwachsene ihn
+allein lassen und wiederkommen.“ Sie hat auf die Anmeldung gesehen.
+„Zwei Bezugspersonen im Haushalt?“
 
-Jonas kam in diesem Monat dienstags, donnerstags und freitags. Er hatte
-keinen Schlüssel, er hat jedes Mal geklingelt, und wir hatten eine
-Verabredung, die von mir kam und die albern klingt: einmal in der Woche,
-donnerstags, wenn Emil im Bett ist, sagt jeder von uns einen wahren
-Satz.
+Ich habe drei Sekunden gebraucht.
 
-Meiner am vierten Donnerstag war der schwerste.
+„Nicht im selben Haushalt“, habe ich gesagt. „Aber zwei.“
 
-„Ich bin nicht sicher, ob ich dich liebe oder ob ich erleichtert bin.“
-
-Er hat lange nichts gesagt. Dann: „Danke.“
-
-„Danke?“
-
-„Du hättest das nicht sagen müssen.“ Er drehte die Tasse. „Ich hätte es
-nicht gemerkt.“
-
-„Doch“, sagte ich. „Irgendwann schon.“
+Es war das erste Mal, dass ich es einer Behörde gesagt habe.
 
 ---
 
-Ich habe im März zum ersten Mal seit zwei Jahren wieder Angst gehabt,
-und diesmal war es eine andere.
+Am fünfzehnten war Kellermann in der Zeitung.
 
-Die alte Angst hatte einen Namen und einen Betrag: zweihundertvierzehn-
-tausendachthundert. Die neue hat keinen.
+Sanne hat mir den Artikel rübergebracht, weil sie ihn im Copyshop
+kopiert hatte, für einen Kunden, und dabei den Namen gesehen hat.
 
-Sie geht so: Alles, was uns bisher zusammengehalten hat, war ein
-Problem. Erst das Haus, dann Emil, dann die Bank. Wir haben nie eine
-Woche gehabt, in der es nichts zu regeln gab.
+Er hat in der Neustadt ein Haus aus einem Bankenpaket gekauft, und der
+Artikel nennt ihn jemanden, der Substanz erhält.
 
-Und jetzt gibt es nichts mehr zu regeln.
+Darunter ein Foto: derselbe Mann, der in meinem Café einen Milchkaffee
+getrunken und gewusst hat, dass Milchkaffee keinen Schaum hat.
 
-Ich habe das an einem Dienstagabend Frau Kettler gesagt, weil sie
-zufällig da war und weil man ihr Dinge sagt, ohne es vorzuhaben.
+Ich habe den Artikel gelesen und dabei gemerkt, dass mir das Herz
+schlägt, und ich habe eine Weile gebraucht, um zu verstehen, warum.
 
-Sie hat den Lappen ausgewrungen und gesagt: „Und?“
+Es war nicht Angst.
 
-„Was und?“
+Es war: *Ich hätte unterschreiben können.*
 
-„Dann finden Sie es jetzt raus.“ Sie hängte den Lappen über den Hahn.
-„Frau Voss, Sie reden, als wäre das ein Unglück. Die meisten Leute
-kommen nie in die Lage.“
+Am achten Januar, um halb elf, mit einem Notar, der samstags aufmacht.
+Zweihundertfünfundvierzigtausend. Kein Beirat, kein Gutachten, keine
+Frist, kein Warten.
 
----
+Ich habe nein gesagt, und ich stehe seitdem jeden Tag in einem Haus,
+das mir gehört, und weiß nicht, ob es mir in vier Wochen noch gehört.
 
-Am siebenundzwanzigsten März ist etwas passiert, das ich hier
-aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
-nicht das Abendessen im Mai.
-
-Es war ein Freitag. Jonas hatte Emil geholt, sie waren am Elbstrand,
-und ich hatte den Laden allein und war fertig um sechs.
-
-Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
-einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
-der Kasse.
-
-Er kann sie nicht aufziehen. Er ist einundzwanzig Monate alt und
-sechsundachtzig Zentimeter groß, und die Schublade ist auf einem Meter.
-
-Er stand davor und streckte den Arm hoch und sagte: „Da.“
-
-Ich habe die Schublade aufgezogen — sie geht seit Oktober leicht — und
-ihn hochgehoben, und er hat den Stein hineingelegt, zu dem anderen, dem
-vom November.
-
-Und dann hat er sie selbst zugeschoben, mit beiden Händen.
-
-Jonas stand in der Tür, in dem grünen Anorak aus dem Fundkorb, den er
-inzwischen behalten hat, und sah zu.
-
-„Wusstest du, dass er das weiß?“, fragte er.
-
-„Nein“, sagte ich.
-
-In dieser Schublade lagen: der Brief von der Bank vom vierten Dezember.
-Die blaue Mappe mit dem Etikett. Der Anspitzer. Der Zettel vom
-siebenundzwanzigsten Oktober, den ich nie weggeworfen habe. Zwei Steine.
-
-Es ist die Schublade, in der ich zwei Jahre lang alles aufbewahrt habe,
-was ich niemandem gezeigt habe.
-
-Und mein Sohn benutzt sie inzwischen für seine Steine.
+Ich habe an diesem Nachmittag zum ersten Mal ernsthaft gedacht, dass
+ich vielleicht einen Fehler gemacht habe.
 
 ---
 
-Ich habe an diesem Abend, nachdem sie beide weg waren — Emil oben,
-Jonas nach Hause —, die Schublade noch einmal aufgemacht und den Zettel
-herausgenommen.
+Ich habe Frau Kettler davon erzählt, weil sie danebenstand.
 
-*Emil ist deiner.*
+Sie hat den Artikel gelesen, langsam, mit dem Finger unter der Zeile.
 
-Vier Wörter, viermal umgeschrieben, hundertdreißig Tage lang nicht
-gesagt.
+Dann hat sie gesagt: „Und?“
 
-Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
-Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
+„Und vielleicht war es falsch.“
 
-Wenn Emil ihn irgendwann findet, ist er alt genug, um zu fragen.
+„Vielleicht.“ Sie hat die Zeitung zusammengefaltet. „Frau Voss, ich
+sage Ihnen jetzt was über Fehler. Ich habe 1989 den Laden meiner Eltern
+verkauft, an einen, der Substanz erhalten wollte. Wissen Sie, was heute
+da drin ist?“
 
-Und dann ist die Antwort ein Name und keine Lücke.
+„Nein.“
+
+„Ich auch nicht“, sagte sie. „Ich gehe da nicht mehr vorbei.“
+
+---
+
+Am siebzehnten hatte Jonas ihn, den ganzen Tag.
+
+Es war das dritte Mal seit dem dreiundzwanzigsten Dezember, und es lief
+inzwischen ohne Absprache: Er kommt um zehn, ich gebe die Tasche runter,
+er bringt ihn um sechs.
+
+Wir reden dabei über Emil. Nur über Emil. Das ist die Regel, die
+niemand ausgesprochen hat.
+
+An diesem Freitag hat er beim Zurückbringen erzählt, dass Emil vierzig
+Minuten vor einem Schlepper gestanden hat, und dass er auf die Uhr
+gesehen hat, weil er es nicht geglaubt hat.
+
+Ich habe gelacht.
+
+Und dann standen wir da, in der Durchfahrt, und ich habe gesehen, dass
+er etwas sagen will, und ich habe gesehen, wie er es nicht sagt.
+
+Ich habe auch nichts gesagt.
+
+Wir sind beide sehr gut darin.
+
+---
+
+Am Sonntag, dem neunzehnten, bin ich mit Emil zu meiner Mutter
+gefahren, nach Harburg, was ich zweimal im Jahr mache.
+
+Sie hat ihn genommen und auf den Arm und gesagt, er sei groß geworden,
+und dann hat sie ihn wieder abgesetzt und mich angesehen.
+
+„Und?“
+
+„Morgen ist die Sitzung.“
+
+„Und wenn sie nein sagen?“
+
+„Dann kaufe ich die Forderung nicht, und dann läuft die Frist, und dann
+kommt die Zwangsversteigerung.“ Ich habe die Tasse genommen. „Und dann
+kauft es jemand für zweihundertfünfzig, und der ist nicht Kellermann,
+sondern schlechter.“
+
+Meine Mutter hat lange nichts gesagt.
+
+Dann: „Weißt du, was ich nicht verstehe?“
+
+„Nein.“
+
+„Warum du das alles allein machst, obwohl da jemand ist.“
+
+Ich habe gesagt: „Weil er es sonst regelt.“
+
+Und meine Mutter — die Frau, von der ich den Satz habe, meine ganze
+Rüstung, *sie regeln erst alles, und dann sind sie weg* — hat mich
+angesehen und gesagt:
+
+„Marlene. Dein Vater hat alles geregelt und ist gegangen. Das heißt
+nicht, dass jeder, der etwas regelt, geht.“
+
+Ich habe die Tasse abgestellt.
+
+„Das ist genau dein Satz“, sagte ich. „Ich habe ihn von dir.“
+
+„Ich weiß“, sagte meine Mutter. „Ich habe ihn dir gegeben, als du neun
+warst, weil ich ihn selbst gebraucht habe. Er war nie für dich
+gedacht.“
+
+---
+
+Wir sind um sechs gefahren.
+
+Auf der Rückfahrt, auf der A7, hat Emil hinten geschlafen, und ich habe
+eine Stunde lang nachgedacht und bin zu einem Ergebnis gekommen, das
+ich am nächsten Tag nicht mehr hatte.
+
+Es lautete ungefähr: *Ruf ihn an. Heute Abend. Sag ihm irgendetwas.*
+
+Ich habe es nicht getan.
+
+Am Montag um achtzehn Uhr vierundvierzig kam eine Mail mit neun Seiten
+Anhang, und danach war die Reihenfolge wieder eine andere.

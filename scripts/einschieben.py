@@ -96,7 +96,9 @@ def main() -> None:
     # beim Umbenennen die noch nicht verschobene kapitel-10.md.
     for x in plan:
         zwischen = BUCH / f"_um_{x['neu_nr']:03d}.md"
-        neuer_kopf = re.sub(r"^#\s*Kapitel\s*\d+",
+        # Der Buchstabe muss mit weg: aus "# Kapitel 9a" wird sonst
+        # "# Kapitel 10a". Am 15.08.2026 in der Probe aufgefallen.
+        neuer_kopf = re.sub(r"^#\s*Kapitel\s*\d+[a-z]?",
                             f"# Kapitel {x['neu_nr']}",
                             x["text"], count=1)
         zwischen.write_text(neuer_kopf, encoding="utf-8")

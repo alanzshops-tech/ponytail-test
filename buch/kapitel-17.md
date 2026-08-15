@@ -1,204 +1,215 @@
 # Kapitel 17 — Leni
 
-Frau Kettler hat es an dem Morgen gewusst, an dem er zum ersten Mal um
-zwanzig vor sieben vor der Tür stand.
+Er stand um zwanzig vor sieben vor der Tür.
 
-Sie hat nichts gefragt. Sie ist gekommen, hat den Mantel aufgehängt, hat
-in die Küche gesehen, wo ein Mann in einem Anzug in der Hocke saß und
-ein Stück Banane in der Hand hielt, und hat gesagt: „Na also.“
+Ich weiß das so genau, weil ich um zwanzig vor sieben die Rollos
+hochziehe und weil er in dem Moment davorstand, in dem das Rollo
+hochging, sodass wir uns beide erschraken.
 
-Zwei Wörter. Neun Jahre Bekanntschaft.
+Er hatte keinen Mantel dabei. Es regnete. Er hatte nichts dabei
+überhaupt, keine Mappe, keine Tasche, nichts, und das war das Erste an
+diesem Morgen, das mir wehtat.
 
-Am Nachmittag, als er weg war, hat sie den Teig weggestellt und sich
-die Hände abgewischt und gesagt:
+Ich schloss auf.
 
-„Ich habe es im Oktober gewusst.“
+„Ich wusste nicht, was man mitbringt“, sagte er.
 
-„Ich weiß.“
+„Zu was?“
 
-„Ich habe es Ihnen auch gesagt.“
+„Das ist die Frage.“ Er blieb auf der Matte stehen und sah an sich
+herunter. „Ich habe eine Stunde im Auto gesessen und überlegt, ob es
+angemessen ist, um sieben zu klingeln. Dann ist mir eingefallen, dass ich
+nicht weiß, wann er aufwacht.“
 
-„Ich weiß, Frau Kettler.“
+„Halb sieben.“
 
-Sie hat genickt und ist an den Ofen gegangen, und ich dachte, das war
-es. Es war es nicht.
+„Halb sieben“, wiederholte er, so wie er am Abend zuvor *die vierte*
+wiederholt hatte.
 
-„Frau Voss.“ Sie drehte sich noch einmal um. „Ich bin froh. Ich sage
-das, weil ich nachher wieder etwas Unfreundliches sage, und dann
-sollen Sie wissen, dass beides gleichzeitig stimmt.“
+Ich habe später verstanden, dass er sich Dinge merkte. Nicht, weil er
+höflich ist. Sondern weil er einen Mann kannte, der nichts über seine
+Kinder wusste, und weil er beschlossen hatte, dieser Mann nicht zu sein,
+und weil er nicht wusste, wo man damit anfängt, also fing er bei den
+Uhrzeiten an.
 
 ---
 
-Meine Mutter habe ich am Sonntag angerufen.
+Emil saß im Hochstuhl und aß Banane, was bei ihm bedeutet: Er trug
+Banane.
 
-Das war schwerer als alles andere in dieser Woche, und ich habe zwei
-Stunden gebraucht, um es zu wählen.
+Jonas blieb in der Küchentür stehen.
 
-„Er weiß es“, sagte ich.
+Ich habe in meinem Leben zwei Menschen gesehen, die vor meinem Sohn
+Angst hatten. Der eine war ein Mann von der Versicherung. Der andere war
+sein Vater.
 
-Am anderen Ende war es lange still.
+„Er beißt nicht“, sagte ich.
 
-„Und?“
+„Das beruhigt mich nur bedingt.“
 
-„Er war heute Morgen hier.“
+Er ging in die Hocke, zwei Meter vom Hochstuhl entfernt, in einem Anzug,
+der so viel gekostet hat wie meine Kühltheke, und sagte nichts.
 
-„Was will er?“
+Emil sah ihn an. Diese ernste Musterung, die er bei Fremden macht.
 
-Das war ihre erste Frage. Nicht: wie geht es dir. Nicht: wie hat er
-reagiert.
+Dann streckte er den Arm aus, in der Faust ein Stück Banane, und sagte:
 
-*Was will er.*
+„Da.“
 
-„Ich glaube, er will seinen Sohn“, sagte ich.
+Jonas nahm es.
 
-„Das sagen sie alle am Anfang.“
+Er nahm ein zerdrücktes Stück Banane aus der Hand eines
+achtzehn Monate alten Kindes und hielt es fest, als wäre es ein Dokument,
+und dann sagte er, mit einer Stimme, die nicht ganz gerade war:
 
-„Mama.“
+„Danke.“
 
-„Ich sage nur, was ich weiß.“ Ein Räuspern. „Marlene, hör mir zu. Lass
-dir nichts unterschreiben. Nichts. Er hat Anwälte und du hast keinen.“
+„Er gibt einem Sachen“, sagte ich. „Steine, meistens. Man muss sie
+nehmen, sonst hält er den Arm ausgestreckt, bis der Arm wehtut.“
 
-„Er hat mir seinen Anwalt angeboten, und ich habe abgelehnt.“
+„Wie lange macht er das schon?“
 
-„Gut.“ Eine Pause. „Das ist gut.“
+„Seit dem Sommer.“
 
-Und dann, nach einer Weile, in einem anderen Ton:
+Er sah das Stück Banane in seiner Hand an.
 
-„Sieht er ihm ähnlich?“
+„Seit dem Sommer“, sagte er.
+
+---
+
+Wir frühstückten.
+
+Ich schreibe das Wort hin und merke, dass ich es in dieser Wohnung seit
+zwei Jahren nicht benutzt habe. Ich esse morgens im Stehen, mit dem
+Telefon in der anderen Hand, während Emil isst und ich zwischendurch
+aufwische.
+
+An diesem Morgen saß jemand da und aß mit.
+
+Das ist ein zu großes Wort für das, was in meiner Küche morgens
+passiert, aber es gab Kaffee, und Jonas saß auf dem Stuhl, auf dem
+sonst niemand sitzt, weil er wackelt, und ich sagte es ihm nicht, und er
+merkte es und verlagerte das Gewicht und sagte auch nichts.
+
+Emil warf einen Löffel auf den Boden.
+
+Jonas hob ihn auf.
+
+Emil warf ihn wieder runter.
+
+Jonas hob ihn wieder auf.
+
+Beim vierten Mal sah er mich an. „Ist das ein Spiel?“
+
+„Das ist ein Naturgesetz.“
+
+Und dann lachte er. Richtig, laut, mit dem Kopf im Nacken, so wie Leute
+lachen, die es lange nicht gemacht haben und dann feststellen, dass es
+noch geht.
+
+Emil erschrak und fing an zu weinen.
+
+„Oh Gott“, sagte Jonas. „Entschuldigung. Entschuldige. Ich —“
+
+„Es ist gut.“ Ich nahm Emil raus. „Er kennt das nicht. In diesem Haus
+lacht nachts niemand so.“
+
+Das war als Scherz gemeint und kam nicht so an, bei keinem von uns
+beiden.
+
+---
+
+Frau Kettler kam um Viertel nach acht und blieb in der Tür stehen, so
+wie sie im Oktober in der Tür stehen geblieben war.
+
+Sie sah Jonas an. Sie sah Emil an, der auf Jonas’ Knie saß, weil er
+irgendwann selbst hochgeklettert war, was ich nicht kommentiert habe,
+weil ich Angst hatte, dass es dann aufhört.
+
+„Na also“, sagte sie.
+
+Mehr nicht. Sie hängte ihren Mantel auf und ging in den Backraum und
+machte den Ofen an, und ich hörte, wie sie drinnen etwas vor sich hin
+sagte, das ich nicht verstand.
+
+Später, als er weg war, fragte ich sie danach.
+
+„Ich habe gesagt: *endlich*“, sagte sie. Sie legte die Teigkarte weg.
+„Und dann habe ich gedacht, dass es jetzt erst losgeht, und das habe ich
+lieber nicht laut gesagt.“
+
+„Was geht jetzt erst los?“
+
+Frau Kettler ist einundsechzig und hat drei eigene Kinder großgezogen
+und neun fremde, und sie sagte:
+
+„Er ist ein Mann, der Dinge in Ordnung bringt. Das haben Sie doch
+gesehen. Das Dach, die Anrufliste, der Beirat.“ Sie strich Mehl vom
+Tisch. „So einer sitzt nicht lange auf einem Küchenstuhl und lässt sich
+Bananen geben. Der steht irgendwann auf und fängt an zu regeln.“
+
+„Und das ist schlecht?“
+
+„Das ist nicht schlecht.“ Sie sah mich an. „Es fühlt sich nur von außen
+genauso an wie *wegnehmen*.“
+
+---
+
+Er blieb bis halb zehn. Er hätte um neun eine Sitzung gehabt; er hat sie
+vom Klo aus abgesagt, was ich weiß, weil man in diesem Haus alles hört.
+
+An der Tür zog er den Mantel an, den er nicht dabeigehabt hatte und den
+ich ihm aus dem Fundkorb gegeben hatte, weil es immer noch regnete. Ein
+grüner Anorak, Größe M, seit zwei Jahren nicht abgeholt.
+
+Er sah lächerlich aus. Er hat es nicht gemerkt.
+
+„Marlene“, sagte er.
 
 „Ja.“
 
-„Sehr?“
+„Ich möchte das richtig machen.“
 
-„Die Stirn“, sagte ich. „Und wie er Sachen ansieht, bevor er sie
-anfasst.“
+„Ich weiß.“
 
-Meine Mutter hat nichts mehr gesagt, und ich habe gehört, dass sie
-weint, und ich habe getan, als hätte ich es nicht gehört, weil sie das
-so wollte.
+„Nein.“ Er suchte nach Worten, und ich sah, wie er in den Modus rutschte,
+in dem er vermutlich in Besprechungen ist. „Ich meine: Es gibt Dinge, die
+müssen jetzt geregelt werden. Damit er abgesichert ist. Falls mir etwas
+passiert, steht er heute nirgends. Er hat keinen Anspruch auf
+irgendetwas. Das ist ein Zustand, den ich nicht eine Woche länger
+akzeptiere.“
 
----
+„Jonas —“
 
-In der Woche danach habe ich gelernt, wie sich etwas anfühlt, für das
-ich kein Wort habe.
+„Ich rufe Niklas an“, sagte er. „Mein Bruder. Der macht das Rechtliche
+für die Firma. Er setzt so etwas in zwei Tagen auf.“
 
-Er kam am Montag nicht, weil ich gesagt hatte, dass Montag schlecht ist.
-Er kam am Dienstag um sechs, mit nichts in der Hand, und blieb bis acht.
-Er kam am Mittwoch. Er kam am Donnerstag.
+Und da war es.
 
-Und jedes Mal, wenn er ging, habe ich hinter der Tür gestanden und
-gewartet, bis ich den Wagen nicht mehr hörte, und danach war die Wohnung
-still auf eine Art, die sie vorher nicht war.
+Es dauerte vom Fotoalbum bis zu diesem Satz genau elf Stunden.
 
-Man kann etwas achtzehn Monate lang allein machen und es nicht merken.
-Man merkt es in der Sekunde, in der jemand geht.
+Ich stand in meiner eigenen Tür, im Nachthemd unter der Strickjacke, mit
+Bananenresten auf der Schulter, und sah einem Mann in einem geliehenen
+Anorak dabei zu, wie er in dreißig Sekunden aus meinem Sohn einen
+Vorgang machte.
 
----
+Ich weiß, dass er es gut meinte. Ich wusste es schon in dieser Sekunde.
+Das ist ja das Ding: Ich wusste es die ganze Zeit.
 
-Es gab in dieser Woche zwei Dinge, die mir Angst gemacht haben, und ich
-schreibe beide auf, weil das eine harmlos aussieht und es nicht war.
+„Sag mal was“, sagte er.
 
-**Das erste** war der Becher.
+Ich sagte: „Fahr vorsichtig. Es ist glatt.“
 
-Emil wirft Sachen runter. Das ist keine Bosheit, das ist die Arbeit
-eines Einjährigen: Er prüft, ob die Welt jedes Mal gleich reagiert.
+Er küsste mich auf die Stirn — das erste Mal, dass er mich überhaupt so
+angefasst hat — und ging zum Wagen, und bevor er die Tür zumachte, hatte
+er schon das Telefon am Ohr.
 
-Am Mittwoch hat Jonas den Becher dreimal aufgehoben und beim vierten
-Mal nicht mehr.
+Ich sah ihm nach und dachte an das, was meine Mutter gesagt hat, als ich
+neun war und mein Vater das letzte Mal die Tür zumachte.
 
-Ich stand im Backraum und habe es durch die Tür gesehen und in diesem
-Moment gedacht: *Er hört auf.*
+*Sie regeln erst alles, und dann sind sie weg.*
 
-Nicht mit dem Becher. Überhaupt.
+Ich weiß, dass dieser Satz falsch ist. Ich weiß auch, dass er meiner
+Mutter gehört und nicht mir.
 
-Ich habe mich an den Türrahmen gelehnt und den ganzen Ablauf in vier
-Sekunden vor mir gehabt: Er kommt drei Monate, dann zwei Monate lang
-jeden zweiten, dann ruft er an, dass es diese Woche nicht geht, und
-dann ist er ein Mann, der Unterhalt zahlt und an Weihnachten anruft.
-
-Am Donnerstag hat er den Becher achtundzwanzigmal aufgehoben.
-
-Ich habe nicht mitgezählt. Ich habe gebacken und zugehört, und
-irgendwann hat Emil gelacht, und ich stand mit den Händen im Teig und
-war so erleichtert, dass mir schlecht wurde.
-
-**Das zweite** war der Satz von Frau Kettler, den sie angekündigt hatte.
-
-Er kam am Freitag.
-
-„Er wird jetzt anfangen, Dinge zu regeln“, sagte sie. „Und Sie werden
-das falsch finden, und Sie werden trotzdem nichts sagen, weil er recht
-hat.“
-
-„Woher wollen Sie das wissen?“
-
-„Weil ich einundsechzig bin.“ Sie stellte den Korb ab. „Frau Voss, wenn
-er anfängt, dann sagen Sie es ihm sofort. Nicht in zwei Wochen. Sofort,
-beim ersten Mal, auch wenn es kleinlich klingt.“
-
-Ich habe es nicht getan.
-
-Ich habe fünf Tage gewartet, bis eine blaue Mappe auf meinem
-Fenstertisch lag, und dann habe ich alles auf einmal gesagt.
-
----
-
-Am Samstag war Emil bei ihm.
-
-Zum ersten Mal allein, vier Stunden, von zehn bis zwei. Ich habe ihm
-eine Liste mitgegeben — Schlafzeiten, was er isst, was er nicht isst,
-die Nummer der Kinderärztin — und er hat sie gelesen wie einen Vertrag,
-zweimal, und dann gefragt, was „Rutschen: nur die kleine“ bedeutet.
-
-„Die große macht ihm Angst, und er geht trotzdem drauf.“
-
-„Verstanden.“
-
-Dann sind sie gefahren, und ich stand in einem Café, das um zehn Uhr
-morgens am Samstag voll ist, und habe vier Stunden lang gearbeitet und
-in dieser Zeit ungefähr sechzigmal aufs Telefon gesehen.
-
-Um zwei kamen sie wieder. Emil schlief im Wagen. Jonas hatte einen
-Fleck auf dem Hemd, den er nicht kommentierte, und in der Hand eine
-Tüte mit Sand, weil Emil Sand hatte mitnehmen wollen und weil Jonas
-offenbar nicht auf die Idee gekommen war, nein zu sagen.
-
-„Wie war es?“
-
-„Gut.“ Er sah zum Wagen. „Ich habe zweimal die Windel falsch
-herumgemacht.“
-
-„Das merkt man erst, wenn es zu spät ist.“
-
-„Ja“, sagte er. „Das habe ich auch festgestellt.“
-
-Und dann stand er da, in meinem Café, mit Sand in einer Plastiktüte, und
-sah aus wie jemand, der etwas erlebt hat und nicht weiß, wem er es
-erzählen soll, weil der Einzige, der es verstehen würde, in dem Wagen
-schläft.
-
-„Marlene“, sagte er. „Ich habe heute Vormittag verstanden, was mir
-gefehlt hat.“
-
-„Was denn?“
-
-„Das weiß ich noch nicht.“ Er nahm die Tüte in die andere Hand. „Nur
-dass es gefehlt hat.“
-
----
-
-Ich habe an diesem Abend den Zettel aus der Schublade geholt, den mit
-den vier Wörtern, den ich seit dem siebenundzwanzigsten Oktober nicht
-mehr angesehen hatte.
-
-Er war nicht mehr nötig. Ich hatte es gesagt.
-
-Ich habe ihn trotzdem nicht weggeworfen, und ich weiß bis heute nicht
-genau, warum.
-
-Ich glaube, es war das: Er ist der Beweis, dass ich es vorhatte. Nicht
-dass ich es getan habe — dass ich es vorhatte, hundertdreißig Tage
-lang, jeden Tag ein bisschen weniger.
-
-Es gibt Dinge, die man aufhebt, damit man sich später nicht anders
-erzählt.
+Ich habe ihn trotzdem gedacht.

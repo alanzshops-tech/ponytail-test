@@ -1,210 +1,229 @@
 # Kapitel 28 — Jonas
 
-Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
-wachte um vier auf und wusste, dass ich es tun werde.
+Ich war in neun Minuten da, und ich bin bei Rot über die Willy-Brandt-
+Straße gefahren, und ich schreibe das hin, weil ich es nicht
+verteidigen will.
 
-Nicht: dass ich es tun *soll*. Dass ich es tun *werde*. Das ist ein
-Unterschied, den man erst hinterher hört.
+Der Rettungswagen stand schon in der Durchfahrt, mit offenen Türen und
+laufendem Blaulicht ohne Ton. Die Tür zum Café stand offen. Im
+Treppenhaus brannte Licht bis oben.
 
-Ich habe zwischen vier und sechs im Dunkeln gelegen und alles noch
-einmal durchgespielt, und jedes Mal kam ich an dieselbe Stelle: Wenn ich
-sie frage, sagt sie nein. Nicht weil es falsch wäre. Weil sie es ist.
+Ich bin die Treppe hoch, und auf der vierten Stufe, die knarrt, hat es
+geknarrt, und ich habe in diesem Moment tatsächlich gedacht: *die
+vierte.*
 
-Und am fünfzehnten Januar steht Kellermann in ihrer Küche.
+Im Kinderzimmer standen zwei Sanitäter und ein Notarzt, und Marlene saß
+auf dem Boden neben dem Gitterbett, in einem T-Shirt und ohne Schuhe,
+und hielt Emils Hand durch die Stäbe.
 
----
+Sie hat mich angesehen und nichts gesagt.
 
-Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
-Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
-ihm bedeutet, dass es ernst ist.
-
-Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
-
-„Ja.“
-
-„Geht nicht.“
-
-„Warum nicht?“
-
-„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
-seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
-zwanzigtausend. Auf den Rest dreißig Prozent.“
-
-Er schrieb die Zahl hin und drehte den Block um.
-
-**≈ 49.800 € Schenkungsteuer. Zahlbar von: Marlene Voss.**
-
-Ich sah die Zahl an.
-
-„Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
-Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
-fünf.“
-
-„Und was geht?“
-
-„Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
-keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
-klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
-zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
-entscheidet, es nicht einzufordern.“
-
-Der Raum war eine Weile still.
-
-„Das ist schlimmer“, sagte ich.
-
-„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
-ja.“
-
----
-
-Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
-habe.
-
-Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
-Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
-sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
-meinem Schreibtisch und sah aus dem Fenster.
-
-Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
-ihre Nummer aufgerufen und wieder weggelegt.
-
-Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
-nicht daran gedacht.
-
----
-
-Bastian stand um halb eins in der Tür, mit einem Rucksack, in einer
-Jacke, die er seit dem Abitur hat.
-
-Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
-kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
-immer eine Frage.
-
-„Hast du zwanzig Minuten?“
-
-„Ich habe eine Stunde.“
-
-„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
-Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
-hast ein Kind.“
+Der Notarzt hat gesagt: „Sind Sie der Vater?“
 
 „Ja.“
 
-„Und Mama sagt, du bist verliebt.“
-
-„Auch ja.“
-
-„Warum weiß ich das über Bande?“
-
-Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
-zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
-bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
-
-Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
-
-Bastian sah mich an, kaute an einem Daumennagel und sagte:
-
-„Weiß sie das?“
-
-„Ich sage es ihr morgen.“
-
-„Das ist nicht dasselbe.“
-
-„Es ist ein Tag.“
-
-„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
-nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
-ablehnen.“
+Es war das erste Mal, dass ich das zu einem Fremden gesagt habe.
 
 ---
 
-Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
-weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
+Im Wagen durfte nur einer mit, und das war sie, und das war richtig.
 
-„Was machst du eigentlich zurzeit?“, fragte ich.
+Ich bin hinterhergefahren. Die Kinderklinik Altona ist elf Kilometer
+weit, und ich habe in diesen elf Kilometern das Rücklicht angesehen und
+sonst nichts gedacht.
 
-„Was Eigenes.“
+Das ist nicht wahr. Ich habe eine Sache gedacht, und sie war so
+egoistisch, dass ich sie hier nur hinschreibe, weil dieses Buch sonst
+nicht stimmt:
 
-„Was für was Eigenes?“
+*Ich kenne ihn seit vier Wochen.*
 
-„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
-sag den anderen nicht, dass ich hier war.“
+Nicht: Hoffentlich geht es ihm gut. Nicht: Was ist passiert.
 
-„Warum nicht?“
+*Vier Wochen. Ich habe ihn vier Wochen.*
 
-„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
-sie nicht, Jonas.“
-
-„Ich habe bis achtzehn Uhr Zeit.“
-
-„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
+An der Ampel Holstenstraße habe ich beide Hände vom Lenkrad genommen
+und mir angesehen, wie sie zitterten.
 
 ---
 
-Ich unterschrieb um siebzehn Uhr vierzig.
+Um halb vier stand ich an einem Tresen hinter einer Glasscheibe und
+hörte einer Frau zu, die mich elf Sachen fragte, von denen ich sieben
+nicht wusste.
 
-Nicht über die Firma. Das war mir wichtig, und ich habe es mir damals
-als Anstand ausgelegt: Wenn die Reinhardt Immobilien GmbH die Forderung
-kauft, ist es genau das, was Wendland meint und was in Reiter sechs
-steht. Also kaufte ich sie privat. Eigenes Geld, eigener Name, drei
-Telefonate, ein Vertragsentwurf per Mail, eine qualifizierte Signatur.
+Geburtsdatum: wusste ich. Achter Mai.
 
-Einhundertsechsundachtzigtausend.
+Versicherung: wusste ich nicht.
 
-Ich habe dabei nichts gefühlt. Ich habe zwölf Jahre Übung darin, bei
-Zahlen nichts zu fühlen.
+Allergien: wusste ich nicht.
 
-Was ich stattdessen tat: Ich schrieb auf einen Zettel, was ich ihr
-morgen sagen wollte, in der Reihenfolge, in der ich es sagen wollte.
+Impfungen: wusste ich nicht.
 
-1. Deine Bank hat gekündigt. Ich weiß es seit dem fünfzehnten.
-2. Ich habe die Forderung gekauft. Gestern. Privat.
-3. Ich fordere nichts. Nie. Ich kann sie dir nicht schenken, das
-   erkläre ich dir, das ist ein Steuerding.
-4. Das Haus gehört dir. Es hat sich nichts geändert außer dem Namen auf
-   dem Papier.
-5. Und wenn du willst: Zieh mit Emil zu mir. Nicht deshalb. Sondern
-   weil ich möchte, dass er morgens im selben Haus aufwacht wie ich.
+Und dann fragte sie: „Und der Herr?“
 
-Ich habe diesen Zettel dreimal überarbeitet. Ich habe an Punkt fünf
-vierzig Minuten gesessen.
+„Ich bin der Vater.“
 
-An Punkt eins bis vier habe ich nichts geändert, weil sie mir richtig
-vorkamen.
+„Sorgeberechtigt?“
 
-Sie sind auch richtig. Jeder einzelne Satz ist wahr, überprüfbar und
-gut gemeint.
+„Nein.“
 
-Es ist die Reihenfolge, die falsch ist. Punkt eins hätte am
-fünfzehnten Dezember gesagt werden müssen, und alles andere hätte danach
-nicht mehr stattgefunden.
+„Verheiratet mit der Mutter?“
+
+„Nein.“
+
+„Vaterschaft anerkannt?“
+
+„Nein.“
+
+Sie hat getippt, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
+Mensch, der um halb vier Uhr morgens seine Arbeit macht.
+
+„Dann trage ich Sie als Begleitperson ein.“
 
 ---
 
-Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
+Ich habe in meinem Leben ein paar Sätze gehört, die ich behalten habe.
 
-„Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
-Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
-ob Sie das zurückstellen wollen.“
+Der von Wendland: *Machen Sie es wieder.*
 
-Ich war in Gedanken bei Punkt fünf.
+Der von meiner Mutter: *Ich habe achtundzwanzig Jahre neben einem Mann
+gelebt, der recht hatte.*
 
-„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
-sowieso mit ihr.“
+Und dieser hier, von einer Frau, deren Namen ich nicht kenne, hinter
+einer Scheibe, um halb vier Uhr morgens, ohne jede Absicht:
 
-Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
-Schreibtischlampe ausmachte.
+*Dann trage ich Sie als Begleitperson ein.*
 
-Das ist der Satz.
+Ich habe gesagt: „Ist in Ordnung.“
 
-Von allem, was ich in diesem Jahr gesagt und unterschrieben und
-angeordnet habe, ist es dieser: *Machen Sie es wie üblich.*
+Es war nicht in Ordnung. Es war völlig korrekt und vollkommen richtig
+und es war genau das, was ich seit achtzehn Monaten bin, und es stand
+jetzt in einem Formular.
 
-Vier Wörter, gesagt im Mantel, an einem Dienstagabend, ohne
-nachzudenken, weil ich mit dem Kopf bei einem Satz war, in dem es darum
-ging, wo mein Sohn morgens aufwacht.
+---
 
-Die Anzeige ging am dreiundzwanzigsten Dezember um neun Uhr vierzehn
-raus.
+Um vier musste sie nach vorn, weil sie etwas unterschreiben sollte, das
+nur sie unterschreiben kann.
 
-Ich kam um sieben.
+Ich blieb bei ihm.
+
+Er lag in einem Bett, das für ihn dreimal zu groß ist, mit einer Nadel
+im Handrücken und einem Pflaster darüber, auf dem ein Bär abgebildet
+war. Er war wach. Er sah an die Decke.
+
+Ich habe mich auf den Hocker gesetzt und nicht gewusst, was man macht.
+
+Dann fing er an zu weinen.
+
+Ich kannte dieses Weinen nicht. Ich kenne inzwischen drei Sorten — müde,
+hungrig, wütend —, und das hier war eine vierte, und ich habe sofort
+verstanden, dass es Angst ist.
+
+Die Schwester hat es versucht. Er hat sich weggedreht.
+
+Marlene kam rein und hat ihn hochgenommen, und er wollte nicht.
+
+Er hat beide Arme an ihr vorbeigestreckt und einen Laut gemacht mit
+einem harten Anfang.
+
+---
+
+Ich habe ihn genommen.
+
+Ich habe ihn falsch gehalten, das weiß ich heute: zu hoch, zu fest, mit
+einer Hand am Hinterkopf, so wie man Neugeborene hält.
+
+Er hat trotzdem aufgehört. Nicht sofort — über ungefähr eine Minute, wie
+ein Motor, der ausgeht. Dann hat er den Kopf in die Kuhle zwischen
+Schulter und Hals gelegt und war weg.
+
+Und ich stand mitten in einem Untersuchungszimmer und habe über seinen
+Kopf hinweg die Frau angesehen, die ihn achtzehn Monate lang allein
+gehalten hat, und in ihrem Gesicht war etwas, das ich nicht ansehen
+konnte.
+
+Ich habe später gefragt, was es war.
+
+Sie hat gesagt: „Beides.“
+
+---
+
+Um halb sechs schlief er richtig, und wir saßen auf zwei Stühlen im
+Gang, weil im Zimmer kein Platz für zwei Erwachsene ist.
+
+Ich habe Kaffee aus dem Automaten geholt.
+
+Es gibt eine Sorte Müdigkeit, in der die Dinge sehr genau werden. Ich
+weiß noch, wie der Gang aussah: Linoleum, das jemand vor vier Stunden
+gewischt hat. Ein Aushang über Läusebefall. Eine Zeichnung von einem
+Wal, unterschrieben mit *Mia, 5*.
+
+Ich habe angefangen, einen Satz zu sagen.
+
+„Ich lasse morgen —“
+
+Und dann habe ich ihn nicht zu Ende gesagt, und das ist das Einzige,
+was ich in dieser Nacht richtig gemacht habe.
+
+Ich wusste nicht einmal, was ich veranlassen wollte. Es war kein
+Gedanke, es war ein Reflex, wie das Bein beim Hammerschlag aufs Knie.
+
+„Was?“, sagte sie.
+
+„Nichts.“ Ich drehte den Becher. „Ich wollte gerade sagen, dass ich
+morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein Reflex.“
+
+„Diesmal hast du ihn nicht gemacht.“
+
+„Diesmal habe ich ihn *gesagt*“, sagte ich. „Das ist nicht dasselbe wie
+nicht machen.“
+
+---
+
+Sie hat um kurz vor sechs gesagt: „Montag gehen wir zum Jugendamt.“
+
+Ich habe „danke“ gesagt.
+
+Sie hat gesagt: „Bedank dich nicht. Es steht ihm zu. Nicht dir.“
+
+---
+
+Ich bin um sieben nach Hause gefahren, habe geduscht, ein Hemd
+angezogen und war um Viertel vor neun im Büro, weil dienstags um neun
+die Bauleiterrunde ist.
+
+Ich habe die Bauleiterrunde gehalten. Vierzig Minuten, Rothenburgsort,
+Fundamentplatte, drei Entscheidungen. Niemand hat etwas gemerkt.
+
+Um halb elf kam Frau Kuhlmann mit dem Kalender und sagte: „Sie haben
+Ihr Hemd falsch zugeknöpft.“
+
+Ich habe es angesehen. Es stimmte, um eine Reihe verschoben, seit halb
+acht.
+
+„Ich hatte eine Nacht in der Kinderklinik“, sagte ich.
+
+Meine Assistentin ist zweiundfünfzig Jahre alt und hat zwei erwachsene
+Kinder, und sie hat in diesem Moment etwas getan, das sie in neunzehn
+Jahren nicht getan hat: Sie hat sich hingesetzt.
+
+„Fieberkrampf?“
+
+„Ja.“
+
+„Die sehen furchtbar aus und sind fast immer harmlos.“ Sie legte den
+Kalender hin. „Bei meinem Sohn zweimal. Ich habe beide Male gedacht,
+er stirbt.“
+
+Wir haben ungefähr zwei Minuten geschwiegen.
+
+Dann hat sie den Kalender wieder aufgenommen und gesagt: „Sie haben um
+elf die Bank. Soll ich verschieben?“
+
+„Nein“, sagte ich. „Aber halten Sie mir Montagvormittag frei.“
+
+„Als was?“
+
+„Jugendamt“, sagte ich.
+
+Sie hat es eingetragen, ohne zu fragen, wozu.

@@ -1,229 +1,163 @@
 # Kapitel 26 — Jonas
 
-Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
-Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
+Wendland rief am zweiten Dezember an, und das war das zweite Mal in
+neunzehn Jahren, dass er von sich aus anrief.
 
-Ich habe am Sonntagabend meinen Ausweis rausgelegt. Auf den Küchentisch,
-neben die Autoschlüssel, so wie man das mit Dingen macht, die man am
-nächsten Morgen nicht vergessen darf.
+„Reinhardt. Kennen Sie Kellermann?“
 
-Dann habe ich ihn wieder eingesteckt, weil ich mir albern vorkam, und um
-halb sieben am Montagmorgen habe ich ihn noch einmal rausgeholt und
-kontrolliert, ob er gültig ist.
+„Ich weiß, wer er ist.“
 
-Er war seit vier Monaten abgelaufen.
+„Er hat sich in der Speicherstadt umgehört.“ Ein Rascheln. „Nicht bei
+uns. Bei zwei Leuten, die es mir erzählt haben.“
 
-Es gibt eine Sorte Panik, die man mit Anfang dreißig nicht mehr für
-möglich hält, und ich hatte sie um Viertel vor sieben in meiner Küche.
-Der Reisepass lag im Safe im Büro. Ich bin über die leere Stadt gefahren,
-war um zwanzig nach sieben an der Ericusspitze, und Frau Kuhlmann, die
-immer vor mir da ist, sah mich in Mantel und Turnschuhen an und fragte
-nichts.
+„Wonach?“
 
-Um halb neun stand ich mit einem gültigen Reisepass vor dem Jugendamt,
-in Turnschuhen, und habe im Aufzug gemerkt, dass ich das Jackett im Büro
-gelassen hatte.
+„Nach Objekten mit Finanzierungsproblemen.“ Eine Pause. „Er sammelt.
+Das macht er seit zwei Jahren so: Er wartet, bis eine Bank aufräumt,
+und dann ist er da.“
 
-Ich hatte alles vier.
+Ich stand in meinem Büro am Fenster und sah auf die Kräne.
 
-Der Gang im zweiten Stock roch nach Bohnerwachs und Weihnachten, weil
-jemand einen Adventskranz aus Filz an die Tür der Teeküche gehängt
-hatte, mit drei Kerzen aus Pappe und einer vierten, die abgefallen war.
+„Warum rufen Sie mich an?“
 
-Emil saß bei mir auf dem Arm und wollte den Getränkeautomaten.
+„Weil Sie im November vor dem Beirat gesagt haben, Sie kennen die
+Eigentümerin von Kehrwieder zwölf persönlich“, sagte Wendland. „Und
+weil ich seit neunzehn Jahren beobachte, wann jemand einen Satz sagt,
+den er nicht sagen müsste.“
 
-„Zweiundzwanzig Cent“, sagte ich zu ihm. „Der behält zweiundzwanzig
-Cent. Merk dir das.“
-
-„Erzählst du ihm was von Geld?“, sagte Marlene.
-
-„Ich erzähle ihm was von Unrecht.“
+Er legte auf, bevor ich antworten konnte. Er legt immer zuerst auf.
 
 ---
 
-Frau Adamczyk hatte den Kaktus umgestellt.
+Ich habe an diesem Nachmittag nichts unternommen.
 
-Sie sah mich, dann Marlene, dann Emil, und dann sagte sie das Netteste,
-was ich je von einer Behörde gehört habe:
+Ich schreibe das hin, weil es später wichtig wird: Am zweiten Dezember
+wusste ich, dass ein Mann durch diese Stadt geht und nach Objekten mit
+Finanzierungsproblemen sucht. Ich habe es gewusst und habe es
+weggelegt, weil ich am selben Abend um sechs mit einem Zwanzig-Monate-
+Menschen verabredet war.
 
-„Ah. Sie haben also vorher geredet.“
+Am ersten Dezember hatte ich Frau Kuhlmann gebeten, die Finanzierung
+von Kehrwieder zwölf zu prüfen. *Nur wissen. Nichts tun.*
 
-Es dauerte, wie angekündigt, eine Viertelstunde.
+Am zweiten hätte ich das zurücknehmen können.
 
-Sie las mir vor, dass die Anerkennung der Vaterschaft nicht
-widerrufbar ist. Sie las Marlene vor, dass die Zustimmung dasselbe
-bedeutet. Sie fragte uns beide, ob wir das freiwillig tun, und sie sah
-dabei nicht auf das Papier, sondern in unsere Gesichter, und ich
-verstand, dass diese Frage der eigentliche Vorgang ist und alles andere
-Formular.
-
-„Freiwillig“, sagte Marlene.
-
-„Freiwillig“, sagte ich.
-
-Dann die Sorgeerklärung, dieselbe Prozedur, dasselbe Zimmer, zwei
-Unterschriften.
-
-Emil aß in der Zwischenzeit die Ecke des Merkblattes.
-
-„Das machen sie alle“, sagte Frau Adamczyk. „Wir haben es aufgegeben.“
+Ich habe es nicht zurückgenommen. Ich habe auch nicht nachgefragt. Ich
+habe den Auftrag einfach stehen lassen, drei Wochen lang, wie man ein
+Fenster auf Kipp lässt.
 
 ---
 
-Ich bekam eine beglaubigte Abschrift, geheftet, mit einem Siegel.
+Die Dienstage in dieser Zeit waren das Beste, was ich hatte.
 
-Draußen auf dem Gang blieb ich stehen und las sie.
+Ich habe morgens um elf im Café gestanden und Tische abgewischt, und
+irgendwann in der zweiten Woche ist etwas passiert, das ich hier
+aufschreibe, weil ich es niemandem erzählt habe.
 
-Da stand mein Name. Darunter stand: *Vater*.
+Emil kam quer durch den Laden gelaufen, an drei Gästen vorbei, mit
+einem Bauklotz, und legte ihn mir auf den Schuh.
 
-Ich habe zwölf Jahre lang Urkunden unterschrieben. Kaufverträge über
-Beträge, für die man in dieser Stadt eine Straße bekommt. Grundschulden,
-Bürgschaften, einen Gesellschafterbeschluss, mit dem ich mit
-zweiundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
-außer mir kein Mensch unter fünfzig saß.
+Ich habe ihn aufgehoben und gesagt: „Danke.“
 
-Ich habe bei keiner davon zittrige Hände gehabt.
+Er ist wieder losgelaufen und hat den nächsten geholt.
 
-„Alles gut?“, sagte Marlene.
-
-„Ja.“
-
-„Du hast das Blatt jetzt viermal gelesen.“
-
-„Ich weiß.“
+Es waren am Ende elf Bauklötze auf meinem Schuh, und ich stand in
+diesem Café mit einem Lappen in der Hand und wagte mich nicht zu
+bewegen, weil ich Angst hatte, dass es aufhört.
 
 ---
 
-Wir gingen danach zu einem Imbiss am Klosterwall, weil Marlene sagte,
-sie habe Hunger, und weil ich zu blöd war zu verstehen, dass das ein
-Vorschlag zum Feiern war.
+Am Donnerstag hat er mich gerufen.
 
-Pommes. Auf einem Stehtisch. Emil bekam vier Stück und hielt jedes
-einzelne vorher hoch, damit es jemand ansieht.
+Es war kein Wort. Es war ein Laut mit einem harten Anfang, quer durch
+den Raum, in meine Richtung, und danach hat er gewartet.
 
-„Was soll er eigentlich zu dir sagen?“, fragte sie.
+Ich habe „ja“ gesagt.
 
-„Ich weiß nicht. Was sagt man?“
-
-„Die meisten sagen Papa.“
-
-Ich sah auf die Pommes.
-
-„Ich habe zu meinem *Vater* gesagt“, sagte ich. „Immer. Alle vier. Ich
-habe das Wort Papa in meinem Elternhaus nie gehört.“
-
-Marlene sagte nichts, aber sie legte kurz ihre Hand auf meine, mit
-Mayonnaise am Daumen, und das war der schönste Moment dieses Jahres,
-und ich schreibe das in vollem Wissen darüber, was elf Tage später
-passiert ist.
-
-„Papa geht“, sagte ich.
+Ich habe später darüber nachgedacht, warum ausgerechnet „ja“. Ich
+glaube, es lag daran, dass mein Vater immer „gleich“ gesagt hat.
 
 ---
 
-Um vier war ich im Büro.
+In dieser Zeit habe ich zwei Dinge gleichzeitig gemacht, und ich habe
+damals nicht gemerkt, dass sie sich widersprechen.
 
-Frau Kuhlmann hatte den Vermerk auf den Schreibtisch gelegt, in der
-Mitte, wie sie es tut, wenn sie will, dass ich es sofort sehe. Sie
-führte ihn seit dem zweiten Dezember; das war die dritte Fassung, und es
-war die erste, in der etwas stand.
+**Das eine:** Ich habe angefangen, Dinge nicht zu tun.
 
-Ich las ihn im Stehen, mit dem Mantel noch an.
+Ich habe gesehen, dass ihre Spülmaschine vierzig Minuten braucht und
+dass ihr deshalb mittags das Geschirr ausgeht. Ich weiß, was eine
+Gastro-Maschine mit Zwei-Minuten-Programm kostet: sechstausend, plus
+Anschluss. Das ist für mich kein Geld. Ich habe es nicht angeboten.
 
-**Kehrwieder 12, Voss.** Hanseatische Volksbank. Betriebsmitteldarlehen
-und Objektfinanzierung, Restvaluta zusammen 214.600 €, besichert durch
-eine Grundschuld über 260.000 € nebst Unterwerfung unter die sofortige
-Zwangsvollstreckung.
+Ich habe gesehen, dass der Ofen links vierzig Grad kälter ist. Ich habe
+nichts gesagt.
 
-Kündigung ausgesprochen am 3. Dezember, wirksam.
+Ich habe gefragt, wie hoch ihre Rate ist, und sie hat gesagt, das sei
+ihr Teil, und ich habe genickt und weitergewischt.
 
-Zahlungsfrist bis 15. Januar.
+Ich war ziemlich stolz darauf.
 
-Danach: Verwertung.
+**Das andere:** Ich habe im Hintergrund einen Auftrag laufen lassen, der
+genau das Gegenteil war.
 
-Und darunter, in dem trockenen Ton, in dem meine Assistentin seit
-neunzehn Jahren die interessanten Dinge nach hinten stellt:
+Das ist der Punkt, an dem ich mich selbst nicht mehr verteidigen kann.
+Ich habe im Café die Hände in der Tasche gelassen und gleichzeitig in
+meinem Büro jemanden herausfinden lassen, wie tief sie drinsteckt.
 
-*Die Bank bereinigt zum Jahresende ihr Portfolio. Die Forderung ist Teil
-eines Pakets, das über einen Makler angeboten wird. Auf Nachfrage:
-Einzelabtretung ist möglich. Ansprechpartner und Konditionen anbei.*
-
----
-
-Ich saß eine Stunde da.
-
-Ich möchte an dieser Stelle etwas festhalten, damit später niemand
-sagen kann, ich hätte es nicht gewusst.
-
-Ich wusste es.
-
-Ich wusste, dass es zwei Wege gibt und dass sie sich in genau einem
-Punkt unterscheiden, nämlich darin, ob sie es vorher weiß.
-
-Weg eins: Ich fahre heute Abend zum Kehrwieder, lege den Vermerk auf den
-Tisch — nein. Ich lege gar nichts auf den Tisch. Ich sage: *Deine Bank
-verkauft deinen Kredit. Ich kann ihn kaufen. Willst du das?* Und dann
-sagt sie ja oder nein, und beides ist ihre Entscheidung, und beides kann
-ich aushalten.
-
-Weg zwei: Ich kaufe ihn.
-
-Weg eins hatte einen Fehler, und der Fehler war echt: Wenn sie nein
-sagt, ist am fünfzehnten Januar das Haus weg. Nicht an mich. An
-irgendjemanden. An einen Investor, der aus einem Kontorhaus in der
-Speicherstadt in vierzehn Monaten sechs Ferienwohnungen macht und dem
-egal ist, dass im Erdgeschoss seit sechzig Jahren eine Konditorei ist.
-
-Ich habe an diesem Nachmittag ungefähr zwanzigmal gedacht: *Sie soll
-nicht wählen müssen zwischen ihrem Stolz und ihrem Haus.*
-
-Das ist ein schöner Satz. Er hat nur einen Haken.
-
-Er heißt übersetzt: *Ich traue ihr die Entscheidung nicht zu.*
+Beides zur selben Zeit. Beides mit demselben Gefühl, das Richtige zu
+tun.
 
 ---
 
-Um Viertel nach fünf rief Wendland an, was er nie tut.
+Am sechsten Dezember hatte ich ihn einen ganzen Samstag.
 
-„Reinhardt. Der Fünfzehnte war vor vier Wochen.“
+Neun bis fünf. Ohne Liste diesmal.
 
-„Ich weiß.“
+Wir waren am Spielplatz an der Ericusspitze, weil er von meiner Wohnung
+zu Fuß erreichbar ist und weil ich zum ersten Mal in zwölf Jahren an
+einem Samstag zu Fuß irgendwohin gegangen bin.
 
-„Ich habe gehört, die Volksbank räumt auf.“ Ein Geräusch, als würde er
-etwas zur Seite schieben. „Ich sage das jetzt einmal und dann nie
-wieder: Wenn dieses Paket auf den Markt geht und wir es nicht nehmen,
-nimmt es Kellermann. Und dann steht in zwei Jahren neben Ihrem Hof ein
-Betreiber, den Sie sich nicht ausgesucht haben.“
+Er ist von der kleinen Rutsche gefallen. Auf Sand, aus vielleicht
+fünfzig Zentimetern.
 
-„Das ist mir bewusst.“
+Er hat nicht geweint. Er hat mich angesehen.
 
-„Ist es Ihnen bewusst, oder ist es Ihnen unangenehm?“
+Ich habe in diesem Moment gewusst, dass mein Gesicht entscheidet, was
+in den nächsten zwei Sekunden passiert, und ich habe keine Ahnung
+gehabt, welches Gesicht das richtige ist.
 
-Ich sah aus dem Fenster auf den Hafen, auf dem seit halb fünf nichts
-mehr zu sehen war außer Kranlichtern.
+Ich habe gar keins gemacht.
 
-„Beides“, sagte ich.
+Er ist aufgestanden und weitergegangen.
 
-„Dann handeln Sie wie ein Kaufmann und nicht wie ein Verliebter“,
-sagte Wendland und legte auf, und das war das erste Mal in neunzehn
-Jahren, dass dieser Mann etwas über mein Privatleben gesagt hat.
+Ich habe danach zwanzig Minuten auf einer Bank gesessen und ihm
+zugesehen und dabei angerufen, um zu fragen, ob das richtig war.
+
+Marlene hat gesagt: „Man weiß es nicht. Man macht es und schaut, was
+passiert.“
+
+Ich habe gesagt, das sei eine schlechte Methode.
+
+Sie hat gesagt: „Es ist die einzige, Jonas.“
+
+Ich bin an diesem Abend nach Hause gefahren und habe in meiner Wohnung
+gestanden, in der es nach nichts riecht, und hatte Sand in beiden
+Schuhen.
 
 ---
 
-Ich rief den Makler an.
+Am achten Dezember, einem Sonntag, war ich nicht da, weil Sonntag nicht
+abgesprochen war.
 
-Ich habe an diesem Abend nichts zugesagt. Ich habe nur zwei Dinge
-gefragt: was die Einzelabtretung kostet, und bis wann ich zusagen kann.
+Ich habe an diesem Tag zwei Stunden lang die Kontorhaus-Kalkulation
+durchgesehen, ohne einen Fehler zu finden, und um vier festgestellt,
+dass ich sie zweimal gelesen hatte.
 
-Die Antworten waren: einhundertsechsundachtzigtausend.
+Um zwanzig nach zwei in der Nacht klingelte das Telefon.
 
-Und: bis zum zweiundzwanzigsten Dezember, achtzehn Uhr.
+Ich hatte es auf dem Nachttisch, was ich seit November so mache, und
+ich war beim zweiten Klingeln wach und beim dritten schon am Aufstehen,
+und in dem Moment, in dem ich ihren Namen auf dem Bildschirm gesehen
+habe, wusste ich, dass es keine gute Nachricht ist.
 
-Danach fuhr ich nach Hause und legte die beglaubigte Abschrift aus dem
-Jugendamt auf den Küchentisch, gegen die Obstschale gelehnt, damit ich
-sie beim Frühstück sehe.
-
-*Vater.*
-
-Ich habe in dieser Woche jeden Morgen darauf gesehen und keinen
-einzigen Morgen daran gedacht, sie zu fragen.
+Man weiß das. Ich habe nicht gewusst, dass man das weiß.

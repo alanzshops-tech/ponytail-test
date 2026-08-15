@@ -1,243 +1,258 @@
 # Kapitel 14 — Jonas
 
-Am Mittwoch stand ich um zehn nach acht vor ihrer Tür und wusste, was
-kommt.
+Der Beirat tagt im vierten Stock, in einem Raum mit einem Tisch, den mein
+Vater 1998 gekauft hat und den niemand austauschen will, weil er
+Ehrfurcht erzeugt und das billiger ist als Argumente.
 
-Nicht die Einzelheiten. Aber das Wesentliche wusste ich seit der Nacht am
-Backtisch, und ehrlich gesagt seit dem ersten Tag, seit dem Weinen durch
-die Decke, und ich hatte es nur nicht angesehen, so wie man eine
-Diagnose nicht ansieht, solange der Umschlag zu ist.
+Sieben Leute. Zwei davon halten mich für zu vorsichtig, zwei für zu jung,
+und drei sagen selten etwas, was sie zu den gefährlichsten macht.
 
-Sie öffnete. Sie hatte die Schürze abgenommen. Das fiel mir auf, weil sie
-sie sonst nie abnimmt.
+Theo präsentierte den Entwurf. Er machte es gut — er zeigte zuerst die
+alte Variante, ließ sie zwei Sekunden stehen, und legte dann die neue
+daneben, und man sah im Raum, wie die Köpfe sich neigten.
 
-„Er schläft“, sagte sie.
+„Der Hof entsteht nur, weil der Bestand schief steht“, sagte Theo. „Wenn
+wir abreißen und gerade neu bauen, bekommen wir eine Reihe. So bekommen
+wir einen Ort.“
+
+Dr. Wendland, der seit neunzehn Jahren im Beirat sitzt, tippte mit dem
+Stift auf den Plan.
+
+„Und die Wirtschaftlichkeit?“
+
+„Vier Komma zwei Millionen schlechter über die Laufzeit“, sagte ich.
+
+Niemand sagte etwas.
+
+„Und Sie schlagen vor, das zu akzeptieren.“
+
+„Ich schlage vor, es zu akzeptieren.“
+
+Wendland lehnte sich zurück. „Warum?“
+
+---
+
+Ich hatte drei Antworten vorbereitet, und diesmal benutzte ich sie.
+
+Erstens: Der Hof macht die Erdgeschosse vermietbar, die vorher zur Straße
+zeigten. Das rechnet man auf zwanzig Jahre, nicht auf fünf.
+
+Zweitens: Wir sind im Denkmalgebiet. Ein Abriss kostet uns achtzehn Monate
+Verfahren und ein öffentliches Risiko, das wir nirgends verbuchen, das
+aber existiert.
+
+Drittens: Das Objekt gehört einer Einzeleigentümerin, die nicht verkaufen
+will. Ein Ankauf gegen ihren Willen ist rechtlich nicht möglich, und ein
+Ankauf über die Bank ist —
+
+„Über die Bank“, sagte Wendland. „Da läuft eine Kündigung.“
+
+Ich sah ihn an.
+
+Natürlich wusste er das. Er sitzt in zwei Aufsichtsräten, in denen Leute
+sitzen, die in Banken sitzen. Das ist Hamburg.
+
+„Ja“, sagte ich.
+
+„Dann warten Sie sechs Wochen.“
+
+Der Raum war sehr still.
+
+Und ich hörte meinen Vater, ganz deutlich, so deutlich wie seit Jahren
+nicht: *Man wartet, Junge.*
+
+„Nein“, sagte ich.
+
+„Herr Reinhardt —“
+
+„Nein.“ Ich stand nicht auf, ich hob die Stimme nicht, ich legte nur die
+Hände auf den Tisch. „Ich kenne die Eigentümerin persönlich. Das sage ich
+Ihnen hier und jetzt, damit es niemand in drei Monaten herausfindet und
+daraus etwas macht, was es nicht ist. Und ich sage Ihnen auch: Genau
+deshalb warte ich nicht, bis ihre Bank sie fertigmacht. Wenn dieses Haus
+je verkauft wird, dann weil sie es will.“
+
+Wendland sah mich lange an.
+
+„Sie wissen, wie das aussieht“, sagte er.
+
+„Ja.“
+
+„Und Sie sagen es trotzdem hier.“
+
+„Deshalb sage ich es hier.“
+
+Er nickte langsam, einmal, und schrieb etwas auf seinen Block.
+
+Der Entwurf wurde mit fünf zu zwei angenommen.
+
+---
+
+Danach hielt Theo mich im Flur fest.
+
+„Was war das?“
+
+„Eine Beiratssitzung.“
+
+„Jonas.“ Er stellte sich mir in den Weg, was er seit unserer Kindheit
+macht und was seit unserer Kindheit nicht funktioniert. „Du hast gerade
+vor sieben Leuten gesagt, dass du eine Eigentümerin persönlich kennst.
+Du. Der Mensch, der zwölf Jahre lang jede Regung vor diesem Gremium
+versteckt hat.“
+
+„Es stimmt doch.“
+
+„Das ist nicht der Punkt.“
+
+Ich sah aus dem Flurfenster auf die Kräne.
+
+„Weißt du, was der Punkt ist?“, sagte ich. „Der Punkt ist, dass Wendland
+recht hat. In sechs Wochen kündigt die Bank, und dann hätte ich das Haus
+für zweihundert. Und ich hätte es genommen. Vor einem halben Jahr hätte
+ich es genommen und mir dabei nichts gedacht.“
+
+Theo sagte nichts.
+
+„Ich möchte nicht der Mann sein, der das nimmt“, sagte ich. „Das ist der
+ganze Grund. Es ist kein guter Geschäftsgrund. Es ist der einzige, den
+ich habe.“
+
+Mein Bruder sah mich an, und dann tat er etwas, das er seit dem Tod
+unseres Vaters nicht getan hatte: Er legte mir kurz eine Hand auf die
+Schulter.
+
+„Sie heißt Marlene“, sagte er. Es war keine Frage.
+
+„Ja.“
+
+„Gut.“ Er nahm die Hand weg. „Dann sag ihr das mit dem Beirat. Nicht die
+Kurzfassung. Alles.“
+
+„Warum?“
+
+Theo war schon zwei Schritte weiter, drehte sich aber noch einmal um, und
+zum ersten Mal sah er nicht aus wie mein Architekt, sondern wie mein
+kleiner Bruder mit einunddreißig.
+
+„Weil ich seit vier Monaten mit jemandem verheiratet bin, dem ich es
+nicht gesagt habe“, sagte er. „Und weil das jeden Tag schlimmer wird.“
+
+Und dann ging er.
+
+---
+
+Ich stand noch eine Weile im Flur.
+
+Dann fuhr ich zum Kehrwieder.
+
+---
+
+Es war halb acht, das Café war zu, aber im Inneren brannte Licht. Ich
+klopfte.
+
+Sie machte auf, mit einer Teigkarte in der Hand und Mehl bis zum
+Ellenbogen.
+
+„Ich backe“, sagte sie. „Donnerstag ist Vorbereitung. Sie können reden,
+aber ich höre nicht auf.“
 
 „Gut.“
 
-Wir standen im dunklen Café, nur die Lampe über dem Tresen an, und
-draußen ging jemand mit einem Hund vorbei.
+Ich zog den Mantel aus, hängte ihn über einen Stuhl und setzte mich auf
+den Hocker neben ihren Arbeitstisch, und dann erzählte ich ihr alles.
 
-„Setzen wir uns“, sagte sie.
+Wendland. Die sechs Wochen. Was mein Vater gesagt hat. Was ich vor einem
+halben Jahr getan hätte.
 
----
+Sie arbeitete weiter, während ich sprach. Sie wog ab, sie faltete, sie
+strich mit dem Handrücken über die Stirn und hinterließ dort Mehl.
 
-Sie hatte etwas auf den Tisch gelegt. Ein kleines Fotoalbum, so ein
-billiges aus dem Drogeriemarkt, mit einem Sonnenblumenmotiv auf dem
-Umschlag.
+Als ich fertig war, hörte sie auf.
 
-Sie legte die Hand darauf, nahm sie aber nicht weg.
-
-„Ich fange nicht mit dem Anfang an“, sagte sie. „Wenn ich mit dem Anfang
-anfange, rede ich mich raus. Also fange ich mit dem an, was zählt.“
-
-Ich sagte nichts.
-
-„Emil ist deiner.“
-
----
-
-Ich weiß nicht, wie lange ich nichts sagte.
-
-Es gibt eine Sache, die einem niemand über solche Momente erzählt: dass
-man sie in zwei Hälften erlebt. In der einen Hälfte passiert nichts.
-Nichts fällt um, niemand schreit, das Licht ändert sich nicht. In der
-anderen Hälfte hat sich das ganze Leben umsortiert und man weiß noch
-nicht, in welcher Reihenfolge es jetzt liegt.
-
-„Wie alt“, sagte ich schließlich.
-
-„Achtzehn Monate. Am achten Mai wird er zwei.“
-
-Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
-gestimmt hatte.
-
-„Travemünde.“
+„Sie haben denen gesagt, dass Sie mich kennen.“
 
 „Ja.“
 
-Ich sah auf das Album mit den Sonnenblumen.
+„Warum?“
 
-„Darf ich?“
+„Weil es sonst irgendwann jemand anderes gesagt hätte.“ Ich sah auf meine
+Hände. „Und weil Dinge, die man selbst sagt, kleiner sind als Dinge, die
+gefunden werden.“
 
-Sie schob es zu mir.
+Sie stand ganz still.
+
+Ich habe damals gedacht, dass sie über den Beirat nachdenkt.
+
+„Ja“, sagte sie leise. „Das stimmt vermutlich.“
 
 ---
 
-Es waren nicht viele Bilder. Vielleicht vierzig.
+Zwischendurch kam sie an den Hocker, wischte sich die Hände ab und sah
+mich an, als überlege sie etwas.
 
-Ich habe später ausgerechnet, was das heißt. Achtzehn Monate sind
-fünfhundertvierzig Tage. Vierzig Bilder.
-
-Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
-
-Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
-Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
-Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
-
-Dann Emil auf dem Arm einer alten Frau, die ich nicht kannte.
-
-„Wer ist das?“
-
-„Frau Kettler.“ Sie sah nicht hin. „Sie hat ihn gehalten, als ich das
-erste Mal wieder in den Backraum musste. Am achten Tag.“
-
-„Am achten Tag nach der Geburt?“
-
-„Der Laden macht nicht von allein auf.“
-
-Ich habe darauf nichts gesagt, weil mir nichts eingefallen ist, was
-nicht falsch gewesen wäre.
-
-Dann Emil im Schnee. Emil mit einem Löffel. Emil schlafend auf einer
-Wolldecke im Café, unter dem Fenstertisch, an dem ich sechs Wochen lang
-gesessen und über Entwässerung geredet hatte.
-
-Ich blätterte langsam. Ich wollte es nicht schnell machen.
-
-„Der achte Mai“, sagte ich irgendwann.
+„Sie haben heute vor sieben Leuten gesagt, dass Sie mich kennen“, sagte
+sie noch einmal, „und dann sind Sie hierhergefahren und sitzen in meinem
+Backraum.“
 
 „Ja.“
 
-„Da war ich in Zürich.“ Ich hörte selbst, wie sinnlos das war. „Ich weiß
-nicht, warum ich das sage.“
+„Merken Sie, wie das aussieht?“
 
-„Weil man in solchen Momenten irgendwas sagt“, sagte sie.
+„Ja.“
 
----
+„Und?“
 
-Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
-ohne dass ich fragen musste.
+Ich sah auf die Bleche, die auf dem Wagen standen, achtzehn Stück, und
+auf ihre Hände, die weitermachten, während sie mit mir redete.
 
-„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
-noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
+„Es sieht so aus, wie es ist“, sagte ich.
 
-„Was stand wirklich drin?“
+Sie hielt einen Moment an.
 
-„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
-zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
-dazu durchzuringen.“
-
-Ich schloss die Augen.
-
-„Und dann?“
-
-„Dann kam keine Antwort. Und im November war ein Foto in der Zeitung, du
-mit einer Frau in Grün. Und dann —“ Sie brach ab.
-
-„Und dann?“
-
-„Und dann war da noch etwas, und das ist der Teil, bei dem ich schlecht
-dastehe.“ Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
-dich gefragt, ob du Kinder willst. Und du hast gesagt: *Nein. Nicht
-solange* — und dann hast du den Satz nicht zu Ende gesagt.“
-
-Ich sah sie an.
-
-Ich hatte an diesen Satz nicht ein einziges Mal gedacht. Nicht in zwei
-Jahren.
-
-„Ich habe das *Nein* behalten“, sagte sie. „Zwei Jahre lang. Jedes Mal,
-wenn ich es noch mal hätte versuchen können, war da dieses Nein.“
-
-„Nicht solange die Firma so an mir hängt“, sagte ich.
-
-Sie sah mich an.
-
-„Das war der Rest vom Satz“, sagte ich. „*Nicht solange die Firma so an
-mir hängt, dass ich nicht mal einen Sonntag habe.* Ich weiß es noch, weil
-ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
-richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
-Nein zu meinem Leben, so wie es damals war.“
+Dann drehte sie sich um und holte etwas aus dem Kühlraum, und ich merkte,
+dass ich lächelte, und ich hörte damit auf, bevor sie sich umdrehte.
 
 ---
 
-Sie fing an zu weinen, und zwar auf die schlimmste Art, nämlich lautlos
-und ohne das Gesicht zu verziehen.
+Sie schob mir eine Schüssel hin.
 
-Ich stand auf, ging um den Tisch herum und hockte mich neben ihren Stuhl,
-und ich fasste sie nicht an, weil ich nicht wusste, ob ich das darf.
+„Was ist das?“
 
-„Ich hätte es trotzdem sagen müssen“, sagte sie. „Auch mit dem Nein. Auch
-mit dem Foto. Ich hätte hinfahren können. Ich hätte in dein Büro gehen
-und im Foyer warten können, bis du rauskommst. Das habe ich nicht
-gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte.“
+„Butter und Mehl. Sie reiben es zwischen den Fingern, bis es aussieht wie
+Sand. Nicht kneten. Reiben.“
 
-„Welche?“
+„Ich kann nicht backen.“
 
-„Dass ich Angst hatte, du sagst, du willst ihn nicht.“ Sie wischte sich
-mit dem Handrücken übers Gesicht. „Und solange ich nicht gefragt habe,
-konnte ich mir vorstellen, dass du ihn gewollt hättest.“
+„Sie können auch keine Tische abwischen und haben es trotzdem gemacht.“
 
----
+Ich zog das Jackett aus und krempelte die Ärmel hoch, und dann saß der
+Geschäftsführer der Reinhardt Immobilien GmbH um halb neun abends in
+einem Café in der Speicherstadt und rieb Butter in Mehl.
 
-Und da war er, der Moment, in dem ich hätte wütend werden können.
+Es dauerte lange. Es tat den Fingern weh. Es war das Entspannendste, was
+ich seit Jahren gemacht hatte.
 
-Ich hatte auch allen Grund dazu. Sechs Wochen lang hatte ich an diesem
-Tisch gesessen. Ich hatte ihr Dach bezahlt. Ich hatte vor sieben Leuten im
-Beirat für sie den Kopf hingehalten. Ich hatte in ihrem Café Tische
-abgewischt und mir dabei eingebildet, wir seien ehrlich zueinander.
+„Sie machen das zu vorsichtig“, sagte sie irgendwann und griff in die
+Schüssel und zeigte es mir, und dabei berührten ihre Finger meine, und wir
+hörten beide nicht auf.
 
-Ich habe später oft überlegt, warum ich in dieser Sekunde nicht wütend
-wurde.
+Es waren vielleicht drei Sekunden.
 
-Ich glaube, es lag an dem Album.
+Dann zog sie die Hand zurück, sehr ruhig, und sagte: „So. Sehen Sie? Wie
+Sand.“
 
-Vierzig Bilder. Ultraschall, Mütze, Schnee, Löffel. Zwei Jahre, in denen
-niemand da war, um das zweite Foto zu machen, weil sie beide Rollen
-hatte.
+„Wie Sand“, sagte ich.
+
+Und über uns, im ersten Stock, ging jemand durch das Zimmer.
+
+Sie erstarrte nicht. Das war das Neue. Sie sah kurz zur Decke und dann
+wieder in die Schüssel, und ihre Hand zitterte ein bisschen.
 
 „Marlene.“
 
-Sie sah nicht auf.
+„Nicht heute“, sagte sie. „Bitte.“
 
-„Sieh mich bitte an.“
+Ich sagte nichts mehr.
 
-Sie sah auf.
-
-„Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein,
-oder nächste Woche, und dann sage ich es dir. Aber jetzt gerade sitze ich
-hier und denke die ganze Zeit nur einen einzigen Satz.“
-
-„Welchen?“
-
-„Dass du das zwei Jahre lang allein gemacht hast.“
-
----
-
-Sie weinte richtig, und diesmal ließ ich es zu, dass ich sie anfasste, und
-sie ließ es auch zu.
-
-Es dauerte eine Weile.
-
-Irgendwann, als es vorbei war, saßen wir nebeneinander auf zwei Stühlen
-in einem dunklen Café, und sie hatte mein Hemd nass gemacht, und ich
-merkte, dass ich immer noch das Album in der Hand hielt.
-
-„Was jetzt?“, sagte sie.
-
-„Darf ich ihn sehen?“
-
-Sie zögerte nicht einmal eine Sekunde.
-
-„Er schläft.“
-
-„Ich weiß.“
-
-Sie stand auf und nahm meine Hand, und wir gingen die Treppe hoch, und
-die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte.“
-
-„Die vierte“, wiederholte ich.
-
-Und dann standen wir in einem Kinderzimmer, in dem ein Nachtlicht in Form
-eines Pilzes brannte, und in einem Gitterbett lag ein Kind auf dem Bauch,
-mit dem Hintern in der Luft, so wie kleine Kinder liegen, und atmete.
-
-Ich stand da und sah ihn an und konnte nicht aufhören.
-
-„Er hat deine Stirn“, flüsterte sie.
-
-„Er hat deine Hände“, sagte ich.
-
-Und dann heulte ich, zum ersten Mal seit dem Tod meines Vaters, im
-Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.
+Ich blieb, bis der Teig im Kühlschrank war, und dann ging ich nach Hause
+und lag bis drei Uhr wach und wusste, dass ich es längst wusste.

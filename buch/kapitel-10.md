@@ -1,194 +1,225 @@
 # Kapitel 10 — Jonas
 
-Sonntags habe ich nichts.
+Der Anruf kam am achten Oktober um zwanzig vor sieben, und ich wusste
+schon an dem Wort *Chef*, dass es kein guter Tag wird. Prill sagt sonst
+Herr Reinhardt.
 
-Das ist keine Klage. Ich habe es zwölf Jahre lang so eingerichtet, weil
-ein Sonntag ohne Termine der einzige Tag ist, an dem man nachdenken
-kann, und weil ich mir eingeredet habe, dass ich das brauche.
+„Chef, wir haben das Gewölbe auf.“
 
-In Wahrheit fahre ich sonntags durch die Stadt und sehe mir Baustellen
-an, auf denen niemand arbeitet.
+„Und?“
 
-Am siebenundzwanzigsten Oktober bin ich um zwanzig nach elf am
-Kehrwieder vorbeigefahren, habe zweihundert Meter weiter gehalten und
-bin nicht ausgestiegen.
-
-Das Café war zu. Im ersten Stock brannte Licht.
-
-Ich habe vielleicht zehn Minuten dort gestanden, mit laufendem Motor,
-und mir dabei zugesehen, wie ich mir eine Begründung baue: Ich könnte
-nach dem Gerüst sehen. Ich könnte fragen, ob der Rückstau im Fallrohr
-weg ist. Ich könnte —
-
-Dann bin ich weitergefahren, und auf der Ludwig-Erhard-Straße ist mir
-klar geworden, dass ich gerade vor dem Haus einer Frau geparkt habe, um
-zu sehen, ob Licht brennt.
-
-Ich bin sechsunddreißig. Ich habe vierhundert Angestellte.
+„Kommen Sie lieber selbst.“
 
 ---
 
-Am Montag kam Frau Kuhlmann mit dem Kalender rein und blieb länger
-stehen als nötig.
+Rothenburgsort, Billhorner Kanalstraße, ein Grundstück von
+zweitausendneunhundert Quadratmetern zwischen einer Spedition und einer
+Kfz-Werkstatt. Vierunddreißig Wohnungen, davon elf öffentlich gefördert,
+Bindungsfrist dreißig Jahre. Das ist der Teil, den in Zeitungen niemand
+aufschreibt: dass ein Drittel von dem, was wir bauen, zu Mieten
+vermietet wird, die eine Behörde festlegt, und dass wir uns darum
+reißen, weil man ohne diese elf Wohnungen das Grundstück gar nicht erst
+bekommt.
 
-„Darf ich etwas sagen, das mich nichts angeht?“
+Im September war eine Fundamentplatte auf ein Hindernis gestoßen. Zwei
+Wochen Verzug, hatte ich im Beirat gesagt. Es waren inzwischen fünf.
 
-„Sie haben es sich in neunzehn Jahren zweimal erlaubt.“
+Ich stand um Viertel nach sieben am Rand einer Baugrube, in
+Gummistiefeln, die ich seit zwei Jahren im Kofferraum habe, und sah in
+ein Loch.
 
-„Dann ist es das dritte Mal.“ Sie legte den Kalender hin. „Sie haben
-diese Woche dreimal einen Termin nach hinten geschoben, damit Sie
-donnerstags um sechs weg sind. Das ist mir aufgefallen, weil Sie so
-etwas sonst nicht tun.“
+Es war ein Tonnengewölbe aus Backstein, anderthalb Meter im Scheitel,
+sauber gemauert, und es verlief quer unter dem halben Grundstück. Die
+Ziegel waren nass und schwarz und sahen aus, als hätte sie jemand
+vorgestern verlegt.
 
-„Es ist ein Projekttermin.“
+„Das ist nicht im Bestandsplan“, sagte Prill.
 
-„Herr Reinhardt.“ Sie sah mich an, wie sie meinen Vater angesehen hat,
-wenn er behauptete, er habe nur einen Kaffee getrunken. „Ich schreibe
-Ihre Termine seit neunzehn Jahren auf. Projekttermine dauern nie länger
-als geplant.“
+„Nein.“
 
-Ich habe nichts darauf gesagt.
+„Das ist in gar keinem Plan. Ich habe gestern bei der Behörde angerufen.
+Die haben eine Karte von 1911, und da ist es drauf. Und eine von 1954,
+und da ist es weg.“
 
-An der Tür drehte sie sich noch einmal um.
+„Weil dazwischen 1943 liegt.“
 
-„Ich fand es gut“, sagte sie. „Falls das eine Rolle spielt.“
+„Ja.“
 
----
+Rothenburgsort ist im Juli 1943 abgebrannt. Nicht beschädigt.
+Abgebrannt. Was danach kam, wurde auf den Schutt gesetzt, und der Schutt
+liegt bis heute da, wo er lag, und niemand hat damals nachgesehen, was
+darunter ist, weil es Wichtigeres gab.
 
-Theo brachte am Mittwoch die Zahlen.
-
-Er legte sie auf den Tisch und setzte sich, und ich wusste an der Art,
-wie er saß, dass es keine gute Nachricht ist.
-
-„Drei Komma acht war optimistisch“, sagte er. „Mit der Rinne, die wir
-jetzt offen führen, und mit dem Rückbau am Übergang: vier Komma zwei.“
-
-„Über die Laufzeit?“
-
-„Über die Laufzeit.“
-
-Ich sah mir die Zeile an.
-
-Vierhunderttausend mehr, weil eine Konditorin auf die Rückseite von
-Blatt vier eine schiefe Rinne gezeichnet hat, die besser ist als unsere
-gerade. Vier Komma zwei ist ab heute die Zahl, die im Protokoll steht.
-
-„Wendland wird fragen“, sagte Theo.
-
-„Wendland wird fragen.“
-
-„Und was sagst du?“
-
-„Dass es besser ist.“
-
-Theo lachte kurz, ohne Freude. „Das ist kein Argument, Jonas. Das ist
-ein Geschmacksurteil mit einer Zahl daneben.“
-
-„Dann rechne mir aus, was der Hof über zwanzig Jahre an den
-Erdgeschossen bringt“, sagte ich. „Nicht über fünf. Über zwanzig.“
-
-Er zog den Block heran und rechnete zehn Minuten lang, und ich sah aus
-dem Fenster auf die Kräne und dachte an gar nichts.
-
-„Es trägt“, sagte er dann. „Knapp. Wenn die Erdgeschosse vermietet sind
-und wenn die Mieten halten.“
-
-„Dann schreib es so auf.“
-
-„Jonas.“ Er legte den Stift hin. „Ich schreibe es auf. Ich sage dir nur
-vorher: Du hast dich für die Zahl entschieden, bevor du sie hattest.“
+Wir bauen in dieser Stadt fast immer auf etwas, das jemand vergessen
+hat.
 
 ---
 
-Er hatte recht, und ich wusste es, und ich habe an diesem Abend zum
-ersten Mal seit Jahren die Akte meines Vaters aufgemacht.
+Um neun kam Frau Dr. Ahrend, die Baugrundgutachterin, mit einem Rucksack
+und einem Klapphelm, und stieg als Erste in die Grube.
 
-Nicht die Firmenakte. Den Ordner, den meine Mutter mir nach der
-Beerdigung gegeben hat, mit den Sachen aus seinem Schreibtisch. Ich habe
-ihn 2014 einmal durchgesehen und dann in einen Schrank gestellt.
+Sie ist zweiundfünfzig, redet langsam, und ich habe sie in vier Jahren
+noch nie etwas sagen hören, das sie hinterher einschränken musste.
 
-Es ist wenig drin. Eine Uhr. Ein Notizbuch mit Zahlen, die nichts mehr
-bedeuten. Zwei Fotos von der Firma, 1989 und 2003, auf beiden derselbe
-Mann mit demselben Gesichtsausdruck.
+„Was ist es?“, fragte ich, als sie wieder oben war.
 
-Und ein Blatt, das ich beim ersten Mal überblättert haben muss: ein
-Blatt aus einem Kalender, Februar 1997, auf dem in seiner Handschrift
-untereinander drei Möglichkeiten stehen, wie man neunhunderttausend Mark
-auftreibt.
+„Ein Siel. Wahrscheinlich Ende neunzehntes Jahrhundert, verfüllt, aber
+nicht überall. Ich habe an zwei Stellen Hohlraum.“
 
-Die dritte ist unterstrichen. Sie lautet: *Reinbek.*
+„Trägt es?“
 
-Daneben, kleiner: *R. fragen? — nein. Erst regeln.*
+„Nein.“ Sie nahm den Helm ab. „Herr Reinhardt, ich sage Ihnen jetzt
+etwas, das Sie nicht hören wollen, und danach sage ich Ihnen, warum ich
+es trotzdem sage. Ich kann Ihnen heute nicht sagen, wie weit das reicht.
+Ich kann es Ihnen in zehn Tagen sagen, wenn wir gebohrt haben. Alles,
+was ich Ihnen vorher sage, wäre geraten.“
 
-Ich habe damals nicht gewusst, wem das Haus in Reinbek gehört hat.
+„Und warum sagen Sie mir das so ausführlich?“
 
----
+„Weil in meinem Beruf die meisten Auftraggeber bei *ich weiß es nicht*
+anfangen, sich einen anderen Gutachter zu suchen“, sagte sie. „Und weil
+ich lieber gleich weiß, ob Sie so einer sind.“
 
-Am Donnerstag, dem vierundzwanzigsten, war ich um Viertel nach sechs am
-Kehrwieder und hatte einen Ordner dabei, den ich nicht brauchte.
-
-Ich hatte ihn mitgenommen, damit ich einen Grund habe, und ihn dann
-nicht aufgemacht, weil mir auffiel, wie durchsichtig das ist.
-
-Wir haben über die Beläge geredet. Sie will Klinker, weil Klinker hier
-hingehört; ich habe erklärt, warum Klinker im Hof bei Frost ein Problem
-ist; sie hat gefragt, ob es Klinker gibt, die keins sind, und die gibt
-es, und sie kosten das Doppelte, und wir haben sie genommen.
-
-Um halb neun habe ich ihr einen Anspitzer gegeben.
-
-Ich hatte ihn am Dienstag gekauft, in einem Laden am Gänsemarkt, und ich
-habe dafür achtzig Cent bezahlt und drei Minuten gebraucht, und auf dem
-Rückweg ins Büro habe ich mich gefragt, ob das übergriffig ist.
-
-Sie ist aufgestanden und zur Maschine gegangen und hat mir den Rücken
-zugedreht.
-
-Ich habe in diesem Moment gedacht, ich hätte etwas falsch gemacht.
+Ich habe daran den ganzen Tag gedacht.
 
 ---
 
-Danach ist etwas passiert, das ich hier aufschreibe, weil es sonst
-niemand aufschreibt.
+Es gab drei Wege, und ich schreibe sie hin, weil ich sie an diesem Tag
+auf ein Blatt geschrieben habe und weil dieses Blatt bis heute in der
+Mappe liegt.
 
-Sie kam zurück mit zwei Tassen, stellte meine an die Stelle links vom
-Zuckerstreuer, und dabei rutschte der Plan, und wir griffen beide danach.
+**Eins.** Verfüllen. Beton rein, Platte drüber, weiterbauen. Kostet zwei
+Wochen und sechzigtausend. Es ist erlaubt, wenn die Statik es hergibt,
+und die Statik gibt fast immer etwas her.
 
-Ihre Hand lag drei Sekunden auf meiner.
+**Zwei.** Gründung ändern. Statt einer Platte fünfzig Bohrpfähle bis in
+den tragfähigen Horizont. Kostet rund dreihunderttausend und sieben
+Wochen.
 
-Es hat niemand etwas gesagt. Sie hat den Plan geglättet, ich habe die
-Ecke festgehalten, und dann haben wir weiter über Frostsicherheit
-geredet.
+**Drei.** Öffnen, vermessen, dokumentieren, dem Denkmalschutzamt melden,
+und danach entscheiden. Kostet nicht abschätzbar viel und mindestens
+drei Monate, weil ab einer Meldung nicht mehr ich der Herr des
+Verfahrens bin.
 
-Ich bin siebenundzwanzig Minuten später gefahren und habe an einer roten
-Ampel am Baumwall gemerkt, dass ich seit sieben Jahren mit niemandem
-mehr an einem Tisch gesessen habe, an dem ich nichts wollte.
+Theo rief um elf an, weil Theo immer um elf anruft, wenn er eine Zahl
+gehört hat.
+
+„Nimm eins“, sagte er.
+
+„Du hast es nicht gesehen.“
+
+„Ich brauche es nicht zu sehen. Es ist ein Siel, Jonas. Unter dieser
+Stadt liegen tausend Kilometer davon. Wenn wir jedes davon melden, bauen
+wir bis 2060 nichts mehr.“
+
+„Es steht in keiner Karte nach 1954.“
+
+„Eben. Dann fehlt es keinem.“
 
 ---
 
-Am Freitag habe ich die Schublade repariert.
+Mein Vater hätte eins genommen.
 
-Das klingt nach nichts. Es ist die Schublade unter ihrer Kasse, die
-klemmt, seit im Frühjahr irgendetwas gequollen ist, und man muss sie
-anheben und dann ziehen. Ich habe ihr sechs Wochen lang dabei zugesehen.
+Ich sage das ohne Groll. Er hätte es genommen und dabei nicht das Gefühl
+gehabt, etwas Falsches zu tun, weil in seiner Generation Baugruben
+Probleme waren, die man löst, und keine Orte, die einem etwas erzählen.
 
-Ich bin am Freitagmorgen um zwanzig nach acht hin, mit einem Hobel und
-einem Stück Kerzenwachs aus meiner eigenen Küche, und habe gesagt:
-„Fünfzehn Minuten. Sie können weitermachen.“
+Er hat einmal zu mir gesagt — ich war neunzehn, wir standen auf einer
+Grube in Hammerbrook —: *Was unter der Platte liegt, hat noch nie
+jemanden interessiert.*
 
-Sie hat gesagt: „Sie sind Geschäftsführer.“
+Ich habe an diesem achten Oktober an dem Loch gestanden und gedacht: Es
+liegt jetzt aber offen.
 
-Ich habe gesagt: „Ich habe Bauingenieurwesen angefangen.“
+Das ist der ganze Unterschied. Solange etwas zu ist, kann man sagen, man
+wusste es nicht. Ab dem Moment, in dem es offen ist, entscheidet man.
 
-Es hat elf Minuten gedauert. Die Führung war an zwei Stellen
-angeschwollen; man nimmt einen halben Millimeter weg und reibt Wachs
-auf die Läufer, dann geht sie wieder.
+Ich nahm drei.
 
-Sie hat die Schublade danach viermal auf- und zugezogen, und beim
-vierten Mal hat sie gelacht.
+---
 
-Und dann hat sie sie zugemacht und die Hand daraufgelegt und ist stehen
-geblieben, und ihr Gesicht hat etwas gemacht, das ich damals nicht
-verstanden habe.
+Ich habe es nicht getan, weil ich ein besserer Mensch bin als mein
+Vater. Ich habe es getan, weil ich um Viertel nach sieben in dieses
+Gewölbe gesehen hatte und weil die Ziegel sauber waren.
 
-Ich weiß heute, was in dieser Schublade lag.
+Jemand hat das gemauert. Von Hand, im Dunkeln, im Sitzen, in einer Röhre
+von anderthalb Metern. Und dann hat hundertdreißig Jahre lang niemand
+hingesehen, und jetzt sah ich hin, und die einzige Frage war, ob ich es
+zugieße und es hinterher niemandem sage.
+
+Prill sagte, als ich es ihm mitteilte: „Der Bauzeitenplan ist Makulatur.“
+
+„Ja.“
+
+„Und der Beirat?“
+
+„Der ist mein Problem.“
+
+Er sah mich an, drehte sich um und rief den Männern zu, sie sollten die
+Ostseite freilegen, sauber, mit der kleinen Maschine.
+
+Dann kam er noch einmal zurück.
+
+„Chef.“
+
+„Ja?“
+
+„Mein Großvater war Maurer bei den Sielen“, sagte Rüdiger Prill. „Nur
+damit Sie das wissen.“
+
+---
+
+Am Nachmittag hatte ich Übergaben in Barmbek.
+
+Das ist der andere Teil meines Berufs, und er sieht so wenig nach
+Immobilien aus, dass ich ihn nie erwähne, wenn mich jemand auf einer
+Veranstaltung fragt, was ich mache.
+
+Elf Wohnungen, acht davon fertig. Ich mache das ungefähr zweimal im Jahr
+selbst, nicht weil es nötig ist, sondern weil ein Geschäftsführer, der
+nie eine Wohnung übergeben hat, nach fünf Jahren nur noch Tabellen
+kennt.
+
+Wohnung 3 rechts: Frau Domke, zweiundsiebzig, mit
+Wohnberechtigungsschein und einem Sohn, der alles gefilmt hat, weil er
+mir nicht traute. Er hat vierzig Minuten lang jede Fuge gefilmt. Ich
+habe ihn machen lassen und am Ende gesagt, er solle mir den Film
+schicken, wenn etwas nicht stimmt.
+
+Seine Mutter stand in der leeren Küche, drehte den Wasserhahn auf und
+wieder zu und sagte: „Das ist warm. Sofort warm.“
+
+Sie hat vorher siebzehn Jahre in einem Haus in Horn gewohnt, in dem der
+Boiler zwei Minuten brauchte.
+
+Ich habe an diesem Nachmittag eine Wohnung übergeben, die
+sechshundertdreiundfünfzig Euro kalt kostet, und dabei mehr Freude
+gesehen als bei jedem Ankauf, den ich je unterschrieben habe.
+
+Ich sage das nicht, um mich hinzustellen. Wir verdienen an den anderen
+dreiundzwanzig Wohnungen genug, um an diesen elf nichts zu verdienen. So
+funktioniert es. Wer behauptet, es sei Wohltätigkeit, lügt, und wer
+behauptet, es sei egal, lügt auch.
+
+---
+
+Um Viertel nach neun fuhr ich zurück, über die Amsinckstraße, und ich
+nahm die Abfahrt zur Speicherstadt, obwohl ich am Alten Wandrahm nichts
+mehr zu tun hatte.
+
+Ich fuhr am Kehrwieder vorbei. Ich hielt nicht.
+
+Im ersten Stock brannte Licht, hinter dem Fenster links, und ich wusste
+inzwischen, dass das die Küche ist, und dass die Küche um diese Zeit
+heißt: Sie sitzt am Tisch und rechnet.
+
+Es war ein Mittwoch. Mittwochs komme ich nicht.
+
+Ich habe an der Ampel am Zollkanal gewartet und dabei gedacht, dass ich
+an diesem Tag zwei Entscheidungen getroffen hatte. Die eine hatte
+dreihunderttausend Euro und drei Monate gekostet und war leicht gewesen.
+
+Die andere hatte ich nicht getroffen.
+
+Ich hatte sie zugegossen, mit Beton, und die Platte drübergesetzt, und
+mir gesagt, dass sie keinem fehlt.

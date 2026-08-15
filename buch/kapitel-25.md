@@ -1,177 +1,174 @@
 # Kapitel 25 — Leni
 
-Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
-habe in diesen achtzehn Stunden ungefähr vier Dinge über mich gelernt,
-die ich vorher nicht wusste.
+Es gab in der ersten Dezemberwoche drei Dienstage, und das ist
+arithmetisch unmöglich, aber so hat es sich angefühlt.
 
-**Das erste:** Ich habe niemanden angerufen.
+Er kam jeden Dienstag um elf, band sich die Schürze um, die inzwischen
+seine ist, und wischte Tische, bis der Andrang durch war. Danach trank
+er einen Kaffee im Stehen, zahlte, und ging.
 
-Nicht meine Mutter. Nicht Sanne. Nicht Frau Kettler, die vier Straßen
-weiter wohnt und in elf Minuten dagewesen wäre.
+Ich habe ihn zweimal gefragt, ob er nicht arbeiten muss.
 
-Ich habe um zwanzig nach zwei nachts, mit dem Telefon zwischen Schulter
-und Ohr, während mein Sohn krampfte, eine einzige Nummer gewählt, und
-das war seine. Und danach habe ich achtzehn Stunden lang niemandem
-sonst Bescheid gesagt.
+Beim ersten Mal hat er gesagt: „Doch.“
 
-Sanne hat es am Donnerstag von Frau Kettler erfahren. Sie hat mich
-angerufen und gesagt: „Sag mal, spinnst du?“
-
-Ich habe gesagt, es sei alles gut gegangen.
-
-Sie hat gesagt: „Darum geht es nicht, Leni.“
-
-**Das zweite:** Ich habe in diesen achtzehn Stunden zweimal geschlafen,
-und zwar beide Male, weil jemand anderes wach war.
+Beim zweiten Mal hat er gesagt: „Ich habe vierhundert Leute, die
+arbeiten. Ich habe einen Sohn, der mich seit sechs Wochen kennt.“
 
 ---
 
-**Das dritte** ist unangenehmer.
+Was in diesen Wochen zwischen den beiden passiert ist, kann ich nicht
+in einer Szene erzählen, weil es nicht in einer Szene passiert ist.
 
-Am Dienstagvormittag, kurz bevor sie uns entlassen haben, kam eine
-Ärztin und ging die Sachen durch: Fieberkrampf, unkompliziert, keine
-Auffälligkeiten im EEG, kein erhöhtes Risiko, das Übliche.
+Es passierte in Millimetern.
 
-Und dann sagte sie: „Sie sollten das Fieberzäpfchen früher geben. Nicht
-erst bei neununddreißig fünf.“
+**Anfang der ersten Woche** saß Emil im Laufstall und sah zu.
 
-„Ich habe bei neununddreißig zwei gegeben.“
+**Mitte der Woche** stand er am Gitter und hielt sich fest, wenn Jonas
+durch den Raum ging, und drehte sich mit, wie ein Sonnenblumenkopf.
 
-„Dann war es zu spät.“ Sie schrieb weiter. „Bei einem Kind mit dieser
-Vorgeschichte gibt man ab achtunddreißig fünf.“
+**Ende der Woche** hat er die Arme ausgestreckt.
 
-Ich habe gesagt: „Er hat keine Vorgeschichte.“
+Jonas hat ihn nicht sofort genommen. Er hat mich angesehen — quer durch
+das Café, über vier Tische hinweg — und gewartet, bis ich genickt habe.
 
-Sie hat aufgesehen. „Doch. Ab jetzt.“
-
-Ich bin danach mit Emil auf dem Arm auf dem Flur gestanden und habe
-geweint, und zwar nicht wegen der Nacht, sondern weil eine Ärztin in
-einem Nebensatz gesagt hatte, dass ich es falsch gemacht habe.
-
-Ich habe achtzehn Monate lang alles allein entschieden. Jede Impfung,
-jeden Zahn, jedes Fieber. Ich hatte in achtzehn Monaten niemanden, mit
-dem ich mich beraten konnte, und das hieß auch: niemanden, mit dem ich
-mich die Schuld teilen konnte.
-
-**Das vierte:** Genau das habe ich in dieser Nacht abgegeben, ohne es zu
-merken, und ich wollte es nicht zurückhaben.
-
-Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
-achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
-
-Der Brief lag seit dem vierten Dezember in der Schublade unter der
-Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin
-auswendig, und in der Nacht vom achten auf den neunten kam er in meinem
-Kopf nicht vor.
-
-Das ist der einzige Vorteil einer Katastrophe: Sie räumt für ein paar
-Stunden alles andere weg.
-
-Am Mittwoch war er wieder da.
+Ich habe erst hinterher verstanden, was das war. Er hat um Erlaubnis
+gefragt, sein eigenes Kind hochzunehmen, in dem Wissen, dass er sie
+nicht braucht.
 
 ---
 
-Wir waren am Dienstagnachmittag zu Hause, und Emil war fröhlich und
-frech und wollte den Ofen anfassen, so wie immer.
+**In der zweiten Woche** hat Emil angefangen, ihm Dinge zu bringen.
 
-Jonas kam um sechs. Er hatte nicht gefragt, ob er kommen darf, und das
-war das erste Mal.
+Nicht hinzuhalten — das macht er bei allen. Bringen. Er ist quer durch
+den Laden gelaufen, mit einem Bauklotz, an drei Gästen vorbei, und hat
+ihn Jonas auf den Schuh gelegt.
 
-Er hat in der Tür gestanden und gesagt: „Ich bleibe nicht lange. Ich
-wollte ihn nur sehen.“
+Frau Kettler hat das gesehen und ist in den Backraum gegangen und hat
+dort länger gebraucht, als es dauert.
 
-Er ist eine Stunde geblieben und hat kaum etwas gesagt und ist gegangen,
-als Emil ins Bett musste.
+**Am Donnerstag** hat Emil ihn zum ersten Mal gerufen.
 
-An der Tür hat er sich umgedreht, so wie immer.
+Es war immer noch kein Wort. Der harte Anfang und dann ein Vokal, der
+sich nicht entscheiden konnte. Aber er hat es gerufen, quer durch den
+Raum, in die Richtung, in der Jonas stand, und dann hat er gewartet.
 
-„Marlene. Ich habe in dieser Nacht etwas gedacht, das mir peinlich ist.“
+Jonas hat sich umgedreht und gesagt: „Ja.“
 
-„Was?“
+Nur das. Nicht „ja, mein Schatz“, nicht „was ist denn“, keine
+Kinderstimme. Er hat geantwortet, wie man einem Erwachsenen antwortet,
+der einen ruft.
 
-„Ich habe gedacht: Ich kenne ihn erst vier Wochen.“ Er sah auf den
-Boden. „Nicht: Hoffentlich geht es ihm gut. Das kam danach.“
-
-Ich habe eine Weile nichts gesagt.
-
-„Weißt du, was ich gedacht habe?“, sagte ich dann.
-
-„Nein.“
-
-„Ich habe gedacht: Gut, dass ich seine Nummer gewählt habe und nicht
-Sannes.“ Ich lehnte mich an den Türrahmen. „Und danach habe ich mich
-geschämt, weil Sanne mich seit fünfundzwanzig Jahren kennt.“
-
-Er hat genickt.
-
-„Wir sind beide keine besonders netten Menschen“, sagte er.
-
-„Nein“, sagte ich. „Wir sind nur müde.“
+Ich stand hinter der Theke und habe die Kaffeemühle laufen lassen,
+obwohl niemand Kaffee wollte, weil man dann nicht sprechen muss.
 
 ---
 
-Die Woche bis zum Montag war die ruhigste seit Langem, und ich habe sie
-damit verbracht, mir das Jugendamt schlechtzureden.
+Und dann gab es die andere Seite dieser Wochen, und die gehört auch
+hierher.
 
-Nicht laut. Innerlich, so wie man das macht.
+**Er hat angefangen, Dinge zu bemerken.**
 
-Ich habe gedacht: Wenn ich das unterschreibe, hat er Rechte. Ich habe
-gedacht: Man kann es nicht zurücknehmen, das hat Niklas selbst
-geschrieben, unwiderruflich. Ich habe gedacht: Und wenn er in einem
-Jahr weg ist, sitze ich mit einem Mann im Grundbuch meines Kindes.
-
-Ich habe am Donnerstag Herrn Sievers angerufen, meinen Steuerberater,
-weil ich sonst niemanden habe, den ich in solchen Dingen frage.
-
-Er hat gesagt: „Frau Voss, das ist Familienrecht, davon verstehe ich
-nichts.“
-
-„Ich weiß.“
-
-„Aber ich sage Ihnen etwas als Mensch.“ Ein Räuspern. „Ich habe drei
-Mandanten, bei denen der Vater nicht eingetragen ist. In allen drei
-Fällen wollte die Mutter das so. Und in allen drei Fällen ist es das
-Kind, das später das Problem hat, nicht die Mutter und nicht der
-Vater.“
-
----
-
-Am Freitag hat Frau Kettler gesagt, was sie zu sagen hatte.
-
-Sie hat es beim Abwaschen gesagt, mit dem Rücken zu mir, was bei ihr
-heißt, dass es ihr ernst ist.
-
-„Sie haben Angst, dass er geht.“
+Am zweiten Dienstag sagte er: „Die Spülmaschine braucht vierzig
+Minuten.“
 
 „Ja.“
 
-„Das können Sie nicht verhindern.“ Sie stellte ein Blech ins
-Abtropfgitter. „Sie können nur verhindern, dass er bleibt.“
+„Zwischen zwölf und eins geht Ihnen deshalb das Geschirr aus.“
 
-Ich habe darüber das ganze Wochenende nachgedacht.
+„Ja.“
+
+„Es gibt Geräte, die brauchen zwei Minuten.“
+
+„Ich weiß, was die kosten“, sagte ich.
+
+Er hat es dabei belassen. Er hat nicht gesagt, dass er eine kaufen
+kann. Ich habe drei Tage darauf gewartet, dass er es sagt, und er hat
+es nicht gesagt, und ich habe gemerkt, dass ich fast enttäuscht war,
+und mich dafür geschämt.
+
+**Am dritten Dienstag** fragte er, wie hoch die Rate ist.
+
+Nicht die Schulden. Die Rate.
+
+„Warum?“
+
+„Weil ich hier seit sechs Wochen stehe und sehe, was reinkommt“, sagte
+er. „Und weil ich rechnen kann.“
+
+Ich habe die Zahl nicht genannt.
+
+Ich habe gesagt: „Das ist mein Teil.“
+
+Und er hat genickt und weitergewischt, und wir haben beide gewusst,
+dass das nicht das Ende der Sache ist.
 
 ---
 
-Am Sonntagabend habe ich Emil ins Bett gebracht, und er hat sich an mir
-festgehalten, wie er das seit der Klinik macht, und ich habe an seinem
-Bett gesessen, bis er weg war.
+Am sechsten Dezember hat er Emil zum zweiten Mal allein gehabt.
 
-Danach bin ich runter in den dunklen Laden gegangen und habe die
-Schublade aufgezogen — sie geht jetzt leicht — und den Zettel
-herausgenommen und angesehen.
+Diesmal einen ganzen Samstag, von neun bis fünf. Ich habe keine Liste
+mehr mitgegeben.
 
-*Emil ist deiner.*
+Um vier rief er an.
 
-Vier Wörter. Ich hatte sie inzwischen gesagt. Es hatte nichts kaputt
-gemacht.
+„Nichts Schlimmes“, sagte er sofort, was der beste erste Satz ist, den
+ein Mensch am Telefon sagen kann. „Ich habe eine Frage.“
 
-Das ist die Sache, die man nicht glaubt, solange man es nicht getan
-hat: Es hat nichts kaputt gemacht.
+„Ja?“
 
-Ich habe den Zettel zurückgelegt und die Schublade zugeschoben und bin
-hochgegangen und habe mir für Montag ein Hemd rausgelegt, als ginge ich
-zu einem Termin, bei dem man ordentlich aussehen muss.
+„Er ist hingefallen. Auf dem Spielplatz, von der kleinen Rutsche, auf
+Sand. Er hat nicht geweint. Er hat mich angesehen.“
 
-Es ist ein Amt. Es ist eine Viertelstunde. Es kostet nichts.
+„Und?“
 
-Ich habe trotzdem ein Hemd rausgelegt.
+„Und ich habe nichts gemacht.“ Eine Pause. „Ich habe ihn nur angesehen
+und gewartet, und dann ist er aufgestanden und weitergegangen. War das
+richtig?“
+
+Ich stand in meinem Café und musste mich am Tresen festhalten.
+
+„Ja“, sagte ich. „Das war genau richtig.“
+
+„Woher weiß man das?“
+
+„Man weiß es nicht. Man macht es und schaut, was passiert.“
+
+Er hat einen Moment geschwiegen.
+
+„Das ist eine schlechte Methode“, sagte er.
+
+„Es ist die einzige, Jonas.“
+
+---
+
+Ich habe an diesem Samstagabend zum ersten Mal seit achtzehn Monaten
+zwei Stunden am Stück geschlafen, während jemand anderes wach war.
+
+Nicht nachts. Nachmittags, auf dem Sofa, um halb drei, mitten am Tag,
+mit dem Telefon in der Hand.
+
+Ich bin davon aufgewacht, dass es dunkel wurde, und der erste Gedanke
+war Panik, und der zweite war: *Der ist bei seinem Vater.*
+
+Es war das erste Mal, dass ich diesen Satz gedacht habe, ohne dass er
+weh tat.
+
+---
+
+Am achten Dezember, einem Sonntag, war er nicht da, weil Sonntag nicht
+abgesprochen war.
+
+Emil ist an diesem Nachmittag zweimal zur Tür gegangen.
+
+Ich habe ihm erklärt, dass Dienstag ist. Er ist einundzwanzig — nein.
+Er war damals neunzehn Monate alt. Er versteht Dienstag nicht.
+
+Am Abend hatte er neununddreißig Komma zwei.
+
+Ich habe es für einen Zufall gehalten. Kinder haben Fieber, ständig, das
+hat mit gar nichts zu tun, und jede Kinderärztin sagt einem das.
+
+Ich schreibe es trotzdem hin, weil ich in dieser Nacht um zwei Uhr im
+Kinderzimmer saß und zum ersten Mal seit sehr langer Zeit gedacht habe:
+
+*Ich will nicht mehr die Einzige sein, die wach ist.*

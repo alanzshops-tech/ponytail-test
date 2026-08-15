@@ -1,160 +1,183 @@
 # Kapitel 42 — Jonas
 
-Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
-auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
-Arbeit ist.
+Die Woche vor dem zwanzigsten Januar war die längste meines
+Berufslebens, und ich habe in ihr sehr wenig getan.
 
-**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
-Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
-Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
-und Apfel, den ich seitdem sofort wiedererkenne.
+Das ist der Teil, den man nicht lernt: dass Warten Arbeit ist.
 
-Frau Özdemir, die die Gruppe leitet, erklärte mir die Regeln in vier
-Sätzen: Sie sitzen. Sie spielen nicht. Sie rufen nicht. Wenn er kommt,
-sind Sie da; wenn er nicht kommt, sind Sie trotzdem da.
+Ich hatte einen Plan in vier Schritten, ein Gutachten, das nicht mir
+gehörte, und eine Sitzung, in der ich etwas offenlegen wollte, das mich
+den Posten kosten kann. Und dazwischen acht Tage, in denen ich nichts
+tun durfte, ohne alles zu gefährden.
 
-Ich saß sechzig Minuten auf einem Stuhl von einunddreißig Zentimetern
-und tat nichts.
+Ich habe in diesen acht Tagen zweimal den Hörer in der Hand gehabt, um
+sie anzurufen, und beide Male aufgelegt, bevor es klingelte.
 
-Emil hat in dieser Stunde dreimal zu mir hergesehen. Beim dritten Mal
-hat er gewinkt, und ich habe zurückgewinkt, und Frau Özdemir hat gesagt:
-„Nicht winken. Nur da sein.“
-
-**Tag zwei.** Emil hat einen anderen Jungen geschubst. Ich bin
-aufgestanden. Frau Özdemir hat den Kopf geschüttelt, ohne mich anzusehen,
-und ich habe mich wieder hingesetzt, und eine Erzieherin hat das in
-elf Sekunden geregelt, ohne dass jemand geweint hat.
-
-Ich habe an diesem Tag verstanden, dass ich nicht gebraucht werde, und
-dass genau das die Übung ist.
-
-**Tag drei.** Der erste Trennungsversuch. Ich gehe raus, zwei Minuten,
-in den Flur, und komme wieder.
-
-Er hat nicht gemerkt, dass ich weg war.
-
-Ich habe zwei Minuten in einem Kita-Flur gestanden, zwischen
-Gummistiefeln und einer Wand mit vierzehn Fotos, und war beleidigt. Ich
-schreibe das hin, weil es die Wahrheit ist: Ein Mann von
-sechsunddreißig, Geschäftsführer, war beleidigt, weil ein
-Einundzwanzigmonatiger ihn nicht vermisst hat.
-
-**Tag vier.** Fünf Minuten. Er hat gemerkt, dass ich weg war, und hat
-weitergespielt.
-
-Frau Özdemir sagte: „Das ist das Beste, was passieren kann.“
-
-„Warum?“
-
-„Weil er weiß, dass Sie wiederkommen.“ Sie räumte Becher ein. „Kinder,
-die nicht merken, dass jemand geht, haben es sich abgewöhnt. Kinder, die
-merken und weiterspielen, haben Vertrauen. Das sind zwei völlig
-verschiedene Sachen, und sie sehen von außen gleich aus.“
-
-Ich habe an diesem Vormittag an meine Mutter gedacht, an den Satz aus
-dem Café: *Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt
-hat, jemanden zu brauchen.*
-
-Ich habe zum ersten Mal begriffen, dass das kein Vorwurf an sie war.
-Es war eine Warnung.
+Nicht aus Trotz. Weil Theo ihr geschrieben hatte, dass sie entscheidet,
+und weil ein Anruf von mir das kaputtgemacht hätte.
 
 ---
 
-**Tag fünf.** Zwanzig Minuten. Ich bin in ein Café an der Ecke gegangen
-und habe einen Kaffee getrunken, der schlecht war, und drei Mails
-beantwortet.
+Am vierzehnten kam Niklas mit dem Entwurf für den Forderungskauf.
 
-Ich habe in diesen zwanzig Minuten dreimal aufs Telefon gesehen.
+Wir haben ihn zweieinhalb Stunden lang durchgearbeitet, Satz für Satz,
+und mein Bruder hat dabei dreimal gesagt: „Das hält.“
 
-**Tag sechs.** Vierzig Minuten. Rückschlag: Er hat geweint, als ich
-ging, und Frau Özdemir hat mich trotzdem gehen lassen und nach
-achtundzwanzig Minuten geschrieben, dass er seit fünfundzwanzig Minuten
-mit dem Wasserhahn spielt.
+Beim vierten Mal habe ich gefragt: „Warum sagst du das dauernd?“
 
-**Tag sieben.** Der ganze Vormittag. Ich habe zu Hause gesessen und
-gearbeitet und um elf gemerkt, dass ich seit einer Stunde dieselbe Seite
-lese.
+Er hat den Stift hingelegt.
 
-**Tag acht.** Er ist morgens allein in die Garderobe gelaufen und hat
-versucht, seine Jacke auf den Haken zu hängen, was nicht funktioniert
-hat, weil der Haken auf einem Meter zehn sitzt und Emil auf sechsundachtzig
-Zentimetern.
+„Weil du seit zwanzig Minuten nach einer Stelle suchst, an der du
+etwas hinzufügen kannst“, sagte er. „Eine Klausel, eine Zusicherung,
+irgendwas. Und es gibt keine, weil der Vertrag fertig ist.“
 
-Frau Özdemir hat gesagt: „Er ist drin.“
+„Ich will nur sicher sein, dass sie nicht —“
 
-Ich habe gefragt, ob das heißt, dass wir fertig sind.
+„Dass sie nicht was?“ Niklas lehnte sich zurück. „Dass sie nicht
+schlechter dasteht? Sie steht am Ende ohne Schulden da, mit ihrem Haus,
+mit einer Reallast auf zwanzig Jahre für ihr Erdgeschoss, die wir
+freiwillig anbieten. Wenn du da noch etwas hinzufügst, ist es kein
+Vertrag mehr, sondern ein Geschenk mit Deckel.“
 
-Sie hat gesagt: „Sie sind fertig. Er fängt an.“
+Er hat die Blätter zusammengeschoben.
 
----
-
-An diesen acht Vormittagen habe ich Dinge gelernt, die in keiner
-Übergabe stehen und die ich hier aufschreibe, weil ich sie sonst wieder
-vergesse.
-
-Ein Kind mit einundzwanzig Monaten braucht für den Weg von der Tür zur
-Garderobe zwischen vierzig Sekunden und elf Minuten, und man kann nicht
-vorher wissen, welches von beidem.
-
-Man zieht die Schuhe im Sitzen an, nicht im Stehen, und man fängt mit
-dem Fuß an, den das Kind hinstreckt, nicht mit dem linken.
-
-Wenn ein Kind fällt und einen ansieht, bevor es weint, entscheidet das
-Gesicht des Erwachsenen, ob geweint wird. Das ist keine Erziehungsfrage,
-das ist Physik.
-
-Und: Es gibt in dieser Gruppe genau eine andere Person, die morgens
-allein kommt, ein Vater namens Ole, der bei der Hafenbahn arbeitet und
-mit dem ich seitdem zweimal die Woche vier Sätze wechsle. Er hat mich
-am zweiten Tag gefragt, was ich beruflich mache, und ich habe gesagt:
-Immobilien.
-
-„Oh“, hat er gesagt. „Und, viel zu tun?“
-
-Ich habe gesagt: „Geht so.“
-
-Das war die erste Unterhaltung seit Jahren, in der niemand wusste, wer
-ich bin, und ich habe nachts noch daran gedacht.
+„Jonas. Der Vertrag ist nicht dein letzter Satz an sie. Er ist nur ein
+Vertrag.“
 
 ---
 
-Am fünften Vormittag stand Marlene um zehn plötzlich in der Tür.
+Am fünfzehnten stand Kellermann in der Zeitung.
 
-Sie war dienstags nie da. Dienstag ist Backtag; sie hat den ganzen
-Vormittag Blätterteig, sie kann nicht weg, das war der ganze Grund,
-warum sie mich gefragt hat.
+Nicht wegen Kehrwieder. Wegen eines Objekts in der Neustadt, das er
+aus einem Bankenpaket gekauft hat, und der Artikel war freundlich; er
+wird darin als jemand beschrieben, der Substanz erhält.
 
-„Ich wollte nur sehen, wie es aussieht“, sagte sie.
+Ich habe den Artikel zweimal gelesen und danach eine halbe Stunde am
+Fenster gestanden.
 
-Wir standen zusammen im Flur, zwischen den Gummistiefeln, und sahen
-durch die Scheibe in der Tür.
+Denn das Unangenehme ist: Er macht dasselbe wie ich.
 
-Emil saß am kleinen Tisch und schob einen Becher hin und her. Er hat
-uns nicht bemerkt.
+Er wartet, bis eine Bank aufräumt, und dann ist er da. Genau das hat
+mein Vater mir mit siebzehn erklärt, in genau diesen Worten, und ich
+habe es zwölf Jahre lang für Handwerk gehalten.
 
-„Er sitzt da, als wäre er immer schon da gewesen“, sagte sie.
+Der Unterschied zwischen Kellermann und mir besteht in diesem Winter
+aus einer einzigen Sache, und die ist nicht Anstand.
 
-„Ja.“
+Sie ist: Ich kenne sie.
 
-„Ich habe achtzehn Monate lang gedacht, ich kann ihn nirgends hingeben.“
-Sie sah nicht weg von der Scheibe. „Und jetzt steht er da und braucht
-mich zwei Stunden lang nicht, und ich stehe hier und weiß nicht, ob ich
-erleichtert bin oder ob mir schlecht ist.“
+Das ist kein moralischer Unterschied. Das ist Zufall.
 
-„Beides“, sagte ich. „Sagt Frau Özdemir.“
+Ich habe an diesem Abend zum ersten Mal gedacht, dass ich mich nicht
+für einen besseren Menschen halten darf, sondern nur für einen, der
+Glück hatte.
 
-Sie lachte, einmal, kurz.
+---
 
-Und dann stand sie noch eine Minute da, und ich stand daneben, und
-irgendwann hat sie ihre Hand an meinen Ärmel gelegt — nicht in meine
-Hand, an den Ärmel, wie man das macht, wenn man sich an etwas festhält,
-das zufällig da ist.
+Am sechzehnten habe ich Wendland angerufen.
 
-Wir haben beide nichts dazu gesagt.
+Das mache ich nie. Wendland ruft an; man ruft nicht Wendland an.
 
-Als sie ging, sagte sie an der Treppe: „Danke, dass du acht gemacht
-hast und nicht drei.“
+„Reinhardt.“ Er klang überrascht. „Ist etwas?“
 
-„Ich habe acht gehört.“
+„Ich möchte, dass Sie am Zwanzigsten etwas wissen, bevor ich es im
+Raum sage.“
 
-„Ich weiß“, sagte sie. „Deshalb sage ich es ja.“
+„Dann sagen Sie es.“
+
+Ich habe es ihm gesagt. Alles: das Kind, den dritten Dezember, den
+Kauf am zweiundzwanzigsten, die Fristverlängerung, den Plan mit den
+Dienstbarkeiten.
+
+Es hat vier Minuten gedauert.
+
+Am anderen Ende war es danach lange still.
+
+„Warum rufen Sie mich vorher an?“, sagte er.
+
+„Damit Sie nicht am Zwanzigsten zum ersten Mal davon hören und
+entscheiden müssen, während Sie überrascht sind.“
+
+„Das ist Taktik.“
+
+„Ja“, sagte ich. „Es ist auch Taktik.“
+
+Wieder eine Pause.
+
+„Reinhardt, ich sage Ihnen jetzt etwas, und ich sage es genau einmal.“
+Ich hörte ihn etwas hinlegen. „Ihr Vater hätte diesen Anruf nicht
+gemacht. Nicht weil er unehrlich war. Weil ihm nicht in den Sinn
+gekommen wäre, dass ein Mensch überrascht sein könnte.“
+
+„Ist das gut oder schlecht?“
+
+„Das weiß ich am Zwanzigsten“, sagte Wendland und legte auf.
+
+---
+
+Am siebzehnten, einem Freitag, habe ich Emil gehabt.
+
+Zehn bis sechs. Wir waren im Museumshafen, weil dort Schiffe liegen und
+weil ein Zwanzigmonatiger für ein Schiff denselben Laut macht wie für
+einen Bagger.
+
+Sie hat ihn mir unten in der Durchfahrt übergeben, und wir haben sechs
+Sätze gewechselt, alle über Emil.
+
+Beim Zurückbringen um sechs stand sie schon in der Tür.
+
+„Wie war er?“
+
+„Gut. Er hat vor einem Schlepper vierzig Minuten gestanden.“
+
+„Vierzig?“
+
+„Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
+habe.“
+
+Sie hat gelächelt, und ich habe zum ersten Mal seit dem
+dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
+vorbei ist, sondern nur anders.
+
+Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
+hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein
+Handel aussieht.
+
+Ich glaube bis heute, dass das richtig war.
+
+Ich weiß aber auch, dass „ich sage lieber nichts“ in diesem Buch
+ungefähr sechzigmal vorkommt, und dass es jedes Mal die falsche
+Entscheidung war.
+
+---
+
+Am achtzehnten, einem Samstag, war ich bei meiner Mutter und habe ihr
+gesagt, dass es sein kann, dass ich am Montag abberufen werde.
+
+Sie hat gefragt: „Und dann?“
+
+„Dann führt Theo die Firma.“
+
+„Ich meine nicht die Firma, Jonas.“ Sie hat die Tasse abgestellt. „Ich
+meine dich. Was machst du dann?“
+
+Ich habe darauf keine Antwort gehabt.
+
+Ich bin sechsunddreißig, ich habe mit zweiundzwanzig ein
+Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
+die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
+Antwort.
+
+Meine Mutter hat gesagt: „Denk mal darüber nach. Nicht am Montag.
+Irgendwann.“
+
+Und dann, an der Tür:
+
+„Ich fände es nicht schlimm, weißt du.“
+
+„Was?“
+
+„Wenn sie dich rauswerfen.“ Sie hat mir den Mantel gereicht. „Dein Vater
+ist mit vierundfünfzig gestorben, und in den zweiunddreißig Jahren
+davor hat er zwei Wochen Urlaub gemacht. Ich habe kein einziges Mal
+gedacht: Gut, dass er so viel gearbeitet hat.“

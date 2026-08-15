@@ -1,222 +1,214 @@
 # Kapitel 11 — Leni
 
-Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
-alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
-Emils Fläschchen ausspülte.
+Ich schreibe jetzt einen Tag auf. Einen ganz normalen, einen Freitag,
+den einunddreißigsten Oktober, an dem nichts passiert ist.
 
-„Der Mann, der abends bei Ihnen sitzt.“
-
-„Herr Reinhardt.“
-
-„Ja.“ Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
-angesehen, als er nicht hingesehen hat. Er hat dieselbe Stirn wie der
-Kleine.“
-
-Ich sagte nichts.
-
-„Frau Voss.“ Sie drehte sich um und trocknete sich die Hände an der
-Schürze. „Ich bin einundsechzig. Ich habe drei Kinder großgezogen und
-neun fremde. Ich weiß, wann mich etwas nichts angeht.“
-
-„Aber?“
-
-„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert.“ Sie
-nahm ihren Mantel vom Haken. „Es geht nie gut aus, wenn der andere es
-selbst herausfindet. Nie.“
-
-Sie ging.
-
-Ich stand in meiner Küche, und Emil saß im Hochstuhl und trommelte mit
-einem Löffel, und ich dachte: *Ich weiß.*
+Ich mache das, weil in allem, was ich hier bisher erzählt habe, ein Mann
+vorkommt, und weil das ein falsches Bild von diesem Jahr gibt. Er kam
+zweimal die Woche. An den anderen fünf Tagen gab es das hier.
 
 ---
 
-Ich hatte in diesen Wochen zum ersten Mal seit langem abends jemanden
-gegenüber, und ich habe unterschätzt, was das mit einem macht.
+**4.12 Uhr.** Wach vor dem Wecker, wie an vier von fünf Tagen. Der
+Wecker steht auf 4.20, und er hat seit 2023 dreimal geklingelt.
 
-Es ist nicht das Reden. Ich rede den ganzen Tag, mit Herrn Osterkamp,
-mit Herrn Kubatz, mit den Handwerkern vom Umbau.
+Ich stehe nicht sofort auf. Ich liege zwei Minuten und höre, ob oben
+etwas ist. Es ist nichts. Emil schläft bis sechs, meistens, und wenn er
+nicht schläft, höre ich es an einem Rascheln, das mit Weinen nichts zu
+tun hat.
 
-Es ist, dass jemand die Antwort abwartet.
+**4.19 Uhr.** Unten. Licht nur über dem Arbeitstisch, weil das ganze
+Licht um diese Zeit weh tut. Ofen an — er braucht vierzig Minuten, und
+das ist die einzige unverrückbare Zahl in meinem Tag.
 
-Am siebzehnten hat er mich gefragt, wann ich zuletzt im Urlaub war, und
-ich habe die Frage zurückgegeben, weil ich sie nicht beantworten wollte.
-Meine ehrliche Antwort wäre gewesen: 2019, drei Tage Sylt mit Sanne, und
-ich habe an allen drei Tagen die Umsätze der Vertretung kontrolliert.
+Der Vorteig steht seit gestern Abend halb acht in der Wanne. Ich sehe
+ihn nicht an, ich fasse ihn an. Meine Großmutter hat nie ein Thermometer
+benutzt, und ich benutze eins, aber ich fasse trotzdem zuerst an, und
+wenn beides sich widerspricht, glaube ich der Hand.
 
-Am neunzehnten habe ich ihm von meiner Mutter erzählt. Das war ein
-Fehler, nicht weil er es weitererzählen würde, sondern weil ich danach
-in den Backraum gehen musste, um etwas zu holen, das ich nicht brauchte.
+**4.40 bis 6.10.** Aufarbeiten. Neun Bleche.
 
-Ich weiß, wie das aussieht. Ich wusste es auch damals.
-
----
-
-Das Problem war nicht, dass ich es nicht sagen wollte.
-
-Das Problem war, dass ich es jeden Tag ein bisschen weniger konnte.
-
-In den ersten Wochen wäre es ein Satz gewesen. *Jonas, ich muss dir etwas
-sagen.* Hart, aber sauber. Er hätte wütend sein können, und er hätte ein
-Recht darauf gehabt, und danach hätten wir eine Situation gehabt, mit der
-zwei Erwachsene umgehen.
-
-Aber dann hatte er das Dach bezahlt.
-
-Und dann hatte er den Entwurf geändert, sodass mein Haus stehen bleibt.
-
-Und dann hatte er die Anruferliste auf meinen Tisch gelegt, mit dem
-Vermerk *erledigt*, und mir damit gesagt: *Ich glaube dir. Ich habe
-nachgesehen, und du hattest recht, und ich hatte unrecht.*
-
-Und dann hatte er Tische abgewischt.
-
-Jeder dieser Tage machte den Satz schwerer. Nicht weil ich mehr zu
-verlieren hatte — sondern weil er jeden Tag mehr Anspruch darauf hatte,
-ihn früher gehört zu haben.
-
-Man kann jemandem nicht sagen: *Ich habe es dir vier Wochen lang
-verschwiegen, während du mein Dach bezahlt hast.*
-
-Man kann es. Es wird nur mit jeder Woche unmöglicher.
+Ich sage nicht *backen*. Backen ist der Teil, den der Ofen macht.
 
 ---
 
-Am zweiten Novemberwochenende fuhr Frau Kettler zu ihrer Tochter, und ich
-hatte Emil den ganzen Samstag.
+**5.55 Uhr.** Hauke klopft an die Seitentür.
 
-Wir gingen an den Elbstrand, weil es einer dieser unmöglichen
-Novembertage war, an denen die Sonne scheint und es trotzdem sechs Grad
-hat. Emil sammelte Steine. Er sammelte ausschließlich nasse Steine, weil
-nasse Steine glänzen, und er war jedes Mal enttäuscht, wenn sie in der
-Jackentasche trockneten.
+Hauke ist Wachmann in Block P, sechs Nächte die Woche, und er kommt,
+wenn seine Schicht zu Ende ist und meine anfängt. Er ist der Einzige,
+der die Seitentür benutzen darf, und das hat einen Grund: Er hat im
+Februar 2024 um vier Uhr nachts gesehen, dass bei mir Licht brannte,
+obwohl ich krank oben lag, und ist reingegangen und hat den Ofen
+ausgemacht, den ich am Abend vorher nicht ausgeschaltet hatte.
 
-Ich saß auf einem Findling und sah ihm zu.
+Er nimmt einen Kaffee mit viel Milch und ein Rosinenbrötchen und zahlt
+freitags für die ganze Woche, immer passend, immer mit einem
+Zwanzig-Euro-Schein und dem Rest in Münzen, die er vorher abzählt.
 
-Er hat Jonas’ Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
-etwas anzusehen, bevor er es anfasst — dieses kurze Innehalten, das bei
-einem achtzehn Monate alten Menschen komisch wirkt und bei einem
-sechsunddreißigjährigen Mann in einer Vorstandssitzung vermutlich
-beeindruckend.
-
-„Emil“, sagte ich.
-
-Er sah hoch.
-
-„Ich bin ein Feigling.“
-
-„Da“, sagte Emil und hielt mir einen Stein hin.
-
-„Danke.“
-
-Ich steckte ihn ein. Er ist heute noch in der Schublade unter der Kasse,
-neben dem Brief von der Bank, den ich aufgehoben habe, weil man solche
-Briefe aufhebt.
-
----
-
-Am Montag rief ich ihn an.
-
-„Reinhardt.“
-
-„Ich bin’s.“
-
-„Marlene.“ Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
-dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?“
-
-„Nein. Ich —“ Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
-ob Sie Donnerstag kommen.“
-
-„Ich komme jeden Donnerstag.“
-
-„Ich weiß. Ich wollte trotzdem fragen.“
-
-Eine Pause.
-
-„Marlene, ist alles in Ordnung?“
-
-Und da hatte ich es. Die offene Tür. Er hatte gefragt, ohne zu fragen, und
-ich hätte nur sagen müssen: *Nein.*
-
-„Ja“, sagte ich. „Alles gut. Bis Donnerstag.“
-
-Ich legte auf und stand eine Weile mit dem Telefon in der Hand.
-
----
-
-Donnerstag kam er um halb sieben, und es regnete wieder, und er hatte
-diesmal einen Mantel dabei und trug ihn trotzdem nicht.
-
-Wir arbeiteten anderthalb Stunden am Entwässerungsplan, was ungefähr so
-romantisch ist, wie es klingt. Um kurz nach acht schob er den Plan weg.
-
-„Ich muss Ihnen etwas sagen“, sagte er.
-
-Mein Herz machte etwas Unangenehmes.
-
-„Ja?“
-
-„Am fünfzehnten ist die Beiratssitzung. Da wird der Entwurf beschlossen —
-Ihrer, mit dem Hof.“ Er drehte die Tasse in der Hand. „Es gibt zwei
-Leute im Beirat, die das für einen Fehler halten. Sie werden fragen,
-warum wir vier Komma zwei Millionen liegen lassen für ein Kontorhaus, das
-nicht mal besonders schön ist.“
-
-„Und was sagen Sie dann?“
-
-„Dass der Entwurf besser ist. Was stimmt.“ Er sah auf. „Aber sie werden
-weiterfragen, und irgendwann wird jemand fragen, ob ich die Eigentümerin
-kenne.“
-
-Ich stellte meine Tasse ab.
-
-„Und?“
-
-„Und ich werde ja sagen.“
-
-„Sie könnten nein sagen.“
-
-„Ich könnte nein sagen“, stimmte er zu. „Und dann würde in drei Monaten
-jemand herausfinden, dass ich sie kenne, und dann wäre es nicht mehr ein
-Entwurf, der besser ist. Dann wäre es Vetternwirtschaft.“
-
-Er strich sich über das Gesicht, und ich sah, wie müde er war.
-
-„Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
-Zweifel vor dem Beirat trägt“, sagte er. „Und das hier trägt nur, wenn
-ich es vorher sage. Also sage ich es vorher.“
-
----
-
-Ich saß da und sah ihn an, und mir wurde langsam übel.
-
-Er saß in meinem Café und erklärte mir, warum man unangenehme Wahrheiten
-lieber selbst ausspricht, bevor jemand anderes sie findet.
-
-„Jonas“, sagte ich.
-
-„Ja?“
-
-Die Tür ging auf. Zwei Handwerker vom Nachbarhaus, klatschnass, laut,
-fröhlich. „Frau Voss, ist noch was da? Egal was.“
-
-Ich stand auf.
-
-„Einen Moment“, sagte ich, zu ihnen und zu ihm gleichzeitig.
-
-Als ich zurückkam, hatte er den Plan wieder aufgerollt und stand am
-Fenster, und der Moment war weg, so wie diese Momente immer weggehen —
-nicht mit einem Knall, sondern weil jemand zwei Franzbrötchen will.
-
-„Ich muss los“, sagte er. „Sitzung morgen früh.“
+„Nass draußen“, sagt er.
 
 „Ja.“
 
-An der Tür drehte er sich um.
+Das ist unser Gespräch. Es ist seit zwei Jahren dasselbe, und ich möchte
+es nicht anders.
 
-„Was wollten Sie sagen?“
+**6.40 Uhr.** Aufschließen. Schild umdrehen. Rollos hoch, alle vier, und
+dabei geht mir jedes Mal die zweite Kurbel schwer, seit ich sie 2021
+einmal falsch herum gedreht habe.
 
-Ich stand hinter der Theke, mit dem Tuch in der Hand, in dem Licht, das
-um diese Zeit von der Straße hereinkommt.
+---
 
-„Viel Glück am Fünfzehnten“, sagte ich.
+Um sieben ist die Speicherstadt eine andere Stadt als um elf.
+
+Um elf gehen hier Menschen mit Kaffeebechern und Handykameras. Um sieben
+gehen hier Leute zur Arbeit, und zwar in derselben Reihenfolge, weil
+Menschen, die zur Arbeit gehen, Züge haben.
+
+**7.05.** Die beiden vom Zollmuseum. Ein Milchkaffee, ein schwarzer,
+zwei Franzbrötchen, sechs Minuten, immer Tisch zwei.
+
+**7.20.** Frau Behnke, die für ein Speditionsbüro Post holt und
+grundsätzlich nichts kauft, sondern „nur mal guckt“ und dann jeden
+Dienstag etwas für die ganze Abteilung bestellt. Ich habe zwei Jahre
+gebraucht, um das zu verstehen. Sie guckt nicht, sie prüft.
+
+**7.50 bis 8.40.** Die dichteste Stunde des Tages. In dieser Stunde
+mache ich ungefähr ein Drittel vom Umsatz, und in dieser Stunde muss ich
+gleichzeitig an der Maschine stehen, kassieren, die zweite Fuhre in den
+Ofen schieben und mit dem Fuß die Tür zum Backraum zuhalten, weil sie
+sonst aufschwingt.
+
+Ich habe das noch nie jemandem beschrieben, weil man es nicht
+beschreiben kann, ohne dass es nach Klage klingt. Es ist keine Klage. Es
+ist das Beste am Tag. Es gibt in dieser Stunde nichts zu denken.
+
+---
+
+**9.10 Uhr.** Herr Kubatz mit Sender.
+
+Er kommt seit vier Jahren um zehn nach neun, liest die Karte, die sich
+nicht ändert, und bestellt einen Kaffee und ein Stück von dem, was am
+längsten in der Vitrine liegt. Ich habe ihm einmal gesagt, er müsse
+nicht das Älteste nehmen.
+
+„Ich nehme nicht das Älteste“, hat er gesagt. „Ich nehme das, was sonst
+keiner nimmt. Das ist etwas anderes.“
+
+Sender legt sich unter Tisch sieben, auf die Stelle, wo die Fliesen
+ausgebessert sind, weil dort im Winter die Leitung durchgeht.
+
+Herr Kubatz war beim NDR, Tontechnik, sechsunddreißig Jahre. Seine Frau
+ist 2022 gestorben. Er sagt das nicht, und ich weiß es von Sanne, und
+wir tun beide so, als wüsste ich es nicht.
+
+**9.30.** Sanne holt Wechselgeld. Nimmt ein Franzbrötchen, ohne zu
+fragen. Bleibt zwischen vier und vierzig Minuten, je nachdem, was sie
+gesehen hat.
+
+An diesem Freitag blieb sie sechs Minuten und sagte nur: „Du hast
+Ringe.“
+
+---
+
+**Zwischen halb elf und zwölf** ist die Stunde, in der ich die Kasse
+zwischenzähle und den Nachmittag vorbereite und in der ich, wenn Frau
+Kettler beim Arzt ist, Emil im Laufstall hinter der Theke habe.
+
+Um elf kamen die vier Frauen mit dem Kinderwagen, die freitags kommen
+und den Gang blockieren und die ich trotzdem mag, weil sie jedes Mal
+etwas mitnehmen und weil eine von ihnen im Sommer meine Karte in einer
+Elterngruppe geteilt hat, in der zweitausend Leute sind.
+
+Der Kinderwagen steht immer quer. Ich habe es einmal gesagt. Es hat
+nichts geändert. Ich sage es nicht mehr, weil vier Bestellungen mehr
+wert sind als ein freier Gang.
+
+Das ist auch ein Beruf: wissen, was man nicht sagt.
+
+---
+
+**Im Flur zum Treppenhaus** hängt etwas Gerahmtes.
+
+Es ist keine Urkunde. Es ist ein Blatt kariertes Papier, in der
+Handschrift meiner Großmutter, aus dem Frühjahr 1961, und es sind neun
+Zeilen mit neun Preisen.
+
+*Kaffee gemahlen 100 g — 1,15. Kaffee ganze Bohne 100 g — 1,10. Kandis
+— 0,30. Milchkaffee — 0,55. Mokka — 0,60. Butterkuchen — 0,35.
+Bienenstich — 0,50. Zitronenkuchen — 0,45. Kaltes — nach Ansage.*
+
+Sie hat es nicht aus Rührung aufgehängt. Sie hat es 1987 aufgehängt,
+weil ein Mann sich beschwert hatte, früher sei alles besser gewesen, und
+sie ihn beim nächsten Mal an die Wand führen wollte.
+
+„Damit er sieht, was früher heißt“, hat sie gesagt.
+
+Ich habe es hängen lassen, und ich habe zwei Jahre gebraucht, um zu
+merken, dass Zeile acht der Grund ist, warum in dieser Vitrine an jedem
+einzelnen Tag Zitronenkuchen liegt. Nicht weil er sich am besten
+verkauft. Weil er dort steht.
+
+Ich backe eine Liste von 1961 nach und wusste es nicht.
+
+---
+
+**13.00 bis 14.30.** Die zweite volle Stunde. Büroleute vom Sandtorkai,
+die zu spät Mittag machen, und ab Mitte Oktober die ersten Busgruppen,
+die eigentlich zum Miniaturwunderland wollen und sich verlaufen haben.
+
+Ich verkaufe an eine Busgruppe in zwanzig Minuten mehr als an Herrn
+Kubatz in einem Monat, und Herr Kubatz ist mir lieber, und wenn ich nur
+Herrn Kubatz hätte, gäbe es das Café nicht.
+
+Beides ist wahr. Man muss es aushalten.
+
+**15.50.** Frau Kettler kommt mit Emil runter, weil er unten sein will,
+und er läuft zwischen den Tischen, und die Busgruppe findet das reizend,
+und ich stehe an der Maschine und rechne aus, ob ich das Blech Nussecken
+für morgen noch schaffe.
+
+**17.30.** Zumachen. Rollos runter, Vitrine leer räumen; was übrig ist,
+kommt in eine Kiste, und die Kiste bringt Frau Kettler mittwochs und
+freitags zur Ausgabe an der Kirche.
+
+**17.55.** Kasse.
+
+---
+
+An diesem Freitag: **412,80 €.**
+
+Ein guter Tag. Der beste seit dem Sommer, weil das Wetter schlecht war
+und weil Menschen bei schlechtem Wetter reingehen.
+
+Was davon bleibt: nichts, was man einen Gewinn nennen würde. Nach
+Wareneinsatz, Frau Kettlers Stunden, Strom für einen Ofen aus dem Jahr
+1998 und der monatlichen Rate bleibt in einem guten Monat eine
+vierstellige Zahl, die vorne mit einer Eins anfängt, und davon lebe ich
+mit einem Kind in einem Haus, das mir gehört.
+
+Ich habe das nie schlimm gefunden. Ich finde es bis heute nicht schlimm.
+
+Man kann mit dieser Zahl nur keine zweihundertvierzehntausend Euro
+zurückzahlen, und zwar in keinem denkbaren Jahr.
+
+---
+
+**19.40 Uhr.** Emil im Bett. Küche, Tisch, Taschenrechner.
+
+Ich habe an diesem Abend etwas gemacht, das ich seit Jahren mache und
+das nirgends steht: Ich habe den Tag in das Heft geschrieben, in dem
+sonst die Bestellungen stehen. Zwei Zeilen. Umsatz, und daneben ein
+Wort.
+
+Meine Großmutter hat vierzig Jahre lang zwei Zeilen geschrieben. Ich
+schreibe eine Zahl und ein Wort, weil ich es mit dem Kassenbuch nicht
+kann; ich führe es digital, das Finanzamt hat es lieber so.
+
+Das Wort an diesem einunddreißigsten Oktober war: *ruhig.*
+
+Ich habe es hingeschrieben und angesehen und dann noch etwas
+danebengeschrieben, klein, weil es nicht in die Zeile passte, und ich
+habe es am nächsten Morgen wieder durchgestrichen und weiß bis heute
+jedes Wort davon.
+
+*Frag ihn, was er Freitag macht.*

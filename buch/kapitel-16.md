@@ -1,202 +1,243 @@
 # Kapitel 16 — Jonas
 
-Ich habe meiner Mutter am Samstag gesagt, dass sie einen Enkel hat.
+Am Mittwoch stand ich um zehn nach acht vor ihrer Tür und wusste, was
+kommt.
 
-Nicht am Telefon. Ich bin hingefahren, an einem Samstagvormittag im
-November, und habe vor ihrer Tür gestanden und zum ersten Mal seit
-zwanzig Jahren nicht gewusst, wie ich anfangen soll.
+Nicht die Einzelheiten. Aber das Wesentliche wusste ich seit der Nacht am
+Backtisch, und ehrlich gesagt seit dem ersten Tag, seit dem Weinen durch
+die Decke, und ich hatte es nur nicht angesehen, so wie man eine
+Diagnose nicht ansieht, solange der Umschlag zu ist.
 
-Sie machte auf, sah mich an und sagte: „Du hast nicht angerufen.“
+Sie öffnete. Sie hatte die Schürze abgenommen. Das fiel mir auf, weil sie
+sie sonst nie abnimmt.
 
-„Nein.“
+„Er schläft“, sagte sie.
 
-„Dann komm rein.“
+„Gut.“
+
+Wir standen im dunklen Café, nur die Lampe über dem Tresen an, und
+draußen ging jemand mit einem Hund vorbei.
+
+„Setzen wir uns“, sagte sie.
 
 ---
 
-Wir saßen in ihrem Wohnzimmer, sie in dem Sessel, aus dem man allein
-aufstehen kann, ich auf dem Sofa, das zu tief ist.
+Sie hatte etwas auf den Tisch gelegt. Ein kleines Fotoalbum, so ein
+billiges aus dem Drogeriemarkt, mit einem Sonnenblumenmotiv auf dem
+Umschlag.
 
-Ich hatte mir drei Sätze zurechtgelegt. Das ist ein Muster bei mir,
-inzwischen weiß ich das.
+Sie legte die Hand darauf, nahm sie aber nicht weg.
 
-Ich sagte: „Der Junge im Café. Emil.“
+„Ich fange nicht mit dem Anfang an“, sagte sie. „Wenn ich mit dem Anfang
+anfange, rede ich mich raus. Also fange ich mit dem an, was zählt.“
 
-Und meine Mutter sagte, ohne eine Sekunde zu warten:
+Ich sagte nichts.
+
+„Emil ist deiner.“
+
+---
+
+Ich weiß nicht, wie lange ich nichts sagte.
+
+Es gibt eine Sache, die einem niemand über solche Momente erzählt: dass
+man sie in zwei Hälften erlebt. In der einen Hälfte passiert nichts.
+Nichts fällt um, niemand schreit, das Licht ändert sich nicht. In der
+anderen Hälfte hat sich das ganze Leben umsortiert und man weiß noch
+nicht, in welcher Reihenfolge es jetzt liegt.
+
+„Wie alt“, sagte ich schließlich.
+
+„Achtzehn Monate. Am achten Mai wird er zwei.“
+
+Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
+gestimmt hatte.
+
+„Travemünde.“
 
 „Ja.“
 
+Ich sah auf das Album mit den Sonnenblumen.
+
+„Darf ich?“
+
+Sie schob es zu mir.
+
+---
+
+Es waren nicht viele Bilder. Vielleicht vierzig.
+
+Ich habe später ausgerechnet, was das heißt. Achtzehn Monate sind
+fünfhundertvierzig Tage. Vierzig Bilder.
+
+Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
+
+Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
+Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
+Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
+
+Dann Emil auf dem Arm einer alten Frau, die ich nicht kannte.
+
+„Wer ist das?“
+
+„Frau Kettler.“ Sie sah nicht hin. „Sie hat ihn gehalten, als ich das
+erste Mal wieder in den Backraum musste. Am achten Tag.“
+
+„Am achten Tag nach der Geburt?“
+
+„Der Laden macht nicht von allein auf.“
+
+Ich habe darauf nichts gesagt, weil mir nichts eingefallen ist, was
+nicht falsch gewesen wäre.
+
+Dann Emil im Schnee. Emil mit einem Löffel. Emil schlafend auf einer
+Wolldecke im Café, unter dem Fenstertisch, an dem ich sechs Wochen lang
+gesessen und über Entwässerung geredet hatte.
+
+Ich blätterte langsam. Ich wollte es nicht schnell machen.
+
+„Der achte Mai“, sagte ich irgendwann.
+
+„Ja.“
+
+„Da war ich in Zürich.“ Ich hörte selbst, wie sinnlos das war. „Ich weiß
+nicht, warum ich das sage.“
+
+„Weil man in solchen Momenten irgendwas sagt“, sagte sie.
+
+---
+
+Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
+ohne dass ich fragen musste.
+
+„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
+noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
+
+„Was stand wirklich drin?“
+
+„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
+zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
+dazu durchzuringen.“
+
+Ich schloss die Augen.
+
+„Und dann?“
+
+„Dann kam keine Antwort. Und im November war ein Foto in der Zeitung, du
+mit einer Frau in Grün. Und dann —“ Sie brach ab.
+
+„Und dann?“
+
+„Und dann war da noch etwas, und das ist der Teil, bei dem ich schlecht
+dastehe.“ Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
+dich gefragt, ob du Kinder willst. Und du hast gesagt: *Nein. Nicht
+solange* — und dann hast du den Satz nicht zu Ende gesagt.“
+
 Ich sah sie an.
 
-„Was heißt ja?“
+Ich hatte an diesen Satz nicht ein einziges Mal gedacht. Nicht in zwei
+Jahren.
 
-„Es heißt ja, Jonas.“ Sie legte die Hände in den Schoß, die rechte über
-die linke, wie immer. „Ich habe ihn im November gesehen. Vier Wochen
-ist das her.“
+„Ich habe das *Nein* behalten“, sagte sie. „Zwei Jahre lang. Jedes Mal,
+wenn ich es noch mal hätte versuchen können, war da dieses Nein.“
 
-„Und du hast nichts gesagt?“
+„Nicht solange die Firma so an mir hängt“, sagte ich.
 
-„Was hätte ich sagen sollen?“ Sie sah mich an. „Dein Sohn sieht aus wie
-du, als du zwei warst? Das ist keine Auskunft, das ist eine Vermutung.
-Und Vermutungen über andere Leute sagt man nicht laut, das habe ich
-achtundzwanzig Jahre lang so gehalten.“
+Sie sah mich an.
 
-„Mama.“
-
-„Er hat deine Stirn“, sagte sie. „Und er hält Sachen hin, damit man sie
-nimmt. Das hast du auch gemacht. Bis du ungefähr vier warst, dann hat
-es aufgehört.“
-
-Ich saß auf diesem zu tiefen Sofa und wusste nicht, wohin mit den
-Händen.
-
-„Warum hat es aufgehört?“, fragte ich.
-
-Meine Mutter sah aus dem Fenster.
-
-„Weil dein Vater es nicht genommen hat“, sagte sie. „Nicht aus
-Bosheit. Er hat es nicht gesehen. Er hat abends um acht am Tisch
-gesessen und gerechnet, und du bist mit irgendetwas gekommen, und er
-hat gesagt: gleich, Junge. Und irgendwann bist du nicht mehr
-gekommen.“
-
-Sie sagte das ohne Vorwurf, so wie sie alles sagt, seit sie im
-Krankenhaus lag.
-
-„Ich habe das damals für Erziehung gehalten“, sagte sie. „Ich habe
-gedacht, so werden Jungen selbstständig.“
+„Das war der Rest vom Satz“, sagte ich. „*Nicht solange die Firma so an
+mir hängt, dass ich nicht mal einen Sonntag habe.* Ich weiß es noch, weil
+ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
+richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
+Nein zu meinem Leben, so wie es damals war.“
 
 ---
 
-Ich blieb bis zwei.
+Sie fing an zu weinen, und zwar auf die schlimmste Art, nämlich lautlos
+und ohne das Gesicht zu verziehen.
 
-Sie hat gefragt, wie alt er ist, wann er Geburtstag hat, ob er schläft,
-was er isst. Sie hat gefragt, ob er Karotten mag, und ich habe gesagt,
-er verweigert sie seit Mittwoch, und sie hat gesagt, das sei bei mir
-genauso gewesen, nur mit Kohlrabi.
+Ich stand auf, ging um den Tisch herum und hockte mich neben ihren Stuhl,
+und ich fasste sie nicht an, weil ich nicht wusste, ob ich das darf.
 
-Dann hat sie gefragt, was ich jetzt vorhabe.
+„Ich hätte es trotzdem sagen müssen“, sagte sie. „Auch mit dem Nein. Auch
+mit dem Foto. Ich hätte hinfahren können. Ich hätte in dein Büro gehen
+und im Foyer warten können, bis du rauskommst. Das habe ich nicht
+gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte.“
 
-„Ich lasse etwas aufsetzen“, sagte ich. „Damit er abgesichert ist. Er
-steht heute nirgends.“
+„Welche?“
 
-Meine Mutter sagte lange nichts.
-
-„Jonas“, sagte sie dann. „Weißt du, was das Erste war, das dein Vater
-getan hat, als du geboren wurdest?“
-
-„Nein.“
-
-„Er hat eine Lebensversicherung abgeschlossen. Am dritten Tag. Er ist
-aus dem Krankenhaus direkt zur Sparkasse.“ Sie sah mich an. „Das war
-richtig. Ich habe später davon gelebt.“
-
-„Und?“
-
-„Und ich habe ihn in dieser Woche kein einziges Mal weinen sehen.“
+„Dass ich Angst hatte, du sagst, du willst ihn nicht.“ Sie wischte sich
+mit dem Handrücken übers Gesicht. „Und solange ich nicht gefragt habe,
+konnte ich mir vorstellen, dass du ihn gewollt hättest.“
 
 ---
 
-Am Sonntag rief ich Theo an.
+Und da war er, der Moment, in dem ich hätte wütend werden können.
 
-„Ich muss dir was sagen“, sagte ich.
+Ich hatte auch allen Grund dazu. Sechs Wochen lang hatte ich an diesem
+Tisch gesessen. Ich hatte ihr Dach bezahlt. Ich hatte vor sieben Leuten im
+Beirat für sie den Kopf hingehalten. Ich hatte in ihrem Café Tische
+abgewischt und mir dabei eingebildet, wir seien ehrlich zueinander.
+
+Ich habe später oft überlegt, warum ich in dieser Sekunde nicht wütend
+wurde.
+
+Ich glaube, es lag an dem Album.
+
+Vierzig Bilder. Ultraschall, Mütze, Schnee, Löffel. Zwei Jahre, in denen
+niemand da war, um das zweite Foto zu machen, weil sie beide Rollen
+hatte.
+
+„Marlene.“
+
+Sie sah nicht auf.
+
+„Sieh mich bitte an.“
+
+Sie sah auf.
+
+„Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein,
+oder nächste Woche, und dann sage ich es dir. Aber jetzt gerade sitze ich
+hier und denke die ganze Zeit nur einen einzigen Satz.“
+
+„Welchen?“
+
+„Dass du das zwei Jahre lang allein gemacht hast.“
+
+---
+
+Sie weinte richtig, und diesmal ließ ich es zu, dass ich sie anfasste, und
+sie ließ es auch zu.
+
+Es dauerte eine Weile.
+
+Irgendwann, als es vorbei war, saßen wir nebeneinander auf zwei Stühlen
+in einem dunklen Café, und sie hatte mein Hemd nass gemacht, und ich
+merkte, dass ich immer noch das Album in der Hand hielt.
+
+„Was jetzt?“, sagte sie.
+
+„Darf ich ihn sehen?“
+
+Sie zögerte nicht einmal eine Sekunde.
+
+„Er schläft.“
 
 „Ich weiß.“
 
-„Du weißt es nicht.“
+Sie stand auf und nahm meine Hand, und wir gingen die Treppe hoch, und
+die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte.“
 
-„Jonas.“ Ich hörte, dass er draußen war; im Hintergrund fuhr etwas
-vorbei. „Du hast vor drei Wochen vor sieben Leuten gesagt, dass du eine
-Eigentümerin persönlich kennst. Ich habe dich seit September dreimal
-die Woche an einem Fenstertisch sitzen sehen. Ich bin Architekt, kein
-Idiot.“
+„Die vierte“, wiederholte ich.
 
-„Es ist mehr als das.“
+Und dann standen wir in einem Kinderzimmer, in dem ein Nachtlicht in Form
+eines Pilzes brannte, und in einem Gitterbett lag ein Kind auf dem Bauch,
+mit dem Hintern in der Luft, so wie kleine Kinder liegen, und atmete.
 
-Er war einen Moment still.
+Ich stand da und sah ihn an und konnte nicht aufhören.
 
-„Wie viel mehr?“
+„Er hat deine Stirn“, flüsterte sie.
 
-„Er ist eineinhalb“, sagte ich. „Er heißt Emil.“
+„Er hat deine Hände“, sagte ich.
 
-Das Geräusch im Hintergrund hörte auf. Ich glaube, mein Bruder ist
-stehen geblieben.
-
-„Okay“, sagte er.
-
-„Sag was.“
-
-„Ich denke nach.“ Eine Pause. „Jonas, ich sage jetzt etwas, und du wirst
-es falsch verstehen, und ich sage es trotzdem: Ich bin froh.“
-
-„Worüber?“
-
-„Dass dir mal etwas passiert, das nicht in deinem Kalender stand.“
-
----
-
-Am Montag war ich um sieben im Büro, und um Viertel nach sieben stand
-ich wieder vor der Tür und wusste nicht, warum ich hier bin.
-
-Ich habe an diesem Tag drei Sitzungen gehabt und in allen dreien
-funktioniert. Das ist das Merkwürdige: Es hat nichts aufgehört. Der
-Aufzug in Barmbek, die Fundamentplatte in Rothenburgsort, die elf
-Wohnungen — es lief alles weiter, und ich lief mit.
-
-Um halb sechs habe ich Frau Kuhlmann gebeten, mir die nächsten vier
-Donnerstage ab siebzehn Uhr freizuhalten.
-
-Sie hat es eingetragen und gefragt: „Als was soll ich es benennen?“
-
-Ich habe eine Weile gebraucht.
-
-„Privat“, sagte ich.
-
-Es steht seitdem so in meinem Kalender, jeden Donnerstag, und ich habe
-in den ersten Wochen jedes Mal hingesehen, wenn ich den Kalender
-aufgemacht habe.
-
----
-
-Am Mittwoch habe ich einen Fehler gemacht, der klein aussieht.
-
-Ich war um sechs am Kehrwieder, und Emil saß im Hochstuhl, und Marlene
-war im Backraum. Er hatte einen Becher, und der Becher fiel runter, und
-ich habe ihn aufgehoben.
-
-Beim vierten Mal habe ich ihn nicht mehr aufgehoben.
-
-Ich habe gedacht: Er lernt sonst, dass ich das immer mache.
-
-Er hat mich angesehen, ungefähr drei Sekunden lang, und dann hat er
-sich weggedreht und mit dem Löffel weitergemacht.
-
-Ich habe an diesem Abend im Auto gesessen und mir das ungefähr
-zwanzigmal angesehen, und beim einundzwanzigsten Mal habe ich den Satz
-meiner Mutter gehört.
-
-*Und irgendwann bist du nicht mehr gekommen.*
-
-Ich bin am Donnerstag zurückgefahren und habe den Becher
-achtundzwanzigmal aufgehoben. Ich habe mitgezählt.
-
-Beim neunundzwanzigsten Mal hat er aufgehört und gelacht.
-
----
-
-Am Freitag saß ich abends allein in meiner Wohnung und habe etwas
-getan, das ich seit Jahren nicht getan habe: Ich habe eine Liste
-gemacht, die nichts mit der Firma zu tun hat.
-
-Sie hatte zwei Überschriften.
-
-**Was er braucht:**
-Da stand am Ende: nichts, was ich kaufen kann.
-
-**Was ich brauche:**
-Da stand nichts. Ich habe zwanzig Minuten davorgesessen, und da stand
-nichts.
-
-Ich habe das Blatt weggeworfen und die zweite Hälfte dieser Frage erst
-im Februar beantworten können, auf einem Stuhl von einunddreißig
-Zentimetern.
+Und dann heulte ich, zum ersten Mal seit dem Tod meines Vaters, im
+Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.

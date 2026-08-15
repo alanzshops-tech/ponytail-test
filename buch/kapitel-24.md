@@ -1,229 +1,215 @@
 # Kapitel 24 — Jonas
 
-Ich war in neun Minuten da, und ich bin bei Rot über die Willy-Brandt-
-Straße gefahren, und ich schreibe das hin, weil ich es nicht
-verteidigen will.
+Ich rief vier Tage nicht an.
 
-Der Rettungswagen stand schon in der Durchfahrt, mit offenen Türen und
-laufendem Blaulicht ohne Ton. Die Tür zum Café stand offen. Im
-Treppenhaus brannte Licht bis oben.
+Ich habe mir eingeredet, dass ich ihr Raum gebe. Das ist die
+Lieblingslüge von Männern wie mir. *Raum geben* heißt in Wahrheit: Ich
+weiß nicht, was ich sagen soll, und solange ich nichts sage, habe ich
+auch nichts Falsches gesagt.
 
-Ich bin die Treppe hoch, und auf der vierten Stufe, die knarrt, hat es
-geknarrt, und ich habe in diesem Moment tatsächlich gedacht: *die
-vierte.*
+Am Montag kam Theo in mein Büro, sah mich an und sagte: „Du siehst aus
+wie neunzehn Neunundneunzig.“
 
-Im Kinderzimmer standen zwei Sanitäter und ein Notarzt, und Marlene saß
-auf dem Boden neben dem Gitterbett, in einem T-Shirt und ohne Schuhe,
-und hielt Emils Hand durch die Stäbe.
+„Danke.“
 
-Sie hat mich angesehen und nichts gesagt.
+„Neunzehn Neunundneunzig warst du drei Monate lang so.“ Er setzte sich
+auf die Tischkante, genau wie Niklas, was mich zu der Frage bringt, wozu
+ich eigentlich Stühle habe. „Was ist passiert?“
 
-Der Notarzt hat gesagt: „Sind Sie der Vater?“
+„Ich habe ihr eine Mappe hingelegt.“
+
+Mein Bruder schloss kurz die Augen.
+
+„Sechsunddreißig Seiten“, sagte ich.
+
+„Jonas.“
+
+„Mit Register.“
+
+„Herrgott.“ Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
+habe eine Frau, von der meine Mutter nicht weiß, dass es sie gibt. Ich
+bin die letzte Instanz auf diesem Planeten, die dir Vorträge halten
+darf.“
+
+An der Tür drehte er sich um.
+
+„Aber wenn du mich fragst: Geh hin, ohne Papier. Ganz ohne. Nicht mal
+einen Kugelschreiber.“
+
+---
+
+Ich ging nicht sofort zu ihr. Ich ging erst ins Jugendamt.
+
+Vorher habe ich zwei Tage lang etwas gemacht, das ich noch nie gemacht
+habe: Ich habe gelesen, ohne dass jemand es von mir verlangt hat.
+
+Nicht Gesetze — die kann Niklas. Ich habe gelesen, wie das ist, wenn ein
+Vater spät dazukommt. Es gibt darüber erstaunlich wenig, und das meiste
+davon ist entweder Werbung für einen Anwalt oder ein Forum, in dem
+Menschen sehr wütend sind.
+
+Ein Satz ist hängen geblieben, aus einem Text, den eine Erzieherin
+geschrieben hat: *Das Kind hat nicht auf Sie gewartet. Es hat auf
+niemanden gewartet. Es hatte alles, was es brauchte, und Sie kommen jetzt
+dazu — das ist ein Geschenk und keine Rettung.*
+
+Ich habe den Satz zweimal gelesen und mich geärgert und dann gemerkt,
+dass ich mich ärgere, weil er stimmt.
+
+Das klingt nach dem nächsten Fehler, und ich verstehe, wenn Sie das
+denken. Aber ich wollte einmal in meinem Leben in ein Gespräch gehen,
+in dem ich nicht derjenige bin, der die Regeln erklärt.
+
+Abteilung Beistandschaften, Hamburg-Mitte, zweiter Stock, ein Gang mit
+Kinderzeichnungen an der Wand und einem Getränkeautomaten, der
+zweiundzwanzig Cent Rückgeld schuldig blieb.
+
+Die Sachbearbeiterin hieß Frau Adamczyk und hatte drei Aktenstapel und
+einen Kaktus.
+
+„Sie sind der Vater.“
 
 „Ja.“
 
-Es war das erste Mal, dass ich das zu einem Fremden gesagt habe.
-
----
-
-Im Wagen durfte nur einer mit, und das war sie, und das war richtig.
-
-Ich bin hinterhergefahren. Die Kinderklinik Altona ist elf Kilometer
-weit, und ich habe in diesen elf Kilometern das Rücklicht angesehen und
-sonst nichts gedacht.
-
-Das ist nicht wahr. Ich habe eine Sache gedacht, und sie war so
-egoistisch, dass ich sie hier nur hinschreibe, weil dieses Buch sonst
-nicht stimmt:
-
-*Ich kenne ihn seit vier Wochen.*
-
-Nicht: Hoffentlich geht es ihm gut. Nicht: Was ist passiert.
-
-*Vier Wochen. Ich habe ihn vier Wochen.*
-
-An der Ampel Holstenstraße habe ich beide Hände vom Lenkrad genommen
-und mir angesehen, wie sie zitterten.
-
----
-
-Um halb vier stand ich an einem Tresen hinter einer Glasscheibe und
-hörte einer Frau zu, die mich elf Sachen fragte, von denen ich sieben
-nicht wusste.
-
-Geburtsdatum: wusste ich. Achter Mai.
-
-Versicherung: wusste ich nicht.
-
-Allergien: wusste ich nicht.
-
-Impfungen: wusste ich nicht.
-
-Und dann fragte sie: „Und der Herr?“
-
-„Ich bin der Vater.“
-
-„Sorgeberechtigt?“
+„Sind Sie verheiratet mit der Mutter?“
 
 „Nein.“
 
-„Verheiratet mit der Mutter?“
+„Dann sind Sie erst mal gar nichts.“ Sie sagte es ohne jede Schärfe, so
+wie man sagt, dass draußen Regen ist. „Das Sorgerecht liegt bei der
+Mutter. Sie können die Vaterschaft anerkennen — hier bei uns, kostenlos,
+das beurkunde ich Ihnen. Dauert eine Viertelstunde.“
 
-„Nein.“
+„Und was brauche ich dafür?“
 
-„Vaterschaft anerkannt?“
+„Ihren Ausweis.“
 
-„Nein.“
+Ich wartete.
 
-Sie hat getippt, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
-Mensch, der um halb vier Uhr morgens seine Arbeit macht.
+„Und?“
 
-„Dann trage ich Sie als Begleitperson ein.“
+„Und die Mutter“, sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
+Zustimmung ist die Anerkennung unwirksam. Beim gemeinsamen Sorgerecht
+genauso — das geht nur, wenn beide es erklären.“
 
----
+„Und wenn sie nicht will?“
 
-Ich habe in meinem Leben ein paar Sätze gehört, die ich behalten habe.
+Sie legte den Kugelschreiber hin.
 
-Der von Wendland: *Machen Sie es wieder.*
+„Herr Reinhardt, das ist die Frage, die hier jeden Tag zwanzigmal
+gestellt wird, und ich beantworte sie jeden Tag zwanzigmal gleich: Dann
+haben Sie kein rechtliches Problem. Dann haben Sie ein Problem mit der
+Mutter.“ Sie schob mir ein Merkblatt hin. „Und das löst kein Amt.“
 
-Der von meiner Mutter: *Ich habe achtundzwanzig Jahre neben einem Mann
-gelebt, der recht hatte.*
+Ich sah auf das Merkblatt. Vier Seiten, geheftet, in einer Schrift, die
+seit den Neunzigern nicht gewechselt wurde.
 
-Und dieser hier, von einer Frau, deren Namen ich nicht kenne, hinter
-einer Scheibe, um halb vier Uhr morgens, ohne jede Absicht:
+„Darf ich Sie etwas fragen?“
 
-*Dann trage ich Sie als Begleitperson ein.*
+„Bitte.“
 
-Ich habe gesagt: „Ist in Ordnung.“
+„Was machen die Leute falsch, die hier scheitern?“
 
-Es war nicht in Ordnung. Es war völlig korrekt und vollkommen richtig
-und es war genau das, was ich seit achtzehn Monaten bin, und es stand
-jetzt in einem Formular.
+Frau Adamczyk sah mich zum ersten Mal richtig an.
 
----
-
-Um vier musste sie nach vorn, weil sie etwas unterschreiben sollte, das
-nur sie unterschreiben kann.
-
-Ich blieb bei ihm.
-
-Er lag in einem Bett, das für ihn dreimal zu groß ist, mit einer Nadel
-im Handrücken und einem Pflaster darüber, auf dem ein Bär abgebildet
-war. Er war wach. Er sah an die Decke.
-
-Ich habe mich auf den Hocker gesetzt und nicht gewusst, was man macht.
-
-Dann fing er an zu weinen.
-
-Ich kannte dieses Weinen nicht. Ich kenne inzwischen drei Sorten — müde,
-hungrig, wütend —, und das hier war eine vierte, und ich habe sofort
-verstanden, dass es Angst ist.
-
-Die Schwester hat es versucht. Er hat sich weggedreht.
-
-Marlene kam rein und hat ihn hochgenommen, und er wollte nicht.
-
-Er hat beide Arme an ihr vorbeigestreckt und einen Laut gemacht mit
-einem harten Anfang.
+„Sie kommen zu mir, bevor sie mit ihr geredet haben“, sagte sie.
 
 ---
 
-Ich habe ihn genommen.
+Am Dienstag um elf stand ich im Café.
 
-Ich habe ihn falsch gehalten, das weiß ich heute: zu hoch, zu fest, mit
-einer Hand am Hinterkopf, so wie man Neugeborene hält.
+Es war voll. Es ist dienstags um elf immer voll, das weiß ich inzwischen.
+Sie war allein hinter der Theke, und Frau Kettler war oben bei Emil, und
+an Tisch vier saßen vier Frauen mit einem Kinderwagen quer im Gang.
 
-Er hat trotzdem aufgehört. Nicht sofort — über ungefähr eine Minute, wie
-ein Motor, der ausgeht. Dann hat er den Kopf in die Kuhle zwischen
-Schulter und Hals gelegt und war weg.
+Ich stellte mich in die Schlange.
 
-Und ich stand mitten in einem Untersuchungszimmer und habe über seinen
-Kopf hinweg die Frau angesehen, die ihn achtzehn Monate lang allein
-gehalten hat, und in ihrem Gesicht war etwas, das ich nicht ansehen
-konnte.
+Als ich dran war, sagte ich: „Ich habe zwei Stunden.“
 
-Ich habe später gefragt, was es war.
+Sie sah mich an. Sehr lange, für eine Schlange von sechs Leuten.
 
-Sie hat gesagt: „Beides.“
+„Schürze hängt an der Tür“, sagte sie.
 
 ---
 
-Um halb sechs schlief er richtig, und wir saßen auf zwei Stühlen im
-Gang, weil im Zimmer kein Platz für zwei Erwachsene ist.
+Ich habe an diesem Dienstag von elf bis eins Tische abgewischt.
 
-Ich habe Kaffee aus dem Automaten geholt.
+Ich habe nichts zerbrochen. Das war der einzige messbare Fortschritt.
 
-Es gibt eine Sorte Müdigkeit, in der die Dinge sehr genau werden. Ich
-weiß noch, wie der Gang aussah: Linoleum, das jemand vor vier Stunden
-gewischt hat. Ein Aushang über Läusebefall. Eine Zeichnung von einem
-Wal, unterschrieben mit *Mia, 5*.
+Um kurz vor eins, als es leerer wurde, ging ich hinter die Theke, wo der
+Mülleimer steht, und holte ein Blatt Papier aus der Innentasche und riss
+es in vier Teile und warf es weg.
 
-Ich habe angefangen, einen Satz zu sagen.
+Sie sah zu.
 
-„Ich lasse morgen —“
+„Das war das Laborblatt“, sagte ich.
 
-Und dann habe ich ihn nicht zu Ende gesagt, und das ist das Einzige,
-was ich in dieser Nacht richtig gemacht habe.
-
-Ich wusste nicht einmal, was ich veranlassen wollte. Es war kein
-Gedanke, es war ein Reflex, wie das Bein beim Hammerschlag aufs Knie.
-
-„Was?“, sagte sie.
-
-„Nichts.“ Ich drehte den Becher. „Ich wollte gerade sagen, dass ich
-morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein Reflex.“
-
-„Diesmal hast du ihn nicht gemacht.“
-
-„Diesmal habe ich ihn *gesagt*“, sagte ich. „Das ist nicht dasselbe wie
-nicht machen.“
-
----
-
-Sie hat um kurz vor sechs gesagt: „Montag gehen wir zum Jugendamt.“
-
-Ich habe „danke“ gesagt.
-
-Sie hat gesagt: „Bedank dich nicht. Es steht ihm zu. Nicht dir.“
-
----
-
-Ich bin um sieben nach Hause gefahren, habe geduscht, ein Hemd
-angezogen und war um Viertel vor neun im Büro, weil dienstags um neun
-die Bauleiterrunde ist.
-
-Ich habe die Bauleiterrunde gehalten. Vierzig Minuten, Rothenburgsort,
-Fundamentplatte, drei Entscheidungen. Niemand hat etwas gemerkt.
-
-Um halb elf kam Frau Kuhlmann mit dem Kalender und sagte: „Sie haben
-Ihr Hemd falsch zugeknöpft.“
-
-Ich habe es angesehen. Es stimmte, um eine Reihe verschoben, seit halb
-acht.
-
-„Ich hatte eine Nacht in der Kinderklinik“, sagte ich.
-
-Meine Assistentin ist zweiundfünfzig Jahre alt und hat zwei erwachsene
-Kinder, und sie hat in diesem Moment etwas getan, das sie in neunzehn
-Jahren nicht getan hat: Sie hat sich hingesetzt.
-
-„Fieberkrampf?“
+„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast.“ Sie
+nahm mir das Tuch aus der Hand. „Das war eine Geste.“
 
 „Ja.“
 
-„Die sehen furchtbar aus und sind fast immer harmlos.“ Sie legte den
-Kalender hin. „Bei meinem Sohn zweimal. Ich habe beide Male gedacht,
-er stirbt.“
+„Ich mag Gesten nicht besonders.“
 
-Wir haben ungefähr zwei Minuten geschwiegen.
+„Ich weiß nicht, was ich sonst machen soll.“
 
-Dann hat sie den Kalender wieder aufgenommen und gesagt: „Sie haben um
-elf die Bank. Soll ich verschieben?“
+Und dann sagte Marlene Voss den Satz, für den ich sie vermutlich
+geheiratet hätte, wenn wir zwei völlig andere Menschen mit einer völlig
+anderen Vorgeschichte gewesen wären:
 
-„Nein“, sagte ich. „Aber halten Sie mir Montagvormittag frei.“
+„Komm nächsten Dienstag wieder.“
 
-„Als was?“
+---
 
-„Jugendamt“, sagte ich.
+Ich kam nächsten Dienstag wieder. Und den Dienstag darauf.
 
-Sie hat es eingetragen, ohne zu fragen, wozu.
+Ich lernte, dass man Tassen nicht stapelt, wenn sie noch heiß sind, weil
+sie dann festsaugen. Ich lernte, dass der Mann mit dem Hund um zehn nach
+neun kommt und immer dasselbe will und trotzdem jedes Mal die Karte
+liest. Ich lernte, dass Frau Kettler mich duldet und dass Dulden bei ihr
+eine hohe Auszeichnung ist.
+
+Emil kletterte auf mich, wenn ich mich hinsetzte. Nicht *zu* mir. *Auf*
+mich, wie auf einen Gegenstand, was, glaube ich, die höchste Form von
+Vertrauen ist, die ein achtzehn Monate alter Mensch vergeben kann.
+
+Von der Mappe sprachen wir nicht.
+
+Ich dachte, das heißt, dass sie erledigt ist.
+
+---
+
+Am ersten Dezember, einem Montag, saß ich um sieben Uhr abends im Büro
+und ging die Kontorhaus-Kalkulation durch, und dabei fiel mein Blick auf
+eine Zeile, die seit August in jeder Version stand:
+
+*Kehrwieder 12 — Erwerb, nicht realisiert. Risiko: Finanzierung
+Eigentümerin.*
+
+Wendland hatte im Beirat gesagt: *Dann warten Sie sechs Wochen.*
+
+Das war am fünfzehnten November gewesen. Sechs Wochen von da aus: der
+siebenundzwanzigste Dezember.
+
+Ich saß in einem leeren Büro und rechnete Tage aus, und dann tat ich das
+Ding, für das ich mich am Ende dieses Jahres am meisten schämen werde,
+und ich tat es, ohne dass mir das Herz dabei schneller schlug.
+
+Ich rief Frau Kuhlmann.
+
+„Sie sind noch da?“
+
+„Sie auch“, sagte meine Assistentin.
+
+„Können Sie morgen etwas für mich herausfinden? Kehrwieder 12. Wer
+finanziert, wie hoch die Valuta ist, ob die Kündigung ausgesprochen
+wurde und ob ein Verwertungsverfahren läuft.“
+
+Sie notierte es.
+
+„Soll ich mit jemandem sprechen?“
+
+„Nur zuhören.“ Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
+Kuhlmann. Ich will es nur wissen.“
+
+Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.

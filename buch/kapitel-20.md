@@ -1,215 +1,267 @@
 # Kapitel 20 — Jonas
 
-Ich rief vier Tage nicht an.
+Es gab in dieser Woche eine Sache, die ich nicht loswurde, und es war
+nicht der Junge.
 
-Ich habe mir eingeredet, dass ich ihr Raum gebe. Das ist die
-Lieblingslüge von Männern wie mir. *Raum geben* heißt in Wahrheit: Ich
-weiß nicht, was ich sagen soll, und solange ich nichts sage, habe ich
-auch nichts Falsches gesagt.
+Der Junge war da. Der Junge war das Einfachste an dieser Woche, weil
+Emil kein Problem war, das man löst, sondern ein Mensch, der einem einen
+Becher hinhält und wartet.
 
-Am Montag kam Theo in mein Büro, sah mich an und sagte: „Du siehst aus
-wie neunzehn Neunundneunzig.“
+Was ich nicht loswurde, war ein Satz, den Marlene am Freitagabend im
+Café gesagt hatte, sehr ruhig, zwischen zwei anderen Sätzen.
 
-„Danke.“
-
-„Neunzehn Neunundneunzig warst du drei Monate lang so.“ Er setzte sich
-auf die Tischkante, genau wie Niklas, was mich zu der Frage bringt, wozu
-ich eigentlich Stühle habe. „Was ist passiert?“
-
-„Ich habe ihr eine Mappe hingelegt.“
-
-Mein Bruder schloss kurz die Augen.
-
-„Sechsunddreißig Seiten“, sagte ich.
-
-„Jonas.“
-
-„Mit Register.“
-
-„Herrgott.“ Er stand wieder auf. „Weißt du was? Ich sage nichts. Ich
-habe eine Frau, von der meine Mutter nicht weiß, dass es sie gibt. Ich
-bin die letzte Instanz auf diesem Planeten, die dir Vorträge halten
-darf.“
-
-An der Tür drehte er sich um.
-
-„Aber wenn du mich fragst: Geh hin, ohne Papier. Ganz ohne. Nicht mal
-einen Kugelschreiber.“
+*Drei Seiten. Ende Juli. Handschriftlich.*
 
 ---
 
-Ich ging nicht sofort zu ihr. Ich ging erst ins Jugendamt.
+Ich habe am Montag Frau Kuhlmann gefragt, wer im vergangenen Jahr die
+Zentrale gemacht hat.
 
-Vorher habe ich zwei Tage lang etwas gemacht, das ich noch nie gemacht
-habe: Ich habe gelesen, ohne dass jemand es von mir verlangt hat.
+Meine Assistentin sah mich über den Kalender hinweg an, und ich sah, wie
+sie sich in einer halben Sekunde entschied, mir nicht die kurze Antwort
+zu geben.
 
-Nicht Gesetze — die kann Niklas. Ich habe gelesen, wie das ist, wenn ein
-Vater spät dazukommt. Es gibt darüber erstaunlich wenig, und das meiste
-davon ist entweder Werbung für einen Anwalt oder ein Forum, in dem
-Menschen sehr wütend sind.
+„Frau Thormählen“, sagte sie. „Sie ist Ende Januar in Rente gegangen.“
 
-Ein Satz ist hängen geblieben, aus einem Text, den eine Erzieherin
-geschrieben hat: *Das Kind hat nicht auf Sie gewartet. Es hat auf
-niemanden gewartet. Es hatte alles, was es brauchte, und Sie kommen jetzt
-dazu — das ist ein Geschenk und keine Rettung.*
+„Kennen Sie sie gut?“
 
-Ich habe den Satz zweimal gelesen und mich geärgert und dann gemerkt,
-dass ich mich ärgere, weil er stimmt.
-
-Das klingt nach dem nächsten Fehler, und ich verstehe, wenn Sie das
-denken. Aber ich wollte einmal in meinem Leben in ein Gespräch gehen,
-in dem ich nicht derjenige bin, der die Regeln erklärt.
-
-Abteilung Beistandschaften, Hamburg-Mitte, zweiter Stock, ein Gang mit
-Kinderzeichnungen an der Wand und einem Getränkeautomaten, der
-zweiundzwanzig Cent Rückgeld schuldig blieb.
-
-Die Sachbearbeiterin hieß Frau Adamczyk und hatte drei Aktenstapel und
-einen Kaktus.
-
-„Sie sind der Vater.“
-
-„Ja.“
-
-„Sind Sie verheiratet mit der Mutter?“
-
-„Nein.“
-
-„Dann sind Sie erst mal gar nichts.“ Sie sagte es ohne jede Schärfe, so
-wie man sagt, dass draußen Regen ist. „Das Sorgerecht liegt bei der
-Mutter. Sie können die Vaterschaft anerkennen — hier bei uns, kostenlos,
-das beurkunde ich Ihnen. Dauert eine Viertelstunde.“
-
-„Und was brauche ich dafür?“
-
-„Ihren Ausweis.“
-
-Ich wartete.
-
-„Und?“
-
-„Und die Mutter“, sagte Frau Adamczyk. „Sie muss zustimmen. Ohne ihre
-Zustimmung ist die Anerkennung unwirksam. Beim gemeinsamen Sorgerecht
-genauso — das geht nur, wenn beide es erklären.“
-
-„Und wenn sie nicht will?“
-
-Sie legte den Kugelschreiber hin.
-
-„Herr Reinhardt, das ist die Frage, die hier jeden Tag zwanzigmal
-gestellt wird, und ich beantworte sie jeden Tag zwanzigmal gleich: Dann
-haben Sie kein rechtliches Problem. Dann haben Sie ein Problem mit der
-Mutter.“ Sie schob mir ein Merkblatt hin. „Und das löst kein Amt.“
-
-Ich sah auf das Merkblatt. Vier Seiten, geheftet, in einer Schrift, die
-seit den Neunzigern nicht gewechselt wurde.
-
-„Darf ich Sie etwas fragen?“
+„Wir haben neunzehn Jahre nebeneinander gearbeitet.“ Sie legte den
+Kalender auf den Tisch. „Herr Reinhardt, darf ich etwas sagen, bevor Sie
+weiterfragen?“
 
 „Bitte.“
 
-„Was machen die Leute falsch, die hier scheitern?“
+„Renate Thormählen hat nie in ihrem Leben etwas Unehrliches getan.“ Frau
+Kuhlmann sagte das ohne Wärme, sehr sachlich. „Was auch immer Sie
+herausfinden — Sie werden feststellen, dass sie es aufgeschrieben hat.“
 
-Frau Adamczyk sah mich zum ersten Mal richtig an.
+„Warum sagen Sie mir das?“
 
-„Sie kommen zu mir, bevor sie mit ihr geredet haben“, sagte sie.
-
----
-
-Am Dienstag um elf stand ich im Café.
-
-Es war voll. Es ist dienstags um elf immer voll, das weiß ich inzwischen.
-Sie war allein hinter der Theke, und Frau Kettler war oben bei Emil, und
-an Tisch vier saßen vier Frauen mit einem Kinderwagen quer im Gang.
-
-Ich stellte mich in die Schlange.
-
-Als ich dran war, sagte ich: „Ich habe zwei Stunden.“
-
-Sie sah mich an. Sehr lange, für eine Schlange von sechs Leuten.
-
-„Schürze hängt an der Tür“, sagte sie.
+„Weil Sie im Begriff sind, wütend zu werden“, sagte sie, „und weil ich
+nicht möchte, dass Sie es auf die Falsche sind.“
 
 ---
 
-Ich habe an diesem Dienstag von elf bis eins Tische abgewischt.
+Sie wohnt in Rissen, in einer Doppelhaushälfte mit einem Vorgarten, in
+dem im November noch etwas blüht, was ich nicht erkannt habe.
 
-Ich habe nichts zerbrochen. Das war der einzige messbare Fortschritt.
+Ich hatte nicht angerufen. Das war der erste Fehler des Tages und
+gleichzeitig der einzige, den ich absichtlich gemacht habe.
 
-Um kurz vor eins, als es leerer wurde, ging ich hinter die Theke, wo der
-Mülleimer steht, und holte ein Blatt Papier aus der Innentasche und riss
-es in vier Teile und warf es weg.
+Sie machte auf, sah mich zwei Sekunden an und sagte: „Sie sind wegen der
+Voss da.“
 
-Sie sah zu.
+Ich stand auf einer Fußmatte in Rissen und wusste nicht, was ich sagen
+soll.
 
-„Das war das Laborblatt“, sagte ich.
+„Kommen Sie rein“, sagte Renate Thormählen. „Ich habe damit gerechnet,
+seit ich in der Zeitung gelesen habe, dass Sie das Kontorhaus nicht
+bekommen.“
 
-„Ich weiß. Ich habe es gelesen, bevor du es weggeworfen hast.“ Sie
-nahm mir das Tuch aus der Hand. „Das war eine Geste.“
+---
+
+Wir saßen in einem Wohnzimmer mit einer Vitrine und einem Fernseher, der
+zu groß war, und sie stellte Kaffee hin, den ich nicht wollte und trank.
+
+„Sie hat dreimal angerufen“, sagte ich.
+
+„Vier.“
+
+Ich sah auf.
+
+„Dreimal ist sie durchgekommen“, sagte sie. „Beim vierten Mal habe ich
+abgenommen, und sie hat aufgelegt, ohne etwas zu sagen. Das habe ich
+nicht vermerkt, weil man das nicht vermerkt. Ich weiß es, weil ich die
+Nummer wiedererkannt habe.“
+
+„Und Sie haben mir nichts davon gesagt.“
+
+„Nein.“
+
+„Warum nicht?“
+
+Sie stellte ihre Tasse ab.
+
+„Weil Ihr Vater es mir 2011 so gesagt hat“, sagte sie. „Im September
+2011, in seinem Büro, im Stehen, und es hat vielleicht vierzig Sekunden
+gedauert.“
+
+---
+
+Was 2011 war, wusste ich nicht.
+
+Ich weiß es jetzt, und ich schreibe es hin, weil es sonst aussieht, als
+hätte diese Frau aus Bosheit gehandelt, und das ist die bequeme Version.
+
+Im Sommer 2011 hatte eine Frau angerufen und behauptet, sie erwarte ein
+Kind von meinem Vater. Sie hat dreimal angerufen, dann geschrieben, dann
+ist sie in den Empfang gekommen. Es stimmte nichts davon. Es ging um
+Geld, es gab am Ende eine Anzeige, und mein Vater hat vier Monate lang
+schlecht geschlafen, was ich damals nicht gemerkt habe, weil ich
+zweiundzwanzig war und in Braunschweig studiert habe.
+
+Danach hat er zu Frau Thormählen gesagt: *Privates kommt hier nicht
+durch. Nichts, was keinen Termin hat, keine Firma und kein Anliegen.
+Wenn es wichtig ist, kommt es über einen Anwalt.*
+
+„Und das habe ich gemacht“, sagte sie. „Vierzehn Jahre. Bei ihm und
+danach bei Ihnen.“
+
+„Ich habe Ihnen das nie gesagt.“
+
+„Nein“, sagte Renate Thormählen. „Sie haben mir auch nie gesagt, dass
+ich damit aufhören soll.“
+
+---
+
+Ich habe an dieser Stelle etwas gesagt, das mir bis heute peinlich ist.
+
+Ich habe gesagt: „Ihnen ist schon klar, was das angerichtet hat.“
+
+Und sie hat mich angesehen, eine ältere Frau in einem Sessel, in dem sie
+sitzt, seit sie nicht mehr um zwanzig nach sechs aus dem Haus muss, und
+sie hat gesagt:
+
+„Herr Reinhardt, ich habe vierzehn Jahre lang genau das getan, wofür ich
+bezahlt worden bin. Wenn Sie wollen, dass mir das leidtut, dann müssen
+Sie mir zuerst sagen, ab wann es hätte aufhören sollen.“ Sie faltete die
+Hände. „Und das können Sie nicht. Weil Sie nie hingesehen haben.“
+
+Ich habe nichts erwidert.
+
+„Ich sage Ihnen, was mir leidtut“, sagte sie dann, und jetzt war ihre
+Stimme anders. „Beim dritten Anruf habe ich gemerkt, dass es keine von
+denen ist. Man hört das. Sie hat nicht gedrängt, sie hat sich
+entschuldigt. Und ich habe trotzdem *erledigt* dahintergeschrieben, weil
+das die Spalte war, die es gab.“
+
+„Warum haben Sie mir nichts gesagt?“
+
+„Weil Sie in dem Sommer im Krankenhaus bei Ihrer Mutter waren“, sagte
+sie. „Und weil ich gedacht habe: nicht auch das noch.“
+
+---
+
+Ich fragte nach dem Brief.
+
+„Der ist gekommen“, sagte sie sofort. „Ende Juli. Handschriftlich,
+Umschlag ohne Absender, an Sie persönlich.“
+
+„Was haben Sie damit gemacht?“
+
+„Was ich mit allem gemacht habe, was persönlich war und nicht dringend.“
+Sie sah mich an. „In den Ordner *Privat*. Der geht ins Archiv, Regal
+sieben, und alle drei Jahre kommt ein Dienstleister und schreddert, was
+älter ist.“
+
+„Alle drei Jahre.“
 
 „Ja.“
 
-„Ich mag Gesten nicht besonders.“
+„Wann war der letzte?“
 
-„Ich weiß nicht, was ich sonst machen soll.“
+Sie musste nicht nachdenken.
 
-Und dann sagte Marlene Voss den Satz, für den ich sie vermutlich
-geheiratet hätte, wenn wir zwei völlig andere Menschen mit einer völlig
-anderen Vorgeschichte gewesen wären:
+„Februar 2024“, sagte Renate Thormählen. „Ich habe ihn selbst bestellt.
+Es war meine letzte Bestellung.“
 
-„Komm nächsten Dienstag wieder.“
+Ich rechnete.
 
----
-
-Ich kam nächsten Dienstag wieder. Und den Dienstag darauf.
-
-Ich lernte, dass man Tassen nicht stapelt, wenn sie noch heiß sind, weil
-sie dann festsaugen. Ich lernte, dass der Mann mit dem Hund um zehn nach
-neun kommt und immer dasselbe will und trotzdem jedes Mal die Karte
-liest. Ich lernte, dass Frau Kettler mich duldet und dass Dulden bei ihr
-eine hohe Auszeichnung ist.
-
-Emil kletterte auf mich, wenn ich mich hinsetzte. Nicht *zu* mir. *Auf*
-mich, wie auf einen Gegenstand, was, glaube ich, die höchste Form von
-Vertrauen ist, die ein achtzehn Monate alter Mensch vergeben kann.
-
-Von der Mappe sprachen wir nicht.
-
-Ich dachte, das heißt, dass sie erledigt ist.
+Der Brief war von Ende Juli 2024.
 
 ---
 
-Am ersten Dezember, einem Montag, saß ich um sieben Uhr abends im Büro
-und ging die Kontorhaus-Kalkulation durch, und dabei fiel mein Blick auf
-eine Zeile, die seit August in jeder Version stand:
+Ich bin um zwanzig nach acht abends in das Archiv unserer eigenen Firma
+gegangen, mit einem Schlüssel, den ich vorher noch nie in der Hand
+gehabt hatte, und habe eine Stunde und vierzig Minuten in Regal sieben
+gestanden.
 
-*Kehrwieder 12 — Erwerb, nicht realisiert. Risiko: Finanzierung
-Eigentümerin.*
+Es gibt dort vierundzwanzig Kartons mit der Aufschrift *Privat GF*,
+sortiert nach Jahren, und in dem von 2024 lagen zweiundsechzig
+Schriftstücke, und siebenundfünfzig davon waren Einladungen zu
+Veranstaltungen, zu denen ich nicht gegangen bin.
 
-Wendland hatte im Beirat gesagt: *Dann warten Sie sechs Wochen.*
+Der Brief lag zwischen einer Einladung des Übersee-Clubs und einer
+Rechnung für einen Kranz.
 
-Das war am fünfzehnten November gewesen. Sechs Wochen von da aus: der
-siebenundzwanzigste Dezember.
+Drei Seiten. Blaue Tinte. Eine Handschrift, die zur Mitte hin kleiner
+wird, weil der Platz knapp wurde und weil sie nicht auf ein viertes
+Blatt wollte.
 
-Ich saß in einem leeren Büro und rechnete Tage aus, und dann tat ich das
-Ding, für das ich mich am Ende dieses Jahres am meisten schämen werde,
-und ich tat es, ohne dass mir das Herz dabei schneller schlug.
+Ich habe ihn im Stehen gelesen, unter einer Leuchtstoffröhre, in einem
+Raum ohne Fenster.
 
-Ich rief Frau Kuhlmann.
+Sie schreibt über die Klappstühle. Sie schreibt, dass sie sich schämt,
+das aufzuschreiben. Sie schreibt drei Sätze über den Strand, und sie
+schreibt einen Satz über Blätterteig, den ich hier nicht hinschreibe,
+weil er mir gehört.
 
-„Sie sind noch da?“
+Und ganz unten, in der letzten Zeile, wo der Platz schon nicht mehr
+reichte:
 
-„Sie auch“, sagte meine Assistentin.
+*Ich schreibe Ihnen nicht, weil ich etwas von Ihnen will. Ich schreibe,
+weil ich etwas zu sagen habe, das man nicht in einen Brief schreibt.*
 
-„Können Sie morgen etwas für mich herausfinden? Kehrwieder 12. Wer
-finanziert, wie hoch die Valuta ist, ob die Kündigung ausgesprochen
-wurde und ob ein Verwertungsverfahren läuft.“
+---
 
-Sie notierte es.
+Ich habe gegen elf auf dem Boden des Archivs gesessen, mit dem Rücken an
+Regal sechs, und drei Dinge gleichzeitig gewusst.
 
-„Soll ich mit jemandem sprechen?“
+Erstens: Sie hat es versucht. Vier Anrufe und drei Seiten. Das ist mehr,
+als ich in zwei Jahren getan habe.
 
-„Nur zuhören.“ Ich schaltete den Bildschirm aus. „Wir tun nichts, Frau
-Kuhlmann. Ich will es nur wissen.“
+Zweitens: Ich hätte diesen Karton jederzeit öffnen können. Er stand
+achtundvierzig Meter von meinem Schreibtisch entfernt, hinter einer Tür,
+zu der ich einen Schlüssel habe.
 
-Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.
+Drittens, und davon werde ich nachts wach: Wenn Renate Thormählen den
+Schredder auf März statt auf Februar bestellt hätte, gäbe es diesen
+Brief nicht mehr, und ich hätte es nie erfahren, und nichts an meinem
+Leben wäre anders gewesen.
+
+---
+
+Ich habe ihn nicht mitgenommen.
+
+Ich habe darüber zwei Tage nachgedacht, und dann habe ich ihn in den
+Karton zurückgelegt, und ich sage jetzt, warum, weil es einer der
+wenigen Punkte in diesem Jahr ist, an dem ich sicher bin.
+
+Ich hätte ihn ihr hinlegen können. Auf den Fenstertisch, drei Seiten in
+ihrer eigenen Handschrift, gefunden nach zwei Jahren im Archiv der Firma
+des Mannes, der nicht angerufen hat.
+
+Und dann hätte sie dagesessen und mich getröstet.
+
+Das ist es, was passiert wäre. Ich kenne mich gut genug. Ich hätte ihr
+ihren eigenen Brief hingelegt und dabei ein Gesicht gemacht, und sie
+hätte gesagt, es sei nicht meine Schuld, und ich wäre nach Hause
+gefahren und hätte mich erleichtert gefühlt.
+
+Also habe ich es anders gemacht.
+
+Ich habe am Dienstagmorgen Niklas in mein Büro gebeten und ihm gesagt,
+er solle mir alles zusammenstellen, was man wissen muss, wenn zwei
+Menschen, die nicht verheiratet sind, ein Kind haben: Sorgerecht,
+Unterhalt, Erbfolge, Vorsorgevollmacht, Absicherung des Kindes,
+Absicherung der Mutter.
+
+Vollständig, habe ich gesagt. Und dann, weil ich es immer sage: mit
+Register.
+
+Mein Bruder hat sich Notizen gemacht und an der Tür gefragt: „Für wen
+ist das?“
+
+„Für sie.“
+
+„Hat sie darum gebeten?“
+
+Ich habe nicht geantwortet, und Niklas hat genickt und ist gegangen und
+hat am Mittwochabend achtunddreißig Seiten geliefert, von denen ich zwei
+gestrichen habe.
+
+Ich hielt das in dieser Woche für das Gegenteil einer Geste.
+
+Ich habe bis in den Januar gebraucht, um zu begreifen, dass ich einer
+Frau, die mir drei Seiten geschrieben hatte, sechsunddreißig
+zurückgelegt habe.

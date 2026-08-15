@@ -1,224 +1,237 @@
 # Kapitel 46 — Jonas
 
-Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
-vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als
-erwachsener Mann irgendwann wissen will, woran man ist.
+Sie hat den siebenundzwanzigsten Januar schon aufgeschrieben, und sie
+hat es besser gemacht, als ich es könnte.
 
-Kita Kirchenweg, Gruppe zwei, vierzehn Kinder, drei Erzieherinnen, ein
-Raum, der nach nasser Wolle und Apfel riecht.
+Ich schreibe trotzdem meine Seite hin, weil in ihrer Fassung ein Mann
+vorkommt, der auf seine Hände sieht, und weil ich sagen will, was dieser
+Mann in diesen zwei Stunden und zehn Minuten gedacht hat.
 
-Die Regeln der Eingewöhnung sind: Man sitzt. Man spielt nicht. Man ruft
-nicht. Man geht dem Kind nicht hinterher. Wenn es kommt, ist man da; wenn
-es nicht kommt, ist man trotzdem da.
-
-Man macht acht Vormittage lang nichts.
-
-Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt.“
-
-„Ich weiß nicht, was ich tun soll.“
-
-„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
-
-Ich habe den Legoturm nicht gebaut.
-
-Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
-abgestimmt haben, ob ich noch Geschäftsführer bin.
+Er hat gedacht: *Jetzt bloß nichts sagen.*
 
 ---
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
+Ich war um zwanzig nach acht da. Vierzig Minuten zu früh, in einem
+Wartezimmer am Neuen Wall mit einem Teppich, der Geräusche schluckt, und
+ich habe die vierzig Minuten damit verbracht, eine Mappe nicht
+aufzumachen.
 
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
-
-Wir haben nicht miteinander geschlafen.
-
-Wir haben viermal gestritten. Zweimal über Kleinigkeiten, die keine
-waren — sie mag es nicht, wenn ich Emil aus dem Wagen hebe, ohne zu
-fragen, weil sie Angst hat, dass ich es besser kann als sie, und ich mag
-es nicht, wenn sie das Wort *Ihr Geld* benutzt. Einmal über den
-Baubeginn, weil im März die Bohrpfähle kamen und das Café drei Tage nicht
-öffnen konnte. Und einmal, im April, über die Frage, ob wir Emil sagen,
-dass ich sein Vater bin, oder ob er es einfach weiß, was übrigens meine
-Position war und die falsche.
-
-Und wir haben eine Verabredung, die von ihr kam und die albern klingt.
-
-Einmal in der Woche, donnerstags, wenn Emil im Bett ist, sagt jeder von
-uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
-sagen würde.
-
-Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat.“
-
-Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
-sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe.“
-
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
-
----
-
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
-
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
-
-„Der hing da zwei Monate“, sagte sie.
-
-„Warum?“
-
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
-
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
-
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
-
----
-
-Im März kamen die Bohrpfähle.
-
-Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
-gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
-kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
-Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
-gefragt hätte, sondern weil es im Vertrag von September steht, in einem
-Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
-was daraus wird.
-
-Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
-
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
-
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
-
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
-
----
-
-Am achten Mai wurde Emil zwei.
-
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
-
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
-
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
-
----
-
-Ich hatte einen Ring.
-
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
-
-Ich habe ihn an diesem Abend zweimal angefasst.
-
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
-
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
-
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
-
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
-
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
-
----
-
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
-
-Es war eine Erbse.
-
-Ich nahm sie.
-
-„Danke“, sagte ich.
-
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
-
-„Papa.“
-
-Dann drehte er sich wieder um und schob weiter Erbsen.
-
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
-
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
-
----
-
-Um zehn nach neun klingelte mein Telefon.
-
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
-
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
-
-„Herr Reinhardt? Jonas Reinhardt?“
+Niklas kam um zehn vor neun und sah die Mappe und sagte: „Du machst das
+wirklich.“
 
 „Ja.“
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+„Es steht dir frei, es nicht zu machen.“
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+„Ich weiß.“
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
+Er setzte sich neben mich. Mein Bruder ist Anwalt, seit er
+sechsundzwanzig ist, und er hat in dieser Zeit ungefähr elftausend
+Stunden damit zugebracht, Mandanten davon abzubringen, Dinge freiwillig
+offenzulegen.
 
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
+„Zum letzten Mal“, sagte er. „Sie hat keinen Anspruch darauf. Der
+Kaufpreis steht im Vertrag, er ist prüfbar, der Notar verliest ihn. Was
+du in der Mappe hast, ist mehr, als jeder Käufer der Welt je zu sehen
+bekommt.“
 
-„Wer ist dran?“, fragte Marlene.
+„Ja.“
 
-Ich hielt das Telefon fest.
+„Warum dann?“
 
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+„Weil sie es sonst in vier Jahren nachts nachrechnet“, sagte ich.
+
+Niklas sah mich an.
+
+„Wer hat dir das gesagt?“
+
+„Ihr Steuerberater.“
+
+Mein Bruder lachte einmal, kurz, ohne Freude, und sagte: „Natürlich.“
 
 ---
 
-**ENDE**
+Sie kam um Punkt neun. Sie gab mir die Hand.
 
-*Die Reinhardt-Brüder gehen weiter.*
+Ich hatte in den zwölf Tagen davor sehr oft überlegt, wie das sein wird,
+und ich hatte mit allem Möglichen gerechnet, und ich hatte nicht damit
+gerechnet, dass sie mir die Hand gibt wie eine Geschäftspartnerin und
+dass mich das mehr trifft als alles andere an diesem Vormittag.
 
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
+Zwei Stunden zehn. Ein Notar liest alles vor. Jede Anlage, jede
+Bezugsurkunde, jede Flurstücksnummer, jede Grundbuchblattnummer, und man
+sitzt da und darf nicht daran denken, was gerade verhandelt wird,
+sondern nur an das, was vorgelesen wird.
+
+Es war das Beste, was uns beiden passieren konnte.
+
+Ich habe in diesen zwei Stunden dreimal etwas sagen wollen und es
+dreimal nicht getan, und ich zähle das zu den nützlichsten Dingen, die
+ich in diesem Jahr unterlassen habe.
+
+---
+
+Bei Anlage vier machte ich die Mappe auf.
+
+„Bevor der Kaufvertrag über die Forderung beurkundet wird“, sagte ich,
+„möchte ich etwas zu Protokoll geben.“
+
+Der Notar sah auf. Notare mögen das nicht.
+
+„Es ändert nichts am Text“, sagte ich. „Es ist eine Anlage zur
+Kenntnis.“
+
+Ich schob vier Blätter über den Tisch.
+
+**Blatt eins:** Der Kaufvertrag mit der Hanseatischen Volksbank vom
+zweiundzwanzigsten Dezember. Kaufpreis der Forderung:
+186.000,00 €.
+
+**Blatt zwei:** Kontoauszug. Wertstellung 23.12., Empfänger
+Hanseatische Volksbank, 186.000,00 €. Darunter, gleicher Tag,
+eine zweite Buchung: 47,50 € Bearbeitungsentgelt Forderungsverkauf.
+
+**Blatt drei:** Rechnung Niklas Reinhardt, Beratung und Vertragsprüfung
+Dezember, 2.856,00 € brutto. Bezahlt am 30.12. von meinem
+Privatkonto. Nicht von der Gesellschaft.
+
+**Blatt vier:** Eine Aufstellung, die alles zusammenzieht, mit einer
+Summe unten rechts: **188.903,50 €.** Und ein Satz darunter, den
+Niklas nicht formuliert hat, weil er sich geweigert hat:
+
+*Dies ist alles, was der Verkäufer für die Forderung aufgewendet hat.
+Weitere Aufwendungen, Nebenabreden, Rückvergütungen oder Vorteile
+bestehen nicht.*
+
+„Der Verkaufspreis heute beträgt einhundertsechsundachtzigtausend“,
+sagte ich. „Ich verkaufe zweitausendneunhundertdrei Euro fünfzig unter
+meinen Kosten. Das ist kein Nachlass, das sind Nebenkosten, die ich
+nicht auf sie umlegen will. Wenn das steuerlich ein Problem ist, sagt
+mir das jemand, und dann machen wir es anders.“
+
+Sievers, der nicht da war, hätte an dieser Stelle vermutlich gesagt, das
+sei rechtlich unnötig.
+
+Marlene sah die vier Blätter an, sehr lange, und blätterte einmal
+zurück.
+
+Dann sagte sie: „Danke“, und legte sie in ihre Mappe, und wir machten
+weiter.
+
+---
+
+Es gibt an diesem Vormittag genau eine Stelle, an der ich es fast nicht
+ausgehalten hätte, und sie stand nicht im Vertrag.
+
+Der Notar las den Absatz über die Konfusion vor. *Die Forderung
+erlischt.*
+
+Und Marlene sagte: „Konfusion.“
+
+Sie sagte es so, wie sie Wörter sagt, die sie behalten will, und ich
+habe sie in diesem Moment nicht angesehen, weil ich wusste, dass ich das
+Gesicht nicht hinkriege.
+
+Zwei Jahre lang hatte ich mir eingeredet, dass es zu spät ist. Sieben
+Wochen lang hatte ich Papier gebaut, damit eine Schuld verschwindet,
+ohne dass jemand sie erlässt. Und dann saß eine Frau am Tisch und
+wiederholte ein Wort aus dem neunzehnten Jahrhundert, als hätte sie es
+gerade geschenkt bekommen.
+
+Ich habe auf meine Hände gesehen. Sie hat es richtig aufgeschrieben.
+
+---
+
+Um elf Uhr zehn hat sie unterschrieben.
+
+Sie ging vor mir raus. Ich habe ihr nicht die Tür aufgehalten, weil ich
+mir das für diesen Tag verboten hatte, und ich habe im Flur gestanden
+und gesehen, wie sie sich auf der Treppe am Geländer festhielt, und ich
+bin nicht hingegangen.
+
+Das war die schwerste einzelne Sekunde dieses Winters.
+
+Theo stand neben mir und sagte nichts. Mein Bruder kann das. Er hat
+zwanzig Sekunden lang nichts gesagt und dann: „Fahr ins Büro.“
+
+„Ich weiß.“
+
+„Ich meine es ernst. Fahr ins Büro und arbeite, sonst fährst du zum
+Kehrwieder.“
+
+---
+
+Ich bin ins Büro gefahren und habe gearbeitet.
+
+Bauleitung Rothenburgsort: Das Denkmalschutzamt hat am
+einundzwanzigsten Januar geantwortet, nach dreieinhalb Monaten. Zwei
+Seiten. Das Siel wird als Sachgesamtheit erfasst, ein Abschnitt von
+achtzehn Metern bleibt erhalten und wird überbaut, der Rest darf
+zurückgebaut werden. Bauzeit plus elf Wochen. Kosten, Stand heute:
+vierhundertzehntausend.
+
+Frau Dr. Ahrend hat am Ende ihres Berichts einen Satz stehen lassen, der
+dort fachlich nichts zu suchen hat, und ich vermute, dass sie das wusste:
+
+*Nach Kenntnis der Verfasserin ist dies der erste vollständig
+dokumentierte Sielabschnitt dieser Bauart im Stadtgebiet.*
+
+Ich habe diesen Satz gelesen und gedacht, dass mein Vater ihn albern
+gefunden hätte.
+
+Und dann habe ich gedacht, dass mein Vater seit zwölf Jahren tot ist und
+dass ich langsam aufhören sollte, mir vorzustellen, was er von Dingen
+hält.
+
+---
+
+Es kam dann eine Woche, in der nichts passierte, und ich hatte damit
+gerechnet, dass sie schwer wird, und sie war es nicht.
+
+Ich habe Emil freitags geholt und montags gebracht und dazwischen
+gearbeitet. Ich habe am Samstag mit meiner Mutter telefoniert und ihr
+gesagt, dass die Schulden weg sind, und sie hat gefragt: „Und ihr?“, und
+ich habe gesagt: „Weiß ich nicht.“
+
+„Gut“, hat sie gesagt.
+
+„Was ist daran gut?“
+
+„Dass du es nicht weißt“, sagte meine Mutter. „Du hast in deinem ganzen
+Leben noch nie etwas nicht gewusst und trotzdem ausgehalten.“
+
+---
+
+Am dritten Februar, einem Dienstag, um Viertel nach zwei, rief Frau
+Kuhlmann durch und sagte, ich hätte Besuch, und der Termin um halb drei
+falle aus.
+
+„Wer ist es denn?“
+
+„Das sehen Sie gleich“, sagte meine Assistentin, und ich hörte an ihrer
+Stimme, dass sie sich seit neunzehn Jahren auf diesen Satz gefreut
+hatte.
+
+Marlene kam rein und blieb stehen, und ich stand auf und wusste nicht,
+ob ich um den Tisch herumgehen darf.
+
+Was sie dann gesagt hat, steht bei ihr, und sie hat es Wort für Wort
+richtig aufgeschrieben — bis auf eine Stelle.
+
+Sie schreibt, ich hätte eine Sekunde gebraucht.
+
+Es war keine Sekunde. Ich habe in dieser Zeit den ganzen November noch
+einmal gesehen, die Mappe, die sechsunddreißig Seiten, das Laborblatt,
+und die zwei Jahre, in denen ich nicht angerufen habe, und ich habe
+gedacht: *Sie fragt mich. Sie fragt mich um etwas, das sie allein
+hinbiegen könnte.*
+
+Dann habe ich ja gesagt.
+
+Ich habe an diesem Abend in meiner Küche gestanden, allein, mit einem
+Kalender in der Hand, und acht Vormittage eingetragen, einzeln, mit
+Datum und Uhrzeit, wie Termine.
+
+Und daneben, weil ich nicht anders kann, eine Zeile mit fünf Wörtern:
+
+*Nichts tun. Nur da sein.*

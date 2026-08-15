@@ -1,206 +1,210 @@
 # Kapitel 32 — Jonas
 
-Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
-Telefonat, so gut er es erinnerte, und zweimal wörtlich.
+Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
+wachte um vier auf und wusste, dass ich es tun werde.
 
-Ich hörte zu und merkte, wie mir etwas den Rücken hochlief, und ich
-sage jetzt, was es war, weil ich sonst dieses ganze Kapitel schönfärben
-müsste.
+Nicht: dass ich es tun *soll*. Dass ich es tun *werde*. Das ist ein
+Unterschied, den man erst hinterher hört.
 
-Es war Ärger.
+Ich habe zwischen vier und sechs im Dunkeln gelegen und alles noch
+einmal durchgespielt, und jedes Mal kam ich an dieselbe Stelle: Wenn ich
+sie frage, sagt sie nein. Nicht weil es falsch wäre. Weil sie es ist.
 
-Der erste Gedanke von Jonas Reinhardt, Geschäftsführer, war: *Sie setzt
-uns unter Druck. Drei Tage vor Jahresende, vier Wochen vor Baubeginn.*
-
-Der zweite Gedanke war: *Wer hat ihr das geraten?*
-
-Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
-hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
-ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
-
-„Du guckst komisch“, sagte Theo.
-
-„Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
-Gegenpartei halte.“
-
-„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
-tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
-verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
-uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
-das kostet. Weil sie nett war.“
-
-„Sie hat es zugesagt.“
-
-„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
-Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
-anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
-mich gefragt, was mit ihm nicht stimmt.“
+Und am fünfzehnten Januar steht Kellermann in ihrer Küche.
 
 ---
 
-Wir saßen zwei Stunden über dem Plan.
+Niklas kam um zehn, weil ich ihn bestellt hatte, und hörte sich zwölf
+Minuten lang zu Ende an, ohne ein einziges Mal zu unterbrechen, was bei
+ihm bedeutet, dass es ernst ist.
 
-Ich hatte ihn zwanzigmal gesehen. Ich sah ihn zum ersten Mal von ihrer
-Seite.
+Dann sagte er: „Du willst die Forderung kaufen und ihr dann erlassen.“
 
-Die Durchfahrt: einziger Fahrzeugzugang. Ohne sie ist der Hof eine
-Grube, die man zu Fuß erreicht.
+„Ja.“
 
-Die Rückwand: an sie kommt der Übergang. Ohne Anbaurecht steht der
-Übergang auf zwei Stützen im Nichts.
+„Geht nicht.“
 
-Die Leitungen: Schmutzwasser, Regenwasser, Fernwärme. Der Bestand liegt
-unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
-Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
-die ich nicht mal überschlagen wollte.
+„Warum nicht?“
 
-„Was kostet die Alternative?“, fragte ich schließlich.
+„Weil ein Erlass eine Schenkung ist.“ Er zog seinen Block heran. „Ihr
+seid nicht verwandt und nicht verheiratet. Steuerklasse drei. Freibetrag
+zwanzigtausend. Auf den Rest dreißig Prozent.“
 
-Theo rechnete auf dem Rand.
+Er schrieb die Zahl hin und drehte den Block um.
 
-„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
+**≈ 49.800 € Schenkungsteuer. Zahlbar von: Marlene Voss.**
 
 Ich sah die Zahl an.
 
-„Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
-wert.“
+„Du befreist sie von zweihundertvierzehn und stellst ihr fünfzig ins
+Haus“, sagte mein Bruder. „Sie hat keine fünfzig. Sie hat nicht mal
+fünf.“
 
-„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
-Gutachter nicht so rechnen. Aber ja.“
+„Und was geht?“
+
+„Du behältst die Forderung und tust nichts. Keine Zinsen, keine Raten,
+keine Fälligstellung. Rechtlich sauber, steuerlich unauffällig.“ Er
+klappte den Block zu. „Und dafür schuldet sie dir bis ans Lebensende
+zweihundertvierzehntausend Euro, und du bist der Mann, der jeden Morgen
+entscheidet, es nicht einzufordern.“
+
+Der Raum war eine Weile still.
+
+„Das ist schlimmer“, sagte ich.
+
+„Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
+ja.“
 
 ---
 
-Niklas kam am Dreißigsten, und wir bauten es zusammen.
+Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
+habe.
 
-„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
-Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
-nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
-nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
-sondern eine Entscheidung, die ich hinnehme.“
+Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
+Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
+sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
+meinem Schreibtisch und sah aus dem Fenster.
 
-„Das dritte ist neu“, sagte mein Bruder.
+Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
+ihre Nummer aufgerufen und wieder weggelegt.
+
+Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
+nicht daran gedacht.
+
+---
+
+Bastian stand um halb eins in der Tür, mit einem Rucksack, in einer
+Jacke, die er seit dem Abitur hat.
+
+Mein kleinster Bruder ist sechsundzwanzig, arbeitet nicht bei uns,
+kommt zweimal im Jahr, und wenn er kommt, hat er nie einen Termin und
+immer eine Frage.
+
+„Hast du zwanzig Minuten?“
+
+„Ich habe eine Stunde.“
+
+„Du hast nie eine Stunde.“ Er setzte sich in den Sessel, nicht auf die
+Tischkante, was ihn von seinen Brüdern unterscheidet. „Theo sagt, du
+hast ein Kind.“
 
 „Ja.“
 
-Er nahm den Block.
+„Und Mama sagt, du bist verliebt.“
 
-Es sieht am Ende einfach aus, und deshalb schreibe ich die vier Schritte
-hin, damit klar ist, wie lange man dafür braucht:
+„Auch ja.“
 
-**Eins.** Ein öffentlich bestellter und vereidigter Sachverständiger
-bewertet die drei Rechte — Wegerecht, Anbaurecht, Leitungsrecht — als
-Grunddienstbarkeiten zugunsten unserer drei Grundstücke. Nicht von uns
-beauftragt. Von ihr, oder gemeinsam, und in jedem Fall von jemandem, den
-weder sie noch ich kennt.
+„Warum weiß ich das über Bande?“
 
-**Zwei.** Die Gesellschaft kauft die Rechte zum Gutachtenwert. Kein Cent
-darüber. Ein Cent darüber wäre eine verdeckte Schenkung, und dann sitzt
-in zwei Jahren das Finanzamt bei ihr und nicht bei mir.
+Darauf hatte ich keine Antwort, also erzählte ich es ihm. Alles, in
+zehn Minuten, weil Bastian der einzige Mensch in dieser Familie ist,
+bei dem ich nicht das Gefühl habe, dass ich vor jemandem bestehe.
 
-**Drei.** Sie kauft mit dem Geld die Forderung. Von mir. Zu dem Preis,
-den ich bezahlt habe: einhundertsechsundachtzigtausend. Kein Gewinn, kein
-Nachlass, ein normaler Forderungskauf, notariell, prüfbar.
+Am Ende sagte ich: „Ich kaufe die Forderung heute Nachmittag.“
 
-**Vier.** In dem Moment, in dem sie Gläubigerin ihrer eigenen Schuld
-ist, erlischt die Forderung. Das Wort dafür ist Konfusion. Sie schuldet
-niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
+Bastian sah mich an, kaute an einem Daumennagel und sagte:
 
-Niklas legte den Stift hin.
+„Weiß sie das?“
 
-„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
-und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
-sah auf. „Es hat nur einen Haken, und der ist groß.“
+„Ich sage es ihr morgen.“
 
-„Der Beirat.“
+„Das ist nicht dasselbe.“
 
-„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
-zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
-etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
-Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
-Gläubiger.“
+„Es ist ein Tag.“
 
-„Ja.“
-
-„Weißt du, wie das aussieht?“
-
-„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
-vorher.“
+„Jonas.“ Er nahm den Daumen aus dem Mund. „Du kaufst ihre Schulden und
+nennst es Geschenk. Das ist kein Geschenk. Ein Geschenk kann man
+ablehnen.“
 
 ---
 
-Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
-mit drei Leuten gesprochen.
+Ich habe meinen kleinen Bruder in diesem Moment sehr genau angesehen,
+weil ich zum ersten Mal gemerkt habe, dass er kein Kind mehr ist.
 
-„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
+„Was machst du eigentlich zurzeit?“, fragte ich.
 
-„Bei wem?“
+„Was Eigenes.“
 
-„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
-Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
+„Was für was Eigenes?“
 
-„Er wird es erfahren.“
+„Frag mich im Sommer.“ Er stand auf und schulterte den Rucksack. „Und
+sag den anderen nicht, dass ich hier war.“
 
-„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
-Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
-Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
-Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
-ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
+„Warum nicht?“
 
-Ich hörte es mir laut an.
+„Weil ich das dann erklären muss.“ Er blieb an der Tür stehen. „Kauf
+sie nicht, Jonas.“
 
-„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
-Kauf. Auch den Preis.“
+„Ich habe bis achtzehn Uhr Zeit.“
 
-Am anderen Ende war es lange still.
-
-„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
-
-„Ich weiß.“
-
-„Ihr Vater hätte das nie gemacht.“
-
-„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
+„Ich weiß.“ Er ging. „Deshalb sage ich es jetzt.“
 
 ---
 
-Ich rief sie nicht an.
+Ich unterschrieb um siebzehn Uhr vierzig.
 
-Das ist die Sache, auf die ich in diesem ganzen Jahr am ehesten stolz
-bin, und sie besteht darin, dass ich zwei Wochen lang etwas *nicht*
-getan habe.
+Nicht über die Firma. Das war mir wichtig, und ich habe es mir damals
+als Anstand ausgelegt: Wenn die Reinhardt Immobilien GmbH die Forderung
+kauft, ist es genau das, was Wendland meint und was in Reiter sechs
+steht. Also kaufte ich sie privat. Eigenes Geld, eigener Name, drei
+Telefonate, ein Vertragsentwurf per Mail, eine qualifizierte Signatur.
 
-Ich hätte hinfahren können. Ich hatte einen Plan in vier Schritten, der
-funktioniert, und ich hätte ihn ihr erklären können, gut, verständlich,
-mit einer Skizze, und sie hätte am Ende genickt.
+Einhundertsechsundachtzigtausend.
 
-Und dann wäre es wieder meiner gewesen.
+Ich habe dabei nichts gefühlt. Ich habe zwölf Jahre Übung darin, bei
+Zahlen nichts zu fühlen.
 
-Also machte ich es anders. Theo schrieb ihr — nicht ich —, dass die
-Gesellschaft bereit ist, die drei Rechte zu erwerben, dass sie den
-Sachverständigen aussucht, dass die Gesellschaft das Gutachten bezahlt
-und an das Ergebnis gebunden ist, und dass sie bis zur Sitzung am
-zwanzigsten Zeit hat.
+Was ich stattdessen tat: Ich schrieb auf einen Zettel, was ich ihr
+morgen sagen wollte, in der Reihenfolge, in der ich es sagen wollte.
 
-Kein Wort von mir. Keine Grüße. Nichts über den Rest.
+1. Deine Bank hat gekündigt. Ich weiß es seit dem fünfzehnten.
+2. Ich habe die Forderung gekauft. Gestern. Privat.
+3. Ich fordere nichts. Nie. Ich kann sie dir nicht schenken, das
+   erkläre ich dir, das ist ein Steuerding.
+4. Das Haus gehört dir. Es hat sich nichts geändert außer dem Namen auf
+   dem Papier.
+5. Und wenn du willst: Zieh mit Emil zu mir. Nicht deshalb. Sondern
+   weil ich möchte, dass er morgens im selben Haus aufwacht wie ich.
 
-Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
+Ich habe diesen Zettel dreimal überarbeitet. Ich habe an Punkt fünf
+vierzig Minuten gesessen.
 
-„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
+An Punkt eins bis vier habe ich nichts geändert, weil sie mir richtig
+vorkamen.
+
+Sie sind auch richtig. Jeder einzelne Satz ist wahr, überprüfbar und
+gut gemeint.
+
+Es ist die Reihenfolge, die falsch ist. Punkt eins hätte am
+fünfzehnten Dezember gesagt werden müssen, und alles andere hätte danach
+nicht mehr stattgefunden.
 
 ---
 
-Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
-Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
+Um kurz vor sieben stand Frau Kuhlmann in der Tür, im Mantel.
 
-Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
-will? Nicht das Haus. *Dich.*“
+„Der Makler fragt wegen der Abtretungsanzeige an die Darlehensnehmerin.
+Die geht normalerweise am nächsten Werktag raus, elektronisch. Er fragt,
+ob Sie das zurückstellen wollen.“
 
-Ich hatte eine Weile gebraucht.
+Ich war in Gedanken bei Punkt fünf.
 
-„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
-sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
-mich nie wieder anrufen.“
+„Nein“, sagte ich. „Machen Sie es wie üblich. Ich rede morgen Abend
+sowieso mit ihr.“
 
-„Kannst du das?“
+Frau Kuhlmann nickte und ging, und ich hörte, wie sie draußen die
+Schreibtischlampe ausmachte.
 
-„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“
+Das ist der Satz.
+
+Von allem, was ich in diesem Jahr gesagt und unterschrieben und
+angeordnet habe, ist es dieser: *Machen Sie es wie üblich.*
+
+Vier Wörter, gesagt im Mantel, an einem Dienstagabend, ohne
+nachzudenken, weil ich mit dem Kopf bei einem Satz war, in dem es darum
+ging, wo mein Sohn morgens aufwacht.
+
+Die Anzeige ging am dreiundzwanzigsten Dezember um neun Uhr vierzehn
+raus.
+
+Ich kam um sieben.

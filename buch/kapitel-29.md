@@ -1,276 +1,177 @@
 # Kapitel 29 — Leni
 
-Die Mail kam am dreiundzwanzigsten Dezember um neun Uhr vierzehn.
+Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
+habe in diesen achtzehn Stunden ungefähr vier Dinge über mich gelernt,
+die ich vorher nicht wusste.
 
-Ich stand an der Maschine und machte vier Cappuccino gleichzeitig, und
-das Telefon lag neben der Kasse und leuchtete auf, und ich sah nur den
-Absender, *Hanseatische Volksbank*, und dachte: nicht jetzt.
+**Das erste:** Ich habe niemanden angerufen.
 
-Um zwanzig nach zehn war eine Lücke.
+Nicht meine Mutter. Nicht Sanne. Nicht Frau Kettler, die vier Straßen
+weiter wohnt und in elf Minuten dagewesen wäre.
 
-**Anzeige der Abtretung gemäß § 409 BGB**
+Ich habe um zwanzig nach zwei nachts, mit dem Telefon zwischen Schulter
+und Ohr, während mein Sohn krampfte, eine einzige Nummer gewählt, und
+das war seine. Und danach habe ich achtzehn Stunden lang niemandem
+sonst Bescheid gesagt.
 
-*Sehr geehrte Frau Voss,*
+Sanne hat es am Donnerstag von Frau Kettler erfahren. Sie hat mich
+angerufen und gesagt: „Sag mal, spinnst du?“
 
-*hiermit zeigen wir Ihnen an, dass wir sämtliche Forderungen aus den
-oben bezeichneten Darlehensverträgen nebst den bestellten Sicherheiten
-mit Wirkung zum 22.12. abgetreten haben. Zahlungen mit schuldbefreiender
-Wirkung können ab sofort nur noch an den neuen Gläubiger geleistet
-werden.*
+Ich habe gesagt, es sei alles gut gegangen.
 
-*Neuer Gläubiger:*
+Sie hat gesagt: „Darum geht es nicht, Leni.“
 
-*Herr Jonas Reinhardt, Hamburg (Privatperson)*
-
-*Dieses Schreiben wurde maschinell erstellt und ist ohne Unterschrift
-gültig.*
-
----
-
-Ich habe das Telefon nicht fallen lassen. Ich habe es hingelegt,
-Bildschirm nach unten, neben die Zange.
-
-Dann habe ich vier Cappuccino zu Ende gemacht und rausgetragen und
-kassiert, und die Frau an Tisch zwei sagte, die Zimtsterne seien besser
-als letztes Jahr, und ich habe mich bedankt.
-
-Man denkt, so etwas geht nicht. Es geht. Es geht sogar sehr gut, und
-das ist das Erschreckende daran.
-
-Um halb zwölf kam Frau Kettler aus dem Backraum, sah mich einmal an und
-sagte: „Gehen Sie hoch.“
-
-„Es ist voll.“
-
-„Frau Voss.“ Sie nahm mir die Zange aus der Hand. „Ich mache das seit
-neununddreißig Jahren. Gehen Sie hoch.“
-
-Ich ging nicht hoch. Ich ging in den Hof und stand zehn Minuten neben
-den Mülltonnen, in der Kälte, ohne Jacke.
-
-*Dieses Schreiben wurde maschinell erstellt.*
+**Das zweite:** Ich habe in diesen achtzehn Stunden zweimal geschlafen,
+und zwar beide Male, weil jemand anderes wach war.
 
 ---
 
-Ich habe ihn nicht angerufen.
+**Das dritte** ist unangenehmer.
 
-Das war eine Entscheidung, und ich habe sie in diesen zehn Minuten
-zwischen den Mülltonnen getroffen, und sie war nicht großzügig.
+Am Dienstagvormittag, kurz bevor sie uns entlassen haben, kam eine
+Ärztin und ging die Sachen durch: Fieberkrampf, unkompliziert, keine
+Auffälligkeiten im EEG, kein erhöhtes Risiko, das Übliche.
 
-Ich wollte sehen, ob er es sagt.
+Und dann sagte sie: „Sie sollten das Fieberzäpfchen früher geben. Nicht
+erst bei neununddreißig fünf.“
 
----
+„Ich habe bei neununddreißig zwei gegeben.“
 
-Er kam um sieben.
+„Dann war es zu spät.“ Sie schrieb weiter. „Bei einem Kind mit dieser
+Vorgeschichte gibt man ab achtunddreißig fünf.“
 
-Er hatte zwei Tüten dabei, aus dem türkischen Laden an der Ecke, weil
-ich einmal gesagt hatte, dass ich am dreiundzwanzigsten nicht kochen
-kann. Er hatte für Emil einen Holzlaster gekauft, unverpackt, weil er
-Papier nicht hinbekommt.
+Ich habe gesagt: „Er hat keine Vorgeschichte.“
 
-Emil sah den Laster und machte diesen Laut, den Kinder machen, und
-Jonas ging in die Hocke und zeigte ihm, dass die Ladefläche kippt.
+Sie hat aufgesehen. „Doch. Ab jetzt.“
 
-Ich stand in der Küchentür und sah den beiden zu.
+Ich bin danach mit Emil auf dem Arm auf dem Flur gestanden und habe
+geweint, und zwar nicht wegen der Nacht, sondern weil eine Ärztin in
+einem Nebensatz gesagt hatte, dass ich es falsch gemacht habe.
 
-Ich möchte das festhalten, weil es zu dem, was danach kommt, dazugehört:
-Es war schön. Es war die schönste halbe Stunde des ganzen Dezembers. Ich
-wusste die ganze Zeit, was in meinem Telefon liegt, und es war trotzdem
-schön, und ich habe mir gewünscht, dass es nicht aufhört.
+Ich habe achtzehn Monate lang alles allein entschieden. Jede Impfung,
+jeden Zahn, jedes Fieber. Ich hatte in achtzehn Monaten niemanden, mit
+dem ich mich beraten konnte, und das hieß auch: niemanden, mit dem ich
+mich die Schuld teilen konnte.
 
-Wir aßen. Emil warf Reis. Um Viertel nach acht brachte ich ihn hoch, und
-er schlief in vier Minuten, weil der Laster mit im Bett lag.
+**Das vierte:** Genau das habe ich in dieser Nacht abgegeben, ohne es zu
+merken, und ich wollte es nicht zurückhaben.
 
-Als ich runterkam, hatte Jonas den Tisch abgeräumt und saß da mit einem
-Zettel neben der Hand.
+Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
+achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
 
-„Ich muss dir was sagen“, sagte er. „Es ist viel. Ich habe es
-aufgeschrieben, damit ich nichts weglasse und nichts beschönige.“
+Der Brief lag seit dem vierten Dezember in der Schublade unter der
+Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin
+auswendig, und in der Nacht vom achten auf den neunten kam er in meinem
+Kopf nicht vor.
 
-„Dann sag es.“
+Das ist der einzige Vorteil einer Katastrophe: Sie räumt für ein paar
+Stunden alles andere weg.
 
----
-
-Und er sagte es.
-
-Ich will ihm das nicht wegnehmen, deshalb schreibe ich es genau so hin,
-wie es war: Er hat nichts verschwiegen. Nicht einen Punkt. Er hat nicht
-gewartet, bis ich frage. Er hat nicht abgewartet, ob es rauskommt.
-
-Er sagte: Deine Bank hat gekündigt, ich weiß es seit dem fünfzehnten.
-
-Er sagte: Ich habe die Forderung gestern gekauft, privat, nicht über die
-Firma, für einhundertsechsundachtzigtausend Euro.
-
-Er sagte: Ich fordere nichts, nie, und ich kann sie dir nicht schenken,
-und dann erklärte er mir Schenkungsteuer und Steuerklasse drei und
-neunundvierzigtausendachthundert Euro, und er erklärte es gut, weil er
-alles gut erklärt.
-
-Er sagte: Das Haus gehört dir. Es hat sich nichts geändert außer dem
-Namen auf einem Papier.
-
-Und dann sah er auf und sagte den fünften Punkt, und bei dem war seine
-Stimme anders:
-
-„Und wenn du willst — zieh mit Emil zu mir. Nicht deswegen. Sondern weil
-ich möchte, dass er morgens im selben Haus aufwacht wie ich.“
+Am Mittwoch war er wieder da.
 
 ---
 
-Ich saß da und hatte beide Hände um eine Tasse, in der nichts mehr war.
+Wir waren am Dienstagnachmittag zu Hause, und Emil war fröhlich und
+frech und wollte den Ofen anfassen, so wie immer.
 
-„Wann heute?“, sagte ich.
+Jonas kam um sechs. Er hatte nicht gefragt, ob er kommen darf, und das
+war das erste Mal.
+
+Er hat in der Tür gestanden und gesagt: „Ich bleibe nicht lange. Ich
+wollte ihn nur sehen.“
+
+Er ist eine Stunde geblieben und hat kaum etwas gesagt und ist gegangen,
+als Emil ins Bett musste.
+
+An der Tür hat er sich umgedreht, so wie immer.
+
+„Marlene. Ich habe in dieser Nacht etwas gedacht, das mir peinlich ist.“
 
 „Was?“
 
-„Wann heute wolltest du es mir sagen? Zu welcher Uhrzeit?“
+„Ich habe gedacht: Ich kenne ihn erst vier Wochen.“ Er sah auf den
+Boden. „Nicht: Hoffentlich geht es ihm gut. Das kam danach.“
 
-„Jetzt“, sagte er. „Genau jetzt. Das war der Plan seit gestern
-Nachmittag.“
+Ich habe eine Weile nichts gesagt.
 
-„Neun Uhr vierzehn.“
+„Weißt du, was ich gedacht habe?“, sagte ich dann.
 
-Er sah mich an.
+„Nein.“
 
-Ich stand auf, holte das Telefon von der Theke, legte es vor ihn hin
-und drehte es um.
+„Ich habe gedacht: Gut, dass ich seine Nummer gewählt habe und nicht
+Sannes.“ Ich lehnte mich an den Türrahmen. „Und danach habe ich mich
+geschämt, weil Sanne mich seit fünfundzwanzig Jahren kennt.“
 
-Ich habe sein Gesicht dabei beobachtet. Ich schäme mich ein bisschen
-dafür, aber ich habe es beobachtet.
+Er hat genickt.
 
-Er las es. Er las es zweimal. Und dann sagte er ein Wort, das ich in
-sechs Monaten nicht von ihm gehört hatte, sehr leise, und danach nichts
-mehr.
+„Wir sind beide keine besonders netten Menschen“, sagte er.
 
-„Die Anzeige“, sagte er schließlich. „Ich habe gesagt, sie sollen es
-machen wie üblich. Ich habe nicht —“
+„Nein“, sagte ich. „Wir sind nur müde.“
+
+---
+
+Die Woche bis zum Montag war die ruhigste seit Langem, und ich habe sie
+damit verbracht, mir das Jugendamt schlechtzureden.
+
+Nicht laut. Innerlich, so wie man das macht.
+
+Ich habe gedacht: Wenn ich das unterschreibe, hat er Rechte. Ich habe
+gedacht: Man kann es nicht zurücknehmen, das hat Niklas selbst
+geschrieben, unwiderruflich. Ich habe gedacht: Und wenn er in einem
+Jahr weg ist, sitze ich mit einem Mann im Grundbuch meines Kindes.
+
+Ich habe am Donnerstag Herrn Sievers angerufen, meinen Steuerberater,
+weil ich sonst niemanden habe, den ich in solchen Dingen frage.
+
+Er hat gesagt: „Frau Voss, das ist Familienrecht, davon verstehe ich
+nichts.“
 
 „Ich weiß.“
 
-„Marlene, ich schwöre dir, ich habe nicht daran gedacht, dass —“
-
-„Ich weiß“, sagte ich. „Das ist das Problem.“
-
----
-
-„Zwei Dinge“, sagte ich, „und dann bin ich fertig, und dann darfst du
-alles sagen, was du willst.
-
-Erstens: Du hast es am fünfzehnten erfahren. Heute ist der
-dreiundzwanzigste. Das sind acht Tage. Am neunzehnten haben wir auf dem
-Boden gesessen und Kugeln sortiert, und du hast gesagt: *Ich muss dir
-vor Weihnachten was sagen, nichts Schlimmes.* Da war es schon nichts
-Schlimmes.
-
-Zweitens.“ Ich holte Luft. „Heute Morgen um neun Uhr vierzehn hat mir
-ein Serienbrief mitgeteilt, dass mein Haus dir gehört. Ein Serienbrief,
-Jonas. *Maschinell erstellt und ohne Unterschrift gültig.* Und heute
-Abend um zwanzig nach acht fragst du mich, ob ich bei dir einziehe.“
-
-„Das eine hat mit dem anderen nichts —“
-
-„Doch.“ Ich sagte es nicht laut. „Für dich nicht. Für mich schon. Und
-ich bin die, die einzieht.“
+„Aber ich sage Ihnen etwas als Mensch.“ Ein Räuspern. „Ich habe drei
+Mandanten, bei denen der Vater nicht eingetragen ist. In allen drei
+Fällen wollte die Mutter das so. Und in allen drei Fällen ist es das
+Kind, das später das Problem hat, nicht die Mutter und nicht der
+Vater.“
 
 ---
 
-Er saß sehr gerade, so wie er in Sitzungen sitzt.
+Am Freitag hat Frau Kettler gesagt, was sie zu sagen hatte.
 
-„Du hast es mir auch nicht gesagt“, sagte er.
+Sie hat es beim Abwaschen gesagt, mit dem Rücken zu mir, was bei ihr
+heißt, dass es ihr ernst ist.
 
-Und da war er im Recht, und ich wusste es, und ich hatte den Zettel in
-der Schranktür hängen, drei Meter von uns entfernt.
+„Sie haben Angst, dass er geht.“
 
-„Ja“, sagte ich. „Neunzehn Tage. Ich habe es dir neunzehn Tage lang
-nicht gesagt, und ich hatte drei Gründe, und einer davon war sogar gut.“
+„Ja.“
 
-„Welcher?“
+„Das können Sie nicht verhindern.“ Sie stellte ein Blech ins
+Abtropfgitter. „Sie können nur verhindern, dass er bleibt.“
 
-„Dass du zwischen mir und deinem Beirat hättest wählen müssen.“ Ich sah
-ihn an. „Merkst du was?“
-
-Er merkte es nicht sofort. Dann merkte er es.
-
-„Ich habe für dich entschieden, was du verkraftest“, sagte ich. „Du hast
-für mich entschieden, was ich verkrafte. Wir machen genau dasselbe,
-Jonas. Wir machen es aus Liebe und wir nennen es Rücksicht und es ist
-beides Mal dasselbe: Wir lassen den anderen nicht wählen.“
-
-„Dann hören wir beide damit auf.“
-
-„Ja.“ Ich stand auf. „Aber nicht heute Abend, und nicht in diesem
-Zimmer.“
+Ich habe darüber das ganze Wochenende nachgedacht.
 
 ---
 
-„Ich möchte, dass du gehst.“
+Am Sonntagabend habe ich Emil ins Bett gebracht, und er hat sich an mir
+festgehalten, wie er das seit der Klinik macht, und ich habe an seinem
+Bett gesessen, bis er weg war.
 
-Er stand auf, sehr langsam.
+Danach bin ich runter in den dunklen Laden gegangen und habe die
+Schublade aufgezogen — sie geht jetzt leicht — und den Zettel
+herausgenommen und angesehen.
 
-„Marlene —“
+*Emil ist deiner.*
 
-„Nein. Hör zu, weil ich das genau sagen muss und ich es nur einmal
-schaffe.“ Ich hielt mich an der Stuhllehne fest. „Ich nehme dir Emil
-nicht weg. Nichts, was wir unterschrieben haben, wird angefasst. Du
-kommst am Freitag um zehn, wie besprochen, und an Silvester, und du
-bringst ihn abends zurück, und wir sind höflich zueinander, weil er es
-merkt.
+Vier Wörter. Ich hatte sie inzwischen gesagt. Es hatte nichts kaputt
+gemacht.
 
-Das ist seins. Nicht deins. Ich benutze es nicht.“
+Das ist die Sache, die man nicht glaubt, solange man es nicht getan
+hat: Es hat nichts kaputt gemacht.
 
-Er hat mich angesehen, und ich glaube, das war der Moment, in dem er
-begriffen hat, dass es ernst ist. Nicht bei *geh*. Bei *ich benutze es
-nicht*.
+Ich habe den Zettel zurückgelegt und die Schublade zugeschoben und bin
+hochgegangen und habe mir für Montag ein Hemd rausgelegt, als ginge ich
+zu einem Termin, bei dem man ordentlich aussehen muss.
 
-„Und was ist mit uns?“
+Es ist ein Amt. Es ist eine Viertelstunde. Es kostet nichts.
 
-„Es gibt kein *uns*, in dem mir jemand zweihundertvierzehntausend Euro
-erlässt, indem er sie nicht einfordert.“ Meine Stimme ging weg, und ich
-holte sie zurück. „Jeden Morgen, Jonas. Jeden Morgen würdest du dich
-entscheiden, es nicht zu tun, und ich würde jeden Morgen wissen, dass du
-dich entschieden hast.“
-
-„Ich verkaufe sie zurück.“
-
-„An wen? An Kellermann?“
-
-Er sagte nichts.
-
-„Siehst du“, sagte ich. „Es geht nicht mehr weg. Das ist es, was du
-gestern um siebzehn Uhr vierzig gemacht hast. Du hast etwas gekauft,
-das man nicht zurückgeben kann.“
-
----
-
-Er nahm seinen Mantel.
-
-An der Tür drehte er sich um, und ich sah, dass er weinte, und ich habe
-nicht hingesehen, weil ich sonst nicht durchgehalten hätte.
-
-„Ich wollte nur, dass ihr sicher seid“, sagte er.
-
-„Ich weiß“, sagte ich. „Das ist das Traurigste an dem ganzen Abend.“
-
-Dann ging er, und diesmal hörte ich den Wagen sofort.
-
----
-
-Ich blieb sitzen, bis es halb elf war.
-
-Dann ging ich zum Schrank und machte die Tür auf und las meinen eigenen
-Zettel, der seit zwei Tagen neben dem Dienstplan hing.
-
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
-
-Ich habe ihn nicht abgenommen.
-
-Oben fing Emil an zu weinen, und ich ging hoch, und er saß im Bett und
-hielt den Holzlaster fest und sagte diesen Laut mit dem harten Anfang.
-
-Und ich musste ihm sagen, dass der Mann nicht mehr da ist.
-
-Er ist achtzehn Monate alt. Er versteht das nicht.
-
-Er hat es trotzdem drei Tage lang jeden Abend gefragt.
+Ich habe trotzdem ein Hemd rausgelegt.

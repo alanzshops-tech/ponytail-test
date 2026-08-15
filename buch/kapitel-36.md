@@ -1,183 +1,206 @@
 # Kapitel 36 — Jonas
 
-Die Woche vor dem zwanzigsten Januar war die längste meines
-Berufslebens, und ich habe in ihr sehr wenig getan.
+Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
+Telefonat, so gut er es erinnerte, und zweimal wörtlich.
 
-Das ist der Teil, den man nicht lernt: dass Warten Arbeit ist.
+Ich hörte zu und merkte, wie mir etwas den Rücken hochlief, und ich
+sage jetzt, was es war, weil ich sonst dieses ganze Kapitel schönfärben
+müsste.
 
-Ich hatte einen Plan in vier Schritten, ein Gutachten, das nicht mir
-gehörte, und eine Sitzung, in der ich etwas offenlegen wollte, das mich
-den Posten kosten kann. Und dazwischen acht Tage, in denen ich nichts
-tun durfte, ohne alles zu gefährden.
+Es war Ärger.
 
-Ich habe in diesen acht Tagen zweimal den Hörer in der Hand gehabt, um
-sie anzurufen, und beide Male aufgelegt, bevor es klingelte.
+Der erste Gedanke von Jonas Reinhardt, Geschäftsführer, war: *Sie setzt
+uns unter Druck. Drei Tage vor Jahresende, vier Wochen vor Baubeginn.*
 
-Nicht aus Trotz. Weil Theo ihr geschrieben hatte, dass sie entscheidet,
-und weil ein Anruf von mir das kaputtgemacht hätte.
+Der zweite Gedanke war: *Wer hat ihr das geraten?*
 
----
+Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
+hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
+ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
 
-Am vierzehnten kam Niklas mit dem Entwurf für den Forderungskauf.
+„Du guckst komisch“, sagte Theo.
 
-Wir haben ihn zweieinhalb Stunden lang durchgearbeitet, Satz für Satz,
-und mein Bruder hat dabei dreimal gesagt: „Das hält.“
+„Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
+Gegenpartei halte.“
 
-Beim vierten Mal habe ich gefragt: „Warum sagst du das dauernd?“
+„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
+tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
+verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
+uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
+das kostet. Weil sie nett war.“
 
-Er hat den Stift hingelegt.
+„Sie hat es zugesagt.“
 
-„Weil du seit zwanzig Minuten nach einer Stelle suchst, an der du
-etwas hinzufügen kannst“, sagte er. „Eine Klausel, eine Zusicherung,
-irgendwas. Und es gibt keine, weil der Vertrag fertig ist.“
-
-„Ich will nur sicher sein, dass sie nicht —“
-
-„Dass sie nicht was?“ Niklas lehnte sich zurück. „Dass sie nicht
-schlechter dasteht? Sie steht am Ende ohne Schulden da, mit ihrem Haus,
-mit einer Reallast auf zwanzig Jahre für ihr Erdgeschoss, die wir
-freiwillig anbieten. Wenn du da noch etwas hinzufügst, ist es kein
-Vertrag mehr, sondern ein Geschenk mit Deckel.“
-
-Er hat die Blätter zusammengeschoben.
-
-„Jonas. Der Vertrag ist nicht dein letzter Satz an sie. Er ist nur ein
-Vertrag.“
+„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
+Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
+anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
+mich gefragt, was mit ihm nicht stimmt.“
 
 ---
 
-Am fünfzehnten stand Kellermann in der Zeitung.
+Wir saßen zwei Stunden über dem Plan.
 
-Nicht wegen Kehrwieder. Wegen eines Objekts in der Neustadt, das er
-aus einem Bankenpaket gekauft hat, und der Artikel war freundlich; er
-wird darin als jemand beschrieben, der Substanz erhält.
+Ich hatte ihn zwanzigmal gesehen. Ich sah ihn zum ersten Mal von ihrer
+Seite.
 
-Ich habe den Artikel zweimal gelesen und danach eine halbe Stunde am
-Fenster gestanden.
+Die Durchfahrt: einziger Fahrzeugzugang. Ohne sie ist der Hof eine
+Grube, die man zu Fuß erreicht.
 
-Denn das Unangenehme ist: Er macht dasselbe wie ich.
+Die Rückwand: an sie kommt der Übergang. Ohne Anbaurecht steht der
+Übergang auf zwei Stützen im Nichts.
 
-Er wartet, bis eine Bank aufräumt, und dann ist er da. Genau das hat
-mein Vater mir mit siebzehn erklärt, in genau diesen Worten, und ich
-habe es zwölf Jahre lang für Handwerk gehalten.
+Die Leitungen: Schmutzwasser, Regenwasser, Fernwärme. Der Bestand liegt
+unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
+Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
+die ich nicht mal überschlagen wollte.
 
-Der Unterschied zwischen Kellermann und mir besteht in diesem Winter
-aus einer einzigen Sache, und die ist nicht Anstand.
+„Was kostet die Alternative?“, fragte ich schließlich.
 
-Sie ist: Ich kenne sie.
+Theo rechnete auf dem Rand.
 
-Das ist kein moralischer Unterschied. Das ist Zufall.
+„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
 
-Ich habe an diesem Abend zum ersten Mal gedacht, dass ich mich nicht
-für einen besseren Menschen halten darf, sondern nur für einen, der
-Glück hatte.
+Ich sah die Zahl an.
 
----
+„Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
+wert.“
 
-Am sechzehnten habe ich Wendland angerufen.
-
-Das mache ich nie. Wendland ruft an; man ruft nicht Wendland an.
-
-„Reinhardt.“ Er klang überrascht. „Ist etwas?“
-
-„Ich möchte, dass Sie am Zwanzigsten etwas wissen, bevor ich es im
-Raum sage.“
-
-„Dann sagen Sie es.“
-
-Ich habe es ihm gesagt. Alles: das Kind, den dritten Dezember, den
-Kauf am zweiundzwanzigsten, die Fristverlängerung, den Plan mit den
-Dienstbarkeiten.
-
-Es hat vier Minuten gedauert.
-
-Am anderen Ende war es danach lange still.
-
-„Warum rufen Sie mich vorher an?“, sagte er.
-
-„Damit Sie nicht am Zwanzigsten zum ersten Mal davon hören und
-entscheiden müssen, während Sie überrascht sind.“
-
-„Das ist Taktik.“
-
-„Ja“, sagte ich. „Es ist auch Taktik.“
-
-Wieder eine Pause.
-
-„Reinhardt, ich sage Ihnen jetzt etwas, und ich sage es genau einmal.“
-Ich hörte ihn etwas hinlegen. „Ihr Vater hätte diesen Anruf nicht
-gemacht. Nicht weil er unehrlich war. Weil ihm nicht in den Sinn
-gekommen wäre, dass ein Mensch überrascht sein könnte.“
-
-„Ist das gut oder schlecht?“
-
-„Das weiß ich am Zwanzigsten“, sagte Wendland und legte auf.
+„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
+Gutachter nicht so rechnen. Aber ja.“
 
 ---
 
-Am siebzehnten, einem Freitag, habe ich Emil gehabt.
+Niklas kam am Dreißigsten, und wir bauten es zusammen.
 
-Zehn bis sechs. Wir waren im Museumshafen, weil dort Schiffe liegen und
-weil ein Zwanzigmonatiger für ein Schiff denselben Laut macht wie für
-einen Bagger.
+„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
+Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
+nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
+nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
+sondern eine Entscheidung, die ich hinnehme.“
 
-Sie hat ihn mir unten in der Durchfahrt übergeben, und wir haben sechs
-Sätze gewechselt, alle über Emil.
+„Das dritte ist neu“, sagte mein Bruder.
 
-Beim Zurückbringen um sechs stand sie schon in der Tür.
+„Ja.“
 
-„Wie war er?“
+Er nahm den Block.
 
-„Gut. Er hat vor einem Schlepper vierzig Minuten gestanden.“
+Es sieht am Ende einfach aus, und deshalb schreibe ich die vier Schritte
+hin, damit klar ist, wie lange man dafür braucht:
 
-„Vierzig?“
+**Eins.** Ein öffentlich bestellter und vereidigter Sachverständiger
+bewertet die drei Rechte — Wegerecht, Anbaurecht, Leitungsrecht — als
+Grunddienstbarkeiten zugunsten unserer drei Grundstücke. Nicht von uns
+beauftragt. Von ihr, oder gemeinsam, und in jedem Fall von jemandem, den
+weder sie noch ich kennt.
 
-„Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
-habe.“
+**Zwei.** Die Gesellschaft kauft die Rechte zum Gutachtenwert. Kein Cent
+darüber. Ein Cent darüber wäre eine verdeckte Schenkung, und dann sitzt
+in zwei Jahren das Finanzamt bei ihr und nicht bei mir.
 
-Sie hat gelächelt, und ich habe zum ersten Mal seit dem
-dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
-vorbei ist, sondern nur anders.
+**Drei.** Sie kauft mit dem Geld die Forderung. Von mir. Zu dem Preis,
+den ich bezahlt habe: einhundertsechsundachtzigtausend. Kein Gewinn, kein
+Nachlass, ein normaler Forderungskauf, notariell, prüfbar.
 
-Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
-hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein
-Handel aussieht.
+**Vier.** In dem Moment, in dem sie Gläubigerin ihrer eigenen Schuld
+ist, erlischt die Forderung. Das Wort dafür ist Konfusion. Sie schuldet
+niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
 
-Ich glaube bis heute, dass das richtig war.
+Niklas legte den Stift hin.
 
-Ich weiß aber auch, dass „ich sage lieber nichts“ in diesem Buch
-ungefähr sechzigmal vorkommt, und dass es jedes Mal die falsche
-Entscheidung war.
+„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
+und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
+sah auf. „Es hat nur einen Haken, und der ist groß.“
+
+„Der Beirat.“
+
+„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
+zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
+etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
+Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
+Gläubiger.“
+
+„Ja.“
+
+„Weißt du, wie das aussieht?“
+
+„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
+vorher.“
 
 ---
 
-Am achtzehnten, einem Samstag, war ich bei meiner Mutter und habe ihr
-gesagt, dass es sein kann, dass ich am Montag abberufen werde.
+Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
+mit drei Leuten gesprochen.
 
-Sie hat gefragt: „Und dann?“
+„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
 
-„Dann führt Theo die Firma.“
+„Bei wem?“
 
-„Ich meine nicht die Firma, Jonas.“ Sie hat die Tasse abgestellt. „Ich
-meine dich. Was machst du dann?“
+„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
+Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
 
-Ich habe darauf keine Antwort gehabt.
+„Er wird es erfahren.“
 
-Ich bin sechsunddreißig, ich habe mit zweiundzwanzig ein
-Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
-die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
-Antwort.
+„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
+Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
+Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
+Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
+ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
 
-Meine Mutter hat gesagt: „Denk mal darüber nach. Nicht am Montag.
-Irgendwann.“
+Ich hörte es mir laut an.
 
-Und dann, an der Tür:
+„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
+Kauf. Auch den Preis.“
 
-„Ich fände es nicht schlimm, weißt du.“
+Am anderen Ende war es lange still.
 
-„Was?“
+„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
 
-„Wenn sie dich rauswerfen.“ Sie hat mir den Mantel gereicht. „Dein Vater
-ist mit vierundfünfzig gestorben, und in den zweiunddreißig Jahren
-davor hat er zwei Wochen Urlaub gemacht. Ich habe kein einziges Mal
-gedacht: Gut, dass er so viel gearbeitet hat.“
+„Ich weiß.“
+
+„Ihr Vater hätte das nie gemacht.“
+
+„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
+
+---
+
+Ich rief sie nicht an.
+
+Das ist die Sache, auf die ich in diesem ganzen Jahr am ehesten stolz
+bin, und sie besteht darin, dass ich zwei Wochen lang etwas *nicht*
+getan habe.
+
+Ich hätte hinfahren können. Ich hatte einen Plan in vier Schritten, der
+funktioniert, und ich hätte ihn ihr erklären können, gut, verständlich,
+mit einer Skizze, und sie hätte am Ende genickt.
+
+Und dann wäre es wieder meiner gewesen.
+
+Also machte ich es anders. Theo schrieb ihr — nicht ich —, dass die
+Gesellschaft bereit ist, die drei Rechte zu erwerben, dass sie den
+Sachverständigen aussucht, dass die Gesellschaft das Gutachten bezahlt
+und an das Ergebnis gebunden ist, und dass sie bis zur Sitzung am
+zwanzigsten Zeit hat.
+
+Kein Wort von mir. Keine Grüße. Nichts über den Rest.
+
+Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
+
+„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
+
+---
+
+Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
+Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
+
+Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
+will? Nicht das Haus. *Dich.*“
+
+Ich hatte eine Weile gebraucht.
+
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
+sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
+mich nie wieder anrufen.“
+
+„Kannst du das?“
+
+„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“
