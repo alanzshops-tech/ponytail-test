@@ -97,43 +97,54 @@ und am Montag läuft ihre Frist ab. → Band 2.
 
 ## Länge — die Entscheidung, die jetzt ansteht
 
-**Stand des Ausbaus: 32.225 von 65.000 Wörtern.**
+**Stand des Ausbaus: 35.692 von 65.000 Wörtern.** Schnitt 1.275 je
+Kapitel, Ziel 2.400.
 
-Gemessen, wie lang es sein müsste (`KDP-NISCHEN.md`, „Wie lang sind die
-Spitzentitel?"): Median 291 bis 337 Druckseiten, bei 200 bis 250 Wörtern
-je Seite also **65.000 bis 82.000 Wörter**. Ziel sind 28 Kapitel à rund
-2.400 Wörter — genau der Kapitelplan, der von Anfang an in
-`../BAND1-STRUKTUR.md` stand und beim ersten Durchgang nicht getroffen
-wurde.
+Gemessen, wie lang es sein müsste (`../KDP-NISCHEN.md`, „Wie lang sind
+die Spitzentitel?"): Median 291 bis 337 Druckseiten, bei 200 bis 250
+Wörtern je Seite also **65.000 bis 82.000 Wörter**.
 
-| Kapitel | Wörter | Stand |
-|---|---:|---|
-| 1 | 1.963 | **ausgebaut** |
-| 2 | 1.490 | **ausgebaut** |
-| 3 | 1.525 | **ausgebaut** |
-| 4–28 | je ~1.000–1.400 | offen |
+**Alle 28 Kapitel sind angefasst.** Der erste Durchgang des Ausbaus ist
+durch: In jedem Kapitel steht mindestens eine neue Szene, und keine
+davon ist Füllmaterial — jede pflanzt etwas, das später zahlt, oder
+zeigt etwas, das bisher nur behauptet war.
 
-**Die Regel des Ausbaus: nicht strecken, sondern vorbereiten.** Jede neue
-Szene muss etwas pflanzen, das später zahlt. Umgesetzt in Kapitel 1 bis
-3: Herr Kubatz mit dem Hund um zehn nach neun (Jonas lernt das in
-Kap. 16), Sanne aus dem Copyshop, der Frau Petersens Kurzwarenladen war
-(Kap. 23), die Chronik im Flur (Kap. 25), die klemmende Schublade
-(Kap. 23), die Durchfahrt als einziger Fahrzeugzugang — von Theo
-ausgesprochen, damit Leni ihn im Dezember selbst findet (Kap. 23), das
-Sonnenblumen-Album (Kap. 12) und der Satz der Mutter (Kap. 23).
+| | erster Entwurf | jetzt |
+|---|---:|---:|
+| Wörter | 30.575 | **35.692** |
+| Schnitt je Kapitel | 1.092 | **1.275** |
+| kürzestes Kapitel | 897 | 1.016 |
+| längstes Kapitel | 1.466 | 1.963 |
 
-**Was noch fehlt, nach Blöcken:**
+**Was der zweite Durchgang gebracht hat, inhaltlich:**
 
-| Block | Kapitel | Was hinein muss | ca. |
-|---|---|---|---:|
-| 2 | 4–7 | Der Kein-Ausweg-Moment und die Verhandlung; das Bankgespräch als Szene; Jonas' Beirat zum ersten Mal | +4.500 |
-| 3 | 8–11 | Der Oktober des Verliebens — heute in Kapitel 8 zusammengefasst, braucht zwei bis drei eigene Szenen | +6.000 |
-| 4 | 12–14 | Der Mittelpunkt und die ersten Tage danach, aus Emils Alltag heraus | +4.000 |
-| 5 | 15–18 | Die zwei Wochen zwischen Mappe und Fieberkrampf | +5.000 |
-| 6 | 19–21 | Dezember: Bankgänge, Absagen, Kellermann | +5.000 |
-| 7 | 22–28 | Die Eingewöhnung und der März, heute in Kapitel 28 zusammengefasst | +8.000 |
+- Der **Oktober des Verliebens** war eine Zusammenfassung und ist jetzt
+  zwei ausgeschriebene Abende (Kap. 8), plus dieselben Abende von ihrer
+  Seite (Kap. 9).
+- **Travemünde** war eine Zusammenfassung und ist jetzt eine Szene
+  (Kap. 3).
+- **Beide Wohnungen** existieren jetzt: seine leere im dritten Stock
+  (Kap. 4), ihr Haus vom Keller bis zu den leeren Etagen (Kap. 25).
+- **Der März** war ein Halbsatz und ist jetzt eine Szene mit Bohrpfählen
+  und Theos Baum (Kap. 28).
+- **Zahlen statt Andeutungen:** Lenis Nachtrechnung mit echten Posten
+  (Kap. 19), vierzig Bilder auf fünfhundertvierzig Tage (Kap. 12), der
+  Bestand der Firma (Kap. 26).
 
-Zusammen ergibt das rund 65.000.
+**Was noch fehlt: rund 29.000 Wörter.**
+
+Der Weg dahin ist nicht mehr „eine Szene je Kapitel", sondern ein
+dritter Durchgang, in dem die dreizehn Kapitel unter 1.200 Wörtern
+(5, 7, 9, 11, 13, 14, 15, 16, 17, 18, 20, 22, 24) je eine **zweite**
+Szene bekommen, und in dem die vier Stellen ausgebaut werden, an denen
+die Handlung heute springt:
+
+| Stelle | Was fehlt |
+|---|---|
+| Kap. 9 → 10 | die zwei Wochen vor der Beiratssitzung |
+| Kap. 16 → 17 | die zwei Wochen zwischen Mappe und Fieberkrampf |
+| Kap. 24 → 25 | die Jahreswende, während das Gutachten läuft |
+| Kap. 27 → 28 | die acht Vormittage Eingewöhnung, heute ein Absatz |
 
 **Der zweite Durchgang läuft.** Block 1 ist fertig.
 
