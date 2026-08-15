@@ -90,6 +90,8 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 | Cover der Nische messen | Playwright, Pillow | `scripts/cover.py` |
 | Cover setzen und prüfen | Pillow | `scripts/coverbau.py` |
 | Manuskript bauen und prüfen | ebooklib | `scripts/manuskript.py` |
+| Prosa messen, Typografie | spaCy, LanguageTool | `scripts/prosa.py` |
+| Fremdes Urteil über Kapitel | OpenRouter | `scripts/lektorat.py` |
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
@@ -154,6 +156,11 @@ CopeCart, ablefy im Reseller-Modell) lösen das, weil dort der Kaufvertrag
 zwischen Plattform und Kunde zustande kommt. Dazu: Kurse und Memberships
 bringen am meisten, brauchen aber ein Publikum — das hier fehlt. Etsy ist
 die einzige Startoption mit eigenem Traffic.
+
+`LEKTORAT.md` — fremde Modelle lesen die Kapitel. Jedes Zitat wird
+gegen den Text geprüft, und ein absichtlich schlechter Kontrolltext
+läuft bei jedem Durchgang mit. Ohne bestandene Gegenprobe ist ein
+„kein Abbruch" keine Messung, sondern Höflichkeit.
 
 `COVER.md` — 36 gemessene Konkurrenzcover aus den KDP-Nischen, dazu
 der fertige Bild-Prompt und die Typografie-Vorgaben. `KDP-UPLOAD.md` —
