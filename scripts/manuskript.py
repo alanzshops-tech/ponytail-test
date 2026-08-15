@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import argparse
 import re
+from datetime import date, datetime, time
 from pathlib import Path
 
 BUCH = Path(__file__).resolve().parent.parent / "buch"
@@ -200,7 +201,59 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     buch.add_item(epub.EpubNcx())
     buch.add_item(epub.EpubNav())
     buch.spine = ["nav"] + seiten
-    epub.write_epub(str(ziel), buch)
+    # ebooklib stempelt sonst die aktuelle Uhrzeit in content.opf. Dann
+    # unterscheidet sich jede neu gebaute EPUB von der alten, obwohl kein
+    # Wort anders ist, und `git status` meldet eine Aenderung, die keine
+    # ist. Ueber die mtime-Option nur das Datum setzen -- am selben Tag
+    # zweimal gebaut ergibt Byte fuer Byte dieselbe Datei.
+    #
+    # Nicht ueber add_metadata: dcterms:modified darf laut EPUB-3-Spec
+    # genau einmal vorkommen. ebooklib filtert Doubletten nur im
+    # OPF-Namensraum heraus, ein selbst hinzugefuegter Eintrag landet
+    # zusaetzlich in der Datei. Genau das war beim ersten Versuch der
+    # Fall -- zwei Zeitstempel in content.opf.
+    heute = datetime.combine(date.today(), time.min)
+    epub.write_epub(str(ziel), buch, {"mtime": heute})
+    zip_normalisieren(ziel)
+
+
+def zip_normalisieren(datei: Path) -> None:
+    """Schreibt das EPUB-Archiv mit festen Eintragszeitstempeln neu.
+
+    Auch nach der mtime-Option blieb die Datei zwischen zwei Laeufen
+    verschieden: Der Inhalt war Byte fuer Byte gleich, aber alle 38
+    ZIP-Eintraege trugen die Uhrzeit des Laufs. Fuer eine Binaerdatei im
+    Repository heisst das: jeder Neubau erzeugt einen Diff, und die
+    Historie waechst um 240 kB, ohne dass ein Wort anders ist.
+
+    Die EPUB-Regel dabei: `mimetype` muss der erste Eintrag sein und
+    unkomprimiert gespeichert werden, sonst erkennen manche Lesegeraete
+    das Paket nicht.
+    """
+    import shutil
+    import tempfile
+    import zipfile
+
+    fest = (2000, 1, 1, 0, 0, 0)
+    quelle = zipfile.ZipFile(datei)
+    eintraege = quelle.infolist()
+    reihenfolge = ([e for e in eintraege if e.filename == "mimetype"]
+                   + [e for e in eintraege if e.filename != "mimetype"])
+
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".epub") as tmp:
+        pfad = tmp.name
+    with zipfile.ZipFile(pfad, "w") as neu_zip:
+        for e in reihenfolge:
+            daten = quelle.read(e.filename)
+            info = zipfile.ZipInfo(e.filename, date_time=fest)
+            if e.filename == "mimetype":
+                info.compress_type = zipfile.ZIP_STORED
+            else:
+                info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = e.external_attr
+            neu_zip.writestr(info, daten)
+    quelle.close()
+    shutil.move(pfad, datei)
 
 
 def main() -> None:
