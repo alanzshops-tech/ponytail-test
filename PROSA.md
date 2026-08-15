@@ -73,6 +73,10 @@ Dasselbe Wort mindestens viermal innerhalb von 220 Wörtern. Über ein ganzes Ka
 - **Kapitel 27**: sagen (6×), stehen (4×), gehen (4×), notar (4×), forderung (4×), frau (4×)
 - **Kapitel 28**: sagen (6×), haben (6×)
 
+## Wort doppelt hintereinander
+
+*Keine gefunden.*
+
 ## Typografie
 
 - Öffnende Anführungszeichen `„`: 1186
@@ -82,6 +86,8 @@ Dasselbe Wort mindestens viermal innerhalb von 220 Wörtern. Über ein ganzes Ka
 - Auslassung falsch `...`: 0 · richtig `…`: 1
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
+
 
 
 

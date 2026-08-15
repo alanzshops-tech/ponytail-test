@@ -15,3 +15,6 @@ theme/sandbox-neu/
 # 14.08.2026 lief durch, committete aber nichts. Jetzt nur noch die
 # Kopie an der Wurzel, nicht die im theme-Ordner.
 /arbeitskopie/
+
+# Vale-Binary wird von scripts/vale.sh geholt, nicht versioniert (11 MB)
+/.vale-bin/

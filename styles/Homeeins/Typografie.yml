@@ -1,0 +1,12 @@
+extends: existence
+message: "Falsche Typografie: %s"
+level: error
+nonword: true
+tokens:
+  # Gerades Anfuehrungszeichen. Am 15.08.2026 standen 1107 davon im
+  # Manuskript -- jede Dialogzeile.
+  - '"'
+  # Gerader Apostroph statt ’
+  - "\\w'\\w|\\w'(?=\\W|$)"
+  # Drei Punkte statt …
+  - '(?<!\.)\.\.\.(?!\.)'

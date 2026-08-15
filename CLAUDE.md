@@ -116,6 +116,7 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 | Cover setzen und prüfen | Pillow | `scripts/coverbau.py` |
 | Manuskript bauen und prüfen | ebooklib | `scripts/manuskript.py` |
 | Prosa messen, Typografie | spaCy, LanguageTool | `scripts/prosa.py` |
+| Prosa-Linter mit eigenen Regeln | Vale | `scripts/vale.sh`, `styles/` |
 | Fremdes Urteil über Kapitel | OpenRouter | `scripts/lektorat.py` |
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,

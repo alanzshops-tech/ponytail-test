@@ -177,6 +177,30 @@ def kapitelmass(t: str, nlp=None) -> dict:
     return m
 
 
+def doppelwoerter(text: str) -> list[tuple[str, int]]:
+    """Dasselbe Wort zweimal direkt hintereinander, ohne Satzzeichen
+    dazwischen.
+
+    Das kann Vale nicht: Sein Regex-Motor (RE2) kennt keine
+    Rueckverweise, und seine Wiederholungsregel ignoriert Satzzeichen.
+    Am 15.08.2026 meldete sie deshalb fuenf Treffer im Manuskript, und
+    alle fuenf waren richtiges Deutsch -- Relativpronomen ("die, die es
+    allein schafft"), Konjunktiv-Inversion ("gegeben haette, haette
+    ich") und eine gewollte Wiederholung ueber den Gedankenstrich.
+
+    Hier mit Rueckverweis und ohne erlaubte Satzzeichen dazwischen, und
+    erst ab vier Buchstaben -- kuerzere sind im Deutschen fast immer
+    Funktionswoerter.
+    """
+    raus = []
+    # Ohne IGNORECASE. Im Deutschen unterscheidet die Grossschreibung
+    # Substantiv und Verb: "in einem Leben leben" ist richtig, und mit
+    # IGNORECASE meldete diese Funktion genau das als Fehler.
+    for m in re.finditer(r"\b([A-Za-zÄÖÜäöüß]{4,})\s+\1\b", text):
+        raus.append((m.group(1), text[:m.start()].count("\n") + 1))
+    return raus
+
+
 def wiederholungen(lemmas: list[tuple[str, int]], fenster: int = 220,
                    ab: int = 4) -> list[tuple[str, int]]:
     """Dasselbe Wort mehrfach dicht beieinander. Über ein ganzes Kapitel
@@ -232,6 +256,28 @@ def selbsttest() -> bool:
         ok = False
     except ValueError:
         print("  Korrektur, Negativfall: offenes Zitat abgelehnt")
+
+    dopp = doppelwoerter("Er ging ging zur Tür.")
+    print(f"  Doppelwort, Positivfall: {dopp}")
+    if not dopp:
+        print("  FEHLGESCHLAGEN: 'ging ging' nicht gefunden.")
+        ok = False
+    falsch = []
+    for satz in ["Ich bin die, die es allein schafft.",
+                 "niemand — niemand von uns",
+                 "gegeben hätte, hätte ich",
+                 "Frau Özdemir, die die Gruppe leitet",
+                 "Der Anwalt, der der Gegenseite geraten hat",
+                 "dass ich nicht in einem Leben leben kann",
+                 "weil das Wissen wissen will"]:
+        if doppelwoerter(satz):
+            falsch.append(satz)
+    print(f"  Doppelwort, sieben echte Sätze: "
+          f"{len(falsch)} falsche Treffer")
+    if falsch:
+        for s in falsch:
+            print(f"    falsch beanstandet: {s}")
+        ok = False
 
     eng = [("regen", i) for i in range(0, 100, 25)]
     weit = [("regen", i) for i in range(0, 4000, 1000)]
@@ -364,6 +410,16 @@ def main() -> None:
                               + ", ".join(f"{x} ({y}×)" for x, y in w[:6]))
         if not gefunden:
             zeilen.append("*Keine gefunden.*")
+
+    zeilen += ["", "## Wort doppelt hintereinander", ""]
+    dop = False
+    for f in dateien:
+        n = int(re.search(r"(\d+)", f.name).group(1))
+        for wort, zeile in doppelwoerter(text_von(f)):
+            dop = True
+            zeilen.append(f"- Kapitel {n}, Zeile {zeile}: „{wort} {wort}“")
+    if not dop:
+        zeilen.append("*Keine gefunden.*")
 
     t = typografie_pruefen("\n".join(text_von(f) for f in dateien))
     zeilen += ["", "## Typografie", "",
