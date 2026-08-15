@@ -1,126 +1,144 @@
 # Stand des Manuskripts
 
-Stand 15.08.2026, nachts · *Die Reinhardt-Brüder 1 —
-Sein bestgehütetes Geheimnis*
+Stand 15.08.2026 · *Die Reinhardt-Brüder 1 — Sein bestgehütetes
+Geheimnis*
 
 ---
 
-## Ehrlich zuerst: Das Buch ist nicht fertig
-
-Du hast „mach es fertig" gesagt. Fertig ist es nicht. Was fertig ist:
+## Was fertig ist
 
 | | |
 |---|---|
 | **Klappentext** | fertig, `00-klappentext.md` |
 | **Phase 1 (Aufbau)** | **fertig, Kapitel 1–7** |
-| Phase 2 (Verlieben) | offen, Kapitel 8–14 |
+| **Phase 2 (Verlieben)** | **fertig, Kapitel 8–14** |
 | Phase 3 (Rückzug) | offen, Kapitel 15–21 |
 | Phase 4 (Kämpfen) | offen, Kapitel 22–28 |
 
-**7 von 28 Kapiteln. 7.169 Wörter.** Ein Viertel des Buches, und zwar
-das erste Viertel am Stück — kein Flickenteppich, sondern ein
-abgeschlossener erster Akt, der bis zum Punkt ohne Rückweg führt.
-
-Warum nicht mehr: Ein Roman dieser Länge ist nicht die Arbeit einer
-Nacht. Ich hätte 28 Kapitel hinwerfen können, die nach Kapitel 10
-auseinanderfallen. Sieben, die tragen, sind mehr wert.
+**14 von 28 Kapiteln. 14.600 Wörter.** Die Hälfte der Kapitel, und zwar
+die erste Hälfte am Stück, bis genau auf den Mittelpunkt und einen Schritt
+darüber hinaus.
 
 ---
 
-## Was in Phase 1 aufgebaut ist
+## Was Phase 2 geleistet hat
 
-**Die Figuren stehen.** Leni trägt alles allein, weil ihre Mutter sich
-verlassen hat und alles verlor. Jonas verwaltet statt zu fragen, weil er
-mit 24 entschieden hat, dass er keine Wahl hat.
+**Der Mittelpunkt sitzt, wo er hingehört.** Kapitel 12: Leni sagt es
+selbst. Jonas findet es nicht heraus, niemand verplappert sich, es gibt
+keinen Zufall. Das ist die Bauentscheidung aus `../BAND1-STRUKTUR.md`,
+Abschnitt 4 — die Enthüllung ist die Mitte, nicht das Ende.
 
-**Beide Missverständnisse sind gelegt** — und eines ist schon aufgelöst:
+**Beide restlichen Missverständnisse sind aufgelöst:**
 
-| | Stand nach Kapitel 7 |
+| | Stand nach Kapitel 14 |
 |---|---|
-| Die abgewimmelten Anrufe | **aufgelöst** — er bringt in Kapitel 7 die Anruferliste mit dem Vermerk „erledigt" |
-| Der unbeantwortete Brief | **aufgelöst** — er hat ihn nie gesehen |
-| Der Satz über Kinder („Nein. Nicht solange —") | **offen**, gehört in Phase 3 |
-| Das Kind selbst | **offen** — das ist der Mittelpunkt |
+| Die abgewimmelten Anrufe | aufgelöst in Kapitel 7 |
+| Der unbeantwortete Brief | aufgelöst in Kapitel 12 — die Schwangerschaft stand auf der **dritten** Seite |
+| Der Satz über Kinder | aufgelöst in Kapitel 12 — *„Nicht solange die Firma so an mir hängt"* |
+| Das Kind | **enthüllt, Kapitel 12** |
 
-Das ist Absicht: Wären beide Missverständnisse gleichzeitig weg, wäre
-die Luft raus. Der abgebrochene Satz über Kinder ist die Rückhand für
-Phase 3.
+Damit ist ab Kapitel 15 nichts mehr durch Nichtwissen im Weg. Der Rest
+des Buches trägt sich aus dem, was die beiden **tun**, nicht aus dem, was
+sie nicht wissen. Das ist der Grund, warum das Buch nach 50 % nicht
+weggelegt wird.
 
-**Das Machtgefälle ist umgedreht.** Ihr gehört das Haus. Er braucht es.
-Sie lehnt sein Geld ab, lehnt seinen Anwalt ab, kommt mit eigenen
-Vorschlägen in seinen Besprechungsraum. In Kapitel 6 wird der Entwurf
-sogar **besser**, weil ihr Haus stehen bleibt — damit ist der Kaufdruck
-auch fachlich weg, nicht nur gefühlt.
+**Jonas wird nicht wütend — noch nicht.** Das war die riskanteste
+Entscheidung in Phase 2. Die Wut steht im Gerüst als erster Beat von
+Phase 3, und sie kommt auch, aber nicht in derselben Szene wie die
+Enthüllung. Grund: Vierzig Fotos in einem Album aus dem Drogeriemarkt
+schlagen in dieser Sekunde jedes Gefühl von Betrug. Er kündigt sie an
+(*„Ich werde es vielleicht morgen sein"*) — das ist die geladene Waffe
+für Phase 3.
 
-**Die Reihen-Köder sind gesetzt:**
-- **Theo** (Kap. 4 und 6): hat „etwas Familiäres", sagt zweimal „später"
-  → Band 2
-- **Niklas** (Kap. 4): rät der Gegenseite, sich einen eigenen Anwalt zu
-  nehmen → Band 3
-- **Bastian**: kommt noch, geplant für Kapitel 20 → Band 4
+**Der eigentliche Bruch ist ein anderer, und er ist besser.** Nicht die
+Lüge trennt die beiden, sondern seine Reaktion darauf: Elf Stunden nach
+dem Fotoalbum ruft er den Anwalt an. Kapitel 14 endet mit derselben
+Handbewegung wie Kapitel 7 — er legt eine Mappe auf denselben Tisch. Im
+Oktober war das der Beweis, dass er ihr glaubt. Im November steht
+**REINHARDT / VOSS** auf dem Etikett.
 
-**Kapitel 7 endet auf dem Punkt ohne Rückweg.** Emil ruft durch die
-Decke. Jonas sieht zur Decke, dann sie an. Der nächste Satz entscheidet
-das Buch.
+**Nebenfiguren, die arbeiten:**
+- **Renate Reinhardt** (Kap. 11) sagt den Satz, der das Buch erklärt:
+  *„Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt hat,
+  jemanden zu brauchen."*
+- **Frau Kettler** (Kap. 13) sagt voraus, was in Kapitel 14 passiert:
+  *„So einer fängt irgendwann an zu regeln… Es fühlt sich nur von außen
+  genauso an wie wegnehmen."*
+- **Theo** (Kap. 10) gibt seinen Köder für Band 2 selbst preis: seit vier
+  Monaten verheiratet, hat es niemandem gesagt.
+- **Niklas** (Kap. 14) ist der einzige, der Jonas ins Gesicht sagt, was er
+  tut. Sein Band-3-Faden (er berät die Gegenseite) ist in Kapitel 4
+  gelegt und hier nicht angefasst.
+
+**Emil ist kein Requisit.** Er gibt Leuten Dinge — Steine am Elbstrand
+(Kap. 9), ein zerdrücktes Stück Banane an seinen Vater (Kap. 13). Beim
+zweiten Mal weiß der Leser, was das bedeutet, und Jonas nicht.
 
 ---
 
-## Ein Strukturproblem, das du kennen musst
+## Das Strukturproblem besteht weiter
 
-Die Kapitel sind im Schnitt **1.024 Wörter** lang. Geplant waren
-2.000–2.500.
+Schnitt jetzt **1.043 Wörter** pro Kapitel. Geplant waren 2.000–2.500.
+Hochgerechnet landet das Buch bei **~29.000 Wörtern** — Novellenlänge,
+nicht Romanlänge.
 
-Bei 28 Kapiteln à 1.000 landet das Buch bei **~28.000 Wörtern** — das ist
-eine Novelle, kein Roman. Für Kindle Unlimited ist das nicht per se
-schlecht (kurze Bände werden schneller durchgelesen), aber es entspricht
-nicht dem, was in der Nische steht, und die Leser merken es am Preis.
+Die Empfehlung von gestern gilt unverändert:
 
-**Zwei Wege:**
+1. **Phase 1 und 2 ausbauen** — jede vorhandene Szene bekommt mehr Raum:
+   Sinneseindrücke, das Café als Ort, Nebenfiguren.
+2. **Ab Phase 3 mehr, kürzere Kapitel** statt längerer.
 
-1. **Kapitel verdoppeln** — jede Szene bekommt mehr Raum: Sinneseindrücke,
-   Nebenfiguren, das Café als Ort. Ergibt ~56.000 Wörter bei 28 Kapiteln.
-2. **Mehr Kapitel** — die Beat-Struktur auf 45–50 kürzere Kapitel
-   aufteilen. Kurze Kapitel lesen sich schneller, was bei KU hilft.
-
-Ich rate zu **Weg 1 für Phase 1** (die sieben vorhandenen Kapitel
-ausbauen) und **Weg 2 ab Phase 2**. Grund: Der Anfang darf Zeit haben,
-der Mittelteil nicht.
+Was ich in Phase 2 **nicht** gemacht habe: die Kapitel künstlich
+strecken. Ein Kapitel, das 1.000 Wörter braucht, wird durch 1.000
+weitere nicht besser, sondern schlechter. Ausbauen heißt: neue Szenen
+dazwischen, nicht dieselben Szenen länger.
 
 ---
 
 ## Wie es weitergeht
 
-Der nächste Block ist **Phase 2, Kapitel 8–14**, und endet auf dem
-Mittelpunkt: Jonas sieht Emil und rechnet nach. Die Beats stehen in
-`../BAND1-STRUKTUR.md`, Abschnitt 4.
+**Phase 3, Kapitel 15–21.** Sie beginnt in der Sekunde, in der Kapitel 14
+aufhört: Leni schlägt die Mappe auf.
 
-Kapitel 8 setzt unmittelbar an Kapitel 7 an — dieselbe Szene, Jonas'
-Perspektive, und **er geht nicht nach oben.** Er fragt nicht. Das ist
-wichtig: Er hat gerade erfahren, dass ihm jemand Post vorenthalten hat,
-und wird in derselben Stunde nicht jemanden ausfragen.
+Die Beats stehen in `../BAND1-STRUKTUR.md`, Abschnitt 4. Die Reihenfolge
+ist gegenüber dem Gerüst leicht verschoben, weil Kapitel 14 den Anwalt
+vorgezogen hat — Niklas' Auftritt war für Kapitel 14 geplant und steht
+dort, aber der Vaterschaftstest ist **nicht** die juristische
+Notwendigkeit, für die Jonas ihn hält. Niklas sagt das auch (Anerkennung
+beim Jugendamt, zwanzig Minuten, kostenlos, einzige Bedingung ist ihre
+Zustimmung). Jonas will den Test trotzdem, „der Ordnung halber". Genau
+das ist der Tiefpunkt-Motor: Er behandelt sein Kind wie eine Prüfung.
 
 ---
 
-## Drei Dinge, die du entscheiden musst, bevor weitergeschrieben wird
+## Drei Dinge, die du entscheiden musst
 
-**Explizitheit.** Bisher ist der Text geschlossen — Nähe, keine
-expliziten Szenen. In Phase 2 kommt die erste gemeinsame Nacht. Das
-Gerüst trägt beide Fassungen, aber die Entscheidung gehört dir und hat
-Folgen für Kategorie, Cover und Erwartung.
+**Explizitheit.** Der Text ist weiterhin geschlossen. In Phase 2 gab es
+bewusst keine gemeinsame Nacht — die Enthüllung kam vorher, und eine
+Liebesnacht kurz vor „Emil ist deiner" hätte die Heldin beschädigt. Die
+Stelle ist jetzt in Phase 4, nach der großen Geste. Das Gerüst trägt
+beide Fassungen, die Entscheidung hat Folgen für Kategorie, Cover und
+Erwartung.
 
-**Namen prüfen.** „Reinhardt Immobilien Hamburg" gegen echte Firmen
-abgleichen. Auch „Café Voss" in Hamburg.
+**Namen prüfen.** „Reinhardt Immobilien Hamburg" und „Café Voss" gegen
+reale Firmen abgleichen, bevor irgendetwas hochgeladen wird.
 
 **KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
 geschrieben und bei KDP **anzugeben**. Nicht offengelegte KI-Inhalte
 führen zur Entfernung, im Wiederholungsfall zur Kontosperre samt
-gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Je mehr du überarbeitest
-oder ersetzt, desto mehr wird es dein Text — die Angabe bleibt trotzdem
-richtig, solange KI-Text im Buch steht.
+gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Struktur, Recherche und
+Lektorat fallen nicht darunter, weil sie nicht Buchinhalt werden.
+
+**Rechtliches im Text.** Die deutschen Angaben in Kapitel 14
+(Sorgerecht bei nicht verheirateten Eltern, Vaterschaftsanerkennung mit
+Zustimmung der Mutter, Düsseldorfer Tabelle) stimmen nach allgemeiner
+Rechtslage, sind aber ungeprüft im Einzelfall. Für einen Roman reicht
+das; falls du es genauer willst, gehört ein Blick eines Fachanwalts in
+die Endkorrektur.
 
 ---
 
-## Und einmal der Satz, der schon in `GELDVERDIENEN.md` steht
+## Und der Satz, der in `GELDVERDIENEN.md` steht
 
 Diese Reihe ist ein Sechs- bis Zwölf-Monats-Projekt mit realistischen
 100–500 € im Monat **ab Band 3**. Sie ist kein Gegenmittel gegen akuten
