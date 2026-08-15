@@ -238,11 +238,13 @@ deutschen Romance-Nische in KU. In dieser Nische wird gelesen, nicht
 gekauft. Wer nicht in KU liegt, steht neben zehn Büchern, die für die
 Leserin nichts extra kosten.
 
-**Und deshalb zählt die Länge.** In KU wird pro gelesener Seite gezahlt.
-30.500 Wörter bringen bei vollständigem Durchlesen rund die Hälfte
-dessen, was 60.000 Wörter bringen. Die Empfehlung aus `buch/STAND.md`
-steht: ein zweiter Durchgang auf 55.000–60.000 Wörter, durch neue
-Szenen, nicht durch längere Kapitel.
+**Und deshalb zählt die Länge — jetzt mit gemessener Zahl.** In KU wird
+pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
+Nischen haben im Median **291 bis 337 Druckseiten**, also rund
+**65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
+30.575 — **etwa 40 % davon**. Bei vollständigem Durchlesen bringt es
+entsprechend rund 40 % der Seitenerlöse eines typischen Titels der
+Nische.
 
 **Steuerinterview nicht vergessen.** KDP verlangt vor der ersten
 Auszahlung ein US-Steuerinterview. Ohne ausgefülltes Formular behält

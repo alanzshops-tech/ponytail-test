@@ -97,8 +97,23 @@ und am Montag läuft ihre Frist ab. → Band 2.
 
 ## Länge — die Entscheidung, die jetzt ansteht
 
-**30.463 Wörter.** Schnitt 1.088 pro Kapitel. Das ist eine lange Novelle
-oder ein kurzer Roman, kein 60.000-Wörter-Liebesroman.
+**30.575 Wörter.** Schnitt 1.092 pro Kapitel.
+
+**Jetzt gemessen, wie lang es sein müsste.** `KDP-NISCHEN.md`,
+Abschnitt „Wie lang sind die Spitzentitel?": Median 291 bis 337
+Druckseiten je nach Nische. Bei 200 bis 250 Wörtern je Druckseite sind
+das **65.000 bis 82.000 Wörter**.
+
+| | |
+|---|---:|
+| Dieses Buch | 30.575 Wörter |
+| Median der Nische | ~65.000–82.000 |
+| Anteil | **etwa 40 %** |
+
+Der Ausreißer nach oben (1.189 Seiten in der Milliardär-Nische) ist ein
+Sammelband, kein Einzeltitel — dieselbe Nische führt in den Kategorien
+„Romantische Sammlungen & Anthologien". Deshalb steht oben der Median
+und nicht der Mittelwert.
 
 Ich habe die Kapitel bewusst nicht gestreckt. Eine Szene, die 1.000
 Wörter braucht, wird durch 1.000 weitere schlechter.
@@ -110,7 +125,7 @@ Seite** bezahlt, nicht pro Verkauf. Ein durchgelesenes Buch mit 60.000
 Wörtern bringt damit rund doppelt so viel wie eines mit 30.000. Das ist
 kein Geschmacksurteil, das ist die Mechanik der Abrechnung.
 
-**Empfehlung: ein zweiter Durchgang auf ~55.000–60.000 Wörter.**
+**Empfehlung: ein zweiter Durchgang auf 65.000–70.000 Wörter.**
 
 Nicht durch längere Kapitel, sondern durch **neue Szenen**, und zwar
 dort, wo das Buch heute dünn ist:

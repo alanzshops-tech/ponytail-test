@@ -152,9 +152,16 @@ Frage erst jetzt gestellt ist.
 
 ## 5. Kapitelplan
 
-**28 Kapitel, je 2.000–2.500 Wörter, Ziel 60.000–70.000 Wörter.** Das
-liegt im üblichen Rahmen für KU-Romance und ist in Bänden von 4 bis 6
-Wochen schreibbar.
+**28 Kapitel, je 2.300–2.500 Wörter, Ziel 65.000–70.000 Wörter.**
+
+> **Korrektur vom 15.08.2026.** Hier stand vorher „Ziel 60.000–70.000
+> Wörter. Das liegt im üblichen Rahmen für KU-Romance." Ohne Quelle,
+> ohne Messung — geraten und richtig geklungen. Inzwischen gemessen
+> (`KDP-NISCHEN.md`, Abschnitt „Wie lang sind die Spitzentitel?"): Die
+> Spitzentitel der deutschen Nischen haben im Median **291 bis 337
+> Druckseiten**. Umgerechnet mit 200 bis 250 Wörtern je Seite sind das
+> **65.000 bis 82.000 Wörter**. Das alte Ziel war also zufällig knapp
+> richtig — aber es war zufällig.
 
 **Wechselnde Perspektive**, Kapitel für Kapitel Leni / Jonas. Grund: Die
 zwei Missverständnisse aus Abschnitt 3 funktionieren nur, wenn der Leser
