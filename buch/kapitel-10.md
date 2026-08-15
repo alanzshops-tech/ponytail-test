@@ -1,258 +1,194 @@
 # Kapitel 10 — Jonas
 
-Der Beirat tagt im vierten Stock, in einem Raum mit einem Tisch, den mein
-Vater 1998 gekauft hat und den niemand austauschen will, weil er
-Ehrfurcht erzeugt und das billiger ist als Argumente.
+Sonntags habe ich nichts.
 
-Sieben Leute. Zwei davon halten mich für zu vorsichtig, zwei für zu jung,
-und drei sagen selten etwas, was sie zu den gefährlichsten macht.
+Das ist keine Klage. Ich habe es zwölf Jahre lang so eingerichtet, weil
+ein Sonntag ohne Termine der einzige Tag ist, an dem man nachdenken
+kann, und weil ich mir eingeredet habe, dass ich das brauche.
 
-Theo präsentierte den Entwurf. Er machte es gut — er zeigte zuerst die
-alte Variante, ließ sie zwei Sekunden stehen, und legte dann die neue
-daneben, und man sah im Raum, wie die Köpfe sich neigten.
+In Wahrheit fahre ich sonntags durch die Stadt und sehe mir Baustellen
+an, auf denen niemand arbeitet.
 
-„Der Hof entsteht nur, weil der Bestand schief steht“, sagte Theo. „Wenn
-wir abreißen und gerade neu bauen, bekommen wir eine Reihe. So bekommen
-wir einen Ort.“
+Am siebenundzwanzigsten Oktober bin ich um zwanzig nach elf am
+Kehrwieder vorbeigefahren, habe zweihundert Meter weiter gehalten und
+bin nicht ausgestiegen.
 
-Dr. Wendland, der seit neunzehn Jahren im Beirat sitzt, tippte mit dem
-Stift auf den Plan.
+Das Café war zu. Im ersten Stock brannte Licht.
 
-„Und die Wirtschaftlichkeit?“
+Ich habe vielleicht zehn Minuten dort gestanden, mit laufendem Motor,
+und mir dabei zugesehen, wie ich mir eine Begründung baue: Ich könnte
+nach dem Gerüst sehen. Ich könnte fragen, ob der Rückstau im Fallrohr
+weg ist. Ich könnte —
 
-„Vier Komma zwei Millionen schlechter über die Laufzeit“, sagte ich.
+Dann bin ich weitergefahren, und auf der Ludwig-Erhard-Straße ist mir
+klar geworden, dass ich gerade vor dem Haus einer Frau geparkt habe, um
+zu sehen, ob Licht brennt.
 
-Niemand sagte etwas.
-
-„Und Sie schlagen vor, das zu akzeptieren.“
-
-„Ich schlage vor, es zu akzeptieren.“
-
-Wendland lehnte sich zurück. „Warum?“
+Ich bin sechsunddreißig. Ich habe vierhundert Angestellte.
 
 ---
 
-Ich hatte drei Antworten vorbereitet, und diesmal benutzte ich sie.
+Am Montag kam Frau Kuhlmann mit dem Kalender rein und blieb länger
+stehen als nötig.
 
-Erstens: Der Hof macht die Erdgeschosse vermietbar, die vorher zur Straße
-zeigten. Das rechnet man auf zwanzig Jahre, nicht auf fünf.
+„Darf ich etwas sagen, das mich nichts angeht?“
 
-Zweitens: Wir sind im Denkmalgebiet. Ein Abriss kostet uns achtzehn Monate
-Verfahren und ein öffentliches Risiko, das wir nirgends verbuchen, das
-aber existiert.
+„Sie haben es sich in neunzehn Jahren zweimal erlaubt.“
 
-Drittens: Das Objekt gehört einer Einzeleigentümerin, die nicht verkaufen
-will. Ein Ankauf gegen ihren Willen ist rechtlich nicht möglich, und ein
-Ankauf über die Bank ist —
+„Dann ist es das dritte Mal.“ Sie legte den Kalender hin. „Sie haben
+diese Woche dreimal einen Termin nach hinten geschoben, damit Sie
+donnerstags um sechs weg sind. Das ist mir aufgefallen, weil Sie so
+etwas sonst nicht tun.“
 
-„Über die Bank“, sagte Wendland. „Da läuft eine Kündigung.“
+„Es ist ein Projekttermin.“
 
-Ich sah ihn an.
+„Herr Reinhardt.“ Sie sah mich an, wie sie meinen Vater angesehen hat,
+wenn er behauptete, er habe nur einen Kaffee getrunken. „Ich schreibe
+Ihre Termine seit neunzehn Jahren auf. Projekttermine dauern nie länger
+als geplant.“
 
-Natürlich wusste er das. Er sitzt in zwei Aufsichtsräten, in denen Leute
-sitzen, die in Banken sitzen. Das ist Hamburg.
+Ich habe nichts darauf gesagt.
 
-„Ja“, sagte ich.
+An der Tür drehte sie sich noch einmal um.
 
-„Dann warten Sie sechs Wochen.“
-
-Der Raum war sehr still.
-
-Und ich hörte meinen Vater, ganz deutlich, so deutlich wie seit Jahren
-nicht: *Man wartet, Junge.*
-
-„Nein“, sagte ich.
-
-„Herr Reinhardt —“
-
-„Nein.“ Ich stand nicht auf, ich hob die Stimme nicht, ich legte nur die
-Hände auf den Tisch. „Ich kenne die Eigentümerin persönlich. Das sage ich
-Ihnen hier und jetzt, damit es niemand in drei Monaten herausfindet und
-daraus etwas macht, was es nicht ist. Und ich sage Ihnen auch: Genau
-deshalb warte ich nicht, bis ihre Bank sie fertigmacht. Wenn dieses Haus
-je verkauft wird, dann weil sie es will.“
-
-Wendland sah mich lange an.
-
-„Sie wissen, wie das aussieht“, sagte er.
-
-„Ja.“
-
-„Und Sie sagen es trotzdem hier.“
-
-„Deshalb sage ich es hier.“
-
-Er nickte langsam, einmal, und schrieb etwas auf seinen Block.
-
-Der Entwurf wurde mit fünf zu zwei angenommen.
+„Ich fand es gut“, sagte sie. „Falls das eine Rolle spielt.“
 
 ---
 
-Danach hielt Theo mich im Flur fest.
+Theo brachte am Mittwoch die Zahlen.
 
-„Was war das?“
+Er legte sie auf den Tisch und setzte sich, und ich wusste an der Art,
+wie er saß, dass es keine gute Nachricht ist.
 
-„Eine Beiratssitzung.“
+„Drei Komma acht war optimistisch“, sagte er. „Mit der Rinne, die wir
+jetzt offen führen, und mit dem Rückbau am Übergang: vier Komma zwei.“
 
-„Jonas.“ Er stellte sich mir in den Weg, was er seit unserer Kindheit
-macht und was seit unserer Kindheit nicht funktioniert. „Du hast gerade
-vor sieben Leuten gesagt, dass du eine Eigentümerin persönlich kennst.
-Du. Der Mensch, der zwölf Jahre lang jede Regung vor diesem Gremium
-versteckt hat.“
+„Über die Laufzeit?“
 
-„Es stimmt doch.“
+„Über die Laufzeit.“
 
-„Das ist nicht der Punkt.“
+Ich sah mir die Zeile an.
 
-Ich sah aus dem Flurfenster auf die Kräne.
+Vierhunderttausend mehr, weil eine Konditorin auf die Rückseite von
+Blatt vier eine schiefe Rinne gezeichnet hat, die besser ist als unsere
+gerade. Vier Komma zwei ist ab heute die Zahl, die im Protokoll steht.
 
-„Weißt du, was der Punkt ist?“, sagte ich. „Der Punkt ist, dass Wendland
-recht hat. In sechs Wochen kündigt die Bank, und dann hätte ich das Haus
-für zweihundert. Und ich hätte es genommen. Vor einem halben Jahr hätte
-ich es genommen und mir dabei nichts gedacht.“
+„Wendland wird fragen“, sagte Theo.
 
-Theo sagte nichts.
+„Wendland wird fragen.“
 
-„Ich möchte nicht der Mann sein, der das nimmt“, sagte ich. „Das ist der
-ganze Grund. Es ist kein guter Geschäftsgrund. Es ist der einzige, den
-ich habe.“
+„Und was sagst du?“
 
-Mein Bruder sah mich an, und dann tat er etwas, das er seit dem Tod
-unseres Vaters nicht getan hatte: Er legte mir kurz eine Hand auf die
-Schulter.
+„Dass es besser ist.“
 
-„Sie heißt Marlene“, sagte er. Es war keine Frage.
+Theo lachte kurz, ohne Freude. „Das ist kein Argument, Jonas. Das ist
+ein Geschmacksurteil mit einer Zahl daneben.“
 
-„Ja.“
+„Dann rechne mir aus, was der Hof über zwanzig Jahre an den
+Erdgeschossen bringt“, sagte ich. „Nicht über fünf. Über zwanzig.“
 
-„Gut.“ Er nahm die Hand weg. „Dann sag ihr das mit dem Beirat. Nicht die
-Kurzfassung. Alles.“
+Er zog den Block heran und rechnete zehn Minuten lang, und ich sah aus
+dem Fenster auf die Kräne und dachte an gar nichts.
 
-„Warum?“
+„Es trägt“, sagte er dann. „Knapp. Wenn die Erdgeschosse vermietet sind
+und wenn die Mieten halten.“
 
-Theo war schon zwei Schritte weiter, drehte sich aber noch einmal um, und
-zum ersten Mal sah er nicht aus wie mein Architekt, sondern wie mein
-kleiner Bruder mit einunddreißig.
+„Dann schreib es so auf.“
 
-„Weil ich seit vier Monaten mit jemandem verheiratet bin, dem ich es
-nicht gesagt habe“, sagte er. „Und weil das jeden Tag schlimmer wird.“
-
-Und dann ging er.
+„Jonas.“ Er legte den Stift hin. „Ich schreibe es auf. Ich sage dir nur
+vorher: Du hast dich für die Zahl entschieden, bevor du sie hattest.“
 
 ---
 
-Ich stand noch eine Weile im Flur.
+Er hatte recht, und ich wusste es, und ich habe an diesem Abend zum
+ersten Mal seit Jahren die Akte meines Vaters aufgemacht.
 
-Dann fuhr ich zum Kehrwieder.
+Nicht die Firmenakte. Den Ordner, den meine Mutter mir nach der
+Beerdigung gegeben hat, mit den Sachen aus seinem Schreibtisch. Ich habe
+ihn 2014 einmal durchgesehen und dann in einen Schrank gestellt.
 
----
+Es ist wenig drin. Eine Uhr. Ein Notizbuch mit Zahlen, die nichts mehr
+bedeuten. Zwei Fotos von der Firma, 1989 und 2003, auf beiden derselbe
+Mann mit demselben Gesichtsausdruck.
 
-Es war halb acht, das Café war zu, aber im Inneren brannte Licht. Ich
-klopfte.
+Und ein Blatt, das ich beim ersten Mal überblättert haben muss: ein
+Blatt aus einem Kalender, Februar 1997, auf dem in seiner Handschrift
+untereinander drei Möglichkeiten stehen, wie man neunhunderttausend Mark
+auftreibt.
 
-Sie machte auf, mit einer Teigkarte in der Hand und Mehl bis zum
-Ellenbogen.
+Die dritte ist unterstrichen. Sie lautet: *Reinbek.*
 
-„Ich backe“, sagte sie. „Donnerstag ist Vorbereitung. Sie können reden,
-aber ich höre nicht auf.“
+Daneben, kleiner: *R. fragen? — nein. Erst regeln.*
 
-„Gut.“
-
-Ich zog den Mantel aus, hängte ihn über einen Stuhl und setzte mich auf
-den Hocker neben ihren Arbeitstisch, und dann erzählte ich ihr alles.
-
-Wendland. Die sechs Wochen. Was mein Vater gesagt hat. Was ich vor einem
-halben Jahr getan hätte.
-
-Sie arbeitete weiter, während ich sprach. Sie wog ab, sie faltete, sie
-strich mit dem Handrücken über die Stirn und hinterließ dort Mehl.
-
-Als ich fertig war, hörte sie auf.
-
-„Sie haben denen gesagt, dass Sie mich kennen.“
-
-„Ja.“
-
-„Warum?“
-
-„Weil es sonst irgendwann jemand anderes gesagt hätte.“ Ich sah auf meine
-Hände. „Und weil Dinge, die man selbst sagt, kleiner sind als Dinge, die
-gefunden werden.“
-
-Sie stand ganz still.
-
-Ich habe damals gedacht, dass sie über den Beirat nachdenkt.
-
-„Ja“, sagte sie leise. „Das stimmt vermutlich.“
+Ich habe damals nicht gewusst, wem das Haus in Reinbek gehört hat.
 
 ---
 
-Zwischendurch kam sie an den Hocker, wischte sich die Hände ab und sah
-mich an, als überlege sie etwas.
+Am Donnerstag, dem vierundzwanzigsten, war ich um Viertel nach sechs am
+Kehrwieder und hatte einen Ordner dabei, den ich nicht brauchte.
 
-„Sie haben heute vor sieben Leuten gesagt, dass Sie mich kennen“, sagte
-sie noch einmal, „und dann sind Sie hierhergefahren und sitzen in meinem
-Backraum.“
+Ich hatte ihn mitgenommen, damit ich einen Grund habe, und ihn dann
+nicht aufgemacht, weil mir auffiel, wie durchsichtig das ist.
 
-„Ja.“
+Wir haben über die Beläge geredet. Sie will Klinker, weil Klinker hier
+hingehört; ich habe erklärt, warum Klinker im Hof bei Frost ein Problem
+ist; sie hat gefragt, ob es Klinker gibt, die keins sind, und die gibt
+es, und sie kosten das Doppelte, und wir haben sie genommen.
 
-„Merken Sie, wie das aussieht?“
+Um halb neun habe ich ihr einen Anspitzer gegeben.
 
-„Ja.“
+Ich hatte ihn am Dienstag gekauft, in einem Laden am Gänsemarkt, und ich
+habe dafür achtzig Cent bezahlt und drei Minuten gebraucht, und auf dem
+Rückweg ins Büro habe ich mich gefragt, ob das übergriffig ist.
 
-„Und?“
+Sie ist aufgestanden und zur Maschine gegangen und hat mir den Rücken
+zugedreht.
 
-Ich sah auf die Bleche, die auf dem Wagen standen, achtzehn Stück, und
-auf ihre Hände, die weitermachten, während sie mit mir redete.
-
-„Es sieht so aus, wie es ist“, sagte ich.
-
-Sie hielt einen Moment an.
-
-Dann drehte sie sich um und holte etwas aus dem Kühlraum, und ich merkte,
-dass ich lächelte, und ich hörte damit auf, bevor sie sich umdrehte.
+Ich habe in diesem Moment gedacht, ich hätte etwas falsch gemacht.
 
 ---
 
-Sie schob mir eine Schüssel hin.
+Danach ist etwas passiert, das ich hier aufschreibe, weil es sonst
+niemand aufschreibt.
 
-„Was ist das?“
+Sie kam zurück mit zwei Tassen, stellte meine an die Stelle links vom
+Zuckerstreuer, und dabei rutschte der Plan, und wir griffen beide danach.
 
-„Butter und Mehl. Sie reiben es zwischen den Fingern, bis es aussieht wie
-Sand. Nicht kneten. Reiben.“
+Ihre Hand lag drei Sekunden auf meiner.
 
-„Ich kann nicht backen.“
+Es hat niemand etwas gesagt. Sie hat den Plan geglättet, ich habe die
+Ecke festgehalten, und dann haben wir weiter über Frostsicherheit
+geredet.
 
-„Sie können auch keine Tische abwischen und haben es trotzdem gemacht.“
+Ich bin siebenundzwanzig Minuten später gefahren und habe an einer roten
+Ampel am Baumwall gemerkt, dass ich seit sieben Jahren mit niemandem
+mehr an einem Tisch gesessen habe, an dem ich nichts wollte.
 
-Ich zog das Jackett aus und krempelte die Ärmel hoch, und dann saß der
-Geschäftsführer der Reinhardt Immobilien GmbH um halb neun abends in
-einem Café in der Speicherstadt und rieb Butter in Mehl.
+---
 
-Es dauerte lange. Es tat den Fingern weh. Es war das Entspannendste, was
-ich seit Jahren gemacht hatte.
+Am Freitag habe ich die Schublade repariert.
 
-„Sie machen das zu vorsichtig“, sagte sie irgendwann und griff in die
-Schüssel und zeigte es mir, und dabei berührten ihre Finger meine, und wir
-hörten beide nicht auf.
+Das klingt nach nichts. Es ist die Schublade unter ihrer Kasse, die
+klemmt, seit im Frühjahr irgendetwas gequollen ist, und man muss sie
+anheben und dann ziehen. Ich habe ihr sechs Wochen lang dabei zugesehen.
 
-Es waren vielleicht drei Sekunden.
+Ich bin am Freitagmorgen um zwanzig nach acht hin, mit einem Hobel und
+einem Stück Kerzenwachs aus meiner eigenen Küche, und habe gesagt:
+„Fünfzehn Minuten. Sie können weitermachen.“
 
-Dann zog sie die Hand zurück, sehr ruhig, und sagte: „So. Sehen Sie? Wie
-Sand.“
+Sie hat gesagt: „Sie sind Geschäftsführer.“
 
-„Wie Sand“, sagte ich.
+Ich habe gesagt: „Ich habe Bauingenieurwesen angefangen.“
 
-Und über uns, im ersten Stock, ging jemand durch das Zimmer.
+Es hat elf Minuten gedauert. Die Führung war an zwei Stellen
+angeschwollen; man nimmt einen halben Millimeter weg und reibt Wachs
+auf die Läufer, dann geht sie wieder.
 
-Sie erstarrte nicht. Das war das Neue. Sie sah kurz zur Decke und dann
-wieder in die Schüssel, und ihre Hand zitterte ein bisschen.
+Sie hat die Schublade danach viermal auf- und zugezogen, und beim
+vierten Mal hat sie gelacht.
 
-„Marlene.“
+Und dann hat sie sie zugemacht und die Hand daraufgelegt und ist stehen
+geblieben, und ihr Gesicht hat etwas gemacht, das ich damals nicht
+verstanden habe.
 
-„Nicht heute“, sagte sie. „Bitte.“
-
-Ich sagte nichts mehr.
-
-Ich blieb, bis der Teig im Kühlschrank war, und dann ging ich nach Hause
-und lag bis drei Uhr wach und wusste, dass ich es längst wusste.
+Ich weiß heute, was in dieser Schublade lag.

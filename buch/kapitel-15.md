@@ -1,234 +1,215 @@
 # Kapitel 15 — Leni
 
-Ich schlug sie nicht sofort auf.
+Er stand um zwanzig vor sieben vor der Tür.
 
-Ich stand hinter dem Tresen, Emil auf dem Arm, und sah auf eine blaue
-Mappe mit einem getippten Etikett und dachte: *Er hat mir etwas
-mitgebracht.* Und einen halben Atemzug lang war ich gerührt, weil ich
-gedacht habe, es sind Fotos, oder etwas von seiner Mutter, oder
-irgendetwas, das ein Mensch einem anderen Menschen mitbringt.
+Ich weiß das so genau, weil ich um zwanzig vor sieben die Rollos
+hochziehe und weil er in dem Moment davorstand, in dem das Rollo
+hochging, sodass wir uns beide erschraken.
 
-Dann las ich das Etikett.
+Er hatte keinen Mantel dabei. Es regnete. Er hatte nichts dabei
+überhaupt, keine Mappe, keine Tasche, nichts, und das war das Erste an
+diesem Morgen, das mir wehtat.
 
-**REINHARDT / VOSS — PERSÖNLICH**
+Ich schloss auf.
 
-„Setz dich“, sagte ich. „Ich mach uns Kaffee.“
-
-Ich machte keinen Kaffee. Ich setzte Emil in den Laufstall hinter der
-Theke, wo er die Kaffeemühle nicht erreicht, und ich brauchte diese
-dreißig Sekunden, weil ich sonst mit dem Kind auf dem Arm geschrien
-hätte, und das mache ich nicht.
-
----
-
-Emil schlief oben. Es war zwanzig nach acht, die Uhrzeit, zu der ich seit
-achtzehn Monaten eine halbe Stunde für mich habe, und ich hatte mir
-diese halbe Stunde vorgestellt: Er kommt, wir sitzen, ich erzähle ihm,
-wie Emil heute den ganzen Vormittag versucht hat, einen Löffel in die
-Steckdose zu stecken, und er lacht, und wir sind zwei Leute, die über
-ihr Kind reden.
-
-Ich hatte sogar den Kuchen dagelassen, den ich sonst um sechs wegräume.
-
-Ich sage das, damit klar ist, mit welcher Erwartung ich diese Mappe
-aufgeschlagen habe.
-
----
-
-Sie war gut gemacht. Das muss man sagen.
-
-Register, Reiter, oben rechts eine Seitenzahl. Jemand hatte sich Mühe
-gegeben. Vermutlich Niklas, vermutlich am Wochenende.
-
-**Reiter 1 — Vaterschaftsanerkennung.** Beim Jugendamt, kostenfrei,
-zwanzig Minuten. *Zustimmung der Mutter erforderlich.*
-
-**Reiter 2 — Sorgeerklärung.** Ebenfalls beim Jugendamt. *Zustimmung der
-Mutter erforderlich.*
-
-**Reiter 3 — Unterhalt.** Eine Tabelle. Eine Zahl, monatlich, die höher
-war als das, was ich in einem guten Monat mit dem gesamten Café
-erwirtschafte. Daneben, in Klammern, das Wort *zzgl.*
-
-**Reiter 4 — Umgang.** Dienstag. Donnerstag. Jedes zweite Wochenende.
-Ausgedruckt. Mit Uhrzeiten.
-
-**Reiter 5 — Erbfolge.**
-
-**Reiter 6 — Interessenkonflikt.** Zwei Seiten darüber, dass die
-*Kindesmutter* Eigentümerin eines Objekts ist, an dem die *Gesellschaft*
-Erwerbsinteresse hat.
-
-Kindesmutter. Gesellschaft. Erwerbsinteresse.
-
-Und dann, ganz hinten, ohne Reiter, ein einzelnes Blatt.
-
-**Abstammungsgutachten — Ablauf.** Wangenabstrich, beide Elternteile und
-das Kind, Labor in Hamburg-Eppendorf, Ergebnis in sieben bis zehn
-Werktagen.
-
----
-
-Ich legte das Blatt auf den Tisch, mit der Schrift nach oben, und drehte
-es zu ihm.
-
-„Was ist das?“
-
-„Das ist —“ Er sah es an. „Das gehört eigentlich nicht rein.“
-
-„Es ist aber drin.“
-
-„Marlene.“ Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
-brauche. Ich habe darauf bestanden.“
-
-„Warum?“
-
-„Der Ordnung halber.“
-
-Ich habe in diesem Moment nichts gesagt, weil mir das Wort *Ordnung* die
-Sprache genommen hat.
-
-„Ich zweifle nicht“, sagte er. „Keine Sekunde. Das ist nicht die Frage.“
-
-„Was ist dann die Frage?“
-
-„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere.“ Er sah
-mich an, und er war völlig ehrlich, und das machte es schlimmer. „Es
-gibt drei Brüder und eine Firma und einen Beirat. Wenn mir morgen etwas
-passiert, sitzt dein Sohn —“
-
-„*Dein* Sohn.“
-
-„— sitzt unser Sohn vor Leuten, die ihn nicht kennen, und muss beweisen,
-wer er ist. Ich will nicht, dass er das je muss.“
-
----
-
-Und das ist das Problem mit Jonas Reinhardt, und ich sage das, obwohl
-ich ihn liebe, und ich sage *liebe*, weil es ungefähr an diesem
-Donnerstagabend so weit war, was einen ziemlich schlechten
-Zeitpunkt darstellt.
-
-Er hat immer recht.
-
-Er hat auf jeder Seite dieser Mappe recht. Emil ist tatsächlich nicht
-abgesichert. Es gibt tatsächlich einen Beirat. Ein Testament mit drei
-Brüdern und keinem Kind ist tatsächlich ein Zustand, den man ändern
-muss.
-
-Und trotzdem lag da ein Blatt, auf dem stand, dass mein Sohn zum Labor
-soll, damit man ihn vorzeigen kann.
-
-„Jonas“, sagte ich. „Wie viele Stunden hast du bisher mit ihm
-verbracht?“
-
-Er sah auf.
-
-„Ich meine es nicht als Vorwurf. Ich frage wirklich.“
-
-Er dachte nach. Er ist ein ehrlicher Mensch, deshalb rechnete er es
-tatsächlich aus.
-
-„Zweieinhalb Stunden“, sagte er. „Am Donnerstagmorgen.“
-
-„Zweieinhalb Stunden.“ Ich legte die Hand auf die Mappe. „Und
-sechsunddreißig Seiten.“
-
----
-
-Er wurde nicht laut. Ich glaube, ich hätte es besser gefunden, wenn er
-laut geworden wäre.
-
-„Was hätte ich tun sollen?“, sagte er.
-
-„Herkommen. Dasitzen. Nichts unterschreiben.“
-
-Er zuckte, als hätte ihn etwas getroffen, und viel später habe ich
-erfahren, dass sein Bruder ihm exakt diese drei Sätze gesagt hatte, in
-dieser Reihenfolge, drei Tage vorher.
-
-„Ich weiß nicht, wie man das macht“, sagte er.
-
-„Was?“
-
-„Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
-zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
-wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
-Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
-Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
-liebevollste Sprache, die ich kann.“
-
-Ich weiß bis heute nicht, ob das der traurigste oder der ehrlichste
-Satz war, den ich je gehört habe.
-
-„Ich verstehe das“, sagte ich. „Ich verstehe es wirklich. Und ich sage
-trotzdem nein.“
+„Ich wusste nicht, was man mitbringt“, sagte er.
 
 „Zu was?“
 
-„Zu dem Test.“ Ich schob das Blatt zurück über den Tisch. „Zu allem
-anderen sage ich vielleicht ja, nächste Woche, wenn ich es gelesen habe.
-Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist.“
+„Das ist die Frage.“ Er blieb auf der Matte stehen und sah an sich
+herunter. „Ich habe eine Stunde im Auto gesessen und überlegt, ob es
+angemessen ist, um sieben zu klingeln. Dann ist mir eingefallen, dass ich
+nicht weiß, wann er aufwacht.“
 
-Er nahm das Blatt.
+„Halb sieben.“
 
-„Und wenn ich darauf bestehe?“
+„Halb sieben“, wiederholte er, so wie er am Abend zuvor *die vierte*
+wiederholt hatte.
 
-Da war er, der Satz.
-
-Ich glaube nicht, dass er ihn so gemeint hat. Ich glaube, er hat gefragt,
-wie er in einer Verhandlung fragt: um die Grenze zu wissen.
-
-Aber gefragt hat er es.
-
----
-
-„Dann sage ich dir, was passiert“, sagte ich sehr ruhig. „Nichts. Du
-kannst gar nichts. Du kannst mich verklagen, und dann steht in einer
-Akte, dass ein Mann mit vierhundert Angestellten eine Konditorin
-gezwungen hat, ihr Kind untersuchen zu lassen. Das ist die einzige Macht,
-die du hier hast, und du kennst den Preis.“
-
-„Ich will dich nicht verklagen.“
-
-„Ich weiß.“ Ich stand auf. „Deshalb frage ich mich, warum ich es dir
-gerade erklären musste.“
+Ich habe später verstanden, dass er sich Dinge merkte. Nicht, weil er
+höflich ist. Sondern weil er einen Mann kannte, der nichts über seine
+Kinder wusste, und weil er beschlossen hatte, dieser Mann nicht zu sein,
+und weil er nicht wusste, wo man damit anfängt, also fing er bei den
+Uhrzeiten an.
 
 ---
 
-Er ging um Viertel nach acht.
+Emil saß im Hochstuhl und aß Banane, was bei ihm bedeutet: Er trug
+Banane.
 
-An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
-und dass er es nicht fand, und dass ihm das selbst auffiel.
+Jonas blieb in der Küchentür stehen.
 
-„Ich habe es falsch gemacht“, sagte er.
+Ich habe in meinem Leben zwei Menschen gesehen, die vor meinem Sohn
+Angst hatten. Der eine war ein Mann von der Versicherung. Der andere war
+sein Vater.
+
+„Er beißt nicht“, sagte ich.
+
+„Das beruhigt mich nur bedingt.“
+
+Er ging in die Hocke, zwei Meter vom Hochstuhl entfernt, in einem Anzug,
+der so viel gekostet hat wie meine Kühltheke, und sagte nichts.
+
+Emil sah ihn an. Diese ernste Musterung, die er bei Fremden macht.
+
+Dann streckte er den Arm aus, in der Faust ein Stück Banane, und sagte:
+
+„Da.“
+
+Jonas nahm es.
+
+Er nahm ein zerdrücktes Stück Banane aus der Hand eines
+achtzehn Monate alten Kindes und hielt es fest, als wäre es ein Dokument,
+und dann sagte er, mit einer Stimme, die nicht ganz gerade war:
+
+„Danke.“
+
+„Er gibt einem Sachen“, sagte ich. „Steine, meistens. Man muss sie
+nehmen, sonst hält er den Arm ausgestreckt, bis der Arm wehtut.“
+
+„Wie lange macht er das schon?“
+
+„Seit dem Sommer.“
+
+Er sah das Stück Banane in seiner Hand an.
+
+„Seit dem Sommer“, sagte er.
+
+---
+
+Wir frühstückten.
+
+Ich schreibe das Wort hin und merke, dass ich es in dieser Wohnung seit
+zwei Jahren nicht benutzt habe. Ich esse morgens im Stehen, mit dem
+Telefon in der anderen Hand, während Emil isst und ich zwischendurch
+aufwische.
+
+An diesem Morgen saß jemand da und aß mit.
+
+Das ist ein zu großes Wort für das, was in meiner Küche morgens
+passiert, aber es gab Kaffee, und Jonas saß auf dem Stuhl, auf dem
+sonst niemand sitzt, weil er wackelt, und ich sagte es ihm nicht, und er
+merkte es und verlagerte das Gewicht und sagte auch nichts.
+
+Emil warf einen Löffel auf den Boden.
+
+Jonas hob ihn auf.
+
+Emil warf ihn wieder runter.
+
+Jonas hob ihn wieder auf.
+
+Beim vierten Mal sah er mich an. „Ist das ein Spiel?“
+
+„Das ist ein Naturgesetz.“
+
+Und dann lachte er. Richtig, laut, mit dem Kopf im Nacken, so wie Leute
+lachen, die es lange nicht gemacht haben und dann feststellen, dass es
+noch geht.
+
+Emil erschrak und fing an zu weinen.
+
+„Oh Gott“, sagte Jonas. „Entschuldigung. Entschuldige. Ich —“
+
+„Es ist gut.“ Ich nahm Emil raus. „Er kennt das nicht. In diesem Haus
+lacht nachts niemand so.“
+
+Das war als Scherz gemeint und kam nicht so an, bei keinem von uns
+beiden.
+
+---
+
+Frau Kettler kam um Viertel nach acht und blieb in der Tür stehen, so
+wie sie im Oktober in der Tür stehen geblieben war.
+
+Sie sah Jonas an. Sie sah Emil an, der auf Jonas’ Knie saß, weil er
+irgendwann selbst hochgeklettert war, was ich nicht kommentiert habe,
+weil ich Angst hatte, dass es dann aufhört.
+
+„Na also“, sagte sie.
+
+Mehr nicht. Sie hängte ihren Mantel auf und ging in den Backraum und
+machte den Ofen an, und ich hörte, wie sie drinnen etwas vor sich hin
+sagte, das ich nicht verstand.
+
+Später, als er weg war, fragte ich sie danach.
+
+„Ich habe gesagt: *endlich*“, sagte sie. Sie legte die Teigkarte weg.
+„Und dann habe ich gedacht, dass es jetzt erst losgeht, und das habe ich
+lieber nicht laut gesagt.“
+
+„Was geht jetzt erst los?“
+
+Frau Kettler ist einundsechzig und hat drei eigene Kinder großgezogen
+und neun fremde, und sie sagte:
+
+„Er ist ein Mann, der Dinge in Ordnung bringt. Das haben Sie doch
+gesehen. Das Dach, die Anrufliste, der Beirat.“ Sie strich Mehl vom
+Tisch. „So einer sitzt nicht lange auf einem Küchenstuhl und lässt sich
+Bananen geben. Der steht irgendwann auf und fängt an zu regeln.“
+
+„Und das ist schlecht?“
+
+„Das ist nicht schlecht.“ Sie sah mich an. „Es fühlt sich nur von außen
+genauso an wie *wegnehmen*.“
+
+---
+
+Er blieb bis halb zehn. Er hätte um neun eine Sitzung gehabt; er hat sie
+vom Klo aus abgesagt, was ich weiß, weil man in diesem Haus alles hört.
+
+An der Tür zog er den Mantel an, den er nicht dabeigehabt hatte und den
+ich ihm aus dem Fundkorb gegeben hatte, weil es immer noch regnete. Ein
+grüner Anorak, Größe M, seit zwei Jahren nicht abgeholt.
+
+Er sah lächerlich aus. Er hat es nicht gemerkt.
+
+„Marlene“, sagte er.
 
 „Ja.“
 
-„Sag mir, wie es richtig geht.“
+„Ich möchte das richtig machen.“
 
-„Nein.“ Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
-willst die Anleitung. Es gibt keine Anleitung, Jonas. Es gibt nur einen
-Dienstagvormittag, an dem du Tische abwischt, und den hattest du schon
-mal.“
+„Ich weiß.“
 
-Er nickte langsam.
+„Nein.“ Er suchte nach Worten, und ich sah, wie er in den Modus rutschte,
+in dem er vermutlich in Besprechungen ist. „Ich meine: Es gibt Dinge, die
+müssen jetzt geregelt werden. Damit er abgesichert ist. Falls mir etwas
+passiert, steht er heute nirgends. Er hat keinen Anspruch auf
+irgendetwas. Das ist ein Zustand, den ich nicht eine Woche länger
+akzeptiere.“
 
-Dann ging er, und ich hörte den Wagen nicht sofort anspringen, sondern
-erst nach ungefähr zwei Minuten.
+„Jonas —“
 
----
+„Ich rufe Niklas an“, sagte er. „Mein Bruder. Der macht das Rechtliche
+für die Firma. Er setzt so etwas in zwei Tagen auf.“
 
-Ich habe die Mappe nicht weggeworfen.
+Und da war es.
 
-Das ist der Teil, den ich mir selbst am meisten übelnehme, weil er zeigt,
-dass ich es wusste.
+Es dauerte vom Fotoalbum bis zu diesem Satz genau elf Stunden.
 
-Ich habe sie in die Schublade unter der Kasse gelegt, zu dem Brief von
-der Bank und dem Stein vom Elbstrand, und ich habe die Schublade
-zugeschoben, und Emil stand im Laufstall, hielt sich am Gitter fest und
-sah zur Tür.
+Ich stand in meiner eigenen Tür, im Nachthemd unter der Strickjacke, mit
+Bananenresten auf der Schulter, und sah einem Mann in einem geliehenen
+Anorak dabei zu, wie er in dreißig Sekunden aus meinem Sohn einen
+Vorgang machte.
 
-„Weg“, sagte er.
+Ich weiß, dass er es gut meinte. Ich wusste es schon in dieser Sekunde.
+Das ist ja das Ding: Ich wusste es die ganze Zeit.
 
-Das war ein neues Wort.
+„Sag mal was“, sagte er.
+
+Ich sagte: „Fahr vorsichtig. Es ist glatt.“
+
+Er küsste mich auf die Stirn — das erste Mal, dass er mich überhaupt so
+angefasst hat — und ging zum Wagen, und bevor er die Tür zumachte, hatte
+er schon das Telefon am Ohr.
+
+Ich sah ihm nach und dachte an das, was meine Mutter gesagt hat, als ich
+neun war und mein Vater das letzte Mal die Tür zumachte.
+
+*Sie regeln erst alles, und dann sind sie weg.*
+
+Ich weiß, dass dieser Satz falsch ist. Ich weiß auch, dass er meiner
+Mutter gehört und nicht mir.
+
+Ich habe ihn trotzdem gedacht.

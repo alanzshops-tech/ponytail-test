@@ -1,222 +1,199 @@
 # Kapitel 9 — Leni
 
-Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
-alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
-Emils Fläschchen ausspülte.
+Es gibt eine Sache an Dienstagen und Donnerstagen, die ich niemandem
+erzählt habe, auch Sanne nicht.
 
-„Der Mann, der abends bei Ihnen sitzt.“
+Ich habe ab Mitte Oktober angefangen, mittwochs und freitags schlechter
+zu schlafen.
 
-„Herr Reinhardt.“
+Nicht dienstags und donnerstags. An diesen Abenden schlief ich wie ein
+Stein, weil ich bis halb zehn an einem Tisch gesessen und über
+Entwässerung geredet hatte und danach zu müde war für irgendetwas
+anderes. Es waren die Tage danach. Die Tage, an denen ich um vier
+aufstand und der Teig genauso lag wie immer und niemand kam.
 
-„Ja.“ Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
-angesehen, als er nicht hingesehen hat. Er hat dieselbe Stirn wie der
-Kleine.“
-
-Ich sagte nichts.
-
-„Frau Voss.“ Sie drehte sich um und trocknete sich die Hände an der
-Schürze. „Ich bin einundsechzig. Ich habe drei Kinder großgezogen und
-neun fremde. Ich weiß, wann mich etwas nichts angeht.“
-
-„Aber?“
-
-„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert.“ Sie
-nahm ihren Mantel vom Haken. „Es geht nie gut aus, wenn der andere es
-selbst herausfindet. Nie.“
-
-Sie ging.
-
-Ich stand in meiner Küche, und Emil saß im Hochstuhl und trommelte mit
-einem Löffel, und ich dachte: *Ich weiß.*
+Ich habe das ungefähr drei Wochen lang für Erschöpfung gehalten.
 
 ---
 
-Ich hatte in diesen Wochen zum ersten Mal seit langem abends jemanden
-gegenüber, und ich habe unterschätzt, was das mit einem macht.
+Am zweiundzwanzigsten Oktober kam Sanne rüber, um Wechselgeld zu
+tauschen, und blieb stehen.
 
-Es ist nicht das Reden. Ich rede den ganzen Tag, mit Herrn Osterkamp,
-mit Herrn Kubatz, mit den Handwerkern vom Umbau.
+„Du hast die Karte geändert.“
 
-Es ist, dass jemand die Antwort abwartet.
+„Nur den Nachmittag.“
 
-Am siebzehnten hat er mich gefragt, wann ich zuletzt im Urlaub war, und
-ich habe die Frage zurückgegeben, weil ich sie nicht beantworten wollte.
-Meine ehrliche Antwort wäre gewesen: 2019, drei Tage Sylt mit Sanne, und
-ich habe an allen drei Tagen die Umsätze der Vertretung kontrolliert.
+„Du hast seit vier Jahren die Karte nicht geändert.“ Sie lehnte sich an
+den Tresen, in dieser Haltung, die sie hat, wenn sie nicht vorhat, bald
+zu gehen. „Und du hast Musik an.“
 
-Am neunzehnten habe ich ihm von meiner Mutter erzählt. Das war ein
-Fehler, nicht weil er es weitererzählen würde, sondern weil ich danach
-in den Backraum gehen musste, um etwas zu holen, das ich nicht brauchte.
+Ich hatte tatsächlich Musik an. Sehr leise, ein Radiosender, den meine
+Großmutter gehört hat.
 
-Ich weiß, wie das aussieht. Ich wusste es auch damals.
+„Das ist wegen der Handwerker.“
 
----
+„Die Handwerker sind seit dem Achten fertig, Leni.“
 
-Das Problem war nicht, dass ich es nicht sagen wollte.
+Ich wischte weiter, und Sanne wartete, und Sanne kann sehr lange warten;
+sie hat als Kind bei Verstecken immer gewonnen, weil sie es aushielt,
+nichts zu tun.
 
-Das Problem war, dass ich es jeden Tag ein bisschen weniger konnte.
+„Er kommt dienstags und donnerstags“, sagte ich.
 
-In den ersten Wochen wäre es ein Satz gewesen. *Jonas, ich muss dir etwas
-sagen.* Hart, aber sauber. Er hätte wütend sein können, und er hätte ein
-Recht darauf gehabt, und danach hätten wir eine Situation gehabt, mit der
-zwei Erwachsene umgehen.
+„Ich weiß. Ich sehe ihn ja.“
 
-Aber dann hatte er das Dach bezahlt.
+„Wegen des Hofs.“
 
-Und dann hatte er den Entwurf geändert, sodass mein Haus stehen bleibt.
+„Bis halb zehn“, sagte Sanne. „Wegen des Hofs.“
 
-Und dann hatte er die Anruferliste auf meinen Tisch gelegt, mit dem
-Vermerk *erledigt*, und mir damit gesagt: *Ich glaube dir. Ich habe
-nachgesehen, und du hattest recht, und ich hatte unrecht.*
+Ich legte das Tuch hin.
 
-Und dann hatte er Tische abgewischt.
+„Sag es einfach“, sagte sie.
 
-Jeder dieser Tage machte den Satz schwerer. Nicht weil ich mehr zu
-verlieren hatte — sondern weil er jeden Tag mehr Anspruch darauf hatte,
-ihn früher gehört zu haben.
+Und dann habe ich es zum ersten Mal laut gesagt, seit zwei Jahren, in
+meinem eigenen Café, an einem Mittwochvormittag, zu einer Frau, die ich
+kenne, seit wir beide sieben waren.
 
-Man kann jemandem nicht sagen: *Ich habe es dir vier Wochen lang
-verschwiegen, während du mein Dach bezahlt hast.*
+„Es ist Emils Vater.“
 
-Man kann es. Es wird nur mit jeder Woche unmöglicher.
+Sanne machte kein Gesicht. Das ist das Beste an ihr. Sie sagte nicht
+*was* und nicht *im Ernst* und nicht *das gibt es doch nicht*. Sie sah
+mich an und atmete einmal aus und sagte:
 
----
+„Okay.“
 
-Am zweiten Novemberwochenende fuhr Frau Kettler zu ihrer Tochter, und ich
-hatte Emil den ganzen Samstag.
+„Okay?“
 
-Wir gingen an den Elbstrand, weil es einer dieser unmöglichen
-Novembertage war, an denen die Sonne scheint und es trotzdem sechs Grad
-hat. Emil sammelte Steine. Er sammelte ausschließlich nasse Steine, weil
-nasse Steine glänzen, und er war jedes Mal enttäuscht, wenn sie in der
-Jackentasche trockneten.
+„Ich denke gerade nach.“ Sie zog einen Hocker heran. „Weiß er es?“
 
-Ich saß auf einem Findling und sah ihm zu.
+„Nein.“
 
-Er hat Jonas’ Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
-etwas anzusehen, bevor er es anfasst — dieses kurze Innehalten, das bei
-einem achtzehn Monate alten Menschen komisch wirkt und bei einem
-sechsunddreißigjährigen Mann in einer Vorstandssitzung vermutlich
-beeindruckend.
+„Weiß er, dass er es nicht weiß?“
 
-„Emil“, sagte ich.
+Ich musste den Satz zweimal denken.
 
-Er sah hoch.
+„Ich glaube“, sagte ich langsam, „er weiß, dass da etwas ist.“
 
-„Ich bin ein Feigling.“
+Sanne nickte, als hätte ich etwas Vernünftiges gesagt.
 
-„Da“, sagte Emil und hielt mir einen Stein hin.
+„Und du wartest worauf?“
 
-„Danke.“
+„Auf den richtigen Moment.“
 
-Ich steckte ihn ein. Er ist heute noch in der Schublade unter der Kasse,
-neben dem Brief von der Bank, den ich aufgehoben habe, weil man solche
-Briefe aufhebt.
+„Leni.“ Sie nahm sich ein Franzbrötchen, ohne zu fragen, wie immer. „Ich
+sage dir was über richtige Momente. Meine Mutter hat drei Jahre auf den
+richtigen Moment gewartet, um meinem Vater zu sagen, dass sie den Laden
+nicht weiterführen will. Weißt du, wann sie es gesagt hat?“
+
+„Nein.“
+
+„Auf seiner Beerdigung. Zu mir.“
 
 ---
 
-Am Montag rief ich ihn an.
+Danach ging ich in den Backraum und machte drei Bleche Kardamomschnecken,
+die niemand bestellt hatte.
 
-„Reinhardt.“
+Ich weiß, wie das aussieht. Frau Kettler weiß es auch; sie kam um vier,
+sah die Bleche und sagte nichts, was von ihr ein ganzer Absatz ist.
 
-„Ich bin’s.“
+Was ich in diesen Wochen nicht ausgehalten habe, war nicht die Angst.
+Angst kannte ich. Ich hatte seit zwei Jahren jeden Morgen ein bisschen
+Angst, das ist ein Grundton, damit lebt man.
 
-„Marlene.“ Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
-dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?“
-
-„Nein. Ich —“ Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
-ob Sie Donnerstag kommen.“
-
-„Ich komme jeden Donnerstag.“
-
-„Ich weiß. Ich wollte trotzdem fragen.“
-
-Eine Pause.
-
-„Marlene, ist alles in Ordnung?“
-
-Und da hatte ich es. Die offene Tür. Er hatte gefragt, ohne zu fragen, und
-ich hätte nur sagen müssen: *Nein.*
-
-„Ja“, sagte ich. „Alles gut. Bis Donnerstag.“
-
-Ich legte auf und stand eine Weile mit dem Telefon in der Hand.
+Was ich nicht aushielt, war, dass es schön war.
 
 ---
 
-Donnerstag kam er um halb sieben, und es regnete wieder, und er hatte
-diesmal einen Mantel dabei und trug ihn trotzdem nicht.
+Am vierundzwanzigsten Oktober, einem Donnerstag, kam er um Viertel nach
+sechs und hatte einen Ordner dabei, den er nicht brauchte.
 
-Wir arbeiteten anderthalb Stunden am Entwässerungsplan, was ungefähr so
-romantisch ist, wie es klingt. Um kurz nach acht schob er den Plan weg.
+Das ist mir aufgefallen, weil er ihn nicht aufmachte. Er legte ihn auf
+den Nebentisch, zog den Stuhl heran, und dann redeten wir zwei Stunden
+über die Höhen der Beläge im Hof, und der Ordner lag da und wurde nicht
+angefasst.
 
-„Ich muss Ihnen etwas sagen“, sagte er.
+Um halb neun sagte er: „Ich habe Ihnen etwas mitgebracht.“
 
-Mein Herz machte etwas Unangenehmes.
+Es war ein Anspitzer.
 
-„Ja?“
+Ein ganz normaler, aus Metall, wie man ihn in jedem Schreibwarenladen
+bekommt.
 
-„Am fünfzehnten ist die Beiratssitzung. Da wird der Entwurf beschlossen —
-Ihrer, mit dem Hof.“ Er drehte die Tasse in der Hand. „Es gibt zwei
-Leute im Beirat, die das für einen Fehler halten. Sie werden fragen,
-warum wir vier Komma zwei Millionen liegen lassen für ein Kontorhaus, das
-nicht mal besonders schön ist.“
+„Sie spitzen den Bleistift mit einem Messer“, sagte er. „Seit sechs
+Wochen. Ich sehe da jedes Mal zu und denke jedes Mal dasselbe.“
 
-„Und was sagen Sie dann?“
+Ich stand auf und ging zur Maschine, weil ich nicht wusste, wohin mit
+meinem Gesicht.
 
-„Dass der Entwurf besser ist. Was stimmt.“ Er sah auf. „Aber sie werden
-weiterfragen, und irgendwann wird jemand fragen, ob ich die Eigentümerin
-kenne.“
+„Er hat meiner Großmutter gehört“, sagte ich mit dem Rücken zu ihm.
+„Der Bleistift.“
 
-Ich stellte meine Tasse ab.
+„Ich weiß.“
 
-„Und?“
+„Woher wissen Sie das?“
 
-„Und ich werde ja sagen.“
-
-„Sie könnten nein sagen.“
-
-„Ich könnte nein sagen“, stimmte er zu. „Und dann würde in drei Monaten
-jemand herausfinden, dass ich sie kenne, und dann wäre es nicht mehr ein
-Entwurf, der besser ist. Dann wäre es Vetternwirtschaft.“
-
-Er strich sich über das Gesicht, und ich sah, wie müde er war.
-
-„Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
-Zweifel vor dem Beirat trägt“, sagte er. „Und das hier trägt nur, wenn
-ich es vorher sage. Also sage ich es vorher.“
+„Weil da ein Name eingeprägt ist, den es nicht mehr gibt“, sagte er.
+„Und weil Sie ihn anders anfassen als einen Stift.“
 
 ---
 
-Ich saß da und sah ihn an, und mir wurde langsam übel.
+Der Anspitzer liegt heute noch in der Schublade unter der Kasse.
 
-Er saß in meinem Café und erklärte mir, warum man unangenehme Wahrheiten
-lieber selbst ausspricht, bevor jemand anderes sie findet.
+Ich habe ihn nie benutzt. Ich spitze den Bleistift immer noch mit dem
+Messer, weil meine Großmutter das so gemacht hat.
 
-„Jonas“, sagte ich.
+Aber ich habe ihn behalten, und das ist der Punkt.
 
-„Ja?“
+---
 
-Die Tür ging auf. Zwei Handwerker vom Nachbarhaus, klatschnass, laut,
-fröhlich. „Frau Voss, ist noch was da? Egal was.“
+Am siebenundzwanzigsten Oktober, einem Sonntag, saß Emil im Hochstuhl
+und aß Nudeln, und ich räumte um ihn herum auf, und dann passierte
+etwas, das ich seitdem ungefähr zweihundertmal nacherzählt habe, aber
+nur mir selbst.
 
-Ich stand auf.
+Er hielt inne, sah zur Tür und machte einen Laut.
 
-„Einen Moment“, sagte ich, zu ihnen und zu ihm gleichzeitig.
+Es war kein Wort. Er hat zu diesem Zeitpunkt vierzehn Wörter, und keins
+davon fängt mit J an. Es war ein Laut mit einem harten Anfang, und
+danach sah er zur Tür und wartete.
 
-Als ich zurückkam, hatte er den Plan wieder aufgerollt und stand am
-Fenster, und der Moment war weg, so wie diese Momente immer weggehen —
-nicht mit einem Knall, sondern weil jemand zwei Franzbrötchen will.
+Sonntags kommt niemand. Sonntags ist zu.
 
-„Ich muss los“, sagte er. „Sitzung morgen früh.“
+Ich stand mit einem Lappen in der Hand mitten in meiner Küche und
+begriff, dass mein Sohn seit sechs Wochen jemanden zweimal die Woche in
+diesem Haus hört, und dass er angefangen hat, damit zu rechnen.
 
-„Ja.“
+„Der kommt Dienstag“, sagte ich.
 
-An der Tür drehte er sich um.
+Emil sah mich an.
 
-„Was wollten Sie sagen?“
+„Ich weiß“, sagte ich. „Ich weiß.“
 
-Ich stand hinter der Theke, mit dem Tuch in der Hand, in dem Licht, das
-um diese Zeit von der Straße hereinkommt.
+---
 
-„Viel Glück am Fünfzehnten“, sagte ich.
+Ich habe an diesem Sonntagabend die Liste zum ersten Mal geschrieben.
+
+Nicht die mit den zwei Spalten — die kam später, im November. Diese hier
+hatte nur eine Spalte und eine Überschrift, und die Überschrift lautete:
+
+**Was ich sagen muss.**
+
+Darunter stand ein einziger Satz, und ich habe ihn viermal
+umgeschrieben, bis er kurz genug war:
+
+*Emil ist deiner.*
+
+Ich habe den Zettel angesehen, gefaltet, und in die Schublade unter der
+Kasse gelegt, zu dem Brief von der Bank und dem Stein vom Elbstrand.
+
+Dann habe ich die Schublade zugeschoben, und sie klemmte, wie sie seit
+dem Frühjahr klemmt, und ich musste sie anheben und noch einmal drücken.
+
+Es hat vom siebenundzwanzigsten Oktober bis zum dreizehnten November
+gedauert, bis ich diesen Zettel wieder rausgeholt habe.
+
+Achtzehn Tage.
+
+Ich habe sie einzeln gezählt, später, als es darum ging, wer wie lange
+geschwiegen hat.

@@ -1,241 +1,234 @@
 # Kapitel 17 — Leni
 
-Am neunten Dezember, zwanzig nach zwei nachts, wachte ich auf, weil es
-zu still war.
+Ich schlug sie nicht sofort auf.
 
-Das ist der Sinn dieser Geräte, die man an das Bettgitter klemmt: Man
-schläft nicht durch das Rauschen, man wacht durch dessen Fehlen auf.
+Ich stand hinter dem Tresen, Emil auf dem Arm, und sah auf eine blaue
+Mappe mit einem getippten Etikett und dachte: *Er hat mir etwas
+mitgebracht.* Und einen halben Atemzug lang war ich gerührt, weil ich
+gedacht habe, es sind Fotos, oder etwas von seiner Mutter, oder
+irgendetwas, das ein Mensch einem anderen Menschen mitbringt.
 
-Emil lag auf dem Rücken, was er nie tut, und war heiß wie ein Backblech.
+Dann las ich das Etikett.
 
-39,8.
+**REINHARDT / VOSS — PERSÖNLICH**
 
-Ich hatte alles. Ich hatte Zäpfchen, ich hatte Wadenwickel, ich hatte
-die Nummer der Kinderärztin im Handy und den Ablauf im Kopf, weil ich
-diesen Ablauf allein zweiundzwanzigmal durchgespielt habe, seit es ihn
-gibt.
+„Setz dich“, sagte ich. „Ich mach uns Kaffee.“
 
-Und dann fing er an zu zucken.
-
----
-
-Ich habe in diesen Sekunden zwei Dinge gleichzeitig getan, die nicht
-zusammenpassen: Ich habe ihn auf die Seite gedreht, alles vom Bett
-geräumt und auf die Uhr gesehen — und ich habe dabei gedacht, ganz klar
-und ganz ruhig, dass ich hier allein bin und dass ich hier immer allein
-bin.
-
-Ich will das nicht ausführlich beschreiben. Es dauerte nach Aussage der
-Ärztin ungefähr neunzig Sekunden, und ich habe in diesen neunzig
-Sekunden eine Sache gelernt, die man nur einmal lernt: Es gibt keinen
-Teil von mir, den ich nicht sofort hergeben würde.
-
-Ich rief 112. Ich sagte die Adresse zweimal falsch.
-
-Und dann, während ich mit dem Telefon zwischen Schulter und Ohr auf dem
-Boden des Kinderzimmers saß, wählte meine linke Hand eine zweite Nummer,
-ohne dass mein Kopf beteiligt war.
-
-„Marlene?“
-
-„Emil krampft“, sagte ich. „Der Krankenwagen kommt. Kinderklinik
-Altona.“
-
-„Ich bin in zwölf Minuten da.“
-
-Er war in neun.
+Ich machte keinen Kaffee. Ich setzte Emil in den Laufstall hinter der
+Theke, wo er die Kaffeemühle nicht erreicht, und ich brauchte diese
+dreißig Sekunden, weil ich sonst mit dem Kind auf dem Arm geschrien
+hätte, und das mache ich nicht.
 
 ---
 
-Der Notarzt war jung und ruhig und sagte das Wort *Fieberkrampf*, und
-es klang in seinem Mund wie *Schnupfen*, und ich habe diesen Mann dafür
-mehr geliebt als die meisten Menschen, die ich kenne.
+Emil schlief oben. Es war zwanzig nach acht, die Uhrzeit, zu der ich seit
+achtzehn Monaten eine halbe Stunde für mich habe, und ich hatte mir
+diese halbe Stunde vorgestellt: Er kommt, wir sitzen, ich erzähle ihm,
+wie Emil heute den ganzen Vormittag versucht hat, einen Löffel in die
+Steckdose zu stecken, und er lacht, und wir sind zwei Leute, die über
+ihr Kind reden.
 
-„Das sieht schlimm aus und ist meistens harmlos“, sagte er. „Wir fahren
-trotzdem.“
+Ich hatte sogar den Kuchen dagelassen, den ich sonst um sechs wegräume.
 
-Im Wagen saß ich vorn. Emil war hinten, festgeschnallt, wach, verheult,
-und alles roch nach Desinfektionsmittel.
-
-Jonas fuhr mit seinem Auto hinterher. Ich sah die Scheinwerfer in dem
-kleinen Fenster.
-
----
-
-Aufnahme, Kinderklinik, halb vier.
-
-Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
-
-„Name des Kindes?“
-
-„Emil Voss.“
-
-„Geburtsdatum?“
-
-„Achter Mai 2025.“
-
-„Versichert bei?“
-
-Und so weiter, elf Fragen lang, während hinter mir mein Sohn in einem
-zu großen Bett lag und Jonas neben dem Bett stand und seinen Zeigefinger
-festhielt.
-
-Dann sah die Frau hoch, an mir vorbei.
-
-„Und der Herr?“
-
-„Das ist —“
-
-„Ich bin der Vater“, sagte Jonas.
-
-Die Frau tippte etwas. „Sorgeberechtigt?“
-
-Pause.
-
-„Nein“, sagte er.
-
-„Verheiratet mit der Mutter?“
-
-„Nein.“
-
-„Vaterschaft anerkannt?“
-
-„Nein.“
-
-Sie tippte weiter, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
-Mensch, der um halb vier Uhr morgens seine Arbeit macht.
-
-„Dann trage ich Sie als Begleitperson ein“, sagte sie.
-
-*Begleitperson.*
-
-Ich sah ihn an. Er sah geradeaus.
-
-„Ist in Ordnung“, sagte er.
+Ich sage das, damit klar ist, mit welcher Erwartung ich diese Mappe
+aufgeschlagen habe.
 
 ---
 
-Um vier bekam Emil ein Fiebersaft und eine Infusion, und ich musste noch
-einmal nach vorn, weil sie eine Unterschrift brauchten, die nur ich
-leisten konnte.
+Sie war gut gemacht. Das muss man sagen.
 
-Ich war ungefähr drei Minuten weg.
+Register, Reiter, oben rechts eine Seitenzahl. Jemand hatte sich Mühe
+gegeben. Vermutlich Niklas, vermutlich am Wochenende.
 
-Als ich zurückkam, hörte ich ihn schon vom Gang aus.
+**Reiter 1 — Vaterschaftsanerkennung.** Beim Jugendamt, kostenfrei,
+zwanzig Minuten. *Zustimmung der Mutter erforderlich.*
 
-Es gibt ein Weinen, das Kinder machen, wenn sie müde sind, und eines,
-wenn sie Hunger haben, und eines, wenn sie Angst haben, und ich kenne
-alle drei. Das war das dritte, in der höchsten Lautstärke, die achtzehn
-Monate hergeben.
+**Reiter 2 — Sorgeerklärung.** Ebenfalls beim Jugendamt. *Zustimmung der
+Mutter erforderlich.*
 
-Die Schwester versuchte es. Er drehte sich weg.
+**Reiter 3 — Unterhalt.** Eine Tabelle. Eine Zahl, monatlich, die höher
+war als das, was ich in einem guten Monat mit dem gesamten Café
+erwirtschafte. Daneben, in Klammern, das Wort *zzgl.*
 
-Ich kam rein und nahm ihn hoch, und er wollte nicht.
+**Reiter 4 — Umgang.** Dienstag. Donnerstag. Jedes zweite Wochenende.
+Ausgedruckt. Mit Uhrzeiten.
 
-Er wollte nicht zu mir.
+**Reiter 5 — Erbfolge.**
 
-Er streckte beide Arme an mir vorbei und schrie ein Wort, das nicht
-ganz ein Wort war, mehr ein Laut mit einem harten Anfang, und der harte
-Anfang war ein J.
+**Reiter 6 — Interessenkonflikt.** Zwei Seiten darüber, dass die
+*Kindesmutter* Eigentümerin eines Objekts ist, an dem die *Gesellschaft*
+Erwerbsinteresse hat.
 
----
+Kindesmutter. Gesellschaft. Erwerbsinteresse.
 
-Ich habe später eine Zeit lang behauptet, das sei Zufall gewesen. Kinder
-in diesem Alter machen Laute. Es war halb fünf. Er war voll Fieber.
+Und dann, ganz hinten, ohne Reiter, ein einzelnes Blatt.
 
-Es ist alles wahr, und es spielt keine Rolle.
-
-Jonas nahm ihn.
-
-Er hielt ihn falsch — zu hoch, zu fest, mit einer Hand am Hinterkopf,
-so wie man einen Neugeborenen hält und nicht einen Kleinkindbrocken von
-elf Kilo.
-
-Emil hörte trotzdem auf.
-
-Nicht sofort. Über ungefähr eine Minute, wie ein Motor, der ausgeht.
-Dann legte er den Kopf in die Kuhle zwischen Jonas’ Schulter und Hals,
-und war weg.
-
-Und ich stand in einem Untersuchungszimmer der Kinderklinik Altona,
-Sorgeberechtigte, alleinige gesetzliche Vertreterin, eingetragen in
-jedem Formular dieser Nacht, und war die zweite Wahl.
-
-Ich habe geweint, und zwar aus einem Grund, für den es kein einzelnes
-Wort gibt: weil es wehtat und weil es das Beste war, was Emil je
-passiert ist, und weil beides zugleich stimmte.
+**Abstammungsgutachten — Ablauf.** Wangenabstrich, beide Elternteile und
+das Kind, Labor in Hamburg-Eppendorf, Ergebnis in sieben bis zehn
+Werktagen.
 
 ---
 
-Um halb sechs schlief Emil richtig. Sie wollten ihn zur Beobachtung
-dabehalten.
+Ich legte das Blatt auf den Tisch, mit der Schrift nach oben, und drehte
+es zu ihm.
 
-Wir saßen auf zwei Stühlen im Gang, weil im Zimmer kein Platz für zwei
-Erwachsene war.
+„Was ist das?“
 
-Jonas hatte einen Kaffee aus dem Automaten geholt, der schmeckte wie
-warmes Wasser mit einer Erinnerung.
+„Das ist —“ Er sah es an. „Das gehört eigentlich nicht rein.“
 
-„Marlene“, sagte er.
+„Es ist aber drin.“
 
-„Ja.“
+„Marlene.“ Er atmete aus. „Niklas hat mir gesagt, dass ich das nicht
+brauche. Ich habe darauf bestanden.“
 
-„Ich lasse morgen —“
+„Warum?“
 
-Er brach ab.
+„Der Ordnung halber.“
 
-Ich sah ihn von der Seite an.
+Ich habe in diesem Moment nichts gesagt, weil mir das Wort *Ordnung* die
+Sprache genommen hat.
+
+„Ich zweifle nicht“, sagte er. „Keine Sekunde. Das ist nicht die Frage.“
+
+„Was ist dann die Frage?“
+
+„Dass es irgendwann jemand bestreiten könnte. Nicht du. Andere.“ Er sah
+mich an, und er war völlig ehrlich, und das machte es schlimmer. „Es
+gibt drei Brüder und eine Firma und einen Beirat. Wenn mir morgen etwas
+passiert, sitzt dein Sohn —“
+
+„*Dein* Sohn.“
+
+„— sitzt unser Sohn vor Leuten, die ihn nicht kennen, und muss beweisen,
+wer er ist. Ich will nicht, dass er das je muss.“
+
+---
+
+Und das ist das Problem mit Jonas Reinhardt, und ich sage das, obwohl
+ich ihn liebe, und ich sage *liebe*, weil es ungefähr an diesem
+Donnerstagabend so weit war, was einen ziemlich schlechten
+Zeitpunkt darstellt.
+
+Er hat immer recht.
+
+Er hat auf jeder Seite dieser Mappe recht. Emil ist tatsächlich nicht
+abgesichert. Es gibt tatsächlich einen Beirat. Ein Testament mit drei
+Brüdern und keinem Kind ist tatsächlich ein Zustand, den man ändern
+muss.
+
+Und trotzdem lag da ein Blatt, auf dem stand, dass mein Sohn zum Labor
+soll, damit man ihn vorzeigen kann.
+
+„Jonas“, sagte ich. „Wie viele Stunden hast du bisher mit ihm
+verbracht?“
+
+Er sah auf.
+
+„Ich meine es nicht als Vorwurf. Ich frage wirklich.“
+
+Er dachte nach. Er ist ein ehrlicher Mensch, deshalb rechnete er es
+tatsächlich aus.
+
+„Zweieinhalb Stunden“, sagte er. „Am Donnerstagmorgen.“
+
+„Zweieinhalb Stunden.“ Ich legte die Hand auf die Mappe. „Und
+sechsunddreißig Seiten.“
+
+---
+
+Er wurde nicht laut. Ich glaube, ich hätte es besser gefunden, wenn er
+laut geworden wäre.
+
+„Was hätte ich tun sollen?“, sagte er.
+
+„Herkommen. Dasitzen. Nichts unterschreiben.“
+
+Er zuckte, als hätte ihn etwas getroffen, und viel später habe ich
+erfahren, dass sein Bruder ihm exakt diese drei Sätze gesagt hatte, in
+dieser Reihenfolge, drei Tage vorher.
+
+„Ich weiß nicht, wie man das macht“, sagte er.
 
 „Was?“
 
-„Nichts.“ Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
-dass ich morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein
-Reflex. Ich merke ihn inzwischen, das ist alles, was ich sagen kann. Ich
-merke ihn und mache ihn trotzdem.“
+„Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
+zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
+wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
+Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
+Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
+liebevollste Sprache, die ich kann.“
 
-„Diesmal hast du ihn nicht gemacht.“
+Ich weiß bis heute nicht, ob das der traurigste oder der ehrlichste
+Satz war, den ich je gehört habe.
 
-„Diesmal habe ich ihn *gesagt*“, sagte er. „Das ist nicht dasselbe wie
-nicht machen.“
+„Ich verstehe das“, sagte ich. „Ich verstehe es wirklich. Und ich sage
+trotzdem nein.“
 
-Ich nahm ihm den Becher weg und trank einen Schluck, was er nicht
-kommentierte.
+„Zu was?“
 
-„Begleitperson“, sagte ich.
+„Zu dem Test.“ Ich schob das Blatt zurück über den Tisch. „Zu allem
+anderen sage ich vielleicht ja, nächste Woche, wenn ich es gelesen habe.
+Aber mein Sohn geht nicht in ein Labor, damit ein Beirat beruhigt ist.“
 
-„Ja.“
+Er nahm das Blatt.
 
-„Das war das hässlichste Wort dieser Nacht.“
+„Und wenn ich darauf bestehe?“
 
-„Es stimmt aber.“
+Da war er, der Satz.
 
-„Es stimmt“, sagte ich, „weil ich es so gelassen habe.“
+Ich glaube nicht, dass er ihn so gemeint hat. Ich glaube, er hat gefragt,
+wie er in einer Verhandlung fragt: um die Grenze zu wissen.
+
+Aber gefragt hat er es.
 
 ---
 
-Draußen wurde es hell, was im Dezember in Hamburg heißt: Es wurde
-weniger schwarz.
+„Dann sage ich dir, was passiert“, sagte ich sehr ruhig. „Nichts. Du
+kannst gar nichts. Du kannst mich verklagen, und dann steht in einer
+Akte, dass ein Mann mit vierhundert Angestellten eine Konditorin
+gezwungen hat, ihr Kind untersuchen zu lassen. Das ist die einzige Macht,
+die du hier hast, und du kennst den Preis.“
 
-Ich saß in einem Krankenhausgang, mein Sohn schlief zwölf Meter weiter,
-und neben mir saß der Mann, dessen Namen mein Kind heute Nacht gerufen
-hat und der auf keinem einzigen Papier steht, das dieses Kind betrifft.
+„Ich will dich nicht verklagen.“
 
-Ich habe in meinem Leben viele Entscheidungen getroffen, die lange
-gedauert haben.
+„Ich weiß.“ Ich stand auf. „Deshalb frage ich mich, warum ich es dir
+gerade erklären musste.“
 
-Diese dauerte nicht lange.
+---
 
-„Montag“, sagte ich.
+Er ging um Viertel nach acht.
 
-„Was ist Montag?“
+An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
+und dass er es nicht fand, und dass ihm das selbst auffiel.
 
-„Da gehen wir zum Jugendamt.“ Ich gab ihm den Becher zurück. „Beides.
-Anerkennung und Sorgeerklärung. Nicht wegen heute Nacht. Weil ich es vor
-heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe.“
+„Ich habe es falsch gemacht“, sagte er.
 
-Er sagte eine Weile nichts.
+„Ja.“
 
-„Danke“, sagte er dann.
+„Sag mir, wie es richtig geht.“
 
-„Bedank dich nicht.“ Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
-Nicht dir.“
+„Nein.“ Ich hielt mich an der Theke fest. „Das ist wieder dasselbe. Du
+willst die Anleitung. Es gibt keine Anleitung, Jonas. Es gibt nur einen
+Dienstagvormittag, an dem du Tische abwischt, und den hattest du schon
+mal.“
+
+Er nickte langsam.
+
+Dann ging er, und ich hörte den Wagen nicht sofort anspringen, sondern
+erst nach ungefähr zwei Minuten.
+
+---
+
+Ich habe die Mappe nicht weggeworfen.
+
+Das ist der Teil, den ich mir selbst am meisten übelnehme, weil er zeigt,
+dass ich es wusste.
+
+Ich habe sie in die Schublade unter der Kasse gelegt, zu dem Brief von
+der Bank und dem Stein vom Elbstrand, und ich habe die Schublade
+zugeschoben, und Emil stand im Laufstall, hielt sich am Gitter fest und
+sah zur Tür.
+
+„Weg“, sagte er.
+
+Das war ein neues Wort.

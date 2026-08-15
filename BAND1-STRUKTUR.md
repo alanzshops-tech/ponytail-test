@@ -152,7 +152,7 @@ Frage erst jetzt gestellt ist.
 
 ## 5. Kapitelplan
 
-**28 Kapitel, je 2.300–2.500 Wörter, Ziel 65.000–70.000 Wörter.**
+**32 Kapitel, je rund 2.000 Wörter, Ziel 65.000 Wörter.**
 
 > **Korrektur vom 15.08.2026.** Hier stand vorher „Ziel 60.000–70.000
 > Wörter. Das liegt im üblichen Rahmen für KU-Romance." Ohne Quelle,

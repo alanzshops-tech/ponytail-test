@@ -1,228 +1,206 @@
 # Kapitel 26 — Jonas
 
-Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
+Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
+Telefonat, so gut er es erinnerte, und zweimal wörtlich.
 
-Sieben Leute. Dieselben sieben.
+Ich hörte zu und merkte, wie mir etwas den Rücken hochlief, und ich
+sage jetzt, was es war, weil ich sonst dieses ganze Kapitel schönfärben
+müsste.
 
-Ich hatte keine Präsentation vorbereitet. Ich hatte vier Blätter, für
-jeden eins, und auf dem ersten stand oben, weil Niklas darauf bestanden
-hatte, das Wort **Interessenkonflikt**.
+Es war Ärger.
 
-„Bevor wir mit dem Projekt anfangen“, sagte ich, „muss ich Ihnen etwas
-über mich erzählen. Es dauert vier Minuten, und danach wissen Sie alles,
-und dann können Sie entscheiden, ob Sie mir überhaupt noch zuhören
-wollen.“
+Der erste Gedanke von Jonas Reinhardt, Geschäftsführer, war: *Sie setzt
+uns unter Druck. Drei Tage vor Jahresende, vier Wochen vor Baubeginn.*
 
-Und dann erzählte ich es.
+Der zweite Gedanke war: *Wer hat ihr das geraten?*
 
-Dass ich ein Kind habe mit der Eigentümerin von Kehrwieder zwölf. Dass
-ich das seit November weiß und im Beirat am fünfzehnten offengelegt
-habe, dass ich sie kenne, aber nicht, dass es ein Kind gibt. Dass ihre
-Bank am dritten Dezember gekündigt hat. Dass ich am zweiundzwanzigsten
-Dezember die Forderung privat gekauft habe, für einhundertsechs-
-undachtzigtausend Euro, ohne sie zu fragen. Dass ich die Frist auf ihre
-Bitte hin verlängert habe.
+Der dritte kam ungefähr zwanzig Sekunden später, und der war: *Niemand
+hat ihr das geraten. Sie hat den Plan gelesen, der seit Oktober auf
+ihrem Tisch liegt. Der Plan, den ich ihr hingelegt habe.*
 
-Ich habe nichts weggelassen und nichts erklärt. Erklärungen kamen mir in
-diesem Raum billig vor.
+„Du guckst komisch“, sagte Theo.
 
-Als ich fertig war, sagte lange niemand etwas.
+„Ich habe mich gerade selbst dabei erwischt, wie ich sie für eine
+Gegenpartei halte.“
+
+„Sie *ist* eine Gegenpartei.“ Mein Bruder setzte sich, diesmal
+tatsächlich auf einen Stuhl. „Das ist der Punkt, Jonas. Seit Oktober
+verhandelt sie mit uns über Höhen und Beläge, und niemand — niemand von
+uns dreien, du nicht, ich nicht, Wendland nicht — hat je gefragt, was
+das kostet. Weil sie nett war.“
+
+„Sie hat es zugesagt.“
+
+„Mündlich. Bei Kaffee. Ohne Gegenleistung.“ Theo zog Blatt vier aus der
+Rolle und legte es zwischen uns. „Und weißt du was? Wenn irgendein
+anderer Eigentümer in dieser Stadt uns das so gegeben hätte, hätte ich
+mich gefragt, was mit ihm nicht stimmt.“
 
 ---
 
-Dr. Wendland stellte die richtige Frage, weil er immer die richtige
-Frage stellt.
+Wir saßen zwei Stunden über dem Plan.
 
-„Was hätte die Gesellschaft am fünfzehnten Januar bezahlt, wenn Sie
-nichts getan hätten?“
+Ich hatte ihn zwanzigmal gesehen. Ich sah ihn zum ersten Mal von ihrer
+Seite.
 
-Ich hatte es ausrechnen lassen. Ich schob das dritte Blatt in die Mitte.
+Die Durchfahrt: einziger Fahrzeugzugang. Ohne sie ist der Hof eine
+Grube, die man zu Fuß erreicht.
 
-„Bei einer Zwangsversteigerung im Frühjahr: geschätzt zwischen
-zweihundertvierzig und dreihundertzwanzigtausend für das gesamte Objekt.
-Mit dem Objekt hätten wir die drei Rechte umsonst gehabt, weil sie dann
-uns gehört hätten.“
+Die Rückwand: an sie kommt der Übergang. Ohne Anbaurecht steht der
+Übergang auf zwei Stützen im Nichts.
 
-„Und was schlagen Sie stattdessen vor?“
+Die Leitungen: Schmutzwasser, Regenwasser, Fernwärme. Der Bestand liegt
+unter ihrem Hinterhof. Alternative Trasse: außen herum, unter der
+Straße, mit Genehmigung der Stadt, mit Denkmalschutz, mit einer Bauzeit,
+die ich nicht mal überschlagen wollte.
 
-„Zweihundertachtundsechzigtausend für die Rechte allein. Das Haus bleibt
-ihr.“
+„Was kostet die Alternative?“, fragte ich schließlich.
 
-Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
-man lacht, wenn eine Zahl für sich spricht.
+Theo rechnete auf dem Rand.
 
-„Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
-Handlung um eine Erwerbschance gebracht, deren Wert wir mit — sagen wir
-vorsichtig — siebenhunderttausend beziffern können, wenn man die
-ersparte Alternativtrasse gegenrechnet.“
+„Ohne mich festzulegen: eine Komma vier. Plus neun Monate.“
+
+Ich sah die Zahl an.
+
+„Dann ist das, was wir seit Oktober geschenkt bekommen, eine Komma vier
+wert.“
+
+„Mindestens“, sagte Theo. „Ein Gutachter wird niedriger rechnen, weil
+Gutachter nicht so rechnen. Aber ja.“
+
+---
+
+Niklas kam am Dreißigsten, und wir bauten es zusammen.
+
+„Es muss drei Dinge erfüllen“, sagte ich. „Erstens: Sie behält das Haus.
+Zweitens: Sie schuldet mir am Ende nichts, und zwar wirklich nichts,
+nicht *ich fordere es nur nicht ein*. Drittens: Sie kann an jeder Stelle
+nein sagen, und wenn sie nein sagt, ist es nicht meine Katastrophe,
+sondern eine Entscheidung, die ich hinnehme.“
+
+„Das dritte ist neu“, sagte mein Bruder.
 
 „Ja.“
 
-„Sagen Sie *ja* nicht so schnell, Reinhardt. Denken Sie darüber nach.“
+Er nahm den Block.
 
-„Ich denke seit vier Wochen über nichts anderes nach“, sagte ich. „Es
-bleibt ja.“
+Es sieht am Ende einfach aus, und deshalb schreibe ich die vier Schritte
+hin, damit klar ist, wie lange man dafür braucht:
 
----
+**Eins.** Ein öffentlich bestellter und vereidigter Sachverständiger
+bewertet die drei Rechte — Wegerecht, Anbaurecht, Leitungsrecht — als
+Grunddienstbarkeiten zugunsten unserer drei Grundstücke. Nicht von uns
+beauftragt. Von ihr, oder gemeinsam, und in jedem Fall von jemandem, den
+weder sie noch ich kennt.
 
-Theo rechnete danach die Alternativtrasse vor: eine Komma vier Millionen,
-neun Monate, Genehmigung ungewiss.
+**Zwei.** Die Gesellschaft kauft die Rechte zum Gutachtenwert. Kein Cent
+darüber. Ein Cent darüber wäre eine verdeckte Schenkung, und dann sitzt
+in zwei Jahren das Finanzamt bei ihr und nicht bei mir.
 
-Es half. Es machte die zweihundertachtundsechzigtausend zu einem guten
-Geschäft, rein wirtschaftlich, und drei Leute im Raum entspannten sich
-sichtbar.
+**Drei.** Sie kauft mit dem Geld die Forderung. Von mir. Zu dem Preis,
+den ich bezahlt habe: einhundertsechsundachtzigtausend. Kein Gewinn, kein
+Nachlass, ein normaler Forderungskauf, notariell, prüfbar.
 
-Und genau deshalb sagte ich den Satz, den mir Niklas ausdrücklich
-abgeraten hatte.
+**Vier.** In dem Moment, in dem sie Gläubigerin ihrer eigenen Schuld
+ist, erlischt die Forderung. Das Wort dafür ist Konfusion. Sie schuldet
+niemandem mehr etwas, weil es nichts mehr gibt, was man schulden könnte.
 
-„Ich möchte, dass wir das nicht so beschließen.“
+Niklas legte den Stift hin.
 
-Wendland sah hoch.
+„Sauber“, sagte er. „Steuerlich unauffällig, zivilrechtlich unangreifbar,
+und sie zahlt am Ende mit ihrem eigenen Geld für ihr eigenes Haus.“ Er
+sah auf. „Es hat nur einen Haken, und der ist groß.“
 
-„Wenn wir das heute beschließen, weil es billiger ist als die
-Alternativtrasse, dann haben wir eine Rechnung gemacht“, sagte ich. „Die
-Rechnung stimmt. Sie ändert aber nichts daran, dass ich privat etwas
-getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
-sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
+„Der Beirat.“
 
-„Und was schlagen Sie vor?“
-
-Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
-betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
-sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
-Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
-hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
-Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
-damit die nächste Zahl eine hat.
-
-Ich schob das vierte Blatt hin.
-
-„Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem
-Durchschnitt der letzten fünf Jahre sind das dreihundertsechzigtausend
-Euro. Der Verzicht ist unwiderruflich und wird im Anstellungsvertrag
-niedergelegt, nicht im Protokoll.“
-
-Der Raum war sehr still.
-
-„Das ist mehr als der Schaden“, sagte jemand.
-
-„Der Schaden ist nicht ausrechenbar“, sagte ich. „Deshalb nehme ich
-lieber zu viel als zu wenig. Ich möchte nicht, dass in fünf Jahren
-jemand an diesem Tisch sitzt und sagt, der Reinhardt hat sich das damals
-schöngerechnet.“
-
----
-
-Es kam, wie Niklas gesagt hatte, dass es kommen würde.
-
-Herr Bosse, einer von den dreien, die selten etwas sagen, meldete sich.
-Ich habe diesen Mann in neunzehn Jahren vielleicht dreißig Sätze sagen
-hören.
-
-„Ich beantrage die Abberufung des Geschäftsführers.“
-
-Er sagte es ohne Feindseligkeit. Er begründete es in vier Sätzen, und
-jeder einzelne stimmte: Ein Geschäftsführer, der privat Positionen
-aufbaut, die Projekte der Gesellschaft berühren, ist untragbar,
-unabhängig vom Ausgang, unabhängig vom Motiv, und ein Beirat, der das
-durchgehen lässt, wird das nächste Mal gar nicht erst gefragt.
-
-Ich saß da und hörte mir zu, wie ein Fremder über mich sprach, und ich
-stimmte ihm in jedem Punkt zu.
-
-„Möchten Sie etwas dazu sagen?“, fragte Wendland.
-
-„Er hat recht“, sagte ich.
-
-„Das ist keine Verteidigung.“
-
-„Ich habe keine.“
-
----
-
-Es wurde abgestimmt.
-
-Fünf zu zwei gegen die Abberufung.
-
-Ich habe hinterher nie herausgefunden, wer der zweite war. Bosse hat es
-nicht verheimlicht; er hat mir nach der Sitzung die Hand gegeben und
-gesagt: „Nichts Persönliches, Herr Reinhardt. Ich hoffe, Sie machen es
-gut.“ Den anderen kenne ich bis heute nicht, und ich habe aufgehört, es
-wissen zu wollen.
-
-Dann wurde das Übrige beschlossen.
-
-Der Erwerb der drei Grunddienstbarkeiten zum Gutachtenwert: sechs zu
-eins.
-
-Ein Zustimmungsvorbehalt des Beirats für sämtliche Geschäfte der
-Gesellschaft in der Speicherstadt, unbefristet: einstimmig.
-
-Der Tantiemeverzicht: einstimmig, mit dem Zusatz, dass er im Protokoll
-ausdrücklich als *vom Geschäftsführer selbst angeboten* zu vermerken
-sei. Das war Wendland.
-
-Und ein Vermerk im Protokoll, dass der Geschäftsführer in eigener Sache
-befangen war und dies vor der Beratung vollständig offengelegt hat. Der
-steht da jetzt. Der steht da für immer. Jeder, der in zwanzig Jahren die
-Protokolle dieser Gesellschaft liest, wird ihn finden.
-
----
-
-Danach blieb Wendland sitzen, bis die anderen draußen waren.
-
-Neunzehn Jahre. Ich habe mit diesem Mann nie über etwas anderes geredet
-als über Zahlen.
-
-„Reinhardt.“
+„Der Beirat“, sagte Niklas. „Du willst, dass die Gesellschaft
+zweihundertfünfzig-, dreihundert-, was auch immer -tausend Euro für
+etwas bezahlt, das die Eigentümerin seit Oktober umsonst zugesagt hat.
+Und die Eigentümerin ist die Mutter deines Kindes. Und du bist ihr
+Gläubiger.“
 
 „Ja.“
 
-„Ihr Vater hat 1997 das Haus seiner Frau verkauft.“
+„Weißt du, wie das aussieht?“
 
-Ich sah auf.
+„Ich weiß, wie das aussieht“, sagte ich. „Deshalb sage ich es ihnen
+vorher.“
 
-„Ich war damals schon dabei“, sagte Wendland. „Nicht im Beirat, ich war
-bei der Bank. Ich habe die Unterlagen gesehen.“ Er klappte seine Mappe
-zu. „Er hat es genau richtig gemacht. Jede Zahl stimmte. Ich habe ihn
-dafür bewundert.“
+---
 
-Er stand auf und nahm seinen Mantel vom Stuhl.
+Wendland rief am zweiten Januar an. Er ruft nie an, außer er hat schon
+mit drei Leuten gesprochen.
 
-„Ich habe ihn zwanzig Jahre lang für den vernünftigsten Menschen
-gehalten, den ich kenne, und ich habe erst auf seiner Beerdigung
-gemerkt, dass ich nicht ein einziges Mal mit ihm über etwas gesprochen
-habe, das ihm wichtig war.“ An der Tür blieb er stehen. „Sie haben heute
-vier Minuten lang über Ihr Kind geredet, in diesem Raum, vor diesen
-Leuten. Das war das Dümmste, was Sie machen konnten.“
+„Reinhardt. Kellermann hat sich nach Kehrwieder zwölf erkundigt.“
+
+„Bei wem?“
+
+„Bei jemandem, der es mir erzählt hat.“ Ein Rascheln. „Er weiß, dass die
+Volksbank aufgeräumt hat. Er weiß nicht, an wen. Noch nicht.“
+
+„Er wird es erfahren.“
+
+„Ja“, sagte Wendland. „Und dann steht in irgendeiner Zeitung, dass der
+Geschäftsführer der Reinhardt Immobilien privat die Schulden einer
+Eigentümerin gekauft hat, deren Grundstück er für ein Projekt der
+Gesellschaft braucht.“ Eine Pause. „Ich sage Ihnen das nicht, um Sie zu
+ärgern. Ich sage es Ihnen, damit Sie es sich einmal laut anhören.“
+
+Ich hörte es mir laut an.
+
+„Am zwanzigsten ist Sitzung“, sagte ich. „Ich lege alles offen. Auch den
+Kauf. Auch den Preis.“
+
+Am anderen Ende war es lange still.
+
+„Sie sind ein merkwürdiger Kaufmann, Reinhardt.“
 
 „Ich weiß.“
 
-„Machen Sie es wieder“, sagte Wendland und ging.
+„Ihr Vater hätte das nie gemacht.“
+
+„Ich weiß“, sagte ich. „Das ist inzwischen ein Argument dafür.“
 
 ---
 
-Ich fuhr nicht zum Kehrwieder.
+Ich rief sie nicht an.
 
-Ich saß bis halb sieben im Büro und ließ das Protokoll schreiben, und
-als es fertig war, las ich es einmal durch und schickte es ihr.
+Das ist die Sache, auf die ich in diesem ganzen Jahr am ehesten stolz
+bin, und sie besteht darin, dass ich zwei Wochen lang etwas *nicht*
+getan habe.
 
-Vollständig. Ungekürzt. Mit dem Abberufungsantrag, mit dem Ergebnis
-fünf zu zwei, mit dem Vermerk über meine Befangenheit.
+Ich hätte hinfahren können. Ich hatte einen Plan in vier Schritten, der
+funktioniert, und ich hätte ihn ihr erklären können, gut, verständlich,
+mit einer Skizze, und sie hätte am Ende genickt.
 
-Ich schrieb keinen Text dazu. Ich schrieb nur:
+Und dann wäre es wieder meiner gewesen.
 
-*Zur Kenntnis. Der Notartermin kann jederzeit stattfinden, oder auch
-nicht. Beides ist in Ordnung. J.*
+Also machte ich es anders. Theo schrieb ihr — nicht ich —, dass die
+Gesellschaft bereit ist, die drei Rechte zu erwerben, dass sie den
+Sachverständigen aussucht, dass die Gesellschaft das Gutachten bezahlt
+und an das Ergebnis gebunden ist, und dass sie bis zur Sitzung am
+zwanzigsten Zeit hat.
 
-Ich hatte einen Satz über die Tantieme geschrieben und ihn wieder
-gelöscht.
+Kein Wort von mir. Keine Grüße. Nichts über den Rest.
 
-Nicht aus Bescheidenheit. Weil er wie eine Rechnung ausgesehen hätte,
-die ich ihr aufmache, und weil ich in diesem Winter gelernt habe, wie
-schnell aus etwas Gutgemeintem eine Forderung wird.
+Niklas las den Entwurf und sagte: „Da steht ja gar nichts drin.“
 
-Sie hat es trotzdem gefunden. Es stand im Protokoll, Seite drei, Punkt
-sieben, zwischen dem Zustimmungsvorbehalt und den Verschiedenes.
+„Doch“, sagte ich. „Da steht drin, dass sie entscheidet.“
 
-Ich hatte vergessen, dass Marlene Voss alles liest.
+---
+
+Am vierten Januar, abends, saß ich in meiner Küche vor der beglaubigten
+Abschrift aus dem Jugendamt, die immer noch an der Obstschale lehnte.
+
+Niklas hatte gefragt, bevor er ging: „Und wenn sie danach trotzdem nicht
+will? Nicht das Haus. *Dich.*“
+
+Ich hatte eine Weile gebraucht.
+
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
+sechs zurück, und mache das die nächsten siebzehn Jahre, und sie muss
+mich nie wieder anrufen.“
+
+„Kannst du das?“
+
+„Nein“, hatte ich gesagt. „Aber das ist kein Grund.“

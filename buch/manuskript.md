@@ -2127,6 +2127,405 @@ Merken Sie sich das, sonst hält der Laden das nicht aus.“
 
 # Kapitel 9 — Leni
 
+Es gibt eine Sache an Dienstagen und Donnerstagen, die ich niemandem
+erzählt habe, auch Sanne nicht.
+
+Ich habe ab Mitte Oktober angefangen, mittwochs und freitags schlechter
+zu schlafen.
+
+Nicht dienstags und donnerstags. An diesen Abenden schlief ich wie ein
+Stein, weil ich bis halb zehn an einem Tisch gesessen und über
+Entwässerung geredet hatte und danach zu müde war für irgendetwas
+anderes. Es waren die Tage danach. Die Tage, an denen ich um vier
+aufstand und der Teig genauso lag wie immer und niemand kam.
+
+Ich habe das ungefähr drei Wochen lang für Erschöpfung gehalten.
+
+---
+
+Am zweiundzwanzigsten Oktober kam Sanne rüber, um Wechselgeld zu
+tauschen, und blieb stehen.
+
+„Du hast die Karte geändert.“
+
+„Nur den Nachmittag.“
+
+„Du hast seit vier Jahren die Karte nicht geändert.“ Sie lehnte sich an
+den Tresen, in dieser Haltung, die sie hat, wenn sie nicht vorhat, bald
+zu gehen. „Und du hast Musik an.“
+
+Ich hatte tatsächlich Musik an. Sehr leise, ein Radiosender, den meine
+Großmutter gehört hat.
+
+„Das ist wegen der Handwerker.“
+
+„Die Handwerker sind seit dem Achten fertig, Leni.“
+
+Ich wischte weiter, und Sanne wartete, und Sanne kann sehr lange warten;
+sie hat als Kind bei Verstecken immer gewonnen, weil sie es aushielt,
+nichts zu tun.
+
+„Er kommt dienstags und donnerstags“, sagte ich.
+
+„Ich weiß. Ich sehe ihn ja.“
+
+„Wegen des Hofs.“
+
+„Bis halb zehn“, sagte Sanne. „Wegen des Hofs.“
+
+Ich legte das Tuch hin.
+
+„Sag es einfach“, sagte sie.
+
+Und dann habe ich es zum ersten Mal laut gesagt, seit zwei Jahren, in
+meinem eigenen Café, an einem Mittwochvormittag, zu einer Frau, die ich
+kenne, seit wir beide sieben waren.
+
+„Es ist Emils Vater.“
+
+Sanne machte kein Gesicht. Das ist das Beste an ihr. Sie sagte nicht
+*was* und nicht *im Ernst* und nicht *das gibt es doch nicht*. Sie sah
+mich an und atmete einmal aus und sagte:
+
+„Okay.“
+
+„Okay?“
+
+„Ich denke gerade nach.“ Sie zog einen Hocker heran. „Weiß er es?“
+
+„Nein.“
+
+„Weiß er, dass er es nicht weiß?“
+
+Ich musste den Satz zweimal denken.
+
+„Ich glaube“, sagte ich langsam, „er weiß, dass da etwas ist.“
+
+Sanne nickte, als hätte ich etwas Vernünftiges gesagt.
+
+„Und du wartest worauf?“
+
+„Auf den richtigen Moment.“
+
+„Leni.“ Sie nahm sich ein Franzbrötchen, ohne zu fragen, wie immer. „Ich
+sage dir was über richtige Momente. Meine Mutter hat drei Jahre auf den
+richtigen Moment gewartet, um meinem Vater zu sagen, dass sie den Laden
+nicht weiterführen will. Weißt du, wann sie es gesagt hat?“
+
+„Nein.“
+
+„Auf seiner Beerdigung. Zu mir.“
+
+---
+
+Danach ging ich in den Backraum und machte drei Bleche Kardamomschnecken,
+die niemand bestellt hatte.
+
+Ich weiß, wie das aussieht. Frau Kettler weiß es auch; sie kam um vier,
+sah die Bleche und sagte nichts, was von ihr ein ganzer Absatz ist.
+
+Was ich in diesen Wochen nicht ausgehalten habe, war nicht die Angst.
+Angst kannte ich. Ich hatte seit zwei Jahren jeden Morgen ein bisschen
+Angst, das ist ein Grundton, damit lebt man.
+
+Was ich nicht aushielt, war, dass es schön war.
+
+---
+
+Am vierundzwanzigsten Oktober, einem Donnerstag, kam er um Viertel nach
+sechs und hatte einen Ordner dabei, den er nicht brauchte.
+
+Das ist mir aufgefallen, weil er ihn nicht aufmachte. Er legte ihn auf
+den Nebentisch, zog den Stuhl heran, und dann redeten wir zwei Stunden
+über die Höhen der Beläge im Hof, und der Ordner lag da und wurde nicht
+angefasst.
+
+Um halb neun sagte er: „Ich habe Ihnen etwas mitgebracht.“
+
+Es war ein Anspitzer.
+
+Ein ganz normaler, aus Metall, wie man ihn in jedem Schreibwarenladen
+bekommt.
+
+„Sie spitzen den Bleistift mit einem Messer“, sagte er. „Seit sechs
+Wochen. Ich sehe da jedes Mal zu und denke jedes Mal dasselbe.“
+
+Ich stand auf und ging zur Maschine, weil ich nicht wusste, wohin mit
+meinem Gesicht.
+
+„Er hat meiner Großmutter gehört“, sagte ich mit dem Rücken zu ihm.
+„Der Bleistift.“
+
+„Ich weiß.“
+
+„Woher wissen Sie das?“
+
+„Weil da ein Name eingeprägt ist, den es nicht mehr gibt“, sagte er.
+„Und weil Sie ihn anders anfassen als einen Stift.“
+
+---
+
+Der Anspitzer liegt heute noch in der Schublade unter der Kasse.
+
+Ich habe ihn nie benutzt. Ich spitze den Bleistift immer noch mit dem
+Messer, weil meine Großmutter das so gemacht hat.
+
+Aber ich habe ihn behalten, und das ist der Punkt.
+
+---
+
+Am siebenundzwanzigsten Oktober, einem Sonntag, saß Emil im Hochstuhl
+und aß Nudeln, und ich räumte um ihn herum auf, und dann passierte
+etwas, das ich seitdem ungefähr zweihundertmal nacherzählt habe, aber
+nur mir selbst.
+
+Er hielt inne, sah zur Tür und machte einen Laut.
+
+Es war kein Wort. Er hat zu diesem Zeitpunkt vierzehn Wörter, und keins
+davon fängt mit J an. Es war ein Laut mit einem harten Anfang, und
+danach sah er zur Tür und wartete.
+
+Sonntags kommt niemand. Sonntags ist zu.
+
+Ich stand mit einem Lappen in der Hand mitten in meiner Küche und
+begriff, dass mein Sohn seit sechs Wochen jemanden zweimal die Woche in
+diesem Haus hört, und dass er angefangen hat, damit zu rechnen.
+
+„Der kommt Dienstag“, sagte ich.
+
+Emil sah mich an.
+
+„Ich weiß“, sagte ich. „Ich weiß.“
+
+---
+
+Ich habe an diesem Sonntagabend die Liste zum ersten Mal geschrieben.
+
+Nicht die mit den zwei Spalten — die kam später, im November. Diese hier
+hatte nur eine Spalte und eine Überschrift, und die Überschrift lautete:
+
+**Was ich sagen muss.**
+
+Darunter stand ein einziger Satz, und ich habe ihn viermal
+umgeschrieben, bis er kurz genug war:
+
+*Emil ist deiner.*
+
+Ich habe den Zettel angesehen, gefaltet, und in die Schublade unter der
+Kasse gelegt, zu dem Brief von der Bank und dem Stein vom Elbstrand.
+
+Dann habe ich die Schublade zugeschoben, und sie klemmte, wie sie seit
+dem Frühjahr klemmt, und ich musste sie anheben und noch einmal drücken.
+
+Es hat vom siebenundzwanzigsten Oktober bis zum dreizehnten November
+gedauert, bis ich diesen Zettel wieder rausgeholt habe.
+
+Achtzehn Tage.
+
+Ich habe sie einzeln gezählt, später, als es darum ging, wer wie lange
+geschwiegen hat.
+
+---
+
+# Kapitel 10 — Jonas
+
+Sonntags habe ich nichts.
+
+Das ist keine Klage. Ich habe es zwölf Jahre lang so eingerichtet, weil
+ein Sonntag ohne Termine der einzige Tag ist, an dem man nachdenken
+kann, und weil ich mir eingeredet habe, dass ich das brauche.
+
+In Wahrheit fahre ich sonntags durch die Stadt und sehe mir Baustellen
+an, auf denen niemand arbeitet.
+
+Am siebenundzwanzigsten Oktober bin ich um zwanzig nach elf am
+Kehrwieder vorbeigefahren, habe zweihundert Meter weiter gehalten und
+bin nicht ausgestiegen.
+
+Das Café war zu. Im ersten Stock brannte Licht.
+
+Ich habe vielleicht zehn Minuten dort gestanden, mit laufendem Motor,
+und mir dabei zugesehen, wie ich mir eine Begründung baue: Ich könnte
+nach dem Gerüst sehen. Ich könnte fragen, ob der Rückstau im Fallrohr
+weg ist. Ich könnte —
+
+Dann bin ich weitergefahren, und auf der Ludwig-Erhard-Straße ist mir
+klar geworden, dass ich gerade vor dem Haus einer Frau geparkt habe, um
+zu sehen, ob Licht brennt.
+
+Ich bin sechsunddreißig. Ich habe vierhundert Angestellte.
+
+---
+
+Am Montag kam Frau Kuhlmann mit dem Kalender rein und blieb länger
+stehen als nötig.
+
+„Darf ich etwas sagen, das mich nichts angeht?“
+
+„Sie haben es sich in neunzehn Jahren zweimal erlaubt.“
+
+„Dann ist es das dritte Mal.“ Sie legte den Kalender hin. „Sie haben
+diese Woche dreimal einen Termin nach hinten geschoben, damit Sie
+donnerstags um sechs weg sind. Das ist mir aufgefallen, weil Sie so
+etwas sonst nicht tun.“
+
+„Es ist ein Projekttermin.“
+
+„Herr Reinhardt.“ Sie sah mich an, wie sie meinen Vater angesehen hat,
+wenn er behauptete, er habe nur einen Kaffee getrunken. „Ich schreibe
+Ihre Termine seit neunzehn Jahren auf. Projekttermine dauern nie länger
+als geplant.“
+
+Ich habe nichts darauf gesagt.
+
+An der Tür drehte sie sich noch einmal um.
+
+„Ich fand es gut“, sagte sie. „Falls das eine Rolle spielt.“
+
+---
+
+Theo brachte am Mittwoch die Zahlen.
+
+Er legte sie auf den Tisch und setzte sich, und ich wusste an der Art,
+wie er saß, dass es keine gute Nachricht ist.
+
+„Drei Komma acht war optimistisch“, sagte er. „Mit der Rinne, die wir
+jetzt offen führen, und mit dem Rückbau am Übergang: vier Komma zwei.“
+
+„Über die Laufzeit?“
+
+„Über die Laufzeit.“
+
+Ich sah mir die Zeile an.
+
+Vierhunderttausend mehr, weil eine Konditorin auf die Rückseite von
+Blatt vier eine schiefe Rinne gezeichnet hat, die besser ist als unsere
+gerade. Vier Komma zwei ist ab heute die Zahl, die im Protokoll steht.
+
+„Wendland wird fragen“, sagte Theo.
+
+„Wendland wird fragen.“
+
+„Und was sagst du?“
+
+„Dass es besser ist.“
+
+Theo lachte kurz, ohne Freude. „Das ist kein Argument, Jonas. Das ist
+ein Geschmacksurteil mit einer Zahl daneben.“
+
+„Dann rechne mir aus, was der Hof über zwanzig Jahre an den
+Erdgeschossen bringt“, sagte ich. „Nicht über fünf. Über zwanzig.“
+
+Er zog den Block heran und rechnete zehn Minuten lang, und ich sah aus
+dem Fenster auf die Kräne und dachte an gar nichts.
+
+„Es trägt“, sagte er dann. „Knapp. Wenn die Erdgeschosse vermietet sind
+und wenn die Mieten halten.“
+
+„Dann schreib es so auf.“
+
+„Jonas.“ Er legte den Stift hin. „Ich schreibe es auf. Ich sage dir nur
+vorher: Du hast dich für die Zahl entschieden, bevor du sie hattest.“
+
+---
+
+Er hatte recht, und ich wusste es, und ich habe an diesem Abend zum
+ersten Mal seit Jahren die Akte meines Vaters aufgemacht.
+
+Nicht die Firmenakte. Den Ordner, den meine Mutter mir nach der
+Beerdigung gegeben hat, mit den Sachen aus seinem Schreibtisch. Ich habe
+ihn 2014 einmal durchgesehen und dann in einen Schrank gestellt.
+
+Es ist wenig drin. Eine Uhr. Ein Notizbuch mit Zahlen, die nichts mehr
+bedeuten. Zwei Fotos von der Firma, 1989 und 2003, auf beiden derselbe
+Mann mit demselben Gesichtsausdruck.
+
+Und ein Blatt, das ich beim ersten Mal überblättert haben muss: ein
+Blatt aus einem Kalender, Februar 1997, auf dem in seiner Handschrift
+untereinander drei Möglichkeiten stehen, wie man neunhunderttausend Mark
+auftreibt.
+
+Die dritte ist unterstrichen. Sie lautet: *Reinbek.*
+
+Daneben, kleiner: *R. fragen? — nein. Erst regeln.*
+
+Ich habe damals nicht gewusst, wem das Haus in Reinbek gehört hat.
+
+---
+
+Am Donnerstag, dem vierundzwanzigsten, war ich um Viertel nach sechs am
+Kehrwieder und hatte einen Ordner dabei, den ich nicht brauchte.
+
+Ich hatte ihn mitgenommen, damit ich einen Grund habe, und ihn dann
+nicht aufgemacht, weil mir auffiel, wie durchsichtig das ist.
+
+Wir haben über die Beläge geredet. Sie will Klinker, weil Klinker hier
+hingehört; ich habe erklärt, warum Klinker im Hof bei Frost ein Problem
+ist; sie hat gefragt, ob es Klinker gibt, die keins sind, und die gibt
+es, und sie kosten das Doppelte, und wir haben sie genommen.
+
+Um halb neun habe ich ihr einen Anspitzer gegeben.
+
+Ich hatte ihn am Dienstag gekauft, in einem Laden am Gänsemarkt, und ich
+habe dafür achtzig Cent bezahlt und drei Minuten gebraucht, und auf dem
+Rückweg ins Büro habe ich mich gefragt, ob das übergriffig ist.
+
+Sie ist aufgestanden und zur Maschine gegangen und hat mir den Rücken
+zugedreht.
+
+Ich habe in diesem Moment gedacht, ich hätte etwas falsch gemacht.
+
+---
+
+Danach ist etwas passiert, das ich hier aufschreibe, weil es sonst
+niemand aufschreibt.
+
+Sie kam zurück mit zwei Tassen, stellte meine an die Stelle links vom
+Zuckerstreuer, und dabei rutschte der Plan, und wir griffen beide danach.
+
+Ihre Hand lag drei Sekunden auf meiner.
+
+Es hat niemand etwas gesagt. Sie hat den Plan geglättet, ich habe die
+Ecke festgehalten, und dann haben wir weiter über Frostsicherheit
+geredet.
+
+Ich bin siebenundzwanzig Minuten später gefahren und habe an einer roten
+Ampel am Baumwall gemerkt, dass ich seit sieben Jahren mit niemandem
+mehr an einem Tisch gesessen habe, an dem ich nichts wollte.
+
+---
+
+Am Freitag habe ich die Schublade repariert.
+
+Das klingt nach nichts. Es ist die Schublade unter ihrer Kasse, die
+klemmt, seit im Frühjahr irgendetwas gequollen ist, und man muss sie
+anheben und dann ziehen. Ich habe ihr sechs Wochen lang dabei zugesehen.
+
+Ich bin am Freitagmorgen um zwanzig nach acht hin, mit einem Hobel und
+einem Stück Kerzenwachs aus meiner eigenen Küche, und habe gesagt:
+„Fünfzehn Minuten. Sie können weitermachen.“
+
+Sie hat gesagt: „Sie sind Geschäftsführer.“
+
+Ich habe gesagt: „Ich habe Bauingenieurwesen angefangen.“
+
+Es hat elf Minuten gedauert. Die Führung war an zwei Stellen
+angeschwollen; man nimmt einen halben Millimeter weg und reibt Wachs
+auf die Läufer, dann geht sie wieder.
+
+Sie hat die Schublade danach viermal auf- und zugezogen, und beim
+vierten Mal hat sie gelacht.
+
+Und dann hat sie sie zugemacht und die Hand daraufgelegt und ist stehen
+geblieben, und ihr Gesicht hat etwas gemacht, das ich damals nicht
+verstanden habe.
+
+Ich weiß heute, was in dieser Schublade lag.
+
+---
+
+# Kapitel 11 — Leni
+
 Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
 alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
 Emils Fläschchen ausspülte.
@@ -2350,7 +2749,7 @@ um diese Zeit von der Straße hereinkommt.
 
 ---
 
-# Kapitel 10 — Jonas
+# Kapitel 12 — Jonas
 
 Der Beirat tagt im vierten Stock, in einem Raum mit einem Tisch, den mein
 Vater 1998 gekauft hat und den niemand austauschen will, weil er
@@ -2611,7 +3010,7 @@ und lag bis drei Uhr wach und wusste, dass ich es längst wusste.
 
 ---
 
-# Kapitel 11 — Leni
+# Kapitel 13 — Leni
 
 *Nicht heute. Bitte.*
 
@@ -2810,7 +3209,7 @@ Zwei Tage lang reichte es nicht.
 
 ---
 
-# Kapitel 12 — Jonas
+# Kapitel 14 — Jonas
 
 Am Mittwoch stand ich um zehn nach acht vor ihrer Tür und wusste, was
 kommt.
@@ -3056,7 +3455,7 @@ Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.
 
 ---
 
-# Kapitel 13 — Leni
+# Kapitel 15 — Leni
 
 Er stand um zwanzig vor sieben vor der Tür.
 
@@ -3274,7 +3673,7 @@ Ich habe ihn trotzdem gedacht.
 
 ---
 
-# Kapitel 14 — Jonas
+# Kapitel 16 — Jonas
 
 Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
 macht, wenn man nicht weiß, wie man es macht.
@@ -3502,7 +3901,7 @@ Ich hatte es nicht abgezogen.
 
 ---
 
-# Kapitel 15 — Leni
+# Kapitel 17 — Leni
 
 Ich schlug sie nicht sofort auf.
 
@@ -3739,7 +4138,7 @@ Das war ein neues Wort.
 
 ---
 
-# Kapitel 16 — Jonas
+# Kapitel 18 — Jonas
 
 Ich rief vier Tage nicht an.
 
@@ -3957,7 +4356,7 @@ Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.
 
 ---
 
-# Kapitel 17 — Leni
+# Kapitel 19 — Leni
 
 Am neunten Dezember, zwanzig nach zwei nachts, wachte ich auf, weil es
 zu still war.
@@ -4201,7 +4600,7 @@ Nicht dir.“
 
 ---
 
-# Kapitel 18 — Jonas
+# Kapitel 20 — Jonas
 
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
@@ -4433,7 +4832,7 @@ einzigen Morgen daran gedacht, sie zu fragen.
 
 ---
 
-# Kapitel 19 — Leni
+# Kapitel 21 — Leni
 
 Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
 also mit der Post, die eigentlich niemand mehr bekommt.
@@ -4674,7 +5073,7 @@ Ich habe ihn erst im Februar wieder abgenommen.
 
 ---
 
-# Kapitel 20 — Jonas
+# Kapitel 22 — Jonas
 
 Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
 wachte um vier auf und wusste, dass ich es tun werde.
@@ -4887,7 +5286,7 @@ Ich kam um sieben.
 
 ---
 
-# Kapitel 21 — Leni
+# Kapitel 23 — Leni
 
 Die Mail kam am dreiundzwanzigsten Dezember um neun Uhr vierzehn.
 
@@ -5166,7 +5565,7 @@ Er hat es trotzdem drei Tage lang jeden Abend gefragt.
 
 ---
 
-# Kapitel 22 — Jonas
+# Kapitel 24 — Jonas
 
 Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
 und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
@@ -5380,7 +5779,7 @@ gestellt.“
 
 ---
 
-# Kapitel 23 — Leni
+# Kapitel 25 — Leni
 
 Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
 Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich
@@ -5426,8 +5825,10 @@ Nach dem Zubettbringen ging ich runter, weil ich die Kasse nicht
 abgerechnet hatte, und weil man an Heiligabend um halb neun allein in
 einer Wohnung über einem geschlossenen Café nicht sitzen bleiben kann.
 
-Die Schublade unter der Kasse klemmt seit Oktober. Man muss sie anheben
-und dann ziehen.
+Die Schublade unter der Kasse geht seit Oktober leicht, seit jemand sie
+an einem Freitagmorgen mit einem Hobel und einem Stück Kerzenwachs
+repariert hat, und ich habe mich seitdem nicht ein einziges Mal daran
+gewöhnt.
 
 Drin lagen: der Brief von der Bank vom vierten Dezember. Der Stein vom
 Elbstrand. Die blaue Mappe. Und ganz hinten, unter dem
@@ -5616,7 +6017,7 @@ das mache ich schon selbst.“
 
 ---
 
-# Kapitel 24 — Jonas
+# Kapitel 26 — Jonas
 
 Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
 Telefonat, so gut er es erinnerte, und zweimal wörtlich.
@@ -5825,7 +6226,7 @@ mich nie wieder anrufen.“
 
 ---
 
-# Kapitel 25 — Leni
+# Kapitel 27 — Leni
 
 Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
 sechs Absätze, kein Gruß von irgendjemandem.
@@ -6083,7 +6484,7 @@ sagen, was von ihr das Größte ist, was es gibt.
 
 ---
 
-# Kapitel 26 — Jonas
+# Kapitel 28 — Jonas
 
 Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
 
@@ -6314,7 +6715,7 @@ Ich hatte vergessen, dass Marlene Voss alles liest.
 
 ---
 
-# Kapitel 27 — Leni
+# Kapitel 29 — Leni
 
 Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
 
@@ -6596,7 +6997,334 @@ Diesmal habe ich es geglaubt.
 
 ---
 
-# Kapitel 28 — Jonas
+# Kapitel 30 — Jonas
+
+Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
+auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
+Arbeit ist.
+
+**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
+Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
+Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
+und Apfel, den ich seitdem sofort wiedererkenne.
+
+Frau Özdemir, die die Gruppe leitet, erklärte mir die Regeln in vier
+Sätzen: Sie sitzen. Sie spielen nicht. Sie rufen nicht. Wenn er kommt,
+sind Sie da; wenn er nicht kommt, sind Sie trotzdem da.
+
+Ich saß sechzig Minuten auf einem Stuhl von einunddreißig Zentimetern
+und tat nichts.
+
+Emil hat in dieser Stunde dreimal zu mir hergesehen. Beim dritten Mal
+hat er gewinkt, und ich habe zurückgewinkt, und Frau Özdemir hat gesagt:
+„Nicht winken. Nur da sein.“
+
+**Tag zwei.** Emil hat einen anderen Jungen geschubst. Ich bin
+aufgestanden. Frau Özdemir hat den Kopf geschüttelt, ohne mich anzusehen,
+und ich habe mich wieder hingesetzt, und eine Erzieherin hat das in
+elf Sekunden geregelt, ohne dass jemand geweint hat.
+
+Ich habe an diesem Tag verstanden, dass ich nicht gebraucht werde, und
+dass genau das die Übung ist.
+
+**Tag drei.** Der erste Trennungsversuch. Ich gehe raus, zwei Minuten,
+in den Flur, und komme wieder.
+
+Er hat nicht gemerkt, dass ich weg war.
+
+Ich habe zwei Minuten in einem Kita-Flur gestanden, zwischen
+Gummistiefeln und einer Wand mit vierzehn Fotos, und war beleidigt. Ich
+schreibe das hin, weil es die Wahrheit ist: Ein Mann von
+sechsunddreißig, Geschäftsführer, war beleidigt, weil ein
+Einundzwanzigmonatiger ihn nicht vermisst hat.
+
+**Tag vier.** Fünf Minuten. Er hat gemerkt, dass ich weg war, und hat
+weitergespielt.
+
+Frau Özdemir sagte: „Das ist das Beste, was passieren kann.“
+
+„Warum?“
+
+„Weil er weiß, dass Sie wiederkommen.“ Sie räumte Becher ein. „Kinder,
+die nicht merken, dass jemand geht, haben es sich abgewöhnt. Kinder, die
+merken und weiterspielen, haben Vertrauen. Das sind zwei völlig
+verschiedene Sachen, und sie sehen von außen gleich aus.“
+
+Ich habe an diesem Vormittag an meine Mutter gedacht, an den Satz aus
+dem Café: *Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt
+hat, jemanden zu brauchen.*
+
+Ich habe zum ersten Mal begriffen, dass das kein Vorwurf an sie war.
+Es war eine Warnung.
+
+---
+
+**Tag fünf.** Zwanzig Minuten. Ich bin in ein Café an der Ecke gegangen
+und habe einen Kaffee getrunken, der schlecht war, und drei Mails
+beantwortet.
+
+Ich habe in diesen zwanzig Minuten dreimal aufs Telefon gesehen.
+
+**Tag sechs.** Vierzig Minuten. Rückschlag: Er hat geweint, als ich
+ging, und Frau Özdemir hat mich trotzdem gehen lassen und nach
+achtundzwanzig Minuten geschrieben, dass er seit fünfundzwanzig Minuten
+mit dem Wasserhahn spielt.
+
+**Tag sieben.** Der ganze Vormittag. Ich habe zu Hause gesessen und
+gearbeitet und um elf gemerkt, dass ich seit einer Stunde dieselbe Seite
+lese.
+
+**Tag acht.** Er ist morgens allein in die Garderobe gelaufen und hat
+versucht, seine Jacke auf den Haken zu hängen, was nicht funktioniert
+hat, weil der Haken auf einem Meter zehn sitzt und Emil auf sechsundachtzig
+Zentimetern.
+
+Frau Özdemir hat gesagt: „Er ist drin.“
+
+Ich habe gefragt, ob das heißt, dass wir fertig sind.
+
+Sie hat gesagt: „Sie sind fertig. Er fängt an.“
+
+---
+
+An diesen acht Vormittagen habe ich Dinge gelernt, die in keiner
+Übergabe stehen und die ich hier aufschreibe, weil ich sie sonst wieder
+vergesse.
+
+Ein Kind mit einundzwanzig Monaten braucht für den Weg von der Tür zur
+Garderobe zwischen vierzig Sekunden und elf Minuten, und man kann nicht
+vorher wissen, welches von beidem.
+
+Man zieht die Schuhe im Sitzen an, nicht im Stehen, und man fängt mit
+dem Fuß an, den das Kind hinstreckt, nicht mit dem linken.
+
+Wenn ein Kind fällt und einen ansieht, bevor es weint, entscheidet das
+Gesicht des Erwachsenen, ob geweint wird. Das ist keine Erziehungsfrage,
+das ist Physik.
+
+Und: Es gibt in dieser Gruppe genau eine andere Person, die morgens
+allein kommt, ein Vater namens Ole, der bei der Hafenbahn arbeitet und
+mit dem ich seitdem zweimal die Woche vier Sätze wechsle. Er hat mich
+am zweiten Tag gefragt, was ich beruflich mache, und ich habe gesagt:
+Immobilien.
+
+„Oh“, hat er gesagt. „Und, viel zu tun?“
+
+Ich habe gesagt: „Geht so.“
+
+Das war die erste Unterhaltung seit Jahren, in der niemand wusste, wer
+ich bin, und ich habe nachts noch daran gedacht.
+
+---
+
+Am fünften Vormittag stand Marlene um zehn plötzlich in der Tür.
+
+Sie war dienstags nie da. Dienstag ist Backtag; sie hat den ganzen
+Vormittag Blätterteig, sie kann nicht weg, das war der ganze Grund,
+warum sie mich gefragt hat.
+
+„Ich wollte nur sehen, wie es aussieht“, sagte sie.
+
+Wir standen zusammen im Flur, zwischen den Gummistiefeln, und sahen
+durch die Scheibe in der Tür.
+
+Emil saß am kleinen Tisch und schob einen Becher hin und her. Er hat
+uns nicht bemerkt.
+
+„Er sitzt da, als wäre er immer schon da gewesen“, sagte sie.
+
+„Ja.“
+
+„Ich habe achtzehn Monate lang gedacht, ich kann ihn nirgends hingeben.“
+Sie sah nicht weg von der Scheibe. „Und jetzt steht er da und braucht
+mich zwei Stunden lang nicht, und ich stehe hier und weiß nicht, ob ich
+erleichtert bin oder ob mir schlecht ist.“
+
+„Beides“, sagte ich. „Sagt Frau Özdemir.“
+
+Sie lachte, einmal, kurz.
+
+Und dann stand sie noch eine Minute da, und ich stand daneben, und
+irgendwann hat sie ihre Hand an meinen Ärmel gelegt — nicht in meine
+Hand, an den Ärmel, wie man das macht, wenn man sich an etwas festhält,
+das zufällig da ist.
+
+Wir haben beide nichts dazu gesagt.
+
+Als sie ging, sagte sie an der Treppe: „Danke, dass du acht gemacht
+hast und nicht drei.“
+
+„Ich habe acht gehört.“
+
+„Ich weiß“, sagte sie. „Deshalb sage ich es ja.“
+
+---
+
+# Kapitel 31 — Leni
+
+Der März war der Monat, in dem alles gleichzeitig funktionierte, und
+genau deshalb war er schwer.
+
+Das klingt undankbar. Ich versuche es zu erklären.
+
+Seit dem siebenundzwanzigsten Januar habe ich keine Schulden. Seit dem
+achtzehnten Februar ist Emil vormittags in der Kita. Seit dem
+einundzwanzigsten läuft der neue Ofen, der links dieselbe Temperatur hat
+wie rechts, worüber ich in der ersten Woche zweimal geweint habe, und
+zwar beide Male aus dem falschen Grund.
+
+Zum ersten Mal seit sechs Jahren habe ich vormittags drei Stunden, in
+denen niemand etwas von mir will.
+
+Ich habe in der ersten Woche nicht gewusst, was ich damit machen soll.
+
+---
+
+Ich habe angefangen, die Bücher aufzuräumen.
+
+Nicht die Buchhaltung — die macht Sievers. Die Bücher: das Kassenbuch
+meiner Großmutter, die Chronik im Flur, drei Kartons mit Rechnungen aus
+den Neunzigern, die im dritten Stock standen und die niemand je
+angesehen hat.
+
+In der zweiten Woche fand ich in einem dieser Kartons einen Umschlag mit
+Fotos von der Rösterei. 1968, glaube ich. Meine Großmutter steht neben
+einer Maschine, die höher ist als sie, und sieht in die Kamera, als
+hätte man sie bei etwas gestört.
+
+Auf der Rückseite steht in ihrer Handschrift: *Erste eigene Röstung.
+Hat nicht geschmeckt.*
+
+Ich habe das Foto in den Flur gehängt, neben die Chronik.
+
+---
+
+Die Bohrpfähle kamen am zehnten März.
+
+Drei Tage, und ich habe zu, weil man in einem Café nicht sitzen kann, in
+dem der Boden schlägt. Reinhardt Immobilien hat den Ausfall ersetzt,
+ohne dass ich fragen musste, weil das in dem Vertrag von September
+steht, in einem Absatz, den Herr Sievers hineinverhandelt hat, als noch
+niemand ahnte, was daraus wird.
+
+Ich habe Sievers deswegen angerufen und mich bedankt.
+
+Er hat gesagt: „Das war mein Job, Frau Voss.“ Und dann, nach einer
+Pause: „Ich hatte damals unrecht, übrigens. Mit dem Verkaufen.“
+
+„Sie hatten nicht unrecht. Es war der vernünftigere Rat.“
+
+„Ja“, sagte er. „Der vernünftigere.“
+
+---
+
+Und jetzt der Teil, der schwer war.
+
+Jonas kam in diesem Monat dienstags, donnerstags und freitags. Er hatte
+keinen Schlüssel, er hat jedes Mal geklingelt, und wir hatten eine
+Verabredung, die von mir kam und die albern klingt: einmal in der Woche,
+donnerstags, wenn Emil im Bett ist, sagt jeder von uns einen wahren
+Satz.
+
+Meiner am vierten Donnerstag war der schwerste.
+
+„Ich bin nicht sicher, ob ich dich liebe oder ob ich erleichtert bin.“
+
+Er hat lange nichts gesagt. Dann: „Danke.“
+
+„Danke?“
+
+„Du hättest das nicht sagen müssen.“ Er drehte die Tasse. „Ich hätte es
+nicht gemerkt.“
+
+„Doch“, sagte ich. „Irgendwann schon.“
+
+---
+
+Ich habe im März zum ersten Mal seit zwei Jahren wieder Angst gehabt,
+und diesmal war es eine andere.
+
+Die alte Angst hatte einen Namen und einen Betrag: zweihundertvierzehn-
+tausendachthundert. Die neue hat keinen.
+
+Sie geht so: Alles, was uns bisher zusammengehalten hat, war ein
+Problem. Erst das Haus, dann Emil, dann die Bank. Wir haben nie eine
+Woche gehabt, in der es nichts zu regeln gab.
+
+Und jetzt gibt es nichts mehr zu regeln.
+
+Ich habe das an einem Dienstagabend Frau Kettler gesagt, weil sie
+zufällig da war und weil man ihr Dinge sagt, ohne es vorzuhaben.
+
+Sie hat den Lappen ausgewrungen und gesagt: „Und?“
+
+„Was und?“
+
+„Dann finden Sie es jetzt raus.“ Sie hängte den Lappen über den Hahn.
+„Frau Voss, Sie reden, als wäre das ein Unglück. Die meisten Leute
+kommen nie in die Lage.“
+
+---
+
+Am siebenundzwanzigsten März ist etwas passiert, das ich hier
+aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
+nicht das Abendessen im Mai.
+
+Es war ein Freitag. Jonas hatte Emil geholt, sie waren am Elbstrand,
+und ich hatte den Laden allein und war fertig um sechs.
+
+Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
+einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
+der Kasse.
+
+Er kann sie nicht aufziehen. Er ist einundzwanzig Monate alt und
+sechsundachtzig Zentimeter groß, und die Schublade ist auf einem Meter.
+
+Er stand davor und streckte den Arm hoch und sagte: „Da.“
+
+Ich habe die Schublade aufgezogen — sie geht seit Oktober leicht — und
+ihn hochgehoben, und er hat den Stein hineingelegt, zu dem anderen, dem
+vom November.
+
+Und dann hat er sie selbst zugeschoben, mit beiden Händen.
+
+Jonas stand in der Tür, in dem grünen Anorak aus dem Fundkorb, den er
+inzwischen behalten hat, und sah zu.
+
+„Wusstest du, dass er das weiß?“, fragte er.
+
+„Nein“, sagte ich.
+
+In dieser Schublade lagen: der Brief von der Bank vom vierten Dezember.
+Die blaue Mappe mit dem Etikett. Der Anspitzer. Der Zettel vom
+siebenundzwanzigsten Oktober, den ich nie weggeworfen habe. Zwei Steine.
+
+Es ist die Schublade, in der ich zwei Jahre lang alles aufbewahrt habe,
+was ich niemandem gezeigt habe.
+
+Und mein Sohn benutzt sie inzwischen für seine Steine.
+
+---
+
+Ich habe an diesem Abend, nachdem sie beide weg waren — Emil oben,
+Jonas nach Hause —, die Schublade noch einmal aufgemacht und den Zettel
+herausgenommen.
+
+*Emil ist deiner.*
+
+Vier Wörter, viermal umgeschrieben, hundertdreißig Tage lang nicht
+gesagt.
+
+Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
+Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
+
+Wenn Emil ihn irgendwann findet, ist er alt genug, um zu fragen.
+
+Und dann ist die Antwort ein Name und keine Lücke.
+
+---
+
+# Kapitel 32 — Jonas
 
 Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
 vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als

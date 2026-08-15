@@ -97,54 +97,48 @@ und am Montag läuft ihre Frist ab. → Band 2.
 
 ## Länge — die Entscheidung, die jetzt ansteht
 
-**Stand des Ausbaus: 35.692 von 65.000 Wörtern.** Schnitt 1.275 je
-Kapitel, Ziel 2.400.
+**Stand: 39.610 Wörter in 32 Kapiteln.** Ziel 65.000.
 
-Gemessen, wie lang es sein müsste (`../KDP-NISCHEN.md`, „Wie lang sind
-die Spitzentitel?"): Median 291 bis 337 Druckseiten, bei 200 bis 250
-Wörtern je Seite also **65.000 bis 82.000 Wörter**.
+Gemessen, wie lang es sein müsste (`../KDP-NISCHEN.md`): Median 291 bis
+337 Druckseiten, also **65.000 bis 82.000 Wörter**.
 
-**Alle 28 Kapitel sind angefasst.** Der erste Durchgang des Ausbaus ist
-durch: In jedem Kapitel steht mindestens eine neue Szene, und keine
-davon ist Füllmaterial — jede pflanzt etwas, das später zahlt, oder
-zeigt etwas, das bisher nur behauptet war.
+| | erster Entwurf | nach Durchgang 2 | jetzt |
+|---|---:|---:|---:|
+| Kapitel | 28 | 28 | **32** |
+| Wörter | 30.575 | 35.692 | **39.610** |
+| Schnitt | 1.092 | 1.275 | 1.238 |
 
-| | erster Entwurf | jetzt |
-|---|---:|---:|
-| Wörter | 30.575 | **35.692** |
-| Schnitt je Kapitel | 1.092 | **1.275** |
-| kürzestes Kapitel | 897 | 1.016 |
-| längstes Kapitel | 1.466 | 1.963 |
+**Vier neue Kapitel**, eingeschoben an den zwei Stellen, an denen die
+Handlung am stärksten sprang — als Paare, damit der Perspektivwechsel
+Leni/Jonas erhalten bleibt:
 
-**Was der zweite Durchgang gebracht hat, inhaltlich:**
+| neu | Figur | Was |
+|---|---|---|
+| 9 | Leni | Oktober: Sie sagt es Sanne zum ersten Mal laut. Emil macht den Laut mit dem harten Anfang. Der Zettel entsteht — 130 Tage vor dem Satz. |
+| 10 | Jonas | Der Sonntag, an dem er vor dem Haus hält und nicht aussteigt. Der Kalenderzettel seines Vaters von 1997: *R. fragen? — nein. Erst regeln.* Er repariert die Schublade. |
+| 30 | Jonas | Die acht Vormittage Eingewöhnung, Tag für Tag. *„Sie sind fertig. Er fängt an."* |
+| 31 | Leni | Der März: alles funktioniert gleichzeitig, und genau das ist schwer. Emil legt selbst einen Stein in die Schublade. |
 
-- Der **Oktober des Verliebens** war eine Zusammenfassung und ist jetzt
-  zwei ausgeschriebene Abende (Kap. 8), plus dieselben Abende von ihrer
-  Seite (Kap. 9).
-- **Travemünde** war eine Zusammenfassung und ist jetzt eine Szene
-  (Kap. 3).
-- **Beide Wohnungen** existieren jetzt: seine leere im dritten Stock
-  (Kap. 4), ihr Haus vom Keller bis zu den leeren Etagen (Kap. 25).
-- **Der März** war ein Halbsatz und ist jetzt eine Szene mit Bohrpfählen
-  und Theos Baum (Kap. 28).
-- **Zahlen statt Andeutungen:** Lenis Nachtrechnung mit echten Posten
-  (Kap. 19), vierzig Bilder auf fünfhundertvierzig Tage (Kap. 12), der
-  Bestand der Firma (Kap. 26).
+**Umnummeriert mit `scripts/einschieben.py`** — das Werkzeug prüft den
+Perspektivwechsel, bevor es irgendetwas umbenennt, und schreibt nichts,
+wenn er bricht.
 
-**Was noch fehlt: rund 29.000 Wörter.**
+**Zwei selbst gebaute Widersprüche, beim Gegenlesen gefunden:** Das neue
+Kapitel 10 ließ die Projektkosten von 4,2 auf 4,6 Millionen steigen —
+aber der Beirat nennt zwei Kapitel später 4,2. Jetzt steigt sie von 3,8
+auf 4,2 und wird damit zu der Zahl, die im Protokoll steht. Und die
+Schublade, die Jonas im Oktober repariert, klemmte im Dezember wieder.
 
-Der Weg dahin ist nicht mehr „eine Szene je Kapitel", sondern ein
-dritter Durchgang, in dem die dreizehn Kapitel unter 1.200 Wörtern
-(5, 7, 9, 11, 13, 14, 15, 16, 17, 18, 20, 22, 24) je eine **zweite**
-Szene bekommen, und in dem die vier Stellen ausgebaut werden, an denen
-die Handlung heute springt:
+**Was noch fehlt: rund 25.000 Wörter.** Der Weg dahin sind weitere
+Kapitelpaare an den verbliebenen Sprungstellen:
 
-| Stelle | Was fehlt |
-|---|---|
-| Kap. 9 → 10 | die zwei Wochen vor der Beiratssitzung |
-| Kap. 16 → 17 | die zwei Wochen zwischen Mappe und Fieberkrampf |
-| Kap. 24 → 25 | die Jahreswende, während das Gutachten läuft |
-| Kap. 27 → 28 | die acht Vormittage Eingewöhnung, heute ein Absatz |
+| Stelle | Was fehlt | ca. |
+|---|---|---:|
+| nach Kap. 14 (Mittelpunkt) | die erste Woche, in der Jonas Vater ist | +4.000 |
+| nach Kap. 20 (Mappe) | die zwei Wochen bis zum Fieberkrampf | +4.000 |
+| nach Kap. 23 (Kündigung) | Lenis Bankgänge, drei Absagen einzeln | +4.000 |
+| nach Kap. 26 (Kellermann) | die Jahreswende, während das Gutachten läuft | +4.000 |
+| bestehende Kapitel unter 1.200 | je eine zweite Szene | +9.000 |
 
 **Der zweite Durchgang läuft.** Block 1 ist fertig.
 

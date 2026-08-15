@@ -1,174 +1,117 @@
 # Kapitel 11 — Leni
 
-*Nicht heute. Bitte.*
+Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
+alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
+Emils Fläschchen ausspülte.
 
-Ich habe zwei Nächte gebraucht, um zu verstehen, was ich da gesagt hatte.
+„Der Mann, der abends bei Ihnen sitzt.“
 
-Nicht *nein*. Nicht *da ist nichts*. Nicht *das ist der Sohn einer
-Freundin*.
+„Herr Reinhardt.“
 
-**Nicht heute.**
+„Ja.“ Sie stellte das Fläschchen auf das Abtropfbrett. „Ich habe ihn
+angesehen, als er nicht hingesehen hat. Er hat dieselbe Stirn wie der
+Kleine.“
 
-Das ist kein Leugnen. Das ist eine Terminverschiebung. Ich hatte ihm mit
-zwei Wörtern zugegeben, dass es etwas gibt, und ihn gleichzeitig gebeten,
-nicht danach zu fragen — und er hatte nicht gefragt.
+Ich sagte nichts.
 
-Frau Kettler hätte gesagt: *Es geht nie gut aus, wenn der andere es
-selbst herausfindet.*
+„Frau Voss.“ Sie drehte sich um und trocknete sich die Hände an der
+Schürze. „Ich bin einundsechzig. Ich habe drei Kinder großgezogen und
+neun fremde. Ich weiß, wann mich etwas nichts angeht.“
 
-Er hatte es sich selbst nicht herausfinden lassen. Er hatte gewartet.
+„Aber?“
 
-Und das war schlimmer.
+„Aber ich weiß auch, wie das ausgeht, wenn es lange genug dauert.“ Sie
+nahm ihren Mantel vom Haken. „Es geht nie gut aus, wenn der andere es
+selbst herausfindet. Nie.“
 
----
+Sie ging.
 
-Am Samstag war Sankt Martin, und in der Speicherstadt zogen die Kinder
-mit Laternen durch die Gassen, was hier besonders schön ist, weil sich
-das Licht im Fleet doppelt.
-
-Emil hatte eine Laterne, die er selbst gebastelt hatte, was bedeutet, dass
-Frau Kettler sie gebastelt hatte und Emil zwei Aufkleber draufgeklebt
-hatte, beide an derselben Stelle.
-
-Ich hatte das Café offen gelassen und Kinderpunsch verkauft, und um sieben
-war der Zug vorbei und die Gasse leer und ich stand mit Emil auf dem Arm
-vor der Tür und sah den letzten Laternen nach.
-
-„Frau Voss?“
-
-Eine Frau Anfang sechzig, mit einem Stock, und neben ihr —
-
-„Mama“, sagte Jonas. „Das ist —“
-
-„Marlene“, sagte die Frau. „Ja. Ich weiß.“
-
-Und dann sah sie Emil an.
+Ich stand in meiner Küche, und Emil saß im Hochstuhl und trommelte mit
+einem Löffel, und ich dachte: *Ich weiß.*
 
 ---
 
-Ich habe in meinem Leben ein paar Sekunden erlebt, die länger dauerten,
-als die Uhr zulässt. Das war eine davon.
+Ich hatte in diesen Wochen zum ersten Mal seit langem abends jemanden
+gegenüber, und ich habe unterschätzt, was das mit einem macht.
 
-Sie sah Emil an. Emil sah sie an, mit dieser ernsten Musterung, die er
-Fremden gegenüber macht. Und Jonas’ Mutter — Renate Reinhardt, wie ich
-später erfuhr — stand da, die linke Hand am Stock, und ihr Gesicht
-veränderte sich überhaupt nicht.
+Es ist nicht das Reden. Ich rede den ganzen Tag, mit Herrn Osterkamp,
+mit Herrn Kubatz, mit den Handwerkern vom Umbau.
 
-Das war das Beeindruckendste, was ich je gesehen habe.
+Es ist, dass jemand die Antwort abwartet.
 
-„Wie heißt du denn?“, fragte sie.
+Am siebzehnten hat er mich gefragt, wann ich zuletzt im Urlaub war, und
+ich habe die Frage zurückgegeben, weil ich sie nicht beantworten wollte.
+Meine ehrliche Antwort wäre gewesen: 2019, drei Tage Sylt mit Sanne, und
+ich habe an allen drei Tagen die Umsätze der Vertretung kontrolliert.
 
-„Emil“, sagte ich, weil Emil es nicht sagt.
+Am neunzehnten habe ich ihm von meiner Mutter erzählt. Das war ein
+Fehler, nicht weil er es weitererzählen würde, sondern weil ich danach
+in den Backraum gehen musste, um etwas zu holen, das ich nicht brauchte.
 
-„Emil.“ Sie nickte. „Ein guter Name. Mein Vater hieß so.“
-
-Ich sah Jonas an. Er sah seine Mutter an. Und ich sah, dass er es nicht
-wusste — dass er den Namen seines Großvaters nicht mit einem Kind
-verband, das seine Mutter zum ersten Mal sieht.
-
-„Wir wollten nur schnell hallo sagen“, sagte er. „Ich fahre Mama nach
-Hause.“
-
-„Ich wollte“, sagte Renate Reinhardt, „das Café sehen, von dem mein Sohn
-seit sechs Wochen redet.“
-
-„Mama.“
-
-„Was?“ Sie sah ihn an. „Soll ich lügen?“
+Ich weiß, wie das aussieht. Ich wusste es auch damals.
 
 ---
 
-Sie kamen rein.
+Das Problem war nicht, dass ich es nicht sagen wollte.
 
-Renate Reinhardt ging langsam, mit dem Stock in der Rechten, und sie
-brauchte für die vier Meter bis zum Fenstertisch ungefähr so lange wie
-ich für die ganze Theke. Jonas ging neben ihr, ohne sie zu stützen, und
-ohne sie anzusehen, und ich verstand nach zwei Sekunden, dass das eine
-Abmachung war, an die sich beide seit Jahren halten.
+Das Problem war, dass ich es jeden Tag ein bisschen weniger konnte.
 
-Am Tisch setzte sie sich, atmete einmal aus und sah sich um, so wie
-Leute sich umsehen, die früher selbst gearbeitet haben.
+In den ersten Wochen wäre es ein Satz gewesen. *Jonas, ich muss dir etwas
+sagen.* Hart, aber sauber. Er hätte wütend sein können, und er hätte ein
+Recht darauf gehabt, und danach hätten wir eine Situation gehabt, mit der
+zwei Erwachsene umgehen.
 
-„Die Fliesen sind original“, sagte sie.
+Aber dann hatte er das Dach bezahlt.
 
-„Bis auf die Ecke.“
+Und dann hatte er den Entwurf geändert, sodass mein Haus stehen bleibt.
 
-„Die Ecke sieht man.“ Sie lächelte. „Das ist kein Vorwurf. Man soll sie
-sehen.“
+Und dann hatte er die Anruferliste auf meinen Tisch gelegt, mit dem
+Vermerk *erledigt*, und mir damit gesagt: *Ich glaube dir. Ich habe
+nachgesehen, und du hattest recht, und ich hatte unrecht.*
 
-Sie tranken jeder einen Kinderpunsch, weil nichts anderes
-mehr da war. Emil saß auf meinem Schoß und ließ sich von einer fremden
-Frau die Hand halten, was er sonst nie tut.
+Und dann hatte er Tische abgewischt.
 
-Renate Reinhardt sprach langsam. Man hörte den Schlaganfall in manchen
-Wörtern, in denen die Konsonanten zu weich wurden.
+Jeder dieser Tage machte den Satz schwerer. Nicht weil ich mehr zu
+verlieren hatte — sondern weil er jeden Tag mehr Anspruch darauf hatte,
+ihn früher gehört zu haben.
 
-Sie fragte, wie lange das Café schon existiert. Sie fragte, ob ich die
-Rezepte von meiner Großmutter habe. Sie fragte nicht ein einziges Mal
-nach Emils Vater.
+Man kann jemandem nicht sagen: *Ich habe es dir vier Wochen lang
+verschwiegen, während du mein Dach bezahlt hast.*
 
-Und irgendwann, als Jonas draußen war, um den Wagen zu holen, sagte sie:
-
-„Er war vierundzwanzig, als sein Vater starb.“
-
-„Ich weiß.“
-
-„Er hat drei Tage nicht geweint und dann die Firma übernommen.“ Sie sah
-in ihre Tasse. „Ich war damals nicht in der Lage, ihm zu helfen. Und
-danach war es zu spät, weil er es allein konnte. Wissen Sie, was das
-Schlimmste ist, was man einem Menschen antun kann? Ihn allein
-zurechtkommen lassen, bis er es sich abgewöhnt hat, jemanden zu brauchen.“
-
-Ich hielt Emil fester.
-
-„Ich habe im Krankenhaus gelegen“, sagte sie, „und er hat sechs Wochen
-lang jeden Abend an meinem Bett gesessen und Akten gelesen. Sechs Wochen,
-Frau Voss. Er hat in der Zeit sein eigenes Leben nicht angefasst.“
-
-Sie sah auf.
-
-„Er hat es nur nie jemandem erzählt. Er erzählt so etwas nicht. Er
-erklärt es, wenn man ihn zwingt, und es klingt dann wie eine Ausrede.“
-
-*Es gab damals eine Situation in der Familie.*
-
-Ich saß da mit dem Kind auf dem Schoß und wusste nicht, wohin mit mir.
+Man kann es. Es wird nur mit jeder Woche unmöglicher.
 
 ---
 
-Als er zurückkam, standen sie auf.
+Am zweiten Novemberwochenende fuhr Frau Kettler zu ihrer Tochter, und ich
+hatte Emil den ganzen Samstag.
 
-An der Tür drehte Renate Reinhardt sich noch einmal um und sagte, zu mir,
-sehr freundlich und völlig unmissverständlich:
+Wir gingen an den Elbstrand, weil es einer dieser unmöglichen
+Novembertage war, an denen die Sonne scheint und es trotzdem sechs Grad
+hat. Emil sammelte Steine. Er sammelte ausschließlich nasse Steine, weil
+nasse Steine glänzen, und er war jedes Mal enttäuscht, wenn sie in der
+Jackentasche trockneten.
 
-„Er ist ein guter Mensch, mein Sohn. Aber er ist es gewohnt, dass man ihm
-Dinge nicht sagt. Machen Sie das nicht auch.“
+Ich saß auf einem Findling und sah ihm zu.
 
-Dann gingen sie.
+Er hat Jonas’ Stirn. Frau Kettler hatte recht. Er hat auch dessen Art, sich
+etwas anzusehen, bevor er es anfasst — dieses kurze Innehalten, das bei
+einem achtzehn Monate alten Menschen komisch wirkt und bei einem
+sechsunddreißigjährigen Mann in einer Vorstandssitzung vermutlich
+beeindruckend.
 
----
+„Emil“, sagte ich.
 
-Ich brachte Emil ins Bett und setzte mich in die Küche und schrieb noch
-eine Liste, wie in der Nacht davor, weil ich anders nicht denken kann.
+Er sah hoch.
 
-**Was passiert, wenn ich es sage:**
-– Er ist wütend.
-– Er hat recht damit.
-– Er will das Kind sehen. Vielleicht mehr.
-– Vielleicht will er nichts.
-– Vertrag, Dach, Hof: unklar.
-– Er wird nie wieder abends hier sitzen.
+„Ich bin ein Feigling.“
 
-**Was passiert, wenn ich es nicht sage:**
-– Es kommt trotzdem raus.
-– Und dann ist es das.
+„Da“, sagte Emil und hielt mir einen Stein hin.
 
-Ich saß eine halbe Stunde davor.
+„Danke.“
 
-Dann strich ich die zweite Spalte durch und schrieb darunter, in
-Großbuchstaben, weil man das nachts um elf am Küchentisch macht:
-
-**ES GIBT KEINE ZWEITE SPALTE.**
+Ich steckte ihn ein. Er ist heute noch in der Schublade unter der Kasse,
+neben dem Brief von der Bank, den ich aufgehoben habe, weil man solche
+Briefe aufhebt.
 
 ---
 
@@ -176,21 +119,104 @@ Am Montag rief ich ihn an.
 
 „Reinhardt.“
 
-„Können Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft.“
+„Ich bin’s.“
 
-Am anderen Ende war es einen Moment still, und in dieser Stille lag alles,
-weil ich zum ersten Mal Emils Namen gesagt hatte, ohne dass er gefragt
-hatte.
+„Marlene.“ Ich hörte, dass er lächelte, und ich hasste mich ein bisschen
+dafür, wie gut sich das anfühlte. „Ist etwas mit dem Hof?“
 
-„Ja“, sagte Jonas.
+„Nein. Ich —“ Ich sah aus dem Fenster auf das Gerüst. „Ich wollte fragen,
+ob Sie Donnerstag kommen.“
 
-„Es dauert länger.“
+„Ich komme jeden Donnerstag.“
 
-„Ich habe Zeit.“
+„Ich weiß. Ich wollte trotzdem fragen.“
 
-Ich legte auf, ging in den Backraum und machte den Ofen an, obwohl ich
-nichts zu backen hatte.
+Eine Pause.
 
-Man kann sehr viel nicht denken, während man Blätterteig tourniert.
+„Marlene, ist alles in Ordnung?“
 
-Zwei Tage lang reichte es nicht.
+Und da hatte ich es. Die offene Tür. Er hatte gefragt, ohne zu fragen, und
+ich hätte nur sagen müssen: *Nein.*
+
+„Ja“, sagte ich. „Alles gut. Bis Donnerstag.“
+
+Ich legte auf und stand eine Weile mit dem Telefon in der Hand.
+
+---
+
+Donnerstag kam er um halb sieben, und es regnete wieder, und er hatte
+diesmal einen Mantel dabei und trug ihn trotzdem nicht.
+
+Wir arbeiteten anderthalb Stunden am Entwässerungsplan, was ungefähr so
+romantisch ist, wie es klingt. Um kurz nach acht schob er den Plan weg.
+
+„Ich muss Ihnen etwas sagen“, sagte er.
+
+Mein Herz machte etwas Unangenehmes.
+
+„Ja?“
+
+„Am fünfzehnten ist die Beiratssitzung. Da wird der Entwurf beschlossen —
+Ihrer, mit dem Hof.“ Er drehte die Tasse in der Hand. „Es gibt zwei
+Leute im Beirat, die das für einen Fehler halten. Sie werden fragen,
+warum wir vier Komma zwei Millionen liegen lassen für ein Kontorhaus, das
+nicht mal besonders schön ist.“
+
+„Und was sagen Sie dann?“
+
+„Dass der Entwurf besser ist. Was stimmt.“ Er sah auf. „Aber sie werden
+weiterfragen, und irgendwann wird jemand fragen, ob ich die Eigentümerin
+kenne.“
+
+Ich stellte meine Tasse ab.
+
+„Und?“
+
+„Und ich werde ja sagen.“
+
+„Sie könnten nein sagen.“
+
+„Ich könnte nein sagen“, stimmte er zu. „Und dann würde in drei Monaten
+jemand herausfinden, dass ich sie kenne, und dann wäre es nicht mehr ein
+Entwurf, der besser ist. Dann wäre es Vetternwirtschaft.“
+
+Er strich sich über das Gesicht, und ich sah, wie müde er war.
+
+„Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
+Zweifel vor dem Beirat trägt“, sagte er. „Und das hier trägt nur, wenn
+ich es vorher sage. Also sage ich es vorher.“
+
+---
+
+Ich saß da und sah ihn an, und mir wurde langsam übel.
+
+Er saß in meinem Café und erklärte mir, warum man unangenehme Wahrheiten
+lieber selbst ausspricht, bevor jemand anderes sie findet.
+
+„Jonas“, sagte ich.
+
+„Ja?“
+
+Die Tür ging auf. Zwei Handwerker vom Nachbarhaus, klatschnass, laut,
+fröhlich. „Frau Voss, ist noch was da? Egal was.“
+
+Ich stand auf.
+
+„Einen Moment“, sagte ich, zu ihnen und zu ihm gleichzeitig.
+
+Als ich zurückkam, hatte er den Plan wieder aufgerollt und stand am
+Fenster, und der Moment war weg, so wie diese Momente immer weggehen —
+nicht mit einem Knall, sondern weil jemand zwei Franzbrötchen will.
+
+„Ich muss los“, sagte er. „Sitzung morgen früh.“
+
+„Ja.“
+
+An der Tür drehte er sich um.
+
+„Was wollten Sie sagen?“
+
+Ich stand hinter der Theke, mit dem Tuch in der Hand, in dem Licht, das
+um diese Zeit von der Straße hereinkommt.
+
+„Viel Glück am Fünfzehnten“, sagte ich.

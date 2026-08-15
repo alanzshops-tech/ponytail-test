@@ -1,238 +1,241 @@
 # Kapitel 19 — Leni
 
-Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
-also mit der Post, die eigentlich niemand mehr bekommt.
+Am neunten Dezember, zwanzig nach zwei nachts, wachte ich auf, weil es
+zu still war.
 
-Er war kurz. Ich habe ihn so oft gelesen, dass ich ihn auswendig kann.
+Das ist der Sinn dieser Geräte, die man an das Bettgitter klemmt: Man
+schläft nicht durch das Rauschen, man wacht durch dessen Fehlen auf.
 
-*…kündigen wir hiermit die oben bezeichneten Darlehensverträge fristlos.
-Der Gesamtbetrag von 214.600,00 € ist zur Rückzahlung fällig. Wir setzen
-Ihnen eine letzte Frist bis zum 15.01. Nach fruchtlosem Ablauf werden
-wir die Verwertung der Sicherheiten einleiten.*
+Emil lag auf dem Rücken, was er nie tut, und war heiß wie ein Backblech.
 
-*Verwertung der Sicherheiten* heißt Zwangsversteigerung. Das musste ich
-nicht nachschlagen. Ich hatte es im Sommer schon nachgeschlagen, für den
-Fall.
+39,8.
 
-Emil saß im Hochstuhl und aß Grießbrei, und ich stand mit dem Brief in
-der Küche und wartete darauf, dass es mich umhaut.
+Ich hatte alles. Ich hatte Zäpfchen, ich hatte Wadenwickel, ich hatte
+die Nummer der Kinderärztin im Handy und den Ablauf im Kopf, weil ich
+diesen Ablauf allein zweiundzwanzigmal durchgespielt habe, seit es ihn
+gibt.
 
-Es haute mich nicht um.
-
-Das habe ich damals für Stärke gehalten. Es war Übung.
+Und dann fing er an zu zucken.
 
 ---
 
-Ich habe zwischen dem vierten und dem achten drei Nächte lang gerechnet,
-und ich schreibe das Ergebnis hin, weil man es sonst für eine
-Redewendung hält.
+Ich habe in diesen Sekunden zwei Dinge gleichzeitig getan, die nicht
+zusammenpassen: Ich habe ihn auf die Seite gedreht, alles vom Bett
+geräumt und auf die Uhr gesehen — und ich habe dabei gedacht, ganz klar
+und ganz ruhig, dass ich hier allein bin und dass ich hier immer allein
+bin.
 
-Verkauf des Wagens: dreitausendzweihundert. Er ist von 2014 und ich
-brauche ihn für die Großmärkte.
-Auflösung der Lebensversicherung: neuntausendsechshundert, abzüglich
-Abschlag.
-Die zwei leeren Etagen an Reinhardt, sofort, nicht in fünfzehn Jahren:
-vielleicht sechzigtausend, und dann gehören sie mir nie wieder.
-Sanne: sie hat es nicht, und ich würde sie nicht fragen.
+Ich will das nicht ausführlich beschreiben. Es dauerte nach Aussage der
+Ärztin ungefähr neunzig Sekunden, und ich habe in diesen neunzig
+Sekunden eine Sache gelernt, die man nur einmal lernt: Es gibt keinen
+Teil von mir, den ich nicht sofort hergeben würde.
 
-Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
-dreiundsiebzigtausend.
+Ich rief 112. Ich sagte die Adresse zweimal falsch.
 
-Es fehlen zweihunderteinundvierzig.
+Und dann, während ich mit dem Telefon zwischen Schulter und Ohr auf dem
+Boden des Kinderzimmers saß, wählte meine linke Hand eine zweite Nummer,
+ohne dass mein Kopf beteiligt war.
 
----
+„Marlene?“
 
-Am achten war ich bei der Bank.
+„Emil krampft“, sagte ich. „Der Krankenwagen kommt. Kinderklinik
+Altona.“
 
-Herr Timm, dritter Stock, ein Büro mit einem Rollcontainer und einem
-Foto von zwei Kindern auf Skiern. Er war höflich. Er war so höflich, dass
-ich lieber angeschrien worden wäre.
+„Ich bin in zwölf Minuten da.“
 
-Ich hatte drei Dinge dabei: die Umsätze der letzten sechs Monate, die
-seit August zum ersten Mal wieder steigen. Einen Vorschlag für einen
-Ratenplan über achtzehn Monate. Und eine schriftliche Zusage der
-Handelskammer über einen Beratungszuschuss, den ich in vier Wochen
-zusammengebettelt hatte.
-
-Er sah sich alles an. Er sah es sich wirklich an, das muss ich sagen.
-
-„Frau Voss, ich kann das nicht entscheiden.“
-
-„Wer kann es entscheiden?“
-
-„Im Moment niemand hier.“ Er legte die Hände flach auf den Tisch. „Ich
-sage Ihnen mehr, als ich darf. Wir bereinigen zum Jahresende. Ihr
-Engagement liegt in einem Paket, das bewertet wird. Solange das läuft,
-darf ich an den Konditionen nichts ändern, weil jede Änderung den Wert
-des Pakets verändert.“
-
-„Sie verkaufen meinen Kredit.“
-
-„Wir prüfen einen Verkauf.“
-
-„Und dann?“
-
-„Dann tritt jemand anderes in unsere Rechte ein.“ Er sagte es leise.
-„Das kann besser für Sie sein. Es kann auch schlechter sein. Ich weiß
-es nicht, und wer Ihnen das jetzt vorhersagt, lügt.“
-
-An der Tür sagte er noch: „Wenn Sie irgendwo zweihundert bekommen — bis
-zum Fünfzehnten geht alles.“
+Er war in neun.
 
 ---
 
-Ich bekam nirgendwo zweihundert.
+Der Notarzt war jung und ruhig und sagte das Wort *Fieberkrampf*, und
+es klang in seinem Mund wie *Schnupfen*, und ich habe diesen Mann dafür
+mehr geliebt als die meisten Menschen, die ich kenne.
 
-Ich war bei drei Banken. Eine hat mich freundlich weggeschickt, eine
-unfreundlich, und die dritte hat gerechnet und dann gefragt, wer im
-Notfall bürgt, und ich habe gesagt: niemand, und dann war das Gespräch
-zu Ende.
+„Das sieht schlimm aus und ist meistens harmlos“, sagte er. „Wir fahren
+trotzdem.“
 
-Ich habe die Zahlen ehrlich gemacht. Ich habe nichts geschönt. Das ist
-mein einziger Stolz aus diesem Dezember.
+Im Wagen saß ich vorn. Emil war hinten, festgeschnallt, wach, verheult,
+und alles roch nach Desinfektionsmittel.
 
----
-
-Am zwölften kam Frau Kettler in die Küche, als ich die Kontoauszüge
-sortierte, und blieb hinter mir stehen.
-
-„Ich habe elftausendvierhundert.“
-
-Ich drehte mich nicht um.
-
-„Frau Kettler.“
-
-„Auf einem Sparbuch. Für die Beerdigung.“ Sie schob einen Stuhl heran
-und setzte sich, was sie nie tut, wenn sie im Dienst ist. „Beerdigungen
-sind billiger geworden. Man kann sich jetzt verstreuen lassen.“
-
-„Ich nehme kein Geld von Ihnen.“
-
-„Das dachte ich mir.“ Sie faltete die Hände. „Ich sage es trotzdem, weil
-man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
-
-Wir saßen eine Weile.
-
-„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
-
-„Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
-Frau Voss. Nicht wegen des Geldes.“
-
-„Sondern?“
-
-„Damit Sie es einmal geübt hätten.“
+Jonas fuhr mit seinem Auto hinterher. Ich sah die Scheinwerfer in dem
+kleinen Fenster.
 
 ---
 
-Und jetzt der Teil, für den ich keine gute Erklärung habe, nur die
-wahre.
+Aufnahme, Kinderklinik, halb vier.
 
-Ich habe es Jonas nicht gesagt.
+Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
 
-Nicht am achten, nicht am zwölften, nicht am fünfzehnten.
+„Name des Kindes?“
 
-Ich hatte drei Gründe, und einer davon war sogar gut.
+„Emil Voss.“
 
-**Der gute:** In seiner eigenen Mappe, Reiter sechs, standen zwei Seiten
-darüber, dass die Kindesmutter Eigentümerin eines Objekts ist, an dem
-die Gesellschaft Erwerbsinteresse hat. Er hatte das im Beirat offengelegt
-und war dafür angegriffen worden. Wenn ich ihm jetzt sage, dass meine
-Bank kündigt, hat er genau zwei Möglichkeiten: Er hilft — und ist
-erledigt vor diesen sieben Leuten. Oder er hilft nicht — und wir wissen
-beide für den Rest unseres Lebens, dass er es nicht getan hat.
+„Geburtsdatum?“
 
-Ich wollte ihn nicht in dieses Zimmer stellen.
+„Achter Mai 2025.“
 
-**Der mittlere:** Ich wollte es allein schaffen. Ich hatte es fast
-geschafft. Die Umsätze stiegen. Noch ein Jahr, und die Zahlen hätten
-für mich gesprochen. Es fehlte ein Jahr, das ist alles, was mir gefehlt
-hat.
+„Versichert bei?“
 
-**Der schlechte:** Ich hatte Angst, dass er es *regelt*.
+Und so weiter, elf Fragen lang, während hinter mir mein Sohn in einem
+zu großen Bett lag und Jonas neben dem Bett stand und seinen Zeigefinger
+festhielt.
 
-Und wenn er es regelt, ist es nicht mehr mein Laden. Dann ist es der
-Laden, den er mir gelassen hat.
+Dann sah die Frau hoch, an mir vorbei.
 
----
+„Und der Herr?“
 
-Er kam in diesen zwei Wochen fast täglich.
+„Das ist —“
 
-Er hängte eine Lichterkette ins Schaufenster, die er selbst gekauft
-hatte, in der falschen Länge, und ich habe sie nicht umgetauscht und
-hänge sie bis heute so auf.
+„Ich bin der Vater“, sagte Jonas.
 
-Er lernte, Emil anzuziehen. Das dauert bei einem
-Achtzehn-Monats-Menschen im Winter zwanzig Minuten und ist die
-demütigendste Tätigkeit, die es gibt, und er machte es gern, was ich
-nicht verstehe.
+Die Frau tippte etwas. „Sorgeberechtigt?“
 
-Am neunzehnten saßen wir abends auf dem Boden vor dem Regal und sortierten
-Christbaumkugeln, und er sagte, ohne aufzusehen: „Ich muss dir vor
-Weihnachten was sagen. Nichts Schlimmes.“
+Pause.
 
-Und ich sagte: „Ich dir auch.“
+„Nein“, sagte er.
 
-Und wir haben beide gelacht und beide nichts gesagt, und wenn dieses
-Buch eine Stelle hat, an der ich zurückgehen und jemanden schütteln
-möchte, dann diese.
+„Verheiratet mit der Mutter?“
 
----
+„Nein.“
 
-Zweimal habe ich es fast getan.
+„Vaterschaft anerkannt?“
 
-Das erste Mal am sechzehnten. Ich sagte: „Jonas, die Bank —“ und in
-diesem Moment fiel Emil vom Sofa, und danach war es weg.
+„Nein.“
 
-Das zweite Mal am zwanzigsten, spät. Ich hatte die Worte schon
-zurechtgelegt. Dann erzählte er mir, mit einem Gesicht, das ich vorher
-nicht kannte, dass Emil an diesem Nachmittag zum ersten Mal beim
-Weggehen die Hand gehoben hat. Nicht gewinkt. Gehoben. Und dass er
-deshalb zweimal um den Block gefahren ist und noch mal geklingelt hat,
-nur um zu sehen, ob es wieder passiert.
+Sie tippte weiter, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
+Mensch, der um halb vier Uhr morgens seine Arbeit macht.
 
-Man sagt einem Menschen in dieser Sekunde nicht, dass sein Sohn im
-Februar kein Zimmer mehr hat.
+„Dann trage ich Sie als Begleitperson ein“, sagte sie.
 
-Das habe ich mir jedenfalls gesagt.
+*Begleitperson.*
+
+Ich sah ihn an. Er sah geradeaus.
+
+„Ist in Ordnung“, sagte er.
 
 ---
 
-Am einundzwanzigsten stellte Frau Kettler die Kaffeemühle ab, mitten am
-Vormittag, was Krieg bedeutet.
+Um vier bekam Emil ein Fiebersaft und eine Infusion, und ich musste noch
+einmal nach vorn, weil sie eine Unterschrift brauchten, die nur ich
+leisten konnte.
 
-„Frau Voss.“
+Ich war ungefähr drei Minuten weg.
 
-„Ich weiß, was Sie sagen wollen.“
+Als ich zurückkam, hörte ich ihn schon vom Gang aus.
 
-„Dann sage ich es kurz.“ Sie wischte sich die Hände ab. „Sie machen es
-schon wieder.“
+Es gibt ein Weinen, das Kinder machen, wenn sie müde sind, und eines,
+wenn sie Hunger haben, und eines, wenn sie Angst haben, und ich kenne
+alle drei. Das war das dritte, in der höchsten Lautstärke, die achtzehn
+Monate hergeben.
 
-„Es ist etwas anderes.“
+Die Schwester versuchte es. Er drehte sich weg.
 
-„Es ist etwas *Kleineres*“, sagte sie. „Das ist der Unterschied, und der
-Unterschied hilft Ihnen nicht. Beim ersten Mal ging es um ein Kind, und
-es hat zwei Jahre gedauert. Diesmal geht es um ein Haus, und Sie sind
-bei drei Wochen.“ Sie sah mich an. „Wissen Sie, was in beiden Fällen
-gleich ist?“
+Ich kam rein und nahm ihn hoch, und er wollte nicht.
 
-„Sagen Sie es.“
+Er wollte nicht zu mir.
 
-„Dass Sie entscheiden, was er verkraftet.“
+Er streckte beide Arme an mir vorbei und schrie ein Wort, das nicht
+ganz ein Wort war, mehr ein Laut mit einem harten Anfang, und der harte
+Anfang war ein J.
 
 ---
 
-Ich saß an diesem Abend um elf am Küchentisch und machte, was ich immer
-mache, wenn ich anders nicht denken kann.
+Ich habe später eine Zeit lang behauptet, das sei Zufall gewesen. Kinder
+in diesem Alter machen Laute. Es war halb fünf. Er war voll Fieber.
 
-Ich schrieb es auf.
+Es ist alles wahr, und es spielt keine Rolle.
 
-Diesmal keine zwei Spalten. Diesmal ein Satz, damit ich mich nicht
-rausreden kann:
+Jonas nahm ihn.
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+Er hielt ihn falsch — zu hoch, zu fest, mit einer Hand am Hinterkopf,
+so wie man einen Neugeborenen hält und nicht einen Kleinkindbrocken von
+elf Kilo.
 
-Ich habe den Zettel an die Innenseite der Schranktür gehängt, neben den
-Dienstplan.
+Emil hörte trotzdem auf.
 
-Ich habe ihn erst im Februar wieder abgenommen.
+Nicht sofort. Über ungefähr eine Minute, wie ein Motor, der ausgeht.
+Dann legte er den Kopf in die Kuhle zwischen Jonas’ Schulter und Hals,
+und war weg.
+
+Und ich stand in einem Untersuchungszimmer der Kinderklinik Altona,
+Sorgeberechtigte, alleinige gesetzliche Vertreterin, eingetragen in
+jedem Formular dieser Nacht, und war die zweite Wahl.
+
+Ich habe geweint, und zwar aus einem Grund, für den es kein einzelnes
+Wort gibt: weil es wehtat und weil es das Beste war, was Emil je
+passiert ist, und weil beides zugleich stimmte.
+
+---
+
+Um halb sechs schlief Emil richtig. Sie wollten ihn zur Beobachtung
+dabehalten.
+
+Wir saßen auf zwei Stühlen im Gang, weil im Zimmer kein Platz für zwei
+Erwachsene war.
+
+Jonas hatte einen Kaffee aus dem Automaten geholt, der schmeckte wie
+warmes Wasser mit einer Erinnerung.
+
+„Marlene“, sagte er.
+
+„Ja.“
+
+„Ich lasse morgen —“
+
+Er brach ab.
+
+Ich sah ihn von der Seite an.
+
+„Was?“
+
+„Nichts.“ Er drehte den Becher in den Händen. „Ich wollte gerade sagen,
+dass ich morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein
+Reflex. Ich merke ihn inzwischen, das ist alles, was ich sagen kann. Ich
+merke ihn und mache ihn trotzdem.“
+
+„Diesmal hast du ihn nicht gemacht.“
+
+„Diesmal habe ich ihn *gesagt*“, sagte er. „Das ist nicht dasselbe wie
+nicht machen.“
+
+Ich nahm ihm den Becher weg und trank einen Schluck, was er nicht
+kommentierte.
+
+„Begleitperson“, sagte ich.
+
+„Ja.“
+
+„Das war das hässlichste Wort dieser Nacht.“
+
+„Es stimmt aber.“
+
+„Es stimmt“, sagte ich, „weil ich es so gelassen habe.“
+
+---
+
+Draußen wurde es hell, was im Dezember in Hamburg heißt: Es wurde
+weniger schwarz.
+
+Ich saß in einem Krankenhausgang, mein Sohn schlief zwölf Meter weiter,
+und neben mir saß der Mann, dessen Namen mein Kind heute Nacht gerufen
+hat und der auf keinem einzigen Papier steht, das dieses Kind betrifft.
+
+Ich habe in meinem Leben viele Entscheidungen getroffen, die lange
+gedauert haben.
+
+Diese dauerte nicht lange.
+
+„Montag“, sagte ich.
+
+„Was ist Montag?“
+
+„Da gehen wir zum Jugendamt.“ Ich gab ihm den Becher zurück. „Beides.
+Anerkennung und Sorgeerklärung. Nicht wegen heute Nacht. Weil ich es vor
+heute Nacht schon wusste und heute Nacht keine Ausrede mehr habe.“
+
+Er sagte eine Weile nichts.
+
+„Danke“, sagte er dann.
+
+„Bedank dich nicht.“ Ich lehnte den Kopf an die Wand. „Es steht ihm zu.
+Nicht dir.“

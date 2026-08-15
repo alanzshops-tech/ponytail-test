@@ -1,225 +1,243 @@
 # Kapitel 14 — Jonas
 
-Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
-macht, wenn man nicht weiß, wie man es macht.
+Am Mittwoch stand ich um zehn nach acht vor ihrer Tür und wusste, was
+kommt.
 
-Ich war in einer Sitzung über Rothenburgsort und habe hinterher gefragt,
-was beschlossen wurde. Ich habe am Donnerstagabend in einem Laden am
-Neuen Wall gestanden, zwischen Holzeisenbahnen und Stapelbechern, und
-bin nach zwanzig Minuten ohne etwas wieder rausgegangen, weil ich nicht
-wusste, was ein Kind mit achtzehn Monaten kann.
+Nicht die Einzelheiten. Aber das Wesentliche wusste ich seit der Nacht am
+Backtisch, und ehrlich gesagt seit dem ersten Tag, seit dem Weinen durch
+die Decke, und ich hatte es nur nicht angesehen, so wie man eine
+Diagnose nicht ansieht, solange der Umschlag zu ist.
 
-Ich habe es nachgelesen. Nachts, im Bett, auf einer Seite für Eltern.
-Achtzehn Monate: fünfzig Wörter, Treppen im Nachstellschritt, Trotz
-beginnt. Ich habe zwanzig Minuten über eine Tabelle gelesen und mich
-dabei gefühlt wie jemand, der für eine Prüfung lernt, die vor anderthalb
-Jahren stattgefunden hat.
+Sie öffnete. Sie hatte die Schürze abgenommen. Das fiel mir auf, weil sie
+sie sonst nie abnimmt.
 
----
+„Er schläft“, sagte sie.
 
-Niklas kam am Freitagabend in mein Büro, ohne anzuklopfen, mit einer
-Flasche Bier in jeder Hand, was bei ihm bedeutet, dass er die Sache ernst
-nimmt.
+„Gut.“
 
-Er ist neunundzwanzig und der einzige von uns vieren, der aussieht wie
-unsere Mutter. Er stellte eine Flasche vor mich hin, setzte sich auf die
-Kante des Besprechungstisches und sagte:
+Wir standen im dunklen Café, nur die Lampe über dem Tresen an, und
+draußen ging jemand mit einem Hund vorbei.
 
-„Sag es noch mal. Am Telefon klang es nach einem Scherz, und du machst
-keine.“
-
-„Ich habe einen Sohn.“
-
-„Wie alt?“
-
-„Achtzehn Monate.“
-
-Er nickte langsam, trank, sah aus dem Fenster auf den Hafen.
-
-„Travemünde“, sagte er.
-
-Ich sah ihn an.
-
-„Du warst danach vier Wochen komisch“, sagte mein Bruder. „Theo hat es
-für die Bilanz gehalten. Ich nicht.“
+„Setzen wir uns“, sagte sie.
 
 ---
 
-Er hatte eine Mappe dabei. Natürlich hatte er eine Mappe dabei.
+Sie hatte etwas auf den Tisch gelegt. Ein kleines Fotoalbum, so ein
+billiges aus dem Drogeriemarkt, mit einem Sonnenblumenmotiv auf dem
+Umschlag.
 
-„Das Gute zuerst“, sagte er und legte sie auf den Tisch. „Rechtlich ist
-das nicht kompliziert. Ihr seid nicht verheiratet, also ist die Mutter
-allein sorgeberechtigt. Du bist juristisch niemand. Kein Vater, kein
-Verwandter, nichts. Auf dem Papier existiert deine Verbindung zu diesem
-Kind nicht.“
+Sie legte die Hand darauf, nahm sie aber nicht weg.
 
-„Das ist das Gute?“
+„Ich fange nicht mit dem Anfang an“, sagte sie. „Wenn ich mit dem Anfang
+anfange, rede ich mich raus. Also fange ich mit dem an, was zählt.“
 
-„Das Gute ist, wie einfach es geht.“ Er zog ein Blatt heraus. „Vaterschaft
-anerkennen. Beim Jugendamt, beim Standesamt oder beim Notar. Kostet beim
-Jugendamt nichts, dauert zwanzig Minuten. Einzige Bedingung: Sie muss
-zustimmen. Ohne ihre Zustimmung ist die Anerkennung unwirksam.“
+Ich sagte nichts.
 
-„Und der Test?“
-
-Niklas sah hoch. „Welcher Test?“
-
-„Ein Vaterschaftstest.“
-
-„Wozu?“
-
-„Damit es feststeht.“
-
-Mein Bruder stellte die Flasche ab.
-
-„Jonas. Zweifelst du?“
-
-„Nein.“
-
-„Dann brauchst du keinen Test.“ Er sagte es freundlich, und genau das war
-das Unangenehme daran. „Ein Test ist für Fälle, in denen jemand
-bestreitet. Bestreitet hier jemand?“
-
-„Nein.“
-
-„Also.“
-
-Ich stand auf und ging zum Fenster, weil ich das immer mache, wenn ich
-gleich etwas sage, das ich vorher nicht geprüft habe.
-
-„Ich möchte trotzdem eins haben, das man vorlegen kann.“
-
-„Wem vorlegen?“
-
-Darauf hatte ich keine Antwort, die gut geklungen hätte. Dem Beirat, der
-irgendwann fragen wird, warum in meinem Testament ein Name steht, den
-niemand kennt. Der Bank. Den Brüdern. Einem Gericht in fünf Jahren, falls
-etwas passiert, was ich mir nicht ausmalen wollte und trotzdem ausgemalt
-hatte, um zwei Uhr nachts, in einer Reihenfolge, die ich niemandem
-erzählt habe.
-
-„Der Ordnung halber“, sagte ich.
-
-„Der Ordnung halber“, wiederholte Niklas.
+„Emil ist deiner.“
 
 ---
 
-Er blätterte weiter, und mit jedem Blatt wurde es sachlicher, und mit
-jedem Blatt fühlte ich mich besser, und ich hätte an dieser Stelle merken
-müssen, was das über mich sagt.
+Ich weiß nicht, wie lange ich nichts sagte.
 
-Unterhalt: Düsseldorfer Tabelle, oberste Einkommensgruppe, dazu ein
-freiwilliger Aufstockungsbetrag, den er für „darstellbar“ hielt.
+Es gibt eine Sache, die einem niemand über solche Momente erzählt: dass
+man sie in zwei Hälften erlebt. In der einen Hälfte passiert nichts.
+Nichts fällt um, niemand schreit, das Licht ändert sich nicht. In der
+anderen Hälfte hat sich das ganze Leben umsortiert und man weiß noch
+nicht, in welcher Reihenfolge es jetzt liegt.
 
-Sorgerecht: gemeinsame Sorgeerklärung, ebenfalls beim Jugendamt,
-ebenfalls nur mit ihrer Zustimmung.
+„Wie alt“, sagte ich schließlich.
 
-Umgang: ein Vorschlag mit Wochentagen. Er hatte Wochentage
-hingeschrieben. Dienstag, Donnerstag, jedes zweite Wochenende.
+„Achtzehn Monate. Am achten Mai wird er zwei.“
 
-Erbfolge: ein Vermerk, dass mein Testament geändert werden muss, weil
-darin drei Brüder stehen und kein Kind.
+Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
+gestimmt hatte.
 
-Und ganz hinten, weil mein Bruder gründlich ist, ein Blatt zu dem, was er
-„Interessenkonflikt“ nannte: Die Kindesmutter ist Eigentümerin eines
-Objekts, das die Firma erwerben wollte. Empfehlung, das offenzulegen.
+„Travemünde.“
 
-„Das habe ich schon“, sagte ich.
+„Ja.“
 
-„Ich weiß. Wendland hat es Theo erzählt, Theo hat es mir erzählt.“ Er
-zuckte mit den Schultern. „Das ist Hamburg.“
+Ich sah auf das Album mit den Sonnenblumen.
 
----
+„Darf ich?“
 
-Ich packte die Blätter zusammen, und dabei sagte Niklas den Satz, wegen
-dem ich diesen Abend nie vergessen werde.
-
-„Willst du wissen, was ich denke, oder willst du, dass ich das nur
-aufsetze?“
-
-„Sag es.“
-
-„Du hast gestern erfahren, dass du ein Kind hast.“ Er klopfte mit dem
-Finger auf die Mappe. „Und heute Abend liegt hier ein Aktenordner. Das
-ist schnell, Jonas. Das ist so schnell, dass es keine Reaktion mehr ist.
-Das ist eine Flucht.“
-
-„Ich sichere ihn ab.“
-
-„Du sicherst *dich* ab.“ Er stand auf. „Absichern heißt: Wenn es schief
-geht, habe ich alles richtig gemacht. Das ist ein Satz für
-Aufsichtsräte. Für ein Kind ist das kein Satz.“
-
-„Was soll ich denn machen? Nichts?“
-
-„Hinfahren. Dasitzen. Zwei Wochen lang nichts unterschreiben.“
-
-Ich lachte, und es klang nicht gut. „Zwei Wochen lang steht mein Sohn
-nirgends.“
-
-„Er steht seit achtzehn Monaten nirgends“, sagte Niklas, „und er hat es
-überlebt, weil eine Frau ihn getragen hat, die du bis vorgestern nicht
-gefragt hast.“
-
-Es war das Härteste, was mein Bruder je zu mir gesagt hat.
-
-Er merkte es selbst. Er blieb an der Tür stehen.
-
-„Entschuldige.“
-
-„Nein“, sagte ich. „Schon gut.“
-
-„Ich mach dir das alles fertig“, sagte er. „Bis Montag. Ich sag nur:
-Wenn du ihr diese Mappe hinlegst, dann liest sie darin etwas anderes,
-als du hineingeschrieben hast.“
-
-„Was denn?“
-
-Niklas machte die Tür auf.
-
-„Frag mich das noch mal, wenn du es weißt.“
+Sie schob es zu mir.
 
 ---
 
-Am Montag um sechs stand die Mappe auf meinem Schreibtisch, blau, mit
-einem Etikett, auf das jemand aus dem Sekretariat getippt hatte:
+Es waren nicht viele Bilder. Vielleicht vierzig.
 
-**REINHARDT / VOSS — PERSÖNLICH**
+Ich habe später ausgerechnet, was das heißt. Achtzehn Monate sind
+fünfhundertvierzig Tage. Vierzig Bilder.
 
-Ich sah dieses Etikett ungefähr eine Minute lang an.
+Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
 
-Voss. Nicht Marlene. Nicht Leni, wie Frau Kettler sie nennt und wie ich
-sie noch nie genannt habe, weil ich das Recht dazu nicht hatte.
+Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
+Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
+Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
 
-*Reinhardt / Voss.* Zwei Parteien.
+Dann Emil auf dem Arm einer alten Frau, die ich nicht kannte.
 
-Ich hätte das Etikett abziehen können. Es klebte nicht besonders fest.
+„Wer ist das?“
 
-Ich habe darüber später sehr oft nachgedacht — über diese eine Minute, in
-der alles noch zu machen gewesen wäre, mit einem Fingernagel.
+„Frau Kettler.“ Sie sah nicht hin. „Sie hat ihn gehalten, als ich das
+erste Mal wieder in den Backraum musste. Am achten Tag.“
+
+„Am achten Tag nach der Geburt?“
+
+„Der Laden macht nicht von allein auf.“
+
+Ich habe darauf nichts gesagt, weil mir nichts eingefallen ist, was
+nicht falsch gewesen wäre.
+
+Dann Emil im Schnee. Emil mit einem Löffel. Emil schlafend auf einer
+Wolldecke im Café, unter dem Fenstertisch, an dem ich sechs Wochen lang
+gesessen und über Entwässerung geredet hatte.
+
+Ich blätterte langsam. Ich wollte es nicht schnell machen.
+
+„Der achte Mai“, sagte ich irgendwann.
+
+„Ja.“
+
+„Da war ich in Zürich.“ Ich hörte selbst, wie sinnlos das war. „Ich weiß
+nicht, warum ich das sage.“
+
+„Weil man in solchen Momenten irgendwas sagt“, sagte sie.
 
 ---
 
-Ich fuhr um halb sieben zum Kehrwieder.
+Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
+ohne dass ich fragen musste.
 
-Es war der erste richtig kalte Abend, der Fleet dampfte, und durch die
-Fenster sah ich Emil, der auf dem Tresen saß, während sie mit einer Hand
-die Kasse abrechnete und mit der anderen sein Bein festhielt, damit er
-nicht runterfällt.
+„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
+noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
 
-Sie sah mich und lächelte, und das war ein Lächeln, das ich vorher nicht
-gekannt hatte, weil es keins für einen Kunden war.
+„Was stand wirklich drin?“
 
-Ich ging hinein. Es roch nach Butter und nassem Stein.
+„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
+zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
+dazu durchzuringen.“
 
-„Du bist früh“, sagte sie.
+Ich schloss die Augen.
 
-„Ich habe etwas mitgebracht.“
+„Und dann?“
 
-Und dann legte ich, in demselben Café, an demselben Fenstertisch, mit
-derselben Handbewegung, mit der ich im Oktober die Anruferliste
-hingelegt hatte, eine blaue Mappe vor sie hin.
+„Dann kam keine Antwort. Und im November war ein Foto in der Zeitung, du
+mit einer Frau in Grün. Und dann —“ Sie brach ab.
 
-Auf dem Etikett stand **REINHARDT / VOSS**.
+„Und dann?“
 
-Ich hatte es nicht abgezogen.
+„Und dann war da noch etwas, und das ist der Teil, bei dem ich schlecht
+dastehe.“ Sie sah auf. „In Travemünde, in der zweiten Nacht, habe ich
+dich gefragt, ob du Kinder willst. Und du hast gesagt: *Nein. Nicht
+solange* — und dann hast du den Satz nicht zu Ende gesagt.“
+
+Ich sah sie an.
+
+Ich hatte an diesen Satz nicht ein einziges Mal gedacht. Nicht in zwei
+Jahren.
+
+„Ich habe das *Nein* behalten“, sagte sie. „Zwei Jahre lang. Jedes Mal,
+wenn ich es noch mal hätte versuchen können, war da dieses Nein.“
+
+„Nicht solange die Firma so an mir hängt“, sagte ich.
+
+Sie sah mich an.
+
+„Das war der Rest vom Satz“, sagte ich. „*Nicht solange die Firma so an
+mir hängt, dass ich nicht mal einen Sonntag habe.* Ich weiß es noch, weil
+ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
+richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
+Nein zu meinem Leben, so wie es damals war.“
+
+---
+
+Sie fing an zu weinen, und zwar auf die schlimmste Art, nämlich lautlos
+und ohne das Gesicht zu verziehen.
+
+Ich stand auf, ging um den Tisch herum und hockte mich neben ihren Stuhl,
+und ich fasste sie nicht an, weil ich nicht wusste, ob ich das darf.
+
+„Ich hätte es trotzdem sagen müssen“, sagte sie. „Auch mit dem Nein. Auch
+mit dem Foto. Ich hätte hinfahren können. Ich hätte in dein Büro gehen
+und im Foyer warten können, bis du rauskommst. Das habe ich nicht
+gemacht, und dafür gibt es keine gute Erklärung, nur eine schlechte.“
+
+„Welche?“
+
+„Dass ich Angst hatte, du sagst, du willst ihn nicht.“ Sie wischte sich
+mit dem Handrücken übers Gesicht. „Und solange ich nicht gefragt habe,
+konnte ich mir vorstellen, dass du ihn gewollt hättest.“
+
+---
+
+Und da war er, der Moment, in dem ich hätte wütend werden können.
+
+Ich hatte auch allen Grund dazu. Sechs Wochen lang hatte ich an diesem
+Tisch gesessen. Ich hatte ihr Dach bezahlt. Ich hatte vor sieben Leuten im
+Beirat für sie den Kopf hingehalten. Ich hatte in ihrem Café Tische
+abgewischt und mir dabei eingebildet, wir seien ehrlich zueinander.
+
+Ich habe später oft überlegt, warum ich in dieser Sekunde nicht wütend
+wurde.
+
+Ich glaube, es lag an dem Album.
+
+Vierzig Bilder. Ultraschall, Mütze, Schnee, Löffel. Zwei Jahre, in denen
+niemand da war, um das zweite Foto zu machen, weil sie beide Rollen
+hatte.
+
+„Marlene.“
+
+Sie sah nicht auf.
+
+„Sieh mich bitte an.“
+
+Sie sah auf.
+
+„Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein,
+oder nächste Woche, und dann sage ich es dir. Aber jetzt gerade sitze ich
+hier und denke die ganze Zeit nur einen einzigen Satz.“
+
+„Welchen?“
+
+„Dass du das zwei Jahre lang allein gemacht hast.“
+
+---
+
+Sie weinte richtig, und diesmal ließ ich es zu, dass ich sie anfasste, und
+sie ließ es auch zu.
+
+Es dauerte eine Weile.
+
+Irgendwann, als es vorbei war, saßen wir nebeneinander auf zwei Stühlen
+in einem dunklen Café, und sie hatte mein Hemd nass gemacht, und ich
+merkte, dass ich immer noch das Album in der Hand hielt.
+
+„Was jetzt?“, sagte sie.
+
+„Darf ich ihn sehen?“
+
+Sie zögerte nicht einmal eine Sekunde.
+
+„Er schläft.“
+
+„Ich weiß.“
+
+Sie stand auf und nahm meine Hand, und wir gingen die Treppe hoch, und
+die vierte Stufe knarrte, und sie sagte automatisch: „Die vierte.“
+
+„Die vierte“, wiederholte ich.
+
+Und dann standen wir in einem Kinderzimmer, in dem ein Nachtlicht in Form
+eines Pilzes brannte, und in einem Gitterbett lag ein Kind auf dem Bauch,
+mit dem Hintern in der Luft, so wie kleine Kinder liegen, und atmete.
+
+Ich stand da und sah ihn an und konnte nicht aufhören.
+
+„Er hat deine Stirn“, flüsterte sie.
+
+„Er hat deine Hände“, sagte ich.
+
+Und dann heulte ich, zum ersten Mal seit dem Tod meines Vaters, im
+Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.
