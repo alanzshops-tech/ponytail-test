@@ -1,0 +1,54 @@
+[
+  {
+    "kapitel": 1,
+    "antworten": {
+      "openai/gpt-5.5-pro": {
+        "fehler": "Antwort mit leerem Inhalt",
+        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      },
+      "anthropic/claude-opus-4.7-fast": {
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      }
+    }
+  },
+  {
+    "kapitel": 12,
+    "antworten": {
+      "openai/gpt-5.5-pro": {
+        "fehler": "Antwort mit leerem Inhalt",
+        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': \"**Clarifying th"
+      },
+      "anthropic/claude-opus-4.7-fast": {
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      }
+    }
+  },
+  {
+    "kapitel": 21,
+    "antworten": {
+      "openai/gpt-5.5-pro": {
+        "fehler": "Antwort mit leerem Inhalt",
+        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      },
+      "anthropic/claude-opus-4.7-fast": {
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      }
+    }
+  },
+  {
+    "kapitel": 28,
+    "antworten": {
+      "openai/gpt-5.5-pro": {
+        "fehler": "Antwort mit leerem Inhalt",
+        "roh": "[{'index': 0, 'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'max_output_tokens', 'message': {'role': 'assistant', 'content': None, 'refusal': None, 'reasoning': None, 'reasoning"
+      },
+      "anthropic/claude-opus-4.7-fast": {
+        "fehler": "HTTP 400",
+        "text": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"'claude-opus-4-7' does not support the `spee"
+      }
+    }
+  }
+]
