@@ -103,7 +103,8 @@ def belegt(zitat: str | None, kapitel: str) -> bool | None:
     return normal(zitat) in normal(kapitel)
 
 
-def modelle_aufloesen(muster: list[str]) -> list[str]:
+def modelle_aufloesen(muster: list[str],
+                      max_preis: float = 20.0) -> list[list[str]]:
     """Modell-IDs nicht raten, sondern aus der Liste holen. Ein geratener
     Name scheitert erst auf dem Runner und kostet einen ganzen Lauf."""
     m = rufen("/models")
@@ -138,18 +139,50 @@ def modelle_aufloesen(muster: list[str]) -> list[str]:
         # Anbieters ist der Preis der beste verfuegbare Anhaltspunkt fuer
         # Leistung; ein Feld dafuer gibt es in der Liste nicht.
         treffer.sort(key=kosten, reverse=True)
-        gewaehlt = treffer[0]
-        raus.append(gewaehlt["id"])
-        print(f"  „{p}“ -> {gewaehlt['id']} "
-              f"({kosten(gewaehlt) * 1e6:.2f} USD je Mio. Token)")
+        bezahlbar = [x for x in treffer
+                     if kosten(x) * 1e6 <= max_preis] or treffer[-1:]
+        kandidaten = [x["id"] for x in bezahlbar[:3]]
+        raus.append(kandidaten)
+        print(f"  „{p}“ -> " + ", ".join(
+            f"{x['id']} ({kosten(x) * 1e6:.1f} USD/Mio.)"
+            for x in bezahlbar[:3]))
     return raus
 
 
-def eine_frage(kapitel: str, modell: str) -> dict:
-    last = {"model": modell,
+def eine_frage(kapitel: str, kandidaten: list[str]) -> dict:
+    """Der Reihe nach durchprobieren, bis eins antwortet.
+
+    Ein einzelner Modellname reicht nicht. Beim ersten Lauf lieferte
+    `gpt-5.5-pro` nur Denk-Token und lief in die Laengenbegrenzung
+    (finish_reason: length, content: None), und
+    `claude-opus-4.7-fast` antwortete mit HTTP 400, weil diese Variante
+    einen Parameter nicht kennt. Beides sind Eigenschaften des Modells,
+    keine Ausfaelle -- also weiterziehen statt scheitern.
+    """
+    letzter = {}
+    for modell in kandidaten:
+        last = {
+            "model": modell,
             "messages": [{"role": "user", "content": AUFGABE + kapitel}],
-            "max_tokens": 400, "temperature": 0.2}
-    a = rufen("/chat/completions", last, zeit=120)
+            # 400 Token waren zu wenig: Denkmodelle verbrauchen sie,
+            # bevor eine einzige Zeile Antwort entsteht.
+            "max_tokens": 2000,
+            "temperature": 0.2,
+            # Ausfuehrliches Nachdenken bringt hier nichts -- gefragt ist
+            # eine Leseerfahrung, kein Beweis.
+            "reasoning": {"effort": "low"},
+        }
+        a = rufen("/chat/completions", last, zeit=180)
+        e = _antwort_auspacken(a)
+        e["modell"] = modell
+        if "fehler" not in e:
+            return e
+        print(f"    {modell}: {e['fehler']}")
+        letzter = e
+    return letzter or {"fehler": "kein Kandidat"}
+
+
+def _antwort_auspacken(a: dict) -> dict:
     if "fehler" in a:
         return {"fehler": a["fehler"], "text": a.get("text", "")[:200]}
     try:
@@ -303,6 +336,8 @@ def main() -> None:
     p.add_argument("--modelle", nargs="*",
                    default=["openai/gpt", "google/gemini"])
     p.add_argument("--bericht", default="LEKTORAT.md")
+    p.add_argument("--max-preis", type=float, default=20.0,
+                   help="USD je Mio. Token, Obergrenze")
     p.add_argument("--selbsttest", action="store_true")
     args = p.parse_args()
 
@@ -317,9 +352,10 @@ def main() -> None:
         return
 
     print("\nModelle auflösen:")
-    modelle = modelle_aufloesen(args.modelle)
+    modelle = modelle_aufloesen(args.modelle, args.max_preis)
     if not modelle:
         raise SystemExit("Kein Modell aufgelöst.")
+    benutzt: list[str] = []
 
     ergebnisse, kosten = [], 0.0
     for n in args.kapitel:
@@ -330,9 +366,11 @@ def main() -> None:
         text = re.sub(r"^#.*$", "", f.read_text(encoding="utf-8"),
                       flags=re.M).strip()
         eintrag = {"kapitel": n, "antworten": {}}
-        for m in modelle:
+        for kandidaten in modelle:
+            m = kandidaten[0]
             print(f"\nKapitel {n} an {m} …", flush=True)
-            a = eine_frage(text, m)
+            a = eine_frage(text, kandidaten)
+            m = a.get("modell", m)
             if "fehler" in a:
                 print(f"  Fehler: {a['fehler']}")
                 eintrag["antworten"][m] = a
@@ -342,6 +380,8 @@ def main() -> None:
             for feld, wert in gelesen.items():
                 wert["belegt"] = belegt(wert.get("zitat"), text)
             eintrag["antworten"][m] = {"text": a["text"], "gelesen": gelesen}
+            if m not in benutzt:
+                benutzt.append(m)
             for feld in ("ABBRUCH", "UNKLAR", "STARK"):
                 w = gelesen.get(feld)
                 if w and w.get("zitat"):
@@ -359,7 +399,8 @@ def main() -> None:
     ziel = Path(args.bericht)
     alt = ziel.read_text(encoding="utf-8") if ziel.exists() else ""
     schwanz = alt.split(MARKER, 1)[1] if MARKER in alt else ""
-    ziel.write_text(bericht(ergebnisse, modelle, kosten) + schwanz,
+    ziel.write_text(bericht(ergebnisse, benutzt or [k[0] for k in modelle],
+                            kosten) + schwanz,
                     encoding="utf-8")
     print(f"\nGeschrieben: {ziel} · Kosten {kosten:.4f} USD")
 
