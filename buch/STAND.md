@@ -5,178 +5,183 @@ Geheimnis*
 
 ---
 
-## Was fertig ist
+## Die Rohfassung ist fertig
 
 | | |
 |---|---|
-| **Klappentext** | fertig, `00-klappentext.md` |
-| **Phase 1 (Aufbau)** | **fertig, Kapitel 1–7** |
-| **Phase 2 (Verlieben)** | **fertig, Kapitel 8–14** |
-| **Phase 3 (Rückzug)** | **fertig, Kapitel 15–21** |
-| Phase 4 (Kämpfen) | offen, Kapitel 22–28 |
+| **Klappentext** | `00-klappentext.md` |
+| **Phase 1 (Aufbau)** | Kapitel 1–7 |
+| **Phase 2 (Verlieben)** | Kapitel 8–14 |
+| **Phase 3 (Rückzug)** | Kapitel 15–21 |
+| **Phase 4 (Kämpfen)** | Kapitel 22–28 |
 
-**21 von 28 Kapiteln. 22.240 Wörter.** Drei Viertel des Buches, am
-Stück, bis auf den Tiefpunkt.
+**28 von 28 Kapiteln. 30.463 Wörter.** Anfang, Mitte, Ende, alle Fäden
+zu, ein Haken für Band 2.
 
 ---
 
-## Was Phase 3 geleistet hat
+## Was Phase 4 geleistet hat
 
-**Der Bruch ist nicht die Lüge.** Das war die zentrale Umbauentscheidung
-gegenüber dem Gerüst. Im Plan stand: *Wut — er fühlt sich betrogen.*
-Das funktioniert nicht mehr, weil Kapitel 12 die Enthüllung freiwillig
-und vollständig gemacht hat. Was stattdessen trennt, ist stärker und
-gehört beiden:
+**Beide Erkenntnisse sind konkret, nicht behauptet.**
 
-> Sie entscheidet für ihn, was er verkraftet.
-> Er entscheidet für sie, was sie verkraftet.
+*Jonas* (Kap. 22): Seine Mutter erzählt ihm an Heiligabend, dass sein
+Vater 1997 ihr Elternhaus verkauft hat, um die Firma zu retten — richtig
+gerechnet, vier Tage später mitgeteilt. *„Ich habe achtundzwanzig Jahre
+neben einem Mann gelebt, der recht hatte."* Damit versteht er, dass sein
+Fehler kein Timing-Fehler war: Er hat nicht zu spät geredet, sondern in
+der falschen Richtung.
 
-Leni sagt es in Kapitel 21 selbst, laut, in einem Satz. Damit ist der
-Tiefpunkt kein Missverständnis, das ein Gespräch auflösen würde — er ist
-ein Charakterfehler, den beide teilen. Das ist der einzige Bruch, der
-sieben weitere Kapitel trägt, ohne dass jemand dumm sein muss.
+*Leni* (Kap. 23): Im Kassenbuch ihrer Großmutter steht der Eintrag vom
+19. März 1974 — *Von Frau Petersen geliehen 4.000,–. Sie hat nicht
+gefragt warum.* Ihre Großmutter hat gefragt. Leni hat noch nie in ihrem
+Leben jemanden um etwas gebeten und das für Stolz gehalten.
 
-**Die Kette, die dahin führt:**
+**Die Heldin löst ihr Problem selbst.** Das war die wichtigste
+Entscheidung der Phase. Leni liest den Bauplan, der seit Oktober auf
+ihrem Tisch liegt, und begreift, was sie besitzt: die Durchfahrt, die
+Rückwand, das Leitungsrecht. Ohne sie gibt es keinen Hof. Sie ruft
+**Theo** an, nicht Jonas, und stellt eine Frage, die sie im Oktober
+hätte stellen sollen: *„Was ist die Dienstbarkeit wert?"*
 
-| Kap. | Was passiert | Wer macht den Fehler |
+**Der Ausweg ist rechnerisch echt, nicht märchenhaft:**
+
+| Schritt | |
+|---|---|
+| Gutachten (öffentlich bestellt, von ihr beauftragt) | 268.000 € für drei Grunddienstbarkeiten |
+| Die Gesellschaft kauft die Rechte zum Gutachtenwert | kein Cent darüber — sonst verdeckte Schenkung |
+| Sie kauft die Forderung von Jonas zum **Einstandspreis** | 186.000 €, notariell, kein Nachlass |
+| Gläubigerin und Schuldnerin sind dieselbe Person | **Konfusion** — die Schuld erlischt |
+| Bleibt ihr | 82.000 € und ein schuldenfreies Haus |
+
+Niemand schenkt ihr etwas. Sie zahlt mit eigenem Geld für ein Recht, das
+sie besitzt und das er braucht. Genau deshalb funktioniert es.
+
+**Die Versuchung ist echt.** Kellermann bietet 460.000 € bar, Notar vor
+dem 15. Januar, ~245.000 € für sie nach Ablösung. Das Kapitel rechnet
+vor, was dieses Geld kauft: Schlaf, eine Wohnung in Ottensen, einen
+Kitaplatz, kein Beirat. Sie lehnt ab — und ausdrücklich **nicht** wegen
+Jonas. Sondern weil Kellermann sich weigert, das Erdgeschoss in den
+Vertrag zu schreiben, und weil sie erkennt: *Weglaufen und Alleinschaffen
+haben dasselbe Gesicht.*
+
+**Die große Geste kostet ihn echtes Geld und echtes Gesicht.** Kapitel 26,
+Beiratssitzung: Er legt den privaten Kauf offen, ein Abberufungsantrag
+scheitert 5:2, es gibt einen unbefristeten Zustimmungsvorbehalt, einen
+Befangenheitsvermerk im Protokoll „für immer" — und einen von ihm selbst
+angebotenen Tantiemeverzicht über drei Jahre: **360.000 €.** In seinem
+Anschreiben an Leni steht davon kein Wort. Sie findet es auf Seite drei.
+
+**Sie geht den Schritt zweimal, und die Reihenfolge stimmt.** Erst die
+harte Bitte (Kap. 25: *„Du bist der Gläubiger. Ich bitte dich darum."*),
+dann die menschliche (Kap. 27: acht Vormittage Kita-Eingewöhnung, auf
+einem Stuhl, der einunddreißig Zentimeter hoch ist). Die zweite ist die
+größere.
+
+**Kein Antrag.** Jonas hat den Ring seit dem 11. April in der Tasche und
+stellt die Frage nicht — mit einer Begründung, die das Thema des ganzen
+Buches schließt: *„Eine echte Frage ist eine, bei der die andere Person
+nein sagen kann, ohne dass irgendetwas kaputtgeht."*
+
+**Die Fäden sind zu:** die Frist zum 15. Januar (verlängert, dann
+erledigt), Wendland (*„Machen Sie es wieder."*), Kellermann (abgelehnt,
+und die Reallast über zwanzig Jahre ist die Antwort auf ihn), Emils
+„Papa" (Kap. 28, beiläufig, weil es beiläufig sein muss), der Zettel in
+der Schranktür (Ende Februar abgenommen), Frau Kettler (echter
+Arbeitsvertrag nach neun Jahren), und Bastians Band-4-Haken (*„Frag mich
+im Sommer"*).
+
+**Der Ausblick:** Amira ruft an. Vierzehn Monate mit Theo verheiratet,
+und am Montag läuft ihre Frist ab. → Band 2.
+
+---
+
+## Länge — die Entscheidung, die jetzt ansteht
+
+**30.463 Wörter.** Schnitt 1.088 pro Kapitel. Das ist eine lange Novelle
+oder ein kurzer Roman, kein 60.000-Wörter-Liebesroman.
+
+Ich habe die Kapitel bewusst nicht gestreckt. Eine Szene, die 1.000
+Wörter braucht, wird durch 1.000 weitere schlechter.
+
+**Was gegen „so lassen" spricht, und es ist unser eigener Messwert:**
+`../KDP-NISCHEN.md` hat für jede deutsche Romance-Nische **8 bis 10 von
+10** Titeln in Kindle Unlimited gefunden. In KU wird **pro gelesener
+Seite** bezahlt, nicht pro Verkauf. Ein durchgelesenes Buch mit 60.000
+Wörtern bringt damit rund doppelt so viel wie eines mit 30.000. Das ist
+kein Geschmacksurteil, das ist die Mechanik der Abrechnung.
+
+**Empfehlung: ein zweiter Durchgang auf ~55.000–60.000 Wörter.**
+
+Nicht durch längere Kapitel, sondern durch **neue Szenen**, und zwar
+dort, wo das Buch heute dünn ist:
+
+| Wo | Was fehlt | ca. |
 |---|---|---|
-| 15 | Sie schlägt die Mappe auf. Das Laborblatt, nicht der Unterhalt, ist die Wunde. | er |
-| 16 | Jugendamt: Er lernt, dass er nur ihre Zustimmung braucht. Er reißt das Laborblatt weg — und lässt am selben Abend ihre Finanzierung prüfen. | er, unbemerkt |
-| 17 | Fieberkrampf, Kinderklinik. Er ist „Begleitperson". Emil will nur zu ihm. | niemand |
-| 18 | Zwanzig Minuten beim Jugendamt. Am selben Nachmittag: Die Bank verkauft ihre Forderung. | — |
-| 19 | Sie weiß es seit dem 4. Dezember und sagt es ihm neunzehn Tage lang nicht. | sie |
-| 20 | Er kauft die Forderung am 22.12. um 17:40 — privat, mit eigenem Geld. Und sagt beiläufig: *„Machen Sie es wie üblich."* | er |
-| 21 | 23.12., 9:14 Uhr: Sie erfährt es aus einem Serienbrief. Abends erzählt er ihr alles, vollständig und ehrlich — vierzehn Stunden zu spät. | beide |
+| Phase 1 (Kap. 1–7) | Das Café als Ort: ein ganzer Arbeitstag von halb fünf an, die Stammkunden mit Namen, die Großmutter in Rückblenden | +8.000 |
+| Phase 1–2 | Jonas' Firma als Ort: eine Baustelle, eine Verhandlung, die nichts mit Leni zu tun hat — damit sein Beruf mehr ist als eine Behauptung | +5.000 |
+| Phase 2 (Kap. 8–14) | Der Oktober wird in Kapitel 8 zusammengefasst. Er sollte zwei bis drei eigene Szenen bekommen — das ist das Verlieben, und es ist zu schnell | +7.000 |
+| Phase 3 (Kap. 15–21) | Die zwei Wochen zwischen Mappe und Fieberkrampf, aus Emils Alltag heraus | +4.000 |
+| Phase 4 | Die Eingewöhnung und der März: heute in Kapitel 28 zusammengefasst, könnte ein eigenes Kapitel sein | +4.000 |
 
-**Er verschweigt nichts.** Das ist wichtig und war schwer. In Kapitel 21
-sagt Jonas alle fünf Punkte, ungefragt, in der richtigen Reihenfolge,
-inklusive Kaufpreis. Es rettet ihn trotzdem nicht — weil eine
-Abtretungsanzeige um 9:14 Uhr schneller war als er. Der Leser darf ihm
-nichts vorwerfen können außer dem einen: dass er acht Tage gewartet hat.
+Das ist ein zweiter Block von etwa derselben Größe wie der erste.
 
-**Das Machtgefälle bleibt gelöst — durch eine Umkehrung.** Die
-gefährlichste Stelle des ganzen Tropes ist der Moment, in dem der Reiche
-das Problem der Armen mit Geld wegmacht. Genau das passiert hier, und
-das Buch nennt es beim Namen: Niklas rechnet vor, dass ein Erlass
-49.800 € Schenkungsteuer auslösen würde — Geld, das sie nicht hat. Die
-juristisch saubere Lösung (Forderung behalten, nichts einfordern) ist
-die emotional tödliche. *„Jeden Morgen würdest du dich entscheiden, es
-nicht zu tun, und ich würde jeden Morgen wissen, dass du dich
-entschieden hast."*
-
-**Sie benutzt das Kind nicht.** Leni wirft ihn raus und lässt im selben
-Atemzug Anerkennung, Sorgeerklärung und Umgang unangetastet: *„Das ist
-seins. Nicht deins."* Ohne diesen Satz wäre Phase 4 nicht mehr zu
-retten, und die Heldin wäre weg.
-
-**Die Brüder haben geliefert.** Niklas (Kap. 14, 20) ist der einzige,
-der Jonas ins Gesicht sagt, was er tut — zweimal, beide Male vergeblich.
-Bastian tritt in Kapitel 20 auf, sagt den saubersten Satz des Buches
-(*„Ein Geschenk kann man ablehnen"*) und nimmt seinen Band-4-Faden mit:
-*„Was Eigenes. Frag mich im Sommer. Und sag den anderen nicht, dass ich
-hier war."*
-
-**Frau Kettler** hat zweimal recht behalten, beide Male vorher: *„So
-einer fängt irgendwann an zu regeln"* (Kap. 13) und *„Sie machen es
-schon wieder"* (Kap. 19).
+**Die Alternative, falls das zu lang dauert:** Band 1 bewusst als kurzen
+Reihen-Einstieg veröffentlichen und Band 2–4 in voller Länge schreiben.
+Kurze, günstige Einstiegsbände sind im Selfpublishing eine verbreitete
+Strategie — **gemessen habe ich das nicht**, im Gegensatz zum
+KU-Anteil oben. Wenn du diesen Weg gehst, muss die Länge im Klappentext
+erkennbar sein, sonst kommen die Bewertungen wegen der Länge.
 
 ---
 
-## Was ich korrigiert habe
+## Was du entscheiden musst
 
-**Die Zeitlinie war kaputt.** Kapitel 12 nannte einen Ultraschall vom
-14.08.2024 und einen Geburtstag am 7. März — das geht rechnerisch nicht
-zusammen, und Kapitel 3 sprach von „zwei Jahren und vier Monaten". Jetzt
-festgelegt und im ganzen Text durchgezogen:
+**1. Happy for now statt Happy End.** Das Buch endet ohne Antrag: Emil
+sagt Papa, die Schulden sind weg, sie wohnen nicht zusammen, der Ring
+liegt in einer Schublade. Erzählerisch ist das die richtige Entscheidung
+— es ist der Beweis, dass Jonas gelernt hat, was eine Frage ist. Für
+diese Genre-Nische ist es eine **Abweichung von der Erwartung**. Entweder
+eine Schluss-Szene mit Antrag ergänzen (zwei Absätze) oder es so lassen
+und im Klappentext ehrlich andeuten. Der Klappentext ist bereits
+entsprechend entschärft.
 
-| | |
-|---|---|
-| Hochzeit in Travemünde | August 2024 |
-| Erster Ultraschall | 10.10.2024 |
-| Emil geboren | 8. Mai 2025 |
-| Erzählte Gegenwart | September – Dezember 2026 |
+**2. Explizitheit.** Der Text ist durchgehend geschlossen — es gibt keine
+Liebesszene. Das war in Phase 2 zwingend (eine gemeinsame Nacht kurz vor
+„Emil ist deiner" hätte die Heldin beschädigt) und in Phase 4 eine
+bewusste Wahl. Die einzige mögliche Stelle wäre Kapitel 28. Die
+Entscheidung hat Folgen für Kategorie, Cover und Erwartung.
 
-Emil ist damit durchgehend achtzehn Monate alt und wird im Mai zwei.
-Kapitel 17 nennt das Geburtsdatum bei der Klinikaufnahme laut — es muss
-ab jetzt stimmen.
+**3. Namen prüfen.** Vor dem Hochladen gegen reale Firmen abgleichen:
+„Reinhardt Immobilien Hamburg", „Café Voss", „Hanseatische Volksbank",
+„Kellermann", „Kita Kirchenweg".
 
----
-
-## Das Strukturproblem besteht weiter
-
-Schnitt jetzt **1.059 Wörter** pro Kapitel. Geplant waren 2.000–2.500.
-Hochgerechnet: **~29.600 Wörter** — Novellenlänge.
-
-Das ändert sich in Phase 4 nicht mehr, und ich strecke dafür keine
-Szene. Die Entscheidung, die danach ansteht:
-
-1. **Als Novelle veröffentlichen.** Bei KU wird nach gelesenen Seiten
-   bezahlt, nicht nach Verkäufen — kurze Bände werden häufiger
-   durchgelesen. 30.000 Wörter sind für Band 1 einer Reihe vertretbar,
-   müssen aber im Titel/Blurb ehrlich als Novelle erkennbar sein, sonst
-   kommen Ein-Stern-Bewertungen wegen der Länge.
-2. **Auf Romanlänge ausbauen.** Nicht durch längere Kapitel, sondern
-   durch neue Szenen in Phase 1 und 2: das Café als Ort, die Stammkunden,
-   Lenis Großmutter, Jonas' Alltag in der Firma. Das ist ein zweiter
-   Durchgang von etwa derselben Größe wie der erste.
-
-Meine Empfehlung: erst Phase 4 fertig schreiben, dann entscheiden. Ein
-vollständiges Buch mit 30.000 Wörtern ist ein Buch. Ein halbes mit
-60.000 ist keins.
-
----
-
-## Wie es weitergeht
-
-**Phase 4, Kapitel 22–28.** Die Beats stehen in `../BAND1-STRUKTUR.md`,
-Abschnitt 4, und sie passen nach dem Umbau von Phase 3 noch genauer als
-vorher:
-
-- **Erkenntnis Jonas** — er hat gehandelt wie sein Vater: verwaltet statt
-  gefragt. Das ist jetzt wörtlich vorbereitet (*„Man wartet, Junge"*,
-  Kap. 10; *„Ihn allein zurechtkommen lassen"*, Kap. 11).
-- **Erkenntnis Leni** — sie hat ihn nie wählen lassen. Sie hat es in
-  Kapitel 21 schon ausgesprochen; in Phase 4 muss sie danach handeln.
-- **Große Geste** — er zieht das Kaufangebot zurück und baut um ihr Haus
-  herum. Dazu kommt jetzt die schwerere Aufgabe: die Forderung wieder
-  loszuwerden, **ohne** sie zu beschenken und **ohne** sie an Kellermann
-  zu geben. Der saubere Weg existiert und kostet ihn Geld und Gesicht.
-- **Sie geht den Schritt** — sie bittet ihn zum ersten Mal um etwas.
-- **Zusammen** — kein Antrag, ein Abendessen zu dritt.
-- **Ausblick** — Theos Frau ruft an. → Band 2.
-
-Offene Fäden, die in Phase 4 auflaufen müssen: die Frist zum
-**15. Januar**, der Beirat und **Wendland**, **Kellermann** als reale
-Alternative, Emils **„Papa"**, und der Zettel in der Schranktür, den
-Leni erst im Februar abnimmt.
-
----
-
-## Drei Dinge, die du entscheiden musst
-
-**Explizitheit.** Der Text ist geschlossen. Die einzige mögliche Stelle
-liegt jetzt in Phase 4, nach der großen Geste. Das Gerüst trägt beide
-Fassungen; die Entscheidung hat Folgen für Kategorie, Cover und
-Erwartung.
-
-**Namen prüfen.** „Reinhardt Immobilien Hamburg", „Café Voss",
-„Hanseatische Volksbank" und „Kellermann" gegen reale Firmen abgleichen,
-bevor irgendetwas hochgeladen wird.
-
-**KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
+**4. KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
 geschrieben und bei KDP **anzugeben**. Nicht offengelegte KI-Inhalte
 führen zur Entfernung, im Wiederholungsfall zur Kontosperre samt
 gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Struktur, Recherche und
-Lektorat fallen nicht darunter, weil sie nicht Buchinhalt werden.
+Lektorat fallen nicht darunter. Je mehr Prosa beim zweiten Durchgang von
+dir stammt, desto weniger fällt darunter — die Angabe bleibt trotzdem
+korrekt, solange KI-Text im Buch steht.
 
-**Rechtliches im Text.** Die deutschen Angaben stimmen nach allgemeiner
-Rechtslage und sind bewusst prüfbar gehalten: Sorgerecht bei nicht
-verheirateten Eltern und Beurkundung beim Jugendamt (Kap. 16, 18),
-Kündigung und Verwertung einer Grundschuld (Kap. 19), Abtretungsanzeige
-nach § 409 BGB (Kap. 21), Schenkungsteuer Steuerklasse III mit 20.000 €
-Freibetrag und 30 % (Kap. 20). Für einen Roman reicht das; ein Blick
-eines Fachanwalts in die Endkorrektur wäre trotzdem gut, weil das Buch
-mit diesen Zahlen argumentiert statt sie nur zu erwähnen.
+---
+
+## Recherche, die im Text als Behauptung steht
+
+Das Buch argumentiert mit Zahlen und Paragrafen, statt sie nur zu
+erwähnen. Diese Stellen sind nach allgemeiner Rechtslage geprüft, aber
+nicht einzelfallgeprüft:
+
+| Kap. | Behauptung |
+|---|---|
+| 14, 16, 18 | Nicht verheiratete Eltern: Mutter allein sorgeberechtigt; Vaterschaftsanerkennung und Sorgeerklärung beim Jugendamt, kostenfrei, nur mit Zustimmung der Mutter; kein Abstammungsgutachten nötig, solange niemand bestreitet |
+| 14 | Unterhalt nach Düsseldorfer Tabelle |
+| 18, 19 | Kündigung, Grundschuld mit Unterwerfungsklausel, Verwertung |
+| 20 | Schenkungsteuer Steuerklasse III: 20.000 € Freibetrag, 30 % — ≈ 49.800 € auf einen Erlass von 214.600 € |
+| 21 | Abtretungsanzeige nach § 409 BGB |
+| 24, 27 | Grunddienstbarkeiten, Bewertung durch öffentlich bestellten Sachverständigen, Konfusion, Reallast |
+
+Ein Fachanwalt in der Endkorrektur wäre gut — nicht weil ich einen
+Fehler vermute, sondern weil das Buch mit diesen Zahlen argumentiert.
 
 ---
 
