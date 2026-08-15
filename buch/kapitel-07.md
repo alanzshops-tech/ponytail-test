@@ -20,7 +20,7 @@ Am Montag rief ich in seinem Büro an.
 
 Nicht auf dem Handy. Auf der Zentrale, dieselbe Nummer wie damals, und
 als sich eine Frauenstimme meldete — nicht dieselbe, eine jüngere —,
-sagte ich: „Frau Voss, Kehrwieder vierzehn. Ich hätte gern Herrn
+sagte ich: „Frau Voss, Kehrwieder zwölf. Ich hätte gern Herrn
 Reinhardt.“
 
 „Einen Moment, ich verbinde.“

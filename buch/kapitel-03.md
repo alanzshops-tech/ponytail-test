@@ -18,6 +18,18 @@ und viel gesehen haben, und sagte: „Ich kann bis vier.“
 
 Ich ging ins Schlafzimmer und setzte mich aufs Bett und sah die Wand an.
 
+Auf dem Nachttisch lag das Album. Ein billiges aus dem Drogeriemarkt,
+mit Sonnenblumen auf dem Umschlag, weil es das einzige war, das an dem
+Tag im Regal stand. Ich habe angefangen, es zu füllen, bevor Emil da
+war — das erste Bild ist ein Ultraschall, und ich habe es eingeklebt, weil
+ich dachte, irgendwann zeige ich ihm das.
+
+Ich habe nie dazugesagt, wem *ihm*.
+
+Ich schlug es nicht auf. Ich sah es nur an und dachte den Satz, den ich
+seit zwei Jahren denke, wenn ich es ansehe: *Vierzig Bilder, und auf
+keinem ist jemand außer uns.*
+
 ---
 
 Hier ist, was passiert ist, damit es einmal gesagt ist.
@@ -27,15 +39,47 @@ Travemünde. Ich war Trauzeugin, ich hatte die Torte gemacht, dreistöckig,
 mit Holunderblüte, und ich hatte sie um vier Uhr morgens im Kofferraum
 transportiert und nicht geschlafen.
 
-Er war der Trauzeuge der anderen Seite. Wir hatten beide den ganzen Abend
-Aufgaben, und irgendwann waren die Aufgaben vorbei, und wir standen um
-zwei Uhr nachts auf einer Terrasse und redeten über nichts, und dann
-über einiges.
+Er war der Trauzeuge der anderen Seite.
+
+Das Erste, was ich von ihm gesehen habe, war, wie er um halb sechs
+nachmittags mit einem Klappstuhl unter jedem Arm über den Rasen ging,
+weil zu wenige da waren und niemand sonst es gemerkt hatte. Er trug
+einen Anzug, der zu gut war für Klappstühle, und er hat nicht ein
+einziges Mal so getan, als würde er das nicht gern machen.
+
+Dann hat er eine Rede gehalten, drei Minuten, ohne Zettel, ohne einen
+einzigen Witz über die Brautmutter. Am Ende hat er gesagt, er könne
+nicht besonders gut reden, was gelogen war, und alle haben gelacht, und
+er hat sich hingesetzt und ausgesehen wie jemand, der froh ist, dass es
+vorbei ist.
+
+Wir hatten beide den ganzen Abend Aufgaben, und irgendwann waren die
+Aufgaben vorbei, und wir standen um zwei Uhr nachts auf einer Terrasse
+und redeten über nichts, und dann über einiges.
 
 Er sagte mir, dass sein Vater gestorben war, als er vierundzwanzig war.
 Ich sagte ihm, dass meine Mutter nach der Scheidung zwei Jahre lang nicht
 aufgestanden ist. Wir sagten uns Dinge, die man Fremden sagt, weil Fremde
 sie nicht gegen einen verwenden.
+
+Am Samstagnachmittag sind wir an den Strand gegangen, an den Teil, wo
+niemand ist, weil dort die Steine anfangen. Er hat die Schuhe in der
+Hand getragen und mir erklärt, woran man erkennt, ob ein Haus
+Setzungsrisse hat oder nur Putzrisse, und ich habe ihm erklärt, warum
+Blätterteig zweiunddreißig Lagen hat und nicht dreiunddreißig.
+
+Wir haben beide zugehört. Das ist mir hinterher aufgefallen, weil es
+selten ist.
+
+Irgendwann hat er gefragt, was ich machen würde, wenn Geld keine Rolle
+spielte, und ich habe gesagt: genau das hier, nur mit einem dichten
+Dach. Und er hat gelacht und dann aufgehört zu lachen und gesagt, das
+sei die erste Antwort auf diese Frage, die er je geglaubt habe.
+
+Ich habe nicht zurückgefragt.
+
+Das ist der zweite Satz, den ich zwei Jahre lang mit mir herumgetragen
+habe, und der erste, bei dem ich selbst schuld bin.
 
 Es wurden zwei Nächte. Sonntagmorgen brachte er mich zum Zug, und auf dem
 Bahnsteig klingelte sein Telefon, und ich sah, wie er das Gesicht
@@ -71,6 +115,14 @@ Beim dritten Mal, zwei Wochen später, hat dieselbe Frau gesagt: „Frau
 Voss, Herr Reinhardt lässt ausrichten, dass er sich meldet, wenn es
 zeitlich passt.“
 
+Ich habe die drei Anrufe aufgeschrieben. Datum, Uhrzeit, Dauer, hinten
+in das Heft, in dem sonst die Bestellungen stehen. Nicht um jemandem
+etwas zu beweisen — damals war niemand da, dem ich etwas hätte beweisen
+wollen. Ich habe es aufgeschrieben, weil ich Angst hatte, mir das
+irgendwann selbst anders zu erzählen.
+
+Das Heft liegt noch in der Schublade unter der Kasse.
+
 *Lässt ausrichten.*
 
 Ich habe danach nicht mehr angerufen. Ich habe einen Brief geschrieben,
@@ -87,6 +139,18 @@ Begleitung.* Eine Frau in Grün, sein Arm um ihre Taille.
 
 Ich habe die Zeitung weggeworfen und beschlossen, dass ich das allein
 mache.
+
+Meine Mutter hat, als ich es ihr im Dezember gesagt habe, genau einen
+Satz dazu gesagt. Sie hat nicht gefragt, wer er ist. Sie hat gesagt:
+
+„Sie regeln erst alles, und dann sind sie weg.“
+
+Sie hat das über meinen Vater gesagt, der 2003 an einem Dienstag die Tür
+zugemacht hat, nachdem er die Versicherungen umgeschrieben und den Wagen
+verkauft und ihr einen Ordner hingelegt hatte, in dem alles drin war.
+
+Ich habe den Satz übernommen, ohne ihn zu prüfen. Das macht man mit
+Sätzen von Müttern.
 
 ---
 
@@ -133,7 +197,7 @@ und rechnete zum ersten Mal ernsthaft mit dem Verkauf.
 
 Und dann fiel mir ein, was er gesagt hatte.
 
-*Ohne vierzehn haben wir zwei Bauteile, die nicht zusammenhängen.*
+*Ohne zwölf haben wir zwei Bauteile, die nicht zusammenhängen.*
 
 Ich stand auf und ging zum Fenster und sah nach links, wo Kehrwieder zehn
 bis zwölf stand, eingerüstet, Netze über der Fassade. Und nach rechts, wo

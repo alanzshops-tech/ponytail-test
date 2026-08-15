@@ -41,12 +41,54 @@ eine Tür zu, und das Weinen wurde leiser.
 
 ---
 
+Der Vormittag hatte angefangen wie jeder Vormittag.
+
+Acht Uhr, vierter Stock, Ericusspitze, der Tisch von 1998. Bauleitung
+Rothenburgsort: zwei Wochen Verzug, weil eine Fundamentplatte auf einen
+Kanal trifft, von dem die Stadt nichts wusste und wir auch nicht.
+Danach Vermietung: elf Wohnungen in Barmbek, sieben davon vergeben,
+zwei Interessenten, die nicht zahlen können, und zwei, die es können und
+trotzdem zögern.
+
+Danach eine Dreiviertelstunde über einen Aufzug.
+
+So sieht es aus, wenn man Immobilien macht. Es sieht nicht aus wie in
+den Zeitungen. Es sieht aus wie Aufzüge.
+
+Um Viertel nach zehn kam Theo mit der Rolle unter dem Arm, und wir
+standen zwanzig Minuten über Blatt vier, dem Lageplan.
+
+„Das hier“, sagte mein Bruder und tippte auf ein Rechteck am Rand, „ist
+das Problem.“
+
+Kehrwieder 12. Ein Kontorhaus von 1911, vier Geschosse, an einer Ecke,
+an der die Zeile knickt. Die anderen fünf Grundstücke gehören uns seit
+2019.
+
+„Ohne das Haus habe ich zwei Bauteile und keinen Zusammenhang. Und die
+Erschließung geht dann außen herum, unter der Straße, mit der Stadt und
+dem Denkmalschutz. Das will keiner.“
+
+„Was ist mit der Durchfahrt?“
+
+„Die gehört auch dazu. Das Tor unter dem Haus ist der einzige Weg in den
+Hof, in den man mit einem Fahrzeug kommt.“ Er zuckte mit den Schultern.
+„Ohne das Haus haben wir hinten eine Grube, die man zu Fuß erreicht.“
+
+Ich habe das damals gehört und weggelegt. Es war eine technische
+Bemerkung unter vielen.
+
+Dass es der teuerste Satz dieses Jahres war, habe ich erst im Dezember
+begriffen.
+
+---
+
 Ich hatte gewusst, dass sie es ist. Das muss ich sagen, weil alles andere
 gelogen wäre und weil ich vor mir selbst nicht besser dastehen will, als
 ich dastand.
 
 Ich hatte die Akte gelesen. *Voss, Marlene, geb. 1995. Alleineigentümerin.
-Objekt Kehrwieder 14. Erbschaft 2023.* Ich hatte den Namen gesehen und
+Objekt Kehrwieder 12. Erbschaft 2023.* Ich hatte den Namen gesehen und
 war aufgestanden und ans Fenster gegangen, und Theo hatte gefragt, ob mir
 schlecht sei, und ich hatte gesagt, es sei nichts.
 
@@ -54,6 +96,12 @@ Ich hätte jemand anderen schicken können. Wir haben vierzig Leute, die
 Ankäufe verhandeln. Ich habe niemanden geschickt.
 
 Ich habe mir eingeredet, dass es Anstand sei.
+
+Frau Kuhlmann hat mir den Mantel gegeben und gefragt, ob sie den Termin
+eintragen soll. Ich habe gesagt, das sei nicht nötig. Meine Assistentin
+arbeitet seit neunzehn Jahren für mich, erst für meinen Vater, dann für
+mich, und sie hat nichts gesagt und dabei ein Gesicht gemacht, das alles
+gesagt hat.
 
 ---
 
@@ -82,7 +130,7 @@ Sie blinzelte einmal. Sonst nichts.
 
 „Das ist etwa das Anderthalbfache“, sagte ich, „von dem, was ein Gutachter
 Ihnen sagen würde. Ich sage Ihnen auch, warum. Wir haben Kehrwieder zehn
-bis zwanzig. Das Projekt funktioniert nur als Block. Ohne vierzehn haben
+bis zwanzig. Das Projekt funktioniert nur als Block. Ohne zwölf haben
 wir zwei Bauteile, die nicht zusammenhängen, und eine Erschließung, die
 uns die Wirtschaftlichkeit kostet. Ihr Haus ist für mich mehr wert als
 für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik.“
@@ -126,6 +174,26 @@ Es war der Anflug von etwas, das fast Belustigung gewesen wäre, wenn sie
 es zugelassen hätte.
 
 „Ja“, sagte sie. „Weiß ich auch.“
+
+---
+
+Ich sah mich um, während sie hinter den Tresen zurückging, und ich sah
+mich zum ersten Mal richtig um.
+
+Zwölf Tische. Ein Boden aus alten Fliesen, schwarz und weiß, in einer
+Ecke ausgebessert mit welchen, die fast passen. Eine Vitrine, in der um
+zwölf Uhr mittags noch vier Stück von irgendeinem Zitronenkuchen lagen
+und sonst nichts mehr. Hinter dem Tresen eine Reihe Kaffeedosen aus
+Blech, gebraucht, beschriftet mit Sorten, die es vermutlich nicht mehr
+gibt. Im Flur zum Treppenhaus etwas Gerahmtes, das aussah wie eine
+handgeschriebene Liste.
+
+Ich bin in meinem Beruf in vielleicht dreitausend Objekten gewesen. Ich
+sehe zuerst den Grundriss, dann den Zustand, dann die Nutzung. Das ist
+kein Zynismus, das ist Handwerk — wer ein Haus betritt und zuerst die
+Gardinen sieht, kauft falsch.
+
+In diesem Haus habe ich zuerst die Kaffeedosen gesehen.
 
 ---
 

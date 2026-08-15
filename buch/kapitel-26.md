@@ -87,6 +87,14 @@ sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
 
 „Und was schlagen Sie vor?“
 
+Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
+betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
+sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
+Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
+hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
+Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
+damit die nächste Zahl eine hat.
+
 Ich schob das vierte Blatt hin.
 
 „Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem

@@ -100,7 +100,7 @@ gewartet, bis ich frage. Er hat nicht abgewartet, ob es rauskommt.
 Er sagte: Deine Bank hat gekündigt, ich weiß es seit dem fünfzehnten.
 
 Er sagte: Ich habe die Forderung gestern gekauft, privat, nicht über die
-Firma, für einhundertsechsundachtzig.
+Firma, für einhundertsechsundachtzigtausend Euro.
 
 Er sagte: Ich fordere nichts, nie, und ich kann sie dir nicht schenken,
 und dann erklärte er mir Schenkungsteuer und Steuerklasse drei und

@@ -24,7 +24,8 @@ halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
 Ich habe den Legoturm nicht gebaut.
 
 Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit.
+den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
+abgestimmt haben, ob ich noch Geschäftsführer bin.
 
 ---
 

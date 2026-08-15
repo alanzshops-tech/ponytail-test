@@ -4,13 +4,13 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 | Kap. | Wörter | Satz Median | Streuung | >30 Wörter | Dialog | Füllw./1000 | Adv./1000 |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | 1025 | 11 | 9.6 | 5.3 % | 1.1 % | 10.7 | 90.3 |
-| 2 | 1044 | 8.0 | 10.2 | 4.7 % | 23.5 % | 11.5 | 64.2 |
-| 3 | 1019 | 10.0 | 9.1 | 5.1 % | 9.5 % | 9.8 | 59.0 |
+| 1 | 1955 | 11 | 10.9 | 7.4 % | 3.3 % | 7.7 | 85.5 |
+| 2 | 1483 | 10.0 | 9.4 | 3.4 % | 21.0 % | 9.4 | 63.7 |
+| 3 | 1520 | 10.0 | 10.1 | 7.5 % | 7.0 % | 9.9 | 62.0 |
 | 4 | 963 | 9.0 | 9.3 | 7.7 % | 31.3 % | 8.3 | 64.2 |
 | 5 | 940 | 8.0 | 12.0 | 14.7 % | 23.9 % | 7.4 | 70.6 |
 | 6 | 1136 | 10.0 | 10.7 | 9.3 % | 34.5 % | 7.9 | 63.1 |
-| 7 | 973 | 8 | 9.4 | 4.7 % | 29.3 % | 8.2 | 60.6 |
+| 7 | 973 | 8 | 9.4 | 4.7 % | 29.2 % | 8.2 | 60.6 |
 | 8 | 1149 | 10 | 11.8 | 9.9 % | 28.8 % | 8.7 | 70.1 |
 | 9 | 992 | 10 | 8.2 | 3.7 % | 28.2 % | 7.1 | 69.9 |
 | 10 | 1106 | 9.0 | 9.3 | 6.4 % | 33.6 % | 10.8 | 76.8 |
@@ -24,29 +24,29 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 18 | 1026 | 9.0 | 10.6 | 7.1 % | 14.6 % | 4.9 | 50.1 |
 | 19 | 1151 | 9.0 | 8.6 | 5.2 % | 23.0 % | 7.8 | 69.4 |
 | 20 | 951 | 9 | 9.7 | 5.3 % | 28.1 % | 2.1 | 65.7 |
-| 21 | 1454 | 8 | 9.3 | 5.7 % | 34.3 % | 6.2 | 73.6 |
+| 21 | 1455 | 8 | 9.3 | 5.7 % | 34.2 % | 6.2 | 73.6 |
 | 22 | 1056 | 9 | 10.0 | 9.6 % | 39.1 % | 5.7 | 71.4 |
 | 23 | 1196 | 10.0 | 9.5 | 10.4 % | 14.3 % | 5.9 | 66.8 |
 | 24 | 1099 | 9 | 8.9 | 3.3 % | 39.2 % | 7.3 | 71.3 |
 | 25 | 1202 | 10 | 8.9 | 5.0 % | 24.0 % | 9.2 | 72.7 |
-| 26 | 1128 | 11 | 8.7 | 4.5 % | 36.5 % | 10.6 | 69.1 |
+| 26 | 1197 | 11 | 9.1 | 5.4 % | 34.4 % | 10.0 | 69.1 |
 | 27 | 1360 | 6.0 | 9.3 | 5.5 % | 24.8 % | 5.9 | 61.7 |
-| 28 | 1106 | 10 | 10.4 | 4.6 % | 15.8 % | 11.8 | 64.2 |
+| 28 | 1121 | 10 | 10.6 | 5.7 % | 15.6 % | 11.6 | 64.7 |
 
 ## Ausreißer
 
-- **Dialoganteil**: Median 28.15 · höchster Kapitel 24 (39.2) · niedrigster Kapitel 1 (1.1)
-- **Füllwörter je 1000**: Median 8.05 · höchster Kapitel 15 (17.7) · niedrigster Kapitel 20 (2.1)
+- **Dialoganteil**: Median 28.15 · höchster Kapitel 24 (39.2) · niedrigster Kapitel 1 (3.3)
+- **Füllwörter je 1000**: Median 7.85 · höchster Kapitel 15 (17.7) · niedrigster Kapitel 20 (2.1)
 - **Satzlänge Median**: Median 9.0 · höchster Kapitel 1 (11) · niedrigster Kapitel 27 (6.0)
-- **Adverbien je 1000**: Median 69.4 · höchster Kapitel 1 (90.3) · niedrigster Kapitel 18 (50.1)
+- **Adverbien je 1000**: Median 69.4 · höchster Kapitel 1 (85.5) · niedrigster Kapitel 18 (50.1)
 
 ## Wortwiederholung im Nahbereich
 
 Dasselbe Wort mindestens viermal innerhalb von 220 Wörtern. Über ein ganzes Kapitel verteilt wäre das normal; dicht beieinander fällt es auf.
 
-- **Kapitel 1**: sagen (5×), sehen (4×)
-- **Kapitel 2**: sagen (6×), haben (5×), sehen (4×), gehen (4×), haus (4×), nachdenken (4×)
-- **Kapitel 3**: sagen (9×), haben (4×), frau (4×), stehen (4×)
+- **Kapitel 1**: sagen (6×), kommen (4×), sehen (4×), dann (4×), immer (4×), gehören (4×)
+- **Kapitel 2**: sagen (8×), sehen (6×), haben (5×), wissen (4×), haus (4×), gehen (4×)
+- **Kapitel 3**: sagen (7×), haben (4×), sehen (4×), stehen (4×), satz (4×)
 - **Kapitel 4**: sagen (8×), sehen (5×), stehen (4×)
 - **Kapitel 5**: sagen (6×), stehen (5×), sehen (5×), dann (4×), woche (4×), haben (4×)
 - **Kapitel 6**: sagen (8×), sehen (5×), zeigen (5×), spät (4×), baum (4×)
@@ -69,18 +69,20 @@ Dasselbe Wort mindestens viermal innerhalb von 220 Wörtern. Über ein ganzes Ka
 - **Kapitel 23**: fragen (7×), sagen (5×), kommen (4×), dann (4×), großmutter (4×)
 - **Kapitel 24**: sagen (6×), wissen (4×)
 - **Kapitel 25**: gehen (4×), sagen (4×), frau (4×), haben (4×)
-- **Kapitel 26**: sagen (8×), stehen (4×), schreiben (4×)
+- **Kapitel 26**: sagen (9×), stehen (4×), schreiben (4×)
 - **Kapitel 27**: sagen (6×), stehen (4×), notar (4×), forderung (4×), frau (4×), gehen (4×)
 - **Kapitel 28**: sagen (6×), haben (6×)
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 1107
-- Schließende **richtig** `“`: 1107
+- Öffnende Anführungszeichen `„`: 1128
+- Schließende **richtig** `“`: 1128
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 7
 - Auslassung falsch `...`: 0 · richtig `…`: 1
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
+
 
 

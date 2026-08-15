@@ -86,9 +86,40 @@ tourniert.
 Zum Beispiel den Satz: *Wir sehen uns leider nicht mehr in der Lage.*
 
 Oder: *Die Immobilie ist in ihrer aktuellen Nutzung nicht ausreichend
-werthaltig.*
+werthaltig.* Was übersetzt heißt: Ein Café im Erdgeschoss bringt weniger
+als Wohnungen, und deshalb ist das Haus als Sicherheit weniger wert, als
+es auf dem Papier steht.
 
 Falten. Drehen. Kühlen.
+
+---
+
+Ein Morgen hier hat eine Reihenfolge, und die Reihenfolge ist älter als
+ich.
+
+Zuerst der Ofen. Er braucht vierzig Minuten, bis die linke Seite so heiß
+ist wie die rechte, und er wird es nie ganz. Man legt deshalb links das,
+was ohnehin blass bleiben darf.
+
+Dann das Wasser für den Hefeteig, das genau so warm sein muss, wie ein
+Handgelenk es nicht spürt. Meine Großmutter hat nie ein Thermometer
+besessen. Ich habe eins, in der Schublade, ungeöffnet, ein Geschenk.
+
+Dann das Mehl. Zehn Kilo aus dem Sack in die Wanne, und wer glaubt, das
+sei kein Sport, hat es nie gemacht. Danach die Butter aus dem Kühlraum,
+die genau fünfzehn Minuten liegen muss: zu kalt bricht sie, zu warm
+verschwindet sie im Teig, und dann hat man kein Blätterteig, sondern
+Fett mit Mehl.
+
+Und dann steht man da, zwischen halb fünf und sechs, in einem Raum, in
+dem es nach Hefe riecht und nach dem nassen Stein von draußen, und die
+einzigen Geräusche sind das Rauschen des Ofens und ab und zu ein Auto
+auf dem Kopfsteinpflaster, das langsamer fährt, als es müsste, weil das
+Pflaster nass ist.
+
+Ich mag diese Stunde. Ich habe sie immer gemocht, auch als sie mir nicht
+gehörte, sondern meiner Großmutter, und ich saß mit sieben auf dem Hocker
+und durfte den Zucker abwiegen.
 
 Über mir knarrte eine Diele. Ich hielt an, den Ausstecher in der Hand,
 und horchte nach oben, wie man das nach zwei Jahren automatisch tut. Dann
@@ -112,6 +143,21 @@ mehr gehoben hat. Vier Stockwerke. Unten das Café, darüber unsere Wohnung,
 und darüber zwei Etagen, die leer stehen, weil ich sie nicht sanieren
 kann und nicht vermieten darf, solange sie so sind, wie sie sind.
 
+Unter dem Haus geht die Durchfahrt zum Hinterhof durch, mit einem Tor,
+das mein Großvater 1971 hat erneuern lassen und über dessen Scharniere
+er sich bis zu seinem Tod geärgert hat. Es ist der einzige Weg, auf dem
+man mit einem Fahrzeug hinter diese Häuserzeile kommt. Das weiß ich seit
+immer, so wie man weiß, wo bei sich zu Hause die Sicherungen sind. Dass
+es etwas wert sein könnte, ist mir erst sehr viel später eingefallen,
+und da war es fast zu spät.
+
+Im Flur zwischen Café und Treppenhaus hängt die Chronik. Mein Großvater
+hat sie 1964 angefangen, auf einem Bogen Packpapier, und meine
+Großmutter hat sie weitergeführt, bis die Handschrift zu zittrig wurde.
+Zweiundsechzig Jahre in ungefähr vierzig Zeilen. *1972 neuer Ofen.*
+*1974 schwerer Winter, Brückenbau, Straße gesperrt.* *1989 Frau Petersen
+gestorben.* Zum Krieg stehen vier Zeilen, weil davor nichts war.
+
 Meine Großmutter hatte hier Kaffee geröstet, bis das Rösten unrentabel
 wurde, und danach hatte sie Kuchen gebacken, bis sie nicht mehr konnte.
 Ich habe ihr an dem Tisch, an dem ich jetzt jeden Morgen stehe, mit
@@ -121,6 +167,41 @@ was schiefgegangen war. *Merk dir das, Marlene. Wegwerfen kann jeder.*
 
 Sie hat mir nicht erklärt, was man macht, wenn ein Haus dreihundertneun
 Quadratmeter Dachfläche hat und die Dachfläche undicht ist.
+
+---
+
+Frau Kettler kam um zehn nach sechs, wie seit neun Jahren, und wie seit
+neun Jahren durch die Hoftür und nicht durch den Laden.
+
+„Es zieht von oben“, sagte sie statt guten Morgen. „Im Flur. Das kommt
+vom Dach.“
+
+„Ich weiß.“
+
+„Ich sage es nur.“
+
+„Ich weiß, dass Sie es nur sagen.“
+
+Sie hängte ihren Mantel auf den Haken, der seit neun Jahren ihrer ist,
+und sah mich dabei von der Seite an, so wie sie es tut, wenn sie etwas
+bemerkt und beschließt, es noch nicht zu sagen.
+
+Frau Kettler ist einundsechzig. Sie hat drei eigene Kinder großgezogen
+und neun fremde. Sie kommt morgens um zehn nach sechs, nimmt Emil, macht
+ihn fertig, und um halb neun bringt sie ihn in den Hof oder nach oben,
+je nach Wetter, und dafür bekommt sie ein Geld, das ich nicht
+ausschreiben mag, weil es zu wenig ist. Sie hat nie danach gefragt. Das
+ist der Teil, der mir nachts einfällt.
+
+„Der Zitronentarte ist zu wenig“, sagte sie aus dem Backraum.
+
+„Ich weiß.“
+
+„Sie machen immer zu wenig davon.“
+
+„Weil er übrig bleiben könnte.“
+
+„Er bleibt nie übrig, Frau Voss. Seit zwei Jahren nicht.“
 
 ---
 
@@ -140,6 +221,27 @@ Dann die beiden Frauen von der Speditionsversicherung, dann die Handwerker
 vom Umbau zwei Häuser weiter, die immer viel zu laut und viel zu freundlich
 waren.
 
+Um zehn nach neun kam Herr Kubatz mit dem Hund. Er kommt seit vier
+Jahren um zehn nach neun, er nimmt seit vier Jahren einen Milchkaffee
+und ein Franzbrötchen, und er liest jedes Mal die Karte. Jedes Mal. Der
+Hund heißt Sender, weil Herr Kubatz früher beim NDR war, und Sender legt
+sich unter den zweiten Tisch von links, immer denselben, und seufzt
+dabei wie ein alter Mann.
+
+Gegen halb zehn kam Sanne aus dem Copyshop schräg gegenüber, um Wechselgeld
+zu tauschen, weil ihr Automat wieder keine Zweier nahm. Der Copyshop war
+mal ein Kurzwarenladen; er hat ihrer Großmutter gehört, so wie mir
+meiner gehört. Wir duzen uns, seit wir sieben waren, und wir reden nie
+über Geld, weil wir beide wissen, wie es bei der anderen steht.
+
+„Du siehst aus wie ein Mittwoch“, sagte sie.
+
+„Es ist Donnerstag.“
+
+„Eben.“
+
+---
+
 Um kurz nach zehn kam Frau Kettler mit Emil an der Hand die Treppe
 herunter, weil er darauf bestanden hatte, und Emil marschierte auf mich
 zu, mit dieser Entschlossenheit, die achtzehn Monate alte Menschen haben,
@@ -158,15 +260,24 @@ sahen uns beide an und sagten nichts darüber.
 
 Er hat dunkle Augen. Meine sind grau. Meine Mutter hat mich mal gefragt,
 von wem er die habe, und ich habe gesagt, das wisse ich nicht so genau,
-und sie hat mich angesehen und nicht weiter gefragt, was ihr sehr
-ähnlich sieht und wofür ich ihr immer noch dankbar bin.
+und sie hat mich angesehen und nicht weiter gefragt, was meiner Mutter
+sehr ähnlich sieht und wofür ich ihr immer noch dankbar bin.
+
+Er nahm den Teigrest und hielt ihn mir hin.
+
+„Danke“, sagte ich und nahm ihn.
+
+Er macht das mit allem. Steinen, Löffeln, Bauklötzen, einmal mit einer
+Schnecke. Man muss es nehmen, sonst hält er den Arm ausgestreckt, bis
+der Arm wehtut.
 
 ---
 
 Der Brief von der Bank lag seit gestern in der Schublade unter der Kasse,
-zwischen den Quittungsblöcken. Ich hatte ihn zweimal gelesen und dann
-weggelegt, so wie man eine Rechnung weglegt, von der man weiß, dass sie
-sich nicht durch Weglegen erledigt.
+zwischen den Quittungsblöcken. Die Schublade klemmt seit dem Frühjahr;
+man muss sie anheben und dann ziehen. Ich hatte den Brief zweimal gelesen
+und dann weggelegt, so wie man eine Rechnung weglegt, von der man weiß,
+dass sie sich nicht durch Weglegen erledigt.
 
 *Sehr geehrte Frau Voss,*
 
@@ -177,10 +288,23 @@ Zeitpunkt zur Rückzahlung fällig.*
 Sechs Wochen.
 
 Ich hatte in der Nacht gerechnet, mit dem Handy auf dem Küchentisch und
-Emils Babyfon daneben. Ich hatte gerechnet, was das Café im Jahr abwirft,
-und was ein Dach kostet, und was passiert, wenn man beides voneinander
-abzieht. Das Ergebnis war jedes Mal dasselbe, egal wie oft ich die Zahlen
-umstellte.
+Emils Babyfon daneben. Das Café macht im guten Monat elftausend Umsatz.
+Davon gehen ab: Wareneinsatz, Strom — und Strom ist bei einem Ofen keine
+Nebensache —, Frau Kettler, Versicherungen, die Rate, die es bis gestern
+noch gab. Was übrig bleibt, ist eine Zahl, mit der zwei Menschen leben
+können, wenn nichts kaputtgeht.
+
+Das Dach ist kaputtgegangen.
+
+Ich hatte gerechnet, was ein Dach kostet, und was passiert, wenn man
+beides voneinander abzieht, und dann hatte ich es noch einmal gerechnet,
+mit anderen Annahmen, freundlicheren. Das Ergebnis war jedes Mal
+dasselbe, egal wie oft ich die Zahlen umstellte. Es fehlt nicht ein
+bisschen. Es fehlt alles.
+
+Um drei Uhr nachts hatte ich das Handy weggelegt und war in den Backraum
+gegangen und hatte den Teig angesetzt, obwohl er erst um vier dran
+gewesen wäre.
 
 Man kann sehr viel nicht denken, während man Blätterteig tourniert.
 Aber nicht alles.
@@ -190,6 +314,12 @@ Aber nicht alles.
 Um zwölf wurde es ruhig, so wie immer zwischen dem Frühstück und dem
 Nachmittag. Ich wischte die Vitrine von innen, was man tun kann, wenn man
 nichts zu tun hat und nicht dastehen will.
+
+Draußen hörte der Regen auf, und die Sonne kam für ungefähr vier Minuten
+durch, und das Fleet warf das Licht an die Decke, wo es sich bewegte, wie
+es das in diesem Haus immer tut. Meine Großmutter hat das *die Fische*
+genannt. Ich weiß bis heute nicht, ob sie sich das ausgedacht hat oder
+ob es hier alle so nennen.
 
 Die Tür ging auf.
 
@@ -205,7 +335,7 @@ loszulassen. Dunkler Mantel, zu gut für den Regen draußen. Er war
 schmaler geworden im Gesicht. Um die Augen herum war etwas, das vor zwei
 Jahren nicht da gewesen war.
 
-Zwei Jahre und vier Monate, um genau zu sein.
+Zwei Jahre und zwei Monate, um genau zu sein.
 
 Ich hatte mir das oft vorgestellt. In den ersten Monaten fast täglich,
 und man stellt sich in solchen Fällen immer vor, dass man etwas
@@ -263,12 +393,54 @@ eine Tür zu, und das Weinen wurde leiser.
 
 ---
 
+Der Vormittag hatte angefangen wie jeder Vormittag.
+
+Acht Uhr, vierter Stock, Ericusspitze, der Tisch von 1998. Bauleitung
+Rothenburgsort: zwei Wochen Verzug, weil eine Fundamentplatte auf einen
+Kanal trifft, von dem die Stadt nichts wusste und wir auch nicht.
+Danach Vermietung: elf Wohnungen in Barmbek, sieben davon vergeben,
+zwei Interessenten, die nicht zahlen können, und zwei, die es können und
+trotzdem zögern.
+
+Danach eine Dreiviertelstunde über einen Aufzug.
+
+So sieht es aus, wenn man Immobilien macht. Es sieht nicht aus wie in
+den Zeitungen. Es sieht aus wie Aufzüge.
+
+Um Viertel nach zehn kam Theo mit der Rolle unter dem Arm, und wir
+standen zwanzig Minuten über Blatt vier, dem Lageplan.
+
+„Das hier“, sagte mein Bruder und tippte auf ein Rechteck am Rand, „ist
+das Problem.“
+
+Kehrwieder 12. Ein Kontorhaus von 1911, vier Geschosse, an einer Ecke,
+an der die Zeile knickt. Die anderen fünf Grundstücke gehören uns seit
+2019.
+
+„Ohne das Haus habe ich zwei Bauteile und keinen Zusammenhang. Und die
+Erschließung geht dann außen herum, unter der Straße, mit der Stadt und
+dem Denkmalschutz. Das will keiner.“
+
+„Was ist mit der Durchfahrt?“
+
+„Die gehört auch dazu. Das Tor unter dem Haus ist der einzige Weg in den
+Hof, in den man mit einem Fahrzeug kommt.“ Er zuckte mit den Schultern.
+„Ohne das Haus haben wir hinten eine Grube, die man zu Fuß erreicht.“
+
+Ich habe das damals gehört und weggelegt. Es war eine technische
+Bemerkung unter vielen.
+
+Dass es der teuerste Satz dieses Jahres war, habe ich erst im Dezember
+begriffen.
+
+---
+
 Ich hatte gewusst, dass sie es ist. Das muss ich sagen, weil alles andere
 gelogen wäre und weil ich vor mir selbst nicht besser dastehen will, als
 ich dastand.
 
 Ich hatte die Akte gelesen. *Voss, Marlene, geb. 1995. Alleineigentümerin.
-Objekt Kehrwieder 14. Erbschaft 2023.* Ich hatte den Namen gesehen und
+Objekt Kehrwieder 12. Erbschaft 2023.* Ich hatte den Namen gesehen und
 war aufgestanden und ans Fenster gegangen, und Theo hatte gefragt, ob mir
 schlecht sei, und ich hatte gesagt, es sei nichts.
 
@@ -276,6 +448,12 @@ Ich hätte jemand anderen schicken können. Wir haben vierzig Leute, die
 Ankäufe verhandeln. Ich habe niemanden geschickt.
 
 Ich habe mir eingeredet, dass es Anstand sei.
+
+Frau Kuhlmann hat mir den Mantel gegeben und gefragt, ob sie den Termin
+eintragen soll. Ich habe gesagt, das sei nicht nötig. Meine Assistentin
+arbeitet seit neunzehn Jahren für mich, erst für meinen Vater, dann für
+mich, und sie hat nichts gesagt und dabei ein Gesicht gemacht, das alles
+gesagt hat.
 
 ---
 
@@ -304,7 +482,7 @@ Sie blinzelte einmal. Sonst nichts.
 
 „Das ist etwa das Anderthalbfache“, sagte ich, „von dem, was ein Gutachter
 Ihnen sagen würde. Ich sage Ihnen auch, warum. Wir haben Kehrwieder zehn
-bis zwanzig. Das Projekt funktioniert nur als Block. Ohne vierzehn haben
+bis zwanzig. Das Projekt funktioniert nur als Block. Ohne zwölf haben
 wir zwei Bauteile, die nicht zusammenhängen, und eine Erschließung, die
 uns die Wirtschaftlichkeit kostet. Ihr Haus ist für mich mehr wert als
 für den Markt. Das ist kein Entgegenkommen. Das ist Arithmetik.“
@@ -348,6 +526,26 @@ Es war der Anflug von etwas, das fast Belustigung gewesen wäre, wenn sie
 es zugelassen hätte.
 
 „Ja“, sagte sie. „Weiß ich auch.“
+
+---
+
+Ich sah mich um, während sie hinter den Tresen zurückging, und ich sah
+mich zum ersten Mal richtig um.
+
+Zwölf Tische. Ein Boden aus alten Fliesen, schwarz und weiß, in einer
+Ecke ausgebessert mit welchen, die fast passen. Eine Vitrine, in der um
+zwölf Uhr mittags noch vier Stück von irgendeinem Zitronenkuchen lagen
+und sonst nichts mehr. Hinter dem Tresen eine Reihe Kaffeedosen aus
+Blech, gebraucht, beschriftet mit Sorten, die es vermutlich nicht mehr
+gibt. Im Flur zum Treppenhaus etwas Gerahmtes, das aussah wie eine
+handgeschriebene Liste.
+
+Ich bin in meinem Beruf in vielleicht dreitausend Objekten gewesen. Ich
+sehe zuerst den Grundriss, dann den Zustand, dann die Nutzung. Das ist
+kein Zynismus, das ist Handwerk — wer ein Haus betritt und zuerst die
+Gardinen sieht, kauft falsch.
+
+In diesem Haus habe ich zuerst die Kaffeedosen gesehen.
 
 ---
 
@@ -438,6 +636,18 @@ und viel gesehen haben, und sagte: „Ich kann bis vier.“
 
 Ich ging ins Schlafzimmer und setzte mich aufs Bett und sah die Wand an.
 
+Auf dem Nachttisch lag das Album. Ein billiges aus dem Drogeriemarkt,
+mit Sonnenblumen auf dem Umschlag, weil es das einzige war, das an dem
+Tag im Regal stand. Ich habe angefangen, es zu füllen, bevor Emil da
+war — das erste Bild ist ein Ultraschall, und ich habe es eingeklebt, weil
+ich dachte, irgendwann zeige ich ihm das.
+
+Ich habe nie dazugesagt, wem *ihm*.
+
+Ich schlug es nicht auf. Ich sah es nur an und dachte den Satz, den ich
+seit zwei Jahren denke, wenn ich es ansehe: *Vierzig Bilder, und auf
+keinem ist jemand außer uns.*
+
 ---
 
 Hier ist, was passiert ist, damit es einmal gesagt ist.
@@ -447,15 +657,47 @@ Travemünde. Ich war Trauzeugin, ich hatte die Torte gemacht, dreistöckig,
 mit Holunderblüte, und ich hatte sie um vier Uhr morgens im Kofferraum
 transportiert und nicht geschlafen.
 
-Er war der Trauzeuge der anderen Seite. Wir hatten beide den ganzen Abend
-Aufgaben, und irgendwann waren die Aufgaben vorbei, und wir standen um
-zwei Uhr nachts auf einer Terrasse und redeten über nichts, und dann
-über einiges.
+Er war der Trauzeuge der anderen Seite.
+
+Das Erste, was ich von ihm gesehen habe, war, wie er um halb sechs
+nachmittags mit einem Klappstuhl unter jedem Arm über den Rasen ging,
+weil zu wenige da waren und niemand sonst es gemerkt hatte. Er trug
+einen Anzug, der zu gut war für Klappstühle, und er hat nicht ein
+einziges Mal so getan, als würde er das nicht gern machen.
+
+Dann hat er eine Rede gehalten, drei Minuten, ohne Zettel, ohne einen
+einzigen Witz über die Brautmutter. Am Ende hat er gesagt, er könne
+nicht besonders gut reden, was gelogen war, und alle haben gelacht, und
+er hat sich hingesetzt und ausgesehen wie jemand, der froh ist, dass es
+vorbei ist.
+
+Wir hatten beide den ganzen Abend Aufgaben, und irgendwann waren die
+Aufgaben vorbei, und wir standen um zwei Uhr nachts auf einer Terrasse
+und redeten über nichts, und dann über einiges.
 
 Er sagte mir, dass sein Vater gestorben war, als er vierundzwanzig war.
 Ich sagte ihm, dass meine Mutter nach der Scheidung zwei Jahre lang nicht
 aufgestanden ist. Wir sagten uns Dinge, die man Fremden sagt, weil Fremde
 sie nicht gegen einen verwenden.
+
+Am Samstagnachmittag sind wir an den Strand gegangen, an den Teil, wo
+niemand ist, weil dort die Steine anfangen. Er hat die Schuhe in der
+Hand getragen und mir erklärt, woran man erkennt, ob ein Haus
+Setzungsrisse hat oder nur Putzrisse, und ich habe ihm erklärt, warum
+Blätterteig zweiunddreißig Lagen hat und nicht dreiunddreißig.
+
+Wir haben beide zugehört. Das ist mir hinterher aufgefallen, weil es
+selten ist.
+
+Irgendwann hat er gefragt, was ich machen würde, wenn Geld keine Rolle
+spielte, und ich habe gesagt: genau das hier, nur mit einem dichten
+Dach. Und er hat gelacht und dann aufgehört zu lachen und gesagt, das
+sei die erste Antwort auf diese Frage, die er je geglaubt habe.
+
+Ich habe nicht zurückgefragt.
+
+Das ist der zweite Satz, den ich zwei Jahre lang mit mir herumgetragen
+habe, und der erste, bei dem ich selbst schuld bin.
 
 Es wurden zwei Nächte. Sonntagmorgen brachte er mich zum Zug, und auf dem
 Bahnsteig klingelte sein Telefon, und ich sah, wie er das Gesicht
@@ -491,6 +733,14 @@ Beim dritten Mal, zwei Wochen später, hat dieselbe Frau gesagt: „Frau
 Voss, Herr Reinhardt lässt ausrichten, dass er sich meldet, wenn es
 zeitlich passt.“
 
+Ich habe die drei Anrufe aufgeschrieben. Datum, Uhrzeit, Dauer, hinten
+in das Heft, in dem sonst die Bestellungen stehen. Nicht um jemandem
+etwas zu beweisen — damals war niemand da, dem ich etwas hätte beweisen
+wollen. Ich habe es aufgeschrieben, weil ich Angst hatte, mir das
+irgendwann selbst anders zu erzählen.
+
+Das Heft liegt noch in der Schublade unter der Kasse.
+
 *Lässt ausrichten.*
 
 Ich habe danach nicht mehr angerufen. Ich habe einen Brief geschrieben,
@@ -507,6 +757,18 @@ Begleitung.* Eine Frau in Grün, sein Arm um ihre Taille.
 
 Ich habe die Zeitung weggeworfen und beschlossen, dass ich das allein
 mache.
+
+Meine Mutter hat, als ich es ihr im Dezember gesagt habe, genau einen
+Satz dazu gesagt. Sie hat nicht gefragt, wer er ist. Sie hat gesagt:
+
+„Sie regeln erst alles, und dann sind sie weg.“
+
+Sie hat das über meinen Vater gesagt, der 2003 an einem Dienstag die Tür
+zugemacht hat, nachdem er die Versicherungen umgeschrieben und den Wagen
+verkauft und ihr einen Ordner hingelegt hatte, in dem alles drin war.
+
+Ich habe den Satz übernommen, ohne ihn zu prüfen. Das macht man mit
+Sätzen von Müttern.
 
 ---
 
@@ -553,7 +815,7 @@ und rechnete zum ersten Mal ernsthaft mit dem Verkauf.
 
 Und dann fiel mir ein, was er gesagt hatte.
 
-*Ohne vierzehn haben wir zwei Bauteile, die nicht zusammenhängen.*
+*Ohne zwölf haben wir zwei Bauteile, die nicht zusammenhängen.*
 
 Ich stand auf und ging zum Fenster und sah nach links, wo Kehrwieder zehn
 bis zwölf stand, eingerüstet, Netze über der Fassade. Und nach rechts, wo
@@ -1224,7 +1486,7 @@ Am Montag rief ich in seinem Büro an.
 
 Nicht auf dem Handy. Auf der Zentrale, dieselbe Nummer wie damals, und
 als sich eine Frauenstimme meldete — nicht dieselbe, eine jüngere —,
-sagte ich: „Frau Voss, Kehrwieder vierzehn. Ich hätte gern Herrn
+sagte ich: „Frau Voss, Kehrwieder zwölf. Ich hätte gern Herrn
 Reinhardt.“
 
 „Einen Moment, ich verbinde.“
@@ -4296,7 +4558,7 @@ gewartet, bis ich frage. Er hat nicht abgewartet, ob es rauskommt.
 Er sagte: Deine Bank hat gekündigt, ich weiß es seit dem fünfzehnten.
 
 Er sagte: Ich habe die Forderung gestern gekauft, privat, nicht über die
-Firma, für einhundertsechsundachtzig.
+Firma, für einhundertsechsundachtzigtausend Euro.
 
 Er sagte: Ich fordere nichts, nie, und ich kann sie dir nicht schenken,
 und dann erklärte er mir Schenkungsteuer und Steuerklasse drei und
@@ -5432,6 +5694,14 @@ sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
 
 „Und was schlagen Sie vor?“
 
+Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
+betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
+sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
+Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
+hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
+Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
+damit die nächste Zahl eine hat.
+
 Ich schob das vierte Blatt hin.
 
 „Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem
@@ -5855,7 +6125,8 @@ halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
 Ich habe den Legoturm nicht gebaut.
 
 Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit.
+den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
+abgestimmt haben, ob ich noch Geschäftsführer bin.
 
 ---
 
