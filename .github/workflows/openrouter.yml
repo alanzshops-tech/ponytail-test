@@ -131,8 +131,14 @@ jobs:
           # Ergebnis still wegwirft und dabei gruen meldet, ist schlimmer
           # als eins, das scheitert. Deshalb wird der tatsaechlich
           # angeforderte Pfad immer mitgenommen.
+          # Nicht der Dateiname, sondern sein Verzeichnis: Das Skript
+          # setzt die Endung nach dem tatsaechlichen Medientyp der
+          # Antwort. Angefordert war jonas.png, geschrieben wurde
+          # jonas.jpg -- ein `git add` auf den exakten Namen fand nichts,
+          # und der Lauf meldete wieder "Keine Aenderung." bei gruenem
+          # Haken.
           if [ -n "${BILD_AUSGABE_PFAD}" ]; then
-            git add "${BILD_AUSGABE_PFAD}" 2>/dev/null || true
+            git add "$(dirname "${BILD_AUSGABE_PFAD}")" 2>/dev/null || true
           fi
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
