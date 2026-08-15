@@ -21,6 +21,20 @@ hätte, und das mache ich nicht.
 
 ---
 
+Emil schlief oben. Es war zwanzig nach acht, die Uhrzeit, zu der ich seit
+achtzehn Monaten eine halbe Stunde für mich habe, und ich hatte mir
+diese halbe Stunde vorgestellt: Er kommt, wir sitzen, ich erzähle ihm,
+wie Emil heute den ganzen Vormittag versucht hat, einen Löffel in die
+Steckdose zu stecken, und er lacht, und wir sind zwei Leute, die über
+ihr Kind reden.
+
+Ich hatte sogar den Kuchen dagelassen, den ich sonst um sechs wegräume.
+
+Ich sage das, damit klar ist, mit welcher Erwartung ich diese Mappe
+aufgeschlagen habe.
+
+---
+
 Sie war gut gemacht. Das muss man sagen.
 
 Register, Reiter, oben rechts eine Seitenzahl. Jemand hatte sich Mühe

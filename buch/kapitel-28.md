@@ -87,6 +87,29 @@ Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
 
 ---
 
+Im März kamen die Bohrpfähle.
+
+Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
+gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
+kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
+Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
+gefragt hätte, sondern weil es im Vertrag von September steht, in einem
+Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
+was daraus wird.
+
+Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
+Laden, und sah zu, wie die Maschine arbeitete.
+
+„Der Baum kommt an die Stelle“, sagte er und zeigte.
+
+„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
+
+„Nicht dieser.“ Theo trank. „Der steht seit November in der
+Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
+Irgendwann geben sie auf.“
+
+---
+
 Am achten Mai wurde Emil zwei.
 
 Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den

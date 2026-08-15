@@ -3,6 +3,27 @@
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
 
+Ich habe am Sonntagabend meinen Ausweis rausgelegt. Auf den Küchentisch,
+neben die Autoschlüssel, so wie man das mit Dingen macht, die man am
+nächsten Morgen nicht vergessen darf.
+
+Dann habe ich ihn wieder eingesteckt, weil ich mir albern vorkam, und um
+halb sieben am Montagmorgen habe ich ihn noch einmal rausgeholt und
+kontrolliert, ob er gültig ist.
+
+Er war seit vier Monaten abgelaufen.
+
+Es gibt eine Sorte Panik, die man mit Anfang dreißig nicht mehr für
+möglich hält, und ich hatte sie um Viertel vor sieben in meiner Küche.
+Der Reisepass lag im Safe im Büro. Ich bin über die leere Stadt gefahren,
+war um zwanzig nach sieben an der Ericusspitze, und Frau Kuhlmann, die
+immer vor mir da ist, sah mich in Mantel und Turnschuhen an und fragte
+nichts.
+
+Um halb neun stand ich mit einem gültigen Reisepass vor dem Jugendamt,
+in Turnschuhen, und habe im Aufzug gemerkt, dass ich das Jackett im Büro
+gelassen hatte.
+
 Ich hatte alles vier.
 
 Der Gang im zweiten Stock roch nach Bohnerwachs und Weihnachten, weil

@@ -6,6 +6,18 @@ und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
 Es gab Kartoffelsalat und Würstchen, weil mein Vater das so wollte und
 weil seit zwölf Jahren niemand den Mut hat, es zu ändern.
 
+Wir sind vier Brüder und sitzen zu dritt am Tisch, seit Bastian nicht
+mehr kommt. Niklas erzählt, Theo sagt etwas Trockenes dazu, ich schenke
+nach. Das ist die Aufteilung. Sie steht nirgends und wird nie
+verhandelt.
+
+Meine Mutter hat gefragt, ob es im Kontorhaus vorangeht. Theo hat
+gesagt, ja. Niklas hat mich angesehen und nichts gesagt.
+
+Um neun hat Niklas eine Geschichte über einen Mandanten erzählt, die
+sehr lustig war, und ich habe zwei Sekunden zu spät gelacht, und Theo
+hat es gemerkt.
+
 Ich funktionierte gut. Ich habe darin Übung.
 
 Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch.“

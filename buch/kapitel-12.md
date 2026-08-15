@@ -66,11 +66,28 @@ Sie schob es zu mir.
 
 Es waren nicht viele Bilder. Vielleicht vierzig.
 
+Ich habe später ausgerechnet, was das heißt. Achtzehn Monate sind
+fünfhundertvierzig Tage. Vierzig Bilder.
+
+Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
+
 Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
 Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
 Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
 
 Dann Emil auf dem Arm einer alten Frau, die ich nicht kannte.
+
+„Wer ist das?“
+
+„Frau Kettler.“ Sie sah nicht hin. „Sie hat ihn gehalten, als ich das
+erste Mal wieder in den Backraum musste. Am achten Tag.“
+
+„Am achten Tag nach der Geburt?“
+
+„Der Laden macht nicht von allein auf.“
+
+Ich habe darauf nichts gesagt, weil mir nichts eingefallen ist, was
+nicht falsch gewesen wäre.
 
 Dann Emil im Schnee. Emil mit einem Löffel. Emil schlafend auf einer
 Wolldecke im Café, unter dem Fenstertisch, an dem ich sechs Wochen lang

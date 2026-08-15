@@ -19,6 +19,12 @@ Und dann fing er an zu zucken.
 
 ---
 
+Ich habe in diesen Sekunden zwei Dinge gleichzeitig getan, die nicht
+zusammenpassen: Ich habe ihn auf die Seite gedreht, alles vom Bett
+geräumt und auf die Uhr gesehen — und ich habe dabei gedacht, ganz klar
+und ganz ruhig, dass ich hier allein bin und dass ich hier immer allein
+bin.
+
 Ich will das nicht ausführlich beschreiben. Es dauerte nach Aussage der
 Ärztin ungefähr neunzig Sekunden, und ich habe in diesen neunzig
 Sekunden eine Sache gelernt, die man nur einmal lernt: Es gibt keinen

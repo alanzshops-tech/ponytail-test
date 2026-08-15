@@ -79,6 +79,13 @@ Er sah das Stück Banane in seiner Hand an.
 
 Wir frühstückten.
 
+Ich schreibe das Wort hin und merke, dass ich es in dieser Wohnung seit
+zwei Jahren nicht benutzt habe. Ich esse morgens im Stehen, mit dem
+Telefon in der anderen Hand, während Emil isst und ich zwischendurch
+aufwische.
+
+An diesem Morgen saß jemand da und aß mit.
+
 Das ist ein zu großes Wort für das, was in meiner Küche morgens
 passiert, aber es gab Kaffee, und Jonas saß auf dem Stuhl, auf dem
 sonst niemand sitzt, weil er wackelt, und ich sagte es ihm nicht, und er

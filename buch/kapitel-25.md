@@ -57,6 +57,23 @@ Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle.“
 
 ---
 
+Zwischen dem fünften und dem achten habe ich zum ersten Mal in meinem
+Leben etwas getan, das mir bis heute unangenehm ist: Ich bin durch mein
+eigenes Haus gegangen wie eine Käuferin.
+
+Vom Keller aufwärts. Die Leitungen von 1962. Der Backraum mit dem Ofen,
+dessen linke Seite vierzig Grad zu kalt ist. Das Café mit den zwölf
+Tischen und der ausgebesserten Ecke. Die Wohnung. Die zwei leeren
+Etagen, in denen es nach Staub riecht und in denen an einer Wand noch
+die Regalhalterungen der Rösterei sitzen.
+
+Ich habe versucht, das alles anzusehen, ohne die Chronik im Flur
+mitzudenken.
+
+Es ging ungefähr sieben Minuten.
+
+---
+
 Kellermann kam am achten.
 
 Er kam persönlich, was ich rückblickend als das größte Kompliment werte,

@@ -2878,11 +2878,28 @@ Sie schob es zu mir.
 
 Es waren nicht viele Bilder. Vielleicht vierzig.
 
+Ich habe später ausgerechnet, was das heißt. Achtzehn Monate sind
+fünfhundertvierzig Tage. Vierzig Bilder.
+
+Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
+
 Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
 Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
 Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
 
 Dann Emil auf dem Arm einer alten Frau, die ich nicht kannte.
+
+„Wer ist das?“
+
+„Frau Kettler.“ Sie sah nicht hin. „Sie hat ihn gehalten, als ich das
+erste Mal wieder in den Backraum musste. Am achten Tag.“
+
+„Am achten Tag nach der Geburt?“
+
+„Der Laden macht nicht von allein auf.“
+
+Ich habe darauf nichts gesagt, weil mir nichts eingefallen ist, was
+nicht falsch gewesen wäre.
 
 Dann Emil im Schnee. Emil mit einem Löffel. Emil schlafend auf einer
 Wolldecke im Café, unter dem Fenstertisch, an dem ich sechs Wochen lang
@@ -3120,6 +3137,13 @@ Er sah das Stück Banane in seiner Hand an.
 
 Wir frühstückten.
 
+Ich schreibe das Wort hin und merke, dass ich es in dieser Wohnung seit
+zwei Jahren nicht benutzt habe. Ich esse morgens im Stehen, mit dem
+Telefon in der anderen Hand, während Emil isst und ich zwischendurch
+aufwische.
+
+An diesem Morgen saß jemand da und aß mit.
+
 Das ist ein zu großes Wort für das, was in meiner Küche morgens
 passiert, aber es gab Kaffee, und Jonas saß auf dem Stuhl, auf dem
 sonst niemand sitzt, weil er wackelt, und ich sagte es ihm nicht, und er
@@ -3251,6 +3275,23 @@ Ich habe ihn trotzdem gedacht.
 ---
 
 # Kapitel 14 — Jonas
+
+Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
+macht, wenn man nicht weiß, wie man es macht.
+
+Ich war in einer Sitzung über Rothenburgsort und habe hinterher gefragt,
+was beschlossen wurde. Ich habe am Donnerstagabend in einem Laden am
+Neuen Wall gestanden, zwischen Holzeisenbahnen und Stapelbechern, und
+bin nach zwanzig Minuten ohne etwas wieder rausgegangen, weil ich nicht
+wusste, was ein Kind mit achtzehn Monaten kann.
+
+Ich habe es nachgelesen. Nachts, im Bett, auf einer Seite für Eltern.
+Achtzehn Monate: fünfzig Wörter, Treppen im Nachstellschritt, Trotz
+beginnt. Ich habe zwanzig Minuten über eine Tabelle gelesen und mich
+dabei gefühlt wie jemand, der für eine Prüfung lernt, die vor anderthalb
+Jahren stattgefunden hat.
+
+---
 
 Niklas kam am Freitagabend in mein Büro, ohne anzuklopfen, mit einer
 Flasche Bier in jeder Hand, was bei ihm bedeutet, dass er die Sache ernst
@@ -3481,6 +3522,20 @@ Ich machte keinen Kaffee. Ich setzte Emil in den Laufstall hinter der
 Theke, wo er die Kaffeemühle nicht erreicht, und ich brauchte diese
 dreißig Sekunden, weil ich sonst mit dem Kind auf dem Arm geschrien
 hätte, und das mache ich nicht.
+
+---
+
+Emil schlief oben. Es war zwanzig nach acht, die Uhrzeit, zu der ich seit
+achtzehn Monaten eine halbe Stunde für mich habe, und ich hatte mir
+diese halbe Stunde vorgestellt: Er kommt, wir sitzen, ich erzähle ihm,
+wie Emil heute den ganzen Vormittag versucht hat, einen Löffel in die
+Steckdose zu stecken, und er lacht, und wir sind zwei Leute, die über
+ihr Kind reden.
+
+Ich hatte sogar den Kuchen dagelassen, den ich sonst um sechs wegräume.
+
+Ich sage das, damit klar ist, mit welcher Erwartung ich diese Mappe
+aufgeschlagen habe.
 
 ---
 
@@ -3726,6 +3781,22 @@ einen Kugelschreiber.“
 
 Ich ging nicht sofort zu ihr. Ich ging erst ins Jugendamt.
 
+Vorher habe ich zwei Tage lang etwas gemacht, das ich noch nie gemacht
+habe: Ich habe gelesen, ohne dass jemand es von mir verlangt hat.
+
+Nicht Gesetze — die kann Niklas. Ich habe gelesen, wie das ist, wenn ein
+Vater spät dazukommt. Es gibt darüber erstaunlich wenig, und das meiste
+davon ist entweder Werbung für einen Anwalt oder ein Forum, in dem
+Menschen sehr wütend sind.
+
+Ein Satz ist hängen geblieben, aus einem Text, den eine Erzieherin
+geschrieben hat: *Das Kind hat nicht auf Sie gewartet. Es hat auf
+niemanden gewartet. Es hatte alles, was es brauchte, und Sie kommen jetzt
+dazu — das ist ein Geschenk und keine Rettung.*
+
+Ich habe den Satz zweimal gelesen und mich geärgert und dann gemerkt,
+dass ich mich ärgere, weil er stimmt.
+
 Das klingt nach dem nächsten Fehler, und ich verstehe, wenn Sie das
 denken. Aber ich wollte einmal in meinem Leben in ein Gespräch gehen,
 in dem ich nicht derjenige bin, der die Regeln erklärt.
@@ -3906,6 +3977,12 @@ gibt.
 Und dann fing er an zu zucken.
 
 ---
+
+Ich habe in diesen Sekunden zwei Dinge gleichzeitig getan, die nicht
+zusammenpassen: Ich habe ihn auf die Seite gedreht, alles vom Bett
+geräumt und auf die Uhr gesehen — und ich habe dabei gedacht, ganz klar
+und ganz ruhig, dass ich hier allein bin und dass ich hier immer allein
+bin.
 
 Ich will das nicht ausführlich beschreiben. Es dauerte nach Aussage der
 Ärztin ungefähr neunzig Sekunden, und ich habe in diesen neunzig
@@ -4128,6 +4205,27 @@ Nicht dir.“
 
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
+
+Ich habe am Sonntagabend meinen Ausweis rausgelegt. Auf den Küchentisch,
+neben die Autoschlüssel, so wie man das mit Dingen macht, die man am
+nächsten Morgen nicht vergessen darf.
+
+Dann habe ich ihn wieder eingesteckt, weil ich mir albern vorkam, und um
+halb sieben am Montagmorgen habe ich ihn noch einmal rausgeholt und
+kontrolliert, ob er gültig ist.
+
+Er war seit vier Monaten abgelaufen.
+
+Es gibt eine Sorte Panik, die man mit Anfang dreißig nicht mehr für
+möglich hält, und ich hatte sie um Viertel vor sieben in meiner Küche.
+Der Reisepass lag im Safe im Büro. Ich bin über die leere Stadt gefahren,
+war um zwanzig nach sieben an der Ericusspitze, und Frau Kuhlmann, die
+immer vor mir da ist, sah mich in Mantel und Turnschuhen an und fragte
+nichts.
+
+Um halb neun stand ich mit einem gültigen Reisepass vor dem Jugendamt,
+in Turnschuhen, und habe im Aufzug gemerkt, dass ich das Jackett im Büro
+gelassen hatte.
 
 Ich hatte alles vier.
 
@@ -4357,6 +4455,25 @@ der Küche und wartete darauf, dass es mich umhaut.
 Es haute mich nicht um.
 
 Das habe ich damals für Stärke gehalten. Es war Übung.
+
+---
+
+Ich habe zwischen dem vierten und dem achten drei Nächte lang gerechnet,
+und ich schreibe das Ergebnis hin, weil man es sonst für eine
+Redewendung hält.
+
+Verkauf des Wagens: dreitausendzweihundert. Er ist von 2014 und ich
+brauche ihn für die Großmärkte.
+Auflösung der Lebensversicherung: neuntausendsechshundert, abzüglich
+Abschlag.
+Die zwei leeren Etagen an Reinhardt, sofort, nicht in fünfzehn Jahren:
+vielleicht sechzigtausend, und dann gehören sie mir nie wieder.
+Sanne: sie hat es nicht, und ich würde sie nicht fragen.
+
+Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
+dreiundsiebzigtausend.
+
+Es fehlen zweihunderteinundvierzig.
 
 ---
 
@@ -4613,6 +4730,22 @@ Der Raum war eine Weile still.
 
 „Das ist erheblich schlimmer“, sagte Niklas. „Deshalb sage ich es dir
 ja.“
+
+---
+
+Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
+habe.
+
+Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
+Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
+sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
+meinem Schreibtisch und sah aus dem Fenster.
+
+Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
+ihre Nummer aufgerufen und wieder weggelegt.
+
+Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
+nicht daran gedacht.
 
 ---
 
@@ -5041,6 +5174,18 @@ und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
 Es gab Kartoffelsalat und Würstchen, weil mein Vater das so wollte und
 weil seit zwölf Jahren niemand den Mut hat, es zu ändern.
 
+Wir sind vier Brüder und sitzen zu dritt am Tisch, seit Bastian nicht
+mehr kommt. Niklas erzählt, Theo sagt etwas Trockenes dazu, ich schenke
+nach. Das ist die Aufteilung. Sie steht nirgends und wird nie
+verhandelt.
+
+Meine Mutter hat gefragt, ob es im Kontorhaus vorangeht. Theo hat
+gesagt, ja. Niklas hat mich angesehen und nichts gesagt.
+
+Um neun hat Niklas eine Geschichte über einen Mandanten erzählt, die
+sehr lustig war, und ich habe zwei Sekunden zu spät gelacht, und Theo
+hat es gemerkt.
+
 Ich funktionierte gut. Ich habe darin Übung.
 
 Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch.“
@@ -5256,6 +5401,24 @@ danach sieht er zur Tür.
 Er versteht *Siebenundzwanzigster* nicht. Er versteht den Tonfall, in
 dem man so etwas sagt, und mein Tonfall war in dieser Woche nicht
 besonders gut.
+
+---
+
+Ich hatte gekocht, für zwei, obwohl einer davon drei Bissen isst.
+
+Meine Mutter hat angerufen, um sechs, wie jedes Jahr. Wir haben elf
+Minuten geredet. Sie hat gefragt, ob es uns gutgeht, und ich habe ja
+gesagt, und sie hat gesagt, das sei die Hauptsache, und dann haben wir
+beide nichts mehr gewusst.
+
+Sie weiß nichts von der Bank. Sie weiß auch nichts von Jonas, außer dass
+es ihn gibt, seit ich es ihr im Dezember vor zwei Jahren gesagt habe.
+
+Ich hätte es ihr erzählen können. Es ist meine Mutter.
+
+Ich habe es nicht getan, und das ist derselbe Reflex wie bei allem
+anderen: Ich erzähle Dinge erst, wenn sie erledigt sind. Bei mir heißt
+Vertrauen offenbar, dass man jemandem hinterher berichtet.
 
 ---
 
@@ -5718,6 +5881,23 @@ fragen sollen.“
 
 „Die meisten fragen nie“, sagte Dr. Sassenberg. „Ich lebe davon, dass
 Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle.“
+
+---
+
+Zwischen dem fünften und dem achten habe ich zum ersten Mal in meinem
+Leben etwas getan, das mir bis heute unangenehm ist: Ich bin durch mein
+eigenes Haus gegangen wie eine Käuferin.
+
+Vom Keller aufwärts. Die Leitungen von 1962. Der Backraum mit dem Ofen,
+dessen linke Seite vierzig Grad zu kalt ist. Das Café mit den zwölf
+Tischen und der ausgebesserten Ecke. Die Wohnung. Die zwei leeren
+Etagen, in denen es nach Staub riecht und in denen an einer Wand noch
+die Regalhalterungen der Rösterei sitzen.
+
+Ich habe versucht, das alles anzusehen, ohne die Chronik im Flur
+mitzudenken.
+
+Es ging ungefähr sieben Minuten.
 
 ---
 
@@ -6187,6 +6367,25 @@ Das gilt auch, wenn er es gut macht.
 
 ---
 
+In den sechs Tagen dazwischen kam er zweimal, freitags und am Silvester,
+und wir waren beide sehr höflich.
+
+Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
+obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
+anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
+ob man einem Kind mit achtzehn Monaten schon Nüsse geben darf.
+
+Emil hat nichts davon gemerkt, und das war die ganze Absicht.
+
+Einmal, an der Tür, hat er gefragt: „Isst du eigentlich abends was?“
+
+Und ich habe gesagt: „Das steht nicht auf der Liste, Jonas.“
+
+Er hat genickt und ist gegangen, und ich habe die Tür zugemacht und bin
+im Flur stehen geblieben, bis ich den Wagen nicht mehr hörte.
+
+---
+
 Der Notartermin war am siebenundzwanzigsten Januar um neun Uhr, bei
 einem Notar am Neuen Wall, den weder er noch ich ausgesucht hatte,
 sondern Dr. Sassenberg.
@@ -6483,6 +6682,29 @@ Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
 Abschrift vom Jugendamt.
 
 Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
+
+---
+
+Im März kamen die Bohrpfähle.
+
+Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
+gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
+kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
+Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
+gefragt hätte, sondern weil es im Vertrag von September steht, in einem
+Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
+was daraus wird.
+
+Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
+Laden, und sah zu, wie die Maschine arbeitete.
+
+„Der Baum kommt an die Stelle“, sagte er und zeigte.
+
+„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
+
+„Nicht dieser.“ Theo trank. „Der steht seit November in der
+Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
+Irgendwann geben sie auf.“
 
 ---
 

@@ -57,6 +57,22 @@ ja.“
 
 ---
 
+Zwischen Niklas und Bastian lag eine Stunde, in der ich nichts getan
+habe.
+
+Das kommt bei mir nicht vor. Ich habe in meinem Kalender seit zwölf
+Jahren keine leere Stunde, außer wenn jemand absagt, und dann fülle ich
+sie. An diesem zweiundzwanzigsten Dezember saß ich von elf bis zwölf an
+meinem Schreibtisch und sah aus dem Fenster.
+
+Ich habe in dieser Stunde einmal das Telefon in die Hand genommen und
+ihre Nummer aufgerufen und wieder weggelegt.
+
+Ich schreibe das hin, weil man mir sonst zugutehalten könnte, ich hätte
+nicht daran gedacht.
+
+---
+
 Bastian stand um halb eins in der Tür, mit einem Rucksack, in einer
 Jacke, die er seit dem Abitur hat.
 

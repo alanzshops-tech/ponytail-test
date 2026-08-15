@@ -1,5 +1,22 @@
 # Kapitel 14 — Jonas
 
+Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
+macht, wenn man nicht weiß, wie man es macht.
+
+Ich war in einer Sitzung über Rothenburgsort und habe hinterher gefragt,
+was beschlossen wurde. Ich habe am Donnerstagabend in einem Laden am
+Neuen Wall gestanden, zwischen Holzeisenbahnen und Stapelbechern, und
+bin nach zwanzig Minuten ohne etwas wieder rausgegangen, weil ich nicht
+wusste, was ein Kind mit achtzehn Monaten kann.
+
+Ich habe es nachgelesen. Nachts, im Bett, auf einer Seite für Eltern.
+Achtzehn Monate: fünfzig Wörter, Treppen im Nachstellschritt, Trotz
+beginnt. Ich habe zwanzig Minuten über eine Tabelle gelesen und mich
+dabei gefühlt wie jemand, der für eine Prüfung lernt, die vor anderthalb
+Jahren stattgefunden hat.
+
+---
+
 Niklas kam am Freitagabend in mein Büro, ohne anzuklopfen, mit einer
 Flasche Bier in jeder Hand, was bei ihm bedeutet, dass er die Sache ernst
 nimmt.

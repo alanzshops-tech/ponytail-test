@@ -23,6 +23,25 @@ Das habe ich damals für Stärke gehalten. Es war Übung.
 
 ---
 
+Ich habe zwischen dem vierten und dem achten drei Nächte lang gerechnet,
+und ich schreibe das Ergebnis hin, weil man es sonst für eine
+Redewendung hält.
+
+Verkauf des Wagens: dreitausendzweihundert. Er ist von 2014 und ich
+brauche ihn für die Großmärkte.
+Auflösung der Lebensversicherung: neuntausendsechshundert, abzüglich
+Abschlag.
+Die zwei leeren Etagen an Reinhardt, sofort, nicht in fünfzehn Jahren:
+vielleicht sechzigtausend, und dann gehören sie mir nie wieder.
+Sanne: sie hat es nicht, und ich würde sie nicht fragen.
+
+Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
+dreiundsiebzigtausend.
+
+Es fehlen zweihunderteinundvierzig.
+
+---
+
 Am achten war ich bei der Bank.
 
 Herr Timm, dritter Stock, ein Büro mit einem Rollcontainer und einem

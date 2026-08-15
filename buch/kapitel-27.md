@@ -51,6 +51,25 @@ Das gilt auch, wenn er es gut macht.
 
 ---
 
+In den sechs Tagen dazwischen kam er zweimal, freitags und am Silvester,
+und wir waren beide sehr höflich.
+
+Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
+obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
+anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
+ob man einem Kind mit achtzehn Monaten schon Nüsse geben darf.
+
+Emil hat nichts davon gemerkt, und das war die ganze Absicht.
+
+Einmal, an der Tür, hat er gefragt: „Isst du eigentlich abends was?“
+
+Und ich habe gesagt: „Das steht nicht auf der Liste, Jonas.“
+
+Er hat genickt und ist gegangen, und ich habe die Tür zugemacht und bin
+im Flur stehen geblieben, bis ich den Wagen nicht mehr hörte.
+
+---
+
 Der Notartermin war am siebenundzwanzigsten Januar um neun Uhr, bei
 einem Notar am Neuen Wall, den weder er noch ich ausgesucht hatte,
 sondern Dr. Sassenberg.

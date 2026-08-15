@@ -40,6 +40,22 @@ einen Kugelschreiber.“
 
 Ich ging nicht sofort zu ihr. Ich ging erst ins Jugendamt.
 
+Vorher habe ich zwei Tage lang etwas gemacht, das ich noch nie gemacht
+habe: Ich habe gelesen, ohne dass jemand es von mir verlangt hat.
+
+Nicht Gesetze — die kann Niklas. Ich habe gelesen, wie das ist, wenn ein
+Vater spät dazukommt. Es gibt darüber erstaunlich wenig, und das meiste
+davon ist entweder Werbung für einen Anwalt oder ein Forum, in dem
+Menschen sehr wütend sind.
+
+Ein Satz ist hängen geblieben, aus einem Text, den eine Erzieherin
+geschrieben hat: *Das Kind hat nicht auf Sie gewartet. Es hat auf
+niemanden gewartet. Es hatte alles, was es brauchte, und Sie kommen jetzt
+dazu — das ist ein Geschenk und keine Rettung.*
+
+Ich habe den Satz zweimal gelesen und mich geärgert und dann gemerkt,
+dass ich mich ärgere, weil er stimmt.
+
 Das klingt nach dem nächsten Fehler, und ich verstehe, wenn Sie das
 denken. Aber ich wollte einmal in meinem Leben in ein Gespräch gehen,
 in dem ich nicht derjenige bin, der die Regeln erklärt.

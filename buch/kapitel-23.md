@@ -22,6 +22,24 @@ besonders gut.
 
 ---
 
+Ich hatte gekocht, für zwei, obwohl einer davon drei Bissen isst.
+
+Meine Mutter hat angerufen, um sechs, wie jedes Jahr. Wir haben elf
+Minuten geredet. Sie hat gefragt, ob es uns gutgeht, und ich habe ja
+gesagt, und sie hat gesagt, das sei die Hauptsache, und dann haben wir
+beide nichts mehr gewusst.
+
+Sie weiß nichts von der Bank. Sie weiß auch nichts von Jonas, außer dass
+es ihn gibt, seit ich es ihr im Dezember vor zwei Jahren gesagt habe.
+
+Ich hätte es ihr erzählen können. Es ist meine Mutter.
+
+Ich habe es nicht getan, und das ist derselbe Reflex wie bei allem
+anderen: Ich erzähle Dinge erst, wenn sie erledigt sind. Bei mir heißt
+Vertrauen offenbar, dass man jemandem hinterher berichtet.
+
+---
+
 Nach dem Zubettbringen ging ich runter, weil ich die Kasse nicht
 abgerechnet hatte, und weil man an Heiligabend um halb neun allein in
 einer Wohnung über einem geschlossenen Café nicht sitzen bleiben kann.
