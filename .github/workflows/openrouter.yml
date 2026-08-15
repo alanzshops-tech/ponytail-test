@@ -118,10 +118,22 @@ jobs:
 
       - name: Ergebnis committen
         if: always()
+        env:
+          BILD_AUSGABE_PFAD: ${{ inputs.bild_ausgabe }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add OPENROUTER.md MODELLINFO.md daten/openrouter.json bilder/openrouter 2>/dev/null || true
+          # Am 15.08.2026 lief eine Bilderzeugung durch, meldete Erfolg --
+          # und das Bild war weg. Der Ausgabepfad lag ausserhalb der oben
+          # aufgezaehlten Verzeichnisse, `git add` nahm ihn nicht mit, und
+          # der Runner wurde samt Datei abgeraeumt. Ein Werkzeug, das sein
+          # Ergebnis still wegwirft und dabei gruen meldet, ist schlimmer
+          # als eins, das scheitert. Deshalb wird der tatsaechlich
+          # angeforderte Pfad immer mitgenommen.
+          if [ -n "${BILD_AUSGABE_PFAD}" ]; then
+            git add "${BILD_AUSGABE_PFAD}" 2>/dev/null || true
+          fi
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
           for v in 1 2 3; do
