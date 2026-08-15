@@ -97,35 +97,45 @@ und am Montag läuft ihre Frist ab. → Band 2.
 
 ## Länge — die Entscheidung, die jetzt ansteht
 
-**30.575 Wörter.** Schnitt 1.092 pro Kapitel.
+**Stand des Ausbaus: 32.225 von 65.000 Wörtern.**
 
-**Jetzt gemessen, wie lang es sein müsste.** `KDP-NISCHEN.md`,
-Abschnitt „Wie lang sind die Spitzentitel?": Median 291 bis 337
-Druckseiten je nach Nische. Bei 200 bis 250 Wörtern je Druckseite sind
-das **65.000 bis 82.000 Wörter**.
+Gemessen, wie lang es sein müsste (`KDP-NISCHEN.md`, „Wie lang sind die
+Spitzentitel?"): Median 291 bis 337 Druckseiten, bei 200 bis 250 Wörtern
+je Seite also **65.000 bis 82.000 Wörter**. Ziel sind 28 Kapitel à rund
+2.400 Wörter — genau der Kapitelplan, der von Anfang an in
+`../BAND1-STRUKTUR.md` stand und beim ersten Durchgang nicht getroffen
+wurde.
 
-| | |
-|---|---:|
-| Dieses Buch | 30.575 Wörter |
-| Median der Nische | ~65.000–82.000 |
-| Anteil | **etwa 40 %** |
+| Kapitel | Wörter | Stand |
+|---|---:|---|
+| 1 | 1.963 | **ausgebaut** |
+| 2 | 1.490 | **ausgebaut** |
+| 3 | 1.525 | **ausgebaut** |
+| 4–28 | je ~1.000–1.400 | offen |
 
-Der Ausreißer nach oben (1.189 Seiten in der Milliardär-Nische) ist ein
-Sammelband, kein Einzeltitel — dieselbe Nische führt in den Kategorien
-„Romantische Sammlungen & Anthologien". Deshalb steht oben der Median
-und nicht der Mittelwert.
+**Die Regel des Ausbaus: nicht strecken, sondern vorbereiten.** Jede neue
+Szene muss etwas pflanzen, das später zahlt. Umgesetzt in Kapitel 1 bis
+3: Herr Kubatz mit dem Hund um zehn nach neun (Jonas lernt das in
+Kap. 16), Sanne aus dem Copyshop, der Frau Petersens Kurzwarenladen war
+(Kap. 23), die Chronik im Flur (Kap. 25), die klemmende Schublade
+(Kap. 23), die Durchfahrt als einziger Fahrzeugzugang — von Theo
+ausgesprochen, damit Leni ihn im Dezember selbst findet (Kap. 23), das
+Sonnenblumen-Album (Kap. 12) und der Satz der Mutter (Kap. 23).
 
-Ich habe die Kapitel bewusst nicht gestreckt. Eine Szene, die 1.000
-Wörter braucht, wird durch 1.000 weitere schlechter.
+**Was noch fehlt, nach Blöcken:**
 
-**Was gegen „so lassen" spricht, und es ist unser eigener Messwert:**
-`../KDP-NISCHEN.md` hat für jede deutsche Romance-Nische **8 bis 10 von
-10** Titeln in Kindle Unlimited gefunden. In KU wird **pro gelesener
-Seite** bezahlt, nicht pro Verkauf. Ein durchgelesenes Buch mit 60.000
-Wörtern bringt damit rund doppelt so viel wie eines mit 30.000. Das ist
-kein Geschmacksurteil, das ist die Mechanik der Abrechnung.
+| Block | Kapitel | Was hinein muss | ca. |
+|---|---|---|---:|
+| 2 | 4–7 | Der Kein-Ausweg-Moment und die Verhandlung; das Bankgespräch als Szene; Jonas' Beirat zum ersten Mal | +4.500 |
+| 3 | 8–11 | Der Oktober des Verliebens — heute in Kapitel 8 zusammengefasst, braucht zwei bis drei eigene Szenen | +6.000 |
+| 4 | 12–14 | Der Mittelpunkt und die ersten Tage danach, aus Emils Alltag heraus | +4.000 |
+| 5 | 15–18 | Die zwei Wochen zwischen Mappe und Fieberkrampf | +5.000 |
+| 6 | 19–21 | Dezember: Bankgänge, Absagen, Kellermann | +5.000 |
+| 7 | 22–28 | Die Eingewöhnung und der März, heute in Kapitel 28 zusammengefasst | +8.000 |
 
-**Empfehlung: ein zweiter Durchgang auf 65.000–70.000 Wörter.**
+Zusammen ergibt das rund 65.000.
+
+**Der zweite Durchgang läuft.** Block 1 ist fertig.
 
 Nicht durch längere Kapitel, sondern durch **neue Szenen**, und zwar
 dort, wo das Buch heute dünn ist:
