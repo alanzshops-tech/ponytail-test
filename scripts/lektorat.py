@@ -69,6 +69,40 @@ Hier ist das Kapitel:
 """
 
 
+# Gegenprobe. Beim ersten brauchbaren Lauf meldeten beide Modelle bei
+# allen vier Kapiteln "ABBRUCH: keine". Das kann heissen, dass die
+# Kapitel tragen -- oder dass Modelle hoeflich sind. Ohne einen Text,
+# von dem feststeht, dass er schlecht ist, laesst sich das nicht
+# unterscheiden. Dieser hier haeuft absichtlich, was in dieser Nische
+# zum Weglegen fuehrt: Klischee, Perspektivsprung mitten im Absatz,
+# Erklaerbaer, Widerspruch in zwei Saetzen.
+KONTROLLTEXT = """Marlene war eine wunderschöne junge Frau mit langen
+blonden Haaren, die im Wind wehten wie goldene Fäden aus reinstem
+Sonnenlicht. Sie war 32 Jahre alt und arbeitete als Konditorin, was
+bedeutet, dass sie Kuchen und Torten herstellte, ein Beruf, den man in
+Deutschland in einer dreijährigen Ausbildung erlernt.
+
+„Oh nein", dachte sie. Jonas dachte im selben Moment, dass sie
+wunderschön war, und Marlene wusste, dass er das dachte, obwohl sie es
+nicht wissen konnte.
+
+Ihre Haare waren übrigens dunkelbraun.
+
+Jonas Reinhardt war Milliardär. Er hatte viele Milliarden Euro, was
+sehr viel Geld ist. Er stieg aus seinem teuren Auto, das sehr teuer
+war, und ging auf sie zu.
+
+„Hallo", sagte er lächelnd mit einem Lächeln.
+
+„Hallo", sagte sie und ihr Herz machte einen Sprung, denn sie war
+verliebt, obwohl sie ihn gerade zum allerersten Mal sah und ihn seit
+zwei Jahren kannte.
+
+Es war Liebe auf den ersten Blick, und beide wussten es sofort, und
+alles würde von nun an für immer gut werden, und sie lebten glücklich
+bis ans Ende ihrer Tage, aber das ist eine andere Geschichte."""
+
+
 def normal(t: str) -> str:
     """Vergleichsform: Leerraum vereinheitlichen, typografische
     Sonderzeichen angleichen. Ohne das scheitert der Beleg an einem
@@ -244,7 +278,7 @@ def selbsttest() -> bool:
 # --------------------------------------------------------------- Bericht
 
 def bericht(ergebnisse: list[dict], modelle: list[str],
-            kosten: float) -> str:
+            kosten: float, kontrolle: dict | None = None) -> str:
     z = ["# Lektorat durch fremde Modelle", "",
          f"Stand: {date.today().isoformat()} · Modelle: "
          + ", ".join(f"`{m}`" for m in modelle)
@@ -273,6 +307,28 @@ def bericht(ergebnisse: list[dict], modelle: list[str],
     if quote < 70 and gesamt:
         z += ["> ⚠️ Unter 70 %. Die Modelle erfinden zu viel — die "
               "Befunde unten sind nicht belastbar.", ""]
+
+    if kontrolle is not None:
+        erkannt = []
+        for m, a in (kontrolle.get("antworten") or {}).items():
+            w = ((a or {}).get("gelesen") or {}).get("ABBRUCH") or {}
+            erkannt.append((m, bool(w.get("zitat"))))
+        z += ["## Gegenprobe", "",
+              "Ein absichtlich schlechter Text (Klischee, "
+              "Perspektivsprung, Erklärbär, Widerspruch in zwei Sätzen) "
+              "geht bei jedem Lauf mit durch. Winken die Modelle ihn "
+              "durch, ist jedes „kein Abbruch“ bei den echten Kapiteln "
+              "wertlos.", ""]
+        for m, ok_ in erkannt:
+            z.append(f"- `{m.split('/')[-1]}`: "
+                     + ("**Abbruchstelle genannt** — die Frage "
+                        "funktioniert" if ok_
+                        else "**durchgewunken** — die Frage misst nichts"))
+        if erkannt and not any(o for _, o in erkannt):
+            z += ["", "> ⚠️ Keins der Modelle hat den schlechten Text "
+                  "beanstandet. Die Spalte „Wo abgebrochen würde“ unten "
+                  "ist damit kein Befund, sondern Höflichkeit."]
+        z.append("")
 
     z += ["## Wo abgebrochen würde", "",
           "| Kap. | Modell | Stelle | Grund | belegt |",
@@ -339,6 +395,8 @@ def main() -> None:
     p.add_argument("--max-preis", type=float, default=20.0,
                    help="USD je Mio. Token, Obergrenze")
     p.add_argument("--selbsttest", action="store_true")
+    p.add_argument("--ohne-kontrolle", action="store_true",
+                   help="Gegenprobe überspringen")
     args = p.parse_args()
 
     print("Kalibrierung:")
@@ -358,6 +416,31 @@ def main() -> None:
     benutzt: list[str] = []
 
     ergebnisse, kosten = [], 0.0
+
+    # Gegenprobe zuerst: Wenn die Modelle diesen Text durchwinken, ist
+    # jedes "ABBRUCH: keine" bei den echten Kapiteln wertlos.
+    kontrolle = {"kapitel": 0, "antworten": {}}
+    if not args.ohne_kontrolle:
+        print("\nGegenprobe (absichtlich schlechter Text) …", flush=True)
+        for kandidaten in modelle:
+            a = eine_frage(KONTROLLTEXT, kandidaten)
+            m = a.get("modell", kandidaten[0])
+            if "fehler" in a:
+                print(f"  {m}: {a['fehler']}")
+                kontrolle["antworten"][m] = a
+                continue
+            kosten += float(a.get("kosten") or 0)
+            gelesen = antwort_lesen(a["text"])
+            for wert in gelesen.values():
+                wert["belegt"] = belegt(wert.get("zitat"), KONTROLLTEXT)
+            kontrolle["antworten"][m] = {"text": a["text"],
+                                         "gelesen": gelesen}
+            w = gelesen.get("ABBRUCH") or {}
+            print(f"  {m}: ABBRUCH "
+                  + (f"„{w['zitat'][:45]}“" if w.get("zitat") else "keine"))
+            if m not in benutzt:
+                benutzt.append(m)
+
     for n in args.kapitel:
         f = BUCH / f"kapitel-{n:02d}.md"
         if not f.exists():
@@ -400,7 +483,9 @@ def main() -> None:
     alt = ziel.read_text(encoding="utf-8") if ziel.exists() else ""
     schwanz = alt.split(MARKER, 1)[1] if MARKER in alt else ""
     ziel.write_text(bericht(ergebnisse, benutzt or [k[0] for k in modelle],
-                            kosten) + schwanz,
+                            kosten,
+                            None if args.ohne_kontrolle else kontrolle)
+                    + schwanz,
                     encoding="utf-8")
     print(f"\nGeschrieben: {ziel} · Kosten {kosten:.4f} USD")
 
