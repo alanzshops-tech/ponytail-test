@@ -1,161 +1,204 @@
 # Kapitel 41 — Leni
 
-Der März war der Monat, in dem alles gleichzeitig funktionierte, und
-genau deshalb war er schwer.
+Meine Mutter ist am siebten Februar nach Hamburg gekommen, zum ersten
+Mal seit Emils Geburt.
 
-Das klingt undankbar. Ich versuche es zu erklären.
+Sie kommt nicht gern her. Sie ist hier aufgewachsen und dann nach
+Harburg gezogen, was für sie zwei verschiedene Länder sind, und sie
+sagt, in der Speicherstadt rieche es nach Geld.
 
-Seit dem siebenundzwanzigsten Januar habe ich keine Schulden. Seit dem
-achtzehnten Februar ist Emil vormittags in der Kita. Seit dem
-einundzwanzigsten läuft der neue Ofen, der links dieselbe Temperatur hat
-wie rechts, worüber ich in der ersten Woche zweimal geweint habe, und
-zwar beide Male aus dem falschen Grund.
+Sie hat angerufen und gesagt: „Ich komme Samstag. Ist er da?“
 
-Zum ersten Mal seit sechs Jahren habe ich vormittags drei Stunden, in
-denen niemand etwas von mir will.
+Ich habe nicht gefragt, wen sie meint.
 
-Ich habe in der ersten Woche nicht gewusst, was ich damit machen soll.
+„Ja“, habe ich gesagt. „Er bringt Emil um sechs zurück.“
 
----
-
-Ich habe angefangen, die Bücher aufzuräumen.
-
-Nicht die Buchhaltung — die macht Sievers. Die Bücher: das Kassenbuch
-meiner Großmutter, die Chronik im Flur, drei Kartons mit Rechnungen aus
-den Neunzigern, die im dritten Stock standen und die niemand je
-angesehen hat.
-
-In der zweiten Woche fand ich in einem dieser Kartons einen Umschlag mit
-Fotos von der Rösterei. 1968, glaube ich. Meine Großmutter steht neben
-einer Maschine, die höher ist als sie, und sieht in die Kamera, als
-hätte man sie bei etwas gestört.
-
-Auf der Rückseite steht in ihrer Handschrift: *Erste eigene Röstung.
-Hat nicht geschmeckt.*
-
-Ich habe das Foto in den Flur gehängt, neben die Chronik.
+„Gut“, sagte meine Mutter. „Dann komme ich um halb sechs.“
 
 ---
 
-Die Bohrpfähle kamen am zehnten März.
+Sie kam um zehn nach fünf.
 
-Drei Tage, und ich habe zu, weil man in einem Café nicht sitzen kann, in
-dem der Boden schlägt. Reinhardt Immobilien hat den Ausfall ersetzt,
-ohne dass ich fragen musste, weil das in dem Vertrag von September
-steht, in einem Absatz, den Herr Sievers hineinverhandelt hat, als noch
-niemand ahnte, was daraus wird.
+Sie hat sich an den Fenstertisch gesetzt, den Mantel anbehalten, und
+sich das Café angesehen, in dem sie als Kind Hausaufgaben gemacht hat.
 
-Ich habe Sievers deswegen angerufen und mich bedankt.
+„Der Boden ist noch derselbe.“
 
-Er hat gesagt: „Das war mein Job, Frau Voss.“ Und dann, nach einer
-Pause: „Ich hatte damals unrecht, übrigens. Mit dem Verkaufen.“
+„Bis auf die Ecke.“
 
-„Sie hatten nicht unrecht. Es war der vernünftigere Rat.“
+„Die Ecke war schon damals kaputt.“ Sie hat die Handschuhe abgezogen.
+„Deine Großmutter hat gesagt, sie lässt es machen, wenn sie Zeit hat.“
 
-„Ja“, sagte er. „Der vernünftigere.“
+Ich habe zwei Tassen geholt.
 
----
+„Marlene“, sagte sie. „Ich werde ihn nicht nett finden.“
 
-Und jetzt der Teil, der schwer war.
+„Das musst du auch nicht.“
 
-Jonas kam in diesem Monat dienstags, donnerstags und freitags. Er hatte
-keinen Schlüssel, er hat jedes Mal geklingelt, und wir hatten eine
-Verabredung, die von mir kam und die albern klingt: einmal in der Woche,
-donnerstags, wenn Emil im Bett ist, sagt jeder von uns einen wahren
-Satz.
-
-Meiner am vierten Donnerstag war der schwerste.
-
-„Ich bin nicht sicher, ob ich dich liebe oder ob ich erleichtert bin.“
-
-Er hat lange nichts gesagt. Dann: „Danke.“
-
-„Danke?“
-
-„Du hättest das nicht sagen müssen.“ Er drehte die Tasse. „Ich hätte es
-nicht gemerkt.“
-
-„Doch“, sagte ich. „Irgendwann schon.“
+„Ich sage es nur, damit du nachher nicht enttäuscht bist.“ Sie hat die
+Tasse zu sich gezogen. „Ich habe zwei Jahre lang gedacht, dass es ihn
+nicht gibt. Das kriege ich in einer Stunde nicht weg.“
 
 ---
 
-Ich habe im März zum ersten Mal seit zwei Jahren wieder Angst gehabt,
-und diesmal war es eine andere.
+Er kam um sechs.
 
-Die alte Angst hatte einen Namen und einen Betrag: zweihundertvierzehn-
-tausendachthundert. Die neue hat keinen.
+Emil zuerst, weil er inzwischen selbst durch die Tür geht und weil das
+Türschließen noch eine Weile dauert. Dann Jonas, mit der Tasche und dem
+Holzlaster und einer Mütze in der Hand, die Emil unterwegs
+abgenommen hat.
 
-Sie geht so: Alles, was uns bisher zusammengehalten hat, war ein
-Problem. Erst das Haus, dann Emil, dann die Bank. Wir haben nie eine
-Woche gehabt, in der es nichts zu regeln gab.
+Er hat meine Mutter gesehen und ist stehen geblieben.
 
-Und jetzt gibt es nichts mehr zu regeln.
+„Guten Abend“, sagte er.
 
-Ich habe das an einem Dienstagabend Frau Kettler gesagt, weil sie
-zufällig da war und weil man ihr Dinge sagt, ohne es vorzuhaben.
+„Guten Abend.“
 
-Sie hat den Lappen ausgewrungen und gesagt: „Und?“
+Und dann eine Pause, die ungefähr so lang war, wie eine Pause sein kann,
+ohne dass jemand hustet.
 
-„Was und?“
+Emil hat sie gerettet, indem er meiner Mutter auf den Schoß geklettert
+ist und ihr den Laster gezeigt hat.
 
-„Dann finden Sie es jetzt raus.“ Sie hängte den Lappen über den Hahn.
-„Frau Voss, Sie reden, als wäre das ein Unglück. Die meisten Leute
-kommen nie in die Lage.“
+„Was hast du denn da?“
 
----
+„Da“, sagte Emil.
 
-Am siebenundzwanzigsten März ist etwas passiert, das ich hier
-aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
-nicht das Abendessen im Mai.
-
-Es war ein Freitag. Jonas hatte Emil geholt, sie waren am Elbstrand,
-und ich hatte den Laden allein und war fertig um sechs.
-
-Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
-einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
-der Kasse.
-
-Er kann sie nicht aufziehen. Er ist einundzwanzig Monate alt und
-sechsundachtzig Zentimeter groß, und die Schublade ist auf einem Meter.
-
-Er stand davor und streckte den Arm hoch und sagte: „Da.“
-
-Ich habe die Schublade aufgezogen — sie geht seit Oktober leicht — und
-ihn hochgehoben, und er hat den Stein hineingelegt, zu dem anderen, dem
-vom November.
-
-Und dann hat er sie selbst zugeschoben, mit beiden Händen.
-
-Jonas stand in der Tür, in dem grünen Anorak aus dem Fundkorb, den er
-inzwischen behalten hat, und sah zu.
-
-„Wusstest du, dass er das weiß?“, fragte er.
-
-„Nein“, sagte ich.
-
-In dieser Schublade lagen: der Brief von der Bank vom vierten Dezember.
-Die blaue Mappe mit dem Etikett. Der Anspitzer. Der Zettel vom
-siebenundzwanzigsten Oktober, den ich nie weggeworfen habe. Zwei Steine.
-
-Es ist die Schublade, in der ich zwei Jahre lang alles aufbewahrt habe,
-was ich niemandem gezeigt habe.
-
-Und mein Sohn benutzt sie inzwischen für seine Steine.
+„Ja“, sagte meine Mutter. „Da.“
 
 ---
 
-Ich habe an diesem Abend, nachdem sie beide weg waren — Emil oben,
-Jonas nach Hause —, die Schublade noch einmal aufgemacht und den Zettel
-herausgenommen.
+Jonas ist nicht gegangen und hat sich nicht gesetzt. Er stand
+zweieinhalb Meter neben dem Tisch, mit der Mütze in der Hand, und ich
+habe ihn machen lassen, weil ich das nicht für ihn tun konnte.
 
-*Emil ist deiner.*
+Nach ungefähr einer Minute hat er gesagt:
 
-Vier Wörter, viermal umgeschrieben, hundertdreißig Tage lang nicht
-gesagt.
+„Frau Voss, darf ich Ihnen etwas sagen, bevor Sie mich fragen?“
 
-Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
-Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
+Meine Mutter hat aufgesehen.
 
-Wenn Emil ihn irgendwann findet, ist er alt genug, um zu fragen.
+„Bitte.“
 
-Und dann ist die Antwort ein Name und keine Lücke.
+„Ich habe zwei Jahre lang nicht angerufen“, sagte er. „Ich habe dafür
+Gründe, und die Gründe stimmen sogar, und ich werde sie Ihnen nicht
+erzählen, weil sie am Ergebnis nichts ändern.“
+
+Er hat die Mütze in die andere Hand genommen.
+
+„Ihre Tochter hat achtzehn Monate allein gemacht, was zwei Leute machen.
+Das kann ich nicht nachholen. Ich weiß, dass ich das nicht kann. Ich
+sage Ihnen das, damit Sie es von mir gehört haben und nicht von ihr.“
+
+Meine Mutter hat ihn angesehen. Lange.
+
+Dann hat sie gesagt: „Setzen Sie sich hin. Sie machen mich nervös.“
+
+---
+
+Er hat sich gesetzt, und wir haben eine Stunde geredet, und ich habe
+dabei ungefähr dreimal aufgehört zu atmen.
+
+Meine Mutter fragt nicht höflich. Sie fragt, was sie wissen will, und
+sie tut nicht so, als wäre es eine Unterhaltung.
+
+„Was verdienen Sie?“
+
+„Mama.“
+
+„Es ist in Ordnung“, sagte Jonas. Und dann hat er es gesagt. Die Zahl.
+Einfach so, ohne Umschweife, und meine Mutter hat einmal geblinzelt und
+weitergefragt.
+
+„Und wenn Sie in zwei Jahren jemanden kennenlernen?“
+
+„Dann bin ich weiter zweimal die Woche hier.“
+
+„Das sagen alle.“
+
+„Ja“, sagte er. „Deshalb ist es auch keine Antwort. Es gibt auf diese
+Frage keine Antwort, Frau Voss. Es gibt nur zwei Jahre, in denen Sie
+zusehen, ob es stimmt.“
+
+Meine Mutter hat die Tasse abgestellt.
+
+Ich kenne dieses Geräusch. Es bedeutet, dass sie mit einem Punkt fertig
+ist.
+
+„Gut“, sagte sie.
+
+---
+
+Um Viertel nach sieben ist er gegangen, weil Emil ins Bett musste, und
+weil er inzwischen weiß, wann er gehen soll.
+
+An der Tür hat meine Mutter gesagt: „Herr Reinhardt.“
+
+Er hat sich umgedreht.
+
+„Der Junge hat Ihre Stirn“, sagte sie. „Das ist mir vorhin
+aufgefallen. Das ist keine Nettigkeit. Ich sage es, weil ich es zwei
+Jahre lang nicht wusste und es jetzt weiß.“
+
+Er hat genickt und ist gegangen.
+
+---
+
+Meine Mutter ist bis neun geblieben.
+
+Wir haben Emil zusammen ins Bett gebracht, was wir noch nie gemacht
+haben, und danach saßen wir in der Küche.
+
+„Und?“, habe ich gefragt.
+
+„Ich finde ihn nicht nett“, sagte sie.
+
+„Das hattest du angekündigt.“
+
+„Ich finde ihn ordentlich.“ Sie hat in die Tasse gesehen. „Das ist
+etwas anderes und, ehrlich gesagt, mehr wert.“
+
+Und dann, nach einer Weile:
+
+„Er hat nicht versucht, mir zu gefallen. Das machen sie sonst alle. Dein
+Vater hat sich bei meiner Mutter innerhalb von zwanzig Minuten beliebt
+gemacht.“
+
+---
+
+Nach Mitternacht, als sie im Gästebett lag und ich noch mal runter
+musste, weil ich die Kühlung nicht kontrolliert hatte, stand ich in
+meinem dunklen Café und habe an das gedacht, was er zu ihr gesagt hat.
+
+*Es gibt auf diese Frage keine Antwort. Es gibt nur zwei Jahre, in denen
+Sie zusehen, ob es stimmt.*
+
+Ich habe zwei Jahre lang darauf gewartet, dass jemand mir eine Sicherheit
+gibt.
+
+Und der einzige Mensch, der bisher ehrlich genug war zu sagen, dass es
+die nicht gibt, ist der, vor dem ich am meisten Angst hatte.
+
+---
+
+Am nächsten Morgen, bevor sie zum Zug ist, hat meine Mutter im Flur vor
+der Chronik gestanden.
+
+„Das hat dein Großvater angefangen.“
+
+„Ich weiß.“
+
+„Da fehlt was.“ Sie hat auf die letzte Zeile gezeigt, die aus dem Jahr
+2019 ist, in der zittrigen Handschrift meiner Großmutter. „Seit sieben
+Jahren steht da nichts.“
+
+„Ich wüsste nicht, was.“
+
+Meine Mutter hat den Mantel zugeknöpft.
+
+„2025“, sagte sie. „*Emil geboren.* Das würde ich hinschreiben.“
+
+Ich habe es an diesem Abend gemacht, mit dem Bleistift meiner
+Großmutter, den ich immer noch mit dem Messer spitze.
+
+Es ist die erste Zeile, die von mir ist.

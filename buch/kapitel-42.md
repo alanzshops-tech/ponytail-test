@@ -1,224 +1,160 @@
 # Kapitel 42 — Jonas
 
-Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
-vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als
-erwachsener Mann irgendwann wissen will, woran man ist.
+Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
+auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
+Arbeit ist.
 
-Kita Kirchenweg, Gruppe zwei, vierzehn Kinder, drei Erzieherinnen, ein
-Raum, der nach nasser Wolle und Apfel riecht.
+**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
+Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
+Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
+und Apfel, den ich seitdem sofort wiedererkenne.
 
-Die Regeln der Eingewöhnung sind: Man sitzt. Man spielt nicht. Man ruft
-nicht. Man geht dem Kind nicht hinterher. Wenn es kommt, ist man da; wenn
-es nicht kommt, ist man trotzdem da.
+Frau Özdemir, die die Gruppe leitet, erklärte mir die Regeln in vier
+Sätzen: Sie sitzen. Sie spielen nicht. Sie rufen nicht. Wenn er kommt,
+sind Sie da; wenn er nicht kommt, sind Sie trotzdem da.
 
-Man macht acht Vormittage lang nichts.
+Ich saß sechzig Minuten auf einem Stuhl von einunddreißig Zentimetern
+und tat nichts.
 
-Frau Özdemir, die die Gruppe leitet, sagte am zweiten Tag zu mir: „Sie
-sind sehr angespannt.“
+Emil hat in dieser Stunde dreimal zu mir hergesehen. Beim dritten Mal
+hat er gewinkt, und ich habe zurückgewinkt, und Frau Özdemir hat gesagt:
+„Nicht winken. Nur da sein.“
 
-„Ich weiß nicht, was ich tun soll.“
+**Tag zwei.** Emil hat einen anderen Jungen geschubst. Ich bin
+aufgestanden. Frau Özdemir hat den Kopf geschüttelt, ohne mich anzusehen,
+und ich habe mich wieder hingesetzt, und eine Erzieherin hat das in
+elf Sekunden geregelt, ohne dass jemand geweint hat.
 
-„Nichts“, sagte sie. „Genau das ist die Aufgabe. Die meisten Väter
-halten drei Tage durch, dann fangen sie an, den Legoturm zu bauen.“
+Ich habe an diesem Tag verstanden, dass ich nicht gebraucht werde, und
+dass genau das die Übung ist.
 
-Ich habe den Legoturm nicht gebaut.
+**Tag drei.** Der erste Trennungsversuch. Ich gehe raus, zwei Minuten,
+in den Flur, und komme wieder.
 
-Es war das Schwerste, was ich in diesem Jahr gemacht habe, und ich zähle
-den zwanzigsten Januar mit — den Tag, an dem sieben Leute darüber
-abgestimmt haben, ob ich noch Geschäftsführer bin.
+Er hat nicht gemerkt, dass ich weg war.
 
----
+Ich habe zwei Minuten in einem Kita-Flur gestanden, zwischen
+Gummistiefeln und einer Wand mit vierzehn Fotos, und war beleidigt. Ich
+schreibe das hin, weil es die Wahrheit ist: Ein Mann von
+sechsunddreißig, Geschäftsführer, war beleidigt, weil ein
+Einundzwanzigmonatiger ihn nicht vermisst hat.
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
+**Tag vier.** Fünf Minuten. Er hat gemerkt, dass ich weg war, und hat
+weitergespielt.
 
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
-
-Wir haben nicht miteinander geschlafen.
-
-Wir haben viermal gestritten. Zweimal über Kleinigkeiten, die keine
-waren — sie mag es nicht, wenn ich Emil aus dem Wagen hebe, ohne zu
-fragen, weil sie Angst hat, dass ich es besser kann als sie, und ich mag
-es nicht, wenn sie das Wort *Ihr Geld* benutzt. Einmal über den
-Baubeginn, weil im März die Bohrpfähle kamen und das Café drei Tage nicht
-öffnen konnte. Und einmal, im April, über die Frage, ob wir Emil sagen,
-dass ich sein Vater bin, oder ob er es einfach weiß, was übrigens meine
-Position war und die falsche.
-
-Und wir haben eine Verabredung, die von ihr kam und die albern klingt.
-
-Einmal in der Woche, donnerstags, wenn Emil im Bett ist, sagt jeder von
-uns einen wahren Satz. Absichtlich. Einen, den man nicht von selbst
-sagen würde.
-
-Meiner am zweiten Donnerstag war: „Ich habe Angst, dass du das alles
-nur machst, damit Emil einen Vater hat.“
-
-Ihrer am dritten war: „Ich habe deiner Mutter noch nicht gesagt, dass
-sie eine Enkelin hat, die Emil heißt und ein Junge ist, weil ich Angst
-vor dem Anruf habe.“
-
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
-
----
-
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
-
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
-
-„Der hing da zwei Monate“, sagte sie.
+Frau Özdemir sagte: „Das ist das Beste, was passieren kann.“
 
 „Warum?“
 
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
+„Weil er weiß, dass Sie wiederkommen.“ Sie räumte Becher ein. „Kinder,
+die nicht merken, dass jemand geht, haben es sich abgewöhnt. Kinder, die
+merken und weiterspielen, haben Vertrauen. Das sind zwei völlig
+verschiedene Sachen, und sie sehen von außen gleich aus.“
 
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
+Ich habe an diesem Vormittag an meine Mutter gedacht, an den Satz aus
+dem Café: *Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt
+hat, jemanden zu brauchen.*
 
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
-
----
-
-Im März kamen die Bohrpfähle.
-
-Das ist ein Geräusch, das man nicht beschreiben kann, wenn man es nicht
-gehört hat: kein Hämmern, sondern ein Schlagen, das durch den Boden
-kommt und in den Zähnen ankommt. Drei Tage lang. Das Café blieb zu, und
-Reinhardt Immobilien hat den Ausfall ersetzt, und zwar nicht, weil ich
-gefragt hätte, sondern weil es im Vertrag von September steht, in einem
-Absatz, den Herr Sievers hineinverhandelt hat, als noch niemand ahnte,
-was daraus wird.
-
-Am dritten Tag stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
-
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
-
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
-
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
+Ich habe zum ersten Mal begriffen, dass das kein Vorwurf an sie war.
+Es war eine Warnung.
 
 ---
 
-Am achten Mai wurde Emil zwei.
+**Tag fünf.** Zwanzig Minuten. Ich bin in ein Café an der Ecke gegangen
+und habe einen Kaffee getrunken, der schlecht war, und drei Mails
+beantwortet.
 
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
+Ich habe in diesen zwanzig Minuten dreimal aufs Telefon gesehen.
 
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
+**Tag sechs.** Vierzig Minuten. Rückschlag: Er hat geweint, als ich
+ging, und Frau Özdemir hat mich trotzdem gehen lassen und nach
+achtundzwanzig Minuten geschrieben, dass er seit fünfundzwanzig Minuten
+mit dem Wasserhahn spielt.
 
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
+**Tag sieben.** Der ganze Vormittag. Ich habe zu Hause gesessen und
+gearbeitet und um elf gemerkt, dass ich seit einer Stunde dieselbe Seite
+lese.
 
----
+**Tag acht.** Er ist morgens allein in die Garderobe gelaufen und hat
+versucht, seine Jacke auf den Haken zu hängen, was nicht funktioniert
+hat, weil der Haken auf einem Meter zehn sitzt und Emil auf sechsundachtzig
+Zentimetern.
 
-Ich hatte einen Ring.
+Frau Özdemir hat gesagt: „Er ist drin.“
 
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
+Ich habe gefragt, ob das heißt, dass wir fertig sind.
 
-Ich habe ihn an diesem Abend zweimal angefasst.
-
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
-
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
-
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
-
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
-
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
+Sie hat gesagt: „Sie sind fertig. Er fängt an.“
 
 ---
 
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
+An diesen acht Vormittagen habe ich Dinge gelernt, die in keiner
+Übergabe stehen und die ich hier aufschreibe, weil ich sie sonst wieder
+vergesse.
 
-Es war eine Erbse.
+Ein Kind mit einundzwanzig Monaten braucht für den Weg von der Tür zur
+Garderobe zwischen vierzig Sekunden und elf Minuten, und man kann nicht
+vorher wissen, welches von beidem.
 
-Ich nahm sie.
+Man zieht die Schuhe im Sitzen an, nicht im Stehen, und man fängt mit
+dem Fuß an, den das Kind hinstreckt, nicht mit dem linken.
 
-„Danke“, sagte ich.
+Wenn ein Kind fällt und einen ansieht, bevor es weint, entscheidet das
+Gesicht des Erwachsenen, ob geweint wird. Das ist keine Erziehungsfrage,
+das ist Physik.
 
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
+Und: Es gibt in dieser Gruppe genau eine andere Person, die morgens
+allein kommt, ein Vater namens Ole, der bei der Hafenbahn arbeitet und
+mit dem ich seitdem zweimal die Woche vier Sätze wechsle. Er hat mich
+am zweiten Tag gefragt, was ich beruflich mache, und ich habe gesagt:
+Immobilien.
 
-„Papa.“
+„Oh“, hat er gesagt. „Und, viel zu tun?“
 
-Dann drehte er sich wieder um und schob weiter Erbsen.
+Ich habe gesagt: „Geht so.“
 
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
-
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
+Das war die erste Unterhaltung seit Jahren, in der niemand wusste, wer
+ich bin, und ich habe nachts noch daran gedacht.
 
 ---
 
-Um zehn nach neun klingelte mein Telefon.
+Am fünften Vormittag stand Marlene um zehn plötzlich in der Tür.
 
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
+Sie war dienstags nie da. Dienstag ist Backtag; sie hat den ganzen
+Vormittag Blätterteig, sie kann nicht weg, das war der ganze Grund,
+warum sie mich gefragt hat.
 
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
+„Ich wollte nur sehen, wie es aussieht“, sagte sie.
 
-„Herr Reinhardt? Jonas Reinhardt?“
+Wir standen zusammen im Flur, zwischen den Gummistiefeln, und sahen
+durch die Scheibe in der Tür.
+
+Emil saß am kleinen Tisch und schob einen Becher hin und her. Er hat
+uns nicht bemerkt.
+
+„Er sitzt da, als wäre er immer schon da gewesen“, sagte sie.
 
 „Ja.“
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+„Ich habe achtzehn Monate lang gedacht, ich kann ihn nirgends hingeben.“
+Sie sah nicht weg von der Scheibe. „Und jetzt steht er da und braucht
+mich zwei Stunden lang nicht, und ich stehe hier und weiß nicht, ob ich
+erleichtert bin oder ob mir schlecht ist.“
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+„Beides“, sagte ich. „Sagt Frau Özdemir.“
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
+Sie lachte, einmal, kurz.
 
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
+Und dann stand sie noch eine Minute da, und ich stand daneben, und
+irgendwann hat sie ihre Hand an meinen Ärmel gelegt — nicht in meine
+Hand, an den Ärmel, wie man das macht, wenn man sich an etwas festhält,
+das zufällig da ist.
 
-„Wer ist dran?“, fragte Marlene.
+Wir haben beide nichts dazu gesagt.
 
-Ich hielt das Telefon fest.
+Als sie ging, sagte sie an der Treppe: „Danke, dass du acht gemacht
+hast und nicht drei.“
 
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+„Ich habe acht gehört.“
 
----
-
-**ENDE**
-
-*Die Reinhardt-Brüder gehen weiter.*
-
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
+„Ich weiß“, sagte sie. „Deshalb sage ich es ja.“
