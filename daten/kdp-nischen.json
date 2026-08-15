@@ -1,123 +1,947 @@
 [
   {
-    "begriff": "secret baby romance",
-    "markt": "www.amazon.com",
+    "begriff": "geheimes baby liebesroman",
+    "markt": "www.amazon.de",
     "titel_gelesen": 10,
-    "davon_gesponsert": 2,
+    "davon_gesponsert": 0,
     "titel": [
       {
-        "asin": "B0F4JSZZQZ",
-        "titel": "Scarlet Secrets : A Secret Baby Russian Mafia Romance (Yegorov Bratva Book 1)",
-        "gesponsert": true,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 2109,
-        "sterne": 4.2
-      },
-      {
-        "asin": "B0DBHKGV5L",
-        "titel": "Claiming Juliet: An Enemies to Lovers Billionaire Secret Baby Romance (Evergreen Heights Alpha Daddies)",
+        "asin": "B0H9X4BLS4",
+        "titel": "Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 163,
+        "bewertungen": 135,
+        "sterne": 3.8,
+        "bsr": 168,
+        "kategorien": [
+          [
+            1,
+            "Dramatik - Weibliche Autoren"
+          ],
+          [
+            1,
+            "Dramen & Theaterstücke von Frauen"
+          ],
+          [
+            1,
+            "Dramatik - Weibliche Autoren"
+          ],
+          [
+            13,
+            "Liebesroman"
+          ]
+        ]
+      },
+      {
+        "asin": "B0F671SQP8",
+        "titel": "Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1053,
         "sterne": 4.5,
-        "bsr": null
+        "bsr": 124,
+        "kategorien": [
+          [
+            1,
+            "Rockstar-Romanze"
+          ],
+          [
+            1,
+            "Rockstar-Romanze"
+          ],
+          [
+            4,
+            "Romantische Sammlungen & Anthologien"
+          ],
+          [
+            4,
+            "Sammlungen & Erzählbände von Romanzen"
+          ]
+        ]
       },
       {
-        "asin": "B0H35XMQY3",
-        "titel": "Stolen Bride: A Possessive Mafia King Secret Baby Romance (Vows of Violence Book 1)",
+        "asin": "B0HD133PD7",
+        "titel": "Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 935,
-        "sterne": 4.5,
-        "bsr": null
+        "bewertungen": 22,
+        "sterne": 3.7,
+        "bsr": 1012,
+        "kategorien": [
+          [
+            4,
+            "Multikulturelle & interkulturelle Romanzen"
+          ],
+          [
+            5,
+            "Multikulturelle & Rassenübergreifende Liebesromane"
+          ],
+          [
+            99,
+            "eBooks über Romanzen über Milliardäre & Millionäre"
+          ]
+        ]
       },
       {
-        "asin": "B0GX2V3FS1",
-        "titel": "His Hidden Heir: A Secret Baby, Dark, Mafia Romance (Crowned in Sin)",
+        "asin": "B0H5T8L75H",
+        "titel": "Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 292,
-        "sterne": 4.5,
-        "bsr": null
+        "bewertungen": 46,
+        "sterne": 4.4,
+        "bsr": 792,
+        "kategorien": [
+          [
+            3,
+            "Scheidung"
+          ],
+          [
+            5,
+            "Scheidung"
+          ],
+          [
+            6,
+            "Scheidung & Trennung"
+          ]
+        ]
       },
       {
-        "asin": "B0H5SXZPS4",
-        "titel": "Pucking Secrets: A Second Chance, Secret Baby Romance (Hockey, Heat and Heart Series)",
+        "asin": "B0H6HLG71H",
+        "titel": "Das geheime Baby der Bratva (Reich der Sünde)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 69,
-        "sterne": 4.6,
-        "bsr": null
+        "bewertungen": 1,
+        "sterne": 5.0,
+        "bsr": 13944,
+        "kategorien": [
+          [
+            532,
+            "Dark Romance"
+          ],
+          [
+            628,
+            "Dark Romance"
+          ],
+          [
+            956,
+            "eBooks: romantische Thriller"
+          ]
+        ]
       },
       {
-        "asin": "B0H1N35TCR",
-        "titel": "Try Again, Baby: A Secret Baby Romance (The Wells Brothers)",
+        "asin": "B0D9G5DJX2",
+        "titel": "Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 1889,
-        "sterne": 4.3,
-        "bsr": null
-      },
-      {
-        "asin": "B07NPMRTB7",
-        "titel": "Burn, Baby, Burn: A Magical Romantic Comedy (with a body count)",
-        "gesponsert": true,
-        "kindle_unlimited": false,
-        "preis": 6.99,
-        "bewertungen": 2237,
-        "sterne": 4.8
-      },
-      {
-        "asin": "B0H8P4LNLN",
-        "titel": "The Daughter He Never Knew: Alpha Male Billionaire Secret Baby Romance",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 30,
+        "bewertungen": 29,
         "sterne": 4.5
       },
       {
-        "asin": "B0DWMQPC6R",
-        "titel": "Whispered Sins: The CEO's Secret Baby (Baby Confessions Book 1)",
+        "asin": "B0FSLQGDZT",
+        "titel": "Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 7214,
+        "bewertungen": 78,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0HDYH831D",
+        "titel": "Verlassen von meinem Alpha-Ehemann: Ein abgelehnter, vorbestimmter Gefährte – Geheimes Baby und ein flehender Alpha-Wandler – Liebesroman (Die Grausame-Alpha-Serie)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B0H46WNGC6",
+        "titel": "Das geheime Baby meines Mannes mit seiner Assistentin (Ihre Ehe in der Krise 46)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 16,
+        "sterne": 4.0
+      },
+      {
+        "asin": "B0HB9DKD8Z",
+        "titel": "The Player of New York: Ein emotionaler Secret Baby & Second Chance Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 25,
+        "sterne": 3.6
+      }
+    ],
+    "bsr_werte": [
+      168,
+      124,
+      1012,
+      792,
+      13944
+    ],
+    "bsr_median": 792,
+    "bsr_bester": 124,
+    "verkaeufe_tag_geschaetzt": 343.62,
+    "bewertungen_median": 46,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "kategorien": [
+      {
+        "name": "Dramatik - Weibliche Autoren",
+        "titel": 2,
+        "rang_bester": 1
+      },
+      {
+        "name": "Rockstar-Romanze",
+        "titel": 2,
+        "rang_bester": 1
+      },
+      {
+        "name": "Scheidung",
+        "titel": 2,
+        "rang_bester": 3
+      },
+      {
+        "name": "Dark Romance",
+        "titel": 2,
+        "rang_bester": 532
+      },
+      {
+        "name": "Dramen & Theaterstücke von Frauen",
+        "titel": 1,
+        "rang_bester": 1
+      },
+      {
+        "name": "Romantische Sammlungen & Anthologien",
+        "titel": 1,
+        "rang_bester": 4
+      },
+      {
+        "name": "Sammlungen & Erzählbände von Romanzen",
+        "titel": 1,
+        "rang_bester": 4
+      },
+      {
+        "name": "Multikulturelle & interkulturelle Romanzen",
+        "titel": 1,
+        "rang_bester": 4
+      },
+      {
+        "name": "Multikulturelle & Rassenübergreifende Liebesromane",
+        "titel": 1,
+        "rang_bester": 5
+      },
+      {
+        "name": "Scheidung & Trennung",
+        "titel": 1,
+        "rang_bester": 6
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 1,
+        "rang_bester": 13
+      },
+      {
+        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
+        "titel": 1,
+        "rang_bester": 99
+      },
+      {
+        "name": "eBooks: romantische Thriller",
+        "titel": 1,
+        "rang_bester": 956
+      }
+    ],
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "milliardär liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0FRSYBT37",
+        "titel": "Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 806,
+        "sterne": 4.1,
+        "bsr": 1102,
+        "kategorien": [
+          [
+            41,
+            "Action & Abenteuer Liebesromane"
+          ],
+          [
+            51,
+            "Romantisch Action & Abenteuer"
+          ],
+          [
+            52,
+            "eBooks: Fantasy-Romanze"
+          ]
+        ]
+      },
+      {
+        "asin": "B0HCW28KG7",
+        "titel": "My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 64,
+        "sterne": 4.5,
+        "bsr": 92,
+        "kategorien": [
+          [
+            2,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            2,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            2,
+            "Fake-Dating-Romantik"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H5C9LJYP",
+        "titel": "Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 296,
+        "sterne": 4.2,
+        "bsr": 731,
+        "kategorien": [
+          [
+            49,
+            "Moderne Belletristik für Frauen"
+          ],
+          [
+            54,
+            "Zeitgenössische Frauenliteratur"
+          ],
+          [
+            78,
+            "eBooks über Romanzen über Milliardäre & Millionäre"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H7SHQN5J",
+        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 56,
+        "sterne": 4.3,
+        "bsr": 238,
+        "kategorien": [
+          [
+            24,
+            "eBooks über Romanzen über Milliardäre & Millionäre"
+          ],
+          [
+            54,
+            "Zeitgenössische Liebesromane"
+          ],
+          [
+            69,
+            "Zeitgenössische Liebesromane"
+          ]
+        ]
+      },
+      {
+        "asin": "B0HC8L5HYN",
+        "titel": "Vernachlässigt von meinem Milliardär-Ehemann: Eine Romanzen-Serie um einen Milliardär, eine Ehe in der Krise und eine zweite Chance",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 16,
+        "sterne": 4.2,
+        "bsr": 411,
+        "kategorien": [
+          [
+            8,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            25,
+            "eBooks: romantische Thriller"
+          ],
+          [
+            37,
+            "Romantische Thriller"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H8WXW6C5",
+        "titel": "Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 53,
+        "sterne": 4.1
+      },
+      {
+        "asin": "B0FXBYX37M",
+        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1711,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0DVCGHL4P",
+        "titel": "Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 2771,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H2D3G4G2",
+        "titel": "Her Secret Husband: Ein Enemies to Lovers - Liebesroman (Die Chester Street Milliardäre 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 823,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0FRSWBZQ3",
+        "titel": "Das Haustier des Milliardärs: Liebesroman (Die Winters Saga 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 455,
+        "sterne": 4.4
+      }
+    ],
+    "bsr_werte": [
+      1102,
+      92,
+      731,
+      238,
+      411
+    ],
+    "bsr_median": 411,
+    "bsr_bester": 92,
+    "verkaeufe_tag_geschaetzt": 600.11,
+    "bewertungen_median": 64,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "kategorien": [
+      {
+        "name": "Fake-Dating-Romantik",
+        "titel": 2,
+        "rang_bester": 2
+      },
+      {
+        "name": "Zweite-Chance-Romanze",
+        "titel": 2,
+        "rang_bester": 2
+      },
+      {
+        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
+        "titel": 2,
+        "rang_bester": 24
+      },
+      {
+        "name": "Zeitgenössische Liebesromane",
+        "titel": 2,
+        "rang_bester": 54
+      },
+      {
+        "name": "eBooks: romantische Thriller",
+        "titel": 1,
+        "rang_bester": 25
+      },
+      {
+        "name": "Romantische Thriller",
+        "titel": 1,
+        "rang_bester": 37
+      },
+      {
+        "name": "Action & Abenteuer Liebesromane",
+        "titel": 1,
+        "rang_bester": 41
+      },
+      {
+        "name": "Moderne Belletristik für Frauen",
+        "titel": 1,
+        "rang_bester": 49
+      },
+      {
+        "name": "Romantisch Action & Abenteuer",
+        "titel": 1,
+        "rang_bester": 51
+      },
+      {
+        "name": "eBooks: Fantasy-Romanze",
+        "titel": 1,
+        "rang_bester": 52
+      },
+      {
+        "name": "Zeitgenössische Frauenliteratur",
+        "titel": 1,
+        "rang_bester": 54
+      }
+    ],
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "ceo liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0GWXJRYPJ",
+        "titel": "Icecold CEO (Die Manhattan CEOs 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 523,
+        "sterne": 4.3,
+        "bsr": 659,
+        "kategorien": [
+          [
+            17,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            17,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            42,
+            "Liebesroman"
+          ]
+        ]
+      },
+      {
+        "asin": "B0FHKM1F9T",
+        "titel": "Den CEO Verführt: Ein Grumpy x Sunshine Liebesroman (Die Whitley-Brüder 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1782,
+        "sterne": 4.3,
+        "bsr": 1194,
+        "kategorien": [
+          [
+            77,
+            "Urlaubsromanzen"
+          ],
+          [
+            80,
+            "Ferienliebesromane"
+          ],
+          [
+            129,
+            "Romantische Komödien"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H8JHNW83",
+        "titel": "Soulless CEO (Die Manhattan CEOs 4)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 327,
+        "sterne": 4.4,
+        "bsr": 267,
+        "kategorien": [
+          [
+            4,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            4,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            19,
+            "Liebesroman"
+          ]
+        ]
+      },
+      {
+        "asin": "B0GCPQ8CH4",
+        "titel": "Im Bann des CEO: Ein Enemies-To-Lovers Liebesroman (Die Whitley-Brüder 6)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1056,
+        "sterne": 4.3,
+        "bsr": 1345,
+        "kategorien": [
+          [
+            116,
+            "eBooks über Romanzen über Milliardäre & Millionäre"
+          ],
+          [
+            141,
+            "Romantische Komödien"
+          ],
+          [
+            168,
+            "Romantische Komödie"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H4W5TDZ6",
+        "titel": "Ruthless CEO (Die Manhattan CEOs 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 400,
+        "sterne": 4.4,
+        "bsr": 552,
+        "kategorien": [
+          [
+            12,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            12,
+            "Fake-Dating-Romantik"
+          ],
+          [
+            35,
+            "Liebesroman"
+          ]
+        ]
+      },
+      {
+        "asin": "B0FHJQYQNQ",
+        "titel": "Küss den CEO (Die Whitley-Brüder 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1199,
         "sterne": 4.3
       },
       {
-        "asin": "B0H862F1Y8",
-        "titel": "A Secret Pregnancy and Betrayed Old Lady MC Romance: The Baby He Didn't Deserve (betrayed revenge and grovel biker mc series Book 5)",
+        "asin": "B0HDSFCGCS",
+        "titel": "Business Only CEO (Die Manhattan CEOs 5)",
         "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 4.99,
-        "bewertungen": 133,
-        "sterne": 4.2
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 6,
+        "sterne": 4.6
+      },
+      {
+        "asin": "B0H5KDZV9G",
+        "titel": "Eine NANNY für den CEO (Seattle Single Daddies 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 408,
+        "sterne": 3.5
+      },
+      {
+        "asin": "B0GX2YVQ7T",
+        "titel": "Her Pucking CEO: Ein Second Chance - Enemies to Lovers Liebesroman (Die Chester Street Milliardäre 3)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 982,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0BS1FTXQ6",
+        "titel": "Die Bändigung von Mr. Walker: Ein CEO-Liebesroman (London-Mister-Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 6791,
+        "sterne": 4.5
       }
     ],
-    "bsr_werte": [],
-    "bsr_median": null,
-    "bsr_bester": null,
-    "verkaeufe_tag_geschaetzt": null,
-    "bewertungen_median": 292,
-    "preis_median": 5.99,
-    "kindle_unlimited": 8,
-    "im_70_prozent_fenster": 2
+    "bsr_werte": [
+      659,
+      1194,
+      267,
+      1345,
+      552
+    ],
+    "bsr_median": 659,
+    "bsr_bester": 267,
+    "verkaeufe_tag_geschaetzt": 401.74,
+    "bewertungen_median": 523,
+    "preis_median": null,
+    "kindle_unlimited": 10,
+    "kategorien": [
+      {
+        "name": "Fake-Dating-Romantik",
+        "titel": 6,
+        "rang_bester": 4
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 3,
+        "rang_bester": 19
+      },
+      {
+        "name": "Romantische Komödien",
+        "titel": 2,
+        "rang_bester": 129
+      },
+      {
+        "name": "Urlaubsromanzen",
+        "titel": 1,
+        "rang_bester": 77
+      },
+      {
+        "name": "Ferienliebesromane",
+        "titel": 1,
+        "rang_bester": 80
+      },
+      {
+        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
+        "titel": 1,
+        "rang_bester": 116
+      },
+      {
+        "name": "Romantische Komödie",
+        "titel": 1,
+        "rang_bester": 168
+      }
+    ],
+    "im_70_prozent_fenster": 0
   },
   {
-    "begriff": "billionaire romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
-  },
-  {
-    "begriff": "ceo romance",
-    "markt": "www.amazon.com",
-    "fehler": "Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten."
+    "begriff": "zweite chance liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0H93P1LWL",
+        "titel": "Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 5.77,
+        "bewertungen": 1,
+        "sterne": 5.0,
+        "bsr": 181639,
+        "kategorien": [
+          [
+            980,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            98047,
+            "Belletristik"
+          ],
+          [
+            99866,
+            "Liebesromane"
+          ]
+        ]
+      },
+      {
+        "asin": "B0HCLDL167",
+        "titel": "Die andere Frau Drama Zweite-Chance-Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 4.62,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": null,
+        "kategorien": []
+      },
+      {
+        "asin": "B0H8XQYLWX",
+        "titel": "Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 4.62,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 252506,
+        "kategorien": [
+          [
+            1155,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            125373,
+            "Belletristik"
+          ],
+          [
+            136358,
+            "Liebesromane"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H69VPG23",
+        "titel": "The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 124,
+        "sterne": 4.3,
+        "bsr": 401,
+        "kategorien": [
+          [
+            7,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            25,
+            "Liebesromane für Junge Erwachsene"
+          ],
+          [
+            41,
+            "New Adult"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H1H8JVWW",
+        "titel": "Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 3.1,
+        "bsr": 303993,
+        "kategorien": [
+          [
+            5836,
+            "Moderne Belletristik für Frauen"
+          ],
+          [
+            7118,
+            "Liebesromane für Frauen"
+          ],
+          [
+            7514,
+            "Liebesroman"
+          ]
+        ]
+      },
+      {
+        "asin": "B0H9SP5R4D",
+        "titel": "Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 52,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B0GQP36T3H",
+        "titel": "Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 6,
+        "sterne": 3.8
+      },
+      {
+        "asin": "B0871NQ5Z1",
+        "titel": "Die zweite Chance: Ein Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 202,
+        "sterne": 4.3
+      },
+      {
+        "asin": "B09NMQWY96",
+        "titel": "The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1778,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0B4WGCDT6",
+        "titel": "Zweite Chance für ein Herz: Liebesroman (Zweite Chance … 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 171,
+        "sterne": 4.4
+      }
+    ],
+    "bsr_werte": [
+      181639,
+      252506,
+      401,
+      303993
+    ],
+    "bsr_median": 217072,
+    "bsr_bester": 401,
+    "verkaeufe_tag_geschaetzt": 2.91,
+    "bewertungen_median": 9,
+    "preis_median": 4.62,
+    "kindle_unlimited": 7,
+    "kategorien": [
+      {
+        "name": "Zweite-Chance-Romanze",
+        "titel": 3,
+        "rang_bester": 7
+      },
+      {
+        "name": "Belletristik",
+        "titel": 2,
+        "rang_bester": 98047
+      },
+      {
+        "name": "Liebesromane",
+        "titel": 2,
+        "rang_bester": 99866
+      },
+      {
+        "name": "Liebesromane für Junge Erwachsene",
+        "titel": 1,
+        "rang_bester": 25
+      },
+      {
+        "name": "New Adult",
+        "titel": 1,
+        "rang_bester": 41
+      },
+      {
+        "name": "Moderne Belletristik für Frauen",
+        "titel": 1,
+        "rang_bester": 5836
+      },
+      {
+        "name": "Liebesromane für Frauen",
+        "titel": 1,
+        "rang_bester": 7118
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 1,
+        "rang_bester": 7514
+      }
+    ],
+    "im_70_prozent_fenster": 3
   }
 ]

@@ -1,6 +1,6 @@
 # KDP-Nischen
 
-Stand: 2026-08-14
+Stand: 2026-08-15
 
 Gemessen auf den öffentlichen Amazon-Trefferlisten und Produktseiten. **Der Bestseller-Rang (BSR) ist die belastbare Zahl** — innerhalb desselben Marktplatzes direkt vergleichbar, niedriger heißt mehr Verkäufe. Die Umrechnung in Stückzahlen ist eine Schätzung.
 
@@ -8,14 +8,10 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| secret baby romance | www.amazon.com | – | – | – | 292 | 5.99 | 2/10 | 8/10 | 2/10 |
-| billionaire romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-| ceo romance | www.amazon.com | FEHLER | – | – | – | – | – | – | – |
-
-## Fehlgeschlagen
-
-- **billionaire romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
-- **ceo romance** — Keine Treffer gelesen. Entweder blockiert Amazon den Abruf oder die Seitenstruktur hat sich geaendert. NICHT als 'keine Konkurrenz' deuten.
+| geheimes baby liebesroman | www.amazon.de | 792 | 124 | 343.62 | 46 | – | 0/10 | 10/10 | 0/10 |
+| milliardär liebesroman | www.amazon.de | 411 | 92 | 600.11 | 64 | – | 0/10 | 10/10 | 0/10 |
+| ceo liebesroman | www.amazon.de | 659 | 267 | 401.74 | 523 | – | 0/10 | 10/10 | 0/10 |
+| zweite chance liebesroman | www.amazon.de | 217072 | 401 | 2.91 | 9 | 4.62 | 3/10 | 7/10 | 0/10 |
 
 ## Wie zu lesen
 
@@ -26,6 +22,63 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 - **im 70-%-Fenster** = wie viele Titel zwischen 2,99 und 9,99 € liegen. Weit darüber heißt: Der Markt trägt höhere Preise, aber die Tantieme fällt auf 35 %.
 
 Die beste Nische hat **niedrigen BSR bei niedrigen Bewertungszahlen**. Das ist Nachfrage ohne festsitzende Platzhirsche.
+
+## Kategorien der Spitzentitel
+
+In welchen Unterkategorien die gemessenen Titel stehen und auf welchem Rang der beste von ihnen dort liegt. Das ist die Liste, aus der bei KDP die drei Kategorien gewählt werden. Die Oberkategorien (Kindle-Shop, Bücher) sind ausgelassen, weil sie bei jedem Titel stehen und nichts unterscheiden.
+
+**Ein niedriger bester Rang heißt: dort ist es eng.** Eine Kategorie, in der der beste gemessene Titel auf Rang 40 steht, ist leichter zu erreichen als eine, in der er auf Rang 2 steht.
+
+**geheimes baby liebesroman**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Dramatik - Weibliche Autoren | 2 | 1 |
+| Rockstar-Romanze | 2 | 1 |
+| Scheidung | 2 | 3 |
+| Dark Romance | 2 | 532 |
+| Dramen & Theaterstücke von Frauen | 1 | 1 |
+| Romantische Sammlungen & Anthologien | 1 | 4 |
+| Sammlungen & Erzählbände von Romanzen | 1 | 4 |
+| Multikulturelle & interkulturelle Romanzen | 1 | 4 |
+
+**milliardär liebesroman**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Fake-Dating-Romantik | 2 | 2 |
+| Zweite-Chance-Romanze | 2 | 2 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 2 | 24 |
+| Zeitgenössische Liebesromane | 2 | 54 |
+| eBooks: romantische Thriller | 1 | 25 |
+| Romantische Thriller | 1 | 37 |
+| Action & Abenteuer Liebesromane | 1 | 41 |
+| Moderne Belletristik für Frauen | 1 | 49 |
+
+**ceo liebesroman**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Fake-Dating-Romantik | 6 | 4 |
+| Liebesroman | 3 | 19 |
+| Romantische Komödien | 2 | 129 |
+| Urlaubsromanzen | 1 | 77 |
+| Ferienliebesromane | 1 | 80 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 1 | 116 |
+| Romantische Komödie | 1 | 168 |
+
+**zweite chance liebesroman**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Zweite-Chance-Romanze | 3 | 7 |
+| Belletristik | 2 | 98047 |
+| Liebesromane | 2 | 99866 |
+| Liebesromane für Junge Erwachsene | 1 | 25 |
+| New Adult | 1 | 41 |
+| Moderne Belletristik für Frauen | 1 | 5836 |
+| Liebesromane für Frauen | 1 | 7118 |
+| Liebesroman | 1 | 7514 |
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
 ---
