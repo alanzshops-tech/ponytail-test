@@ -54,6 +54,31 @@ GitHub, PyPI und npm — nicht homeeins.de, nicht YouTube, nicht die
 CJ-API. Alles Externe läuft über GitHub Actions, das Ergebnis kommt als
 Commit zurück.
 
+**Erst nachsehen, was schon da ist — besonders bei OpenRouter.** Am
+15.08.2026 habe ich dreimal gesagt, ein Coverbild sei nicht machbar:
+Cloudinary hatte keine Freigabe, Canva erzeugt nur Vorlagen. Die
+Fähigkeit lag die ganze Zeit im Repository. `openrouter.yml` hat seit
+Tagen die Eingaben `bild_prompt`, `bild_eingabe` und `bild_ausgabe`.
+Das Bild war danach in vier Minuten da, für 0,03 $.
+
+**OpenRouter ist keine Chat-Anbindung, sondern eine Werkbank.** Über
+eine Adresse und einen Schlüssel, gemessen in `OPENROUTER.md`:
+
+| Kann | Wie |
+|---|---|
+| **409 Modelle** aller großen Anbieter | `--fragen`, `--modell` |
+| **Bilder erzeugen und bearbeiten** — 9 Modelle, ab 0,25 $/Mio. | `--bild-prompt`, `--bild-eingabe` |
+| **Echte Websuche** (Exa) vor die Antwort hängen | `--websuche` |
+| **Dateien und Bilder hereingeben** | `input_modalities` je Modell |
+| **Steckbriefe und Preise** aller Modelle | `--info` |
+| **Fremdes Urteil über eigene Texte** | `scripts/lektorat.py` |
+
+Die Regel daraus: Bevor „das geht hier nicht" gesagt wird, erst
+`OPENROUTER.md` und die Eingaben von `openrouter.yml` ansehen. Ein
+fremdes Modell ist außerdem das einzige Messgerät für Fragen, die ich
+über meine eigene Arbeit nicht beantworten kann — mit Zitatprüfung und
+Gegenprobe, sonst ist es ein Kompliment mit Rechnung.
+
 **Ein Selektor, der zu viel fängt, ist kein Messgerät.** Schon dreimal
 passiert: „Ausverkauft" im Theme-Template, „Rechnung" in
 „Rechnungsadresse", Judge.mes Einstellungs-Script statt des Widgets.
