@@ -87,6 +87,9 @@ beide Unterfelder mitschicken, auch wenn nur eines geändert werden soll.
 | Nachfrage und Saison | pytrends | `scripts/trends.py` |
 | Lieferantenkatalog | CJ API | `scripts/cj.py`, `scripts/marge.py` |
 | Fremde Modelle rufen | OpenRouter | `scripts/openrouter.py` |
+| Cover der Nische messen | Playwright, Pillow | `scripts/cover.py` |
+| Cover setzen und prüfen | Pillow | `scripts/coverbau.py` |
+| Manuskript bauen und prüfen | ebooklib | `scripts/manuskript.py` |
 
 Berichte liegen als Markdown an der Wurzel: `WERKZEUGE.md`,
 `PRUEFSTAND.md`, `GESAMTSCAN.md`, `AUSBAU.md`, `KAUFPROBE.md`,
@@ -151,6 +154,10 @@ CopeCart, ablefy im Reseller-Modell) lösen das, weil dort der Kaufvertrag
 zwischen Plattform und Kunde zustande kommt. Dazu: Kurse und Memberships
 bringen am meisten, brauchen aber ein Publikum — das hier fehlt. Etsy ist
 die einzige Startoption mit eigenem Traffic.
+
+`COVER.md` — 36 gemessene Konkurrenzcover aus den KDP-Nischen, dazu
+der fertige Bild-Prompt und die Typografie-Vorgaben. `KDP-UPLOAD.md` —
+alle Felder fürs Hochladen fertig ausgefüllt, plus was noch fehlt.
 
 `PRODUKTBILDER.md` — externe Recherche (Stand 13.08.2026) zu
 Produktbildern, die messbar besser verkaufen: wie viele Bilder,
