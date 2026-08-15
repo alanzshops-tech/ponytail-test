@@ -31,7 +31,8 @@
             13,
             "Liebesroman"
           ]
-        ]
+        ],
+        "seiten": 359
       },
       {
         "asin": "B0F671SQP8",
@@ -59,7 +60,8 @@
             4,
             "Sammlungen & Erzählbände von Romanzen"
           ]
-        ]
+        ],
+        "seiten": 312
       },
       {
         "asin": "B0HD133PD7",
@@ -83,7 +85,8 @@
             99,
             "eBooks über Romanzen über Milliardäre & Millionäre"
           ]
-        ]
+        ],
+        "seiten": null
       },
       {
         "asin": "B0H5T8L75H",
@@ -107,7 +110,8 @@
             6,
             "Scheidung & Trennung"
           ]
-        ]
+        ],
+        "seiten": 315
       },
       {
         "asin": "B0H6HLG71H",
@@ -131,7 +135,8 @@
             956,
             "eBooks: romantische Thriller"
           ]
-        ]
+        ],
+        "seiten": 398
       },
       {
         "asin": "B0D9G5DJX2",
@@ -192,6 +197,13 @@
     "bewertungen_median": 46,
     "preis_median": null,
     "kindle_unlimited": 10,
+    "seiten_werte": [
+      312,
+      315,
+      359,
+      398
+    ],
+    "seiten_median": 337,
     "kategorien": [
       {
         "name": "Dramatik - Weibliche Autoren",
@@ -289,7 +301,8 @@
             52,
             "eBooks: Fantasy-Romanze"
           ]
-        ]
+        ],
+        "seiten": 150
       },
       {
         "asin": "B0HCW28KG7",
@@ -313,7 +326,8 @@
             2,
             "Fake-Dating-Romantik"
           ]
-        ]
+        ],
+        "seiten": 544
       },
       {
         "asin": "B0H5C9LJYP",
@@ -337,7 +351,8 @@
             78,
             "eBooks über Romanzen über Milliardäre & Millionäre"
           ]
-        ]
+        ],
+        "seiten": 360
       },
       {
         "asin": "B0H7SHQN5J",
@@ -361,7 +376,8 @@
             69,
             "Zeitgenössische Liebesromane"
           ]
-        ]
+        ],
+        "seiten": 566
       },
       {
         "asin": "B0HC8L5HYN",
@@ -385,7 +401,8 @@
             37,
             "Romantische Thriller"
           ]
-        ]
+        ],
+        "seiten": 1189
       },
       {
         "asin": "B0H8WXW6C5",
@@ -446,6 +463,14 @@
     "bewertungen_median": 64,
     "preis_median": null,
     "kindle_unlimited": 10,
+    "seiten_werte": [
+      150,
+      360,
+      544,
+      566,
+      1189
+    ],
+    "seiten_median": 544,
     "kategorien": [
       {
         "name": "Fake-Dating-Romantik",
@@ -533,7 +558,8 @@
             42,
             "Liebesroman"
           ]
-        ]
+        ],
+        "seiten": 306
       },
       {
         "asin": "B0FHKM1F9T",
@@ -557,7 +583,8 @@
             129,
             "Romantische Komödien"
           ]
-        ]
+        ],
+        "seiten": 326
       },
       {
         "asin": "B0H8JHNW83",
@@ -581,7 +608,8 @@
             19,
             "Liebesroman"
           ]
-        ]
+        ],
+        "seiten": 346
       },
       {
         "asin": "B0GCPQ8CH4",
@@ -605,7 +633,8 @@
             168,
             "Romantische Komödie"
           ]
-        ]
+        ],
+        "seiten": 334
       },
       {
         "asin": "B0H4W5TDZ6",
@@ -629,7 +658,8 @@
             35,
             "Liebesroman"
           ]
-        ]
+        ],
+        "seiten": 325
       },
       {
         "asin": "B0FHJQYQNQ",
@@ -690,6 +720,14 @@
     "bewertungen_median": 523,
     "preis_median": null,
     "kindle_unlimited": 10,
+    "seiten_werte": [
+      306,
+      325,
+      326,
+      334,
+      346
+    ],
+    "seiten_median": 326,
     "kategorien": [
       {
         "name": "Fake-Dating-Romantik",
@@ -740,7 +778,7 @@
         "titel": "Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)",
         "gesponsert": false,
         "kindle_unlimited": false,
-        "preis": 5.77,
+        "preis": 4.99,
         "bewertungen": 1,
         "sterne": 5.0,
         "bsr": 181639,
@@ -757,25 +795,27 @@
             99866,
             "Liebesromane"
           ]
-        ]
+        ],
+        "seiten": 291
       },
       {
         "asin": "B0HCLDL167",
         "titel": "Die andere Frau Drama Zweite-Chance-Liebesroman",
         "gesponsert": false,
         "kindle_unlimited": false,
-        "preis": 4.62,
+        "preis": 3.99,
         "bewertungen": null,
         "sterne": null,
         "bsr": null,
-        "kategorien": []
+        "kategorien": [],
+        "seiten": 199
       },
       {
         "asin": "B0H8XQYLWX",
         "titel": "Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)",
         "gesponsert": false,
         "kindle_unlimited": false,
-        "preis": 4.62,
+        "preis": 3.99,
         "bewertungen": null,
         "sterne": null,
         "bsr": 252506,
@@ -792,7 +832,8 @@
             136358,
             "Liebesromane"
           ]
-        ]
+        ],
+        "seiten": 126
       },
       {
         "asin": "B0H69VPG23",
@@ -816,7 +857,8 @@
             41,
             "New Adult"
           ]
-        ]
+        ],
+        "seiten": 381
       },
       {
         "asin": "B0H1H8JVWW",
@@ -840,7 +882,8 @@
             7514,
             "Liebesroman"
           ]
-        ]
+        ],
+        "seiten": 350
       },
       {
         "asin": "B0H9SP5R4D",
@@ -898,8 +941,16 @@
     "bsr_bester": 401,
     "verkaeufe_tag_geschaetzt": 2.91,
     "bewertungen_median": 9,
-    "preis_median": 4.62,
+    "preis_median": 3.99,
     "kindle_unlimited": 7,
+    "seiten_werte": [
+      126,
+      199,
+      291,
+      350,
+      381
+    ],
+    "seiten_median": 291,
     "kategorien": [
       {
         "name": "Zweite-Chance-Romanze",

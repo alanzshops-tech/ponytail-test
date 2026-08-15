@@ -11,7 +11,7 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 | geheimes baby liebesroman | www.amazon.de | 792 | 124 | 343.62 | 46 | – | 0/10 | 10/10 | 0/10 |
 | milliardär liebesroman | www.amazon.de | 411 | 92 | 600.11 | 64 | – | 0/10 | 10/10 | 0/10 |
 | ceo liebesroman | www.amazon.de | 659 | 267 | 401.74 | 523 | – | 0/10 | 10/10 | 0/10 |
-| zweite chance liebesroman | www.amazon.de | 217072 | 401 | 2.91 | 9 | 4.62 | 3/10 | 7/10 | 0/10 |
+| zweite chance liebesroman | www.amazon.de | 217072 | 401 | 2.91 | 9 | 3.99 | 3/10 | 7/10 | 0/10 |
 
 ## Wie zu lesen
 
@@ -22,6 +22,17 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 - **im 70-%-Fenster** = wie viele Titel zwischen 2,99 und 9,99 € liegen. Weit darüber heißt: Der Markt trägt höhere Preise, aber die Tantieme fällt auf 35 %.
 
 Die beste Nische hat **niedrigen BSR bei niedrigen Bewertungszahlen**. Das ist Nachfrage ohne festsitzende Platzhirsche.
+
+## Wie lang sind die Spitzentitel?
+
+Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), veröffentlicht Amazon nicht. Die **Seitenzahl der Print-Ausgabe** steht dagegen auf fast jeder Produktseite und ist der beste öffentliche Anhaltspunkt. Als grobe Umrechnung für deutsche Belletristik: **rund 250 Wörter je Druckseite** — das ist eine Faustregel, keine Messung, und deshalb steht die Seitenzahl daneben.
+
+| Nische | Titel mit Angabe | Seiten Median | Spanne | ≈ Wörter (×250) |
+|---|---:|---:|---|---:|
+| geheimes baby liebesroman | 4 | 337 | 312–398 | 84.250 |
+| milliardär liebesroman | 5 | 544 | 150–1189 | 136.000 |
+| ceo liebesroman | 5 | 326 | 306–346 | 81.500 |
+| zweite chance liebesroman | 5 | 291 | 126–381 | 72.750 |
 
 ## Kategorien der Spitzentitel
 
