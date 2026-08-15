@@ -34,6 +34,18 @@ on:
         description: "Marktplatz für die KDP-Messung: de oder com"
         required: false
         default: "de"
+      cover_begriffe:
+        description: "Cover der Nischen messen, Begriffe durch | getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      cover_anzahl:
+        description: "Cover je Nische"
+        required: false
+        default: "12"
+      nur_cover:
+        description: "true = nur die Cover messen, Shop-Fotos und Lighthouse überspringen"
+        required: false
+        default: "false"
       url_datei:
         description: "Welche URL-Liste fotografieren (z. B. urls-vorschau.txt)"
         required: false
@@ -78,7 +90,10 @@ jobs:
           pip install --quiet playwright
           python3 -m playwright install --with-deps chromium
 
+      # Ueberspringbar, damit ein reiner Cover-Lauf nicht eine halbe
+      # Stunde den Shop fotografiert. Standard bleibt: laeuft.
       - name: Fotografieren und messen
+        if: inputs.nur_cover != 'true'
         env:
           URL_DATEI: ${{ inputs.url_datei || 'urls-shop.txt' }}
           PRAEFIX: ${{ inputs.praefix }}
@@ -121,6 +136,37 @@ jobs:
           python3 scripts/kdp_nischen.py --markt "$KDP_MARKT" \
             --begriffe "${BEGRIFFE[@]}"
 
+      # Holt die Cover der Spitzentitel und misst sie. Eigenes Messgeraet,
+      # weil "schau dir an, was in deiner Nische funktioniert" ohne
+      # Kontaktbogen und Zahlen nur Erinnerung ist.
+      # Zuerst die Kalibrierung, allein: Schlaegt sie fehl, wird gar nicht
+      # gemessen. Deshalb hier KEIN continue-on-error auf dem Selbsttest.
+      - name: Cover-Messgerät kalibrieren
+        if: inputs.cover_begriffe != ''
+        run: |
+          pip install --quiet pillow
+          python3 scripts/cover.py --selbsttest
+
+      - name: Cover holen und messen
+        if: inputs.cover_begriffe != ''
+        continue-on-error: true
+        env:
+          COVER_BEGRIFFE: ${{ inputs.cover_begriffe }}
+          COVER_MARKT: ${{ inputs.kdp_markt }}
+          COVER_ANZAHL: ${{ inputs.cover_anzahl }}
+        run: |
+          python3 - <<'PY' > /tmp/cover_begriffe.txt
+          import os
+          for b in os.environ["COVER_BEGRIFFE"].split("|"):
+              b = b.strip()
+              if b:
+                  print(b)
+          PY
+          mapfile -t BEGRIFFE < /tmp/cover_begriffe.txt
+          printf 'Cover-Begriff: %s\n' "${BEGRIFFE[@]}"
+          python3 scripts/cover.py --markt "$COVER_MARKT" \
+            --anzahl "$COVER_ANZAHL" --begriffe "${BEGRIFFE[@]}"
+
       # Eigener, optionaler Schritt: prueft echten Tap-Zoom auf dem Handy,
       # nicht nur ob die Seite laedt. Siehe PRODUKTBILDER.md.
       - name: Bild-Zoom pruefen
@@ -142,6 +188,7 @@ jobs:
       # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
       # die Mehrheit ankommt und die Schwächen sichtbarer sind.
       - name: Lighthouse
+        if: inputs.nur_cover != 'true'
         continue-on-error: true
         run: |
           npm install -g lighthouse@12 --silent
@@ -192,6 +239,7 @@ jobs:
           git add ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
           git add SCHEMAPROBE.md daten/schemaprobe.json 2>/dev/null || true
           git add KDP-NISCHEN.md daten/kdp-nischen.json 2>/dev/null || true
+          git add cover COVER.md daten/cover.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
           for v in 1 2 3; do
