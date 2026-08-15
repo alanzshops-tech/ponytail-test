@@ -47,7 +47,7 @@ nicht, in welcher Reihenfolge es jetzt liegt.
 
 „Wie alt", sagte ich schließlich.
 
-„Achtzehn Monate. Am siebten März wird er zwei."
+„Achtzehn Monate. Am achten Mai wird er zwei."
 
 Ich rechnete zurück. Ich rechnete es dreimal, obwohl es beim ersten Mal
 gestimmt hatte.
@@ -66,7 +66,7 @@ Sie schob es zu mir.
 
 Es waren nicht viele Bilder. Vielleicht vierzig.
 
-Das erste war ein Ultraschall, mit einem Datum in der Ecke: 14.08.2024.
+Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
 Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
 Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
 
@@ -78,7 +78,7 @@ gesessen und über Entwässerung geredet hatte.
 
 Ich blätterte langsam. Ich wollte es nicht schnell machen.
 
-„Der siebte März", sagte ich irgendwann.
+„Der achte Mai", sagte ich irgendwann.
 
 „Ja."
 

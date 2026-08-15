@@ -22,7 +22,7 @@ Ich ging ins Schlafzimmer und setzte mich aufs Bett und sah die Wand an.
 
 Hier ist, was passiert ist, damit es einmal gesagt ist.
 
-Vor zwei Jahren und vier Monaten war die Hochzeit meiner Cousine in
+Vor gut zwei Jahren war die Hochzeit meiner Cousine in
 Travemünde. Ich war Trauzeugin, ich hatte die Torte gemacht, dreistöckig,
 mit Holunderblüte, und ich hatte sie um vier Uhr morgens im Kofferraum
 transportiert und nicht geschlafen.
