@@ -194,8 +194,43 @@ OBERKATEGORIEN = ("Kindle-Shop", "Bücher", "Kindle Store", "Books",
                   "Kindle eBooks", "eBook Kindle")
 
 
+# Zwischen Beschriftung und Wert stehen auf Amazon unsichtbare
+# Richtungszeichen (U+200E/U+200F) und ein Doppelpunkt. Deshalb wird
+# nicht auf ": " geprueft, sondern auf "irgendwas Kurzes ohne Ziffern".
+# Amazon setzt an dieser Stelle mal einen normalen Bindestrich, mal
+# einen geschuetzten (U+2011) und mal ein Leerzeichen. Der Selbsttest
+# hat den geschuetzten gefunden -- mit nur "[- ]" lieferte
+# "Print\u2011Ausgabe" kein Ergebnis, und das haette im Bericht wie
+# "keine Angabe" ausgesehen.
+BINDE = r"[-\u2010\u2011\u2012\u2013\u00ad ]"
+SEITEN_MUSTER = (
+    rf"Seitenzahl der Print{BINDE}Ausgabe[^\d]{{0,25}}([\d.,]+)",
+    rf"Print{BINDE}length[^\d]{{0,25}}([\d.,]+)",
+    r"L(?:ä|ae)nge[^\d]{0,25}([\d.,]+)\s*Seiten",
+)
+
+
+def seitenzahl(text: str) -> int | None:
+    """Umfang eines Kindle-Titels in Druckseiten.
+
+    Warum ueberhaupt: Die Zahl, nach der bei Kindle Unlimited bezahlt
+    wird (KENPC), veroeffentlicht Amazon nicht. Die Seitenzahl der
+    Print-Ausgabe steht dagegen auf fast jeder Produktseite und ist der
+    beste oeffentliche Anhaltspunkt fuer die Laenge.
+    """
+    for muster in SEITEN_MUSTER:
+        m = re.search(muster, text, re.I)
+        if m:
+            n = zahl_aus(m.group(1))
+            # Unter 20 und ueber 2000 Seiten ist kein Liebesroman,
+            # sondern ein Lesefehler.
+            if n and 20 <= n <= 2000:
+                return n
+    return None
+
+
 def bsr_holen(seite, host: str, asin: str,
-              muster: str) -> tuple[int | None, list[tuple[int, str]]]:
+              muster: str) -> tuple[int | None, list[tuple[int, str]], int | None]:
     """BSR und Kategorien stehen nur auf der Produktseite.
 
     Amazon listet dort untereinander:
@@ -214,6 +249,8 @@ def bsr_holen(seite, host: str, asin: str,
     m = re.search(muster, text)
     bsr = zahl_aus(m.group(1)) if m else None
 
+    umfang = seitenzahl(text)
+
     kategorien = []
     for rang, name in re.findall(
             r"(?:Nr\.|#)\s*([\d.,]+)\s+in\s+([^\n(]{3,70})", text):
@@ -223,7 +260,7 @@ def bsr_holen(seite, host: str, asin: str,
         r = zahl_aus(rang)
         if r:
             kategorien.append((r, name))
-    return bsr, kategorien[:4]
+    return bsr, kategorien[:4], umfang
 
 
 def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
@@ -267,10 +304,10 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
 
     for t in organisch[:details]:
         try:
-            t["bsr"], t["kategorien"] = bsr_holen(
+            t["bsr"], t["kategorien"], t["seiten"] = bsr_holen(
                 seite, markt["host"], t["asin"], markt["bsr_muster"])
         except Exception:
-            t["bsr"], t["kategorien"] = None, []
+            t["bsr"], t["kategorien"], t["seiten"] = None, [], None
         time.sleep(pause + random.uniform(0, pause))
 
     bsrs = [t["bsr"] for t in organisch[:details] if t.get("bsr")]
@@ -288,6 +325,10 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
     ergebnis["preis_median"] = round(median(preise), 2) if preise else None
     ergebnis["kindle_unlimited"] = sum(
         1 for t in liste if t.get("kindle_unlimited"))
+    seiten = [t["seiten"] for t in organisch[:details] if t.get("seiten")]
+    ergebnis["seiten_werte"] = sorted(seiten)
+    ergebnis["seiten_median"] = int(median(seiten)) if seiten else None
+
     zaehler: dict[str, list[int]] = {}
     for t in organisch[:details]:
         for rang, name in t.get("kategorien", []):
@@ -357,6 +398,29 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
           "Die beste Nische hat **niedrigen BSR bei niedrigen "
           "Bewertungszahlen**. Das ist Nachfrage ohne festsitzende "
           "Platzhirsche.", ""]
+
+    z += ["## Wie lang sind die Spitzentitel?", "",
+          "Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), "
+          "veröffentlicht Amazon nicht. Die **Seitenzahl der "
+          "Print-Ausgabe** steht dagegen auf fast jeder Produktseite und "
+          "ist der beste öffentliche Anhaltspunkt. Als grobe Umrechnung "
+          "für deutsche Belletristik: **rund 250 Wörter je Druckseite** — "
+          "das ist eine Faustregel, keine Messung, und deshalb steht die "
+          "Seitenzahl daneben.", "",
+          "| Nische | Titel mit Angabe | Seiten Median | Spanne | "
+          "≈ Wörter (×250) |",
+          "|---|---:|---:|---|---:|"]
+    for e in ergebnisse:
+        if e.get("fehler"):
+            continue
+        w = e.get("seiten_werte") or []
+        if not w:
+            z.append(f"| {e['begriff']} | 0 | – | – | – |")
+            continue
+        m = e["seiten_median"]
+        z.append(f"| {e['begriff']} | {len(w)} | {m} | {min(w)}–{max(w)} "
+                 f"| {m * 250:,} |".replace(",", "."))
+    z.append("")
 
     z += ["## Kategorien der Spitzentitel", "",
           "In welchen Unterkategorien die gemessenen Titel stehen und auf "
