@@ -12,12 +12,13 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 | | Wer | Aufwand |
 |---|---|---|
 | **Coverbild** — Datei nach `cover/roh/`, dann läuft `coverbau.py` | du | 1 Minute |
-| **Autorenname** (Pseudonym oder Klarname) | du | Entscheidung |
-| **Impressum** — Anschrift, E-Mail, Jahr | du | 5 Minuten |
-| **Titel von Band 2–4** im Nachspann | später | — |
+| ~~Autorenname~~ | erledigt | Alan Lorenz |
+| ~~Impressum~~ | erledigt | aus dem Shop gelesen |
+| ~~Kategorien~~ | erledigt | gemessen, siehe unten |
 
-`python3 scripts/manuskript.py` listet diese Stellen bei jedem Lauf auf.
-Solange dort Beanstandungen stehen, ist die Datei nicht fertig.
+Das Coverbild ist der einzige offene Punkt. `python3
+scripts/manuskript.py` meldet inzwischen **keine Beanstandungen** —
+und das ist belastbar, weil vorher der Selbsttest durchläuft.
 
 ### Das Coverbild hereinbekommen
 
@@ -72,12 +73,13 @@ setzt.
 
 **Reihe:** `Die Reinhardt-Brüder` · **Band:** `1`
 
-**Autor:** `[noch zu entscheiden]`
+**Autor:** `Alan Lorenz`
 
-> In dieser Nische sind Pseudonyme die Regel, nicht die Ausnahme — von
-> den 36 gemessenen Covern tragen die meisten offensichtlich welche. Ein
-> Pseudonym trennt außerdem den Shop von der Autorin. Es muss zur Reihe
-> passen und für vier Bände halten.
+> Klarname, so entschieden. Zur Kenntnis, nicht als Widerspruch: In
+> dieser Nische sind Pseudonyme die Regel. Der Name steht später bei
+> Amazon, in jeder Leseprobe und in jeder Suche neben dem Genre. Das ist
+> umkehrbar — ein zweites Autorenprofil ist bei KDP jederzeit anlegbar,
+> nur die bereits verkauften Exemplare tragen den alten Namen.
 
 **Beschreibung** (max. 4.000 Zeichen; KDP erlaubt einfaches HTML — so
 einfügen, dann steht die Formatierung auch da):
@@ -140,16 +142,26 @@ Tür: keine expliziten Szenen.</i></p>
 Die ersten vier stammen aus `KDP-NISCHEN.md`, sind also echte Zahlen.
 Die letzten drei sind Vermutungen und als solche markiert.
 
-**Kategorien (3 Stück):** thematisch passen Zeitgenössischer
-Liebesroman, Liebesroman mit Familienthema und Neuerscheinungen im
-Liebesroman.
+**Kategorien (3 Stück):** jetzt gemessen — `KDP-NISCHEN.md`,
+Abschnitt „Kategorien der Spitzentitel". Die Unterkategorien stehen auf
+den Produktseiten neben dem Bestseller-Rang; gelesen wurden sie bei 20
+Titeln aus vier Nischen.
 
-> **Ungemessen.** In welchen Kategorien die 36 Spitzentitel tatsächlich
-> stehen, habe ich nicht erhoben — das steht auf ihren Produktseiten
-> neben dem Bestseller-Rang und wäre eine Erweiterung von
-> `kdp_nischen.py` um zwei Zeilen. Sag Bescheid, dann messe ich es,
-> bevor du wählst. Die Kategorie entscheidet mit darüber, ob ein Titel
-> je ein Bestseller-Abzeichen bekommt.
+| Kategorie | Warum | Enge |
+|---|---|---|
+| **eBooks über Romanzen über Milliardäre & Millionäre** | trifft das Buch und den Untertitel | bester gemessener Rang 24 bzw. 116 — locker |
+| **Zweite-Chance-Romanze** | trifft den Kern: zwei Jahre Funkstille, dann wieder | bester Rang 7 bzw. 2 — dort sitzt jemand |
+| **Zeitgenössische Liebesromane** | die breite Heimatkategorie | bester Rang 54 |
+
+**Was ich bewusst nicht nehme, obwohl die Zahlen locken:**
+*Fake-Dating-Romantik* steht bei **6 von 12** Titeln der CEO-Nische und
+ist damit die meistgenutzte Kategorie überhaupt — aber in diesem Buch
+gibt es kein Fake Dating. *Rockstar-Romanze* und *Dramatik — Weibliche
+Autoren* zeigen besten Rang 1, also praktisch leere Kategorien, in die
+sich andere hineingeschummelt haben. Falsche Einordnung verstößt gegen
+die KDP-Richtlinien, bringt Rückgaben und Ein-Stern-Bewertungen von
+Leserinnen, die etwas anderes erwartet haben. Ein Abzeichen in einer
+Kategorie, die nicht passt, ist keins.
 
 **Altersfreigabe:** keine Jugendschutzeinstufung nötig — geschlossene
 Tür, keine Gewalt.
@@ -178,6 +190,32 @@ Freigabe nicht. Eine unterlassene Angabe dagegen führt zur Entfernung
 des Titels und im Wiederholungsfall zur Kontosperre samt gesamtem
 Katalog (`DIGITAL.md`, Abschnitt 7). Es gibt keinen Grund, das Risiko
 einzugehen.
+
+---
+
+## Eine Unstimmigkeit, die dir gehört
+
+Der Untertitel sagt **Milliardär**. Im Buch steht das nirgends. Jonas
+führt eine Immobilienfirma mit ein paar hundert Angestellten; die
+Zahlen, die vorkommen, sind 4,2 Millionen bei einem Projekt, 186.000
+privat und eine Tantieme von 120.000 im Jahr. Das ist sehr reich, aber
+kein Milliardär.
+
+Genre-Leserinnen bemerken das und schreiben es in Bewertungen. Drei
+Wege:
+
+1. **So lassen.** „Milliardär" ist in dieser Nische ein Genre-Etikett,
+   kein Vermögensnachweis, und die Amazon-Kategorie heißt selbst
+   „Milliardäre **& Millionäre**".
+2. **Untertitel ändern** auf *Ein Geheimes-Baby-Liebesroman* und
+   „milliardär liebesroman" nur als Schlagwort führen. Kostet
+   Sichtbarkeit im Titel, ist aber sauber.
+3. **Die Zahl im Buch anheben** — eine einzige Stelle, Kapitel 26, wo
+   die Tantieme steht.
+
+Ich empfehle **1**, weil es Marktbrauch ist und die Kategorie es
+abdeckt. Es ist trotzdem deine Entscheidung, und sie ist in zwei
+Minuten umsetzbar.
 
 ---
 
