@@ -110,25 +110,38 @@ def modelle_aufloesen(muster: list[str]) -> list[str]:
     liste = m.get("data") if isinstance(m, dict) else None
     if not isinstance(liste, list):
         raise RuntimeError(f"Modelliste nicht lesbar: {str(m)[:150]}")
+    def kosten(x):
+        p_ = x.get("pricing") or {}
+        try:
+            return (float(p_.get("prompt") or 0)
+                    + float(p_.get("completion") or 0))
+        except (TypeError, ValueError):
+            return 0.0
+
     raus = []
     for p in muster:
         treffer = [x for x in liste
                    if p.lower() in (x.get("id") or "").lower()
                    and "image" not in (x.get("id") or "")
-                   and "free" not in (x.get("id") or "")]
+                   # Varianten hinter dem Doppelpunkt (:batch, :free,
+                   # :extended) verhalten sich anders. Der erste Lauf griff
+                   # google/gemini-2.5-flash-lite:batch, und die Antwort kam
+                   # ohne Inhalt zurueck.
+                   and ":" not in (x.get("id") or "")
+                   and kosten(x) > 0]
         if not treffer:
             print(f"  kein Modell zu „{p}“ gefunden")
             continue
-        # Das jeweils guenstigste, damit ein Durchgang bezahlbar bleibt.
-        def kosten(x):
-            p_ = x.get("pricing") or {}
-            try:
-                return float(p_.get("prompt") or 0) + float(p_.get("completion") or 0)
-            except (TypeError, ValueError):
-                return 9e9
-        treffer.sort(key=kosten)
-        raus.append(treffer[0]["id"])
-        print(f"  „{p}“ -> {treffer[0]['id']}")
+        # Das TEUERSTE der Familie, nicht das billigste. Der erste Lauf
+        # waehlte nach Preis aufwaerts und landete bei gpt-oss-20b -- ein
+        # kleines Modell soll hier nicht urteilen. Innerhalb eines
+        # Anbieters ist der Preis der beste verfuegbare Anhaltspunkt fuer
+        # Leistung; ein Feld dafuer gibt es in der Liste nicht.
+        treffer.sort(key=kosten, reverse=True)
+        gewaehlt = treffer[0]
+        raus.append(gewaehlt["id"])
+        print(f"  „{p}“ -> {gewaehlt['id']} "
+              f"({kosten(gewaehlt) * 1e6:.2f} USD je Mio. Token)")
     return raus
 
 
@@ -143,6 +156,12 @@ def eine_frage(kapitel: str, modell: str) -> dict:
         inhalt = a["choices"][0]["message"]["content"]
     except (KeyError, IndexError, TypeError):
         return {"fehler": "Antwort ohne Inhalt", "roh": str(a)[:200]}
+    # content kann None sein -- bei Batch-Varianten und bei Modellen, die
+    # nur reasoning liefern. Der erste Lauf ist genau daran abgestuerzt,
+    # weil das None ungeprueft in re.search ging.
+    if not inhalt or not inhalt.strip():
+        return {"fehler": "Antwort mit leerem Inhalt",
+                "roh": str(a.get("choices"))[:200]}
     kosten = ((a.get("usage") or {}).get("cost")
               or (a.get("usage") or {}).get("total_cost") or 0)
     return {"text": inhalt, "kosten": kosten}
