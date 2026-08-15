@@ -56,6 +56,19 @@ mich die Schuld teilen konnte.
 **Das vierte:** Genau das habe ich in dieser Nacht abgegeben, ohne es zu
 merken, und ich wollte es nicht zurückhaben.
 
+Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
+achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
+
+Der Brief lag seit dem vierten Dezember in der Schublade unter der
+Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin
+auswendig, und in der Nacht vom achten auf den neunten kam er in meinem
+Kopf nicht vor.
+
+Das ist der einzige Vorteil einer Katastrophe: Sie räumt für ein paar
+Stunden alles andere weg.
+
+Am Mittwoch war er wieder da.
+
 ---
 
 Wir waren am Dienstagnachmittag zu Hause, und Emil war fröhlich und

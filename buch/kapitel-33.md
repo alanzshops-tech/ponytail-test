@@ -1,255 +1,181 @@
 # Kapitel 33 — Leni
 
-Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
-sechs Absätze, kein Gruß von irgendjemandem.
+Silvester war der Tag, an dem Emil zum ersten Mal in seiner Wohnung
+war.
 
-Ich las ihn dreimal und suchte nach der Stelle, an der es nett wird.
+Wir hatten es am siebenundzwanzigsten abgemacht, an der Tür, in vier
+Sätzen, in dem Ton, den wir seit dem dreiundzwanzigsten haben.
 
-Es gibt keine Stelle, an der es nett wird. Es steht drin, dass die
-Gesellschaft die drei Rechte erwerben will, dass ich den
-Sachverständigen aussuche, dass sie das Gutachten bezahlen und an das
-Ergebnis gebunden sind, und dass ich bis zum zwanzigsten Januar Zeit
-habe.
+„Silvester“, hatte er gesagt.
 
-Sonst nichts. Kein *liebe*, kein *hoffentlich geht es Ihnen*, keine
-Zeile über Emil.
+„Ja. Von wann bis wann?“
 
-Ich habe eine Viertelstunde gebraucht, um zu verstehen, dass das
-Absicht war, und noch einmal zehn Minuten, um zu verstehen, wessen
-Absicht.
+„Nachmittags bis nachts? Er soll bei mir schlafen, wenn du
+einverstanden bist. Ich bringe ihn am ersten um zehn.“
+
+Ich habe „ja“ gesagt und danach sechs Tage lang überlegt, ob das eine
+gute Idee ist.
 
 ---
 
-Herr Dr. Sassenberg kam am fünften, öffentlich bestellt und vereidigt,
-mit einem Laser-Entfernungsmesser, einer Kladde und der geringsten
-Neigung zu Konversation, die mir je begegnet ist.
+Was mich beschäftigt hat, war nicht das Schlafen. Er kann ein Kind ins
+Bett bringen, das habe ich gesehen.
 
-„Kaffee?“
+Es war, dass ich seine Wohnung nicht kenne.
 
-„Nein.“
+Ich habe achtzehn Monate lang gewusst, wo mein Sohn ist, bis auf den
+Quadratmeter. Ich wusste, welche Steckdose gesichert ist und welche
+Schranktür er aufbekommt. Ich weiß, dass die vierte Stufe knarrt und
+dass er das inzwischen weiß und deshalb draufsteigt.
 
-Vier Stunden später, im Hinterhof, im Nieselregen: „Doch. Jetzt gern.“
+Und jetzt fährt er in ein Haus, in dem ich nie war.
 
-Er maß die Durchfahrt aus, dreimal. Er fotografierte das Tor, den
-Sturz, die Pflasterung, den Kanaldeckel. Er ging in den Keller und sah
-sich die Leitungen an und sagte dabei zum ersten Mal etwas Freiwilliges:
-„Das ist von 1962. Das hält länger als das Haus.“
+Ich habe am neunundzwanzigsten gefragt, ob ich vorher mal vorbeikommen
+kann.
 
-Dann setzte er sich an meinen Fenstertisch und erklärte mir in acht
-Minuten, was er tut.
+Er hat gesagt: „Ja. Natürlich.“
 
-„Ich bewerte zwei Dinge getrennt. Erstens die Wertminderung Ihres
-Grundstücks, wenn diese Rechte im Grundbuch stehen — Sie können dann
-bestimmte Dinge nie mehr tun, das ist ein echter Verlust, auch wenn Sie
-sie ohnehin nie vorhatten. Zweitens den Vorteil für die anderen
-Grundstücke. Der ist hier größer.“
-
-„Wie viel größer?“
-
-„Das steht im Gutachten.“ Er trank den Kaffee aus. „Frau Voss, eine
-Bemerkung, die nicht zu meinem Auftrag gehört: Sie hätten das im Oktober
-fragen sollen.“
-
-„Ich weiß.“
-
-„Die meisten fragen nie“, sagte Dr. Sassenberg. „Ich lebe davon, dass
-Leute erst fragen, wenn schon gebaut wird. Dann ist es teurer für alle.“
+Und dann eine Sekunde zu spät: „Es ist nicht besonders gemütlich.“
 
 ---
 
-Zwischen dem fünften und dem achten habe ich zum ersten Mal in meinem
-Leben etwas getan, das mir bis heute unangenehm ist: Ich bin durch mein
-eigenes Haus gegangen wie eine Käuferin.
+Es war nicht besonders gemütlich.
 
-Vom Keller aufwärts. Die Leitungen von 1962. Der Backraum mit dem Ofen,
-dessen linke Seite vierzig Grad zu kalt ist. Das Café mit den zwölf
-Tischen und der ausgebesserten Ecke. Die Wohnung. Die zwei leeren
-Etagen, in denen es nach Staub riecht und in denen an einer Wand noch
-die Regalhalterungen der Rösterei sitzen.
+Dritter Stock, Alter Wandrahm, zweihundert Quadratmeter für einen
+Menschen. Ein Wohnzimmer, in dem ein Sofa steht, das aussieht, als
+hätte niemand je darauf gelegen. Eine Küche mit einer Kaffeemaschine,
+die teurer war als mein Ofen, und einem Kühlschrank, in dem Milch,
+Butter und drei Flaschen Wasser standen.
 
-Ich habe versucht, das alles anzusehen, ohne die Chronik im Flur
-mitzudenken.
+Kein einziges Foto. Nirgends.
 
-Es ging ungefähr sieben Minuten.
+An einer Wand hing ein Lageplan von 2011, gerahmt.
 
----
+„Wo soll er schlafen?“
 
-Kellermann kam am achten.
+„Hier.“ Er machte eine Tür auf.
 
-Er kam persönlich, was ich rückblickend als das größte Kompliment werte,
-das mir dieser Winter gemacht hat: Der Mann hat vierhundert Wohnungen in
-Hamburg und ist an einem Donnerstagvormittag in mein Café gekommen, um
-mit einer Konditorin zu reden.
+Es war ein Kinderzimmer.
 
-Er war charmant. Er war es wirklich, nicht auf die schmierige Art. Er
-bestellte einen Milchkaffee und wusste, dass Milchkaffee keinen
-Milchschaum hat.
+Nicht fertig. Kein Teppich, keine Vorhänge. Aber ein Bett mit Gitter,
+aufgebaut, mit Laken. Eine Wickelkommode. Eine Kiste mit Bauklötzen und
+zwei Büchern. Und an der Decke, weil es das gab und weil ich es hier
+aufschreibe, obwohl es kitschig ist: ein Nachtlicht in Form eines
+Pilzes, dasselbe Modell wie bei uns.
 
-„Frau Voss, ich mache es kurz, weil Sie arbeiten müssen.
-Vierhundertsechzigtausend für das gesamte Objekt. Notartermin vor dem
-Fünfzehnten, ich habe einen, der Samstag aufmacht. Sie zahlen Ihre Bank
-zurück und behalten rund zweihundertfünfundvierzig.“
+„Seit wann?“
 
-Er legte eine Karte hin und schob sie mit zwei Fingern über den Tisch,
-und dabei sah er mich nicht an, was höflich war.
+„Seit dem sechzehnten Dezember.“ Er stand in der Tür und sah nicht rein.
+„Ich habe es nicht gesagt, weil ich nicht wusste, ob du es übergriffig
+findest. Und dann kam der dreiundzwanzigste.“
 
-„Ich weiß, was gerade läuft“, sagte er. „Ich weiß nicht alles. Ich weiß
-genug.“
+Ich stand in diesem halbfertigen Kinderzimmer in der Wohnung eines
+Mannes, dem ich vor acht Tagen die Tür gewiesen hatte.
 
----
+„Ich finde es nicht übergriffig“, sagte ich.
 
-Ich möchte hier ehrlich sein, weil dieses Buch sonst nichts wert ist.
+„Gut.“
 
-Ich habe eine Nacht lang ja gesagt.
-
-Nicht laut. Innen.
-
-Zweihundertfünfundvierzigtausend Euro. Das sind: keine Bank mehr. Keine
-Frist. Kein Wecker um halb fünf. Eine Wohnung in Ottensen mit einem
-Zimmer für Emil, das nicht über einem Backraum liegt. Ein Kitaplatz, den
-man bezahlen kann, statt einer Frau Kettler, die man nicht bezahlen
-kann. Zwei Jahre Zeit. Vielleicht ein kleiner Laden, später, irgendwo,
-wo die Miete nicht neunzehn Euro den Quadratmeter kostet.
-
-Und keine Reinhardts. Keinen Beirat, keinen Wendland, keine Sitzung am
-zwanzigsten, bei der sieben Menschen darüber abstimmen, ob mein Leben
-eine verdeckte Schenkung ist.
-
-Ich habe um vier Uhr morgens am Küchentisch gesessen und diese Liste
-gemacht, und sie war gut.
+„Ich finde es —“ Ich habe das Wort nicht gefunden. Ich habe es bis
+heute nicht gefunden.
 
 ---
 
-Am nächsten Vormittag rief ich ihn an und stellte eine einzige Frage.
+Am einunddreißigsten habe ich ihn um zwei abgegeben, unten an der
+Haustür, mit einer Tasche und dem Holzlaster.
 
-„Herr Kellermann. Was passiert mit dem Erdgeschoss?“
+Er hat sich nicht umgedreht. Emil, meine ich. Er ist an Jonas' Hand die
+drei Stufen hoch und war weg.
 
-„Das bleibt selbstverständlich gastronomisch. Das ist doch der Charme
-des Hauses.“
+Ich bin nach Hause gefahren und habe um Viertel nach zwei in einem
+Café gestanden, das zu war, und nicht gewusst, was ich tun soll.
 
-„Schreiben wir das in den Vertrag?“
+Ich habe zuerst geputzt.
 
-Eine Pause. Nicht lang. Zwei Sekunden.
+Dann habe ich die Kasse abgerechnet, obwohl seit dem dreißigsten zu ist.
 
-„Frau Voss, so etwas schreibt man nicht in einen Kaufvertrag.“
+Dann habe ich mich hingesetzt.
 
-„Warum nicht?“
-
-„Weil niemand sich für zwanzig Jahre die Hände bindet.“ Er sagte es
-freundlich, fast entschuldigend. „Das würden Sie auch nicht tun.“
-
-„Nein“, sagte ich. „Aber ich hätte es auch nicht vorher behauptet.“
+Es war zwanzig nach drei.
 
 ---
 
-Ich habe abgelehnt, und ich habe es nicht wegen Jonas Reinhardt getan.
+Sanne kam um sechs mit zwei Flaschen und einer Schachtel Feuerwerk, die
+verboten ist, und wir haben in meiner Küche gesessen wie mit
+neunzehn.
 
-Das ist mir wichtig, und ich habe es Frau Kettler an diesem Tag dreimal
-gesagt, bis sie sagte: „Ja, Frau Voss, ich habe es beim ersten Mal
-verstanden.“
+„Wo ist er?“
 
-Ich habe aus zwei Gründen abgelehnt.
+„Bei seinem Vater.“
 
-Der erste hängt im Flur. Die Chronik, die mein Großvater 1964
-aufgeschrieben und meine Großmutter fortgeführt hat, bis die Handschrift
-zu zittrig wurde. Zweiundsechzig Jahre. Vier Zeilen zum Krieg, weil
-davor nichts war. Frau Petersen kommt zweimal darin vor.
+Sie hat die Flasche abgestellt.
 
-Der zweite ist unangenehmer.
+„Sag das noch mal.“
 
-Kellermanns Angebot war die vierte Möglichkeit, mein Leben allein in
-Ordnung zu bringen, ohne jemanden zu fragen. Es war die eleganteste von
-allen: einmal unterschreiben, verschwinden, niemandem etwas schulden.
+„Bei seinem Vater.“
 
-Ich habe an diesem Tag verstanden, dass Weglaufen und Alleinschaffen
-dasselbe Gesicht haben.
+„Nein“, sagte sie. „Nicht den Satz. Dein Gesicht dabei.“
 
----
+Ich habe sie angesehen.
 
-Das Gutachten kam am zwölften Januar, per Boten, zweiundvierzig Seiten,
-mit einem Deckblatt und einem Stempel.
+„Du hast gerade gelächelt“, sagte Sanne. „Bei ‚bei seinem Vater‘. Du
+hast vor acht Tagen geheult, weil du ihn rausgeworfen hast, und jetzt
+lächelst du, wenn du sagst, wo dein Kind ist.“
 
-Ich blätterte bis zur letzten Seite, weil ich es nicht anders konnte.
+„Beides geht.“
 
-**Verkehrswert der zu bestellenden Grunddienstbarkeiten, gesamt:
-268.000 €.**
-
-Davon Wertminderung des dienenden Grundstücks 61.000 €,
-Vorteilsausgleich 207.000 €.
-
-Ich saß auf dem Hocker im Backraum, mit mehligen Händen, und rechnete
-das, was ich seit einer Woche im Kopf gerechnet hatte, zum ersten Mal
-mit einer echten Zahl.
-
-268.000 minus die Bank.
-
-Es geht auf. Es geht sogar mit Rest auf.
-
-Und dann sah ich auf den Kalender an der Backraumtür, auf dem seit
-November drei Zahlen eingekringelt sind, und die erste war der
-Fünfzehnte.
-
-Sitzung des Beirats: zwanzigster.
-
-Frist der Bank: fünfzehnter.
-
-Fünf Tage dazwischen.
+„Ich weiß, dass beides geht.“ Sie schenkte ein. „Ich sage es nur,
+damit du es weißt.“
 
 ---
 
-Ich stand ungefähr zehn Minuten in diesem Backraum.
+Wir haben um elf angefangen, uns nicht mehr zu unterhalten, sondern zu
+reden, und das ist ein Unterschied.
 
-Dann wusch ich mir die Hände, ging nach vorn, nahm das Telefon von der
-Theke und suchte eine Nummer, die ich seit dem dreiundzwanzigsten
-Dezember nicht angerufen hatte.
+Ich habe ihr alles erzählt. Die Mappe. Den Serienbrief um neun Uhr
+vierzehn. Den Satz von meiner Mutter, den ich benutzt habe, um einen
+Mann zu beurteilen, den sie nie getroffen hat.
 
-Es war das Schwerste, was ich in diesem Winter gemacht habe, und ich
-zähle die Nacht in der Kinderklinik mit.
+Sanne hat lange nichts gesagt.
 
-Es klingelte einmal.
+Dann: „Darf ich was Unangenehmes sagen?“
 
-„Marlene.“
+„Du sagst es doch sowieso.“
 
-Nicht *Reinhardt*. Er hatte draufgesehen, bevor er ranging.
+„Du hast recht gehabt“, sagte sie. „Mit allem. Der Kauf war falsch, der
+Zeitpunkt war falsch, der Serienbrief war eine Frechheit, auch wenn er
+nichts dafür kann. Du hast in jedem einzelnen Punkt recht.“
 
-„Es geht nicht um Emil“, sagte ich schnell, weil ich wusste, was er
-denkt. „Emil ist gesund. Es ist etwas anderes.“
+„Und?“
 
-„Gut.“ Ich hörte, wie er irgendwo eine Tür zumachte. „Sag.“
-
-Ich hatte mir drei Sätze zurechtgelegt und keinen davon geübt.
-
-„Die Frist der Bank ist am Fünfzehnten. Der Beirat tagt am
-Zwanzigsten.“ Ich sah aus dem Fenster auf das Fleet. „Du bist der
-Gläubiger. Du kannst die Frist verlängern. Ich kann das nicht selbst,
-und ich kenne niemanden, der es für mich machen kann.“
-
-Ich holte Luft.
-
-„Ich bitte dich darum.“
+„Und ich habe fünf Jahre mit jemandem zusammengelebt, bei dem ich in
+jedem einzelnen Punkt recht hatte.“ Sie sah in ihr Glas. „Es ist kein
+besonders schönes Leben, wenn man immer recht hat, Leni.“
 
 ---
 
-Ich hatte mit vielem gerechnet. Mit einer Rückfrage. Mit *natürlich, das
-hätte ich längst*. Mit Erleichterung in seiner Stimme, die ich ihm nicht
-verziehen hätte.
+Um zwölf sind wir raus, an das Fleet, und die halbe Speicherstadt
+stand da mit Sekt in Plastikbechern.
 
-Er sagte: „Ja.“
+Ich habe um vier Minuten nach zwölf eine Nachricht bekommen.
 
-Sonst nichts. Kein *selbstverständlich*, keine Bedingung, keine Frage,
-nicht ein Wort dazu, wie lange oder warum oder was danach.
+Ein Foto. Ein Kinderzimmer ohne Vorhänge, ein Gitterbett, ein
+schlafendes Kind, das durch das ganze Feuerwerk nicht wach geworden ist.
 
-„Bis wann?“, fragte ich.
+Darunter drei Wörter: *Er hat durchgeschlafen.*
 
-„Bis du es sagst.“
+Ich habe zurückgeschrieben: *Frohes neues Jahr.*
 
-Und dann, nach einer Pause, in der ich ihn atmen hörte:
+Und dann, nach einer Minute, weil ich es an diesem Abend zum ersten Mal
+konnte:
 
-„Niklas schickt dir das schriftlich, in einer Stunde. Damit du es in
-der Hand hast und nicht mir glauben musst.“
+*Danke, dass du das Zimmer schon im Dezember gemacht hast.*
 
-Ich legte auf und setzte mich auf den Stuhl neben der Kasse, auf dem
-sonst die Tasche steht.
+Er hat nicht geantwortet. Nicht in dieser Nacht.
 
-Frau Kettler kam vorbei, sah mich an und ging weiter, ohne etwas zu
-sagen, was von ihr das Größte ist, was es gibt.
+Am nächsten Morgen um zehn stand er unten und hatte Emil auf dem Arm
+und sagte: „Ich wusste nicht, was ich schreiben soll.“
+
+„Musst du nicht.“
+
+„Doch“, sagte er. „Irgendwann schon.“

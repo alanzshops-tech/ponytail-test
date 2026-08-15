@@ -5357,6 +5357,418 @@ Nicht dir.“
 
 # Kapitel 24 — Jonas
 
+Ich war in neun Minuten da, und ich bin bei Rot über die Willy-Brandt-
+Straße gefahren, und ich schreibe das hin, weil ich es nicht
+verteidigen will.
+
+Der Rettungswagen stand schon in der Durchfahrt, mit offenen Türen und
+laufendem Blaulicht ohne Ton. Die Tür zum Café stand offen. Im
+Treppenhaus brannte Licht bis oben.
+
+Ich bin die Treppe hoch, und auf der vierten Stufe, die knarrt, hat es
+geknarrt, und ich habe in diesem Moment tatsächlich gedacht: *die
+vierte.*
+
+Im Kinderzimmer standen zwei Sanitäter und ein Notarzt, und Marlene saß
+auf dem Boden neben dem Gitterbett, in einem T-Shirt und ohne Schuhe,
+und hielt Emils Hand durch die Stäbe.
+
+Sie hat mich angesehen und nichts gesagt.
+
+Der Notarzt hat gesagt: „Sind Sie der Vater?“
+
+„Ja.“
+
+Es war das erste Mal, dass ich das zu einem Fremden gesagt habe.
+
+---
+
+Im Wagen durfte nur einer mit, und das war sie, und das war richtig.
+
+Ich bin hinterhergefahren. Die Kinderklinik Altona ist elf Kilometer
+weit, und ich habe in diesen elf Kilometern das Rücklicht angesehen und
+sonst nichts gedacht.
+
+Das ist nicht wahr. Ich habe eine Sache gedacht, und sie war so
+egoistisch, dass ich sie hier nur hinschreibe, weil dieses Buch sonst
+nicht stimmt:
+
+*Ich kenne ihn seit vier Wochen.*
+
+Nicht: Hoffentlich geht es ihm gut. Nicht: Was ist passiert.
+
+*Vier Wochen. Ich habe ihn vier Wochen.*
+
+An der Ampel Holstenstraße habe ich beide Hände vom Lenkrad genommen
+und mir angesehen, wie sie zitterten.
+
+---
+
+Um halb vier stand ich an einem Tresen hinter einer Glasscheibe und
+hörte einer Frau zu, die mich elf Sachen fragte, von denen ich sieben
+nicht wusste.
+
+Geburtsdatum: wusste ich. Achter Mai.
+
+Versicherung: wusste ich nicht.
+
+Allergien: wusste ich nicht.
+
+Impfungen: wusste ich nicht.
+
+Und dann fragte sie: „Und der Herr?“
+
+„Ich bin der Vater.“
+
+„Sorgeberechtigt?“
+
+„Nein.“
+
+„Verheiratet mit der Mutter?“
+
+„Nein.“
+
+„Vaterschaft anerkannt?“
+
+„Nein.“
+
+Sie hat getippt, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
+Mensch, der um halb vier Uhr morgens seine Arbeit macht.
+
+„Dann trage ich Sie als Begleitperson ein.“
+
+---
+
+Ich habe in meinem Leben ein paar Sätze gehört, die ich behalten habe.
+
+Der von Wendland: *Machen Sie es wieder.*
+
+Der von meiner Mutter: *Ich habe achtundzwanzig Jahre neben einem Mann
+gelebt, der recht hatte.*
+
+Und dieser hier, von einer Frau, deren Namen ich nicht kenne, hinter
+einer Scheibe, um halb vier Uhr morgens, ohne jede Absicht:
+
+*Dann trage ich Sie als Begleitperson ein.*
+
+Ich habe gesagt: „Ist in Ordnung.“
+
+Es war nicht in Ordnung. Es war völlig korrekt und vollkommen richtig
+und es war genau das, was ich seit achtzehn Monaten bin, und es stand
+jetzt in einem Formular.
+
+---
+
+Um vier musste sie nach vorn, weil sie etwas unterschreiben sollte, das
+nur sie unterschreiben kann.
+
+Ich blieb bei ihm.
+
+Er lag in einem Bett, das für ihn dreimal zu groß ist, mit einer Nadel
+im Handrücken und einem Pflaster darüber, auf dem ein Bär abgebildet
+war. Er war wach. Er sah an die Decke.
+
+Ich habe mich auf den Hocker gesetzt und nicht gewusst, was man macht.
+
+Dann fing er an zu weinen.
+
+Ich kannte dieses Weinen nicht. Ich kenne inzwischen drei Sorten — müde,
+hungrig, wütend —, und das hier war eine vierte, und ich habe sofort
+verstanden, dass es Angst ist.
+
+Die Schwester hat es versucht. Er hat sich weggedreht.
+
+Marlene kam rein und hat ihn hochgenommen, und er wollte nicht.
+
+Er hat beide Arme an ihr vorbeigestreckt und einen Laut gemacht mit
+einem harten Anfang.
+
+---
+
+Ich habe ihn genommen.
+
+Ich habe ihn falsch gehalten, das weiß ich heute: zu hoch, zu fest, mit
+einer Hand am Hinterkopf, so wie man Neugeborene hält.
+
+Er hat trotzdem aufgehört. Nicht sofort — über ungefähr eine Minute, wie
+ein Motor, der ausgeht. Dann hat er den Kopf in die Kuhle zwischen
+Schulter und Hals gelegt und war weg.
+
+Und ich stand mitten in einem Untersuchungszimmer und habe über seinen
+Kopf hinweg die Frau angesehen, die ihn achtzehn Monate lang allein
+gehalten hat, und in ihrem Gesicht war etwas, das ich nicht ansehen
+konnte.
+
+Ich habe später gefragt, was es war.
+
+Sie hat gesagt: „Beides.“
+
+---
+
+Um halb sechs schlief er richtig, und wir saßen auf zwei Stühlen im
+Gang, weil im Zimmer kein Platz für zwei Erwachsene ist.
+
+Ich habe Kaffee aus dem Automaten geholt.
+
+Es gibt eine Sorte Müdigkeit, in der die Dinge sehr genau werden. Ich
+weiß noch, wie der Gang aussah: Linoleum, das jemand vor vier Stunden
+gewischt hat. Ein Aushang über Läusebefall. Eine Zeichnung von einem
+Wal, unterschrieben mit *Mia, 5*.
+
+Ich habe angefangen, einen Satz zu sagen.
+
+„Ich lasse morgen —“
+
+Und dann habe ich ihn nicht zu Ende gesagt, und das ist das Einzige,
+was ich in dieser Nacht richtig gemacht habe.
+
+Ich wusste nicht einmal, was ich veranlassen wollte. Es war kein
+Gedanke, es war ein Reflex, wie das Bein beim Hammerschlag aufs Knie.
+
+„Was?“, sagte sie.
+
+„Nichts.“ Ich drehte den Becher. „Ich wollte gerade sagen, dass ich
+morgen etwas veranlasse. Ich weiß nicht mal, was. Es ist ein Reflex.“
+
+„Diesmal hast du ihn nicht gemacht.“
+
+„Diesmal habe ich ihn *gesagt*“, sagte ich. „Das ist nicht dasselbe wie
+nicht machen.“
+
+---
+
+Sie hat um kurz vor sechs gesagt: „Montag gehen wir zum Jugendamt.“
+
+Ich habe „danke“ gesagt.
+
+Sie hat gesagt: „Bedank dich nicht. Es steht ihm zu. Nicht dir.“
+
+---
+
+Ich bin um sieben nach Hause gefahren, habe geduscht, ein Hemd
+angezogen und war um Viertel vor neun im Büro, weil dienstags um neun
+die Bauleiterrunde ist.
+
+Ich habe die Bauleiterrunde gehalten. Vierzig Minuten, Rothenburgsort,
+Fundamentplatte, drei Entscheidungen. Niemand hat etwas gemerkt.
+
+Um halb elf kam Frau Kuhlmann mit dem Kalender und sagte: „Sie haben
+Ihr Hemd falsch zugeknöpft.“
+
+Ich habe es angesehen. Es stimmte, um eine Reihe verschoben, seit halb
+acht.
+
+„Ich hatte eine Nacht in der Kinderklinik“, sagte ich.
+
+Meine Assistentin ist zweiundfünfzig Jahre alt und hat zwei erwachsene
+Kinder, und sie hat in diesem Moment etwas getan, das sie in neunzehn
+Jahren nicht getan hat: Sie hat sich hingesetzt.
+
+„Fieberkrampf?“
+
+„Ja.“
+
+„Die sehen furchtbar aus und sind fast immer harmlos.“ Sie legte den
+Kalender hin. „Bei meinem Sohn zweimal. Ich habe beide Male gedacht,
+er stirbt.“
+
+Wir haben ungefähr zwei Minuten geschwiegen.
+
+Dann hat sie den Kalender wieder aufgenommen und gesagt: „Sie haben um
+elf die Bank. Soll ich verschieben?“
+
+„Nein“, sagte ich. „Aber halten Sie mir Montagvormittag frei.“
+
+„Als was?“
+
+„Jugendamt“, sagte ich.
+
+Sie hat es eingetragen, ohne zu fragen, wozu.
+
+---
+
+# Kapitel 25 — Leni
+
+Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
+habe in diesen achtzehn Stunden ungefähr vier Dinge über mich gelernt,
+die ich vorher nicht wusste.
+
+**Das erste:** Ich habe niemanden angerufen.
+
+Nicht meine Mutter. Nicht Sanne. Nicht Frau Kettler, die vier Straßen
+weiter wohnt und in elf Minuten dagewesen wäre.
+
+Ich habe um zwanzig nach zwei nachts, mit dem Telefon zwischen Schulter
+und Ohr, während mein Sohn krampfte, eine einzige Nummer gewählt, und
+das war seine. Und danach habe ich achtzehn Stunden lang niemandem
+sonst Bescheid gesagt.
+
+Sanne hat es am Donnerstag von Frau Kettler erfahren. Sie hat mich
+angerufen und gesagt: „Sag mal, spinnst du?“
+
+Ich habe gesagt, es sei alles gut gegangen.
+
+Sie hat gesagt: „Darum geht es nicht, Leni.“
+
+**Das zweite:** Ich habe in diesen achtzehn Stunden zweimal geschlafen,
+und zwar beide Male, weil jemand anderes wach war.
+
+---
+
+**Das dritte** ist unangenehmer.
+
+Am Dienstagvormittag, kurz bevor sie uns entlassen haben, kam eine
+Ärztin und ging die Sachen durch: Fieberkrampf, unkompliziert, keine
+Auffälligkeiten im EEG, kein erhöhtes Risiko, das Übliche.
+
+Und dann sagte sie: „Sie sollten das Fieberzäpfchen früher geben. Nicht
+erst bei neununddreißig fünf.“
+
+„Ich habe bei neununddreißig zwei gegeben.“
+
+„Dann war es zu spät.“ Sie schrieb weiter. „Bei einem Kind mit dieser
+Vorgeschichte gibt man ab achtunddreißig fünf.“
+
+Ich habe gesagt: „Er hat keine Vorgeschichte.“
+
+Sie hat aufgesehen. „Doch. Ab jetzt.“
+
+Ich bin danach mit Emil auf dem Arm auf dem Flur gestanden und habe
+geweint, und zwar nicht wegen der Nacht, sondern weil eine Ärztin in
+einem Nebensatz gesagt hatte, dass ich es falsch gemacht habe.
+
+Ich habe achtzehn Monate lang alles allein entschieden. Jede Impfung,
+jeden Zahn, jedes Fieber. Ich hatte in achtzehn Monaten niemanden, mit
+dem ich mich beraten konnte, und das hieß auch: niemanden, mit dem ich
+mich die Schuld teilen konnte.
+
+**Das vierte:** Genau das habe ich in dieser Nacht abgegeben, ohne es zu
+merken, und ich wollte es nicht zurückhaben.
+
+Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
+achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
+
+Der Brief lag seit dem vierten Dezember in der Schublade unter der
+Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin
+auswendig, und in der Nacht vom achten auf den neunten kam er in meinem
+Kopf nicht vor.
+
+Das ist der einzige Vorteil einer Katastrophe: Sie räumt für ein paar
+Stunden alles andere weg.
+
+Am Mittwoch war er wieder da.
+
+---
+
+Wir waren am Dienstagnachmittag zu Hause, und Emil war fröhlich und
+frech und wollte den Ofen anfassen, so wie immer.
+
+Jonas kam um sechs. Er hatte nicht gefragt, ob er kommen darf, und das
+war das erste Mal.
+
+Er hat in der Tür gestanden und gesagt: „Ich bleibe nicht lange. Ich
+wollte ihn nur sehen.“
+
+Er ist eine Stunde geblieben und hat kaum etwas gesagt und ist gegangen,
+als Emil ins Bett musste.
+
+An der Tür hat er sich umgedreht, so wie immer.
+
+„Marlene. Ich habe in dieser Nacht etwas gedacht, das mir peinlich ist.“
+
+„Was?“
+
+„Ich habe gedacht: Ich kenne ihn erst vier Wochen.“ Er sah auf den
+Boden. „Nicht: Hoffentlich geht es ihm gut. Das kam danach.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Weißt du, was ich gedacht habe?“, sagte ich dann.
+
+„Nein.“
+
+„Ich habe gedacht: Gut, dass ich seine Nummer gewählt habe und nicht
+Sannes.“ Ich lehnte mich an den Türrahmen. „Und danach habe ich mich
+geschämt, weil Sanne mich seit fünfundzwanzig Jahren kennt.“
+
+Er hat genickt.
+
+„Wir sind beide keine besonders netten Menschen“, sagte er.
+
+„Nein“, sagte ich. „Wir sind nur müde.“
+
+---
+
+Die Woche bis zum Montag war die ruhigste seit Langem, und ich habe sie
+damit verbracht, mir das Jugendamt schlechtzureden.
+
+Nicht laut. Innerlich, so wie man das macht.
+
+Ich habe gedacht: Wenn ich das unterschreibe, hat er Rechte. Ich habe
+gedacht: Man kann es nicht zurücknehmen, das hat Niklas selbst
+geschrieben, unwiderruflich. Ich habe gedacht: Und wenn er in einem
+Jahr weg ist, sitze ich mit einem Mann im Grundbuch meines Kindes.
+
+Ich habe am Donnerstag Herrn Sievers angerufen, meinen Steuerberater,
+weil ich sonst niemanden habe, den ich in solchen Dingen frage.
+
+Er hat gesagt: „Frau Voss, das ist Familienrecht, davon verstehe ich
+nichts.“
+
+„Ich weiß.“
+
+„Aber ich sage Ihnen etwas als Mensch.“ Ein Räuspern. „Ich habe drei
+Mandanten, bei denen der Vater nicht eingetragen ist. In allen drei
+Fällen wollte die Mutter das so. Und in allen drei Fällen ist es das
+Kind, das später das Problem hat, nicht die Mutter und nicht der
+Vater.“
+
+---
+
+Am Freitag hat Frau Kettler gesagt, was sie zu sagen hatte.
+
+Sie hat es beim Abwaschen gesagt, mit dem Rücken zu mir, was bei ihr
+heißt, dass es ihr ernst ist.
+
+„Sie haben Angst, dass er geht.“
+
+„Ja.“
+
+„Das können Sie nicht verhindern.“ Sie stellte ein Blech ins
+Abtropfgitter. „Sie können nur verhindern, dass er bleibt.“
+
+Ich habe darüber das ganze Wochenende nachgedacht.
+
+---
+
+Am Sonntagabend habe ich Emil ins Bett gebracht, und er hat sich an mir
+festgehalten, wie er das seit der Klinik macht, und ich habe an seinem
+Bett gesessen, bis er weg war.
+
+Danach bin ich runter in den dunklen Laden gegangen und habe die
+Schublade aufgezogen — sie geht jetzt leicht — und den Zettel
+herausgenommen und angesehen.
+
+*Emil ist deiner.*
+
+Vier Wörter. Ich hatte sie inzwischen gesagt. Es hatte nichts kaputt
+gemacht.
+
+Das ist die Sache, die man nicht glaubt, solange man es nicht getan
+hat: Es hat nichts kaputt gemacht.
+
+Ich habe den Zettel zurückgelegt und die Schublade zugeschoben und bin
+hochgegangen und habe mir für Montag ein Hemd rausgelegt, als ginge ich
+zu einem Termin, bei dem man ordentlich aussehen muss.
+
+Es ist ein Amt. Es ist eine Viertelstunde. Es kostet nichts.
+
+Ich habe trotzdem ein Hemd rausgelegt.
+
+---
+
+# Kapitel 26 — Jonas
+
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
 
@@ -5587,7 +5999,7 @@ einzigen Morgen daran gedacht, sie zu fragen.
 
 ---
 
-# Kapitel 25 — Leni
+# Kapitel 27 — Leni
 
 Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
 also mit der Post, die eigentlich niemand mehr bekommt.
@@ -5828,7 +6240,7 @@ Ich habe ihn erst im Februar wieder abgenommen.
 
 ---
 
-# Kapitel 26 — Jonas
+# Kapitel 28 — Jonas
 
 Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
 wachte um vier auf und wusste, dass ich es tun werde.
@@ -6041,7 +6453,7 @@ Ich kam um sieben.
 
 ---
 
-# Kapitel 27 — Leni
+# Kapitel 29 — Leni
 
 Die Mail kam am dreiundzwanzigsten Dezember um neun Uhr vierzehn.
 
@@ -6320,7 +6732,7 @@ Er hat es trotzdem drei Tage lang jeden Abend gefragt.
 
 ---
 
-# Kapitel 28 — Jonas
+# Kapitel 30 — Jonas
 
 Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
 und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
@@ -6534,7 +6946,7 @@ gestellt.“
 
 ---
 
-# Kapitel 29 — Leni
+# Kapitel 31 — Leni
 
 Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
 Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich
@@ -6772,7 +7184,7 @@ das mache ich schon selbst.“
 
 ---
 
-# Kapitel 30 — Jonas
+# Kapitel 32 — Jonas
 
 Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
 Telefonat, so gut er es erinnerte, und zweimal wörtlich.
@@ -6981,7 +7393,386 @@ mich nie wieder anrufen.“
 
 ---
 
-# Kapitel 31 — Leni
+# Kapitel 33 — Leni
+
+Silvester war der Tag, an dem Emil zum ersten Mal in seiner Wohnung
+war.
+
+Wir hatten es am siebenundzwanzigsten abgemacht, an der Tür, in vier
+Sätzen, in dem Ton, den wir seit dem dreiundzwanzigsten haben.
+
+„Silvester“, hatte er gesagt.
+
+„Ja. Von wann bis wann?“
+
+„Nachmittags bis nachts? Er soll bei mir schlafen, wenn du
+einverstanden bist. Ich bringe ihn am ersten um zehn.“
+
+Ich habe „ja“ gesagt und danach sechs Tage lang überlegt, ob das eine
+gute Idee ist.
+
+---
+
+Was mich beschäftigt hat, war nicht das Schlafen. Er kann ein Kind ins
+Bett bringen, das habe ich gesehen.
+
+Es war, dass ich seine Wohnung nicht kenne.
+
+Ich habe achtzehn Monate lang gewusst, wo mein Sohn ist, bis auf den
+Quadratmeter. Ich wusste, welche Steckdose gesichert ist und welche
+Schranktür er aufbekommt. Ich weiß, dass die vierte Stufe knarrt und
+dass er das inzwischen weiß und deshalb draufsteigt.
+
+Und jetzt fährt er in ein Haus, in dem ich nie war.
+
+Ich habe am neunundzwanzigsten gefragt, ob ich vorher mal vorbeikommen
+kann.
+
+Er hat gesagt: „Ja. Natürlich.“
+
+Und dann eine Sekunde zu spät: „Es ist nicht besonders gemütlich.“
+
+---
+
+Es war nicht besonders gemütlich.
+
+Dritter Stock, Alter Wandrahm, zweihundert Quadratmeter für einen
+Menschen. Ein Wohnzimmer, in dem ein Sofa steht, das aussieht, als
+hätte niemand je darauf gelegen. Eine Küche mit einer Kaffeemaschine,
+die teurer war als mein Ofen, und einem Kühlschrank, in dem Milch,
+Butter und drei Flaschen Wasser standen.
+
+Kein einziges Foto. Nirgends.
+
+An einer Wand hing ein Lageplan von 2011, gerahmt.
+
+„Wo soll er schlafen?“
+
+„Hier.“ Er machte eine Tür auf.
+
+Es war ein Kinderzimmer.
+
+Nicht fertig. Kein Teppich, keine Vorhänge. Aber ein Bett mit Gitter,
+aufgebaut, mit Laken. Eine Wickelkommode. Eine Kiste mit Bauklötzen und
+zwei Büchern. Und an der Decke, weil es das gab und weil ich es hier
+aufschreibe, obwohl es kitschig ist: ein Nachtlicht in Form eines
+Pilzes, dasselbe Modell wie bei uns.
+
+„Seit wann?“
+
+„Seit dem sechzehnten Dezember.“ Er stand in der Tür und sah nicht rein.
+„Ich habe es nicht gesagt, weil ich nicht wusste, ob du es übergriffig
+findest. Und dann kam der dreiundzwanzigste.“
+
+Ich stand in diesem halbfertigen Kinderzimmer in der Wohnung eines
+Mannes, dem ich vor acht Tagen die Tür gewiesen hatte.
+
+„Ich finde es nicht übergriffig“, sagte ich.
+
+„Gut.“
+
+„Ich finde es —“ Ich habe das Wort nicht gefunden. Ich habe es bis
+heute nicht gefunden.
+
+---
+
+Am einunddreißigsten habe ich ihn um zwei abgegeben, unten an der
+Haustür, mit einer Tasche und dem Holzlaster.
+
+Er hat sich nicht umgedreht. Emil, meine ich. Er ist an Jonas' Hand die
+drei Stufen hoch und war weg.
+
+Ich bin nach Hause gefahren und habe um Viertel nach zwei in einem
+Café gestanden, das zu war, und nicht gewusst, was ich tun soll.
+
+Ich habe zuerst geputzt.
+
+Dann habe ich die Kasse abgerechnet, obwohl seit dem dreißigsten zu ist.
+
+Dann habe ich mich hingesetzt.
+
+Es war zwanzig nach drei.
+
+---
+
+Sanne kam um sechs mit zwei Flaschen und einer Schachtel Feuerwerk, die
+verboten ist, und wir haben in meiner Küche gesessen wie mit
+neunzehn.
+
+„Wo ist er?“
+
+„Bei seinem Vater.“
+
+Sie hat die Flasche abgestellt.
+
+„Sag das noch mal.“
+
+„Bei seinem Vater.“
+
+„Nein“, sagte sie. „Nicht den Satz. Dein Gesicht dabei.“
+
+Ich habe sie angesehen.
+
+„Du hast gerade gelächelt“, sagte Sanne. „Bei ‚bei seinem Vater‘. Du
+hast vor acht Tagen geheult, weil du ihn rausgeworfen hast, und jetzt
+lächelst du, wenn du sagst, wo dein Kind ist.“
+
+„Beides geht.“
+
+„Ich weiß, dass beides geht.“ Sie schenkte ein. „Ich sage es nur,
+damit du es weißt.“
+
+---
+
+Wir haben um elf angefangen, uns nicht mehr zu unterhalten, sondern zu
+reden, und das ist ein Unterschied.
+
+Ich habe ihr alles erzählt. Die Mappe. Den Serienbrief um neun Uhr
+vierzehn. Den Satz von meiner Mutter, den ich benutzt habe, um einen
+Mann zu beurteilen, den sie nie getroffen hat.
+
+Sanne hat lange nichts gesagt.
+
+Dann: „Darf ich was Unangenehmes sagen?“
+
+„Du sagst es doch sowieso.“
+
+„Du hast recht gehabt“, sagte sie. „Mit allem. Der Kauf war falsch, der
+Zeitpunkt war falsch, der Serienbrief war eine Frechheit, auch wenn er
+nichts dafür kann. Du hast in jedem einzelnen Punkt recht.“
+
+„Und?“
+
+„Und ich habe fünf Jahre mit jemandem zusammengelebt, bei dem ich in
+jedem einzelnen Punkt recht hatte.“ Sie sah in ihr Glas. „Es ist kein
+besonders schönes Leben, wenn man immer recht hat, Leni.“
+
+---
+
+Um zwölf sind wir raus, an das Fleet, und die halbe Speicherstadt
+stand da mit Sekt in Plastikbechern.
+
+Ich habe um vier Minuten nach zwölf eine Nachricht bekommen.
+
+Ein Foto. Ein Kinderzimmer ohne Vorhänge, ein Gitterbett, ein
+schlafendes Kind, das durch das ganze Feuerwerk nicht wach geworden ist.
+
+Darunter drei Wörter: *Er hat durchgeschlafen.*
+
+Ich habe zurückgeschrieben: *Frohes neues Jahr.*
+
+Und dann, nach einer Minute, weil ich es an diesem Abend zum ersten Mal
+konnte:
+
+*Danke, dass du das Zimmer schon im Dezember gemacht hast.*
+
+Er hat nicht geantwortet. Nicht in dieser Nacht.
+
+Am nächsten Morgen um zehn stand er unten und hatte Emil auf dem Arm
+und sagte: „Ich wusste nicht, was ich schreiben soll.“
+
+„Musst du nicht.“
+
+„Doch“, sagte er. „Irgendwann schon.“
+
+---
+
+# Kapitel 34 — Jonas
+
+Ich habe das Kinderzimmer am sechzehnten Dezember bestellt und am
+achtzehnten aufgebaut, abends, allein, mit dem beiliegenden
+Sechskantschlüssel, und ich habe dafür zwei Stunden gebraucht, was
+laut Anleitung vierzig Minuten sind.
+
+Ich habe es niemandem gesagt.
+
+Nicht ihr, weil ich nicht wusste, ob sie es übergriffig findet. Nicht
+Theo, weil er es lustig gefunden hätte. Nicht Niklas, weil Niklas
+gefragt hätte, ob ich damit rechne, dass das Kind bei mir wohnt, und ich
+hätte darauf keine Antwort gehabt.
+
+Fünf Tage später lag eine blaue Mappe auf ihrem Tisch, und danach war
+es zwölf Tage lang ein leeres Zimmer in einer Wohnung, in der niemand
+ist.
+
+Ich bin in diesen zwölf Tagen zweimal drin gewesen und habe nichts
+gemacht, nur in der Tür gestanden.
+
+---
+
+Am neunundzwanzigsten hat sie gefragt, ob sie es sich ansehen darf.
+
+Ich habe vorher aufgeräumt, was lächerlich ist in einer Wohnung, in
+der nichts herumliegt. Ich habe die Spülmaschine ausgeräumt und den
+Lageplan an der Wand gerade gerückt und mich dann hingesetzt und
+gewartet und mich dabei angesehen wie von außen.
+
+Sie ist durch die Zimmer gegangen und hat nichts gesagt.
+
+Ich habe versucht, meine eigene Wohnung mit ihren Augen zu sehen, und
+es war unangenehm: zweihundert Quadratmeter, ein Sofa, auf dem nie
+jemand gelegen hat, ein Kühlschrank mit Milch und Wasser, kein
+einziges Foto.
+
+Sie hat vor dem Kühlschrank gestanden und ihn zugemacht und nichts
+dazu gesagt, und das war schlimmer, als wenn sie etwas gesagt hätte.
+
+Im Kinderzimmer hat sie gefragt: „Seit wann?“
+
+Und ich habe es ihr gesagt.
+
+---
+
+Am einunddreißigsten um zwei kam er.
+
+Er ist die drei Stufen hochgegangen, hat sich nicht umgedreht und ist
+in den Flur gelaufen, als wäre er hier zu Hause, und hat als Erstes
+versucht, den Schirmständer umzuwerfen.
+
+Ich habe an diesem Nachmittag folgende Dinge gelernt:
+
+Eine Wohnung ohne Kind hat vierzehn Steckdosen. Eine Wohnung mit Kind
+hat vierzehn Löcher in Kopfhöhe.
+
+Ein Glastisch ist keine gute Idee.
+
+Ein Kind mit zwanzig Monaten braucht für zweihundert Quadratmeter
+ungefähr elf Minuten und findet in dieser Zeit alles, was man übersehen
+hat.
+
+Um halb vier saß er auf dem Küchenboden und schlug mit einem Kochlöffel
+auf einen Topf, und ich saß daneben und dachte, dass dieser Boden seit
+sieben Jahren nicht benutzt worden ist.
+
+---
+
+Wir haben um sechs gegessen. Nudeln, weil ich Nudeln kann.
+
+Er hat gegessen, was er üblicherweise isst, nämlich ein Drittel, und
+den Rest verteilt.
+
+Danach habe ich zum ersten Mal allein ein Kind gebadet.
+
+Das ist eine Sache, über die niemand redet: Es dauert lange, es geht
+alles gleichzeitig schief, und man braucht sechs Hände. Ich habe das
+Wasser zweimal zu heiß gehabt und danach zu kalt, ich habe das Handtuch
+außer Reichweite gelegt, und ich bin danach nasser gewesen als er.
+
+Er hat die ganze Zeit gelacht.
+
+---
+
+Um halb acht lag er im Bett, mit dem Holzlaster, und ich saß auf dem
+Boden daneben, weil es keinen Stuhl gab.
+
+Er hat nicht geschlafen. Er hat mich angesehen.
+
+Ich habe irgendwann angefangen zu reden, weil ich nichts anderes wusste.
+
+Ich habe ihm von der Firma erzählt. Von Rothenburgsort und der
+Fundamentplatte und dem Kanal, von dem die Stadt nichts wusste. Von den
+elf Wohnungen in Barmbek. Von dem Aufzug.
+
+Ich habe einem Zwanzigmonatigen fünfundzwanzig Minuten lang von einem
+Aufzug erzählt.
+
+Irgendwann hat er die Augen zugemacht.
+
+Ich bin noch zehn Minuten sitzen geblieben, auf dem Boden, in einem
+Zimmer ohne Vorhänge, und habe gehört, wie er atmet.
+
+---
+
+Um Mitternacht bin ich ans Fenster gegangen.
+
+Von hier sieht man über die Speicherstadt bis zum Fleet, und über der
+ganzen Stadt gingen die Raketen hoch, und in dieser Wohnung war es so
+laut wie seit sieben Jahren nicht, nämlich gar nicht.
+
+Er ist nicht aufgewacht. Nicht einmal.
+
+Ich habe ein Foto gemacht und es ihr geschickt und drei Wörter
+darunter geschrieben, weil mir nichts Besseres eingefallen ist.
+
+Sie hat geantwortet: *Frohes neues Jahr.*
+
+Und dann, eine Minute später: *Danke, dass du das Zimmer schon im
+Dezember gemacht hast.*
+
+---
+
+Ich habe eine Stunde gebraucht, um nicht zu antworten.
+
+Das klingt merkwürdig. Ich erkläre es.
+
+Ich habe angefangen zu tippen und wieder gelöscht, und zwar sechs- oder
+siebenmal, und jedes Mal war es dasselbe Muster: Ich habe eine Erklärung
+geschrieben.
+
+*Ich habe es gemacht, weil —*
+
+*Ich wollte damit nicht sagen, dass —*
+
+*Es ist nicht so gemeint, dass —*
+
+Ich bin sechsunddreißig Jahre alt und kann vor sieben Leuten eine
+Vier-Komma-zwei-Millionen-Entscheidung begründen, und ich konnte auf
+einen Satz mit acht Wörtern nicht antworten, ohne ihn zu verhandeln.
+
+Um zehn nach eins habe ich das Telefon weggelegt.
+
+---
+
+Am ersten Januar um zehn habe ich ihn zurückgebracht.
+
+Sie stand unten in der Durchfahrt, in dem Mantel, den sie im Winter
+trägt, und hat die Arme ausgestreckt, und er ist zu ihr.
+
+„Er hat durchgeschlafen“, sagte ich. „Bis Viertel nach sieben.“
+
+„Bei mir wacht er um sechs auf.“
+
+„Ich weiß.“
+
+„Das ist unfair.“
+
+„Ja“, sagte ich.
+
+Sie hat kurz gelacht, und dann standen wir da, in einer Durchfahrt, an
+einem ersten Januar, und keiner von uns wusste, wie man aus so einer
+Situation herauskommt.
+
+„Ich wusste nicht, was ich schreiben soll“, sagte ich.
+
+„Musst du nicht.“
+
+„Doch“, sagte ich. „Irgendwann schon.“
+
+---
+
+Ich bin danach nicht ins Büro gefahren, obwohl ich es vorhatte.
+
+Ich bin zu Fuß über die Brooksbrücke gegangen, einmal die ganze
+Speicherstadt lang, und habe mir das Kontorhaus angesehen, das ich seit
+sechs Jahren kaufen wollte.
+
+Vier Geschosse. Roter Backstein. Eine Winde unter dem Dach, die seit
+siebzig Jahren nichts mehr gehoben hat.
+
+Am zweiten Januar habe ich Theo gebeten, den Brief zu schreiben, in dem
+steht, dass die Gesellschaft die drei Rechte erwerben will und dass sie
+den Sachverständigen aussucht.
+
+Er hat gefragt, ob er Grüße von mir dazuschreiben soll.
+
+Ich habe gesagt: nein.
+
+Es war das Schwerste, was ich in diesem Winter geschrieben habe, und
+ich habe es nicht einmal selbst geschrieben.
+
+---
+
+# Kapitel 35 — Leni
 
 Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
 sechs Absätze, kein Gruß von irgendjemandem.
@@ -7239,7 +8030,382 @@ sagen, was von ihr das Größte ist, was es gibt.
 
 ---
 
-# Kapitel 32 — Jonas
+# Kapitel 36 — Jonas
+
+Die Woche vor dem zwanzigsten Januar war die längste meines
+Berufslebens, und ich habe in ihr sehr wenig getan.
+
+Das ist der Teil, den man nicht lernt: dass Warten Arbeit ist.
+
+Ich hatte einen Plan in vier Schritten, ein Gutachten, das nicht mir
+gehörte, und eine Sitzung, in der ich etwas offenlegen wollte, das mich
+den Posten kosten kann. Und dazwischen acht Tage, in denen ich nichts
+tun durfte, ohne alles zu gefährden.
+
+Ich habe in diesen acht Tagen zweimal den Hörer in der Hand gehabt, um
+sie anzurufen, und beide Male aufgelegt, bevor es klingelte.
+
+Nicht aus Trotz. Weil Theo ihr geschrieben hatte, dass sie entscheidet,
+und weil ein Anruf von mir das kaputtgemacht hätte.
+
+---
+
+Am vierzehnten kam Niklas mit dem Entwurf für den Forderungskauf.
+
+Wir haben ihn zweieinhalb Stunden lang durchgearbeitet, Satz für Satz,
+und mein Bruder hat dabei dreimal gesagt: „Das hält.“
+
+Beim vierten Mal habe ich gefragt: „Warum sagst du das dauernd?“
+
+Er hat den Stift hingelegt.
+
+„Weil du seit zwanzig Minuten nach einer Stelle suchst, an der du
+etwas hinzufügen kannst“, sagte er. „Eine Klausel, eine Zusicherung,
+irgendwas. Und es gibt keine, weil der Vertrag fertig ist.“
+
+„Ich will nur sicher sein, dass sie nicht —“
+
+„Dass sie nicht was?“ Niklas lehnte sich zurück. „Dass sie nicht
+schlechter dasteht? Sie steht am Ende ohne Schulden da, mit ihrem Haus,
+mit einer Reallast auf zwanzig Jahre für ihr Erdgeschoss, die wir
+freiwillig anbieten. Wenn du da noch etwas hinzufügst, ist es kein
+Vertrag mehr, sondern ein Geschenk mit Deckel.“
+
+Er hat die Blätter zusammengeschoben.
+
+„Jonas. Der Vertrag ist nicht dein letzter Satz an sie. Er ist nur ein
+Vertrag.“
+
+---
+
+Am fünfzehnten stand Kellermann in der Zeitung.
+
+Nicht wegen Kehrwieder. Wegen eines Objekts in der Neustadt, das er
+aus einem Bankenpaket gekauft hat, und der Artikel war freundlich; er
+wird darin als jemand beschrieben, der Substanz erhält.
+
+Ich habe den Artikel zweimal gelesen und danach eine halbe Stunde am
+Fenster gestanden.
+
+Denn das Unangenehme ist: Er macht dasselbe wie ich.
+
+Er wartet, bis eine Bank aufräumt, und dann ist er da. Genau das hat
+mein Vater mir mit siebzehn erklärt, in genau diesen Worten, und ich
+habe es zwölf Jahre lang für Handwerk gehalten.
+
+Der Unterschied zwischen Kellermann und mir besteht in diesem Winter
+aus einer einzigen Sache, und die ist nicht Anstand.
+
+Sie ist: Ich kenne sie.
+
+Das ist kein moralischer Unterschied. Das ist Zufall.
+
+Ich habe an diesem Abend zum ersten Mal gedacht, dass ich mich nicht
+für einen besseren Menschen halten darf, sondern nur für einen, der
+Glück hatte.
+
+---
+
+Am sechzehnten habe ich Wendland angerufen.
+
+Das mache ich nie. Wendland ruft an; man ruft nicht Wendland an.
+
+„Reinhardt.“ Er klang überrascht. „Ist etwas?“
+
+„Ich möchte, dass Sie am Zwanzigsten etwas wissen, bevor ich es im
+Raum sage.“
+
+„Dann sagen Sie es.“
+
+Ich habe es ihm gesagt. Alles: das Kind, den dritten Dezember, den
+Kauf am zweiundzwanzigsten, die Fristverlängerung, den Plan mit den
+Dienstbarkeiten.
+
+Es hat vier Minuten gedauert.
+
+Am anderen Ende war es danach lange still.
+
+„Warum rufen Sie mich vorher an?“, sagte er.
+
+„Damit Sie nicht am Zwanzigsten zum ersten Mal davon hören und
+entscheiden müssen, während Sie überrascht sind.“
+
+„Das ist Taktik.“
+
+„Ja“, sagte ich. „Es ist auch Taktik.“
+
+Wieder eine Pause.
+
+„Reinhardt, ich sage Ihnen jetzt etwas, und ich sage es genau einmal.“
+Ich hörte ihn etwas hinlegen. „Ihr Vater hätte diesen Anruf nicht
+gemacht. Nicht weil er unehrlich war. Weil ihm nicht in den Sinn
+gekommen wäre, dass ein Mensch überrascht sein könnte.“
+
+„Ist das gut oder schlecht?“
+
+„Das weiß ich am Zwanzigsten“, sagte Wendland und legte auf.
+
+---
+
+Am siebzehnten, einem Freitag, habe ich Emil gehabt.
+
+Zehn bis sechs. Wir waren im Museumshafen, weil dort Schiffe liegen und
+weil ein Zwanzigmonatiger für ein Schiff denselben Laut macht wie für
+einen Bagger.
+
+Sie hat ihn mir unten in der Durchfahrt übergeben, und wir haben sechs
+Sätze gewechselt, alle über Emil.
+
+Beim Zurückbringen um sechs stand sie schon in der Tür.
+
+„Wie war er?“
+
+„Gut. Er hat vor einem Schlepper vierzig Minuten gestanden.“
+
+„Vierzig?“
+
+„Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
+habe.“
+
+Sie hat gelächelt, und ich habe zum ersten Mal seit dem
+dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
+vorbei ist, sondern nur anders.
+
+Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
+hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein
+Handel aussieht.
+
+Ich glaube bis heute, dass das richtig war.
+
+Ich weiß aber auch, dass „ich sage lieber nichts“ in diesem Buch
+ungefähr sechzigmal vorkommt, und dass es jedes Mal die falsche
+Entscheidung war.
+
+---
+
+Am achtzehnten, einem Samstag, war ich bei meiner Mutter und habe ihr
+gesagt, dass es sein kann, dass ich am Montag abberufen werde.
+
+Sie hat gefragt: „Und dann?“
+
+„Dann führt Theo die Firma.“
+
+„Ich meine nicht die Firma, Jonas.“ Sie hat die Tasse abgestellt. „Ich
+meine dich. Was machst du dann?“
+
+Ich habe darauf keine Antwort gehabt.
+
+Ich bin sechsunddreißig, ich habe mit zweiundzwanzig ein
+Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
+die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
+Antwort.
+
+Meine Mutter hat gesagt: „Denk mal darüber nach. Nicht am Montag.
+Irgendwann.“
+
+Und dann, an der Tür:
+
+„Ich fände es nicht schlimm, weißt du.“
+
+„Was?“
+
+„Wenn sie dich rauswerfen.“ Sie hat mir den Mantel gereicht. „Dein Vater
+ist mit vierundfünfzig gestorben, und in den zweiunddreißig Jahren
+davor hat er zwei Wochen Urlaub gemacht. Ich habe kein einziges Mal
+gedacht: Gut, dass er so viel gearbeitet hat.“
+
+---
+
+# Kapitel 37 — Leni
+
+Die Woche vor dem zwanzigsten Januar war die erste seit sechs Jahren,
+in der ich nichts tun konnte.
+
+Das Gutachten lag da. Die Frist war verlängert. Der Termin stand. Es
+gab keinen Anruf, den ich hätte machen, keinen Antrag, den ich hätte
+stellen, keine Zahl, die ich hätte umstellen können.
+
+Ich habe in dieser Woche gebacken wie eine Verrückte.
+
+Am Mittwoch standen achtzehn Zitronentarten in der Kühlung, und Frau
+Kettler hat sie gezählt und gesagt: „Wir verkaufen vier am Tag.“
+
+„Ich weiß.“
+
+„Frau Voss.“
+
+„Ich weiß, Frau Kettler.“
+
+Wir haben elf davon an die Kita Kirchenweg gegeben, wo sie für den
+Elternabend dankbar waren, und drei an den Copyshop, und Sanne hat
+gefragt, ob ich einen Zusammenbruch habe.
+
+---
+
+Am dreizehnten war ich mit Emil zur Anmeldung in der Kita.
+
+Das hatte ich seit einem Jahr vor mir hergeschoben, mit der Begründung,
+dass ich es mir nicht leisten kann, was auch stimmte, und mit der
+zweiten Begründung, die ich mir nicht eingestanden habe.
+
+Die zweite lautet: Solange er den ganzen Tag bei mir ist, bin ich die
+Einzige, die ihn kennt.
+
+Ich schreibe das hin, weil es hässlich ist und weil es wahr ist.
+
+Frau Özdemir hat uns durch die Räume geführt, und Emil ist sofort zu
+einer Kiste mit Bauklötzen gegangen und hat sich hingesetzt, ohne sich
+umzudrehen.
+
+„Er kennt das“, hat sie gesagt.
+
+„Er war noch nie hier.“
+
+„Ich meine nicht den Raum. Ich meine: Er kennt es, dass Erwachsene ihn
+allein lassen und wiederkommen.“ Sie hat auf die Anmeldung gesehen.
+„Zwei Bezugspersonen im Haushalt?“
+
+Ich habe drei Sekunden gebraucht.
+
+„Nicht im selben Haushalt“, habe ich gesagt. „Aber zwei.“
+
+Es war das erste Mal, dass ich es einer Behörde gesagt habe.
+
+---
+
+Am fünfzehnten war Kellermann in der Zeitung.
+
+Sanne hat mir den Artikel rübergebracht, weil sie ihn im Copyshop
+kopiert hatte, für einen Kunden, und dabei den Namen gesehen hat.
+
+Er hat in der Neustadt ein Haus aus einem Bankenpaket gekauft, und der
+Artikel nennt ihn jemanden, der Substanz erhält.
+
+Darunter ein Foto: derselbe Mann, der in meinem Café einen Milchkaffee
+getrunken und gewusst hat, dass Milchkaffee keinen Schaum hat.
+
+Ich habe den Artikel gelesen und dabei gemerkt, dass mir das Herz
+schlägt, und ich habe eine Weile gebraucht, um zu verstehen, warum.
+
+Es war nicht Angst.
+
+Es war: *Ich hätte unterschreiben können.*
+
+Am achten Januar, um halb elf, mit einem Notar, der samstags aufmacht.
+Zweihundertfünfundvierzigtausend. Kein Beirat, kein Gutachten, keine
+Frist, kein Warten.
+
+Ich habe nein gesagt, und ich stehe seitdem jeden Tag in einem Haus,
+das mir gehört, und weiß nicht, ob es mir in vier Wochen noch gehört.
+
+Ich habe an diesem Nachmittag zum ersten Mal ernsthaft gedacht, dass
+ich vielleicht einen Fehler gemacht habe.
+
+---
+
+Ich habe Frau Kettler davon erzählt, weil sie danebenstand.
+
+Sie hat den Artikel gelesen, langsam, mit dem Finger unter der Zeile.
+
+Dann hat sie gesagt: „Und?“
+
+„Und vielleicht war es falsch.“
+
+„Vielleicht.“ Sie hat die Zeitung zusammengefaltet. „Frau Voss, ich
+sage Ihnen jetzt was über Fehler. Ich habe 1989 den Laden meiner Eltern
+verkauft, an einen, der Substanz erhalten wollte. Wissen Sie, was heute
+da drin ist?“
+
+„Nein.“
+
+„Ich auch nicht“, sagte sie. „Ich gehe da nicht mehr vorbei.“
+
+---
+
+Am siebzehnten hatte Jonas ihn, den ganzen Tag.
+
+Es war das dritte Mal seit dem dreiundzwanzigsten Dezember, und es lief
+inzwischen ohne Absprache: Er kommt um zehn, ich gebe die Tasche runter,
+er bringt ihn um sechs.
+
+Wir reden dabei über Emil. Nur über Emil. Das ist die Regel, die
+niemand ausgesprochen hat.
+
+An diesem Freitag hat er beim Zurückbringen erzählt, dass Emil vierzig
+Minuten vor einem Schlepper gestanden hat, und dass er auf die Uhr
+gesehen hat, weil er es nicht geglaubt hat.
+
+Ich habe gelacht.
+
+Und dann standen wir da, in der Durchfahrt, und ich habe gesehen, dass
+er etwas sagen will, und ich habe gesehen, wie er es nicht sagt.
+
+Ich habe auch nichts gesagt.
+
+Wir sind beide sehr gut darin.
+
+---
+
+Am Sonntag, dem neunzehnten, bin ich mit Emil zu meiner Mutter
+gefahren, nach Harburg, was ich zweimal im Jahr mache.
+
+Sie hat ihn genommen und auf den Arm und gesagt, er sei groß geworden,
+und dann hat sie ihn wieder abgesetzt und mich angesehen.
+
+„Und?“
+
+„Morgen ist die Sitzung.“
+
+„Und wenn sie nein sagen?“
+
+„Dann kaufe ich die Forderung nicht, und dann läuft die Frist, und dann
+kommt die Zwangsversteigerung.“ Ich habe die Tasse genommen. „Und dann
+kauft es jemand für zweihundertfünfzig, und der ist nicht Kellermann,
+sondern schlechter.“
+
+Meine Mutter hat lange nichts gesagt.
+
+Dann: „Weißt du, was ich nicht verstehe?“
+
+„Nein.“
+
+„Warum du das alles allein machst, obwohl da jemand ist.“
+
+Ich habe gesagt: „Weil er es sonst regelt.“
+
+Und meine Mutter — die Frau, von der ich den Satz habe, meine ganze
+Rüstung, *sie regeln erst alles, und dann sind sie weg* — hat mich
+angesehen und gesagt:
+
+„Marlene. Dein Vater hat alles geregelt und ist gegangen. Das heißt
+nicht, dass jeder, der etwas regelt, geht.“
+
+Ich habe die Tasse abgestellt.
+
+„Das ist genau dein Satz“, sagte ich. „Ich habe ihn von dir.“
+
+„Ich weiß“, sagte meine Mutter. „Ich habe ihn dir gegeben, als du neun
+warst, weil ich ihn selbst gebraucht habe. Er war nie für dich
+gedacht.“
+
+---
+
+Wir sind um sechs gefahren.
+
+Auf der Rückfahrt, auf der A7, hat Emil hinten geschlafen, und ich habe
+eine Stunde lang nachgedacht und bin zu einem Ergebnis gekommen, das
+ich am nächsten Tag nicht mehr hatte.
+
+Es lautete ungefähr: *Ruf ihn an. Heute Abend. Sag ihm irgendetwas.*
+
+Ich habe es nicht getan.
+
+Am Montag um achtzehn Uhr vierundvierzig kam eine Mail mit neun Seiten
+Anhang, und danach war die Reihenfolge wieder eine andere.
+
+---
+
+# Kapitel 38 — Jonas
 
 Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
 
@@ -7470,7 +8636,7 @@ Ich hatte vergessen, dass Marlene Voss alles liest.
 
 ---
 
-# Kapitel 33 — Leni
+# Kapitel 39 — Leni
 
 Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
 
@@ -7752,7 +8918,7 @@ Diesmal habe ich es geglaubt.
 
 ---
 
-# Kapitel 34 — Jonas
+# Kapitel 40 — Jonas
 
 Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
@@ -7915,7 +9081,7 @@ hast und nicht drei.“
 
 ---
 
-# Kapitel 35 — Leni
+# Kapitel 41 — Leni
 
 Der März war der Monat, in dem alles gleichzeitig funktionierte, und
 genau deshalb war er schwer.
@@ -8079,7 +9245,7 @@ Und dann ist die Antwort ein Name und keine Lücke.
 
 ---
 
-# Kapitel 36 — Jonas
+# Kapitel 42 — Jonas
 
 Der Stuhl ist einunddreißig Zentimeter hoch. Ich habe nachgemessen, am
 vierten Morgen, mit dem Zollstock aus dem Wagen, weil man als
