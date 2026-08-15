@@ -9,37 +9,25 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 ## Was noch fehlt
 
-| | Wer | Aufwand |
-|---|---|---|
-| **Coverbild** — Datei nach `cover/roh/`, dann läuft `coverbau.py` | du | 1 Minute |
-| ~~Autorenname~~ | erledigt | Alan Lorenz |
-| ~~Impressum~~ | erledigt | aus dem Shop gelesen |
-| ~~Kategorien~~ | erledigt | gemessen, siehe unten |
+| | Stand |
+|---|---|
+| Manuskript, 28 Kapitel | **fertig**, 35.692 Wörter |
+| Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
+| EPUB mit eingebettetem Cover | **fertig**, 554 kB |
+| Impressum, Autor, Copyright | **fertig** |
+| Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
+| Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
+| **Länge** | **35.692 von 65.000** — siehe unten |
 
-Das Coverbild ist der einzige offene Punkt. `python3
-scripts/manuskript.py` meldet inzwischen **keine Beanstandungen** —
-und das ist belastbar, weil vorher der Selbsttest durchläuft.
+**Hochladbar ist es damit heute.** Der einzige offene Punkt ist die
+Länge: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000 Wörtern
+(`KDP-NISCHEN.md`). Bei Kindle Unlimited wird pro gelesener Seite
+gezahlt — dieses Buch bringt bei vollständigem Durchlesen rund die
+Hälfte dessen, was ein Titel üblicher Länge bringt.
 
-### Das Coverbild hereinbekommen
-
-Du brauchst kein Git dafür:
-
-1. github.com → `alanzshops-tech/ponytail-test`
-2. oben den Branch `claude/github-tools-homeeins-wfk0xn` auswählen
-3. **Add file → Upload files**, Bild hineinziehen
-4. im Feld darunter den Pfad auf `cover/roh/` setzen
-5. **Commit changes**
-
-Danach sage mir Bescheid, dann läuft
-
-```
-python3 scripts/coverbau.py --bild cover/roh/<datei> --autor "<Name>"
-python3 scripts/manuskript.py --autor "<Name>"
-```
-
-und du bekommst Cover, Miniaturprobe, Messung und die neue EPUB.
-
----
+Das ist eine Entscheidung, keine Baustelle: als Novelle veröffentlichen
+und die Länge im Klappentext ehrlich nennen, oder einen dritten
+Durchgang schreiben. Der Weg dafür steht in `buch/STAND.md`.
 
 ## Die Dateien
 
