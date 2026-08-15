@@ -10,7 +10,7 @@ Geheimnis*
 | | |
 |---|---|
 | Kapitel | **56** |
-| Wörter Fließtext | **65.599** |
+| Wörter Fließtext | **65.684** |
 | Schnitt je Kapitel | 1.172 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
@@ -19,7 +19,7 @@ Geheimnis*
 
 **Die Länge ist damit erledigt.** Gemessen (`../KDP-NISCHEN.md`, 19
 Produktseiten): Median 291 bis 337 Druckseiten, also **65.000 bis 82.000
-Wörter**. Das Manuskript liegt bei 65.599, also im Band, am unteren
+Wörter**. Das Manuskript liegt bei 65.684, also im Band, am unteren
 Rand.
 
 Das ist eine Aussage über die Länge und über nichts sonst. Ein Buch im
@@ -35,7 +35,7 @@ den Bewertungen.
 | zweiter Durchgang | 28 | 35.692 |
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
-| **Block 3 (dieser)** | **56** | **65.599** |
+| **Block 3 (dieser)** | **56** | **65.684** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches
@@ -73,7 +73,10 @@ aufgeschrieben:
 | Kap. 45 | *„freitags und am Silvester"* für die sechs Tage zwischen dem 20. und dem 27. **Januar**. |
 | Kap. 56 | Die Eingewöhnung wurde ein zweites Mal erzählt (steht in Kap. 50), die Bohrpfähle ebenfalls (Kap. 51). |
 | Kap. 56 | *„dass sie eine Enkelin hat, die Emil heißt und ein Junge ist"* — grammatisch schief und inhaltlich falsch: Er sagt es seiner Mutter in Kapitel 18, im November. |
-| Kap. 37 | Ein gerader Apostroph in *Jonas' Hand*. Von `prosa.py` gefunden, nicht von Auge. |
+| Kap. 37 | Ein gerader Apostroph in *Jonas’ Hand*. Von `prosa.py` gefunden, nicht von Auge. |
+| **Zeitachse** | **Der schwerste Fund.** Die drei Anrufe standen auf 22. Juni / 4. Juli / 18. Juli und der Brief auf Ende Juli — bei einer Geburt am 8. Mai und einem Ultraschall vom 10.10.2024 liegen alle vier **vor der Zeugung**. Neu: 26. September, 8. Oktober, 22. Oktober, Brief Ende Oktober. Die Hochzeit in Travemünde ist im Text nirgends datiert, deshalb bleibt sie, wo sie ist. Betroffen: Kap. 7, 16, 20, 21, 47. |
+| Kap. 16 | Sie sagt dort, im Brief habe auf Seite drei gestanden, dass sie schwanger ist. In Kapitel 3 sagt sie, sie habe genau das **nicht** hineingeschrieben, weil an seiner Adresse jemand die Post öffnet. Kapitel 3 gewinnt — sonst bricht die ganze Archivszene in Kapitel 20. |
+| Kap. 20 | Die Schredderrechnung ging nicht auf: Der letzte Lauf war Februar 2024, der Brief kam danach. Jetzt zählt er vorwärts — der nächste Turnus ist in zwölf Wochen. |
 | `einschieben.py` | Beim Umnummerieren blieb der Buchstabe in der Überschrift stehen: aus `# Kapitel 9a` wurde `# Kapitel 10a`. Regex korrigiert, Kommentar mit Datum daneben. |
 
 ---

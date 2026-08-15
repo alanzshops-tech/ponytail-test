@@ -10,7 +10,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 4 | 1265 | 10.0 | 9.5 | 7.3 % | 31.5 % | 10.3 | – |
 | 5 | 1136 | 10.0 | 11.2 | 12.2 % | 20.3 % | 7.9 | – |
 | 6 | 1283 | 10 | 10.6 | 8.4 % | 31.8 % | 8.6 | – |
-| 7 | 1093 | 8 | 9.1 | 3.2 % | 30.6 % | 7.3 | – |
+| 7 | 1093 | 8 | 9.1 | 3.2 % | 30.7 % | 7.3 | – |
 | 8 | 1739 | 11 | 11.8 | 13.7 % | 23.2 % | 8.6 | – |
 | 9 | 984 | 12 | 9.1 | 8.7 % | 18.8 % | 9.1 | – |
 | 10 | 1247 | 12 | 9.6 | 5.7 % | 17.9 % | 8.0 | – |
@@ -19,11 +19,11 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 13 | 1135 | 10 | 8.3 | 3.3 % | 24.7 % | 7.0 | – |
 | 14 | 1221 | 9 | 10.3 | 7.1 % | 33.2 % | 11.5 | – |
 | 15 | 1005 | 8.0 | 9.2 | 3.6 % | 22.2 % | 10.0 | – |
-| 16 | 1245 | 9.0 | 9.1 | 7.5 % | 33.0 % | 7.2 | – |
+| 16 | 1279 | 9 | 9.5 | 8.4 % | 34.6 % | 7.8 | – |
 | 17 | 1168 | 9 | 11.3 | 9.2 % | 23.7 % | 9.4 | – |
 | 18 | 957 | 10 | 9.4 | 4.1 % | 32.9 % | 8.4 | – |
 | 19 | 1067 | 12 | 12.7 | 14.5 % | 21.6 % | 6.6 | – |
-| 20 | 1440 | 12.0 | 13.0 | 13.3 % | 27.1 % | 8.3 | – |
+| 20 | 1491 | 13.5 | 12.5 | 11.7 % | 27.3 % | 8.0 | – |
 | 21 | 1282 | 9.5 | 9.4 | 5.0 % | 49.1 % | 9.4 | – |
 | 22 | 1100 | 8.5 | 10.7 | 8.1 % | 31.3 % | 10.0 | – |
 | 23 | 1162 | 8.5 | 10.4 | 6.1 % | 29.6 % | 16.4 | – |
@@ -64,7 +64,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 ## Ausreißer
 
 - **Dialoganteil**: Median 22.2 · höchster Kapitel 40 (63.7) · niedrigster Kapitel 11 (2.0)
-- **Füllwörter je 1000**: Median 7.45 · höchster Kapitel 23 (16.4) · niedrigster Kapitel 25 (1.1)
+- **Füllwörter je 1000**: Median 7.6 · höchster Kapitel 23 (16.4) · niedrigster Kapitel 25 (1.1)
 - **Satzlänge Median**: Median 10.0 · höchster Kapitel 29 (14) · niedrigster Kapitel 11 (7.0)
 
 ## Wort doppelt hintereinander
@@ -73,13 +73,14 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 2103
-- Schließende **richtig** `“`: 2103
+- Öffnende Anführungszeichen `„`: 2106
+- Schließende **richtig** `“`: 2106
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 8
 - Auslassung falsch `...`: 0 · richtig `…`: 1
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

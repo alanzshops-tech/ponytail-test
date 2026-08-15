@@ -188,11 +188,11 @@ diesem Heft steht auf der drittletzten Seite etwas, das ich im Sommer
 2024 geschrieben habe, mit einem anderen Stift und in einer Handschrift,
 die schneller war als meine heutige.
 
-*22.06., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
+*26.09., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
 
-*04.07., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
+*08.10., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
 
-*18.07., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
+*22.10., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
 
 Ich habe diese drei Zeilen zwei Jahre lang aufgehoben, damit ich mir das
 nicht irgendwann selbst anders erzähle.

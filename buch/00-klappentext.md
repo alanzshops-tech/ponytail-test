@@ -60,7 +60,7 @@ letzten Seite öffnet sich der Blick auf Band 2.*
 
 | | |
 |---|---|
-| Umfang | 56 Kapitel, **65.599 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
+| Umfang | 56 Kapitel, **65.684 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
 | Erzählform | Ich-Perspektive, wechselnd Leni / Jonas, Präteritum |
 | Kategorie | Liebesroman › Zeitgenössisch |
 | Keywords | geheimes baby, milliardär, zweite chance, hamburg, alleinerziehend, ceo |

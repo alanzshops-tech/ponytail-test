@@ -109,14 +109,21 @@ nicht, warum ich das sage.“
 Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
 ohne dass ich fragen musste.
 
-„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
-noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
+„Ich habe es dir sagen wollen“, sagte sie. „Im September, im Oktober,
+im Oktober noch mal. Die Anrufe, die du selbst gefunden hast. Und den
+Brief.“
 
 „Was stand wirklich drin?“
 
-„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
-zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
-dazu durchzuringen.“
+„Nicht das.“ Sie sah auf den Tisch. „Drei Seiten, und auf keiner steht
+es. Ich habe geschrieben, dass ich mit dir reden muss und dass es
+wichtig ist, und ich habe dreimal neu angefangen, und ich habe es
+trotzdem nicht hingeschrieben.“
+
+„Warum nicht?“
+
+„Weil an deiner Adresse jemand die Post aufmacht“, sagte sie. „Das
+wusste ich zu dem Zeitpunkt schon. Dreimal.“
 
 Ich schloss die Augen.
 

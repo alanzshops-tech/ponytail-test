@@ -151,7 +151,8 @@ Ich machte den Umschlag nicht auf.
 
 Ich wusste, was drin ist.
 
-„Drei Anrufe“, sagte er. „22. Juni, 4. Juli, 18. Juli. Marlene Voss.
+„Drei Anrufe“, sagte er. „26. September, 8. Oktober, 22. Oktober.
+Marlene Voss.
 Beim dritten steht ein Vermerk: *erledigt.*“
 
 Es war sehr still.
@@ -166,7 +167,7 @@ Er sah mich an, und ich sah, wie es ihn traf.
 
 Ich setzte mich hin, weil meine Beine es entschieden.
 
-„Drei Seiten“, sagte ich. „Ende Juli. Handschriftlich. Ich habe
+„Drei Seiten“, sagte ich. „Ende Oktober. Handschriftlich. Ich habe
 geschrieben, dass ich mit Ihnen sprechen muss. Dass es wichtig ist.“
 
 „Ich habe ihn nie gesehen.“

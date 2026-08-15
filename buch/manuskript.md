@@ -1726,7 +1726,8 @@ Ich machte den Umschlag nicht auf.
 
 Ich wusste, was drin ist.
 
-„Drei Anrufe“, sagte er. „22. Juni, 4. Juli, 18. Juli. Marlene Voss.
+„Drei Anrufe“, sagte er. „26. September, 8. Oktober, 22. Oktober.
+Marlene Voss.
 Beim dritten steht ein Vermerk: *erledigt.*“
 
 Es war sehr still.
@@ -1741,7 +1742,7 @@ Er sah mich an, und ich sah, wie es ihn traf.
 
 Ich setzte mich hin, weil meine Beine es entschieden.
 
-„Drei Seiten“, sagte ich. „Ende Juli. Handschriftlich. Ich habe
+„Drei Seiten“, sagte ich. „Ende Oktober. Handschriftlich. Ich habe
 geschrieben, dass ich mit Ihnen sprechen muss. Dass es wichtig ist.“
 
 „Ich habe ihn nie gesehen.“
@@ -3766,14 +3767,21 @@ nicht, warum ich das sage.“
 Dann kam der Teil, vor dem ich mich fürchtete, und sie machte ihn selbst,
 ohne dass ich fragen musste.
 
-„Ich habe es dir sagen wollen“, sagte sie. „Im Juni, im Juli, im Juli
-noch mal. Die Anrufe, die du selbst gefunden hast. Und den Brief.“
+„Ich habe es dir sagen wollen“, sagte sie. „Im September, im Oktober,
+im Oktober noch mal. Die Anrufe, die du selbst gefunden hast. Und den
+Brief.“
 
 „Was stand wirklich drin?“
 
-„Dass ich schwanger bin.“ Sie sah auf den Tisch. „Nicht in den ersten
-zwei Seiten. Auf der dritten. Ich habe zwei Seiten gebraucht, um mich
-dazu durchzuringen.“
+„Nicht das.“ Sie sah auf den Tisch. „Drei Seiten, und auf keiner steht
+es. Ich habe geschrieben, dass ich mit dir reden muss und dass es
+wichtig ist, und ich habe dreimal neu angefangen, und ich habe es
+trotzdem nicht hingeschrieben.“
+
+„Warum nicht?“
+
+„Weil an deiner Adresse jemand die Post aufmacht“, sagte sie. „Das
+wusste ich zu dem Zeitpunkt schon. Dreimal.“
 
 Ich schloss die Augen.
 
@@ -4540,10 +4548,12 @@ Der Junge war da. Der Junge war das Einfachste an dieser Woche, weil
 Emil kein Problem war, das man löst, sondern ein Mensch, der einem einen
 Becher hinhält und wartet.
 
-Was ich nicht loswurde, war ein Satz, den Marlene am Freitagabend im
-Café gesagt hatte, sehr ruhig, zwischen zwei anderen Sätzen.
+Was ich nicht loswurde, war ein Satz aus dem Oktober, von jenem
+Freitagabend im Café, an dem ich tropfend in ihrer Tür stand. Sie hatte
+ihn sehr ruhig gesagt, zwischen zwei anderen Sätzen, und ich hatte ihn
+seitdem sechs Wochen mit mir herumgetragen.
 
-*Drei Seiten. Ende Juli. Handschriftlich.*
+*Drei Seiten. Ende Oktober. Handschriftlich.*
 
 ---
 
@@ -4670,14 +4680,15 @@ das die Spalte war, die es gab.“
 
 „Warum haben Sie mir nichts gesagt?“
 
-„Weil Sie in dem Sommer im Krankenhaus bei Ihrer Mutter waren“, sagte
-sie. „Und weil ich gedacht habe: nicht auch das noch.“
+„Weil Sie in dem Herbst jeden zweiten Tag im Krankenhaus bei Ihrer
+Mutter waren“, sagte sie. „Und weil ich gedacht habe: nicht auch das
+noch.“
 
 ---
 
 Ich fragte nach dem Brief.
 
-„Der ist gekommen“, sagte sie sofort. „Ende Juli. Handschriftlich,
+„Der ist gekommen“, sagte sie sofort. „Ende Oktober. Handschriftlich,
 Umschlag ohne Absender, an Sie persönlich.“
 
 „Was haben Sie damit gemacht?“
@@ -4691,16 +4702,17 @@ sieben, und alle drei Jahre kommt ein Dienstleister und schreddert, was
 
 „Ja.“
 
-„Wann war der letzte?“
+„Wann ist der nächste?“
 
 Sie musste nicht nachdenken.
 
-„Februar 2024“, sagte Renate Thormählen. „Ich habe ihn selbst bestellt.
-Es war meine letzte Bestellung.“
+„Februar“, sagte Renate Thormählen. „Der letzte war im Februar 2024, den
+habe ich selbst bestellt, es war meine letzte Bestellung. Der nächste
+nimmt alles bis einschließlich 2024 mit.“
 
 Ich rechnete.
 
-Der Brief war von Ende Juli 2024.
+Der Brief ist von Ende Oktober 2024. Wir haben November.
 
 ---
 
@@ -4747,10 +4759,11 @@ Zweitens: Ich hätte diesen Karton jederzeit öffnen können. Er stand
 achtundvierzig Meter von meinem Schreibtisch entfernt, hinter einer Tür,
 zu der ich einen Schlüssel habe.
 
-Drittens, und davon werde ich nachts wach: Wenn Renate Thormählen den
-Schredder auf März statt auf Februar bestellt hätte, gäbe es diesen
-Brief nicht mehr, und ich hätte es nie erfahren, und nichts an meinem
-Leben wäre anders gewesen.
+Drittens, und davon werde ich nachts wach: In zwölf Wochen wäre er weg
+gewesen. Nicht durch eine Entscheidung, nicht durch Bosheit — durch
+einen Turnus, den jemand vor sieben Jahren auf drei Jahre festgelegt
+hat. Dann hätte ich es nie erfahren, und nichts an meinem Leben wäre
+anders gewesen.
 
 ---
 
@@ -4894,7 +4907,7 @@ bequemer als die ganze, weil man in ihr nichts machen muss.“
 
 „Ich habe angerufen. Dreimal.“
 
-„Ja“, sagte Sanne. „Im Juli 2024. Und danach zwei Jahre nicht mehr.“
+„Ja“, sagte Sanne. „Im Herbst 2024. Und danach zwei Jahre nicht mehr.“
 
 Ich wurde wütend, und ich merkte, dass ich wütend wurde, und dass die
 Wut die schnelle Sorte war, die kommt, wenn etwas stimmt.
@@ -10772,11 +10785,11 @@ diesem Heft steht auf der drittletzten Seite etwas, das ich im Sommer
 2024 geschrieben habe, mit einem anderen Stift und in einer Handschrift,
 die schneller war als meine heutige.
 
-*22.06., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
+*26.09., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
 
-*04.07., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
+*08.10., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
 
-*18.07., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
+*22.10., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
 
 Ich habe diese drei Zeilen zwei Jahre lang aufgehoben, damit ich mir das
 nicht irgendwann selbst anders erzähle.
