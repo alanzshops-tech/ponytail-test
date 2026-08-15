@@ -103,7 +103,9 @@ passiert ist.
 Um vier war ich im Büro.
 
 Frau Kuhlmann hatte den Vermerk auf den Schreibtisch gelegt, in der
-Mitte, wie sie es tut, wenn sie will, dass ich es sofort sehe.
+Mitte, wie sie es tut, wenn sie will, dass ich es sofort sehe. Sie
+führte ihn seit dem zweiten Dezember; das war die dritte Fassung, und es
+war die erste, in der etwas stand.
 
 Ich las ihn im Stehen, mit dem Mantel noch an.
 

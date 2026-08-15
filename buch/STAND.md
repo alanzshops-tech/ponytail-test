@@ -12,116 +12,156 @@ Geheimnis*
 | **Klappentext** | fertig, `00-klappentext.md` |
 | **Phase 1 (Aufbau)** | **fertig, Kapitel 1–7** |
 | **Phase 2 (Verlieben)** | **fertig, Kapitel 8–14** |
-| Phase 3 (Rückzug) | offen, Kapitel 15–21 |
+| **Phase 3 (Rückzug)** | **fertig, Kapitel 15–21** |
 | Phase 4 (Kämpfen) | offen, Kapitel 22–28 |
 
-**14 von 28 Kapiteln. 14.600 Wörter.** Die Hälfte der Kapitel, und zwar
-die erste Hälfte am Stück, bis genau auf den Mittelpunkt und einen Schritt
-darüber hinaus.
+**21 von 28 Kapiteln. 22.240 Wörter.** Drei Viertel des Buches, am
+Stück, bis auf den Tiefpunkt.
 
 ---
 
-## Was Phase 2 geleistet hat
+## Was Phase 3 geleistet hat
 
-**Der Mittelpunkt sitzt, wo er hingehört.** Kapitel 12: Leni sagt es
-selbst. Jonas findet es nicht heraus, niemand verplappert sich, es gibt
-keinen Zufall. Das ist die Bauentscheidung aus `../BAND1-STRUKTUR.md`,
-Abschnitt 4 — die Enthüllung ist die Mitte, nicht das Ende.
+**Der Bruch ist nicht die Lüge.** Das war die zentrale Umbauentscheidung
+gegenüber dem Gerüst. Im Plan stand: *Wut — er fühlt sich betrogen.*
+Das funktioniert nicht mehr, weil Kapitel 12 die Enthüllung freiwillig
+und vollständig gemacht hat. Was stattdessen trennt, ist stärker und
+gehört beiden:
 
-**Beide restlichen Missverständnisse sind aufgelöst:**
+> Sie entscheidet für ihn, was er verkraftet.
+> Er entscheidet für sie, was sie verkraftet.
 
-| | Stand nach Kapitel 14 |
+Leni sagt es in Kapitel 21 selbst, laut, in einem Satz. Damit ist der
+Tiefpunkt kein Missverständnis, das ein Gespräch auflösen würde — er ist
+ein Charakterfehler, den beide teilen. Das ist der einzige Bruch, der
+sieben weitere Kapitel trägt, ohne dass jemand dumm sein muss.
+
+**Die Kette, die dahin führt:**
+
+| Kap. | Was passiert | Wer macht den Fehler |
+|---|---|---|
+| 15 | Sie schlägt die Mappe auf. Das Laborblatt, nicht der Unterhalt, ist die Wunde. | er |
+| 16 | Jugendamt: Er lernt, dass er nur ihre Zustimmung braucht. Er reißt das Laborblatt weg — und lässt am selben Abend ihre Finanzierung prüfen. | er, unbemerkt |
+| 17 | Fieberkrampf, Kinderklinik. Er ist „Begleitperson". Emil will nur zu ihm. | niemand |
+| 18 | Zwanzig Minuten beim Jugendamt. Am selben Nachmittag: Die Bank verkauft ihre Forderung. | — |
+| 19 | Sie weiß es seit dem 4. Dezember und sagt es ihm neunzehn Tage lang nicht. | sie |
+| 20 | Er kauft die Forderung am 22.12. um 17:40 — privat, mit eigenem Geld. Und sagt beiläufig: *„Machen Sie es wie üblich."* | er |
+| 21 | 23.12., 9:14 Uhr: Sie erfährt es aus einem Serienbrief. Abends erzählt er ihr alles, vollständig und ehrlich — vierzehn Stunden zu spät. | beide |
+
+**Er verschweigt nichts.** Das ist wichtig und war schwer. In Kapitel 21
+sagt Jonas alle fünf Punkte, ungefragt, in der richtigen Reihenfolge,
+inklusive Kaufpreis. Es rettet ihn trotzdem nicht — weil eine
+Abtretungsanzeige um 9:14 Uhr schneller war als er. Der Leser darf ihm
+nichts vorwerfen können außer dem einen: dass er acht Tage gewartet hat.
+
+**Das Machtgefälle bleibt gelöst — durch eine Umkehrung.** Die
+gefährlichste Stelle des ganzen Tropes ist der Moment, in dem der Reiche
+das Problem der Armen mit Geld wegmacht. Genau das passiert hier, und
+das Buch nennt es beim Namen: Niklas rechnet vor, dass ein Erlass
+49.800 € Schenkungsteuer auslösen würde — Geld, das sie nicht hat. Die
+juristisch saubere Lösung (Forderung behalten, nichts einfordern) ist
+die emotional tödliche. *„Jeden Morgen würdest du dich entscheiden, es
+nicht zu tun, und ich würde jeden Morgen wissen, dass du dich
+entschieden hast."*
+
+**Sie benutzt das Kind nicht.** Leni wirft ihn raus und lässt im selben
+Atemzug Anerkennung, Sorgeerklärung und Umgang unangetastet: *„Das ist
+seins. Nicht deins."* Ohne diesen Satz wäre Phase 4 nicht mehr zu
+retten, und die Heldin wäre weg.
+
+**Die Brüder haben geliefert.** Niklas (Kap. 14, 20) ist der einzige,
+der Jonas ins Gesicht sagt, was er tut — zweimal, beide Male vergeblich.
+Bastian tritt in Kapitel 20 auf, sagt den saubersten Satz des Buches
+(*„Ein Geschenk kann man ablehnen"*) und nimmt seinen Band-4-Faden mit:
+*„Was Eigenes. Frag mich im Sommer. Und sag den anderen nicht, dass ich
+hier war."*
+
+**Frau Kettler** hat zweimal recht behalten, beide Male vorher: *„So
+einer fängt irgendwann an zu regeln"* (Kap. 13) und *„Sie machen es
+schon wieder"* (Kap. 19).
+
+---
+
+## Was ich korrigiert habe
+
+**Die Zeitlinie war kaputt.** Kapitel 12 nannte einen Ultraschall vom
+14.08.2024 und einen Geburtstag am 7. März — das geht rechnerisch nicht
+zusammen, und Kapitel 3 sprach von „zwei Jahren und vier Monaten". Jetzt
+festgelegt und im ganzen Text durchgezogen:
+
+| | |
 |---|---|
-| Die abgewimmelten Anrufe | aufgelöst in Kapitel 7 |
-| Der unbeantwortete Brief | aufgelöst in Kapitel 12 — die Schwangerschaft stand auf der **dritten** Seite |
-| Der Satz über Kinder | aufgelöst in Kapitel 12 — *„Nicht solange die Firma so an mir hängt"* |
-| Das Kind | **enthüllt, Kapitel 12** |
+| Hochzeit in Travemünde | August 2024 |
+| Erster Ultraschall | 10.10.2024 |
+| Emil geboren | 8. Mai 2025 |
+| Erzählte Gegenwart | September – Dezember 2026 |
 
-Damit ist ab Kapitel 15 nichts mehr durch Nichtwissen im Weg. Der Rest
-des Buches trägt sich aus dem, was die beiden **tun**, nicht aus dem, was
-sie nicht wissen. Das ist der Grund, warum das Buch nach 50 % nicht
-weggelegt wird.
-
-**Jonas wird nicht wütend — noch nicht.** Das war die riskanteste
-Entscheidung in Phase 2. Die Wut steht im Gerüst als erster Beat von
-Phase 3, und sie kommt auch, aber nicht in derselben Szene wie die
-Enthüllung. Grund: Vierzig Fotos in einem Album aus dem Drogeriemarkt
-schlagen in dieser Sekunde jedes Gefühl von Betrug. Er kündigt sie an
-(*„Ich werde es vielleicht morgen sein"*) — das ist die geladene Waffe
-für Phase 3.
-
-**Der eigentliche Bruch ist ein anderer, und er ist besser.** Nicht die
-Lüge trennt die beiden, sondern seine Reaktion darauf: Elf Stunden nach
-dem Fotoalbum ruft er den Anwalt an. Kapitel 14 endet mit derselben
-Handbewegung wie Kapitel 7 — er legt eine Mappe auf denselben Tisch. Im
-Oktober war das der Beweis, dass er ihr glaubt. Im November steht
-**REINHARDT / VOSS** auf dem Etikett.
-
-**Nebenfiguren, die arbeiten:**
-- **Renate Reinhardt** (Kap. 11) sagt den Satz, der das Buch erklärt:
-  *„Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt hat,
-  jemanden zu brauchen."*
-- **Frau Kettler** (Kap. 13) sagt voraus, was in Kapitel 14 passiert:
-  *„So einer fängt irgendwann an zu regeln… Es fühlt sich nur von außen
-  genauso an wie wegnehmen."*
-- **Theo** (Kap. 10) gibt seinen Köder für Band 2 selbst preis: seit vier
-  Monaten verheiratet, hat es niemandem gesagt.
-- **Niklas** (Kap. 14) ist der einzige, der Jonas ins Gesicht sagt, was er
-  tut. Sein Band-3-Faden (er berät die Gegenseite) ist in Kapitel 4
-  gelegt und hier nicht angefasst.
-
-**Emil ist kein Requisit.** Er gibt Leuten Dinge — Steine am Elbstrand
-(Kap. 9), ein zerdrücktes Stück Banane an seinen Vater (Kap. 13). Beim
-zweiten Mal weiß der Leser, was das bedeutet, und Jonas nicht.
+Emil ist damit durchgehend achtzehn Monate alt und wird im Mai zwei.
+Kapitel 17 nennt das Geburtsdatum bei der Klinikaufnahme laut — es muss
+ab jetzt stimmen.
 
 ---
 
 ## Das Strukturproblem besteht weiter
 
-Schnitt jetzt **1.043 Wörter** pro Kapitel. Geplant waren 2.000–2.500.
-Hochgerechnet landet das Buch bei **~29.000 Wörtern** — Novellenlänge,
-nicht Romanlänge.
+Schnitt jetzt **1.059 Wörter** pro Kapitel. Geplant waren 2.000–2.500.
+Hochgerechnet: **~29.600 Wörter** — Novellenlänge.
 
-Die Empfehlung von gestern gilt unverändert:
+Das ändert sich in Phase 4 nicht mehr, und ich strecke dafür keine
+Szene. Die Entscheidung, die danach ansteht:
 
-1. **Phase 1 und 2 ausbauen** — jede vorhandene Szene bekommt mehr Raum:
-   Sinneseindrücke, das Café als Ort, Nebenfiguren.
-2. **Ab Phase 3 mehr, kürzere Kapitel** statt längerer.
+1. **Als Novelle veröffentlichen.** Bei KU wird nach gelesenen Seiten
+   bezahlt, nicht nach Verkäufen — kurze Bände werden häufiger
+   durchgelesen. 30.000 Wörter sind für Band 1 einer Reihe vertretbar,
+   müssen aber im Titel/Blurb ehrlich als Novelle erkennbar sein, sonst
+   kommen Ein-Stern-Bewertungen wegen der Länge.
+2. **Auf Romanlänge ausbauen.** Nicht durch längere Kapitel, sondern
+   durch neue Szenen in Phase 1 und 2: das Café als Ort, die Stammkunden,
+   Lenis Großmutter, Jonas' Alltag in der Firma. Das ist ein zweiter
+   Durchgang von etwa derselben Größe wie der erste.
 
-Was ich in Phase 2 **nicht** gemacht habe: die Kapitel künstlich
-strecken. Ein Kapitel, das 1.000 Wörter braucht, wird durch 1.000
-weitere nicht besser, sondern schlechter. Ausbauen heißt: neue Szenen
-dazwischen, nicht dieselben Szenen länger.
+Meine Empfehlung: erst Phase 4 fertig schreiben, dann entscheiden. Ein
+vollständiges Buch mit 30.000 Wörtern ist ein Buch. Ein halbes mit
+60.000 ist keins.
 
 ---
 
 ## Wie es weitergeht
 
-**Phase 3, Kapitel 15–21.** Sie beginnt in der Sekunde, in der Kapitel 14
-aufhört: Leni schlägt die Mappe auf.
+**Phase 4, Kapitel 22–28.** Die Beats stehen in `../BAND1-STRUKTUR.md`,
+Abschnitt 4, und sie passen nach dem Umbau von Phase 3 noch genauer als
+vorher:
 
-Die Beats stehen in `../BAND1-STRUKTUR.md`, Abschnitt 4. Die Reihenfolge
-ist gegenüber dem Gerüst leicht verschoben, weil Kapitel 14 den Anwalt
-vorgezogen hat — Niklas' Auftritt war für Kapitel 14 geplant und steht
-dort, aber der Vaterschaftstest ist **nicht** die juristische
-Notwendigkeit, für die Jonas ihn hält. Niklas sagt das auch (Anerkennung
-beim Jugendamt, zwanzig Minuten, kostenlos, einzige Bedingung ist ihre
-Zustimmung). Jonas will den Test trotzdem, „der Ordnung halber". Genau
-das ist der Tiefpunkt-Motor: Er behandelt sein Kind wie eine Prüfung.
+- **Erkenntnis Jonas** — er hat gehandelt wie sein Vater: verwaltet statt
+  gefragt. Das ist jetzt wörtlich vorbereitet (*„Man wartet, Junge"*,
+  Kap. 10; *„Ihn allein zurechtkommen lassen"*, Kap. 11).
+- **Erkenntnis Leni** — sie hat ihn nie wählen lassen. Sie hat es in
+  Kapitel 21 schon ausgesprochen; in Phase 4 muss sie danach handeln.
+- **Große Geste** — er zieht das Kaufangebot zurück und baut um ihr Haus
+  herum. Dazu kommt jetzt die schwerere Aufgabe: die Forderung wieder
+  loszuwerden, **ohne** sie zu beschenken und **ohne** sie an Kellermann
+  zu geben. Der saubere Weg existiert und kostet ihn Geld und Gesicht.
+- **Sie geht den Schritt** — sie bittet ihn zum ersten Mal um etwas.
+- **Zusammen** — kein Antrag, ein Abendessen zu dritt.
+- **Ausblick** — Theos Frau ruft an. → Band 2.
+
+Offene Fäden, die in Phase 4 auflaufen müssen: die Frist zum
+**15. Januar**, der Beirat und **Wendland**, **Kellermann** als reale
+Alternative, Emils **„Papa"**, und der Zettel in der Schranktür, den
+Leni erst im Februar abnimmt.
 
 ---
 
 ## Drei Dinge, die du entscheiden musst
 
-**Explizitheit.** Der Text ist weiterhin geschlossen. In Phase 2 gab es
-bewusst keine gemeinsame Nacht — die Enthüllung kam vorher, und eine
-Liebesnacht kurz vor „Emil ist deiner" hätte die Heldin beschädigt. Die
-Stelle ist jetzt in Phase 4, nach der großen Geste. Das Gerüst trägt
-beide Fassungen, die Entscheidung hat Folgen für Kategorie, Cover und
+**Explizitheit.** Der Text ist geschlossen. Die einzige mögliche Stelle
+liegt jetzt in Phase 4, nach der großen Geste. Das Gerüst trägt beide
+Fassungen; die Entscheidung hat Folgen für Kategorie, Cover und
 Erwartung.
 
-**Namen prüfen.** „Reinhardt Immobilien Hamburg" und „Café Voss" gegen
-reale Firmen abgleichen, bevor irgendetwas hochgeladen wird.
+**Namen prüfen.** „Reinhardt Immobilien Hamburg", „Café Voss",
+„Hanseatische Volksbank" und „Kellermann" gegen reale Firmen abgleichen,
+bevor irgendetwas hochgeladen wird.
 
 **KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
 geschrieben und bei KDP **anzugeben**. Nicht offengelegte KI-Inhalte
@@ -129,12 +169,14 @@ führen zur Entfernung, im Wiederholungsfall zur Kontosperre samt
 gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Struktur, Recherche und
 Lektorat fallen nicht darunter, weil sie nicht Buchinhalt werden.
 
-**Rechtliches im Text.** Die deutschen Angaben in Kapitel 14
-(Sorgerecht bei nicht verheirateten Eltern, Vaterschaftsanerkennung mit
-Zustimmung der Mutter, Düsseldorfer Tabelle) stimmen nach allgemeiner
-Rechtslage, sind aber ungeprüft im Einzelfall. Für einen Roman reicht
-das; falls du es genauer willst, gehört ein Blick eines Fachanwalts in
-die Endkorrektur.
+**Rechtliches im Text.** Die deutschen Angaben stimmen nach allgemeiner
+Rechtslage und sind bewusst prüfbar gehalten: Sorgerecht bei nicht
+verheirateten Eltern und Beurkundung beim Jugendamt (Kap. 16, 18),
+Kündigung und Verwertung einer Grundschuld (Kap. 19), Abtretungsanzeige
+nach § 409 BGB (Kap. 21), Schenkungsteuer Steuerklasse III mit 20.000 €
+Freibetrag und 30 % (Kap. 20). Für einen Roman reicht das; ein Blick
+eines Fachanwalts in die Endkorrektur wäre trotzdem gut, weil das Buch
+mit diesen Zahlen argumentiert statt sie nur zu erwähnen.
 
 ---
 
