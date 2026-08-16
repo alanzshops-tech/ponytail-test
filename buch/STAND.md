@@ -10,21 +10,26 @@ Geheimnis*
 | | |
 |---|---|
 | Kapitel | **58 + Epilog** |
-| Wörter Fließtext | **69.603** |
+| Wörter Fließtext | **71.273** |
 | Schnitt je Kapitel | 1.171 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
 | Strukturprüfung | `manuskript.py`: **keine Beanstandungen** |
-| EPUB | `reinhardt-1.epub`, 658 kB, 61 Abschnitte, Cover eingebettet |
+| EPUB | `reinhardt-1_KDP_final.epub`, 663 kB, 61 Abschnitte, Cover eingebettet · Stand vor dem Lektorat: `reinhardt-1_original.epub` |
 
-**Die Länge ist damit erledigt.** Gemessen (`../KDP-NISCHEN.md`, 19
-Produktseiten): Median 291 bis 337 Druckseiten, also **65.000 bis 82.000
-Wörter**. Das Manuskript liegt bei 69.603, also im Band.
+**Die Länge ist nicht erledigt.** Hier stand bis zum 16.08., sie sei es
+— auf Grundlage eines Laufs vom 14.08. mit 291 bis 337 Druckseiten,
+woraus ein Zielband von 65.000 bis 82.000 Wörtern abgeleitet wurde. Der
+Lauf vom **16.08.** misst dieselbe Nische neu: **Median 337 Seiten,
+Spanne 312 bis 398**, an vier Titeln mit Angabe.
 
-Das ist eine Aussage über die Länge und über nichts sonst. Ein Buch im
-Zielband verkauft sich nicht deshalb; die Länge ist nur kein Argument
-mehr dagegen — weder bei der Seitenvergütung in Kindle Unlimited noch in
-den Bewertungen.
+71.273 Wörter sind bei 250 Wörtern je Druckseite rund **285 Seiten** —
+unter dem kürzesten dort gemessenen Spitzentitel. Es fehlen rund 6.700
+Wörter bis zur Unterkante, 13.000 bis zum Median.
+
+Das ist eine Aussage über die Länge und über nichts sonst. Sie zählt
+trotzdem, weil Kindle Unlimited nach gelesenen Seiten zahlt. Ausführlich
+in `LEKTORAT.md`, Abschnitt F.
 
 ### Wie es gewachsen ist
 
@@ -35,7 +40,7 @@ den Bewertungen.
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
 | Block 3 | 56 | 65.699 |
-| **Block 4 (Ende + Wärme)** | **59** | **69.603** |
+| **Block 4 (Ende + Wärme)** | **59** | **71.273** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches
