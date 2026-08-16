@@ -135,9 +135,9 @@ Beim Zurückbringen um sechs stand sie schon in der Tür.
 „Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
 habe.“
 
-Sie hat gelächelt, und ich habe zum ersten Mal seit dem
-dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
-vorbei ist, sondern nur anders.
+Sie hat gelächelt, und ich bin auf dem Rückweg an einer roten Ampel
+stehen geblieben und habe gedacht, dass das hier vielleicht nicht vorbei
+ist, sondern nur anders.
 
 Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
 hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein

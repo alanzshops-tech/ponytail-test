@@ -177,8 +177,8 @@ es zugelassen hätte.
 
 ---
 
-Ich sah mich um, während sie hinter den Tresen zurückging, und ich sah
-mich zum ersten Mal richtig um.
+Während sie hinter den Tresen zurückging, sah ich mich um. Richtig um,
+meine ich — beim Reinkommen hatte ich nur die Decke angesehen.
 
 Zwölf Tische. Ein Boden aus alten Fliesen, schwarz und weiß, in einer
 Ecke ausgebessert mit welchen, die fast passen. Eine Vitrine, in der um

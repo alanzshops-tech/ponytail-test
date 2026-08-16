@@ -169,6 +169,6 @@ Ich habe es für einen Zufall gehalten. Kinder haben Fieber, ständig, das
 hat mit gar nichts zu tun, und jede Kinderärztin sagt einem das.
 
 Ich schreibe es trotzdem hin, weil ich in dieser Nacht um zwei Uhr im
-Kinderzimmer saß und zum ersten Mal seit sehr langer Zeit gedacht habe:
+Kinderzimmer saß und lange nichts gedacht habe und dann das hier:
 
 *Ich will nicht mehr die Einzige sein, die wach ist.*

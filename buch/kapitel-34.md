@@ -52,8 +52,7 @@ Bildschirm gelegt und sie angesehen.
 
 Rückabtretung. Erlass. Brief.
 
-Und dann habe ich zum ersten Mal in diesem Winter etwas begriffen, das
-ich seitdem nicht mehr loswerde:
+Und dann habe ich etwas begriffen, das ich seitdem nicht mehr loswerde:
 
 **Alle drei sind dasselbe.** Alle drei sind ein Mann, der um halb drei
 nachts allein in einem Büro sitzt und ein Problem so lange bearbeitet,

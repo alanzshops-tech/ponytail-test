@@ -178,8 +178,8 @@ Davon Wertminderung des dienenden Grundstücks 61.000 €,
 Vorteilsausgleich 207.000 €.
 
 Ich saß auf dem Hocker im Backraum, mit mehligen Händen, und rechnete
-das, was ich seit einer Woche im Kopf gerechnet hatte, zum ersten Mal
-mit einer echten Zahl.
+das, was ich seit einer Woche im Kopf gerechnet hatte, mit einer echten
+Zahl darunter.
 
 268.000 minus die Bank.
 

@@ -74,8 +74,8 @@ Bohrpfähle machen kein Hämmern. Sie machen ein Schlagen, das durch den
 Boden kommt und in den Zähnen ankommt, und man hält es in einem Café
 drei Tage lang nicht aus.
 
-Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
+Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem
+Becher Kaffee aus meinem Laden, und sah zu, wie die Maschine arbeitete.
 
 „Der Baum kommt an die Stelle“, sagte er und zeigte.
 

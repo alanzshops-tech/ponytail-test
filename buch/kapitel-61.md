@@ -148,12 +148,11 @@ gefragt hat.
 
 Ich habe die Rolle hingelegt.
 
-Und dann habe ich zum ersten Mal seit sieben Monaten begriffen, dass er
-gar nicht fragen *wird*. Nicht aus Feigheit. Weil ich ihm im März in
-einem neunzig Zentimeter breiten Gang gesagt habe, dass ich es sage,
-wenn es ein anderer Tag ist, und weil dieser Mann sich seit sieben
-Monaten an alles hält, was ich sage, auch an das, was ich unbedacht
-sage.
+Und dann habe ich begriffen, dass er gar nicht fragen *wird*. Nicht aus
+Feigheit. Weil ich ihm im März in einem neunzig Zentimeter breiten Gang
+gesagt habe, dass ich es sage, wenn es ein anderer Tag ist, und weil
+dieser Mann sich seit sieben Monaten an alles hält, was ich sage, auch
+an das, was ich unbedacht sage.
 
 Er wartet auf einen Satz von mir.
 
@@ -321,9 +320,8 @@ Tage, über die in diesem Kapitel nichts steht.
 Das ist Absicht. Einer davon war ein Samstag.
 
 Ich habe an diesem Findling gesessen, mit vier nassen Steinen in der
-Manteltasche, neben einem Mann, der sechs hatte, und habe zum ersten
-Mal seit sechs Jahren nicht daran gedacht, wie viele Bleche morgen
-müssen.
+Manteltasche, neben einem Mann, der sechs hatte, und eine halbe Stunde
+lang nicht daran gedacht, wie viele Bleche morgen müssen.
 
 Frau Kettler hat mich am Montag angesehen und gesagt: „Sie haben heute
 nichts umgestellt.“
