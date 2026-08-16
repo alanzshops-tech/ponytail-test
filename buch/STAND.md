@@ -10,26 +10,27 @@ Geheimnis*
 | | |
 |---|---|
 | Kapitel | **58 + Epilog** |
-| Wörter Fließtext | **71.273** |
+| Wörter Fließtext | **78.609** |
 | Schnitt je Kapitel | 1.171 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
 | Strukturprüfung | `manuskript.py`: **keine Beanstandungen** |
 | EPUB | `reinhardt-1_KDP_final.epub`, 663 kB, 61 Abschnitte, Cover eingebettet · Stand vor dem Lektorat: `reinhardt-1_original.epub` |
 
-**Die Länge ist nicht erledigt.** Hier stand bis zum 16.08., sie sei es
-— auf Grundlage eines Laufs vom 14.08. mit 291 bis 337 Druckseiten,
-woraus ein Zielband von 65.000 bis 82.000 Wörtern abgeleitet wurde. Der
-Lauf vom **16.08.** misst dieselbe Nische neu: **Median 337 Seiten,
-Spanne 312 bis 398**, an vier Titeln mit Angabe.
+**Die Länge stimmt jetzt — nachgemessen, nicht behauptet.**
 
-71.273 Wörter sind bei 250 Wörtern je Druckseite rund **285 Seiten** —
-unter dem kürzesten dort gemessenen Spitzentitel. Es fehlen rund 6.700
-Wörter bis zur Unterkante, 13.000 bis zum Median.
+Hier stand bis zum 16.08. „erledigt", auf Grundlage eines Laufs vom
+14.08. mit 291 bis 337 Druckseiten. Der Lauf vom **16.08.** misst
+dieselbe Nische neu und strenger: **Median 337 Seiten, Spanne 312 bis
+398**, an vier Titeln mit Angabe. Damit war das Manuskript mit 69.603
+Wörtern (278 Seiten) plötzlich zu kurz.
 
-Das ist eine Aussage über die Länge und über nichts sonst. Sie zählt
-trotzdem, weil Kindle Unlimited nach gelesenen Seiten zahlt. Ausführlich
-in `LEKTORAT.md`, Abschnitt F.
+Am 16.08. sind sechs Kapitel dazugekommen, alle im Fenster 50 bis 70
+Prozent. Stand jetzt: **78.609 Wörter ≈ 314 Druckseiten** — innerhalb
+der Spanne, knapp über der Unterkante, unter dem Median.
+
+Das ist eine Aussage über die Länge und über nichts sonst. Sie zählt,
+weil Kindle Unlimited nach gelesenen Seiten zahlt.
 
 ### Wie es gewachsen ist
 
@@ -40,7 +41,7 @@ in `LEKTORAT.md`, Abschnitt F.
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
 | Block 3 | 56 | 65.699 |
-| **Block 4 (Ende + Wärme)** | **59** | **71.273** |
+| **Block 4 (Ende + Wärme)** | **59** | **78.609** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches

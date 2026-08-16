@@ -166,11 +166,11 @@ Kategorie steht — das verschenkt ein Feld.
 
 | # | Keyword | Warum |
 |---|---|---|
-| 1 | `alleinerziehende mutter liebesroman` | Steht nirgends sonst; beschreibt Leni über 59 Kapitel |
+| 1 | `alleinerziehende mutter liebesroman` | Steht nirgends sonst; beschreibt Leni über 65 Kapitel |
 | 2 | `hamburg speicherstadt roman` | Ort ist im Buch eine Figur, kommt in keinem Metafeld vor |
 | 3 | `slow burn liebesroman deutsch` | Beinahe-Kuss bei 87 %, Liebesnacht bei 95 % — trifft zu und ist eine Suchphrase |
 | 4 | `reicher mann normale frau` | Umgangssprachliche Suchform der Nische, ohne „Milliardär" zu doppeln |
-| 5 | `liebesroman mit kind` | Emil kommt in 46 von 59 Kapiteln vor |
+| 5 | `liebesroman mit kind` | Emil kommt in 46 von 65 Kapiteln vor |
 | 6 | `familiengeheimnis roman deutsch` | Zweiter Strang: der Vater, 1997, der graue Ordner |
 | 7 | `liebesroman reihe band 1 abgeschlossen` | Fängt die Sorge vor Cliffhangern ab, die in dieser Nische Ein-Stern-Bewertungen erzeugt |
 

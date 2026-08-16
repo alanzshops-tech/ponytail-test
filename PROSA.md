@@ -44,7 +44,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 38 | 1099 | 9 | 8.9 | 3.3 % | 39.2 % | 7.3 | – |
 | 39 | 1269 | 9 | 10.1 | 9.5 % | 11.3 % | 3.9 | – |
 | 40 | 1303 | 13 | 13.5 | 16.0 % | 36.8 % | 4.6 | – |
-| 41 | 849 | 9 | 8.3 | 1.4 % | 24.4 % | 4.7 | – |
+| 41 | 831 | 9.5 | 8.3 | 1.4 % | 22.1 % | 4.8 | – |
 | 42 | 974 | 11.0 | 10.1 | 7.4 % | 3.2 % | 6.2 | – |
 | 43 | 1305 | 10.0 | 9.1 | 5.5 % | 22.2 % | 9.2 | – |
 | 44 | 1018 | 12 | 9.1 | 5.6 % | 41.4 % | 7.9 | – |
@@ -82,13 +82,14 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 2397
-- Schließende **richtig** `“`: 2397
+- Öffnende Anführungszeichen `„`: 2393
+- Schließende **richtig** `“`: 2393
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 9
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

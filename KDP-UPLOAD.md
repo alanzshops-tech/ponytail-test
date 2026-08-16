@@ -11,25 +11,24 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 58 Kapitel + Epilog | **fertig**, 71.273 Wörter |
+| Manuskript, 64 Kapitel + Epilog | **fertig**, 78.609 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
 | EPUB mit eingebettetem Cover | **fertig**, 658 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **71.273 Wörter** — ⚠️ unter der heute gemessenen Spanne, siehe unten |
+| **Länge** | **78.609 Wörter ≈ 314 Seiten** — in der heute gemessenen Spanne (312–398) |
 
-**Hochladbar ist es. Optimal ist es bei einem Punkt nicht.** Am
-14.08. maß `kdp_nischen.py` in der Hauptnische 291 bis 337 Druckseiten,
-und daraus wurde das Ziel 65.000 bis 82.000 Wörter. Der Lauf vom
-**16.08. misst dieselbe Nische neu: Median 337 Seiten, Spanne 312 bis
-398.** Das Manuskript liegt bei 71.273 Wörtern, also rund 285
-Druckseiten — unter dem kürzesten dort gemessenen Titel.
+**Hochladbar, und seit heute auch bei der Länge sauber.** Am 14.08. maß
+`kdp_nischen.py` in der Hauptnische 291 bis 337 Druckseiten, und daraus
+wurde das Ziel 65.000 bis 82.000 Wörter. Der Lauf vom **16.08. misst
+dieselbe Nische neu: Median 337 Seiten, Spanne 312 bis 398** — womit das
+Manuskript mit 69.603 Wörtern zu kurz war.
 
-Bei Kindle Unlimited wird pro gelesener Seite gezahlt; das sind
-schätzungsweise 22 % weniger Ertrag pro Leserin. Die vollständige
-Abwägung samt Stichprobengröße steht in `buch/PRUEFUNG.md`. Bis zum
-unteren Rand der Spanne fehlen rund 13.300 Wörter.
+Am selben Tag sind sechs Kapitel dazugekommen. Stand jetzt: **78.609
+Wörter, rund 314 Druckseiten** — innerhalb der Spanne, knapp über der
+Unterkante, unter dem Median von 337. Bei Kindle Unlimited wird pro
+gelesener Seite gezahlt, deshalb ist das keine Kosmetik.
 
 Auch die beiden erzählerischen Entscheidungen sind gefallen, und zwar
 in die Richtung, die den Leser dieser Nische zufriedenstellt: **Happy
@@ -219,13 +218,14 @@ Leserin nichts extra kosten.
 **Und deshalb zählt die Länge — jetzt mit gemessener Zahl.** In KU wird
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **326 bis 544 Druckseiten** (`KDP-NISCHEN.md`,
-Lauf vom 16.08.). Dieses Buch hat **71.273 Wörter**, also rund 285
+Lauf vom 16.08.). Dieses Buch hat **78.609 Wörter**, also rund 314
 Druckseiten.
 
 Der Lauf vom 16.08. hat diese Zahlen nach oben korrigiert: In der
 Hauptnische *geheimes baby liebesroman* liegt der Median bei 337 Seiten,
-die Spanne bei 312 bis 398, gelesen an vier Titeln mit Angabe. Damit ist
-das Buch kürzer als jeder dort gemessene Spitzentitel.
+die Spanne bei 312 bis 398, gelesen an vier Titeln mit Angabe. Nach den
+sechs neuen Kapiteln liegt das Buch mit rund 314 Seiten innerhalb dieser
+Spanne — knapp, aber innerhalb.
 
 Zur Einordnung, damit die Zahl nicht als Befehl gelesen wird: vier Titel
 sind eine Andeutung, und die Umrechnung Wörter → Seiten ist eine

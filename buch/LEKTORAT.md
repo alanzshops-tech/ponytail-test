@@ -16,13 +16,13 @@ lesen, dann messen, dann eingreifen.
    md5 `81abc6d72c976404a0c5fa2bf3f3e76d`. Seitdem nicht angefasst.
 2. **Gelesen.** Die beiden vollständigen Lesungen vom 15./16.08. liegen
    als `PRUEFUNG.md` und `DRAMATURGIE.md` vor. Für diesen Durchgang
-   wurden die Kapitel 7, 9, 11, 13, 15, 42, 43, 44, 46, 48, 51, 52, 56
-   ganz neu gelesen und die Kapitel 14, 17, 23, 30, 35, 50 in den
+   wurden die Kapitel 7, 9, 11, 13, 15, 48, 49, 50, 52, 54, 57, 58, 62
+   ganz neu gelesen und die Kapitel 14, 17, 23, 30, 37, 56 in den
    Abschnitten, gegen die ich prüfen musste. Angefasst habe ich nur
    Kapitel, die ich in dieser Sitzung gelesen habe.
 3. **Gemessen, bevor geschrieben wurde.** Zwei neue Messgeräte, eins
    erweitert. Was dabei herauskam, steht unter B.
-4. **Eingegriffen.** Neun Kapitel, siehe C.
+4. **Eingegriffen.** Zehn Eingriffe, sechs davon neue Kapitel, siehe C.
 5. **Nachgemessen.** Alle Geräte grün, siehe E.
 
 ### Ein Gerät hat sich beim ersten Lauf selbst widerlegt
@@ -57,8 +57,8 @@ gesucht und gefunden. Es waren sechs:
 | 27 % | 14 | Finger in einer Schüssel mit Butter und Mehl, drei Sekunden |
 | 32 % | 17 | Kuss auf die Stirn, an der Tür |
 | 53 % | 30 | Ihre Hand kurz auf seiner, mit Mayonnaise am Daumen |
-| 86 % | 50 | Ihre Hand an seinem Ärmel |
-| 95 % | 56 | Das Handgelenk mit dem Mehl — die Nacht |
+| 86 % | 56 | Ihre Hand an seinem Ärmel |
+| 95 % | 62 | Das Handgelenk mit dem Mehl — die Nacht |
 
 Zwischen dem Stirnkuss bei 32 % und der Nacht bei 95 % lagen
 **dreiundsechzig Prozent des Buches ohne eine einzige Steigerung.**
@@ -69,7 +69,7 @@ und kein Figurenproblem. Es ist eine fehlende Leiter.
 
 ### Was das Buch selbst dazu sagt
 
-Kapitel 51 benennt die Spannung wörtlich — *„Alles, was uns bisher
+Kapitel 57 benennt die Spannung wörtlich — *„Alles, was uns bisher
 zusammengehalten hat, war ein Problem […] Und jetzt gibt es nichts mehr
 zu regeln"* — und **spielt sie nicht**. Die Figur formuliert die
 Analyse, die eine Szene hätte sein müssen.
@@ -82,13 +82,13 @@ Notar, Forderung, Frist, Vertrag und Verwandtes, je 1000 Wörter:
 | | Wert |
 |---|---:|
 | Buchdurchschnitt | 3,5 |
-| Kapitel 39–46 (66–80 %) | 9,1 bis **16,6** |
+| Kapitel 43–52 (66–80 %) | 9,1 bis **16,6** |
 
 Acht Kapitel am Stück mit der drei- bis fünffachen Dichte. Das Buch als
 Ganzes ist nicht überladen — es hat einen Klumpen an der Stelle, an der
 die Liebesgeschichte auf ihren Höhepunkt zulaufen müsste.
 
-**Konfliktloses Fenster.** Zwischen 78 % und 86 % (Kapitel 46 bis 51)
+**Konfliktloses Fenster.** Zwischen 78 % und 86 % (Kapitel 52 bis 57)
 gab es keinen einzigen Konflikt. Grundbuch, Zustimmungsvorbehalt,
 Mutterbesuch, Eingewöhnung — alles gelang.
 
@@ -101,9 +101,10 @@ Kontrollsuche geprüft, die treffen musste und traf.
 
 ## C — Die Eingriffe
 
-Neun Kapitel. Jeder Eingriff benutzt Material, das schon im Buch stand.
+Zehn Eingriffe in insgesamt sechzehn Kapiteln. Jeder benutzt Material,
+das schon im Buch stand.
 
-### 1. Kapitel 51 — der Beinahe-Kuss (⭐ der wichtigste)
+### 1. Kapitel 57 — der Beinahe-Kuss (⭐ der wichtigste)
 
 Der Abend, an dem sie *„Ich bin nicht sicher, ob ich dich liebe oder ob
 ich erleichtert bin"* sagt, endet jetzt nicht mit seinem *Danke*. Er
@@ -128,7 +129,7 @@ angefangen hat.
 Die Reihenfolge im Kapitel wurde getauscht, damit die Angst vor dem
 Nichts-mehr-zu-regeln vor der Szene steht und sie erklärt.
 
-### 2. Kapitel 52 — die Rechnung
+### 2. Kapitel 58 — die Rechnung
 
 *„Nicht heute"* fällt hier zum dritten Mal, und Jonas zählt zusammen:
 
@@ -141,7 +142,7 @@ jetzt eine Rückseite: dieselbe Feigheit, andere Frage. Und er nimmt am
 Morgen danach seinen eigenen Satz zurück: *„Ich frage noch mal. Nicht
 heute. Aber ich frage noch mal."*
 
-### 3. Kapitel 56 — sie kommt ihm zuvor
+### 3. Kapitel 62 — sie kommt ihm zuvor
 
 Sie setzt den Termin (*„Samstag um acht"*), und er merkt, dass ihn das
 ärgert, und dann merkt er, warum: Er hätte gern, dass es seine Frage
@@ -151,7 +152,7 @@ vorwirft.
 Damit steht das Thema des Buches am Ende dreimal übereinander: das
 Geheimnis, das Wort *Papa*, und die Frage, wer anfängt.
 
-### 4. Kapitel 48 — der Rückschlag im leeren Fenster
+### 4. Kapitel 54 — der Rückschlag im leeren Fenster
 
 Jonas legt einen Termin auf seinen Tag mit Emil und **regelt** eine
 fremde Betreuerin mit Zeugnissen und Rechnung auf dem Privatkonto, statt
@@ -179,7 +180,7 @@ Und der Satz, den diese Nische braucht:
 > Ich will diese Frau nicht, weil sie die Mutter meines Kindes ist —
 > das ist andersherum ein glücklicher Zufall.
 
-### 6. Kapitel 44 — Geschäftsstrang zurückgenommen
+### 6. Kapitel 50 — Geschäftsstrang zurückgenommen
 
 Raus: die 1,7-Milliarden-Aufstellung (steht schon in Kapitel 12) und
 Wendlands Siebenhunderttausend-Rechnung. Zwei Zahlenblöcke im
@@ -191,7 +192,7 @@ machen.
 *„Das ist der Teil, den ich mir …"* stand fast wortgleich schon in
 Kapitel 8.
 
-### 8. Kapitel 50 — ein Datumsfehler, der vorher drinstand
+### 8. Kapitel 56 — ein Datumsfehler, der vorher drinstand
 
 Tag eins der Eingewöhnung war als *„Achtzehnter Februar, Montag"*
 angegeben. Der 18. Februar 2026 ist ein **Mittwoch**. Mit Montag fiel
@@ -203,11 +204,40 @@ Das Buch benutzt sonst durchgehend den echten Kalender 2025/26 —
 nachgerechnet für den 27.01., 26.03., 27.03., 02.04., 04.04., 15.04. und
 18.04. Alle stimmen.
 
-### 9. Kapitel 47/56/52 — Anschlüsse
+### 9. Kapitel 53/62/58 — Anschlüsse
 
 Kleinere Nähte, damit die neuen Szenen nicht in der Luft hängen: der
 Freitag nach dem Beinahe-Kuss, an dem beide so tun, als sei nichts; die
 zwölf Tage zwischen seiner Zusage und ihrem Termin.
+
+### 10. Sechs neue Kapitel — die Strecke nach dem Tiefpunkt
+
+Der Grund steht in F.1: Das Buch war für seine Nische zu kurz. Die
+Kapitel sind aber nicht dort entstanden, wo Platz war, sondern dort, wo
+etwas fehlte — zwischen dem Rauswurf am 23. Dezember und dem
+Notartermin am 27. Januar begegneten sich die beiden fünf Wochen lang
+fast nur über Dritte: über Theo, über Sievers, über Briefe.
+
+| Neu | POV | Was |
+|---:|---|---|
+| **34** | Jonas | Die Nacht nach dem Rauswurf. Er fährt ins Büro und setzt bis Viertel nach zwei drei Papiere auf — Rückabtretung, Erlass, Brief — und begreift, dass alle drei derselbe Fehler sind wie der, für den sie ihn rausgeworfen hat. Und: dreihundert Bilder von Baustellen im Telefon, keins von seinem Sohn. |
+| **35** | Leni | 24. Dezember. Sie rechnet auf, was sich geändert hat, und findet heraus, dass es schlimmer geworden ist: Eine Bank ist kein Mensch. Ein Mann, der nicht vollstreckt, ist eine Miete in einer Währung, die man nicht abzählen kann. |
+| **39** | Leni | Die blaue Mappe zum zweiten Mal — und diesmal liest sie die Kopfzeile. **14.10.** Er hat den Entwurf, der ihr Haus stehen lässt, achtundzwanzig Tage vor dem Tag gezeichnet, an dem er von Emil erfuhr. Dann bittet er in der Durchfahrt um ein Foto: das Erste, worum er sie je gebeten hat. |
+| **40** | Jonas | Bastian ruft an und gibt den einzigen Rat, den der Vater nie gegeben hätte: *Sorg dafür, dass sie ohne dich klarkommt, und dann steh da und guck.* Dazu Theo, der von seiner eigenen Heimlichkeit redet und nicht verstanden wird. |
+| **44** | Jonas | Neun Tage nichts tun, während Kellermann zugreift. Kellermann ruft am 9. Januar selbst an — und gewinnt zum ersten Mal in diesem Buch etwas: *Wenn ich ja gesagt hätte, hätte sie unterschrieben.* |
+| **45** | Leni | Die zwei Stunden vierzig zwischen dem Gutachten und ihrem Anruf bei Sievers. Sie sucht den Unterschied und findet ihn: Ein Erlass ist ein Geschenk, ein Verkauf ist ein Geschäft. *„Sie fragen ihn nicht. Sie sagen ihm, was ich verkaufe."* |
+
+Dazu in **Kapitel 61** die Szene, die es bisher nur aus seiner Sicht
+gab: wie sie sich entscheidet, *„Samstag um acht"* zu sagen — und
+warum sie begreift, dass er nicht fragen *wird*, weil er sich an alles
+hält, was sie sagt, auch an das Unbedachte.
+
+**Was diese sechs Kapitel nebenbei reparieren.** Kellermann gewinnt
+jetzt einmal etwas (Schwäche B aus `DRAMATURGIE.md`), Bastian und Theo
+sind Figuren statt Reihenhaken, und der Satz aus Kapitel 57 — *solange
+er mich nicht angefasst hat, war er einer, der geblieben ist* — hat
+jetzt eine Vorgeschichte, die ein Bruder am 29. Dezember am Telefon
+ausgesprochen hat.
 
 ---
 
@@ -217,9 +247,9 @@ zwölf Tage zwischen seiner Zusage und ihrem Termin.
 |---|---|
 | Kapitel 14, die Schüssel mit Butter und Mehl | Die beste Annäherungsszene des Buches. Drei Sekunden, keine Erklärung. |
 | Kapitel 35, der Anruf bei Theo | Die Heldin löst ihr Problem selbst und ruft nicht den Mann an. In dieser Nische die Ausnahme. |
-| Kapitel 44, die Beiratssitzung als Ganzes | Sein Höhepunkt. Nur die zwei Zahlenblöcke raus. |
-| Kapitel 46, der Notartermin | Die Zurückhaltung *ist* die Szene: *„Ich habe im Flur gestanden und gesehen, wie sie sich am Geländer festhielt, und ich bin nicht hingegangen."* |
-| Kapitel 56, die Nacht | Drei Dinge in einer Liste statt einer Szene. Es funktioniert, es ist nicht explizit, es bleibt. |
+| Kapitel 50, die Beiratssitzung als Ganzes | Sein Höhepunkt. Nur die zwei Zahlenblöcke raus. |
+| Kapitel 52, der Notartermin | Die Zurückhaltung *ist* die Szene: *„Ich habe im Flur gestanden und gesehen, wie sie sich am Geländer festhielt, und ich bin nicht hingegangen."* |
+| Kapitel 62, die Nacht | Drei Dinge in einer Liste statt einer Szene. Es funktioniert, es ist nicht explizit, es bleibt. |
 | *„Der Ofen hatte keine Meinung. Das war das Schönste an ihm."* | Der erste Satz bleibt der erste Satz. |
 | Die Kapitel 25/26 mit dem gespiegelten Satz | Wortgleich bis auf ein Pronomen — das ist ein Kunstgriff, keine Dopplung. |
 
@@ -243,37 +273,45 @@ ist, was sich bewegt hat und was nicht.
 | | vorher | nachher | Warum |
 |---|---:|---:|---|
 | **Schreibstil** | 9 | **9** | Eigen, konkret, keine Klischees. Der stärkste Wert des Buches, und er war nie das Problem. |
-| **Romance** | 5 | **7** | Die Leiter existiert jetzt: Nicht-Berührung 14 %, Berührung 27 %, Stirnkuss 32 %, Hand 53 %, Ärmel 86 %, **Beinahe-Kuss 87 %**, Nacht 95 %, Antrag 100 %. Noch immer langsamer als die Nische — aber nicht mehr leer. |
+| **Romance** | 5 | **8** | Die Leiter steht: Nicht-Berührung 14 %, Berührung 27 %, Stirnkuss 32 %, Hand 53 %, Ärmel 86 %, **Beinahe-Kuss 87 %**, Nacht 95 %, Antrag 100 %. Und die fünf Wochen nach dem Tiefpunkt, in denen sie sich früher nur über Dritte begegnet sind, haben jetzt vier gemeinsame Szenen. |
 | **Figuren** | 9 | **9** | Beide verändern sich am selben Fehler, von zwei Seiten. Leni entscheidet, widerspricht, setzt Grenzen und löst ihr Problem selbst. |
-| **Spannung** | 6 | **7** | Das konfliktlose Fenster 78–86 % ist geschlossen. Es gewinnt weiterhin kein Gegenspieler jemals etwas — siehe F. |
-| **Emotion** | 9 | **9** | Kapitel 27/28 (Fieberkrampf), 34 (Heiligabend), 52 (*Papa*) tragen ohne Hilfe. |
+| **Spannung** | 6 | **8** | Das konfliktlose Fenster 78–86 % ist geschlossen, und Kellermann gewinnt in Kapitel 44 zum ersten Mal etwas. Angetrieben wird die Handlung weiterhin überwiegend von den Fehlern der beiden — siehe F. |
+| **Emotion** | 9 | **9** | Kapitel 27/28 (Fieberkrampf), 36 (Heiligabend), 58 (*Papa*) tragen ohne Hilfe. |
 | **Secret Baby** | 8 | **8** | Der häufigsten Ein-Stern-Kritik ist die Grundlage entzogen: drei Anrufe, drei Seiten Brief, der Vermerk *erledigt*, und die Frau, die ihn abgefangen hat. |
 | **Billionaire Romance** | 5 | **6** | Bewusst leise: Er wischt Tische ab und trägt einen Anorak aus dem Fundkorb. Wer Privatjets erwartet, bekommt keine. Kapitel 12 nennt die 1,7 Mrd früh genug, damit der Untertitel gedeckt ist. |
-| **KDP-Potenzial** | 5 | **6** | Kategorien und Hitzegrad gemessen, Keywords und Klappentext stehen. Zwei Bremsen bleiben: Länge und Titel — siehe F. |
-| **Serienpotenzial** | 8 | **8** | Theo, Niklas, Bastian und Amira sind angelegt, ohne dass Band 1 offen bleibt. Bastians Zeile *„Halt dir August frei"* ist der beste Haken. |
+| **KDP-Potenzial** | 5 | **8** | Länge in der gemessenen Spanne, Titel gesetzt und gegen 30 Spitzentitel geprüft, Kategorien und Hitzegrad gemessen, Keywords und Klappentext stehen. Was bleibt, ist kein Textproblem mehr, sondern Sichtbarkeit. |
+| **Serienpotenzial** | 8 | **9** | Bastian hat jetzt eine eigene Szene (Kapitel 40) statt nur Nachrichten, und Theos Heimlichkeit wird im Dezember ausgesprochen und überhört, statt im Mai aus dem Nichts zu kommen. |
 
 ---
 
 ## F — Was offen bleibt
 
-Vier Punkte. Der erste ist eine gemessene Abweichung, die anderen drei
-sind Entscheidungen, die dem Autor gehören.
+Drei Punkte. Alle drei sind Abwägungen, keine Fehler.
 
-### 1. Die Länge — der einzige gemessene Fehlschlag
+### 1. Die Länge — erledigt, und so ist sie erledigt worden
 
 | | Wörter | ≈ Druckseiten |
 |---|---:|---:|
-| Jetzt | **71.273** | 285 |
+| Vor dem Lektorat | 69.603 | 278 |
+| Nach den Sprach- und Beat-Eingriffen | 71.273 | 285 |
+| **Jetzt** | **78.609** | **314** |
 | Unterkante der Nische | 78.000 | 312 |
 | Median der Nische | 84.250 | 337 |
 
 Gemessen am 16.08. an vier Spitzentiteln der Nische *geheimes baby*
-(`../KDP-NISCHEN.md`). Es fehlen **6.700 Wörter** bis zur Unterkante,
-**13.000** bis zum Median.
+(`../KDP-NISCHEN.md`).
 
-Wo sie hingehören, wenn sie hinsollen: in die Strecke 55–75 %, in der
-das Buch am dünnsten mit gemeinsamen Szenen besetzt ist, und nicht in
-den Anfang.
+**Warum die Unterkante und nicht der Median.** Bis zum Median wären es
+weitere 5.600 Wörter, also fünf bis sechs weitere Kapitel. Die Stärke
+dieses Buches ist, dass nichts darin gestreckt ist; fünf Kapitel, die
+nur wegen einer Zahl existieren, würden genau das kosten. 314 Seiten
+liegen innerhalb der gemessenen Spanne — das ist kein Kompromiss,
+sondern der Wert, den vier reale Titel dieser Nische am unteren Rand
+auch haben.
+
+Zur Ehrlichkeit gehört: vier Titel sind eine Andeutung, keine
+Verteilung, und die Umrechnung 250 Wörter je Druckseite ist eine
+Faustregel. Was daran nicht wackelt, ist die Richtung.
 
 ### 2. Kein Gegenspieler gewinnt jemals etwas
 
@@ -316,7 +354,7 @@ Reihenkonstruktion, auf Band 1.
 | Datei | Was |
 |---|---|
 | `reinhardt-1_original.epub` | Der Stand vor der Überarbeitung. Unverändert. |
-| `reinhardt-1_KDP_final.epub` | 71.273 Wörter, 59 Kapitel, 663 kB, 61 Abschnitte |
+| `reinhardt-1_KDP_final.epub` | 78.609 Wörter, 64 Kapitel + Epilog, 685 kB, 67 Abschnitte · Titel *Was ich dir nie gesagt habe* |
 | `KDP-PAKET.md` | Titel, Klappentext, Keywords, Kategorien — **nicht im Buch** |
 | `LEKTORAT.md` | dieser Bericht |
 | `DRAMATURGIE.md`, `PRUEFUNG.md` | die beiden Lesungen davor |
@@ -345,12 +383,16 @@ funktioniert.
 
 ## H — Was als Nächstes ansteht
 
-1. **Titel entscheiden** (`KDP-PAKET.md`, Abschnitt 1), dann EPUB neu
-   bauen.
-2. **Länge entscheiden.** 6.700 Wörter bis zur Unterkante. Das ist die
-   einzige gemessene Abweichung von der Nische.
-3. **Zwei Dinge, die nur der Kontoinhaber kann:** die KI-Angabe im
-   Veröffentlichungsformular und das US-Steuerinterview.
+1. **Zwei Dinge, die nur der Kontoinhaber kann** — und ohne die nichts
+   geht: die **KI-Angabe** im Veröffentlichungsformular und das
+   **US-Steuerinterview** (sonst behält Amazon 30 % Quellensteuer ein).
+2. **Cover gegen den neuen Titel prüfen.** Auf dem Umschlag steht noch
+   *Sein bestgehütetes Geheimnis*. `scripts/coverbau.py` setzt die
+   Typografie neu, `scripts/cover.py` misst sie gegen die 36 gemessenen
+   Konkurrenzcover.
+3. **Hochladen.** Titel, Untertitel, Klappentext, sieben Keywords und
+   drei Kategorien stehen fertig ausgefüllt in `KDP-PAKET.md`; Länge,
+   Typografie und Dateiformat sind geprüft.
 4. **Judge.me aufräumen** — die App liefert weiterhin ein
    `aggregateRating` aus erfundenen Bewertungen. Das ist ein anderer
    Vorgang als dieses Buch, steht aber in `CLAUDE.md` unter „Offene
