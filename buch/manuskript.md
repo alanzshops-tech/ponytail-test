@@ -9271,18 +9271,13 @@ jemanden gehalten habe, der es sich leicht macht.
 Silvester war der Tag, an dem Emil zum ersten Mal in seiner Wohnung
 war.
 
-Wir hatten es am siebenundzwanzigsten abgemacht, an der Tür, in vier
-Sätzen, in dem Ton, den wir seit dem dreiundzwanzigsten haben.
+Abgemacht hatten wir es am siebenundzwanzigsten, in der Durchfahrt, in
+vier Sätzen, zwischen einer Regelung über Dienstage und einer Bitte um
+ein Foto.
 
-„Silvester“, hatte er gesagt.
+Ich habe danach sechs Tage lang überlegt, ob das eine gute Idee ist.
 
-„Ja. Von wann bis wann?“
-
-„Nachmittags bis nachts? Er soll bei mir schlafen, wenn du
-einverstanden bist. Ich bringe ihn am ersten um zehn.“
-
-Ich habe „ja“ gesagt und danach sechs Tage lang überlegt, ob das eine
-gute Idee ist.
+Sechs Tage. Für eine Nacht, in der mein Sohn woanders schläft.
 
 ---
 
