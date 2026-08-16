@@ -165,6 +165,105 @@ Und sie hat gesagt: „Du weißt, wo die Schürze hängt.“
 
 ---
 
+Und am selben Abend habe ich es kaputt gemacht, und zwar in elf Minuten.
+
+Ich war um acht wieder im Büro. Auf dem Bildschirm stand, dass der
+Brooktorkai-Termin auf den nächsten Tag verlegt worden war, elf Uhr,
+weil der Verkäufer am Wochenende nach Portugal fliegt.
+
+Freitag ist mein Tag mit Emil.
+
+Ich habe das gesehen, ich habe zwei Minuten überlegt, und dann habe ich
+getan, was ich immer tue: Ich habe es geregelt.
+
+Ich habe Frau Kuhlmann gebeten, bei einer Kinderbetreuung anzurufen, die
+für Mitarbeiter mit Notfällen einspringt. Ich habe eine Frau gebucht,
+mit Zeugnissen, für sechs Stunden, und ich habe die Rechnung auf mein
+Privatkonto legen lassen, weil ich sogar dabei noch anständig sein
+wollte.
+
+Dann habe ich Marlene angerufen und gesagt, es sei alles organisiert.
+
+---
+
+Es war einen Moment still, und ich dachte, die Verbindung sei weg.
+
+„Wie heißt sie?“, sagte sie.
+
+„Was?“
+
+„Die Frau, die morgen sechs Stunden mit meinem Sohn verbringt. Wie
+heißt sie?“
+
+Ich habe auf den Zettel gesehen, den Frau Kuhlmann mir hingelegt hatte,
+und den Namen vorgelesen.
+
+„Und wo?“
+
+„Bei ihr. Sie hat eine Wohnung in Eimsbüttel, es ist geprüft —“
+
+„Jonas.“ Ich habe gehört, dass sie sich hingesetzt hat. „Morgen ist Tag
+drei. Morgen geht der erste Trennungsversuch, zwei Minuten, das steht
+seit einer Woche auf einem Zettel an meinem Kühlschrank. Und danach
+sollst du ihn einer Frau geben, deren Namen du gerade vom Blatt
+abgelesen hast.“
+
+„Dann sage ich ab.“
+
+„Das ist nicht der Punkt.“
+
+„Was ist der Punkt?“
+
+„Dass du mich anrufst, wenn es fertig ist“, sagte sie.
+
+---
+
+Ich habe die Frau abbestellt und den Termin verschoben, was zwei
+Telefonate und eine Entschuldigung gekostet hat und in der Sache völlig
+folgenlos war. Der Verkäufer flog trotzdem nach Portugal und
+unterschrieb im März.
+
+Elf Minuten hatten gereicht, um in einem Satz das Gegenteil von dem zu
+tun, was ich seit November versuche.
+
+Ich habe am Freitagabend an ihrer Tür gestanden, mit Emil auf dem Arm,
+und gesagt: „Ich hätte fragen sollen.“
+
+„Ja.“
+
+„Ich habe gedacht, ich nehme dir etwas ab.“
+
+„Ich weiß, was du gedacht hast.“ Sie hielt die Tür auf, aber sie trat
+nicht zur Seite. „Weißt du, was mein Vater mir zum letzten Mal gesagt
+hat? *Ich habe alles geregelt.* Das war der ganze Satz. Ich war zehn.“
+
+Ich habe zwei Sekunden gebraucht, um zu verstehen, dass ich nicht mit
+ihr rede.
+
+„Ich bin nicht dein Vater“, sagte ich.
+
+„Nein“, sagte sie. „Und ich bin nicht meine Mutter. Wir müssen es
+trotzdem beide jeden Tag neu entscheiden.“
+
+Dann trat sie zur Seite.
+
+---
+
+Ich habe an diesem Abend nicht nach der Schürze gefragt, und sie hat sie
+mir auch nicht hingehalten.
+
+Wir haben zwei Stunden über die Eingewöhnung geredet, über Frau
+Özdemir und über die Frage, ob man ein Kind wecken darf, das im
+falschen Moment einschläft.
+
+Es war das erste Mal seit dem siebenundzwanzigsten Januar, dass wir
+etwas hatten, worüber man streiten kann.
+
+Ich habe auf dem Heimweg gemerkt, dass mir das gefehlt hat, und ich habe
+mich dafür geschämt und es trotzdem gedacht.
+
+---
+
 Am einundzwanzigsten Februar, einem Samstag, saß ich in meiner Küche
 und habe die Liste noch einmal gemacht, die ich im November
 weggeworfen hatte.

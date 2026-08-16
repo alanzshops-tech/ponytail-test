@@ -4,7 +4,7 @@ Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
 Arbeit ist.
 
-**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
+**Tag eins.** Achtzehnter Februar, Mittwoch, halb neun. Kita Kirchenweg,
 Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
 Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
 und Apfel, den ich seitdem sofort wiedererkenne.
