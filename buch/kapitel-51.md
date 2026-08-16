@@ -76,26 +76,22 @@ sondern Dr. Sassenberg.
 
 Wir saßen uns gegenüber. Wir gaben uns die Hand.
 
-Anwesend: der Notar, sein Mitarbeiter, Niklas Reinhardt für die
-Gesellschaft, Theo Reinhardt als Zeuge für die Pläne, Jonas Reinhardt
-persönlich als Verkäufer der Forderung, und ich.
+Sechs Leute an einem Tisch, von denen drei Reinhardt heißen.
 
 Es dauerte zwei Stunden und zehn Minuten, weil ein Notar alles vorliest.
 Alles. Jede Anlage.
 
-**Erstens:** Bestellung dreier Grunddienstbarkeiten zulasten meines
-Grundstücks, zugunsten der drei Grundstücke der Gesellschaft. Wegerecht,
-Anbaurecht, Leitungsrecht. Kaufpreis 268.000 €, fällig binnen zehn
-Tagen.
+**Erstens:** die drei Rechte. Wegerecht, Anbaurecht, Leitungsrecht.
+268.000 €.
 
-**Zweitens:** Kaufvertrag über die Darlehensforderung. Verkäufer: Jonas
-Reinhardt, privat. Käuferin: Marlene Voss. Kaufpreis: 186.000 €.
+**Zweitens:** ich kaufe meine eigenen Schulden. Von ihm, privat, für
+186.000 €.
 
-Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
-Anschaffungspreis des Verkäufers entspricht und dass die Parteien
-übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
+Er las die Zeile vor, in der steht, dass der Preis dem entspricht, was
+der Verkäufer selbst bezahlt hat, und dass keine Zuwendung beabsichtigt
+ist.
 
-„Ist das so richtig?“, fragte er.
+„Ist das so richtig?“
 
 „Ja“, sagte Jonas.
 
