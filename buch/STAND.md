@@ -9,18 +9,17 @@ Geheimnis*
 
 | | |
 |---|---|
-| Kapitel | **56** |
-| Wörter Fließtext | **65.699** |
-| Schnitt je Kapitel | 1.172 |
+| Kapitel | **58 + Epilog** |
+| Wörter Fließtext | **69.087** |
+| Schnitt je Kapitel | 1.171 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
 | Strukturprüfung | `manuskript.py`: **keine Beanstandungen** |
-| EPUB | `reinhardt-1.epub`, 647 kB, 58 Abschnitte, Cover eingebettet |
+| EPUB | `reinhardt-1.epub`, 658 kB, 61 Abschnitte, Cover eingebettet |
 
 **Die Länge ist damit erledigt.** Gemessen (`../KDP-NISCHEN.md`, 19
 Produktseiten): Median 291 bis 337 Druckseiten, also **65.000 bis 82.000
-Wörter**. Das Manuskript liegt bei 65.699, also im Band, am unteren
-Rand.
+Wörter**. Das Manuskript liegt bei 69.087, also im Band.
 
 Das ist eine Aussage über die Länge und über nichts sonst. Ein Buch im
 Zielband verkauft sich nicht deshalb; die Länge ist nur kein Argument
@@ -35,7 +34,8 @@ den Bewertungen.
 | zweiter Durchgang | 28 | 35.692 |
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
-| **Block 3 (dieser)** | **56** | **65.699** |
+| Block 3 | 56 | 65.699 |
+| **Block 4 (Ende + Wärme)** | **59** | **69.087** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches
@@ -44,7 +44,7 @@ umbenennt, und schreibt nichts, wenn die Prüfung bricht.
 
 ---
 
-## Die zehn Kapitel aus Block 3
+## Die neuen Kapitel
 
 | neu | Figur | Was |
 |---|---|---|
@@ -57,6 +57,9 @@ umbenennt, und schreibt nichts, wenn die Prüfung bricht.
 | 46 | Jonas | Der 27. Januar von seiner Seite. Vier Blätter zu Protokoll: 186.000 Kaufpreis, 47,50 Bankgebühr, 2.856 Anwaltshonorar, Summe 188.903,50 — er verkauft unter seinen Kosten, damit nirgends „Schenkung" steht. |
 | 47 | Leni | Der Grundbuchauszug. Abteilung III ist weiß. Und nachts um Viertel nach eins rechnet sie seine vier Blätter nach, mit dem Kassenrechner, und schämt sich dafür, bis Sanne ihr erklärt, dass genau das ihre Art zu vertrauen ist. |
 | 52 | Jonas | Der vierte Streit, 2. April: Er sagt zu Emil *Jonas* und nie das andere Wort. Er verliert, weil der wahre Grund ist, dass er es sagen und keine Antwort bekommen könnte. Am 4. April sagen sie es. Emil reagiert nicht. Es war trotzdem richtig. |
+| 56 | Jonas | Ende April, der Samstag, an dem Emil in Harburg ist. Ihre Bedingung vorher: *„Wenn heute Abend etwas passiert, möchte ich nicht, dass du morgen früh etwas regelst."* |
+| 57 | Leni | Der Morgen danach. Sie ist neun Bleche schneller, weil sie zum ersten Mal seit sechzehn Monaten nicht mit einem halben Ohr nach oben hört. Hauke sieht die beiden und sagt: „Nass draußen." |
+| 59 | Leni | **Epilog.** Ein Sonntag im September, ein Jahr nach Kapitel 1. Der Antrag unter der Winterlinde, elf Sekunden Schweigen, und eine letzte Zeile, die die erste des Buches beantwortet. |
 | 53 | Leni | Am 9. April ziehen zum ersten Mal seit 1994 wieder Menschen in die oberen Etagen. Sie hat fünfzehn Jahre Miete gegen ein bewohntes Haus getauscht. Und der Donnerstagssatz, der einen Tag später den Ringkauf auslöst: *„Wenn du mich etwas Großes fragst, sage ich ja — und ich weiß nicht, ob ich es meine."* |
 
 ---
@@ -82,34 +85,57 @@ aufgeschrieben:
 
 ---
 
-## Was du entscheiden musst
+## Die zwei Entscheidungen sind gefallen
 
-Zwei erzählerische Entscheidungen, die dir gehören und die ich bewusst
-offen gelassen habe — und zwei Dinge, die vor dem Hochladen noch zu tun
-sind.
+Auf *„das, was den Leser zufriedenstellt"* — beide in diese Richtung,
+eine davon gemessen.
 
-**1. Happy for now statt Happy End.** Das Buch endet ohne Antrag: Emil
-sagt Papa, die Schulden sind weg, sie wohnen nicht zusammen, der Ring
-liegt in einer Schublade. Erzählerisch ist das die richtige Entscheidung
-— es ist der Beweis, dass Jonas gelernt hat, was eine Frage ist, und
-Kapitel 53 baut die Begründung jetzt sauber auf (ihr Donnerstagssatz
-kommt einen Tag vor dem Ringkauf). Für diese Genre-Nische ist es
-trotzdem eine **Abweichung von der Erwartung**. Entweder eine
-Schluss-Szene mit Antrag ergänzen — oder es so lassen; der Klappentext
-deutet „Happy for now" bereits ehrlich an.
+**1. Happy End statt Happy for now — erledigt.** Es gibt jetzt einen
+**Epilog** (Kapitel 59, Leni): ein Sonntag im September, ein Jahr nach
+dem ersten Kapitel, im fertigen Hof, unter der Winterlinde, um die sie
+im Oktober gebeten hat. Er fragt gerade an diesem Tag, *weil* nichts
+ist — die Begründung aus Kapitel 56 wird nicht zurückgenommen, sondern
+eingelöst. Sie lässt elf Sekunden vergehen, um zu prüfen, ob sie es
+aushält, nicht sofort zu antworten; das ist ihr Beweis, nicht seiner.
+Der Reihenhaken mit Amira steht jetzt **hinter** dem Epilog: erst das
+Ende dieses Paars, dann der Blick auf Band 2.
 
-**2. Explizitheit.** Der Text ist durchgehend geschlossen — es gibt keine
-Liebesszene. Das war in Phase 2 zwingend (eine gemeinsame Nacht kurz vor
-„Emil ist deiner" hätte die Heldin beschädigt) und danach eine bewusste
-Wahl. Kapitel 56 sagt es ausdrücklich: *„Wir haben nicht miteinander
-geschlafen."* Die Entscheidung hat Folgen für Kategorie, Cover und
-Erwartung.
+**2. Wärmegrad: sinnlich, nicht explizit — gemessen.** Die Frage war
+bis zum 16.08.2026 eine Vermutung. Jetzt misst `kdp_nischen.py` den
+Hitzegrad der Spitzentitel aus Beschreibung, Warnhinweisen und
+Kategorien der Produktseite.
 
-**3. Namen prüfen.** Vor dem Hochladen gegen reale Firmen abgleichen:
+| | von 20 Spitzentiteln |
+|---|---:|
+| wirbt mit „ohne explizite Szenen" | **0** |
+| steht in einer Erotik-Kategorie | **1** |
+| wirbt mit sinnlicher Sprache | 13 |
+| keine Angabe | 6 |
+
+Die ersten beiden Zeilen tragen: In einer Nische, in der „closed door"
+ein Verkaufsargument wäre, wirbt niemand damit — und Erotik ist es auch
+nicht. Die dritte Zeile ist weicher und steht im Bericht ausdrücklich
+mit Vorbehalt, weil sie die Sprache des Klappentextes misst und nicht
+den Inhalt des Buches.
+
+Also die Mitte: **eine Liebesszene, Ende April, Kapitel 56 und 57.** Die
+Tür geht zu; was zählt, steht davor und danach. Ihre Fassung ist die
+längere, und der eigentliche Vorgang ist bei ihr nicht die Nacht,
+sondern dass er am nächsten Morgen weiß, in welchem Schrank die Tassen
+stehen.
+
+Kapitel 58 sagt jetzt „bis Ende April" statt „wir haben nicht
+miteinander geschlafen".
+
+---
+
+## Was noch zu tun ist
+
+**Namen prüfen.** Vor dem Hochladen gegen reale Firmen abgleichen:
 „Reinhardt Immobilien Hamburg", „Café Voss", „Hanseatische Volksbank",
 „Kellermann", „Kita Kirchenweg".
 
-**4. KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
+**KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
 geschrieben und bei KDP **anzugeben**. Nicht offengelegte KI-Inhalte
 führen zur Entfernung, im Wiederholungsfall zur Kontosperre samt
 gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Struktur, Recherche und

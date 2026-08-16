@@ -1,188 +1,182 @@
 # Kapitel 56 — Jonas
 
-*Sie sind fertig. Er fängt an.*
+Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
+Mutter.“
 
-Ich habe den Satz von Frau Özdemir für einen Satz über ein Kind
-gehalten, am letzten der acht Vormittage, im Flur zwischen den
-Gummistiefeln.
+Nicht *hast du Zeit*. Nicht *würdest du gern*. Ein Termin, mit Uhrzeit,
+wie sie Lieferanten bestellt.
 
-Es hat bis in den Mai gedauert, bis ich gemerkt habe, dass er über mich
-war.
-
-Was zwischen dem letzten Februar und dem achten Mai passiert ist, ist
-nichts, was man in einem Protokoll unterbringt. Ich schreibe es
-trotzdem auf, weil dieses Jahr nicht an den zwei Stunden beim Notar
-entschieden wurde.
+Ich habe „ja“ gesagt und dann den Rest des Tages nichts Vernünftiges
+mehr zustande gebracht.
 
 ---
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
+Ich habe zwischen Mittwoch und Samstag ungefähr das getan, was ein Mann
+von sechsunddreißig in dieser Lage tut, und es ist nicht schmeichelhaft.
 
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
+Ich habe überlegt, was ich mitbringe. Wein — sie trinkt fast keinen.
+Blumen — sie hat mir im November erklärt, dass Schnittblumen im Café
+nicht gehen, wegen der Vitrine. Etwas für Emil — Emil ist nicht da, und
+etwas für ein Kind mitzubringen, das nicht da ist, wäre genau die Sorte
+Ausweichmanöver, die ich mir abgewöhnen wollte.
 
-Wir haben nicht miteinander geschlafen.
+Am Freitagabend habe ich Theo am Telefon gefragt, und mein Bruder hat
+ungefähr vier Sekunden gebraucht.
 
-Von den vier Streitigkeiten habe ich den einen aufgeschrieben, bei dem
-ich etwas gelernt habe. Die anderen drei waren: dass ich Emil aus dem
-Wagen hebe, ohne zu fragen, weil sie Angst hat, dass ich es besser kann
-als sie. Dass sie das Wort *Ihr Geld* benutzt. Und der Baubeginn im
-März.
+„Nichts“, hat er gesagt. „Wie beim letzten Mal.“
 
-Von den Donnerstagen habe ich auch schon geschrieben. Der schwerste von
-meiner Seite war der zweite: „Ich habe Angst, dass du das alles nur
-machst, damit Emil einen Vater hat.“
+„Beim letzten Mal habe ich eine Mappe hingelegt.“
 
-Ihrer, am dritten, war: „Ich habe deine Mutter noch nicht angerufen,
-obwohl sie mir im Dezember ihre Nummer aufgeschrieben hat, weil ich
-Angst vor dem Anruf habe.“
-
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
+„Eben.“
 
 ---
 
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
+Ich bin um Viertel vor acht am Kehrwieder gewesen und zehn Minuten im
+Wagen sitzen geblieben, was ich in diesem Jahr schon einmal getan habe,
+an einem Sonntag im Oktober, als ich nicht ausgestiegen bin.
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+Diesmal bin ich ausgestiegen.
 
-„Der hing da zwei Monate“, sagte sie.
+Ich habe geklingelt. Ich klingele immer noch. Es ist inzwischen kein
+Prinzip mehr, es ist eine Angewohnheit, und ich glaube, sie mag sie.
+
+Sie machte auf, und ich sah als Erstes, dass sie sich umgezogen hatte,
+und als Zweites, dass sie darüber ärgerlich war.
+
+„Du hast Mehl am Handgelenk“, sagte ich.
+
+„Ich habe Mehl an allem.“ Sie trat zur Seite. „Komm rein.“
+
+---
+
+Es gab Kartoffeln, Butter, Salz und ein gebratenes Stück Fisch, und es
+war das Beste, was ich seit Monaten gegessen habe.
+
+„Das hast du nicht extra gemacht“, sagte ich.
+
+„Doch.“ Sie schob mir die Schüssel hin. „Und ich ärgere mich darüber,
+seit ich um vier damit angefangen habe.“
 
 „Warum?“
 
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
+„Weil ich nichts extra machen wollte.“ Sie setzte sich. „Und dann habe
+ich mittags im Laden gestanden und gedacht, dass ich in drei Jahren für
+niemanden gekocht habe außer für ein Kind, das alles außer Nudeln vom
+Teller schiebt.“
 
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
+Wir haben eine Weile gegessen.
 
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
+Dann sagte sie: „Ich möchte, dass wir vorher etwas klären.“
 
----
-
-Bohrpfähle machen kein Hämmern. Sie machen ein Schlagen, das durch den
-Boden kommt und in den Zähnen ankommt, und man hält es in einem Café
-drei Tage lang nicht aus.
-
-Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
-
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
-
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
-
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
+Ich legte die Gabel hin.
 
 ---
 
-Am achten Mai wurde Emil zwei.
+„Es ist nichts Schlimmes“, sagte sie. „Es ist nur eine Reihenfolge.“
 
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
+„Ich höre.“
 
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
+„Wenn heute Abend etwas passiert“, sagte Marlene, „dann möchte ich
+nicht, dass du morgen früh etwas regelst.“
 
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
+„Was sollte ich —“
 
----
+„Ich weiß es nicht. Ich weiß nur, dass du es tun wirst.“ Sie sah mich
+an, sehr ruhig. „Du wirst aufwachen und denken, dass jetzt etwas anders
+ist und dass man das absichern muss. Und dann liegt am Dienstag
+irgendetwas auf dem Fenstertisch.“
 
-Ich hatte einen Ring.
+Ich habe daran ehrlich gedacht, bevor ich geantwortet habe, und dann
+habe ich das Ehrliche gesagt.
 
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
-
-Ich habe ihn an diesem Abend zweimal angefasst.
-
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
-
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
-
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
-
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
-
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
-
----
-
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
-
-Es war eine Erbse.
-
-Ich nahm sie.
-
-„Danke“, sagte ich.
-
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
-
-„Papa.“
-
-Dann drehte er sich wieder um und schob weiter Erbsen.
-
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
-
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
-
----
-
-Um zehn nach neun klingelte mein Telefon.
-
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
-
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
-
-„Herr Reinhardt? Jonas Reinhardt?“
+„Wahrscheinlich hast du recht.“
 
 „Ja.“
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+„Was möchtest du stattdessen?“
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+„Dass du morgen früh um halb sechs mit runterkommst“, sagte sie, „und
+die Bleche einschiebst, und dass wir um zwanzig vor sieben aufmachen wie
+an jedem anderen Samstag. Und dass wir kein Wort darüber verlieren, was
+das jetzt bedeutet.“
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
+„Und wann verlieren wir Worte darüber?“
 
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
+„Donnerstag“, sagte sie.
 
-„Wer ist dran?“, fragte Marlene.
+Ich habe gelacht, und sie hat auch gelacht, und irgendwo unter uns fuhr
+eine Barkasse durch das Fleet und das Licht lief über die Decke, so wie
+es das in diesem Haus immer tut.
 
-Ich hielt das Telefon fest.
+---
 
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+Ich möchte den Rest dieses Abends nicht in Einzelteile zerlegen, und
+zwar aus einem Grund, der nichts mit Anstand zu tun hat.
+
+Er gehört nicht in ein Buch, in dem ich sonst Beträge aufschreibe.
+
+Ich schreibe drei Dinge auf.
+
+Das erste: Sie hat als Erste die Hand ausgestreckt, nicht ich, und sie
+hat es an einem Küchentisch getan, zwischen zwei Tellern, die noch nicht
+abgeräumt waren, und sie hat dabei nichts gesagt.
+
+Das zweite: Ich habe ihr Handgelenk genommen — das mit dem Mehl — und
+mich nicht getraut, es festzuhalten, und sie hat gemerkt, dass ich mich
+nicht traue, und hat es mir in die Hand gedrückt.
+
+Das dritte: Wir haben beide angefangen zu reden, gleichzeitig, wie
+Menschen, die es nicht gewohnt sind, und dann hat sie gesagt: „Jonas.
+Bitte hör auf, das gut machen zu wollen.“
+
+Und danach war es einfach.
+
+---
+
+Es gibt in dieser Wohnung eine Diele, die vierte von der Tür aus, und
+sie knarrt so laut, dass man sie hört, wenn man unten in der Küche
+steht.
+
+Sie hat auf dem Weg dorthin die Hand nach hinten gegeben, ohne sich
+umzudrehen, und ich habe sie genommen, und dann ist sie auf die Diele
+getreten, und wir sind beide stehen geblieben und haben nach oben
+gehorcht.
+
+Es war niemand da, auf den man hätte horchen müssen.
+
+Wir haben beide gemerkt, dass wir es trotzdem tun.
+
+„Er ist in Harburg“, sagte sie.
+
+„Ich weiß.“
+
+„Ich habe seit sechzehn Monaten nicht eine Nacht gehabt, in der ich
+nicht auf etwas gehorcht habe.“
+
+Ich habe nichts geantwortet, weil es darauf keine Antwort gibt, und
+dann hat sie die Tür hinter uns zugemacht.
+
+---
+
+Ich bin gegen halb vier wach geworden, weil das Fenster offen war und
+weil ein Schiff sehr weit weg ein Signal gegeben hat.
+
+Sie war nicht da.
+
+Ich habe zwei Sekunden lang gedacht, was ein Mann wie ich in so einer
+Sekunde denkt, und dann habe ich das Licht unter der Tür gesehen und
+gehört, wie unten etwas Metallenes auf etwas Metallenes gesetzt wurde.
+
+Es war der Riegel am Ofen.
+
+Sie war um zwanzig nach vier unten, so wie an vierhundert Tagen im Jahr,
+und ich lag in einem fremden Bett in einem Haus, das älter ist als mein
+Urgroßvater, und habe an die Decke gesehen und gedacht:
+
+*Das ist es. Das ist die ganze Sache. Sie steht auf und geht runter und
+macht den Ofen an, und heute war ich schon da.*
+
+Ich bin um Viertel vor sechs runtergegangen.
+
+Sie hat mir eine Schürze hingehalten, ohne sich umzudrehen, und gesagt:
+„Blech drei bis fünf. Nicht stapeln, die sind heiß.“

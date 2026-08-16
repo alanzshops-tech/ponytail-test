@@ -11,28 +11,30 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 56 Kapitel | **fertig**, 65.699 Wörter |
+| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.087 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
-| EPUB mit eingebettetem Cover | **fertig**, 647 kB |
+| EPUB mit eingebettetem Cover | **fertig**, 658 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **65.699 Wörter** — im gemessenen Zielband |
+| **Länge** | **69.087 Wörter** — im gemessenen Zielband |
 
 **Es fehlt nichts mehr.** Die Länge war der letzte offene Punkt und ist
 erledigt: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000
-Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 65.699. Damit
+Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 69.087. Damit
 zahlt Kindle Unlimited über die volle Strecke und nicht über die halbe.
 
-Offen sind nur noch zwei Entscheidungen, die dir gehören und nicht mir
-— *Happy for now statt Antrag* und *Explizitheit*. Beide stehen mit
-Begründung in `buch/STAND.md`, Abschnitt „Was du entscheiden musst".
+Auch die beiden erzählerischen Entscheidungen sind gefallen, und zwar
+in die Richtung, die den Leser dieser Nische zufriedenstellt: **Happy
+End mit Epilog** und **eine sinnliche, nicht explizite Liebesszene**.
+Die zweite ist gemessen und nicht geraten — siehe `KDP-NISCHEN.md`,
+Abschnitt „Hitzegrad der Spitzentitel".
 
 ## Die Dateien
 
 | Datei | Wofür | Stand |
 |---|---|---|
-| `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 647 kB, 58 Abschnitte |
+| `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 658 kB, 61 Abschnitte |
 | `buch/manuskript.md` | zum Lesen und Korrigieren | fertig |
 | `cover/fertig/cover.jpg` | Cover, 1600 × 2560 | Schrift fertig, Bild fehlt |
 | `cover/fertig/schrift-ebene.png` | transparent, für Canva | fertig |
@@ -212,7 +214,7 @@ Minuten umsetzbar.
 
 Das 70-%-Fenster liegt in Deutschland zwischen 2,99 € und 9,99 €.
 Darunter und darüber gibt es 35 %. Bei 70 % werden zusätzlich
-Auslieferungskosten nach Dateigröße abgezogen — bei 647 kB sind das
+Auslieferungskosten nach Dateigröße abgezogen — bei 658 kB sind das
 Cent, nicht Euro.
 
 **KDP Select: ja.** Das bedeutet 90 Tage Exklusivität bei Amazon —
@@ -229,7 +231,7 @@ Leserin nichts extra kosten.
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **291 bis 337 Druckseiten**, also rund
 **65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
-**65.699** und liegt damit im Band, am unteren Rand. Bei vollständigem
+**69.087** und liegt damit im Band, am unteren Rand. Bei vollständigem
 Durchlesen bringt es die Seitenerlöse eines regulären Titels der Nische
 und nicht mehr die Hälfte davon.
 

@@ -51,8 +51,9 @@ haben, niemanden zu brauchen — und über die Wahrheit, die keiner von
 beiden mehr aufhalten kann.**
 
 *Band 1 der Reihe „Die Reinhardt-Brüder". Die Liebesgeschichte von Leni
-und Jonas ist abgeschlossen — kein Cliffhanger für dieses Paar. Auf der
-letzten Seite öffnet sich der Blick auf Band 2.*
+und Jonas ist abgeschlossen, mit Happy End und Epilog — kein
+Cliffhanger für dieses Paar. Erst danach öffnet sich der Blick auf
+Band 2.*
 
 ---
 
@@ -60,7 +61,7 @@ letzten Seite öffnet sich der Blick auf Band 2.*
 
 | | |
 |---|---|
-| Umfang | 56 Kapitel, **65.699 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
+| Umfang | 58 Kapitel + Epilog, **69.087 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
 | Erzählform | Ich-Perspektive, wechselnd Leni / Jonas, Präteritum |
 | Kategorie | Liebesroman › Zeitgenössisch |
 | Keywords | geheimes baby, milliardär, zweite chance, hamburg, alleinerziehend, ceo |
@@ -82,17 +83,24 @@ Ein-Stern-Kritik („warum hat sie es ihm nicht gesagt") die Grundlage,
 bevor jemand das Buch öffnet.
 
 **„Abgeschlossen, kein Cliffhanger für dieses Paar."** Steht so und
-nicht kürzer, weil es sonst nicht stimmt. Das Schlusskapitel endet mit
-Amiras Anruf — das ist ein Reihenhaken, kein offener Konflikt zwischen
-Leni und Jonas. Wer „keine Cliffhanger" verspricht und dann so endet, bekommt
+nicht kürzer, weil es sonst nicht stimmt. Der Epilog schließt Leni und
+Jonas ab; der Reihenhaken mit Amira steht dahinter und ist kein offener
+Konflikt zwischen den beiden. Wer „keine Cliffhanger" verspricht und dann so endet, bekommt
 dafür Ein-Stern-Bewertungen.
 
-**Was der Klappentext (noch) nicht verspricht: einen Antrag.** Das Buch
-endet als *Happy for now*, nicht als *Happily ever after*: Emil sagt
-Papa, die Schulden sind weg, sie wohnen nicht zusammen, der Ring liegt
-in einer Schublade. Das ist erzählerisch die richtige Entscheidung
-(Kapitel 54 begründet sie), aber es ist eine **Abweichung von der
-Genre-Erwartung** in diesem Segment. Zwei Wege, beide vertretbar:
-eine Schluss-Szene mit Antrag ergänzen — oder es so lassen und im
-Klappentext ehrlich „Happy for now" andeuten. Die Entscheidung gehört
-dir; sie ist im Text mit zwei Absätzen umsetzbar.
+**Happy End, und die Begründung bleibt stehen.** Das Buch endete
+zunächst als *Happy for now*. Das war erzählerisch stimmig und eine
+Abweichung von der Genre-Erwartung in diesem Segment — deshalb gibt es
+jetzt den Epilog: ein Sonntag im September, ein Jahr nach dem ersten
+Kapitel, unter dem Baum, um den sie im Oktober gebeten hat. Er fragt
+gerade deshalb an diesem Tag, weil nichts ist und ein Nein sie nichts
+kosten würde; sie lässt elf Sekunden vergehen, um genau das zu prüfen.
+Die Erwartung ist erfüllt, ohne dass die Begründung aus Kapitel 56
+zurückgenommen wird.
+
+**Wärmegrad: sinnlich, nicht explizit.** Eine Liebesszene, Ende April,
+Kapitel 56 und 57 — die Tür geht zu, das Gefühl bleibt auf der Seite.
+Das ist keine Geschmacksentscheidung, sondern gemessen: Von zwanzig
+Spitzentiteln der vier Nischen wirbt **kein einziger** damit, ohne
+explizite Szenen zu sein, und nur einer steht in einer
+Erotik-Kategorie (`../KDP-NISCHEN.md`, Abschnitt „Hitzegrad").

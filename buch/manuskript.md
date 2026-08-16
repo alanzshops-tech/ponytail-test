@@ -12405,6 +12405,373 @@ wenn man sie aufschreibt.
 
 # Kapitel 56 — Jonas
 
+Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
+Mutter.“
+
+Nicht *hast du Zeit*. Nicht *würdest du gern*. Ein Termin, mit Uhrzeit,
+wie sie Lieferanten bestellt.
+
+Ich habe „ja“ gesagt und dann den Rest des Tages nichts Vernünftiges
+mehr zustande gebracht.
+
+---
+
+Ich habe zwischen Mittwoch und Samstag ungefähr das getan, was ein Mann
+von sechsunddreißig in dieser Lage tut, und es ist nicht schmeichelhaft.
+
+Ich habe überlegt, was ich mitbringe. Wein — sie trinkt fast keinen.
+Blumen — sie hat mir im November erklärt, dass Schnittblumen im Café
+nicht gehen, wegen der Vitrine. Etwas für Emil — Emil ist nicht da, und
+etwas für ein Kind mitzubringen, das nicht da ist, wäre genau die Sorte
+Ausweichmanöver, die ich mir abgewöhnen wollte.
+
+Am Freitagabend habe ich Theo am Telefon gefragt, und mein Bruder hat
+ungefähr vier Sekunden gebraucht.
+
+„Nichts“, hat er gesagt. „Wie beim letzten Mal.“
+
+„Beim letzten Mal habe ich eine Mappe hingelegt.“
+
+„Eben.“
+
+---
+
+Ich bin um Viertel vor acht am Kehrwieder gewesen und zehn Minuten im
+Wagen sitzen geblieben, was ich in diesem Jahr schon einmal getan habe,
+an einem Sonntag im Oktober, als ich nicht ausgestiegen bin.
+
+Diesmal bin ich ausgestiegen.
+
+Ich habe geklingelt. Ich klingele immer noch. Es ist inzwischen kein
+Prinzip mehr, es ist eine Angewohnheit, und ich glaube, sie mag sie.
+
+Sie machte auf, und ich sah als Erstes, dass sie sich umgezogen hatte,
+und als Zweites, dass sie darüber ärgerlich war.
+
+„Du hast Mehl am Handgelenk“, sagte ich.
+
+„Ich habe Mehl an allem.“ Sie trat zur Seite. „Komm rein.“
+
+---
+
+Es gab Kartoffeln, Butter, Salz und ein gebratenes Stück Fisch, und es
+war das Beste, was ich seit Monaten gegessen habe.
+
+„Das hast du nicht extra gemacht“, sagte ich.
+
+„Doch.“ Sie schob mir die Schüssel hin. „Und ich ärgere mich darüber,
+seit ich um vier damit angefangen habe.“
+
+„Warum?“
+
+„Weil ich nichts extra machen wollte.“ Sie setzte sich. „Und dann habe
+ich mittags im Laden gestanden und gedacht, dass ich in drei Jahren für
+niemanden gekocht habe außer für ein Kind, das alles außer Nudeln vom
+Teller schiebt.“
+
+Wir haben eine Weile gegessen.
+
+Dann sagte sie: „Ich möchte, dass wir vorher etwas klären.“
+
+Ich legte die Gabel hin.
+
+---
+
+„Es ist nichts Schlimmes“, sagte sie. „Es ist nur eine Reihenfolge.“
+
+„Ich höre.“
+
+„Wenn heute Abend etwas passiert“, sagte Marlene, „dann möchte ich
+nicht, dass du morgen früh etwas regelst.“
+
+„Was sollte ich —“
+
+„Ich weiß es nicht. Ich weiß nur, dass du es tun wirst.“ Sie sah mich
+an, sehr ruhig. „Du wirst aufwachen und denken, dass jetzt etwas anders
+ist und dass man das absichern muss. Und dann liegt am Dienstag
+irgendetwas auf dem Fenstertisch.“
+
+Ich habe daran ehrlich gedacht, bevor ich geantwortet habe, und dann
+habe ich das Ehrliche gesagt.
+
+„Wahrscheinlich hast du recht.“
+
+„Ja.“
+
+„Was möchtest du stattdessen?“
+
+„Dass du morgen früh um halb sechs mit runterkommst“, sagte sie, „und
+die Bleche einschiebst, und dass wir um zwanzig vor sieben aufmachen wie
+an jedem anderen Samstag. Und dass wir kein Wort darüber verlieren, was
+das jetzt bedeutet.“
+
+„Und wann verlieren wir Worte darüber?“
+
+„Donnerstag“, sagte sie.
+
+Ich habe gelacht, und sie hat auch gelacht, und irgendwo unter uns fuhr
+eine Barkasse durch das Fleet und das Licht lief über die Decke, so wie
+es das in diesem Haus immer tut.
+
+---
+
+Ich möchte den Rest dieses Abends nicht in Einzelteile zerlegen, und
+zwar aus einem Grund, der nichts mit Anstand zu tun hat.
+
+Er gehört nicht in ein Buch, in dem ich sonst Beträge aufschreibe.
+
+Ich schreibe drei Dinge auf.
+
+Das erste: Sie hat als Erste die Hand ausgestreckt, nicht ich, und sie
+hat es an einem Küchentisch getan, zwischen zwei Tellern, die noch nicht
+abgeräumt waren, und sie hat dabei nichts gesagt.
+
+Das zweite: Ich habe ihr Handgelenk genommen — das mit dem Mehl — und
+mich nicht getraut, es festzuhalten, und sie hat gemerkt, dass ich mich
+nicht traue, und hat es mir in die Hand gedrückt.
+
+Das dritte: Wir haben beide angefangen zu reden, gleichzeitig, wie
+Menschen, die es nicht gewohnt sind, und dann hat sie gesagt: „Jonas.
+Bitte hör auf, das gut machen zu wollen.“
+
+Und danach war es einfach.
+
+---
+
+Es gibt in dieser Wohnung eine Diele, die vierte von der Tür aus, und
+sie knarrt so laut, dass man sie hört, wenn man unten in der Küche
+steht.
+
+Sie hat auf dem Weg dorthin die Hand nach hinten gegeben, ohne sich
+umzudrehen, und ich habe sie genommen, und dann ist sie auf die Diele
+getreten, und wir sind beide stehen geblieben und haben nach oben
+gehorcht.
+
+Es war niemand da, auf den man hätte horchen müssen.
+
+Wir haben beide gemerkt, dass wir es trotzdem tun.
+
+„Er ist in Harburg“, sagte sie.
+
+„Ich weiß.“
+
+„Ich habe seit sechzehn Monaten nicht eine Nacht gehabt, in der ich
+nicht auf etwas gehorcht habe.“
+
+Ich habe nichts geantwortet, weil es darauf keine Antwort gibt, und
+dann hat sie die Tür hinter uns zugemacht.
+
+---
+
+Ich bin gegen halb vier wach geworden, weil das Fenster offen war und
+weil ein Schiff sehr weit weg ein Signal gegeben hat.
+
+Sie war nicht da.
+
+Ich habe zwei Sekunden lang gedacht, was ein Mann wie ich in so einer
+Sekunde denkt, und dann habe ich das Licht unter der Tür gesehen und
+gehört, wie unten etwas Metallenes auf etwas Metallenes gesetzt wurde.
+
+Es war der Riegel am Ofen.
+
+Sie war um zwanzig nach vier unten, so wie an vierhundert Tagen im Jahr,
+und ich lag in einem fremden Bett in einem Haus, das älter ist als mein
+Urgroßvater, und habe an die Decke gesehen und gedacht:
+
+*Das ist es. Das ist die ganze Sache. Sie steht auf und geht runter und
+macht den Ofen an, und heute war ich schon da.*
+
+Ich bin um Viertel vor sechs runtergegangen.
+
+Sie hat mir eine Schürze hingehalten, ohne sich umzudrehen, und gesagt:
+„Blech drei bis fünf. Nicht stapeln, die sind heiß.“
+
+---
+
+# Kapitel 57 — Leni
+
+Ich bin um zwölf nach vier wach geworden, wie an vier von fünf Tagen,
+und zwei Minuten liegen geblieben und habe gehorcht, ob oben etwas ist.
+
+Oben war nichts, weil Emil in Harburg war.
+
+Neben mir war jemand.
+
+Ich habe in diesen zwei Minuten in einem Bett gelegen, in dem seit drei
+Jahren niemand außer mir und gelegentlich einem fiebernden Kind gelegen
+hat, und ich habe nicht gewusst, wohin mit mir.
+
+Dann bin ich aufgestanden und runtergegangen und habe den Ofen
+angemacht, weil das das Einzige ist, was um diese Zeit sicher richtig
+ist.
+
+---
+
+Ich schreibe jetzt auf, was ich zwischen zwanzig nach vier und halb
+sechs gedacht habe, allein, mit den Händen im Teig, und ich mache es
+nicht schöner.
+
+**Das Erste** war Erleichterung, und zwar die falsche Sorte:
+Erleichterung darüber, dass ich unten war und er oben und dass zwischen
+uns eine Treppe lag.
+
+**Das Zweite** war die Frage, ob ich mir das Ganze gerade teuer erkauft
+habe. Ich habe seit dem siebenundzwanzigsten Januar keine Schulden. Ich
+habe mir ein Jahr lang mühsam beigebracht, dass ich diesem Mann nichts
+schulde. Und dann liegt man da und denkt, ob man jetzt wieder etwas
+schuldet, und dieser Gedanke ist eine Unverschämtheit — ihm gegenüber
+und mir gegenüber.
+
+Ich habe ihn trotzdem gedacht. Er ging nach ungefähr einer
+Viertelstunde wieder weg, und was danach kam, war einfacher.
+
+**Das Dritte** war das hier, und es hat mich umgeworfen.
+
+Ich habe neun Bleche aufgearbeitet, und irgendwann habe ich gemerkt,
+dass ich schneller war als sonst.
+
+Nicht viel. Vielleicht sechs, sieben Minuten auf die ganze Fuhre.
+
+Und der Grund war, dass ich zum ersten Mal seit sechzehn Monaten nicht
+mit einem halben Ohr nach oben gehört habe.
+
+Ich hatte nicht gewusst, dass das Arbeit ist. Man weiß das nicht,
+solange man es macht. Man merkt es in der Stunde, in der es aufhört.
+
+---
+
+Um Viertel vor sechs kam er runter.
+
+Er hatte das Hemd von gestern an und die Haare falsch und sah aus wie
+jemand, der nicht weiß, ob er in dieser Küche etwas anfassen darf.
+
+Ich habe ihm die Schürze hingehalten, ohne mich umzudrehen.
+
+„Blech drei bis fünf. Nicht stapeln, die sind heiß.“
+
+Er hat nichts gesagt. Er hat die Schürze umgebunden — er kann das
+inzwischen mit einer Hand, das haben ihn die Dienstage gelehrt — und die
+Bleche eingeschoben, und dann hat er das Wasser aufgesetzt, weil er
+weiß, wo alles steht.
+
+Und ich stand vor meinem eigenen Arbeitstisch und musste mich einen
+Moment festhalten, weil dieser Mann in meiner Küche in aller
+Selbstverständlichkeit an den Schrank links über der Spüle gegriffen
+hat.
+
+Das war es. Nicht die Nacht.
+
+Der Schrank links über der Spüle.
+
+---
+
+Um fünf vor sechs hat Hauke an die Seitentür geklopft.
+
+Ich habe aufgemacht, mit mehligen Händen, und Hauke stand da mit seinem
+Zwanzig-Euro-Schein und den abgezählten Münzen, und hinter mir stand ein
+Mann in einer Schürze und hielt zwei Bleche.
+
+Hauke ist Wachmann. Er ist sechs Nächte die Woche allein und sieht sehr
+genau hin, das ist sein Beruf.
+
+Er hat zwei Sekunden geguckt.
+
+Dann hat er zu Jonas gesagt: „Nass draußen.“
+
+Und Jonas hat gesagt: „Ja.“
+
+Hauke hat genickt, sein Rosinenbrötchen genommen und ist gegangen.
+
+Ich habe die Tür zugemacht und mich dagegen gelehnt und angefangen zu
+lachen und nicht mehr aufhören können, und Jonas stand mit zwei Blechen
+da und verstand kein Wort, und ich konnte es ihm nicht erklären, weil
+man das nicht erklären kann.
+
+Es hatte jemand hingesehen, und die Welt hatte nicht reagiert.
+
+---
+
+Um zwanzig vor sieben die Rollos. Alle vier. Die zweite Kurbel geht
+immer noch schwer.
+
+Um fünf nach sieben die beiden vom Zollmuseum, Tisch zwei, sechs
+Minuten. Um zehn nach neun Herr Kubatz mit Sender.
+
+Herr Kubatz hat die Karte gelesen, die sich nicht ändert, und ein Stück
+von dem bestellt, was am längsten in der Vitrine lag, und dabei einmal
+kurz zu dem Mann hinter der Theke gesehen, der Tassen nicht stapelte,
+weil sie noch heiß waren.
+
+Er hat nichts gesagt.
+
+Um halb zehn kam Sanne, holte Wechselgeld, nahm ein Franzbrötchen, ohne
+zu fragen, sah einmal in den Backraum und einmal mich an und blieb an
+diesem Tag vierzig Minuten.
+
+Sie hat auch nichts gesagt.
+
+Sie hat mir beim Gehen von hinten kurz die Hand auf die Schulter gelegt,
+und das war das lauteste, was an diesem Samstag jemand geäußert hat.
+
+---
+
+Er ist um Viertel nach zwei gegangen, weil er Theo versprochen hatte,
+sich etwas anzusehen.
+
+An der Tür hat er sich umgedreht, so wie er sich immer umdreht, und
+ich habe gesehen, dass er etwas sagen wollte, und dass er es sich
+verkniffen hat, weil ich ihn darum gebeten hatte.
+
+„Donnerstag“, sagte er.
+
+„Donnerstag.“
+
+Und dann war er weg, und ich habe eine Kiste mit dem, was übrig war,
+für Frau Kettler bereitgestellt und die Kasse gemacht.
+
+**478,20 €.** Der beste Samstag des Jahres, und das lag am Wetter und
+nicht an mir.
+
+---
+
+Meine Mutter hat Emil um kurz nach zwölf am Sonntag gebracht.
+
+Sie hat ihn abgesetzt, seine Tasche hingestellt, sich im Café umgesehen
+und gesagt: „Es riecht anders.“
+
+„Es riecht wie immer.“
+
+„Nein“, sagte meine Mutter.
+
+Sie ist nicht länger geblieben. Sie hat an der Tür gefragt, ob sie ihn
+im Juni noch mal haben kann, ein ganzes Wochenende diesmal, und ich habe
+ja gesagt, und sie hat genickt und ist zum Bahnhof gegangen.
+
+Sie hat kein einziges Mal gefragt, was am Samstagabend war.
+
+Ich habe zwei Jahre lang geglaubt, dass sie das aus Desinteresse nicht
+fragt.
+
+Sie fragt es nicht, weil ihr vor zweiundzwanzig Jahren jemand am
+Telefon in vierzig Sekunden erklärt hat, dass man nicht fragt.
+
+---
+
+Am Sonntagabend, als Emil im Bett war, habe ich in dem Heft, in dem
+sonst die Bestellungen stehen, eine Zeile geschrieben.
+
+Ich habe lange überlegt, was da hinkommt, und ich habe drei Sachen
+angefangen und wieder durchgestrichen, weil sie alle nach etwas
+klangen, das man sich selbst erzählt.
+
+Am Ende stand da:
+
+*25.04. — Er hat gewusst, wo die Tassen stehen.*
+
+---
+
+# Kapitel 58 — Jonas
+
 *Sie sind fertig. Er fängt an.*
 
 Ich habe den Satz von Frau Özdemir für einen Satz über ein Kind
@@ -12425,9 +12792,13 @@ Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
 machen:
 
 Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam.
+geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam. Ich
+klingele bis heute.
 
-Wir haben nicht miteinander geschlafen.
+Bis Ende April haben wir nicht miteinander geschlafen. Wer wissen will,
+warum es dann doch passiert ist, muss bei ihr nachlesen; sie hat es
+aufgeschrieben, und sie hat recht damit, dass der Schrank links über
+der Spüle der eigentliche Vorgang war.
 
 Von den vier Streitigkeiten habe ich den einen aufgeschrieben, bei dem
 ich etwas gelernt habe. Die anderen drei waren: dass ich Emil aus dem
