@@ -25,6 +25,24 @@ Wie explizit die gemessenen Titel selbst angeben zu sein — aus Beschreibung, W
 | enemies to lovers liebesroman | 1 | 2 | 0 | 2 |
 | **gesamt** | **1** | **13** | **0** | **6** |
 
+**Was diese Zahlen tragen und was nicht.** Zwei Spalten sind harte
+Signale: **null von zwanzig** Titeln wirbt damit, ohne explizite Szenen
+zu sein — in einer Nische, in der „closed door“ ein Verkaufsargument
+wäre, wenn es eins wäre. Und nur **einer von zwanzig** steht in einer
+Erotik-Kategorie. Der Markt liegt also weder bei geschlossen noch bei
+explizit.
+
+Die Spalte **dazwischen** ist das weichere Signal, und ich schreibe
+ausdrücklich hin, warum: Sie zählt Wörter wie *prickelnd*, *knistert*,
+*sinnlich*, *leidenschaftlich* im Text der Produktseite. Das misst die
+**Sprache des Klappentextes**, nicht den Inhalt des Buches. Dreizehn von
+zwanzig heißt: So wird in dieser Nische geworben. Es heißt nicht, dass
+in dreizehn Büchern eine Liebesszene steht.
+
+Der Selbsttest läuft vor jeder Messung und prüft einen Negativfall mit
+*heißt*, *heiß begehrt* und *Heißhunger* — Wörter, an denen eine zu
+weite Suche in diesem Repository schon dreimal gescheitert ist.
+
 ## Wie zu lesen
 
 - **BSR Median niedrig** = viel Nachfrage in dieser Nische.
