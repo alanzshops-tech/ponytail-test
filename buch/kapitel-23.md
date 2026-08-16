@@ -221,8 +221,8 @@ erst nach ungefähr zwei Minuten.
 
 Ich habe die Mappe nicht weggeworfen.
 
-Das ist der Teil, den ich mir selbst am meisten übelnehme, weil er zeigt,
-dass ich es wusste.
+Das nehme ich mir bis heute am meisten übel, weil es zeigt, dass ich es
+wusste.
 
 Ich habe sie in die Schublade unter der Kasse gelegt, zu dem Brief von
 der Bank und dem Stein vom Elbstrand, und ich habe die Schublade

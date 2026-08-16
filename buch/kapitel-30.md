@@ -121,6 +121,38 @@ passiert ist.
 
 ---
 
+Ich schreibe an dieser Stelle etwas hin, was mir sonst niemand abnimmt,
+weil es keine Zahl ist.
+
+Man hat mich in diesem Jahr zweimal gefragt, was ich eigentlich an ihr
+finde. Einmal Theo, einmal meine Mutter, und beide haben eine Antwort
+erwartet, die man auf einer Feier weitergeben kann.
+
+Ich habe beide Male etwas Allgemeines gesagt.
+
+Hier steht das Genaue.
+
+Sie prüft eine Sache immer zweimal, mit zwei verschiedenen Sinnen. Sie
+misst den Teig mit dem Thermometer und fasst ihn danach trotzdem an, und
+wenn sich beides widerspricht, glaubt sie der Hand. Sie sagt Beträge
+nicht in Millionen, sondern in dem, was sie an dem Tag verkaufen müsste.
+Sie hört einem Menschen zu und wartet die Antwort ab, was fast niemand
+tut, und ich habe zwölf Jahre lang in Räumen gesessen, in denen alle nur
+darauf gewartet haben, wieder dranzukommen.
+
+Und sie hat an einem Stehtisch am Klosterwall die Hand auf meine gelegt,
+weil ich zugegeben hatte, dass in meinem Elternhaus ein Wort fehlte, und
+sie hat es getan, ohne darüber zu reden, und danach hat sie das Thema
+gewechselt.
+
+Das ist es. Das ist die ganze Aufstellung.
+
+Ich habe an diesem Nachmittag an einem Imbiss gestanden und begriffen,
+dass ich diese Frau nicht deshalb will, weil sie die Mutter meines Kindes
+ist, sondern dass es andersherum ein glücklicher Zufall ist.
+
+---
+
 Um vier war ich im Büro.
 
 Frau Kuhlmann hatte den Vermerk auf den Schreibtisch gelegt, in der
