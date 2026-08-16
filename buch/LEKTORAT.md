@@ -318,6 +318,21 @@ Platzhalter, keine internen Notizen — `manuskript.py` prüft das bei jedem
 Lauf gegen einen Positiv- und einen Negativfall und meldet „Keine
 Beanstandungen".
 
+### Die Messgeräte für dieses Buch
+
+Alle mit Selbsttest; keins meldet ein Ergebnis, bevor es an einem
+bekannten Positiv- **und** einem Negativfall gezeigt hat, dass es
+funktioniert.
+
+| Werkzeug | Was es misst | Neu? |
+|---|---|---|
+| `scripts/manuskript.py` | Kapitelzahl, Wörter, Perspektivwechsel, Platzhalter; baut die EPUB | |
+| `scripts/prosa.py` | Typografie, Doppelwörter, Wortwiederholungen, Dialoganteil | |
+| `scripts/vale.sh` | Füllwörter, Klischees, Erklärbär, Typografie | |
+| `scripts/dopplung.py` | zweimal erzählte Szenen über Kapitelgrenzen | 16.08. |
+| **`scripts/romantik.py`** | **gemeinsame Szenen, Berührung, Sehnsucht, Konflikt je Kapitel** | **16.08.** |
+| `scripts/kdp_nischen.py` | Nachfrage, Wettbewerb, Hitzegrad, Kategorien, Seitenzahl — und seit heute die Spitzentitel im Wortlaut | erweitert |
+
 ---
 
 ## H — Was als Nächstes ansteht
