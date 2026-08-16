@@ -229,8 +229,99 @@ def seitenzahl(text: str) -> int | None:
     return None
 
 
+# --- Hitzegrad -------------------------------------------------------
+#
+# Wozu: Fuer Band 1 stand die Frage offen, ob ein Liebesroman dieser
+# Nische eine Liebesszene braucht. Die Antwort war bis zum 16.08.2026
+# eine Vermutung. Deutsche Romance-Titel schreiben den Grad fast immer
+# selbst auf die Produktseite -- als Spice-Angabe, als Warnhinweis oder
+# als ausdrueckliches "ohne explizite Szenen". Das laesst sich zaehlen.
+#
+# Die Muster sind absichtlich mehrwortig. "heiss" allein faengt
+# "Heisshunger", "es heisst" und "heiss begehrt"; genau diese Sorte
+# Fehlgriff hat in diesem Repository schon dreimal einen Bericht
+# verdorben. Deshalb steht unten ein Negativfall, der treffen wuerde,
+# wenn jemand die Muster wieder aufweicht.
+
+HITZE_EXPLIZIT = (
+    r"\bexplizit(?:e|en|er)\s+(?:Szenen|Liebesszenen|Darstellung)",
+    r"\bSpice[- ]?(?:Level|Grad|Faktor)",
+    r"[\U0001F336]",                       # Chilischote
+    r"\bab\s?18\b|\b18\+",
+    r"\bSexszenen?\b",
+    r"\berotische(?:r|n|s)?\s+(?:Roman|Liebesroman|Szenen|Momente)",
+    r"\bsteamy\b",
+    r"\bprickelnde(?:r|n|s)?\s+Erotik",
+)
+
+HITZE_GESCHLOSSEN = (
+    r"\bohne\s+explizite",
+    r"\bkeine\s+expliziten",
+    r"\bclosed[- ]door\b",
+    r"\bnicht\s+explizit\b",
+    r"\bohne\s+Erotik\b",
+)
+
+HITZE_DAZWISCHEN = (
+    r"\bprickelnd(?:e|er|en|es)?\b(?!\s+Erotik)",
+    r"\bknistert?\b|\bKnistern\b",
+    r"\bsinnlich(?:e|er|en|es)?\b",
+    r"\bleidenschaftlich(?:e|er|en|es)?\b",
+)
+
+HITZE_KATEGORIEN = ("Erotik", "Erotische", "Erotisch")
+
+
+def hitze(text: str, kategorien: list[tuple[int, str]] | None = None) -> str:
+    """explizit | geschlossen | dazwischen | keine Angabe.
+
+    Reihenfolge mit Absicht: Wer "ohne explizite Szenen" schreibt, sagt
+    ausdruecklich, dass es geschlossen ist -- und wuerde sonst vom
+    Explizit-Muster gefangen, weil das Wort dort vorkommt.
+    """
+    if kategorien:
+        for _, name in kategorien:
+            if any(name.startswith(k) for k in HITZE_KATEGORIEN):
+                return "explizit"
+    for muster in HITZE_GESCHLOSSEN:
+        if re.search(muster, text, re.I):
+            return "geschlossen"
+    for muster in HITZE_EXPLIZIT:
+        if re.search(muster, text, re.I):
+            return "explizit"
+    for muster in HITZE_DAZWISCHEN:
+        if re.search(muster, text, re.I):
+            return "dazwischen"
+    return "keine Angabe"
+
+
+def hitze_selbsttest() -> None:
+    """Ohne diesen Test ist 'keine Angabe' nicht von 'Muster kaputt' zu
+    unterscheiden."""
+    faelle = [
+        ("Spice-Level: 3 von 5. Enthaelt explizite Szenen.", "explizit"),
+        ("Ein Liebesroman ohne explizite Szenen.", "geschlossen"),
+        ("Zwischen den beiden knistert es von der ersten Seite an.",
+         "dazwischen"),
+        # Der Negativfall. Jedes dieser Woerter hat ein Muster schon
+        # einmal faelschlich ausgeloest.
+        ("Es heisst, der Roman sei heiss begehrt. Sie hatte Heisshunger "
+         "und 18 Kapitel vor sich. Ein Buch ab 1899.", "keine Angabe"),
+    ]
+    for text, erwartet in faelle:
+        ist = hitze(text)
+        zeichen = "ok " if ist == erwartet else "FEHLER"
+        print(f"  {zeichen} {ist:<13} <- {text[:52]!r}")
+        if ist != erwartet:
+            sys.exit(f"Hitze-Selbsttest fehlgeschlagen: {erwartet} erwartet.")
+    if hitze("", [(4, "Erotische Literatur")]) != "explizit":
+        sys.exit("Hitze-Selbsttest: Kategorie nicht erkannt.")
+    print("  ok  Kategorie 'Erotische Literatur' zaehlt als explizit")
+
+
 def bsr_holen(seite, host: str, asin: str,
-              muster: str) -> tuple[int | None, list[tuple[int, str]], int | None]:
+              muster: str) -> tuple[int | None, list[tuple[int, str]],
+                                     int | None, str]:
     """BSR und Kategorien stehen nur auf der Produktseite.
 
     Amazon listet dort untereinander:
@@ -260,7 +351,7 @@ def bsr_holen(seite, host: str, asin: str,
         r = zahl_aus(rang)
         if r:
             kategorien.append((r, name))
-    return bsr, kategorien[:4], umfang
+    return bsr, kategorien[:4], umfang, hitze(text, kategorien)
 
 
 def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
@@ -304,10 +395,12 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
 
     for t in organisch[:details]:
         try:
-            t["bsr"], t["kategorien"], t["seiten"] = bsr_holen(
+            (t["bsr"], t["kategorien"], t["seiten"],
+             t["hitze"]) = bsr_holen(
                 seite, markt["host"], t["asin"], markt["bsr_muster"])
         except Exception:
             t["bsr"], t["kategorien"], t["seiten"] = None, [], None
+            t["hitze"] = "nicht gelesen"
         time.sleep(pause + random.uniform(0, pause))
 
     bsrs = [t["bsr"] for t in organisch[:details] if t.get("bsr")]
@@ -328,6 +421,9 @@ def eine_nische(seite, markt: dict, begriff: str, titel: int, details: int,
     seiten = [t["seiten"] for t in organisch[:details] if t.get("seiten")]
     ergebnis["seiten_werte"] = sorted(seiten)
     ergebnis["seiten_median"] = int(median(seiten)) if seiten else None
+
+    ergebnis["hitze"] = [t.get("hitze", "nicht gelesen")
+                         for t in organisch[:details]]
 
     zaehler: dict[str, list[int]] = {}
     for t in organisch[:details]:
@@ -379,6 +475,30 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
             if e.get("seitentitel"):
                 z.append(f"  - Seitentitel: `{e['seitentitel']}`")
                 z.append(f"  - Seitenanfang: `{e.get('seitenanfang','')[:180]}`")
+
+    # --- Hitzegrad
+    stufen = ("explizit", "dazwischen", "geschlossen", "keine Angabe")
+    z += ["", "## Hitzegrad der Spitzentitel", "",
+          "Wie explizit die gemessenen Titel selbst angeben zu sein — "
+          "aus Beschreibung, Warnhinweisen und Kategorien der "
+          "Produktseite. Deutsche Romance-Titel schreiben das fast immer "
+          "selbst hin. **Was ohne Angabe bleibt, ist nicht "
+          "„geschlossen“, sondern ungemessen.**", "",
+          "| Nische | " + " | ".join(stufen) + " |",
+          "|---|" + "---:|" * len(stufen)]
+    gesamt = {s: 0 for s in stufen}
+    for e in ergebnisse:
+        if e.get("fehler"):
+            continue
+        zaehl = {s: 0 for s in stufen}
+        for h in e.get("hitze", []):
+            if h in zaehl:
+                zaehl[h] += 1
+                gesamt[h] += 1
+        z.append(f"| {e['begriff']} | "
+                 + " | ".join(str(zaehl[s]) for s in stufen) + " |")
+    z.append("| **gesamt** | "
+             + " | ".join(f"**{gesamt[s]}**" for s in stufen) + " |")
 
     z += ["", "## Wie zu lesen", "",
           "- **BSR Median niedrig** = viel Nachfrage in dieser Nische.",
@@ -492,6 +612,12 @@ def main() -> None:
             seite.wait_for_timeout(1500)
         except Exception as e:
             print(f"Aufwaermen fehlgeschlagen: {str(e)[:120]}", flush=True)
+
+        # Erst das Messgeraet pruefen, dann messen. Ein kaputtes
+        # Hitze-Muster liefert lauter "keine Angabe" und sieht im
+        # Bericht aus wie ein Befund.
+        print("Hitze-Selbsttest:", flush=True)
+        hitze_selbsttest()
 
         for begriff in a_arg.begriffe:
             print(f"messe: {begriff} ({markt['host']}) ...", flush=True)
