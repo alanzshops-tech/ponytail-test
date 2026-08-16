@@ -3,6 +3,8 @@
 Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
 Mutter.“
 
+Es war der fünfzehnte April, und der Samstag war der achtzehnte.
+
 Nicht *hast du Zeit*. Nicht *würdest du gern*. Ein Termin, mit Uhrzeit,
 wie sie Lieferanten bestellt.
 

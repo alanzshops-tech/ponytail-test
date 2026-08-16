@@ -191,11 +191,11 @@ vom Umbau zwei Häuser weiter, die immer viel zu laut und viel zu freundlich
 waren.
 
 Um zehn nach neun kam Herr Kubatz mit dem Hund. Er kommt seit vier
-Jahren um zehn nach neun, er nimmt seit vier Jahren einen Milchkaffee
-und ein Franzbrötchen, und er liest jedes Mal die Karte. Jedes Mal. Der
-Hund heißt Sender, weil Herr Kubatz früher beim NDR war, und Sender legt
-sich unter den zweiten Tisch von links, immer denselben, und seufzt
-dabei wie ein alter Mann.
+Jahren um zehn nach neun, er liest jedes Mal die Karte, die sich nicht
+ändert, und nimmt dann einen Kaffee und ein Stück von dem, was am
+längsten in der Vitrine liegt. Der Hund heißt Sender, weil Herr Kubatz
+früher beim NDR war, und Sender legt sich unter Tisch sieben, immer
+denselben, und seufzt dabei wie ein alter Mann.
 
 Gegen halb zehn kam Sanne aus dem Copyshop schräg gegenüber, um Wechselgeld
 zu tauschen, weil ihr Automat wieder keine Zweier nahm. Der Copyshop war
@@ -213,7 +213,7 @@ meiner gehört. Wir duzen uns, seit wir sieben waren, und wir reden nie
 
 Um kurz nach zehn kam Frau Kettler mit Emil an der Hand die Treppe
 herunter, weil er darauf bestanden hatte, und Emil marschierte auf mich
-zu, mit dieser Entschlossenheit, die achtzehn Monate alte Menschen haben,
+zu, mit dieser Entschlossenheit, die sechzehn Monate alte Menschen haben,
 wenn sie ein Ziel sehen.
 
 „Ma“, sagte er und griff nach meinem Bein.
@@ -250,9 +250,11 @@ dass sie sich nicht durch Weglegen erledigt.
 
 *Sehr geehrte Frau Voss,*
 
-*hiermit kündigen wir das Darlehen Nr. 4471-2288 zum 30. September
-fristgerecht. Die Restforderung in Höhe von 214.800,00 EUR wird zu diesem
-Zeitpunkt zur Rückzahlung fällig.*
+*…sehen wir uns leider nicht mehr in der Lage, die Darlehen Nr.
+4471-2288 zu den bisherigen Bedingungen fortzuführen. Sofern uns nicht
+binnen sechs Wochen ein verbindlicher Nachweis über die Beseitigung des
+Sanierungsrückstands am Dach oder die Rückführung der Restforderung von
+214.600,00 EUR vorliegt, werden wir die Darlehen kündigen.*
 
 Sechs Wochen.
 
@@ -1265,6 +1267,16 @@ Dann ging er.
 
 ---
 
+Am Montag darauf habe ich der Bank die Abnahmebescheinigung des
+Zimmermanns geschickt, zusammen mit dem Vertrag, aus dem hervorgeht, wer
+das Dach bezahlt hat. Elf Tage später kam die Antwort, drei Sätze lang:
+Die angekündigte Kündigung werde *bis auf Weiteres zurückgestellt*, die
+Engagements blieben *unter Beobachtung*.
+
+Ich habe *bis auf Weiteres* damals für eine Zusage gehalten.
+
+---
+
 Freitagabend, nach Ladenschluss, saß ich auf der Treppe zur Wohnung, mit
 Emil auf dem Schoß, und hörte, wie es zum ersten Mal seit vier Jahren
 regnete, ohne dass ich einen Eimer in den dritten Stock tragen musste.
@@ -1911,7 +1923,7 @@ weil draußen kein Tisch steht.
 An diesem Abend erzählte sie mir von ihrer Mutter. Nicht viel, und nicht
 in einem Stück — sie erzählt so, wie andere Leute etwas zugeben. Dass
 die Mutter nach der Scheidung zwei Jahre lang morgens nicht aufgestanden
-ist. Dass Marlene mit zwölf gelernt hat, die Waschmaschine zu bedienen,
+ist. Dass Marlene mit zehn gelernt hat, die Waschmaschine zu bedienen,
 und dass sie das damals für eine Auszeichnung gehalten hat.
 
 „Und heute?“, fragte ich.
@@ -1955,7 +1967,7 @@ Sie sagte lange nichts.
 „Was hätten Sie stattdessen gemacht?“
 
 „Ich weiß es nicht.“ Ich hörte selbst, wie ungeschützt das klang. „Ich
-war zweiundzwanzig. Man weiß es mit zweiundzwanzig nicht. Man hat nur das
+war vierundzwanzig. Man weiß es mit vierundzwanzig nicht. Man hat nur das
 Gefühl, dass man es irgendwann herausfinden wird, und dann findet man es
 nicht heraus, weil dazwischen ein Leben passiert.“
 
@@ -2783,8 +2795,8 @@ ist ein Gehalt und eine Tantieme, und selbst die habe ich nur, solange
 sieben Menschen an einem Tisch von 1998 der Meinung sind, dass ich meine
 Sache gut mache.
 
-Ein Mann mit diesen Zahlen, der um Viertel nach neun abends vor einem
-Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
+Ein Mann mit diesen Zahlen, der sonntags um zwanzig nach elf nachts vor
+einem Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
 trotzdem nur ein Mann, der vor einem Kontorhaus parkt.
 
 ---
@@ -3317,7 +3329,7 @@ Theo war schon zwei Schritte weiter, drehte sich aber noch einmal um, und
 zum ersten Mal sah er nicht aus wie mein Architekt, sondern wie mein
 kleiner Bruder mit einunddreißig.
 
-„Weil ich seit vier Monaten mit jemandem verheiratet bin, dem ich es
+„Weil ich seit acht Monaten mit jemandem verheiratet bin, dem ich es
 nicht gesagt habe“, sagte er. „Und weil das jeden Tag schlimmer wird.“
 
 Und dann ging er.
@@ -4101,7 +4113,7 @@ angefasst hat — und ging zum Wagen, und bevor er die Tür zumachte, hatte
 er schon das Telefon am Ohr.
 
 Ich sah ihm nach und dachte an das, was meine Mutter gesagt hat, als ich
-neun war und mein Vater das letzte Mal die Tür zumachte.
+zehn war und mein Vater das letzte Mal die Tür zumachte.
 
 *Sie regeln erst alles, und dann sind sie weg.*
 
@@ -4145,8 +4157,8 @@ Ich sah sie an.
 „Was heißt ja?“
 
 „Es heißt ja, Jonas.“ Sie legte die Hände in den Schoß, die rechte über
-die linke, wie immer. „Ich habe ihn im November gesehen. Vier Wochen
-ist das her.“
+die linke, wie immer. „Ich habe ihn am Sankt-Martins-Abend gesehen. Das
+ist fünf Tage her.“
 
 „Und du hast nichts gesagt?“
 
@@ -4516,8 +4528,8 @@ Ich habe ihn trotzdem nicht weggeworfen, und ich weiß bis heute nicht
 genau, warum.
 
 Ich glaube, es war das: Er ist der Beweis, dass ich es vorhatte. Nicht
-dass ich es getan habe — dass ich es vorhatte, hundertdreißig Tage
-lang, jeden Tag ein bisschen weniger.
+dass ich es getan habe — dass ich es vorhatte, achtzehn Tage lang,
+jeden Tag ein bisschen weniger.
 
 Es gibt Dinge, die man aufhebt, damit man sich später nicht anders
 erzählt.
@@ -4626,7 +4638,8 @@ Kind von meinem Vater. Sie hat dreimal angerufen, dann geschrieben, dann
 ist sie in den Empfang gekommen. Es stimmte nichts davon. Es ging um
 Geld, es gab am Ende eine Anzeige, und mein Vater hat vier Monate lang
 schlecht geschlafen, was ich damals nicht gemerkt habe, weil ich
-zweiundzwanzig war und in Braunschweig studiert habe.
+zweiundzwanzig war, in Braunschweig wohnte und mit der Firma nichts zu
+tun hatte.
 
 Danach hat er zu Frau Thormählen gesagt: *Privates kommt hier nicht
 durch. Nichts, was keinen Termin hat, keine Firma und kein Anliegen.
@@ -5431,7 +5444,7 @@ dieser Reihenfolge, drei Tage vorher.
 „Was?“
 
 „Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
-zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
+vierundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
 wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
 Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
 Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
@@ -5475,7 +5488,7 @@ gerade erklären musste.“
 
 ---
 
-Er ging um Viertel nach acht.
+Er ging um Viertel nach neun.
 
 An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
 und dass er es nicht fand, und dass ihm das selbst auffiel.
@@ -5945,7 +5958,7 @@ Ich habe an diesem Nachmittag nichts unternommen.
 Ich schreibe das hin, weil es später wichtig wird: Am zweiten Dezember
 wusste ich, dass ein Mann durch diese Stadt geht und nach Objekten mit
 Finanzierungsproblemen sucht. Ich habe es gewusst und habe es
-weggelegt, weil ich am selben Abend um sechs mit einem Zwanzig-Monate-
+weggelegt, weil ich am selben Abend um sechs mit einem Neunzehn-Monate-
 Menschen verabredet war.
 
 Am ersten Dezember hatte ich Frau Kuhlmann gebeten, die Finanzierung
@@ -6149,7 +6162,7 @@ Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
 
 „Geburtsdatum?“
 
-„Achter Mai 2025.“
+„Achter Mai 2024.“
 
 „Versichert bei?“
 
@@ -6510,8 +6523,8 @@ Sie hat gesagt: „Bedank dich nicht. Es steht ihm zu. Nicht dir.“
 ---
 
 Ich bin um sieben nach Hause gefahren, habe geduscht, ein Hemd
-angezogen und war um Viertel vor neun im Büro, weil dienstags um neun
-die Bauleiterrunde ist.
+angezogen und war um Viertel vor neun im Büro, weil montags um neun die
+Bauleiterrunde ist.
 
 Ich habe die Bauleiterrunde gehalten. Vierzig Minuten, Rothenburgsort,
 Fundamentplatte, drei Entscheidungen. Niemand hat etwas gemerkt.
@@ -6554,7 +6567,8 @@ Sie hat es eingetragen, ohne zu fragen, wozu.
 # Kapitel 29 — Leni
 
 Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
-habe in diesen achtzehn Stunden ungefähr vier Dinge über mich gelernt,
+habe in diesen vierunddreißig Stunden ungefähr vier Dinge über mich
+gelernt,
 die ich vorher nicht wusste.
 
 **Das erste:** Ich habe niemanden angerufen.
@@ -6574,7 +6588,8 @@ Ich habe gesagt, es sei alles gut gegangen.
 
 Sie hat gesagt: „Darum geht es nicht, Leni.“
 
-**Das zweite:** Ich habe in diesen achtzehn Stunden zweimal geschlafen,
+**Das zweite:** Ich habe in diesen vierunddreißig Stunden zweimal
+geschlafen,
 und zwar beide Male, weil jemand anderes wach war.
 
 ---
@@ -6610,7 +6625,7 @@ mich die Schuld teilen konnte.
 merken, und ich wollte es nicht zurückhaben.
 
 Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
-achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
+vierunddreißig Stunden habe ich kein einziges Mal an die Bank gedacht.
 
 Der Brief lag seit dem vierten Dezember in der Schublade unter der
 Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin
@@ -6812,7 +6827,7 @@ Da stand mein Name. Darunter stand: *Vater*.
 Ich habe zwölf Jahre lang Urkunden unterschrieben. Kaufverträge über
 Beträge, für die man in dieser Stadt eine Straße bekommt. Grundschulden,
 Bürgschaften, einen Gesellschafterbeschluss, mit dem ich mit
-zweiundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
+vierundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
 außer mir kein Mensch unter fünfzig saß.
 
 Ich habe bei keiner davon zittrige Hände gehabt.
@@ -7003,11 +7018,11 @@ Sanne: sie hat es nicht, und ich würde sie nicht fragen.
 Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
 dreiundsiebzigtausend.
 
-Es fehlen zweihunderteinundvierzig.
+Es fehlen einhunderteinundvierzig.
 
 ---
 
-Am achten war ich bei der Bank.
+Am elften war ich bei der Bank.
 
 Herr Timm, dritter Stock, ein Büro mit einem Rollcontainer und einem
 Foto von zwei Kindern auf Skiern. Er war höflich. Er war so höflich, dass
@@ -7078,7 +7093,7 @@ man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
 
 Wir saßen eine Weile.
 
-„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
+„Es reicht sowieso nicht“, sagte ich. „Es fehlen einhundertdreißig.“
 
 „Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
 Frau Voss. Nicht wegen des Geldes.“
@@ -7690,7 +7705,7 @@ hielt den Holzlaster fest und sagte diesen Laut mit dem harten Anfang.
 
 Und ich musste ihm sagen, dass der Mann nicht mehr da ist.
 
-Er ist achtzehn Monate alt. Er versteht das nicht.
+Er ist neunzehn Monate alt. Er versteht das nicht.
 
 Er hat es trotzdem drei Tage lang jeden Abend gefragt.
 
@@ -9364,7 +9379,7 @@ aufgehört, meine Mutter zu sein, für ungefähr eine Minute, und war eine
 Frau von dreiundsechzig, die einmal vierzig war und zwei Jahre lang
 nicht aufgestanden ist.
 
-„Du hast die Wäsche gemacht“, sagte sie. „Mit zwölf.“
+„Du hast die Wäsche gemacht“, sagte sie. „Mit zehn.“
 
 „Das war nicht schlimm.“
 
@@ -9617,7 +9632,7 @@ meine dich. Was machst du dann?“
 
 Ich habe darauf keine Antwort gehabt.
 
-Ich bin sechsunddreißig, ich habe mit zweiundzwanzig ein
+Ich bin sechsunddreißig, ich habe mit vierundzwanzig ein
 Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
 die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
 Antwort.
@@ -10117,7 +10132,7 @@ Sonntagnachmittag, und wir waren beide sehr höflich.
 Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
 obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
 anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
-ob man einem Kind mit achtzehn Monaten schon Nüsse geben darf.
+ob man einem Kind mit zwanzig Monaten schon Nüsse geben darf.
 
 Emil hat nichts davon gemerkt, und das war die ganze Absicht.
 
@@ -11182,7 +11197,7 @@ Jahren steht da nichts.“
 
 Meine Mutter hat den Mantel zugeknöpft.
 
-„2025“, sagte sie. „*Emil geboren.* Das würde ich hinschreiben.“
+„2024“, sagte sie. „*Emil geboren.* Das würde ich hinschreiben.“
 
 Ich habe es an diesem Abend gemacht, mit dem Bleistift meiner
 Großmutter, den ich immer noch mit dem Messer spitze.
@@ -11506,8 +11521,7 @@ herausgenommen.
 
 *Emil ist deiner.*
 
-Vier Wörter, viermal umgeschrieben, hundertdreißig Tage lang nicht
-gesagt.
+Vier Wörter, viermal umgeschrieben, achtzehn Tage lang nicht gesagt.
 
 Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
 Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
@@ -12052,7 +12066,7 @@ Ich habe es genommen.
 ---
 
 Er lag von April bis Mai in einer Schublade in meiner Küche, und sie
-wusste ab dem dritten Tag, dass er da ist, weil ich es ihr gesagt habe.
+wusste es seit dem sechzehnten, weil ich es ihr gesagt habe.
 
 Das war nicht geplant. Wir standen an einem Donnerstagabend in ihrer
 Küche und hatten unseren einen wahren Satz vor uns, und meiner war
@@ -12161,7 +12175,7 @@ Fachbereich Bauingenieurwesen, an den ich zwei Wochen vorher
 geschrieben hatte.
 
 Ich hatte gefragt, ob es möglich ist, ein Studium fortzusetzen, das man
-im Jahr 2011 nach dem zweiten Semester abgebrochen hat.
+im Jahr 2013 nach dem zweiten Semester abgebrochen hat.
 
 Er hat geantwortet: Ja. In Teilzeit. Es dauert dann acht bis neun Jahre.
 
@@ -12392,6 +12406,8 @@ wenn man sie aufschreibt.
 
 Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
 Mutter.“
+
+Es war der fünfzehnte April, und der Samstag war der achtzehnte.
 
 Nicht *hast du Zeit*. Nicht *würdest du gern*. Ein Termin, mit Uhrzeit,
 wie sie Lieferanten bestellt.
@@ -12714,8 +12730,8 @@ verkniffen hat, weil ich ihn darum gebeten hatte.
 Und dann war er weg, und ich habe eine Kiste mit dem, was übrig war,
 für Frau Kettler bereitgestellt und die Kasse gemacht.
 
-**478,20 €.** Der beste Samstag des Jahres, und das lag am Wetter und
-nicht an mir.
+**478,20 €.** Der beste Samstag des Jahres bis dahin, und das lag am
+Wetter und nicht an mir.
 
 ---
 
@@ -12751,7 +12767,7 @@ klangen, das man sich selbst erzählt.
 
 Am Ende stand da:
 
-*25.04. — Er hat gewusst, wo die Tassen stehen.*
+*18.04. — Er hat gewusst, wo die Tassen stehen.*
 
 ---
 

@@ -72,7 +72,7 @@ Eine Frau hinter Glas, ein Formular, ein Klemmbrett.
 
 „Geburtsdatum?“
 
-„Achter Mai 2025.“
+„Achter Mai 2024.“
 
 „Versichert bei?“
 

@@ -134,7 +134,7 @@ weil draußen kein Tisch steht.
 An diesem Abend erzählte sie mir von ihrer Mutter. Nicht viel, und nicht
 in einem Stück — sie erzählt so, wie andere Leute etwas zugeben. Dass
 die Mutter nach der Scheidung zwei Jahre lang morgens nicht aufgestanden
-ist. Dass Marlene mit zwölf gelernt hat, die Waschmaschine zu bedienen,
+ist. Dass Marlene mit zehn gelernt hat, die Waschmaschine zu bedienen,
 und dass sie das damals für eine Auszeichnung gehalten hat.
 
 „Und heute?“, fragte ich.
@@ -178,7 +178,7 @@ Sie sagte lange nichts.
 „Was hätten Sie stattdessen gemacht?“
 
 „Ich weiß es nicht.“ Ich hörte selbst, wie ungeschützt das klang. „Ich
-war zweiundzwanzig. Man weiß es mit zweiundzwanzig nicht. Man hat nur das
+war vierundzwanzig. Man weiß es mit vierundzwanzig nicht. Man hat nur das
 Gefühl, dass man es irgendwann herausfinden wird, und dann findet man es
 nicht heraus, weil dazwischen ein Leben passiert.“
 

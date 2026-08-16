@@ -25,7 +25,7 @@ Ich habe es genommen.
 ---
 
 Er lag von April bis Mai in einer Schublade in meiner Küche, und sie
-wusste ab dem dritten Tag, dass er da ist, weil ich es ihr gesagt habe.
+wusste es seit dem sechzehnten, weil ich es ihr gesagt habe.
 
 Das war nicht geplant. Wir standen an einem Donnerstagabend in ihrer
 Küche und hatten unseren einen wahren Satz vor uns, und meiner war
@@ -134,7 +134,7 @@ Fachbereich Bauingenieurwesen, an den ich zwei Wochen vorher
 geschrieben hatte.
 
 Ich hatte gefragt, ob es möglich ist, ein Studium fortzusetzen, das man
-im Jahr 2011 nach dem zweiten Semester abgebrochen hat.
+im Jahr 2013 nach dem zweiten Semester abgebrochen hat.
 
 Er hat geantwortet: Ja. In Teilzeit. Es dauert dann acht bis neun Jahre.
 

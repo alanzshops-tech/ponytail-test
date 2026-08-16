@@ -79,7 +79,7 @@ Da stand mein Name. Darunter stand: *Vater*.
 Ich habe zwölf Jahre lang Urkunden unterschrieben. Kaufverträge über
 Beträge, für die man in dieser Stadt eine Straße bekommt. Grundschulden,
 Bürgschaften, einen Gesellschafterbeschluss, mit dem ich mit
-zweiundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
+vierundzwanzig eine Firma übernommen habe, an einem Tisch, an dem
 außer mir kein Mensch unter fünfzig saß.
 
 Ich habe bei keiner davon zittrige Hände gehabt.

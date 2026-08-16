@@ -134,7 +134,7 @@ Theo war schon zwei Schritte weiter, drehte sich aber noch einmal um, und
 zum ersten Mal sah er nicht aus wie mein Architekt, sondern wie mein
 kleiner Bruder mit einunddreißig.
 
-„Weil ich seit vier Monaten mit jemandem verheiratet bin, dem ich es
+„Weil ich seit acht Monaten mit jemandem verheiratet bin, dem ich es
 nicht gesagt habe“, sagte er. „Und weil das jeden Tag schlimmer wird.“
 
 Und dann ging er.

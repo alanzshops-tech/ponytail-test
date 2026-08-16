@@ -186,6 +186,16 @@ Dann ging er.
 
 ---
 
+Am Montag darauf habe ich der Bank die Abnahmebescheinigung des
+Zimmermanns geschickt, zusammen mit dem Vertrag, aus dem hervorgeht, wer
+das Dach bezahlt hat. Elf Tage später kam die Antwort, drei Sätze lang:
+Die angekündigte Kündigung werde *bis auf Weiteres zurückgestellt*, die
+Engagements blieben *unter Beobachtung*.
+
+Ich habe *bis auf Weiteres* damals für eine Zusage gehalten.
+
+---
+
 Freitagabend, nach Ladenschluss, saß ich auf der Treppe zur Wohnung, mit
 Emil auf dem Schoß, und hörte, wie es zum ersten Mal seit vier Jahren
 regnete, ohne dass ich einen Eimer in den dritten Stock tragen musste.

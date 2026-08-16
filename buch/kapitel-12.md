@@ -38,8 +38,8 @@ ist ein Gehalt und eine Tantieme, und selbst die habe ich nur, solange
 sieben Menschen an einem Tisch von 1998 der Meinung sind, dass ich meine
 Sache gut mache.
 
-Ein Mann mit diesen Zahlen, der um Viertel nach neun abends vor einem
-Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
+Ein Mann mit diesen Zahlen, der sonntags um zwanzig nach elf nachts vor
+einem Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
 trotzdem nur ein Mann, der vor einem Kontorhaus parkt.
 
 ---

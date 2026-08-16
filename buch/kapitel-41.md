@@ -148,7 +148,7 @@ aufgehört, meine Mutter zu sein, für ungefähr eine Minute, und war eine
 Frau von dreiundsechzig, die einmal vierzig war und zwei Jahre lang
 nicht aufgestanden ist.
 
-„Du hast die Wäsche gemacht“, sagte sie. „Mit zwölf.“
+„Du hast die Wäsche gemacht“, sagte sie. „Mit zehn.“
 
 „Das war nicht schlimm.“
 

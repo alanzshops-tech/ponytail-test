@@ -31,8 +31,8 @@ Ich sah sie an.
 „Was heißt ja?“
 
 „Es heißt ja, Jonas.“ Sie legte die Hände in den Schoß, die rechte über
-die linke, wie immer. „Ich habe ihn im November gesehen. Vier Wochen
-ist das her.“
+die linke, wie immer. „Ich habe ihn am Sankt-Martins-Abend gesehen. Das
+ist fünf Tage her.“
 
 „Und du hast nichts gesagt?“
 

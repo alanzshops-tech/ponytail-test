@@ -34,7 +34,7 @@ Ich habe an diesem Nachmittag nichts unternommen.
 Ich schreibe das hin, weil es später wichtig wird: Am zweiten Dezember
 wusste ich, dass ein Mann durch diese Stadt geht und nach Objekten mit
 Finanzierungsproblemen sucht. Ich habe es gewusst und habe es
-weggelegt, weil ich am selben Abend um sechs mit einem Zwanzig-Monate-
+weggelegt, weil ich am selben Abend um sechs mit einem Neunzehn-Monate-
 Menschen verabredet war.
 
 Am ersten Dezember hatte ich Frau Kuhlmann gebeten, die Finanzierung

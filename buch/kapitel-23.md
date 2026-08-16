@@ -152,7 +152,7 @@ dieser Reihenfolge, drei Tage vorher.
 „Was?“
 
 „Dasitzen.“ Er hob die Hände und ließ sie wieder fallen. „Ich habe mit
-zweiundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
+vierundzwanzig eine Firma bekommen und eine Familie, die nicht wusste,
 wie man die Beerdigung bezahlt. Ich habe nicht gelernt, in einem
 Zimmer zu sitzen und ein Problem nicht anzufassen. Ich habe gelernt,
 Listen zu machen. Das hier —“ er zeigte auf die Mappe — „ist die
@@ -196,7 +196,7 @@ gerade erklären musste.“
 
 ---
 
-Er ging um Viertel nach acht.
+Er ging um Viertel nach neun.
 
 An der Tür blieb er stehen, und ich sah ihm an, dass er etwas suchte,
 und dass er es nicht fand, und dass ihm das selbst auffiel.

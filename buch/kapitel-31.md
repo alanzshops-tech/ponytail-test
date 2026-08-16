@@ -38,11 +38,11 @@ Sanne: sie hat es nicht, und ich würde sie nicht fragen.
 Zusammen komme ich, wenn alles klappt und niemand krank wird, auf rund
 dreiundsiebzigtausend.
 
-Es fehlen zweihunderteinundvierzig.
+Es fehlen einhunderteinundvierzig.
 
 ---
 
-Am achten war ich bei der Bank.
+Am elften war ich bei der Bank.
 
 Herr Timm, dritter Stock, ein Büro mit einem Rollcontainer und einem
 Foto von zwei Kindern auf Skiern. Er war höflich. Er war so höflich, dass
@@ -113,7 +113,7 @@ man solche Sätze gesagt haben muss. Sonst denkt man später, man hätte.“
 
 Wir saßen eine Weile.
 
-„Es reicht sowieso nicht“, sagte ich. „Es fehlen zweihundertdreizehn.“
+„Es reicht sowieso nicht“, sagte ich. „Es fehlen einhundertdreißig.“
 
 „Ich weiß.“ Sie stand wieder auf. „Aber Sie hätten es nehmen sollen,
 Frau Voss. Nicht wegen des Geldes.“

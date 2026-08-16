@@ -163,7 +163,7 @@ meine dich. Was machst du dann?“
 
 Ich habe darauf keine Antwort gehabt.
 
-Ich bin sechsunddreißig, ich habe mit zweiundzwanzig ein
+Ich bin sechsunddreißig, ich habe mit vierundzwanzig ein
 Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
 die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
 Antwort.

@@ -189,8 +189,8 @@ Sie hat gesagt: „Bedank dich nicht. Es steht ihm zu. Nicht dir.“
 ---
 
 Ich bin um sieben nach Hause gefahren, habe geduscht, ein Hemd
-angezogen und war um Viertel vor neun im Büro, weil dienstags um neun
-die Bauleiterrunde ist.
+angezogen und war um Viertel vor neun im Büro, weil montags um neun die
+Bauleiterrunde ist.
 
 Ich habe die Bauleiterrunde gehalten. Vierzig Minuten, Rothenburgsort,
 Fundamentplatte, drei Entscheidungen. Niemand hat etwas gemerkt.

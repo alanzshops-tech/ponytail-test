@@ -57,7 +57,7 @@ Sonntagnachmittag, und wir waren beide sehr höflich.
 Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
 obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
 anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
-ob man einem Kind mit achtzehn Monaten schon Nüsse geben darf.
+ob man einem Kind mit zwanzig Monaten schon Nüsse geben darf.
 
 Emil hat nichts davon gemerkt, und das war die ganze Absicht.
 

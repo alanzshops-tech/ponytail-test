@@ -100,7 +100,8 @@ Kind von meinem Vater. Sie hat dreimal angerufen, dann geschrieben, dann
 ist sie in den Empfang gekommen. Es stimmte nichts davon. Es ging um
 Geld, es gab am Ende eine Anzeige, und mein Vater hat vier Monate lang
 schlecht geschlafen, was ich damals nicht gemerkt habe, weil ich
-zweiundzwanzig war und in Braunschweig studiert habe.
+zweiundzwanzig war, in Braunschweig wohnte und mit der Firma nichts zu
+tun hatte.
 
 Danach hat er zu Frau Thormählen gesagt: *Privates kommt hier nicht
 durch. Nichts, was keinen Termin hat, keine Firma und kein Anliegen.

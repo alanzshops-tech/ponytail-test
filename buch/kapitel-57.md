@@ -139,8 +139,8 @@ verkniffen hat, weil ich ihn darum gebeten hatte.
 Und dann war er weg, und ich habe eine Kiste mit dem, was übrig war,
 für Frau Kettler bereitgestellt und die Kasse gemacht.
 
-**478,20 €.** Der beste Samstag des Jahres, und das lag am Wetter und
-nicht an mir.
+**478,20 €.** Der beste Samstag des Jahres bis dahin, und das lag am
+Wetter und nicht an mir.
 
 ---
 
@@ -176,4 +176,4 @@ klangen, das man sich selbst erzählt.
 
 Am Ende stand da:
 
-*25.04. — Er hat gewusst, wo die Tassen stehen.*
+*18.04. — Er hat gewusst, wo die Tassen stehen.*

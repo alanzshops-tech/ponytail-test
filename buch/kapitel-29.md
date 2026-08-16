@@ -1,7 +1,8 @@
 # Kapitel 29 — Leni
 
 Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
-habe in diesen achtzehn Stunden ungefähr vier Dinge über mich gelernt,
+habe in diesen vierunddreißig Stunden ungefähr vier Dinge über mich
+gelernt,
 die ich vorher nicht wusste.
 
 **Das erste:** Ich habe niemanden angerufen.
@@ -21,7 +22,8 @@ Ich habe gesagt, es sei alles gut gegangen.
 
 Sie hat gesagt: „Darum geht es nicht, Leni.“
 
-**Das zweite:** Ich habe in diesen achtzehn Stunden zweimal geschlafen,
+**Das zweite:** Ich habe in diesen vierunddreißig Stunden zweimal
+geschlafen,
 und zwar beide Male, weil jemand anderes wach war.
 
 ---
@@ -57,7 +59,7 @@ mich die Schuld teilen konnte.
 merken, und ich wollte es nicht zurückhaben.
 
 Und noch etwas, das mir erst viel später aufgefallen ist: In diesen
-achtzehn Stunden habe ich kein einziges Mal an die Bank gedacht.
+vierunddreißig Stunden habe ich kein einziges Mal an die Bank gedacht.
 
 Der Brief lag seit dem vierten Dezember in der Schublade unter der
 Kasse. Ich hatte ihn gelesen, zweimal, und ich wusste jede Zahl darin

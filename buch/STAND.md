@@ -10,7 +10,7 @@ Geheimnis*
 | | |
 |---|---|
 | Kapitel | **58 + Epilog** |
-| Wörter Fließtext | **69.279** |
+| Wörter Fließtext | **69.380** |
 | Schnitt je Kapitel | 1.171 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
@@ -19,7 +19,7 @@ Geheimnis*
 
 **Die Länge ist damit erledigt.** Gemessen (`../KDP-NISCHEN.md`, 19
 Produktseiten): Median 291 bis 337 Druckseiten, also **65.000 bis 82.000
-Wörter**. Das Manuskript liegt bei 69.279, also im Band.
+Wörter**. Das Manuskript liegt bei 69.380, also im Band.
 
 Das ist eine Aussage über die Länge und über nichts sonst. Ein Buch im
 Zielband verkauft sich nicht deshalb; die Länge ist nur kein Argument
@@ -35,7 +35,7 @@ den Bewertungen.
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
 | Block 3 | 56 | 65.699 |
-| **Block 4 (Ende + Wärme)** | **59** | **69.279** |
+| **Block 4 (Ende + Wärme)** | **59** | **69.380** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches

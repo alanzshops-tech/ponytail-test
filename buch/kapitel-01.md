@@ -154,11 +154,11 @@ vom Umbau zwei Häuser weiter, die immer viel zu laut und viel zu freundlich
 waren.
 
 Um zehn nach neun kam Herr Kubatz mit dem Hund. Er kommt seit vier
-Jahren um zehn nach neun, er nimmt seit vier Jahren einen Milchkaffee
-und ein Franzbrötchen, und er liest jedes Mal die Karte. Jedes Mal. Der
-Hund heißt Sender, weil Herr Kubatz früher beim NDR war, und Sender legt
-sich unter den zweiten Tisch von links, immer denselben, und seufzt
-dabei wie ein alter Mann.
+Jahren um zehn nach neun, er liest jedes Mal die Karte, die sich nicht
+ändert, und nimmt dann einen Kaffee und ein Stück von dem, was am
+längsten in der Vitrine liegt. Der Hund heißt Sender, weil Herr Kubatz
+früher beim NDR war, und Sender legt sich unter Tisch sieben, immer
+denselben, und seufzt dabei wie ein alter Mann.
 
 Gegen halb zehn kam Sanne aus dem Copyshop schräg gegenüber, um Wechselgeld
 zu tauschen, weil ihr Automat wieder keine Zweier nahm. Der Copyshop war
@@ -176,7 +176,7 @@ meiner gehört. Wir duzen uns, seit wir sieben waren, und wir reden nie
 
 Um kurz nach zehn kam Frau Kettler mit Emil an der Hand die Treppe
 herunter, weil er darauf bestanden hatte, und Emil marschierte auf mich
-zu, mit dieser Entschlossenheit, die achtzehn Monate alte Menschen haben,
+zu, mit dieser Entschlossenheit, die sechzehn Monate alte Menschen haben,
 wenn sie ein Ziel sehen.
 
 „Ma“, sagte er und griff nach meinem Bein.
@@ -213,9 +213,11 @@ dass sie sich nicht durch Weglegen erledigt.
 
 *Sehr geehrte Frau Voss,*
 
-*hiermit kündigen wir das Darlehen Nr. 4471-2288 zum 30. September
-fristgerecht. Die Restforderung in Höhe von 214.800,00 EUR wird zu diesem
-Zeitpunkt zur Rückzahlung fällig.*
+*…sehen wir uns leider nicht mehr in der Lage, die Darlehen Nr.
+4471-2288 zu den bisherigen Bedingungen fortzuführen. Sofern uns nicht
+binnen sechs Wochen ein verbindlicher Nachweis über die Beseitigung des
+Sanierungsrückstands am Dach oder die Rückführung der Restforderung von
+214.600,00 EUR vorliegt, werden wir die Darlehen kündigen.*
 
 Sechs Wochen.
 

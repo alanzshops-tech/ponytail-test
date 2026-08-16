@@ -205,7 +205,7 @@ angefasst hat — und ging zum Wagen, und bevor er die Tür zumachte, hatte
 er schon das Telefon am Ohr.
 
 Ich sah ihm nach und dachte an das, was meine Mutter gesagt hat, als ich
-neun war und mein Vater das letzte Mal die Tür zumachte.
+zehn war und mein Vater das letzte Mal die Tür zumachte.
 
 *Sie regeln erst alles, und dann sind sie weg.*
 

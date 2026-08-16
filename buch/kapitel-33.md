@@ -271,6 +271,6 @@ hielt den Holzlaster fest und sagte diesen Laut mit dem harten Anfang.
 
 Und ich musste ihm sagen, dass der Mann nicht mehr da ist.
 
-Er ist achtzehn Monate alt. Er versteht das nicht.
+Er ist neunzehn Monate alt. Er versteht das nicht.
 
 Er hat es trotzdem drei Tage lang jeden Abend gefragt.

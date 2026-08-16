@@ -197,8 +197,8 @@ Ich habe ihn trotzdem nicht weggeworfen, und ich weiß bis heute nicht
 genau, warum.
 
 Ich glaube, es war das: Er ist der Beweis, dass ich es vorhatte. Nicht
-dass ich es getan habe — dass ich es vorhatte, hundertdreißig Tage
-lang, jeden Tag ein bisschen weniger.
+dass ich es getan habe — dass ich es vorhatte, achtzehn Tage lang,
+jeden Tag ein bisschen weniger.
 
 Es gibt Dinge, die man aufhebt, damit man sich später nicht anders
 erzählt.

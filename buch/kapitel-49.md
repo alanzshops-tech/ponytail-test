@@ -196,7 +196,7 @@ Jahren steht da nichts.“
 
 Meine Mutter hat den Mantel zugeknöpft.
 
-„2025“, sagte sie. „*Emil geboren.* Das würde ich hinschreiben.“
+„2024“, sagte sie. „*Emil geboren.* Das würde ich hinschreiben.“
 
 Ich habe es an diesem Abend gemacht, mit dem Bleistift meiner
 Großmutter, den ich immer noch mit dem Messer spitze.

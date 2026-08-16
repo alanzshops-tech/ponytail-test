@@ -150,8 +150,7 @@ herausgenommen.
 
 *Emil ist deiner.*
 
-Vier Wörter, viermal umgeschrieben, hundertdreißig Tage lang nicht
-gesagt.
+Vier Wörter, viermal umgeschrieben, achtzehn Tage lang nicht gesagt.
 
 Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
 Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
