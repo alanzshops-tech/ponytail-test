@@ -1,7 +1,7 @@
 # Band 1 — Struktur
 
-*Die Reinhardt-Brüder 1* · Arbeitstitel: **Sein bestgehütetes Geheimnis:
-Ein Geheimes-Baby-Milliardär-Liebesroman**
+*Die Reinhardt-Brüder 1* · Arbeitstitel: **Was ich dir nie gesagt habe:
+Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman**
 
 Stand 14.08.2026 · Gerüst nach Gwen Hayes, *Romancing the Beat*
 (vier Phasen, 20 Beats) · Nischenwahl belegt in `KDP-NISCHEN.md`,

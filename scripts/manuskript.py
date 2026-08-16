@@ -278,7 +278,7 @@ def main() -> None:
     p.add_argument("--epub", default="buch/reinhardt-1.epub",
                    help="Zieldatei für die EPUB (leer = überspringen)")
     p.add_argument("--cover", default="cover/fertig/cover.jpg")
-    p.add_argument("--titel", default="Sein bestgehütetes Geheimnis")
+    p.add_argument("--titel", default="Was ich dir nie gesagt habe")
     args = p.parse_args()
 
     print("Kalibrierung der Pruefungen:")

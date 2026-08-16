@@ -2,8 +2,8 @@
 
 **Reihe:** Die Reinhardt-Brüder · **Band 1**
 
-**Titel:** Sein bestgehütetes Geheimnis
-**Untertitel:** Ein Geheimes-Baby-Milliardär-Liebesroman (Die Reinhardt-Brüder 1)
+**Titel:** Was ich dir nie gesagt habe
+**Untertitel:** Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman (Die Reinhardt-Brüder 1)
 
 > ⚠️ **KI-Hinweis für die KDP-Veröffentlichung:** Die Prosa in diesem
 > Ordner ist von einer KI geschrieben. Das ist bei Amazon KDP

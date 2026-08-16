@@ -57,9 +57,9 @@ setzt.
 
 **Sprache:** Deutsch
 
-**Buchtitel:** `Sein bestgehütetes Geheimnis`
+**Buchtitel:** `Was ich dir nie gesagt habe`
 
-**Untertitel:** `Ein Geheimes-Baby-Milliardär-Liebesroman`
+**Untertitel:** `Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman`
 
 > Ich habe zuvor geschrieben, der Titel trage keine Suchbegriffe, und das
 > war ungenau. Amazon indiziert **Titel und Untertitel zusammen**. Der

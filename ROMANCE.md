@@ -147,7 +147,7 @@ Brüder, jeder bekommt einen Band.
 
 | Band | Titelvorschlag | Trope |
 |---|---|---|
-| 1 | **Sein bestgehütetes Geheimnis: Ein Geheimes-Baby-Milliardär-Liebesroman** (Die Reinhardt-Brüder 1) | Secret Baby + Milliardär |
+| 1 | **Was ich dir nie gesagt habe: Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman** (Die Reinhardt-Brüder 1) | Secret Baby + Milliardär |
 | 2 | **Vertraglich mein: Ein Milliardär-Liebesroman mit Scheinehe** (Die Reinhardt-Brüder 2) | Fake Marriage |
 | 3 | **Was du mir schuldest: Ein Enemies-to-Lovers-Milliardär-Liebesroman** (Die Reinhardt-Brüder 3) | Enemies to Lovers |
 | 4 | **Zwischen uns nur Akten: Ein Chef-und-Angestellte-Liebesroman** (Die Reinhardt-Brüder 4) | Office |

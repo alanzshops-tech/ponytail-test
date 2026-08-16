@@ -1,6 +1,7 @@
 # Lektoratsbericht
 
-*Sein bestgehütetes Geheimnis* · Die Reinhardt-Brüder 1
+*Was ich dir nie gesagt habe* · Die Reinhardt-Brüder 1
+vormals *Sein bestgehütetes Geheimnis*
 Stand 16.08.2026 · dritte vollständige Befassung mit dem Manuskript,
 diesmal als Überarbeitung statt als Prüfung
 

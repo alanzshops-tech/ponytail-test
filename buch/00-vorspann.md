@@ -2,9 +2,9 @@
 
 <!-- Wird von scripts/manuskript.py vor die Kapitel gesetzt. -->
 
-# Sein bestgehütetes Geheimnis
+# Was ich dir nie gesagt habe
 
-### Ein Geheimes-Baby-Milliardär-Liebesroman
+### Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman
 
 **Die Reinhardt-Brüder — Band 1**
 

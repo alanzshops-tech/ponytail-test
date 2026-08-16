@@ -21,7 +21,7 @@ Vier Brüder. Einer hat die Firma bekommen, als er vierundzwanzig war,
 weil der Vater gestorben ist. Die anderen drei haben zugesehen.
 
 **Band 1 — Jonas**
-*Sein bestgehütetes Geheimnis*
+*Was ich dir nie gesagt habe*
 Zwei Jahre Schweigen, ein Kind, das er nicht kennt, und ein Haus, das
 er kaufen wollte. — Sie haben es gerade gelesen.
 
