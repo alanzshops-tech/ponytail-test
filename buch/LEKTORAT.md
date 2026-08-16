@@ -286,7 +286,8 @@ ist, was sich bewegt hat und was nicht.
 
 ## F — Was offen bleibt
 
-Drei Punkte. Alle drei sind Abwägungen, keine Fehler.
+Vier Punkte. Zwei davon sind seit heute erledigt und stehen hier, weil
+sie erklären, wie; die anderen zwei sind Abwägungen, keine Fehler.
 
 ### 1. Die Länge — erledigt, und so ist sie erledigt worden
 
@@ -325,12 +326,31 @@ von den Fehlern der beiden Hauptfiguren angetrieben wird. Ich habe das
 nicht eigenmächtig geändert, weil eine eingebaute Intrige das Buch zu
 einem anderen Buch machen würde.
 
-### 3. Kapitel 10 und 11
+### 3. Kapitel 10 bis 12 — nachgesehen und stehen gelassen
 
-Zwei Texturkapitel hintereinander bei 18–24 %, dort, wo sich bei Kindle
-Unlimited entscheidet, ob weitergelesen wird. Beide sind gut. Der
-Perspektivwechsel lässt einen Tausch nicht zu, ohne den Rest zu drehen.
-Möglicher Eingriff: eines auf rund tausend Wörter kürzen.
+Hier stand heute früh, man solle eines der beiden Texturkapitel auf
+rund tausend Wörter kürzen, weil bei Kindle Unlimited an dieser Stelle
+über das Weiterlesen entschieden wird. `romantik.py` hatte für die
+Kapitel 9 bis 12 vier Kapitel am Stück ohne gemeinsame Szene gemeldet.
+
+**Das war ein Messfehler plus ein Lesefehler von mir.**
+
+Kapitel 9 *hat* eine gemeinsame Szene — den Anspitzer am
+vierundzwanzigsten Oktober. Das Gerät hat sie nicht gezählt, weil sie
+ihn in dieser Szene kein einziges Mal beim Namen nennt.
+
+Und Kapitel 12 ist nicht leer. Darin steht der Satz, auf den das Buch
+siebenundfünfzig Kapitel später zurückkommt: *bin am Kehrwieder
+vorbeigefahren, habe zweihundert Meter weiter gehalten und bin nicht
+ausgestiegen.*
+
+Was zwischen 15 und 20 Prozent wirklich steht, ist also: sein
+Arbeitstag, ihr Arbeitstag, und ein Sonntag, an dem er vor ihrer Tür
+hält und nicht klingelt. Das ist keine tote Strecke, das ist die
+Sehnsucht, bevor sie ausgesprochen werden darf.
+
+**Ich habe deshalb nichts gekürzt.** Eine Empfehlung, die auf einer
+Zahl beruht, muss zurückgenommen werden, wenn die Zahl nachgibt.
 
 ### 4. Der Titel
 
