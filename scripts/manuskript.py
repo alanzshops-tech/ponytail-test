@@ -324,13 +324,24 @@ def main() -> None:
     if args.epub:
         try:
             epub_bauen(kapitel, vorspann, nachspann, args.titel,
-                       args.autor or "[AUTORENNAME]", Path(args.epub),
+                       # Ohne --autor stand hier bis zum 16.08.2026
+                       # "[AUTORENNAME]" in den EPUB-Metadaten -- im
+                       # Vorspann und auf dem Umschlag steht der Name
+                       # laengst, nur das Feld, das KDP ausliest, war
+                       # leer. Die Platzhalterpruefung sieht nur den
+                       # Text, nicht die Metadaten.
+                       args.autor or "Alan Lorenz", Path(args.epub),
                        Path(args.cover) if args.cover else None)
             groesse = Path(args.epub).stat().st_size / 1024
             print(f"Geschrieben: {args.epub} ({groesse:.0f} kB, "
                   f"{len(kapitel) + 2} Abschnitte)")
         except Exception as e:
+            # Bis zum 16.08.2026 wurde hier nur gedruckt und danach
+            # trotzdem "Keine Beanstandungen" gemeldet. Ein Lauf ohne
+            # markdown-Modul sah aus wie ein sauberer Lauf, und die
+            # EPUB im Ordner war stillschweigend die alte.
             print(f"EPUB fehlgeschlagen: {str(e)[:200]}")
+            klagen.append(f"EPUB nicht gebaut: {str(e)[:120]}")
 
     if klagen:
         print(f"\n{len(klagen)} Beanstandung(en):")
