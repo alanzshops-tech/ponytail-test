@@ -239,34 +239,48 @@ er mich nicht angefasst hat, war er einer, der geblieben ist* — hat
 jetzt eine Vorgeschichte, die ein Bruder am 29. Dezember am Telefon
 ausgesprochen hat.
 
-### 11. Der Umschlag
+### 11. Der Umschlag — und ein Fehler, den ich zweimal bezahlt habe
 
-Auf dem Cover stand der alte Titel. Ein Hintergrundbild ohne Schrift
-gab es nicht — nur die fertige Datei und die Schriftebene als
-Überlagerung, aus der sich der Hintergrund nicht sauber
-zurückrechnen lässt.
+Auf dem Cover stand der alte Titel. `coverbau.py` braucht dafür das
+Hintergrundbild **ohne** Schrift.
 
-Also über OpenRouter, wie es `CLAUDE.md` vorschreibt: *Erst nachsehen,
-was schon da ist.* Der erste Lauf mit dem voreingestellten günstigsten
-Bildmodell hat die Anweisung ignoriert und dieselbe Datei mit Text
-zurückgegeben. Der zweite Lauf mit `google/gemini-3-pro-image` hat alle
-sechs Textelemente entfernt und Mann, Pose, Brücke und Licht
-unverändert gelassen.
+Ich habe in `cover/fertig/` nachgesehen, dort nur die fertige Datei und
+die Schriftebene gefunden, daraus geschlossen, dass es kein
+textfreies Bild gibt — und zwei OpenRouter-Läufe gestartet, um die
+Schrift aus dem fertigen Cover herausrechnen zu lassen. Der erste, mit
+dem voreingestellten günstigsten Bildmodell, hat die Anweisung ignoriert
+und dieselbe Datei mit Text zurückgegeben. Der zweite, mit
+`google/gemini-3-pro-image`, hat funktioniert.
 
-Danach die Typografie neu gesetzt mit `coverbau.py`, und dabei ist etwas
-herausgekommen, das ich nicht erwartet hatte — der neue Umschlag liegt
-**näher an der Nische als der alte**:
+**Beide waren überflüssig.**
+
+Das Original ohne Schrift liegt seit dem 15.08. im Repository, unter
+`cover/roh/jonas.jpg`, in einem Ordner, in dem eine Datei namens
+`HIER-BILD-ABLEGEN.md` steht, in der der exakte Befehl dokumentiert ist:
+
+    python3 scripts/coverbau.py --bild cover/roh/<datei> --autor "<Name>"
+
+`CLAUDE.md` warnt vor genau diesem Fehler, mit einem Beispiel vom
+15.08.2026, an dem dreimal „nicht machbar" gesagt wurde, obwohl die
+Fähigkeit im Repository lag. Ich habe die Regel richtig zitiert und die
+umgekehrte Variante desselben Fehlers gemacht: nicht *„geht nicht"*,
+sondern *„ist nicht da"* — beide Male, ohne den Ordner daneben
+aufzumachen.
+
+Der Umschlag ist jetzt aus `cover/roh/jonas.jpg` gebaut, dem echten
+Bild, nicht aus meiner Rekonstruktion. Er ist sichtbar reicher in Hemd
+und Wasser.
 
 | | alt | neu | gemessene Nische (36 Cover) |
 |---|---:|---:|---|
-| Helligkeit | 71,7 | **67,5** | 55,8–64,5 |
-| Sättigung | 75,8 | **96,3** | 94,5–119,7 |
-| Weiß auf Grund | | 11,2 : 1 | Ziel 7,0 |
+| Helligkeit | 71,7 | **69,6** | 55,8–64,5 |
+| Sättigung | 75,8 | **98,5** | 94,5–119,7 |
+| Weiß auf Grund | | 11,8 : 1 | Ziel 7,0 |
 | Textzone | | Band 4 | Band 4 (unteres Mitteldrittel) |
 
-Die Sättigung liegt jetzt drin (Faktor 1,35 auf das Hintergrundbild, die
-Helligkeit blieb dabei unverändert), die Helligkeit weiterhin knapp
-darüber — aber drei Punkte näher dran als vorher.
+Die Sättigung liegt jetzt in der Nische (Faktor 1,35 auf das
+Hintergrundbild, die Helligkeit bleibt davon unberührt), die Helligkeit
+weiterhin darüber — aber zwei Punkte näher dran als vorher.
 
 Der alte Umschlag liegt unverändert in `cover/fertig-alt/`.
 
