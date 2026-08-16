@@ -47,38 +47,17 @@ und mir angesehen, wie sie zitterten.
 
 ---
 
-Um halb vier stand ich an einem Tresen hinter einer Glasscheibe und
-hörte einer Frau zu, die mich elf Sachen fragte, von denen ich sieben
-nicht wusste.
+Am Aufnahmetresen hat Marlene elf Fragen beantwortet, und ich habe
+danebengestanden und mitgezählt, wie viele davon ich gewusst hätte.
 
-Geburtsdatum: wusste ich. Achter Mai.
+Zwei. Den Namen und den achten Mai.
 
-Versicherung: wusste ich nicht.
+Nicht die Versicherung, nicht die Allergien, nicht die Impfungen, nicht
+das Gewicht. Sie hat das alles gesagt, ohne nachzudenken, in dem Tonfall,
+in dem man eine Telefonnummer aufsagt, die man seit Jahren hat.
 
-Allergien: wusste ich nicht.
-
-Impfungen: wusste ich nicht.
-
-Und dann fragte sie: „Und der Herr?“
-
-„Ich bin der Vater.“
-
-„Sorgeberechtigt?“
-
-„Nein.“
-
-„Verheiratet mit der Mutter?“
-
-„Nein.“
-
-„Vaterschaft anerkannt?“
-
-„Nein.“
-
-Sie hat getippt, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
-Mensch, der um halb vier Uhr morgens seine Arbeit macht.
-
-„Dann trage ich Sie als Begleitperson ein.“
+Dann kamen die drei Fragen an mich, und meine Antwort war dreimal
+dieselbe.
 
 ---
 
@@ -102,45 +81,27 @@ jetzt in einem Formular.
 
 ---
 
-Um vier musste sie nach vorn, weil sie etwas unterschreiben sollte, das
-nur sie unterschreiben kann.
+Was um vier passiert ist, hat sie aufgeschrieben, und ich lasse es
+stehen, wie es bei ihr steht: Er hat nach mir gerufen und nicht nach ihr.
 
-Ich blieb bei ihm.
+Ich schreibe nur die Seite dazu, die sie nicht sehen konnte.
 
-Er lag in einem Bett, das für ihn dreimal zu groß ist, mit einer Nadel
-im Handrücken und einem Pflaster darüber, auf dem ein Bär abgebildet
-war. Er war wach. Er sah an die Decke.
+Ich habe ihn falsch gehalten. Zu hoch, zu fest, eine Hand am
+Hinterkopf, so wie man Neugeborene hält — ich hatte das im November
+nachts in einem Video gesehen und mir nichts anderes gemerkt.
 
-Ich habe mich auf den Hocker gesetzt und nicht gewusst, was man macht.
+Er hat trotzdem aufgehört.
 
-Dann fing er an zu weinen.
+Und in der Minute, in der er ruhig wurde, habe ich etwas gedacht, das
+ich hier hinschreibe, weil es sonst aussieht, als hätte ich in diesem
+Zimmer etwas verdient.
 
-Ich kannte dieses Weinen nicht. Ich kenne inzwischen drei Sorten — müde,
-hungrig, wütend —, und das hier war eine vierte, und ich habe sofort
-verstanden, dass es Angst ist.
+Ich habe gedacht: *Sieh mich an. Sieh, dass ich das kann.*
 
-Die Schwester hat es versucht. Er hat sich weggedreht.
+Über den Kopf meines fiebernden Sohnes hinweg, in Richtung der Frau, die
+ihn achtzehn Monate lang allein gehalten hat.
 
-Marlene kam rein und hat ihn hochgenommen, und er wollte nicht.
-
-Er hat beide Arme an ihr vorbeigestreckt und einen Laut gemacht mit
-einem harten Anfang.
-
----
-
-Ich habe ihn genommen.
-
-Ich habe ihn falsch gehalten, das weiß ich heute: zu hoch, zu fest, mit
-einer Hand am Hinterkopf, so wie man Neugeborene hält.
-
-Er hat trotzdem aufgehört. Nicht sofort — über ungefähr eine Minute, wie
-ein Motor, der ausgeht. Dann hat er den Kopf in die Kuhle zwischen
-Schulter und Hals gelegt und war weg.
-
-Und ich stand mitten in einem Untersuchungszimmer und habe über seinen
-Kopf hinweg die Frau angesehen, die ihn achtzehn Monate lang allein
-gehalten hat, und in ihrem Gesicht war etwas, das ich nicht ansehen
-konnte.
+In ihrem Gesicht war etwas, das ich nicht ansehen konnte.
 
 Ich habe später gefragt, was es war.
 

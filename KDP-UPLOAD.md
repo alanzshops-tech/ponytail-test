@@ -11,19 +11,19 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.380 Wörter |
+| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.603 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
 | EPUB mit eingebettetem Cover | **fertig**, 658 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **69.380 Wörter** — ⚠️ unter der heute gemessenen Spanne, siehe unten |
+| **Länge** | **69.603 Wörter** — ⚠️ unter der heute gemessenen Spanne, siehe unten |
 
 **Hochladbar ist es. Optimal ist es bei einem Punkt nicht.** Am
 14.08. maß `kdp_nischen.py` in der Hauptnische 291 bis 337 Druckseiten,
 und daraus wurde das Ziel 65.000 bis 82.000 Wörter. Der Lauf vom
 **16.08. misst dieselbe Nische neu: Median 337 Seiten, Spanne 312 bis
-398.** Das Manuskript liegt bei 69.380 Wörtern, also rund 250 bis 280
+398.** Das Manuskript liegt bei 69.603 Wörtern, also rund 250 bis 280
 Druckseiten — unter dem kürzesten dort gemessenen Titel.
 
 Bei Kindle Unlimited wird pro gelesener Seite gezahlt; das sind
@@ -219,7 +219,7 @@ Leserin nichts extra kosten.
 **Und deshalb zählt die Länge — jetzt mit gemessener Zahl.** In KU wird
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **326 bis 544 Druckseiten** (`KDP-NISCHEN.md`,
-Lauf vom 16.08.). Dieses Buch hat **69.380 Wörter**, also rund 250 bis
+Lauf vom 16.08.). Dieses Buch hat **69.603 Wörter**, also rund 250 bis
 280 Druckseiten.
 
 Der Lauf vom 16.08. hat diese Zahlen nach oben korrigiert: In der

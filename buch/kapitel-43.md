@@ -147,28 +147,53 @@ sondern schlechter.“
 
 Meine Mutter hat lange nichts gesagt.
 
-Dann: „Weißt du, was ich nicht verstehe?“
+Dann ist sie aufgestanden und in den Flur gegangen und hat aus dem
+Schrank unter der Garderobe etwas geholt, das ich seit zweiundzwanzig
+Jahren nicht mehr gesehen hatte.
 
-„Nein.“
+Einen Ordner. Grau, mit einem Rücken, auf dem in der Handschrift meines
+Vaters *Haushalt* steht.
 
-„Warum du das alles allein machst, obwohl da jemand ist.“
+„Den hat er mir an dem Dienstag hingelegt“, sagte sie und schob ihn über
+den Tisch. „Mach ihn auf.“
 
-Ich habe gesagt: „Weil er es sonst regelt.“
+Ich habe ihn aufgemacht.
 
-Und meine Mutter — die Frau, von der ich den Satz habe, meine ganze
-Rüstung, *sie regeln erst alles, und dann sind sie weg* — hat mich
-angesehen und gesagt:
+Er ist tadellos. Ich sage das als jemand, der Ordner führt. Register,
+Trennblätter, die Versicherungen vorn, die Verträge hinten, jede
+Kündigungsfrist mit Datum am Rand. Die Nummer des Schornsteinfegers. Ein
+Blatt, auf dem steht, wann die Heizung gewartet wird und von wem.
 
-„Marlene. Dein Vater hat alles geregelt und ist gegangen. Das heißt
-nicht, dass jeder, der etwas regelt, geht.“
+Er hat wochenlang daran gearbeitet, während wir dachten, er bleibe bei
+der Arbeit länger.
 
-Ich habe die Tasse abgestellt.
+„Da ist alles drin, was man braucht“, sagte meine Mutter. „Ich habe
+zweiundzwanzig Jahre gebraucht, um zu merken, was fehlt.“
 
-„Das ist genau dein Satz“, sagte ich. „Ich habe ihn von dir.“
+„Was fehlt?“
 
-„Ich weiß“, sagte meine Mutter. „Ich habe ihn dir gegeben, als du neun
-warst, weil ich ihn selbst gebraucht habe. Er war nie für dich
-gedacht.“
+„Eine Zeile, in der er mich etwas fragt.“ Sie hat den Ordner wieder zu
+sich gezogen. „Nicht einmal *möchtest du, dass ich gehe*. Irgendetwas.
+In diesem ganzen Ding steht kein einziges Fragezeichen.“
+
+---
+
+Dann habe ich etwas getan, was ich in diesem Haus noch nie getan habe.
+
+„Mama“, sagte ich. „Hättest du gewollt, dass er fragt?“
+
+Sie hat aus dem Fenster gesehen, auf die Straße, in der sie seit
+zweiundzwanzig Jahren wohnt.
+
+„Ich hätte nein gesagt“, sagte sie. „Ich war vierzig und wütend, und ich
+hätte nein gesagt, und er wäre trotzdem gegangen. Aber ich hätte den
+Rest meines Lebens gewusst, dass ich gefragt worden bin.“
+
+Sie hat den Ordner zurück in den Schrank gestellt.
+
+„Das ist der ganze Unterschied, Marlene. Ich habe ihn erst letzte Woche
+verstanden, am Telefon, während ich dir das mit deinem Onkel erzählt
+habe. Ich bin dreiundsechzig. Man ist nie fertig.“
 
 ---
 

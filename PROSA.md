@@ -19,19 +19,19 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 13 | 1135 | 10 | 8.3 | 3.3 % | 24.7 % | 7.0 | – |
 | 14 | 1221 | 9 | 10.3 | 7.1 % | 33.2 % | 11.5 | – |
 | 15 | 1005 | 8.0 | 9.2 | 3.6 % | 22.2 % | 10.0 | – |
-| 16 | 1279 | 9 | 9.5 | 8.4 % | 34.6 % | 7.8 | – |
+| 16 | 1424 | 9 | 9.8 | 8.7 % | 38.0 % | 9.1 | – |
 | 17 | 1168 | 9 | 11.3 | 9.2 % | 23.7 % | 9.4 | – |
 | 18 | 957 | 10 | 9.4 | 4.1 % | 33.0 % | 8.4 | – |
 | 19 | 1067 | 12 | 12.7 | 14.5 % | 21.6 % | 6.6 | – |
 | 20 | 1498 | 13.5 | 12.6 | 11.7 % | 27.2 % | 8.0 | – |
-| 21 | 1282 | 9.5 | 9.4 | 5.0 % | 49.1 % | 9.4 | – |
+| 21 | 1295 | 9.5 | 9.6 | 6.0 % | 48.6 % | 9.3 | – |
 | 22 | 1100 | 8.5 | 10.7 | 8.1 % | 31.3 % | 10.0 | – |
 | 23 | 1162 | 8.5 | 10.4 | 6.1 % | 29.6 % | 16.4 | – |
 | 24 | 1094 | 10.0 | 10.5 | 7.3 % | 28.3 % | 7.3 | – |
 | 25 | 876 | 11.0 | 8.0 | 4.4 % | 16.8 % | 1.1 | – |
 | 26 | 880 | 10.5 | 10.0 | 6.1 % | 11.8 % | 6.8 | – |
 | 27 | 1039 | 8 | 10.8 | 10.6 % | 17.5 % | 4.8 | – |
-| 28 | 1062 | 9.0 | 9.3 | 3.6 % | 12.9 % | 9.4 | – |
+| 28 | 955 | 11 | 8.6 | 1.4 % | 11.8 % | 10.5 | – |
 | 29 | 954 | 14 | 9.3 | 6.2 % | 21.2 % | 4.2 | – |
 | 30 | 1183 | 9.0 | 10.8 | 7.6 % | 12.8 % | 4.2 | – |
 | 31 | 1245 | 9.0 | 8.5 | 4.8 % | 21.0 % | 8.0 | – |
@@ -46,7 +46,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 40 | 1200 | 12 | 10.9 | 9.9 % | 63.7 % | 5.0 | – |
 | 41 | 1198 | 9 | 12.4 | 10.3 % | 32.5 % | 5.8 | – |
 | 42 | 922 | 12.5 | 8.9 | 3.1 % | 31.0 % | 13.0 | – |
-| 43 | 937 | 12.5 | 11.4 | 9.7 % | 20.8 % | 7.5 | – |
+| 43 | 1109 | 13 | 9.9 | 6.3 % | 22.4 % | 9.0 | – |
 | 44 | 1197 | 11 | 9.1 | 5.4 % | 34.4 % | 10.0 | – |
 | 45 | 1484 | 7.0 | 9.7 | 5.9 % | 23.6 % | 7.4 | – |
 | 46 | 1253 | 12 | 11.1 | 12.9 % | 14.6 % | 7.2 | – |
@@ -68,7 +68,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 - **Dialoganteil**: Median 22.2 · höchster Kapitel 40 (63.7) · niedrigster Kapitel 11 (2.0)
 - **Füllwörter je 1000**: Median 7.6 · höchster Kapitel 56 (17.1) · niedrigster Kapitel 25 (1.1)
-- **Satzlänge Median**: Median 10.0 · höchster Kapitel 56 (15.0) · niedrigster Kapitel 11 (7.0)
+- **Satzlänge Median**: Median 10 · höchster Kapitel 56 (15.0) · niedrigster Kapitel 11 (7.0)
 
 ## Wort doppelt hintereinander
 
@@ -76,13 +76,14 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 2168
-- Schließende **richtig** `“`: 2168
+- Öffnende Anführungszeichen `„`: 2174
+- Schließende **richtig** `“`: 2174
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 8
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

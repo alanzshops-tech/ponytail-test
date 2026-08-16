@@ -60,7 +60,7 @@ der Blick auf Band 2. Sinnlich, aber ohne explizite Szenen.*
 
 | | |
 |---|---|
-| Umfang | 58 Kapitel + Epilog, **69.380 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
+| Umfang | 58 Kapitel + Epilog, **69.603 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
 | Erzählform | Ich-Perspektive, wechselnd Leni / Jonas, Präteritum |
 | Kategorie | Liebesroman › Zeitgenössisch |
 | Keywords | geheimes baby, milliardär, zweite chance, hamburg, alleinerziehend, ceo |

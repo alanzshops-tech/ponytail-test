@@ -173,8 +173,9 @@ du, warum? Weil man dann zurückgefragt wird.“
 
 ---
 
-Ich saß an Tisch neun in meinem eigenen Café und wusste nicht, wohin mit
-den Händen.
+Ich saß an Tisch neun in meinem eigenen Café und hörte die Kühlung
+anspringen, was sie alle elf Minuten tut und was mir seit sechs Jahren
+nicht aufgefallen war.
 
 „Wie ist es ausgegangen?“, fragte ich.
 

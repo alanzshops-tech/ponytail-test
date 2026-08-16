@@ -157,6 +157,33 @@ ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
 richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
 Nein zu meinem Leben, so wie es damals war.“
 
+Sie sah mich an. Dann sagte sie, sehr leise: „Und die Frau in Grün?“
+
+Ich habe zwei Sekunden gebraucht, um überhaupt zu wissen, wovon sie
+redet.
+
+„Der Preis war für einen Bauträger aus Harburg“, sagte ich. „Sie ist
+seine Frau. Wir haben zusammen an einem Stehtisch gestanden, und auf dem
+Weg hinaus ist sie auf dem Kopfsteinpflaster umgeknickt, und ich habe
+sie festgehalten, und in dieser Sekunde hat jemand ausgelöst.“
+
+„Wie heißt sie?“
+
+„Das weiß ich nicht.“ Ich sah auf den Tisch. „Ich habe sie eine Stunde
+gekannt und nie wiedergesehen.“
+
+Marlene legte beide Hände um die Tasse, in der nichts mehr war.
+
+„Zwei Jahre“, sagte sie. „Wegen eines Fotos von einem Mann, der eine
+Fremde festhält, damit sie nicht hinfällt.“
+
+„Ja.“
+
+„Das ist nicht komisch.“
+
+„Nein“, sagte ich. „Es ist nur das Einzige an diesem Abend, worüber man
+in zehn Jahren vielleicht lachen kann.“
+
 ---
 
 Sie fing an zu weinen, und zwar auf die schlimmste Art, nämlich lautlos

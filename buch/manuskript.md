@@ -3812,6 +3812,33 @@ ich es schon oft gedacht hatte.“ Ich hörte, wie meine Stimme nicht ganz
 richtig funktionierte. „Es war kein Nein zu Kindern, Marlene. Es war ein
 Nein zu meinem Leben, so wie es damals war.“
 
+Sie sah mich an. Dann sagte sie, sehr leise: „Und die Frau in Grün?“
+
+Ich habe zwei Sekunden gebraucht, um überhaupt zu wissen, wovon sie
+redet.
+
+„Der Preis war für einen Bauträger aus Harburg“, sagte ich. „Sie ist
+seine Frau. Wir haben zusammen an einem Stehtisch gestanden, und auf dem
+Weg hinaus ist sie auf dem Kopfsteinpflaster umgeknickt, und ich habe
+sie festgehalten, und in dieser Sekunde hat jemand ausgelöst.“
+
+„Wie heißt sie?“
+
+„Das weiß ich nicht.“ Ich sah auf den Tisch. „Ich habe sie eine Stunde
+gekannt und nie wiedergesehen.“
+
+Marlene legte beide Hände um die Tasse, in der nichts mehr war.
+
+„Zwei Jahre“, sagte sie. „Wegen eines Fotos von einem Mann, der eine
+Fremde festhält, damit sie nicht hinfällt.“
+
+„Ja.“
+
+„Das ist nicht komisch.“
+
+„Nein“, sagte ich. „Es ist nur das Einzige an diesem Abend, worüber man
+in zehn Jahren vielleicht lachen kann.“
+
 ---
 
 Sie fing an zu weinen, und zwar auf die schlimmste Art, nämlich lautlos
@@ -4987,8 +5014,9 @@ du, warum? Weil man dann zurückgefragt wird.“
 
 ---
 
-Ich saß an Tisch neun in meinem eigenen Café und wusste nicht, wohin mit
-den Händen.
+Ich saß an Tisch neun in meinem eigenen Café und hörte die Kühlung
+anspringen, was sie alle elf Minuten tut und was mir seit sechs Jahren
+nicht aufgefallen war.
 
 „Wie ist es ausgegangen?“, fragte ich.
 
@@ -6381,38 +6409,17 @@ und mir angesehen, wie sie zitterten.
 
 ---
 
-Um halb vier stand ich an einem Tresen hinter einer Glasscheibe und
-hörte einer Frau zu, die mich elf Sachen fragte, von denen ich sieben
-nicht wusste.
+Am Aufnahmetresen hat Marlene elf Fragen beantwortet, und ich habe
+danebengestanden und mitgezählt, wie viele davon ich gewusst hätte.
 
-Geburtsdatum: wusste ich. Achter Mai.
+Zwei. Den Namen und den achten Mai.
 
-Versicherung: wusste ich nicht.
+Nicht die Versicherung, nicht die Allergien, nicht die Impfungen, nicht
+das Gewicht. Sie hat das alles gesagt, ohne nachzudenken, in dem Tonfall,
+in dem man eine Telefonnummer aufsagt, die man seit Jahren hat.
 
-Allergien: wusste ich nicht.
-
-Impfungen: wusste ich nicht.
-
-Und dann fragte sie: „Und der Herr?“
-
-„Ich bin der Vater.“
-
-„Sorgeberechtigt?“
-
-„Nein.“
-
-„Verheiratet mit der Mutter?“
-
-„Nein.“
-
-„Vaterschaft anerkannt?“
-
-„Nein.“
-
-Sie hat getippt, ohne aufzusehen, freundlich, völlig unbeteiligt, ein
-Mensch, der um halb vier Uhr morgens seine Arbeit macht.
-
-„Dann trage ich Sie als Begleitperson ein.“
+Dann kamen die drei Fragen an mich, und meine Antwort war dreimal
+dieselbe.
 
 ---
 
@@ -6436,45 +6443,27 @@ jetzt in einem Formular.
 
 ---
 
-Um vier musste sie nach vorn, weil sie etwas unterschreiben sollte, das
-nur sie unterschreiben kann.
+Was um vier passiert ist, hat sie aufgeschrieben, und ich lasse es
+stehen, wie es bei ihr steht: Er hat nach mir gerufen und nicht nach ihr.
 
-Ich blieb bei ihm.
+Ich schreibe nur die Seite dazu, die sie nicht sehen konnte.
 
-Er lag in einem Bett, das für ihn dreimal zu groß ist, mit einer Nadel
-im Handrücken und einem Pflaster darüber, auf dem ein Bär abgebildet
-war. Er war wach. Er sah an die Decke.
+Ich habe ihn falsch gehalten. Zu hoch, zu fest, eine Hand am
+Hinterkopf, so wie man Neugeborene hält — ich hatte das im November
+nachts in einem Video gesehen und mir nichts anderes gemerkt.
 
-Ich habe mich auf den Hocker gesetzt und nicht gewusst, was man macht.
+Er hat trotzdem aufgehört.
 
-Dann fing er an zu weinen.
+Und in der Minute, in der er ruhig wurde, habe ich etwas gedacht, das
+ich hier hinschreibe, weil es sonst aussieht, als hätte ich in diesem
+Zimmer etwas verdient.
 
-Ich kannte dieses Weinen nicht. Ich kenne inzwischen drei Sorten — müde,
-hungrig, wütend —, und das hier war eine vierte, und ich habe sofort
-verstanden, dass es Angst ist.
+Ich habe gedacht: *Sieh mich an. Sieh, dass ich das kann.*
 
-Die Schwester hat es versucht. Er hat sich weggedreht.
+Über den Kopf meines fiebernden Sohnes hinweg, in Richtung der Frau, die
+ihn achtzehn Monate lang allein gehalten hat.
 
-Marlene kam rein und hat ihn hochgenommen, und er wollte nicht.
-
-Er hat beide Arme an ihr vorbeigestreckt und einen Laut gemacht mit
-einem harten Anfang.
-
----
-
-Ich habe ihn genommen.
-
-Ich habe ihn falsch gehalten, das weiß ich heute: zu hoch, zu fest, mit
-einer Hand am Hinterkopf, so wie man Neugeborene hält.
-
-Er hat trotzdem aufgehört. Nicht sofort — über ungefähr eine Minute, wie
-ein Motor, der ausgeht. Dann hat er den Kopf in die Kuhle zwischen
-Schulter und Hals gelegt und war weg.
-
-Und ich stand mitten in einem Untersuchungszimmer und habe über seinen
-Kopf hinweg die Frau angesehen, die ihn achtzehn Monate lang allein
-gehalten hat, und in ihrem Gesicht war etwas, das ich nicht ansehen
-konnte.
+In ihrem Gesicht war etwas, das ich nicht ansehen konnte.
 
 Ich habe später gefragt, was es war.
 
@@ -9802,28 +9791,53 @@ sondern schlechter.“
 
 Meine Mutter hat lange nichts gesagt.
 
-Dann: „Weißt du, was ich nicht verstehe?“
+Dann ist sie aufgestanden und in den Flur gegangen und hat aus dem
+Schrank unter der Garderobe etwas geholt, das ich seit zweiundzwanzig
+Jahren nicht mehr gesehen hatte.
 
-„Nein.“
+Einen Ordner. Grau, mit einem Rücken, auf dem in der Handschrift meines
+Vaters *Haushalt* steht.
 
-„Warum du das alles allein machst, obwohl da jemand ist.“
+„Den hat er mir an dem Dienstag hingelegt“, sagte sie und schob ihn über
+den Tisch. „Mach ihn auf.“
 
-Ich habe gesagt: „Weil er es sonst regelt.“
+Ich habe ihn aufgemacht.
 
-Und meine Mutter — die Frau, von der ich den Satz habe, meine ganze
-Rüstung, *sie regeln erst alles, und dann sind sie weg* — hat mich
-angesehen und gesagt:
+Er ist tadellos. Ich sage das als jemand, der Ordner führt. Register,
+Trennblätter, die Versicherungen vorn, die Verträge hinten, jede
+Kündigungsfrist mit Datum am Rand. Die Nummer des Schornsteinfegers. Ein
+Blatt, auf dem steht, wann die Heizung gewartet wird und von wem.
 
-„Marlene. Dein Vater hat alles geregelt und ist gegangen. Das heißt
-nicht, dass jeder, der etwas regelt, geht.“
+Er hat wochenlang daran gearbeitet, während wir dachten, er bleibe bei
+der Arbeit länger.
 
-Ich habe die Tasse abgestellt.
+„Da ist alles drin, was man braucht“, sagte meine Mutter. „Ich habe
+zweiundzwanzig Jahre gebraucht, um zu merken, was fehlt.“
 
-„Das ist genau dein Satz“, sagte ich. „Ich habe ihn von dir.“
+„Was fehlt?“
 
-„Ich weiß“, sagte meine Mutter. „Ich habe ihn dir gegeben, als du neun
-warst, weil ich ihn selbst gebraucht habe. Er war nie für dich
-gedacht.“
+„Eine Zeile, in der er mich etwas fragt.“ Sie hat den Ordner wieder zu
+sich gezogen. „Nicht einmal *möchtest du, dass ich gehe*. Irgendetwas.
+In diesem ganzen Ding steht kein einziges Fragezeichen.“
+
+---
+
+Dann habe ich etwas getan, was ich in diesem Haus noch nie getan habe.
+
+„Mama“, sagte ich. „Hättest du gewollt, dass er fragt?“
+
+Sie hat aus dem Fenster gesehen, auf die Straße, in der sie seit
+zweiundzwanzig Jahren wohnt.
+
+„Ich hätte nein gesagt“, sagte sie. „Ich war vierzig und wütend, und ich
+hätte nein gesagt, und er wäre trotzdem gegangen. Aber ich hätte den
+Rest meines Lebens gewusst, dass ich gefragt worden bin.“
+
+Sie hat den Ordner zurück in den Schrank gestellt.
+
+„Das ist der ganze Unterschied, Marlene. Ich habe ihn erst letzte Woche
+verstanden, am Telefon, während ich dir das mit deinem Onkel erzählt
+habe. Ich bin dreiundsechzig. Man ist nie fertig.“
 
 ---
 
