@@ -62,13 +62,50 @@ Begründung:
 Haus".** Vier Wörter, zwei Besitzansprüche, exakt der Konflikt. Riskanter
 und einprägsamer.
 
-⚠️ **Nicht gemessen.** Diese Empfehlung ist Lektoratsurteil, keine
-Zählung. Ob Spitzentitel dieser Nische den Trope im Haupttitel oder im
-Untertitel nennen, wie lang sie sind und ob der Reihenname darin steht,
-ist ab dem Lauf vom 16.08.2026 nachzählbar: `kdp_nischen.py` schreibt
-die Spitzentitel jetzt im Wortlaut in `../KDP-NISCHEN.md`, Abschnitt
-„Die Spitzentitel im Wortlaut". Vorher stand dort nichts, und deshalb
-wäre jede Aussage über Titelmuster erfunden gewesen.
+### Und jetzt gezählt statt vermutet
+
+Bis heute stand hier, dass diese Empfehlung Lektoratsurteil ist, weil
+die Spitzentitel gelesen und wieder weggeworfen wurden. `kdp_nischen.py`
+schreibt sie seit dem 16.08. im Wortlaut in `../KDP-NISCHEN.md`. Der
+Lauf ist durch. **30 Titel** aus *geheimes baby*, *milliardär* und
+*zweite chance*:
+
+| Muster | Treffer |
+|---|---:|
+| Untertitel nach Doppelpunkt oder Gedankenstrich | **24 / 30** |
+| Wort *Liebesroman* oder *Romance* irgendwo im Titel | **23 / 30** |
+| Reihenname in Klammern am Ende | **21 / 30** |
+| Trope schon im **Haupt**titel | 16 / 30 |
+| englischsprachiger Haupttitel | 11 / 30 |
+| Reihe heißt „Die X-Brüder" bzw. „Die X-Männer" | 2 / 30 |
+
+**Die Empfehlung hält.** Vierzehn der dreißig machen genau das, was oben
+vorgeschlagen ist: ein Haupttitel, der nichts erklärt, und ein
+Untertitel, der die Tropes stapelt. *Irresistible Temptation: Ein
+geheimes Baby vom Boss.* *Catch a Falling Star: Ein zweiter Versuch,
+geheimes Baby – Liebesroman.* *Seine Frau auf Zeit: Ein
+Milliardär-Liebesroman mit arrangierter Ehe.*
+
+Der vorgeschlagene Untertitel trifft alle drei häufigsten Muster
+gleichzeitig: Doppelpunkt-Konstruktion, das Wort *Liebesroman*, und der
+Reihenname in Klammern.
+
+**Und ein Fund, der zu gut ist, um ihn wegzulassen:** In den aktuellen
+Top 10 der Nische *milliardär liebesroman* steht
+
+> *Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe
+> (**Die Thorne-Brüder 1**)*
+
+— dieselbe Reihenkonstruktion wie *Die Reinhardt-Brüder 1*, auf Band 1,
+in derselben Nische, heute. Das ist kein Beweis, dass es funktioniert.
+Es ist aber der Beleg, dass der Reihenname nicht schiefsteht.
+
+⚠️ **Grenzen dieser Zählung.** Dreißig Titel, drei Suchbegriffe, ein
+Lauf an einem Tag. Die Rubrik „englischsprachiger Haupttitel" hat einen
+bekannten Fehltreffer: *Schicksalsruf* ist deutsch und wird als englisch
+gezählt, weil kein deutsches Funktionswort darin vorkommt. Der erste
+Selektor zählte 15 statt 11, weil er jeden Titel ohne Umlaute für
+englisch hielt — *„Das geheime Baby der Bratva"* eingeschlossen.
 
 ---
 
