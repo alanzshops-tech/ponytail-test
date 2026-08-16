@@ -519,6 +519,24 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
           "Bewertungszahlen**. Das ist Nachfrage ohne festsitzende "
           "Platzhirsche.", ""]
 
+    # Die Titel im Wortlaut. Bisher wurden sie gelesen und wieder
+    # weggeworfen, und deshalb war jede Aussage ueber Titelmuster
+    # ("Nennt man den Trope im Untertitel?") eine Vermutung. Sie stehen
+    # jetzt da, damit man sie auszaehlen kann statt sie zu erinnern.
+    z += ["## Die Spitzentitel im Wortlaut", "",
+          "Ungekuerzt, in der Reihenfolge der Trefferliste. Wer daraus "
+          "Titelmuster ableitet, kann sie hier nachzaehlen.", ""]
+    for e in ergebnisse:
+        if e.get("fehler"):
+            continue
+        z.append(f"**{e['begriff']}**", )
+        z.append("")
+        namen = [(t.get("titel") or "").strip()
+                 for t in (e.get("titel") or [])]
+        for i, name in enumerate([n for n in namen if n], 1):
+            z.append(f"{i}. {name}")
+        z.append("")
+
     z += ["## Wie lang sind die Spitzentitel?", "",
           "Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), "
           "veröffentlicht Amazon nicht. Die **Seitenzahl der "
