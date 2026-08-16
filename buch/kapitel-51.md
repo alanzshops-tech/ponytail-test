@@ -104,12 +104,122 @@ kommen nie in die Lage.“
 
 ---
 
+Am sechsundzwanzigsten März, dem vierten Donnerstag, nach dem Satz mit
+dem *erleichtert*, ist er nicht gegangen.
+
+Ich habe mir diesen Abend seitdem sehr oft vorgesagt, und zwar in beide
+Richtungen.
+
+Er stand auf, um seine Tasse zur Spüle zu bringen, was er immer macht
+und was mich immer ärgert, weil ich es dann noch einmal abspüle. Ich
+stand auch auf, um ihm die Tasse abzunehmen. Wir standen zwischen Tisch
+neun und der Theke, an der Stelle, an der der Gang neunzig Zentimeter
+breit ist, weil meine Großmutter 1961 eine Vitrine gekauft hat, die zu
+groß war.
+
+Er gab mir die Tasse nicht.
+
+„Marlene.“
+
+„Ja.“
+
+„Ich habe seit November eine Sache nicht gemacht“, sagte er, „und ich
+habe sie nicht gemacht, weil ich dir jedes Mal dabei etwas geschuldet
+hätte. Erst das Dach. Dann die Mappe. Dann die Forderung. Es gab in
+sieben Monaten keinen einzigen Tag, an dem zwischen uns nichts offen
+war.“
+
+Er stellte die Tasse zurück auf den Tisch, ohne hinzusehen, und traf den
+Untersetzer nicht.
+
+„Seit dem siebenundzwanzigsten Januar ist nichts mehr offen.“
+
+Ich wusste genau, was jetzt kommt. Ich habe es zwei Sekunden vorher
+gewusst, und ich habe in diesen zwei Sekunden nichts getan, was man
+Weggehen nennen könnte.
+
+Er hob die Hand und legte sie an meinen Hals, unter dem Ohr, wo man den
+Puls fühlt, und ich weiß, dass er ihn gefühlt hat, weil ich gefühlt
+habe, dass er ihn fühlt.
+
+Neunzig Zentimeter sind nicht viel.
+
+Ich habe seinen Mantel gerochen, der nass war, und darunter den grünen
+Anorak, den er nicht mehr hergibt, und ich habe an eine Schüssel mit
+Butter und Mehl gedacht und daran, dass das jetzt viereinhalb Monate
+her ist und dass es seitdem eine Hand auf einem Ärmel gegeben hat und
+sonst nichts.
+
+Dann habe ich meine Hand auf seine gelegt und sie heruntergenommen.
+
+„Nicht heute“, sagte ich.
+
+---
+
+Ich habe die zwei Wörter gehört, während ich sie gesagt habe, und ich
+habe sie sofort wiedererkannt.
+
+An einem Donnerstagabend im November, im Backraum, mit Mehl bis zum
+Ellenbogen, hatte ich dieselben zwei Wörter benutzt, um ihm zu sagen,
+dass es etwas gibt, und ihn gleichzeitig zu bitten, nicht danach zu
+fragen.
+
+Er hat es auch wiedererkannt. Ich habe es gesehen.
+
+Und er hat wieder nicht gefragt.
+
+„Gut“, sagte er.
+
+„Es ist nicht gut.“
+
+„Nein.“ Er nahm seinen Schlüssel vom Tisch. „Es ist nicht gut. Es ist in
+Ordnung. Das ist zweierlei, und ich kann beides.“
+
+An der Tür drehte er sich um, so wie er sich immer umdreht.
+
+„Sag es mir, wenn es ein anderer Tag ist“, sagte er. „Ich frage nicht
+noch mal.“
+
+---
+
+Ich habe danach eine Stunde in der Küche gesessen, ohne Licht, mit dem
+Rücken an der Ofentür, die noch warm war.
+
+Ich hatte nein gesagt zu dem Einzigen in diesem Winter, das mich nichts
+gekostet hätte.
+
+Und ich wusste, warum. Ich habe es nur nicht gern hingeschrieben:
+
+Solange er mich nicht angefasst hat, war er einer, der geblieben ist.
+Danach wäre er einer, der bleiben *muss*.
+
+Meine Mutter hat vierzig Jahre lang darauf gewartet, gefragt zu werden.
+Ich habe an einem Donnerstag im März gemerkt, dass ich in der anderen
+Richtung dasselbe Problem habe: Ich kann nicht ertragen, dass jemand
+bleibt, weil es sich so ergeben hat.
+
+Ich wollte, dass er es sich aussucht.
+
+Ich habe ihm nur nicht gesagt, dass ich das will, und damit war ich
+wieder genau da, wo dieses ganze Jahr angefangen hat.
+
+---
+
 Am siebenundzwanzigsten März ist etwas passiert, das ich hier
 aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
 nicht das Abendessen im Mai.
 
-Es war ein Freitag. Jonas hatte Emil geholt, sie waren am Elbstrand,
-und ich hatte den Laden allein und war fertig um sechs.
+Es war der Tag danach, ein Freitag. Jonas hatte Emil geholt, sie waren
+am Elbstrand, und ich hatte den Laden allein und war fertig um sechs.
+
+Ich hatte den ganzen Tag überlegt, was ich sage, wenn er kommt. Ich habe
+zwölf Stunden lang Sätze gebaut und alle wieder abgeräumt.
+
+Er hat nichts gesagt. Er hat gefragt, ob Emil noch etwas isst, und ob
+die Bohrpfähle durch sind, und er hat sich dabei nicht anders
+hingestellt als sonst.
+
+Ich weiß bis heute nicht, ob ich dankbar oder wütend war.
 
 Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
 einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
