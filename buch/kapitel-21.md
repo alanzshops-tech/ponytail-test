@@ -91,7 +91,7 @@ bequemer als die ganze, weil man in ihr nichts machen muss.“
 
 „Ich habe angerufen. Dreimal.“
 
-„Ja“, sagte Sanne. „Im Herbst 2024. Und danach zwei Jahre nicht mehr.“
+„Ja“, sagte Sanne. „Im Herbst 2023. Und danach zwei Jahre nicht mehr.“
 
 Ich wurde wütend, und ich merkte, dass ich wütend wurde, und dass die
 Wut die schnelle Sorte war, die kommt, wenn etwas stimmt.
@@ -145,7 +145,7 @@ und er am allerwenigsten.“
 
 Dann erzählte sie mir etwas, das ich nicht wusste.
 
-„Ich habe im Herbst 2023 fast aufgegeben“, sagte sie.
+„Ich habe im Herbst 2022 fast aufgegeben“, sagte sie.
 
 Ich sah sie an.
 

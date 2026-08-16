@@ -2,8 +2,8 @@
 
 Ich habe meine Mutter am dreizehnten Januar angerufen, an einem Montag,
 um Viertel nach acht abends, und ich habe damit eine Regel gebrochen,
-die ich mir nie bewusst gegeben hatte und an die ich mich achtundzwanzig
-Jahre lang gehalten habe.
+die ich mir nie bewusst gegeben hatte und an die ich mich seit 2003
+gehalten habe, seit ich zehn bin.
 
 Die Regel lautet: Man erzählt es, wenn es erledigt ist.
 
@@ -117,7 +117,7 @@ ungefähr vierzig Sekunden.“
 
 „Das wusste ich nicht.“
 
-„Nein. Du warst dreizehn.“ Eine Pause. „Ich habe danach nie wieder
+„Nein. Du warst elf.“ Eine Pause. „Ich habe danach nie wieder
 jemanden gefragt. Nicht meine Schwester, nicht die Kirche, nicht das
 Amt. Und weil ich das nicht getan habe, brauchte ich einen Satz, warum
 das richtig ist.“
@@ -145,8 +145,8 @@ Streit vorbereitet hatte und keinen bekam.
 Wir haben dann beide eine Weile nichts gesagt, und in dieser Weile ist
 etwas passiert, das ich nicht beschreiben kann, außer so: Sie hat
 aufgehört, meine Mutter zu sein, für ungefähr eine Minute, und war eine
-Frau von dreiundsechzig, die einmal dreiunddreißig war und zwei Jahre
-lang nicht aufgestanden ist.
+Frau von dreiundsechzig, die einmal vierzig war und zwei Jahre lang
+nicht aufgestanden ist.
 
 „Du hast die Wäsche gemacht“, sagte sie. „Mit zwölf.“
 

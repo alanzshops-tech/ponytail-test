@@ -134,7 +134,7 @@ Fachbereich Bauingenieurwesen, an den ich zwei Wochen vorher
 geschrieben hatte.
 
 Ich hatte gefragt, ob es möglich ist, ein Studium fortzusetzen, das man
-im Jahr 2014 nach dem zweiten Semester abgebrochen hat.
+im Jahr 2011 nach dem zweiten Semester abgebrochen hat.
 
 Er hat geantwortet: Ja. In Teilzeit. Es dauert dann acht bis neun Jahre.
 

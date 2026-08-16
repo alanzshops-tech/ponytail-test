@@ -8,7 +8,7 @@ hineinsteckte, war er noch da.
 
 Denn er stimmte ja vielleicht. Es gab eine Situation. Menschen haben
 Situationen. Meine Mutter hatte eine Situation, die zwei Jahre dauerte,
-und ich war zwölf und habe in dieser Zeit gelernt, Wäsche zu waschen.
+und ich war zehn und habe in dieser Zeit gelernt, Wäsche zu waschen.
 
 Aber eine Situation erklärt drei Anrufe nicht.
 

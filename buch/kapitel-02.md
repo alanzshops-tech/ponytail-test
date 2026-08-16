@@ -87,7 +87,7 @@ Ich hatte gewusst, dass sie es ist. Das muss ich sagen, weil alles andere
 gelogen wäre und weil ich vor mir selbst nicht besser dastehen will, als
 ich dastand.
 
-Ich hatte die Akte gelesen. *Voss, Marlene, geb. 1995. Alleineigentümerin.
+Ich hatte die Akte gelesen. *Voss, Marlene, geb. 1993. Alleineigentümerin.
 Objekt Kehrwieder 12. Erbschaft 2023.* Ich hatte den Namen gesehen und
 war aufgestanden und ans Fenster gegangen, und Theo hatte gefragt, ob mir
 schlecht sei, und ich hatte gesagt, es sei nichts.

@@ -165,13 +165,13 @@ sieben, und alle drei Jahre kommt ein Dienstleister und schreddert, was
 
 Sie musste nicht nachdenken.
 
-„Februar“, sagte Renate Thormählen. „Der letzte war im Februar 2024, den
+„Februar“, sagte Renate Thormählen. „Der letzte war im Februar 2023, den
 habe ich selbst bestellt, es war meine letzte Bestellung. Der nächste
-nimmt alles bis einschließlich 2024 mit.“
+nimmt alles bis einschließlich 2023 mit.“
 
 Ich rechnete.
 
-Der Brief ist von Ende Oktober 2024. Wir haben November.
+Der Brief ist von Ende Oktober 2023. Wir haben November 2025.
 
 ---
 
@@ -181,7 +181,7 @@ gehabt hatte, und habe eine Stunde und vierzig Minuten in Regal sieben
 gestanden.
 
 Es gibt dort vierundzwanzig Kartons mit der Aufschrift *Privat GF*,
-sortiert nach Jahren, und in dem von 2024 lagen zweiundsechzig
+sortiert nach Jahren, und in dem von 2023 lagen zweiundsechzig
 Schriftstücke, und siebenundfünfzig davon waren Einladungen zu
 Veranstaltungen, zu denen ich nicht gegangen bin.
 

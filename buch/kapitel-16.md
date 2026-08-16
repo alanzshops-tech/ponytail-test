@@ -71,7 +71,7 @@ fünfhundertvierzig Tage. Vierzig Bilder.
 
 Meine Mutter hat von Theo aus dem ersten Jahr drei Alben.
 
-Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2024.
+Das erste war ein Ultraschall, mit einem Datum in der Ecke: 10.10.2023.
 Dann ein Bauch im Spiegel, unscharf, offensichtlich selbst fotografiert.
 Dann Emil, rot und wütend, mit einer Mütze, die ihm zu groß war.
 
