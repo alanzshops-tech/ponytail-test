@@ -15,9 +15,10 @@ lesen, dann messen, dann eingreifen.
    md5 `81abc6d72c976404a0c5fa2bf3f3e76d`. Seitdem nicht angefasst.
 2. **Gelesen.** Die beiden vollständigen Lesungen vom 15./16.08. liegen
    als `PRUEFUNG.md` und `DRAMATURGIE.md` vor. Für diesen Durchgang
-   wurden die Kapitel 7, 9, 11, 13, 14, 15, 17, 23, 30, 35, 42, 43, 44,
-   46, 48, 50, 51, 52, 56 vollständig neu gelesen — alle, die ich
-   angefasst habe, und die, gegen die ich prüfen musste.
+   wurden die Kapitel 7, 9, 11, 13, 15, 42, 43, 44, 46, 48, 51, 52, 56
+   ganz neu gelesen und die Kapitel 14, 17, 23, 30, 35, 50 in den
+   Abschnitten, gegen die ich prüfen musste. Angefasst habe ich nur
+   Kapitel, die ich in dieser Sitzung gelesen habe.
 3. **Gemessen, bevor geschrieben wurde.** Zwei neue Messgeräte, eins
    erweitert. Was dabei herauskam, steht unter B.
 4. **Eingegriffen.** Neun Kapitel, siehe C.
