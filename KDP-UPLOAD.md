@@ -11,18 +11,25 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.279 Wörter |
+| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.380 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
 | EPUB mit eingebettetem Cover | **fertig**, 658 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **69.279 Wörter** — im gemessenen Zielband |
+| **Länge** | **69.380 Wörter** — ⚠️ unter der heute gemessenen Spanne, siehe unten |
 
-**Es fehlt nichts mehr.** Die Länge war der letzte offene Punkt und ist
-erledigt: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000
-Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 69.279. Damit
-zahlt Kindle Unlimited über die volle Strecke und nicht über die halbe.
+**Hochladbar ist es. Optimal ist es bei einem Punkt nicht.** Am
+14.08. maß `kdp_nischen.py` in der Hauptnische 291 bis 337 Druckseiten,
+und daraus wurde das Ziel 65.000 bis 82.000 Wörter. Der Lauf vom
+**16.08. misst dieselbe Nische neu: Median 337 Seiten, Spanne 312 bis
+398.** Das Manuskript liegt bei 69.380 Wörtern, also rund 250 bis 280
+Druckseiten — unter dem kürzesten dort gemessenen Titel.
+
+Bei Kindle Unlimited wird pro gelesener Seite gezahlt; das sind
+schätzungsweise 22 % weniger Ertrag pro Leserin. Die vollständige
+Abwägung samt Stichprobengröße steht in `buch/PRUEFUNG.md`. Bis zum
+unteren Rand der Spanne fehlen rund 13.300 Wörter.
 
 Auch die beiden erzählerischen Entscheidungen sind gefallen, und zwar
 in die Richtung, die den Leser dieser Nische zufriedenstellt: **Happy
@@ -211,16 +218,20 @@ Leserin nichts extra kosten.
 
 **Und deshalb zählt die Länge — jetzt mit gemessener Zahl.** In KU wird
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
-Nischen haben im Median **291 bis 337 Druckseiten**, also rund
-**65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
-**69.279** und liegt damit im Band, am unteren Rand. Bei vollständigem
-Durchlesen bringt es die Seitenerlöse eines regulären Titels der Nische
-und nicht mehr die Hälfte davon.
+Nischen haben im Median **326 bis 544 Druckseiten** (`KDP-NISCHEN.md`,
+Lauf vom 16.08.). Dieses Buch hat **69.380 Wörter**, also rund 250 bis
+280 Druckseiten.
 
-Zur Einordnung, damit die Zahl nicht als Versprechen gelesen wird: Ein
-Platz im Zielband entscheidet nichts über Verkäufe. Er sorgt nur dafür,
-dass die Länge kein Grund gegen das Buch mehr ist — weder in der
-Vergütung noch in den Bewertungen.
+Der Lauf vom 16.08. hat diese Zahlen nach oben korrigiert: In der
+Hauptnische *geheimes baby liebesroman* liegt der Median bei 337 Seiten,
+die Spanne bei 312 bis 398, gelesen an vier Titeln mit Angabe. Damit ist
+das Buch kürzer als jeder dort gemessene Spitzentitel.
+
+Zur Einordnung, damit die Zahl nicht als Befehl gelesen wird: vier Titel
+sind eine Andeutung, und die Umrechnung Wörter → Seiten ist eine
+Faustregel. Was nicht wackelt: In allen vier gemessenen Nischen liegt
+der Median über 320 Seiten. `buch/PRUEFUNG.md` rechnet vor, was das
+Schließen der Lücke kostet.
 
 ---
 
