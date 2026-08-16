@@ -298,6 +298,13 @@ Möglicher Eingriff: eines auf rund tausend Wörter kürzen.
 *„Sein bestgehütetes Geheimnis"* schreibt das Geheimnis ihm zu. Es ist
 ihres. Zehn Alternativen mit Empfehlung stehen in `KDP-PAKET.md`; die
 Entscheidung ist eine Geschäftsentscheidung und keine Lektoratsfrage.
+
+Der Lauf vom 16.08. hat die Titelmuster nachgezählt — 30 Spitzentitel,
+im Wortlaut in `../KDP-NISCHEN.md`: 24 von 30 haben einen Untertitel
+nach Doppelpunkt, 23 tragen das Wort *Liebesroman*, 21 den Reihennamen
+in Klammern. Der Vorschlag trifft alle drei. Und *„Die Thorne-Brüder 1"*
+steht heute in den Top 10 der Milliardär-Nische — dieselbe
+Reihenkonstruktion, auf Band 1.
 **Die finale EPUB trägt noch den alten Titel** — ein Lauf von
 `manuskript.py --titel "…"` tauscht ihn.
 
