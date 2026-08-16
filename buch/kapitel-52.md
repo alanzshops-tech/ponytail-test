@@ -93,9 +93,16 @@ Wasserhahn aufgedreht und ihn wieder zugedreht.
 
 „Nicht heute.“
 
-Sie hat dieses Wortpaar zweimal in ihrem Leben zu mir gesagt. Beim
-ersten Mal war es das, was mich am nächsten Morgen zur Wahrheit gebracht
-hat.
+Sie hat dieses Wortpaar dreimal zu mir gesagt.
+
+Beim ersten Mal, im November, war es das, was mich am nächsten Morgen
+zur Wahrheit gebracht hat. Beim zweiten Mal, sieben Tage vorher, hatte
+ich meine Hand an ihrem Hals und habe sie zurückgenommen und bin nach
+Hause gefahren und habe gesagt, das sei in Ordnung.
+
+Beim dritten Mal habe ich verstanden, dass es kein Nein ist. Es ist eine
+Uhr. Sie sagt mir jedes Mal, wie spät es ist, und ich habe jedes Mal
+gemacht, was ein höflicher Mann macht, nämlich nichts.
 
 Ich bin gegangen.
 
@@ -149,6 +156,23 @@ später beim Ring wieder gebraucht habe: Ich verwechsle
 Zurückhaltung mit Anstand, und zwar zuverlässig, und zwar immer dann,
 wenn Zurückhaltung mich vor einem Nein schützt.
 
+Und dann habe ich den Zettel umgedreht und gemerkt, dass auf der
+Rückseite dasselbe steht.
+
+Sieben Tage vorher hatte ich in einem neunzig Zentimeter breiten Gang
+gestanden und die Hand gehoben, und als sie *nicht heute* gesagt hat,
+habe ich gesagt: *Ich frage nicht noch mal.*
+
+Das habe ich für Größe gehalten. Ich habe es sogar gut gefunden, wie es
+klang.
+
+Es heißt: Ich verlange, dass sie den Anfang macht, damit ich nicht
+derjenige bin, der etwas hört, das er nicht will.
+
+Zwei Fragen, dieselbe Feigheit. Bei der einen geht es um ein Wort mit
+vier Buchstaben, das ein Kind sagen soll. Bei der anderen geht es um
+mich.
+
 ---
 
 Ich bin am Freitagmorgen um zwanzig vor sieben da gewesen.
@@ -188,9 +212,29 @@ sieben, und sagte:
 
 „Dann sage ich es am nächsten Tag noch mal“, sagte ich.
 
-Sie hat genickt, einmal, und dann ist sie in den Backraum gegangen, und
-ich habe die Stühle von den Tischen genommen, weil es das Einzige war,
-was ich in diesem Moment tun konnte.
+Sie hat genickt, einmal.
+
+„Und ich nehme etwas zurück“, sagte ich.
+
+Sie blieb stehen, wo sie stand, mit der Hand an der Lehne von Tisch
+zwei.
+
+„Am Donnerstag davor habe ich gesagt, ich frage nicht noch mal. Das war
+kein Anstand. Das war ein Weg, es dir zu überlassen, damit ich nicht
+derjenige bin, der etwas Falsches will.“ Ich sah sie an, und das war
+schwerer als der ganze Rest. „Ich frage noch mal. Nicht heute. Aber ich
+frage noch mal.“
+
+Sie hat einen Moment gebraucht.
+
+„Gut“, sagte sie, und es klang nicht wie *in Ordnung*.
+
+Dann ist sie in den Backraum gegangen, und ich habe die Stühle von den
+Tischen genommen, weil es das Einzige war, was ich in diesem Moment tun
+konnte.
+
+Ich habe dabei gemerkt, dass ich das seit dem Herbst mache und dass mich
+noch nie jemand darum gebeten hat.
 
 ---
 
