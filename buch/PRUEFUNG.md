@@ -1,5 +1,13 @@
 # Prüfung: Ist das Buch so, wie die Recherche es verlangt?
 
+> **Überholt am 16.08.2026.** Dieser Bericht beschreibt den Stand mit
+> 59 Kapiteln und 69.603 Wörtern. Seitdem sind sechs Kapitel
+> dazugekommen; **alle Kapitelnummern ab 34 stimmen hier nicht mehr**
+> (1–33 unverändert, 34–36 → +2, 37–39 → +4, ab 40 → +6). Die drei
+> hier offenen Schwächen sind in `LEKTORAT.md` erledigt oder
+> ausdrücklich zurückgenommen. Der Bericht bleibt stehen, weil die
+> Befunde von damals erklären, warum danach eingegriffen wurde.
+
 Stand 16.08.2026 · geprüft gegen `../KDP-NISCHEN.md` (Lauf vom 16.08.2026)
 · Grundlage: eine vollständige Lesung des Manuskripts, Kapitel 1 bis Epilog.
 
