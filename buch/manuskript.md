@@ -5541,8 +5541,8 @@ erst nach ungefähr zwei Minuten.
 
 Ich habe die Mappe nicht weggeworfen.
 
-Das ist der Teil, den ich mir selbst am meisten übelnehme, weil er zeigt,
-dass ich es wusste.
+Das nehme ich mir bis heute am meisten übel, weil es zeigt, dass ich es
+wusste.
 
 Ich habe sie in die Schublade unter der Kasse gelegt, zu dem Brief von
 der Bank und dem Stein vom Elbstrand, und ich habe die Schublade
@@ -6855,6 +6855,38 @@ und ich schreibe das in vollem Wissen darüber, was elf Tage später
 passiert ist.
 
 „Papa geht“, sagte ich.
+
+---
+
+Ich schreibe an dieser Stelle etwas hin, was mir sonst niemand abnimmt,
+weil es keine Zahl ist.
+
+Man hat mich in diesem Jahr zweimal gefragt, was ich eigentlich an ihr
+finde. Einmal Theo, einmal meine Mutter, und beide haben eine Antwort
+erwartet, die man auf einer Feier weitergeben kann.
+
+Ich habe beide Male etwas Allgemeines gesagt.
+
+Hier steht das Genaue.
+
+Sie prüft eine Sache immer zweimal, mit zwei verschiedenen Sinnen. Sie
+misst den Teig mit dem Thermometer und fasst ihn danach trotzdem an, und
+wenn sich beides widerspricht, glaubt sie der Hand. Sie sagt Beträge
+nicht in Millionen, sondern in dem, was sie an dem Tag verkaufen müsste.
+Sie hört einem Menschen zu und wartet die Antwort ab, was fast niemand
+tut, und ich habe zwölf Jahre lang in Räumen gesessen, in denen alle nur
+darauf gewartet haben, wieder dranzukommen.
+
+Und sie hat an einem Stehtisch am Klosterwall die Hand auf meine gelegt,
+weil ich zugegeben hatte, dass in meinem Elternhaus ein Wort fehlte, und
+sie hat es getan, ohne darüber zu reden, und danach hat sie das Thema
+gewechselt.
+
+Das ist es. Das ist die ganze Aufstellung.
+
+Ich habe an diesem Nachmittag an einem Imbiss gestanden und begriffen,
+dass ich diese Frau nicht deshalb will, weil sie die Mutter meines Kindes
+ist, sondern dass es andersherum ein glücklicher Zufall ist.
 
 ---
 
@@ -9910,9 +9942,7 @@ Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
 man lacht, wenn eine Zahl für sich spricht.
 
 „Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
-Handlung um eine Erwerbschance gebracht, deren Wert wir mit — sagen wir
-vorsichtig — siebenhunderttausend beziffern können, wenn man die
-ersparte Alternativtrasse gegenrechnet.“
+Handlung um eine Erwerbschance gebracht.“
 
 „Ja.“
 
@@ -9944,14 +9974,6 @@ getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
 sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
 
 „Und was schlagen Sie vor?“
-
-Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
-betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
-sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
-Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
-hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
-Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
-damit die nächste Zahl eine hat.
 
 Ich schob das vierte Blatt hin.
 
@@ -10986,6 +11008,105 @@ Und sie hat gesagt: „Du weißt, wo die Schürze hängt.“
 
 ---
 
+Und am selben Abend habe ich es kaputt gemacht, und zwar in elf Minuten.
+
+Ich war um acht wieder im Büro. Auf dem Bildschirm stand, dass der
+Brooktorkai-Termin auf den nächsten Tag verlegt worden war, elf Uhr,
+weil der Verkäufer am Wochenende nach Portugal fliegt.
+
+Freitag ist mein Tag mit Emil.
+
+Ich habe das gesehen, ich habe zwei Minuten überlegt, und dann habe ich
+getan, was ich immer tue: Ich habe es geregelt.
+
+Ich habe Frau Kuhlmann gebeten, bei einer Kinderbetreuung anzurufen, die
+für Mitarbeiter mit Notfällen einspringt. Ich habe eine Frau gebucht,
+mit Zeugnissen, für sechs Stunden, und ich habe die Rechnung auf mein
+Privatkonto legen lassen, weil ich sogar dabei noch anständig sein
+wollte.
+
+Dann habe ich Marlene angerufen und gesagt, es sei alles organisiert.
+
+---
+
+Es war einen Moment still, und ich dachte, die Verbindung sei weg.
+
+„Wie heißt sie?“, sagte sie.
+
+„Was?“
+
+„Die Frau, die morgen sechs Stunden mit meinem Sohn verbringt. Wie
+heißt sie?“
+
+Ich habe auf den Zettel gesehen, den Frau Kuhlmann mir hingelegt hatte,
+und den Namen vorgelesen.
+
+„Und wo?“
+
+„Bei ihr. Sie hat eine Wohnung in Eimsbüttel, es ist geprüft —“
+
+„Jonas.“ Ich habe gehört, dass sie sich hingesetzt hat. „Morgen ist Tag
+drei. Morgen geht der erste Trennungsversuch, zwei Minuten, das steht
+seit einer Woche auf einem Zettel an meinem Kühlschrank. Und danach
+sollst du ihn einer Frau geben, deren Namen du gerade vom Blatt
+abgelesen hast.“
+
+„Dann sage ich ab.“
+
+„Das ist nicht der Punkt.“
+
+„Was ist der Punkt?“
+
+„Dass du mich anrufst, wenn es fertig ist“, sagte sie.
+
+---
+
+Ich habe die Frau abbestellt und den Termin verschoben, was zwei
+Telefonate und eine Entschuldigung gekostet hat und in der Sache völlig
+folgenlos war. Der Verkäufer flog trotzdem nach Portugal und
+unterschrieb im März.
+
+Elf Minuten hatten gereicht, um in einem Satz das Gegenteil von dem zu
+tun, was ich seit November versuche.
+
+Ich habe am Freitagabend an ihrer Tür gestanden, mit Emil auf dem Arm,
+und gesagt: „Ich hätte fragen sollen.“
+
+„Ja.“
+
+„Ich habe gedacht, ich nehme dir etwas ab.“
+
+„Ich weiß, was du gedacht hast.“ Sie hielt die Tür auf, aber sie trat
+nicht zur Seite. „Weißt du, was mein Vater mir zum letzten Mal gesagt
+hat? *Ich habe alles geregelt.* Das war der ganze Satz. Ich war zehn.“
+
+Ich habe zwei Sekunden gebraucht, um zu verstehen, dass ich nicht mit
+ihr rede.
+
+„Ich bin nicht dein Vater“, sagte ich.
+
+„Nein“, sagte sie. „Und ich bin nicht meine Mutter. Wir müssen es
+trotzdem beide jeden Tag neu entscheiden.“
+
+Dann trat sie zur Seite.
+
+---
+
+Ich habe an diesem Abend nicht nach der Schürze gefragt, und sie hat sie
+mir auch nicht hingehalten.
+
+Wir haben zwei Stunden über die Eingewöhnung geredet, über Frau
+Özdemir und über die Frage, ob man ein Kind wecken darf, das im
+falschen Moment einschläft.
+
+Es war das erste Mal seit dem siebenundzwanzigsten Januar, dass wir
+etwas hatten, worüber man streiten kann.
+
+Ich habe auf dem Heimweg gemerkt, dass mir das gefehlt hat, und ich habe
+mich dafür geschämt und es trotzdem gedacht.
+
+---
+
 Am einundzwanzigsten Februar, einem Samstag, saß ich in meiner Küche
 und habe die Liste noch einmal gemacht, die ich im November
 weggeworfen hatte.
@@ -11226,7 +11347,7 @@ Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
 Arbeit ist.
 
-**Tag eins.** Achtzehnter Februar, Montag, halb neun. Kita Kirchenweg,
+**Tag eins.** Achtzehnter Februar, Mittwoch, halb neun. Kita Kirchenweg,
 Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
 Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
 und Apfel, den ich seitdem sofort wiedererkenne.
@@ -11489,12 +11610,122 @@ kommen nie in die Lage.“
 
 ---
 
+Am sechsundzwanzigsten März, dem vierten Donnerstag, nach dem Satz mit
+dem *erleichtert*, ist er nicht gegangen.
+
+Ich habe mir diesen Abend seitdem sehr oft vorgesagt, und zwar in beide
+Richtungen.
+
+Er stand auf, um seine Tasse zur Spüle zu bringen, was er immer macht
+und was mich immer ärgert, weil ich es dann noch einmal abspüle. Ich
+stand auch auf, um ihm die Tasse abzunehmen. Wir standen zwischen Tisch
+neun und der Theke, an der Stelle, an der der Gang neunzig Zentimeter
+breit ist, weil meine Großmutter 1961 eine Vitrine gekauft hat, die zu
+groß war.
+
+Er gab mir die Tasse nicht.
+
+„Marlene.“
+
+„Ja.“
+
+„Ich habe seit November eine Sache nicht gemacht“, sagte er, „und ich
+habe sie nicht gemacht, weil ich dir jedes Mal dabei etwas geschuldet
+hätte. Erst das Dach. Dann die Mappe. Dann die Forderung. Es gab in
+sieben Monaten keinen einzigen Tag, an dem zwischen uns nichts offen
+war.“
+
+Er stellte die Tasse zurück auf den Tisch, ohne hinzusehen, und traf den
+Untersetzer nicht.
+
+„Seit dem siebenundzwanzigsten Januar ist nichts mehr offen.“
+
+Ich wusste genau, was jetzt kommt. Ich habe es zwei Sekunden vorher
+gewusst, und ich habe in diesen zwei Sekunden nichts getan, was man
+Weggehen nennen könnte.
+
+Er hob die Hand und legte sie an meinen Hals, unter dem Ohr, wo man den
+Puls fühlt, und ich weiß, dass er ihn gefühlt hat, weil ich gefühlt
+habe, dass er ihn fühlt.
+
+Neunzig Zentimeter sind nicht viel.
+
+Ich habe seinen Mantel gerochen, der nass war, und darunter den grünen
+Anorak, den er nicht mehr hergibt, und ich habe an eine Schüssel mit
+Butter und Mehl gedacht und daran, dass das jetzt viereinhalb Monate
+her ist und dass es seitdem eine Hand auf einem Ärmel gegeben hat und
+sonst nichts.
+
+Dann habe ich meine Hand auf seine gelegt und sie heruntergenommen.
+
+„Nicht heute“, sagte ich.
+
+---
+
+Ich habe die zwei Wörter gehört, während ich sie gesagt habe, und ich
+habe sie sofort wiedererkannt.
+
+An einem Donnerstagabend im November, im Backraum, mit Mehl bis zum
+Ellenbogen, hatte ich dieselben zwei Wörter benutzt, um ihm zu sagen,
+dass es etwas gibt, und ihn gleichzeitig zu bitten, nicht danach zu
+fragen.
+
+Er hat es auch wiedererkannt. Ich habe es gesehen.
+
+Und er hat wieder nicht gefragt.
+
+„Gut“, sagte er.
+
+„Es ist nicht gut.“
+
+„Nein.“ Er nahm seinen Schlüssel vom Tisch. „Es ist nicht gut. Es ist in
+Ordnung. Das ist zweierlei, und ich kann beides.“
+
+An der Tür drehte er sich um, so wie er sich immer umdreht.
+
+„Sag es mir, wenn es ein anderer Tag ist“, sagte er. „Ich frage nicht
+noch mal.“
+
+---
+
+Ich habe danach eine Stunde in der Küche gesessen, ohne Licht, mit dem
+Rücken an der Ofentür, die noch warm war.
+
+Ich hatte nein gesagt zu dem Einzigen in diesem Winter, das mich nichts
+gekostet hätte.
+
+Und ich wusste, warum. Ich habe es nur nicht gern hingeschrieben:
+
+Solange er mich nicht angefasst hat, war er einer, der geblieben ist.
+Danach wäre er einer, der bleiben *muss*.
+
+Meine Mutter hat vierzig Jahre lang darauf gewartet, gefragt zu werden.
+Ich habe an einem Donnerstag im März gemerkt, dass ich in der anderen
+Richtung dasselbe Problem habe: Ich kann nicht ertragen, dass jemand
+bleibt, weil es sich so ergeben hat.
+
+Ich wollte, dass er es sich aussucht.
+
+Ich habe ihm nur nicht gesagt, dass ich das will, und damit war ich
+wieder genau da, wo dieses ganze Jahr angefangen hat.
+
+---
+
 Am siebenundzwanzigsten März ist etwas passiert, das ich hier
 aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
 nicht das Abendessen im Mai.
 
-Es war ein Freitag. Jonas hatte Emil geholt, sie waren am Elbstrand,
-und ich hatte den Laden allein und war fertig um sechs.
+Es war der Tag danach, ein Freitag. Jonas hatte Emil geholt, sie waren
+am Elbstrand, und ich hatte den Laden allein und war fertig um sechs.
+
+Ich hatte den ganzen Tag überlegt, was ich sage, wenn er kommt. Ich habe
+zwölf Stunden lang Sätze gebaut und alle wieder abgeräumt.
+
+Er hat nichts gesagt. Er hat gefragt, ob Emil noch etwas isst, und ob
+die Bohrpfähle durch sind, und er hat sich dabei nicht anders
+hingestellt als sonst.
+
+Ich weiß bis heute nicht, ob ich dankbar oder wütend war.
 
 Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
 einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
@@ -11641,9 +11872,16 @@ Wasserhahn aufgedreht und ihn wieder zugedreht.
 
 „Nicht heute.“
 
-Sie hat dieses Wortpaar zweimal in ihrem Leben zu mir gesagt. Beim
-ersten Mal war es das, was mich am nächsten Morgen zur Wahrheit gebracht
-hat.
+Sie hat dieses Wortpaar dreimal zu mir gesagt.
+
+Beim ersten Mal, im November, war es das, was mich am nächsten Morgen
+zur Wahrheit gebracht hat. Beim zweiten Mal, sieben Tage vorher, hatte
+ich meine Hand an ihrem Hals und habe sie zurückgenommen und bin nach
+Hause gefahren und habe gesagt, das sei in Ordnung.
+
+Beim dritten Mal habe ich verstanden, dass es kein Nein ist. Es ist eine
+Uhr. Sie sagt mir jedes Mal, wie spät es ist, und ich habe jedes Mal
+gemacht, was ein höflicher Mann macht, nämlich nichts.
 
 Ich bin gegangen.
 
@@ -11697,6 +11935,23 @@ später beim Ring wieder gebraucht habe: Ich verwechsle
 Zurückhaltung mit Anstand, und zwar zuverlässig, und zwar immer dann,
 wenn Zurückhaltung mich vor einem Nein schützt.
 
+Und dann habe ich den Zettel umgedreht und gemerkt, dass auf der
+Rückseite dasselbe steht.
+
+Sieben Tage vorher hatte ich in einem neunzig Zentimeter breiten Gang
+gestanden und die Hand gehoben, und als sie *nicht heute* gesagt hat,
+habe ich gesagt: *Ich frage nicht noch mal.*
+
+Das habe ich für Größe gehalten. Ich habe es sogar gut gefunden, wie es
+klang.
+
+Es heißt: Ich verlange, dass sie den Anfang macht, damit ich nicht
+derjenige bin, der etwas hört, das er nicht will.
+
+Zwei Fragen, dieselbe Feigheit. Bei der einen geht es um ein Wort mit
+vier Buchstaben, das ein Kind sagen soll. Bei der anderen geht es um
+mich.
+
 ---
 
 Ich bin am Freitagmorgen um zwanzig vor sieben da gewesen.
@@ -11736,9 +11991,29 @@ sieben, und sagte:
 
 „Dann sage ich es am nächsten Tag noch mal“, sagte ich.
 
-Sie hat genickt, einmal, und dann ist sie in den Backraum gegangen, und
-ich habe die Stühle von den Tischen genommen, weil es das Einzige war,
-was ich in diesem Moment tun konnte.
+Sie hat genickt, einmal.
+
+„Und ich nehme etwas zurück“, sagte ich.
+
+Sie blieb stehen, wo sie stand, mit der Hand an der Lehne von Tisch
+zwei.
+
+„Am Donnerstag davor habe ich gesagt, ich frage nicht noch mal. Das war
+kein Anstand. Das war ein Weg, es dir zu überlassen, damit ich nicht
+derjenige bin, der etwas Falsches will.“ Ich sah sie an, und das war
+schwerer als der ganze Rest. „Ich frage noch mal. Nicht heute. Aber ich
+frage noch mal.“
+
+Sie hat einen Moment gebraucht.
+
+„Gut“, sagte sie, und es klang nicht wie *in Ordnung*.
+
+Dann ist sie in den Backraum gegangen, und ich habe die Stühle von den
+Tischen genommen, weil es das Einzige war, was ich in diesem Moment tun
+konnte.
+
+Ich habe dabei gemerkt, dass ich das seit dem Herbst mache und dass mich
+noch nie jemand darum gebeten hat.
 
 ---
 
@@ -12428,6 +12703,20 @@ wie sie Lieferanten bestellt.
 
 Ich habe „ja“ gesagt und dann den Rest des Tages nichts Vernünftiges
 mehr zustande gebracht.
+
+Zwölf Tage vorher hatte ich in ihrem Café gestanden und gesagt, dass ich
+noch mal frage. Ich hatte in diesen zwölf Tagen dreimal angesetzt und
+jedes Mal etwas anderes gesagt, und am Ende war es wieder sie.
+
+Ich habe darüber am Mittwochabend eine Stunde lang schlechte Laune
+gehabt.
+
+Dann habe ich gemerkt, woher die kommt: Ich hätte gern gehabt, dass es
+meine Frage ist, damit ich nachher weiß, dass ich es war. Also
+buchstäblich das, was ich ihr vorwerfe, wenn sie es tut.
+
+Ich habe an diesem Abend zum ersten Mal in meinem Leben verstanden, dass
+man auch einen Antrag als Vorwand benutzen kann.
 
 ---
 
