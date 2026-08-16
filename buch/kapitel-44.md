@@ -52,9 +52,7 @@ Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
 man lacht, wenn eine Zahl für sich spricht.
 
 „Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
-Handlung um eine Erwerbschance gebracht, deren Wert wir mit — sagen wir
-vorsichtig — siebenhunderttausend beziffern können, wenn man die
-ersparte Alternativtrasse gegenrechnet.“
+Handlung um eine Erwerbschance gebracht.“
 
 „Ja.“
 
@@ -86,14 +84,6 @@ getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
 sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
 
 „Und was schlagen Sie vor?“
-
-Man muss dazu wissen, wie diese Firma aussieht, wenn man sie von außen
-betrachtet: Der Bestand der Reinhardt Immobilien liegt bei einer Komma
-sieben Milliarden, verteilt auf zweihundertvierzig Objekte zwischen
-Altona und Rothenburgsort. Vier davon gehören mir persönlich, den Rest
-hält die Gesellschaft, und die Gesellschaft gehört zu neunundvierzig
-Prozent mir. Ich sage das nicht, weil es eine Rolle spielt. Ich sage es,
-damit die nächste Zahl eine hat.
 
 Ich schob das vierte Blatt hin.
 
