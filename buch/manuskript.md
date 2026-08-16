@@ -14081,6 +14081,23 @@ wenn man sie aufschreibt.
 
 ---
 
+Zwischen dem sechzehnten und dem fünfundzwanzigsten April liegen neun
+Tage, über die in diesem Kapitel nichts steht.
+
+Das ist Absicht. Einer davon war ein Samstag.
+
+Ich habe an diesem Findling gesessen, mit vier nassen Steinen in der
+Manteltasche, neben einem Mann, der sechs hatte, und habe zum ersten
+Mal seit sechs Jahren nicht daran gedacht, wie viele Bleche morgen
+müssen.
+
+Frau Kettler hat mich am Montag angesehen und gesagt: „Sie haben heute
+nichts umgestellt.“
+
+Sie hat nicht die Vitrine gemeint.
+
+---
+
 # Kapitel 62 — Jonas
 
 Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
