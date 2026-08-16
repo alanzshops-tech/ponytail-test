@@ -327,6 +327,79 @@ ist, was sich bewegt hat und was nicht.
 | **KDP-Potenzial** | 5 | **8** | Länge in der gemessenen Spanne, Titel gesetzt und gegen 30 Spitzentitel geprüft, Kategorien und Hitzegrad gemessen, Keywords und Klappentext stehen. Was bleibt, ist kein Textproblem mehr, sondern Sichtbarkeit. |
 | **Serienpotenzial** | 8 | **9** | Bastian hat jetzt eine eigene Szene (Kapitel 40) statt nur Nachrichten, und Theos Heimlichkeit wird im Dezember ausgesprochen und überhört, statt im Mai aus dem Nichts zu kommen. |
 
+### Gegenprobe 1: der Neun-Phasen-Bogen
+
+Positionen aus der Wortzahl der 65 Kapitel gerechnet, nicht geschätzt.
+
+| Phase | Wo | Position |
+|---|---|---:|
+| Wiederbegegnung | Kap 1–2 · er steht in ihrem Café, „Wer ist die Frau?" | 2–4 % |
+| Anziehung | Kap 14 · Finger in einer Schüssel mit Butter und Mehl, drei Sekunden | **24 %** |
+| Wahrheit | Kap 16 · *Emil ist deiner* | **27 %** |
+| Nähe | Kap 17–30 · Dienstage und Donnerstage, Fieberkrampf, Vaterschaftsanerkennung | 29–47 % |
+| Konflikt | Kap 23 (blaue Mappe) · Kap 32 (er kauft die Forderung) | 38 % · 50 % |
+| Emotionale Krise | Kap 33–35 · sie wirft ihn raus, seine Nacht, ihr 24. Dezember | **52–54 %** |
+| Entscheidung | Kap 37 (sie ruft Theo an) · Kap 45 (sie beauftragt Sievers) | 58 % · 69 % |
+| Payoff | Kap 50–52 · Beirat, Protokoll, Notar, *Konfusion* | 76–79 % |
+| HEA | Kap 62/63 (die Nacht) · Epilog (der Antrag) | 96 % · 100 % |
+
+**Zwei Abweichungen von der Lehrbuchreihenfolge, beide gewollt.**
+
+*Anziehung vor Wahrheit.* Der Bogen sieht Nähe vor Anziehung vor. In
+diesem Buch berühren sich die beiden drei Kapitel *bevor* sie ihm sagt,
+dass er einen Sohn hat — und genau daraus bezieht das Geheimnis seine
+Wucht: Er ist schon zu nah, als es herauskommt. Die Alternative wäre ein
+Buch, in dem das Geheimnis nichts kostet.
+
+*Die Krise liegt bei 52 statt bei 75 Prozent.* Das ist früh. Es
+funktioniert, weil danach nicht eine, sondern **zwei** Entscheidungen
+kommen — ihre bei 58 % (sie fragt zum ersten Mal in ihrem Leben nach
+einem Preis) und ihre zweite bei 69 % (sie verkauft, statt sich
+beschenken zu lassen) — und weil der Geldstrang erst bei 79 % schließt.
+Die zweite Hälfte trägt sich also nicht über Nachwirkung, sondern über
+zwei Handlungen der Heldin.
+
+### Gegenprobe 2: die acht emotionalen Szenen
+
+Jede mit der Frage geprüft, die der Auftrag vorgibt: *Was verändert
+diese Szene emotional zwischen Jonas und Leni?* Und: Ist sie
+ausgespielt oder zusammengefasst?
+
+| # | Szene | Kap | Was sie verändert | Ausgespielt? |
+|---:|---|---:|---|---|
+| 1 | *Emil ist deiner* | 16 | Aus einem Verhandlungspartner wird ein Vater. Er weint zum ersten Mal seit dem Tod seines Vaters. | ja, ganzes Kapitel |
+| 2 | Fieberkrampf, *Sorgeberechtigt? — Nein.* | 27/28 | Das Wort *Begleitperson* macht seine Stellung amtlich sichtbar. Erste gemeinsame Nacht, in der beide Angst haben. | ja, zwei Kapitel |
+| 3 | Vaterschaftsanerkennung + Pommes | 30 | Ihre Hand auf seiner. Er sagt, dass *Papa* in seinem Elternhaus nie vorkam — und schreibt auf, warum er sie will. | ja |
+| 4 | Er kauft die Forderung, sie wirft ihn raus | 32/33 | Der Tiefpunkt. *Es geht nicht mehr weg.* | ja, zwei Kapitel |
+| 5 | Heiligabend, 1997 | 36 | Der Sohn erfährt, dass er den Fehler seines Vaters wiederholt hat. Ab hier ist es kein Geheimnis mehr, sondern eine Familienkrankheit. | ja |
+| 6 | Notartermin, *Konfusion* | 51/52 | Sie gibt ihm die Hand wie einer Geschäftspartnerin, und das trifft ihn härter als alles. Er hält sie auf der Treppe nicht fest. | ja, zwei Kapitel |
+| 7 | Der Beinahe-Kuss, *Nicht heute* | 57 | Die höchste Nähe der zweiten Hälfte — und der Rückzug, der die Krise des Finales auslöst. | **neu ausgespielt** |
+| 8 | *Ich bin dein Papa* | 58 | Er sagt das Wort, das Kind sagt nichts, und es war trotzdem richtig. | ja |
+
+**Befund:** Sieben der acht waren ausgespielt, eine war es nicht —
+Nummer 7 stand als Analyse in einem Absatz und ist jetzt eine Szene.
+Das ist derselbe Eingriff wie in C.1; er taucht hier nur noch einmal
+auf, weil diese Gegenprobe ihn unabhängig gefunden hätte.
+
+### Gegenprobe 3: Haken und Cliffhanger, alle 65 Kapitel
+
+Anfangs- und Schlussabsatz jedes Kapitels nebeneinandergelegt.
+
+**Anfänge:** 65 von 65 beginnen mit einem konkreten Aussagesatz — einer
+Uhrzeit, einem Betrag, einem Gegenstand, einem Satz in Kursiv. Kein
+einziges beginnt mit Wetter, Landschaft oder einer Erinnerung.
+
+**Enden:** 64 von 65 enden auf einer Wendung, einem zurückgehaltenen
+Satz oder einem Vorgriff. **Eines nicht:** Kapitel 61 endete nach meiner
+eigenen Einfügung auf einer Reflexion, weil ich den stärksten Beat des
+Kapitels — ihre Entscheidung — in die Mitte geschoben hatte. Behoben;
+es endet jetzt auf Frau Kettlers *„Sie haben heute nichts umgestellt"*
+und dem Satz darunter: *Sie hat nicht die Vitrine gemeint.*
+
+Dass ich diesen Fehler selbst verursacht und erst durch eine
+systematische Gegenprobe gefunden habe, ist das Argument für die
+Gegenprobe.
+
 ---
 
 ## F — Was offen bleibt
