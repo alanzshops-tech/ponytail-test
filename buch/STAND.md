@@ -10,7 +10,7 @@ Geheimnis*
 | | |
 |---|---|
 | Kapitel | **58 + Epilog** |
-| Wörter Fließtext | **69.087** |
+| Wörter Fließtext | **69.279** |
 | Schnitt je Kapitel | 1.171 |
 | Erzählform | Ich, wechselnd Leni (ungerade) / Jonas (gerade), Präteritum |
 | Typografie | **0 Fehler** — von `prosa.py` und Vale unabhängig bestätigt |
@@ -19,7 +19,7 @@ Geheimnis*
 
 **Die Länge ist damit erledigt.** Gemessen (`../KDP-NISCHEN.md`, 19
 Produktseiten): Median 291 bis 337 Druckseiten, also **65.000 bis 82.000
-Wörter**. Das Manuskript liegt bei 69.087, also im Band.
+Wörter**. Das Manuskript liegt bei 69.279, also im Band.
 
 Das ist eine Aussage über die Länge und über nichts sonst. Ein Buch im
 Zielband verkauft sich nicht deshalb; die Länge ist nur kein Argument
@@ -35,7 +35,7 @@ den Bewertungen.
 | Block 1 (vier Kapitel) | 32 | 39.610 |
 | Block 2 (bis April-Paar) | 46 | 52.781 |
 | Block 3 | 56 | 65.699 |
-| **Block 4 (Ende + Wärme)** | **59** | **69.087** |
+| **Block 4 (Ende + Wärme)** | **59** | **69.279** |
 
 **Alle Einschübe sind Paare.** Ein einzelnes neues Kapitel würde den
 Perspektivwechsel Leni/Jonas an dieser Stelle für den Rest des Buches
@@ -131,17 +131,37 @@ miteinander geschlafen".
 
 ## Was noch zu tun ist
 
-**Namen prüfen.** Vor dem Hochladen gegen reale Firmen abgleichen:
-„Reinhardt Immobilien Hamburg", „Café Voss", „Hanseatische Volksbank",
-„Kellermann", „Kita Kirchenweg".
+Am Text nichts. Zwei Dinge am KDP-Konto, eines übersprungen.
 
-**KI-Offenlegung.** Die Prosa in diesem Ordner ist von einer KI
-geschrieben und bei KDP **anzugeben**. Nicht offengelegte KI-Inhalte
-führen zur Entfernung, im Wiederholungsfall zur Kontosperre samt
-gesamtem Katalog (`../DIGITAL.md`, Abschnitt 7). Struktur, Recherche und
-Lektorat fallen nicht darunter. Je mehr Prosa von dir stammt, desto
-weniger fällt darunter — die Angabe bleibt trotzdem korrekt, solange
-KI-Text im Buch steht.
+**⬜ KI-Offenlegung im Formular.** Text: ja. Bilder: ja. Übersetzung:
+nein. Nicht öffentlich sichtbar, verzögert die Freigabe nicht — aber
+eine unterlassene Angabe führt zur Entfernung des Titels und im
+Wiederholungsfall zur Kontosperre samt gesamtem Katalog
+(`../DIGITAL.md`, Abschnitt 7). Der Hinweis steht auch im Buch, im
+Vorspann; das ersetzt das Formular nicht.
+
+**⬜ US-Steuerinterview.** Ohne ausgefülltes Formular behält Amazon
+30 % Quellensteuer ein, mit Doppelbesteuerungsabkommen 0 %. Zehn
+Minuten im KDP-Konto.
+
+**⏭️ Namensabgleich gegen reale Firmen — übersprungen**, auf Ansage des
+Inhabers am 16.08.2026. Der Haftungsausschluss im Vorspann steht und
+benennt „Reinhardt Immobilien GmbH", „Café Voss" und „Hanseatische
+Volksbank" einzeln als erfunden.
+
+---
+
+## Am Schluss noch geändert
+
+| Wo | Was |
+|---|---|
+| Vorspann / Nachspann | Das **Impressum steht jetzt hinten**. Vorher aß Titelei plus Impressum plus Hinweise einen Teil der zehn Prozent, die „Blick ins Buch" zeigt. |
+| `manuskript.py` | Die EPUB trägt jetzt eine **Startposition** (`guide type="text"` auf `kap01.xhtml`), damit der Kindle auf Kapitel 1 öffnet und nicht auf der Titelseite. In der fertigen Datei nachgeprüft. |
+| Kap. 12 | Die Größe der Firma stand nur an einer einzigen Stelle, und zwar erst im Januar-Kapitel (1,7 Mrd. Bestand, 49 % gehören Jonas). Damit war der Untertitel *Milliardär* bis dahin ungedeckt. Die Zahl steht jetzt auch im Oktober — in seinem Ton, als etwas, das ihm nichts nützt. |
+| Vorspann | Inhaltshinweis von „keine explizite Sexualität" auf „eine Liebesszene, nicht explizit dargestellt". |
+| Nachspann | „Einer hat die Firma bekommen, als er zweiundzwanzig war" — er war vierundzwanzig; mit zweiundzwanzig hat er das Studium abgebrochen. |
+| Epilog | Amiras Anruf liegt vier Monate vor dem Epilog und blieb dort unerwähnt. Jetzt steht eine Zeile dazu drin, die Band 2 nicht verrät. |
+| Klappentext | „Geschlossene Tür" → „sinnlich, aber ohne explizite Szenen", und Happy End plus Epilog angekündigt. |
 
 ---
 

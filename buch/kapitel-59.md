@@ -30,6 +30,12 @@ schon um Viertel nach neun hin.
 
 Der Hof ist seit Juni fertig.
 
+Was seit dem achten Mai mit Theo ist, schreibe ich nicht auf. Es ist
+seins, es ist nicht vorbei, und er kann es besser erzählen als ich. Nur
+so viel: Amira war im Juli zum ersten Mal bei seiner Mutter zum
+Kartoffelsalat, und Jonas hat sich hinterher zwanzig Minuten im Wagen
+sammeln müssen.
+
 Und Jonas Reinhardt sitzt seit dem Wintersemester dienstagabends von
 achtzehn bis einundzwanzig Uhr in einem Hörsaal an der Denickestraße
 und hört Technische Mechanik, zusammen mit Leuten, die zwanzig sind. Er

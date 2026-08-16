@@ -17,8 +17,8 @@ angezeigt bekommt.
 
 ## Die Reinhardt-Brüder
 
-Vier Brüder. Einer hat die Firma bekommen, als er zweiundzwanzig war.
-Die anderen drei haben zugesehen.
+Vier Brüder. Einer hat die Firma bekommen, als er vierundzwanzig war,
+weil der Vater gestorben ist. Die anderen drei haben zugesehen.
 
 **Band 1 — Jonas**
 *Sein bestgehütetes Geheimnis*
@@ -64,3 +64,34 @@ genommen worden.
 
 *Sobald Band 1 online ist, kommt hier der Link zur Reihenseite hinein
 — vorher wäre es ein toter Link.*
+
+---
+
+## Impressum
+
+Angaben gemäß § 8 Landespressegesetz NRW
+
+**Alan Lorenz GbR**
+Welperstraße 3 G
+44879 Bochum
+Deutschland
+
+Vertretungsberechtigter Gesellschafter: Alan Lorenz
+
+Telefon: 0152 31840613
+E-Mail: alanz.shops@gmail.com
+
+Umsatzsteuer-Identifikationsnummer: DE353917356
+Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
+
+Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
+Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+
+1. Auflage 2026
+© 2026 Alan Lorenz
+Alle Rechte vorbehalten. Die Vervielfältigung, Verbreitung und
+öffentliche Zugänglichmachung dieses Werkes, auch auszugsweise, ist
+ohne schriftliche Zustimmung des Rechteinhabers unzulässig.
+
+Umschlaggestaltung: Alan Lorenz
+Umschlagbild: mit einem KI-Bildgenerator erstellt

@@ -12,37 +12,6 @@
 
 ---
 
-## Impressum
-
-Angaben gemäß § 8 Landespressegesetz NRW
-
-**Alan Lorenz GbR**
-Welperstraße 3 G
-44879 Bochum
-Deutschland
-
-Vertretungsberechtigter Gesellschafter: Alan Lorenz
-
-Telefon: 0152 31840613
-E-Mail: alanz.shops@gmail.com
-
-Umsatzsteuer-Identifikationsnummer: DE353917356
-Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
-
-Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
-Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
-
-1. Auflage 2026
-© 2026 Alan Lorenz
-Alle Rechte vorbehalten. Die Vervielfältigung, Verbreitung und
-öffentliche Zugänglichmachung dieses Werkes, auch auszugsweise, ist
-ohne schriftliche Zustimmung des Rechteinhabers unzulässig.
-
-Umschlaggestaltung: Alan Lorenz
-Umschlagbild: mit einem KI-Bildgenerator erstellt
-
----
-
 ## Hinweise
 
 **Alle Personen und Handlungen sind frei erfunden.** Ähnlichkeiten mit
@@ -58,8 +27,8 @@ Recherche und Überarbeitung stammen vom Herausgeber.
 **Inhaltshinweise.** Dieses Buch enthält: einen unangekündigten
 Klinikaufenthalt mit einem kranken Kleinkind, eine drohende
 Zwangsversteigerung und finanzielle Not, den Tod eines Elternteils in
-der Rückblende, sowie den Schlaganfall einer Angehörigen. Keine
-explizite Sexualität, keine Gewalt.
+der Rückblende, sowie den Schlaganfall einer Angehörigen. Eine
+Liebesszene, nicht explizit dargestellt. Keine Gewalt.
 
 ---
 

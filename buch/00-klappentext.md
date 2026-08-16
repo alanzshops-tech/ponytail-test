@@ -50,10 +50,9 @@ Und rechnet nach.
 haben, niemanden zu brauchen — und über die Wahrheit, die keiner von
 beiden mehr aufhalten kann.**
 
-*Band 1 der Reihe „Die Reinhardt-Brüder". Die Liebesgeschichte von Leni
-und Jonas ist abgeschlossen, mit Happy End und Epilog — kein
-Cliffhanger für dieses Paar. Erst danach öffnet sich der Blick auf
-Band 2.*
+*Band 1 der Reihe „Die Reinhardt-Brüder". Abgeschlossen, mit Happy End
+und Epilog — kein Cliffhanger für dieses Paar. Erst danach öffnet sich
+der Blick auf Band 2. Sinnlich, aber ohne explizite Szenen.*
 
 ---
 
@@ -61,7 +60,7 @@ Band 2.*
 
 | | |
 |---|---|
-| Umfang | 58 Kapitel + Epilog, **69.087 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
+| Umfang | 58 Kapitel + Epilog, **69.279 Wörter** — im gemessenen Zielband der Nische (65.000–82.000, siehe `../KDP-NISCHEN.md`) |
 | Erzählform | Ich-Perspektive, wechselnd Leni / Jonas, Präteritum |
 | Kategorie | Liebesroman › Zeitgenössisch |
 | Keywords | geheimes baby, milliardär, zweite chance, hamburg, alleinerziehend, ceo |

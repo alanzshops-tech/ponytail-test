@@ -11,17 +11,17 @@ fertig. Was noch fehlt, steht ganz oben und nicht versteckt.
 
 | | Stand |
 |---|---|
-| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.087 Wörter |
+| Manuskript, 58 Kapitel + Epilog | **fertig**, 69.279 Wörter |
 | Cover 1600 × 2560 | **fertig**, Bild über OpenRouter erzeugt |
 | EPUB mit eingebettetem Cover | **fertig**, 658 kB |
 | Impressum, Autor, Copyright | **fertig** |
 | Metadaten, Schlagwörter, Kategorien | **fertig**, Kategorien gemessen |
 | Typografie | **0 Fehler**, von `prosa.py` und Vale unabhängig bestätigt |
-| **Länge** | **69.087 Wörter** — im gemessenen Zielband |
+| **Länge** | **69.279 Wörter** — im gemessenen Zielband |
 
 **Es fehlt nichts mehr.** Die Länge war der letzte offene Punkt und ist
 erledigt: Die Spitzentitel der Nische liegen bei 65.000 bis 82.000
-Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 69.087. Damit
+Wörtern (`KDP-NISCHEN.md`), das Manuskript liegt bei 69.279. Damit
 zahlt Kindle Unlimited über die volle Strecke und nicht über die halbe.
 
 Auch die beiden erzählerischen Entscheidungen sind gefallen, und zwar
@@ -36,7 +36,7 @@ Abschnitt „Hitzegrad der Spitzentitel".
 |---|---|---|
 | `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 658 kB, 61 Abschnitte |
 | `buch/manuskript.md` | zum Lesen und Korrigieren | fertig |
-| `cover/fertig/cover.jpg` | Cover, 1600 × 2560 | Schrift fertig, Bild fehlt |
+| `cover/fertig/cover.jpg` | **Cover zum Hochladen** | fertig, 1600 × 2560 nachgemessen, 447 kB |
 | `cover/fertig/schrift-ebene.png` | transparent, für Canva | fertig |
 
 **KDP nimmt kein Markdown.** Zulässig sind unter anderem DOCX, EPUB und
@@ -106,15 +106,18 @@ eigentlich will, wird aus der Verhandlung etwas anderes.</p>
 haben, niemanden zu brauchen — und über die Wahrheit, die keiner von
 beiden mehr aufhalten kann.</p>
 
-<p><i>Band 1 der Reihe „Die Reinhardt-Brüder". Die Liebesgeschichte von
-Leni und Jonas ist abgeschlossen — kein Cliffhanger für dieses Paar.
-Auf der letzten Seite öffnet sich der Blick auf Band 2. Geschlossene
-Tür: keine expliziten Szenen.</i></p>
+<p><i>Band 1 der Reihe „Die Reinhardt-Brüder". Abgeschlossen, mit
+Happy End und Epilog — kein Cliffhanger für dieses Paar. Erst danach
+öffnet sich der Blick auf Band 2. Sinnlich, aber ohne explizite
+Szenen.</i></p>
 ```
 
-> Der letzte Halbsatz zur geschlossenen Tür steht da mit Absicht. Wer
-> „Milliardär-Liebesroman" sucht und Spice erwartet, vergibt sonst
-> einen Stern für etwas, das im Buch nie versprochen wurde.
+> Der letzte Halbsatz steht da mit Absicht, und er heißt jetzt
+> *sinnlich, aber ohne explizite Szenen* statt *geschlossene Tür* —
+> weil es seit Kapitel 56 eine Liebesszene gibt. Beide Erwartungen
+> werden damit vorab bedient: Wer Spice sucht, weiß, dass es keiner
+> wird; wer keinen will, weiß, dass die Tür zugeht. Ein Stern wegen
+> falscher Erwartung entsteht an genau dieser Zeile oder gar nicht.
 
 **Schlagwörter (7 Felder):**
 
@@ -152,59 +155,38 @@ die KDP-Richtlinien, bringt Rückgaben und Ein-Stern-Bewertungen von
 Leserinnen, die etwas anderes erwartet haben. Ein Abzeichen in einer
 Kategorie, die nicht passt, ist keins.
 
-**Altersfreigabe:** keine Jugendschutzeinstufung nötig — geschlossene
-Tür, keine Gewalt.
+**Altersfreigabe:** keine Jugendschutzeinstufung nötig — die
+Liebesszene ist nicht explizit dargestellt, es gibt keine Gewalt. Die
+Inhaltshinweise stehen im Vorspann des Buches.
 
 **Veröffentlichungsrechte:** eigenes Werk, keine Gemeinfreiheit.
 
 ---
 
-## Die KI-Frage — nicht überspringen
+## Der Untertitel sagt Milliardär — deckt das Buch das?
 
-KDP fragt beim Hochladen getrennt nach **Text**, **Bildern** und
-**Übersetzung**. Für dieses Buch ist die Antwort:
+Ja, seit Kapitel 44, und ich hatte das in einer früheren Fassung dieses
+Berichts falsch dargestellt.
 
-- **Text: KI-generiert.** Die Prosa stammt von einer KI. Auch wenn du
-  überarbeitest, bleibt die Angabe richtig, solange KI-Text im Buch
-  steht.
-- **Bilder: KI-generiert**, sobald das Cover aus einem Bildmodell kommt.
-- **Übersetzung: nein.**
+Im Text steht: Bestand der Reinhardt Immobilien **1,7 Milliarden**,
+zweihundertvierzig Objekte zwischen Altona und Rothenburgsort,
+**neunundvierzig Prozent der Gesellschaft gehören Jonas**. Das war nur
+an einer einzigen Stelle gesagt, und zwar erst im Januar-Kapitel — bis
+dahin las sich die Firma wie ein mittlerer Bestandshalter.
 
-Amazon unterscheidet „AI-generated" (von KI erzeugt, auch wenn danach
-bearbeitet) von „AI-assisted" (du hast geschrieben, KI hat geholfen).
-Hier ist es Ersteres.
+Deshalb steht die Zahl jetzt auch in **Kapitel 12**, im Oktober, wo sie
+zum ersten Mal gebraucht wird, und sie steht dort so, wie dieser Erzähler
+sie sagen würde:
 
-Diese Angabe ist **nicht öffentlich sichtbar** und beeinflusst die
-Freigabe nicht. Eine unterlassene Angabe dagegen führt zur Entfernung
-des Titels und im Wiederholungsfall zur Kontosperre samt gesamtem
-Katalog (`DIGITAL.md`, Abschnitt 7). Es gibt keinen Grund, das Risiko
-einzugehen.
+> *Ich sage diese Zahl nie laut. Nicht aus Bescheidenheit — weil sie
+> nichts bedeutet. […] Ein Mann mit diesen Zahlen, der um Viertel nach
+> neun abends vor einem Kontorhaus parkt, um zu sehen, ob im ersten
+> Stock Licht brennt, ist trotzdem nur ein Mann, der vor einem
+> Kontorhaus parkt.*
 
----
-
-## Eine Unstimmigkeit, die dir gehört
-
-Der Untertitel sagt **Milliardär**. Im Buch steht das nirgends. Jonas
-führt eine Immobilienfirma mit ein paar hundert Angestellten; die
-Zahlen, die vorkommen, sind 4,2 Millionen bei einem Projekt, 186.000
-privat und eine Tantieme von 120.000 im Jahr. Das ist sehr reich, aber
-kein Milliardär.
-
-Genre-Leserinnen bemerken das und schreiben es in Bewertungen. Drei
-Wege:
-
-1. **So lassen.** „Milliardär" ist in dieser Nische ein Genre-Etikett,
-   kein Vermögensnachweis, und die Amazon-Kategorie heißt selbst
-   „Milliardäre **& Millionäre**".
-2. **Untertitel ändern** auf *Ein Geheimes-Baby-Liebesroman* und
-   „milliardär liebesroman" nur als Schlagwort führen. Kostet
-   Sichtbarkeit im Titel, ist aber sauber.
-3. **Die Zahl im Buch anheben** — eine einzige Stelle, Kapitel 26, wo
-   die Tantieme steht.
-
-Ich empfehle **1**, weil es Marktbrauch ist und die Kategorie es
-abdeckt. Es ist trotzdem deine Entscheidung, und sie ist in zwei
-Minuten umsetzbar.
+Damit ist das Etikett gedeckt, ohne dass das Buch seinen Ton wechselt —
+und der stärkste gemessene Suchbegriff (`milliardär liebesroman`,
+BSR-Median 902) bleibt im Untertitel, wo Amazon ihn indiziert.
 
 ---
 
@@ -231,7 +213,7 @@ Leserin nichts extra kosten.
 pro gelesener Seite gezahlt. Die Spitzentitel der vier gemessenen
 Nischen haben im Median **291 bis 337 Druckseiten**, also rund
 **65.000 bis 82.000 Wörter** (`KDP-NISCHEN.md`). Dieses Buch hat
-**69.087** und liegt damit im Band, am unteren Rand. Bei vollständigem
+**69.279** und liegt damit im Band, am unteren Rand. Bei vollständigem
 Durchlesen bringt es die Seitenerlöse eines regulären Titels der Nische
 und nicht mehr die Hälfte davon.
 
@@ -240,27 +222,74 @@ Platz im Zielband entscheidet nichts über Verkäufe. Er sorgt nur dafür,
 dass die Länge kein Grund gegen das Buch mehr ist — weder in der
 Vergütung noch in den Bewertungen.
 
-**Steuerinterview nicht vergessen.** KDP verlangt vor der ersten
-Auszahlung ein US-Steuerinterview. Ohne ausgefülltes Formular behält
-Amazon **30 % Quellensteuer** ein. Mit dem deutsch-amerikanischen
-Doppelbesteuerungsabkommen sind es bei Lizenzeinnahmen 0 %. Das
-Interview läuft online im KDP-Konto und dauert zehn Minuten. Der
-Kleinunternehmerstatus nach § 19 UStG ändert daran nichts — das ist
-Umsatzsteuer, hier geht es um Quellensteuer.
-
 ---
 
-## Vor dem Hochladen prüfen
+## Vor dem Hochladen
 
-1. **`python3 scripts/manuskript.py`** — muss „Keine Beanstandungen"
-   melden. Tut es das, obwohl du Platzhalter erwartest, prüfe zuerst
-   das Prüfwerkzeug: `--selbsttest`.
-2. **Miniaturprobe ansehen** (`cover/fertig/miniaturprobe.png`). Ist der
-   Titel bei 160 Pixeln lesbar? Wenn nicht, ist das Cover falsch.
-3. **KDP-Vorschau** durchklicken, besonders die erste Seite und den
-   Kapitelübergang. Der Previewer zeigt, was der Kindle zeigt.
-4. **Erste Seite ohne Vorspann?** Prüfen, wo „Blick ins Buch" anfängt.
-   Wenn die Leseprobe mit dem Impressum beginnt, ist sie verschenkt.
+Fünf Punkte. Die ersten drei sind hier schon nachgemessen und
+abgehakt — sie stehen trotzdem da, weil sie nach jeder Textänderung neu
+gelten. Die letzten zwei kann nur jemand am KDP-Konto erledigen.
+
+**✅ 1. Prüfläufe grün.** Zuletzt am 16.08.2026:
+
+| Werkzeug | Ergebnis |
+|---|---|
+| `python3 scripts/manuskript.py --autor "Alan Lorenz"` | Keine Beanstandungen |
+| `python3 scripts/prosa.py` | 0 Typografiefehler |
+| `./scripts/vale.sh` | 0 errors, 0 warnings |
+
+Meldet `manuskript.py` „Keine Beanstandungen", obwohl du Platzhalter
+erwartest, prüfe zuerst das Prüfwerkzeug selbst: `--selbsttest`.
+
+**✅ 2. Cover nachgemessen.** 1600 × 2560 Pixel, Verhältnis exakt 1,600,
+447 kB. Die Miniaturprobe (`cover/fertig/miniaturprobe.png`) zeigt den
+Titel bei 160 Pixeln — so sieht ihn die Leserin in der Trefferliste.
+Wenn er dort nicht lesbar ist, ist das Cover falsch, egal wie gut es
+in groß aussieht.
+
+**✅ 3. Die Leseprobe fängt bei Kapitel 1 an.** Das war nicht so. Der
+Vorspann enthielt Titelei, Impressum und Hinweise; „Blick ins Buch"
+hätte damit einen Teil der zehn Prozent für ein Impressum verbraucht.
+Geändert: Das **Impressum steht jetzt im Nachspann**, und die EPUB trägt
+eine Startposition (`guide type="text"` auf `kap01.xhtml`), sodass der
+Kindle auf Seite eins von Kapitel 1 öffnet. Nachgeprüft in der fertigen
+Datei.
+
+**⬜ 4. Die KI-Frage — der einzige Punkt, an dem etwas kaputtgehen
+kann.**
+
+KDP fragt beim Hochladen getrennt nach **Text**, **Bildern** und
+**Übersetzung**. Für dieses Buch ist die Antwort:
+
+| Feld | Antwort |
+|---|---|
+| Text | **Ja, KI-generiert** |
+| Bilder | **Ja, KI-generiert** |
+| Übersetzung | Nein |
+
+Amazon unterscheidet „AI-generated" (von KI erzeugt, auch wenn du danach
+bearbeitest) von „AI-assisted" (du hast geschrieben, KI hat geholfen).
+Hier ist es Ersteres, und zwar auch dann noch, wenn du jeden zweiten
+Satz umschreibst — solange KI-Text im Buch steht.
+
+Die Angabe ist **nicht öffentlich sichtbar** und verzögert die Freigabe
+nicht. Eine unterlassene Angabe führt zur Entfernung des Titels und im
+Wiederholungsfall zur Kontosperre samt gesamtem Katalog (`DIGITAL.md`,
+Abschnitt 7). Im Buch selbst steht der Hinweis ohnehin, im Vorspann
+unter „Hinweise" — das ersetzt die Angabe im Formular aber nicht.
+
+**⬜ 5. Steuerinterview.** Vor der ersten Auszahlung verlangt KDP ein
+US-Steuerinterview. Ohne ausgefülltes Formular behält Amazon **30 %
+Quellensteuer** ein; mit dem deutsch-amerikanischen
+Doppelbesteuerungsabkommen sind es bei Lizenzeinnahmen 0 %. Läuft online
+im KDP-Konto, zehn Minuten. Der Kleinunternehmerstatus nach § 19 UStG
+ändert daran nichts — das ist Umsatzsteuer, hier geht es um
+Quellensteuer.
+
+**Übersprungen, auf deine Ansage:** der Abgleich der erfundenen Namen
+(„Reinhardt Immobilien", „Café Voss", „Hanseatische Volksbank",
+„Kellermann") gegen reale Firmen. Der Haftungsausschluss im Vorspann
+steht und benennt sie einzeln.
 
 ---
 

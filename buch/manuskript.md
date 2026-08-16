@@ -8,37 +8,6 @@
 
 ---
 
-## Impressum
-
-Angaben gemäß § 8 Landespressegesetz NRW
-
-**Alan Lorenz GbR**
-Welperstraße 3 G
-44879 Bochum
-Deutschland
-
-Vertretungsberechtigter Gesellschafter: Alan Lorenz
-
-Telefon: 0152 31840613
-E-Mail: alanz.shops@gmail.com
-
-Umsatzsteuer-Identifikationsnummer: DE353917356
-Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
-
-Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
-Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
-
-1. Auflage 2026
-© 2026 Alan Lorenz
-Alle Rechte vorbehalten. Die Vervielfältigung, Verbreitung und
-öffentliche Zugänglichmachung dieses Werkes, auch auszugsweise, ist
-ohne schriftliche Zustimmung des Rechteinhabers unzulässig.
-
-Umschlaggestaltung: Alan Lorenz
-Umschlagbild: mit einem KI-Bildgenerator erstellt
-
----
-
 ## Hinweise
 
 **Alle Personen und Handlungen sind frei erfunden.** Ähnlichkeiten mit
@@ -54,8 +23,8 @@ Recherche und Überarbeitung stammen vom Herausgeber.
 **Inhaltshinweise.** Dieses Buch enthält: einen unangekündigten
 Klinikaufenthalt mit einem kranken Kleinkind, eine drohende
 Zwangsversteigerung und finanzielle Not, den Tod eines Elternteils in
-der Rückblende, sowie den Schlaganfall einer Angehörigen. Keine
-explizite Sexualität, keine Gewalt.
+der Rückblende, sowie den Schlaganfall einer Angehörigen. Eine
+Liebesszene, nicht explizit dargestellt. Keine Gewalt.
 
 ---
 
@@ -2800,7 +2769,23 @@ Dann bin ich weitergefahren, und auf der Ludwig-Erhard-Straße ist mir
 klar geworden, dass ich gerade vor dem Haus einer Frau geparkt habe, um
 zu sehen, ob Licht brennt.
 
-Ich bin sechsunddreißig. Ich habe vierhundert Angestellte.
+Ich bin sechsunddreißig. Ich habe vierhundert Angestellte,
+zweihundertvierzig Objekte zwischen Altona und Rothenburgsort und einen
+Bestand, den der Wirtschaftsprüfer im letzten Abschluss mit einer Komma
+sieben Milliarden bewertet hat. Neunundvierzig Prozent der Gesellschaft
+gehören mir.
+
+Ich sage diese Zahl nie laut. Nicht aus Bescheidenheit — weil sie nichts
+bedeutet. Sie ist die Summe von Häusern, die ich nicht verkaufen kann,
+belastet mit Krediten, die ich nicht ablösen will, verwaltet von Leuten,
+die dafür bezahlt werden. Was davon jeden Monat wirklich bei mir ankommt,
+ist ein Gehalt und eine Tantieme, und selbst die habe ich nur, solange
+sieben Menschen an einem Tisch von 1998 der Meinung sind, dass ich meine
+Sache gut mache.
+
+Ein Mann mit diesen Zahlen, der um Viertel nach neun abends vor einem
+Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
+trotzdem nur ein Mann, der vor einem Kontorhaus parkt.
 
 ---
 
@@ -12997,6 +12982,12 @@ schon um Viertel nach neun hin.
 
 Der Hof ist seit Juni fertig.
 
+Was seit dem achten Mai mit Theo ist, schreibe ich nicht auf. Es ist
+seins, es ist nicht vorbei, und er kann es besser erzählen als ich. Nur
+so viel: Amira war im Juli zum ersten Mal bei seiner Mutter zum
+Kartoffelsalat, und Jonas hat sich hinterher zwanzig Minuten im Wagen
+sammeln müssen.
+
 Und Jonas Reinhardt sitzt seit dem Wintersemester dienstagabends von
 achtzehn bis einundzwanzig Uhr in einem Hörsaal an der Denickestraße
 und hört Technische Mechanik, zusammen mit Leuten, die zwanzig sind. Er
@@ -13223,8 +13214,8 @@ angezeigt bekommt.
 
 ## Die Reinhardt-Brüder
 
-Vier Brüder. Einer hat die Firma bekommen, als er zweiundzwanzig war.
-Die anderen drei haben zugesehen.
+Vier Brüder. Einer hat die Firma bekommen, als er vierundzwanzig war,
+weil der Vater gestorben ist. Die anderen drei haben zugesehen.
 
 **Band 1 — Jonas**
 *Sein bestgehütetes Geheimnis*
@@ -13270,3 +13261,34 @@ genommen worden.
 
 *Sobald Band 1 online ist, kommt hier der Link zur Reihenseite hinein
 — vorher wäre es ein toter Link.*
+
+---
+
+## Impressum
+
+Angaben gemäß § 8 Landespressegesetz NRW
+
+**Alan Lorenz GbR**
+Welperstraße 3 G
+44879 Bochum
+Deutschland
+
+Vertretungsberechtigter Gesellschafter: Alan Lorenz
+
+Telefon: 0152 31840613
+E-Mail: alanz.shops@gmail.com
+
+Umsatzsteuer-Identifikationsnummer: DE353917356
+Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
+
+Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
+Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+
+1. Auflage 2026
+© 2026 Alan Lorenz
+Alle Rechte vorbehalten. Die Vervielfältigung, Verbreitung und
+öffentliche Zugänglichmachung dieses Werkes, auch auszugsweise, ist
+ohne schriftliche Zustimmung des Rechteinhabers unzulässig.
+
+Umschlaggestaltung: Alan Lorenz
+Umschlagbild: mit einem KI-Bildgenerator erstellt

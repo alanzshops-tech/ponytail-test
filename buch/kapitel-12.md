@@ -24,7 +24,23 @@ Dann bin ich weitergefahren, und auf der Ludwig-Erhard-Straße ist mir
 klar geworden, dass ich gerade vor dem Haus einer Frau geparkt habe, um
 zu sehen, ob Licht brennt.
 
-Ich bin sechsunddreißig. Ich habe vierhundert Angestellte.
+Ich bin sechsunddreißig. Ich habe vierhundert Angestellte,
+zweihundertvierzig Objekte zwischen Altona und Rothenburgsort und einen
+Bestand, den der Wirtschaftsprüfer im letzten Abschluss mit einer Komma
+sieben Milliarden bewertet hat. Neunundvierzig Prozent der Gesellschaft
+gehören mir.
+
+Ich sage diese Zahl nie laut. Nicht aus Bescheidenheit — weil sie nichts
+bedeutet. Sie ist die Summe von Häusern, die ich nicht verkaufen kann,
+belastet mit Krediten, die ich nicht ablösen will, verwaltet von Leuten,
+die dafür bezahlt werden. Was davon jeden Monat wirklich bei mir ankommt,
+ist ein Gehalt und eine Tantieme, und selbst die habe ich nur, solange
+sieben Menschen an einem Tisch von 1998 der Meinung sind, dass ich meine
+Sache gut mache.
+
+Ein Mann mit diesen Zahlen, der um Viertel nach neun abends vor einem
+Kontorhaus parkt, um zu sehen, ob im ersten Stock Licht brennt, ist
+trotzdem nur ein Mann, der vor einem Kontorhaus parkt.
 
 ---
 

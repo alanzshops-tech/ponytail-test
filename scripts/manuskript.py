@@ -198,6 +198,17 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
                         nachspann))
 
     buch.toc = tuple(seiten)
+
+    # Startposition. Ohne diese Angabe oeffnet der Kindle auf der ersten
+    # Seite der Datei, und "Blick ins Buch" bei Amazon faengt dort an.
+    # Das kostet in einer Leseprobe von zehn Prozent die ersten Seiten
+    # fuer Titelei und Hinweise. Mit guide/landmarks vom Typ
+    # "text" bzw. "bodymatter" faengt beides bei Kapitel 1 an.
+    erstes_kapitel = seiten[1].file_name if len(seiten) > 1 else "vorspann.xhtml"
+    buch.guide = [{"type": "cover", "href": "cover.xhtml", "title": "Cover"},
+                  {"type": "text", "href": erstes_kapitel,
+                   "title": "Anfang"}]
+
     buch.add_item(epub.EpubNcx())
     buch.add_item(epub.EpubNav())
     buch.spine = ["nav"] + seiten
