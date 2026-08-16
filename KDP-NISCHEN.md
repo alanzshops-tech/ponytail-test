@@ -8,10 +8,9 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| geheimes baby liebesroman | www.amazon.de | 829 | 120 | 330.54 | 46 | – | 0/10 | 10/10 | 0/10 |
+| geheimes baby liebesroman | www.amazon.de | 829 | 120 | 330.54 | 46 | – | 0/10 | 10/10 | 4/10 |
 | milliardär liebesroman | www.amazon.de | 409 | 98 | 602.61 | 64 | – | 0/10 | 10/10 | 0/10 |
-| ceo liebesroman | www.amazon.de | 754 | 262 | 358.29 | 523 | – | 0/10 | 10/10 | 0/10 |
-| enemies to lovers liebesroman | www.amazon.de | 1469 | 163 | 203.25 | 1221 | – | 0/10 | 10/10 | 0/10 |
+| zweite chance liebesroman | www.amazon.de | 220587 | 349 | 2.87 | 9 | 4.62 | 3/10 | 7/10 | 0/10 |
 
 ## Hitzegrad der Spitzentitel
 
@@ -19,29 +18,10 @@ Wie explizit die gemessenen Titel selbst angeben zu sein — aus Beschreibung, W
 
 | Nische | explizit | dazwischen | geschlossen | keine Angabe |
 |---|---:|---:|---:|---:|
-| geheimes baby liebesroman | 0 | 5 | 0 | 0 |
+| geheimes baby liebesroman | 0 | 2 | 0 | 3 |
 | milliardär liebesroman | 0 | 4 | 0 | 1 |
-| ceo liebesroman | 0 | 2 | 0 | 3 |
-| enemies to lovers liebesroman | 1 | 2 | 0 | 2 |
-| **gesamt** | **1** | **13** | **0** | **6** |
-
-**Was diese Zahlen tragen und was nicht.** Zwei Spalten sind harte
-Signale: **null von zwanzig** Titeln wirbt damit, ohne explizite Szenen
-zu sein — in einer Nische, in der „closed door“ ein Verkaufsargument
-wäre, wenn es eins wäre. Und nur **einer von zwanzig** steht in einer
-Erotik-Kategorie. Der Markt liegt also weder bei geschlossen noch bei
-explizit.
-
-Die Spalte **dazwischen** ist das weichere Signal, und ich schreibe
-ausdrücklich hin, warum: Sie zählt Wörter wie *prickelnd*, *knistert*,
-*sinnlich*, *leidenschaftlich* im Text der Produktseite. Das misst die
-**Sprache des Klappentextes**, nicht den Inhalt des Buches. Dreizehn von
-zwanzig heißt: So wird in dieser Nische geworben. Es heißt nicht, dass
-in dreizehn Büchern eine Liebesszene steht.
-
-Der Selbsttest läuft vor jeder Messung und prüft einen Negativfall mit
-*heißt*, *heiß begehrt* und *Heißhunger* — Wörter, an denen eine zu
-weite Suche in diesem Repository schon dreimal gescheitert ist.
+| zweite chance liebesroman | 0 | 1 | 0 | 4 |
+| **gesamt** | **0** | **7** | **0** | **8** |
 
 ## Wie zu lesen
 
@@ -53,6 +33,49 @@ weite Suche in diesem Repository schon dreimal gescheitert ist.
 
 Die beste Nische hat **niedrigen BSR bei niedrigen Bewertungszahlen**. Das ist Nachfrage ohne festsitzende Platzhirsche.
 
+## Die Spitzentitel im Wortlaut
+
+Ungekuerzt, in der Reihenfolge der Trefferliste. Wer daraus Titelmuster ableitet, kann sie hier nachzaehlen.
+
+**geheimes baby liebesroman**
+
+1. Irresistible Temptation: Ein geheimes Baby vom Boss (Baby Confessions 7)
+2. Uptown Liar: Knisternde Secret Baby Romance mit Geheimnissen (Rebels and Milliardaires 1)
+3. Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin
+4. Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3)
+5. Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3)
+6. Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55)
+7. Das geheime Baby der Bratva (Reich der Sünde)
+8. Schicksalsruf (Schicksalsreihe 1)
+9. Unexpected Lovestories - Sammelband (Band 13-18) : 6-Buch-Box - Billionaire Boss Baby Liebesromane (Unexpected Lovestories Sammelband 3)
+10. Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)
+
+**milliardär liebesroman**
+
+1. Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1)
+2. My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5)
+3. Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4)
+4. Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)
+5. Vernachlässigt von meinem Milliardär-Ehemann: Eine Romanzen-Serie um einen Milliardär, eine Ehe in der Krise und eine zweite Chance
+6. Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)
+7. Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)
+8. Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London)
+9. Her Secret Husband: Ein Enemies to Lovers - Liebesroman (Die Chester Street Milliardäre 4)
+10. Das Haustier des Milliardärs: Liebesroman (Die Winters Saga 3)
+
+**zweite chance liebesroman**
+
+1. Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)
+2. Die andere Frau Drama Zweite-Chance-Liebesroman
+3. Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)
+4. The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2)
+5. Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen
+6. Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2)
+7. Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5)
+8. Die zweite Chance: Ein Liebesroman
+9. Die Frau, die alles niederbrannte: Ein Verrat – Geheimes Baby – Zweite Chance – Flehender Liebesroman (Herzgebrochene Schatten-Ehefrauen)
+10. The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5)
+
 ## Wie lang sind die Spitzentitel?
 
 Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), veröffentlicht Amazon nicht. Die **Seitenzahl der Print-Ausgabe** steht dagegen auf fast jeder Produktseite und ist der beste öffentliche Anhaltspunkt. Als grobe Umrechnung für deutsche Belletristik: **rund 250 Wörter je Druckseite** — das ist eine Faustregel, keine Messung, und deshalb steht die Seitenzahl daneben.
@@ -61,8 +84,7 @@ Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), veröffentlicht Amazon nich
 |---|---:|---:|---|---:|
 | geheimes baby liebesroman | 4 | 337 | 312–398 | 84.250 |
 | milliardär liebesroman | 5 | 544 | 150–1189 | 136.000 |
-| ceo liebesroman | 5 | 326 | 306–346 | 81.500 |
-| enemies to lovers liebesroman | 5 | 477 | 390–614 | 119.250 |
+| zweite chance liebesroman | 5 | 291 | 126–381 | 72.750 |
 
 ## Kategorien der Spitzentitel
 
@@ -96,30 +118,18 @@ In welchen Unterkategorien die gemessenen Titel stehen und auf welchem Rang der 
 | Romantische Thriller | 1 | 36 |
 | Romantisch Action & Abenteuer | 1 | 43 |
 
-**ceo liebesroman**
+**zweite chance liebesroman**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| Fake-Dating-Romantik | 6 | 5 |
-| Liebesroman | 3 | 20 |
-| Romantische Komödien | 2 | 121 |
-| Urlaubsromanzen | 1 | 67 |
-| Ferienliebesromane | 1 | 69 |
-| eBooks über Romanzen über Milliardäre & Millionäre | 1 | 124 |
-| Romantische Komödie | 1 | 175 |
-
-**enemies to lovers liebesroman**
-
-| Kategorie | Titel darin | bester Rang |
-|---|---:|---:|
-| Zeitgenössische Frauenliteratur | 3 | 12 |
-| Moderne Belletristik für Frauen | 3 | 13 |
-| eBooks über Romanzen über Milliardäre & Millionäre | 3 | 16 |
-| Humoristische Belletristik für Frauen | 1 | 40 |
-| Zweite-Chance-Romanze | 1 | 47 |
-| Mystery, Thriller & Spannende Belletristik für Frauen | 1 | 61 |
-| Romantische Komödien | 1 | 195 |
-| Romantische Komödie | 1 | 231 |
+| Zweite-Chance-Romanze | 3 | 7 |
+| Belletristik | 2 | 99426 |
+| Liebesromane | 2 | 101650 |
+| Liebesromane für Junge Erwachsene | 1 | 21 |
+| New Adult | 1 | 31 |
+| Moderne Belletristik für Frauen | 1 | 5870 |
+| Liebesromane für Frauen | 1 | 7137 |
+| Liebesroman | 1 | 7537 |
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
 ---

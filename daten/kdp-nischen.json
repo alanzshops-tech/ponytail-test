@@ -3,15 +3,33 @@
     "begriff": "geheimes baby liebesroman",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
-    "davon_gesponsert": 0,
+    "davon_gesponsert": 4,
     "titel": [
+      {
+        "asin": "B0H2Y3SFKK",
+        "titel": "Irresistible Temptation: Ein geheimes Baby vom Boss (Baby Confessions 7)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 461,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0D1BWYMP6",
+        "titel": "Uptown Liar: Knisternde Secret Baby Romance mit Geheimnissen (Rebels and Milliardaires 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1251,
+        "sterne": 4.4
+      },
       {
         "asin": "B0H9X4BLS4",
         "titel": "Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 136,
+        "bewertungen": 135,
         "sterne": 3.9,
         "bsr": 152,
         "kategorien": [
@@ -84,12 +102,12 @@
             "Multikulturelle & Rassenübergreifende Liebesromane"
           ],
           [
-            96,
+            95,
             "eBooks über Romanzen über Milliardäre & Millionäre"
           ]
         ],
         "seiten": null,
-        "hitze": "dazwischen"
+        "hitze": "keine Angabe"
       },
       {
         "asin": "B0H5T8L75H",
@@ -115,7 +133,7 @@
           ]
         ],
         "seiten": 315,
-        "hitze": "dazwischen"
+        "hitze": "keine Angabe"
       },
       {
         "asin": "B0H6HLG71H",
@@ -125,7 +143,7 @@
         "preis": null,
         "bewertungen": 1,
         "sterne": 5.0,
-        "bsr": 12427,
+        "bsr": 12429,
         "kategorien": [
           [
             479,
@@ -136,12 +154,30 @@
             "Dark Romance"
           ],
           [
-            827,
+            828,
             "eBooks: romantische Thriller"
           ]
         ],
         "seiten": 398,
-        "hitze": "dazwischen"
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B085BBPCS1",
+        "titel": "Schicksalsruf (Schicksalsreihe 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 7299,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0DLBX9ST1",
+        "titel": "Unexpected Lovestories - Sammelband (Band 13-18) : 6-Buch-Box - Billionaire Boss Baby Liebesromane (Unexpected Lovestories Sammelband 3)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 160,
+        "sterne": 4.2
       },
       {
         "asin": "B0D9G5DJX2",
@@ -151,42 +187,6 @@
         "preis": null,
         "bewertungen": 29,
         "sterne": 4.5
-      },
-      {
-        "asin": "B0FSLQGDZT",
-        "titel": "Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 78,
-        "sterne": 4.2
-      },
-      {
-        "asin": "B0HDYH831D",
-        "titel": "Verlassen von meinem Alpha-Ehemann: Ein abgelehnter, vorbestimmter Gefährte – Geheimes Baby und ein flehender Alpha-Wandler – Liebesroman (Die Grausame-Alpha-Serie)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": null,
-        "sterne": null
-      },
-      {
-        "asin": "B0H46WNGC6",
-        "titel": "Das geheime Baby meines Mannes mit seiner Assistentin (Ihre Ehe in der Krise 46)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 16,
-        "sterne": 4.0
-      },
-      {
-        "asin": "B0H8DV2P38",
-        "titel": "Das geheime Baby des Alpha-Rates: Eine Omegaverse Dark Reverse Harem Mafia Romance (Die Tribute der Alpha-Mafia 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 23,
-        "sterne": 3.7
       }
     ],
     "bsr_werte": [
@@ -194,7 +194,7 @@
       120,
       938,
       829,
-      12427
+      12429
     ],
     "bsr_median": 829,
     "bsr_bester": 120,
@@ -212,9 +212,9 @@
     "hitze": [
       "dazwischen",
       "dazwischen",
-      "dazwischen",
-      "dazwischen",
-      "dazwischen"
+      "keine Angabe",
+      "keine Angabe",
+      "keine Angabe"
     ],
     "kategorien": [
       {
@@ -275,12 +275,12 @@
       {
         "name": "eBooks über Romanzen über Milliardäre & Millionäre",
         "titel": 1,
-        "rang_bester": 96
+        "rang_bester": 95
       },
       {
         "name": "eBooks: romantische Thriller",
         "titel": 1,
-        "rang_bester": 827
+        "rang_bester": 828
       }
     ],
     "im_70_prozent_fenster": 0
@@ -422,15 +422,6 @@
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0FXBYX37M",
-        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 1711,
-        "sterne": 4.5
-      },
-      {
         "asin": "B0H8WXW6C5",
         "titel": "Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)",
         "gesponsert": false,
@@ -438,6 +429,15 @@
         "preis": null,
         "bewertungen": 53,
         "sterne": 4.1
+      },
+      {
+        "asin": "B0FXBYX37M",
+        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1711,
+        "sterne": 4.5
       },
       {
         "asin": "B0DVCGHL4P",
@@ -555,511 +555,243 @@
     "im_70_prozent_fenster": 0
   },
   {
-    "begriff": "ceo liebesroman",
+    "begriff": "zweite chance liebesroman",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
     "davon_gesponsert": 0,
     "titel": [
       {
-        "asin": "B0GWXJRYPJ",
-        "titel": "Icecold CEO (Die Manhattan CEOs 1)",
+        "asin": "B0H93P1LWL",
+        "titel": "Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)",
         "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 523,
-        "sterne": 4.3,
-        "bsr": 754,
+        "kindle_unlimited": false,
+        "preis": 5.77,
+        "bewertungen": 1,
+        "sterne": 5.0,
+        "bsr": 185713,
         "kategorien": [
           [
-            18,
-            "Fake-Dating-Romantik"
+            1000,
+            "Zweite-Chance-Romanze"
           ],
           [
-            18,
-            "Fake-Dating-Romantik"
+            99426,
+            "Belletristik"
           ],
           [
-            49,
-            "Liebesroman"
+            101650,
+            "Liebesromane"
           ]
         ],
-        "seiten": 306,
+        "seiten": 291,
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0H8JHNW83",
-        "titel": "Soulless CEO (Die Manhattan CEOs 4)",
+        "asin": "B0HCLDL167",
+        "titel": "Die andere Frau Drama Zweite-Chance-Liebesroman",
         "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 327,
-        "sterne": 4.4,
-        "bsr": 262,
-        "kategorien": [
-          [
-            5,
-            "Fake-Dating-Romantik"
-          ],
-          [
-            5,
-            "Fake-Dating-Romantik"
-          ],
-          [
-            20,
-            "Liebesroman"
-          ]
-        ],
-        "seiten": 346,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0FHKM1F9T",
-        "titel": "Den CEO Verführt: Ein Grumpy x Sunshine Liebesroman (Die Whitley-Brüder 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 1782,
-        "sterne": 4.3,
-        "bsr": 1095,
-        "kategorien": [
-          [
-            67,
-            "Urlaubsromanzen"
-          ],
-          [
-            69,
-            "Ferienliebesromane"
-          ],
-          [
-            121,
-            "Romantische Komödien"
-          ]
-        ],
-        "seiten": 326,
+        "kindle_unlimited": false,
+        "preis": 4.62,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": null,
+        "kategorien": [],
+        "seiten": 199,
         "hitze": "dazwischen"
       },
       {
-        "asin": "B0GCPQ8CH4",
-        "titel": "Im Bann des CEO: Ein Enemies-To-Lovers Liebesroman (Die Whitley-Brüder 6)",
+        "asin": "B0H8XQYLWX",
+        "titel": "Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)",
         "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 1056,
-        "sterne": 4.3,
-        "bsr": 1405,
+        "kindle_unlimited": false,
+        "preis": 4.62,
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 255462,
         "kategorien": [
           [
-            124,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
+            1173,
+            "Zweite-Chance-Romanze"
           ],
           [
-            150,
-            "Romantische Komödien"
+            126253,
+            "Belletristik"
           ],
           [
-            175,
-            "Romantische Komödie"
+            137595,
+            "Liebesromane"
           ]
         ],
-        "seiten": 334,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0H4W5TDZ6",
-        "titel": "Ruthless CEO (Die Manhattan CEOs 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 400,
-        "sterne": 4.4,
-        "bsr": 528,
-        "kategorien": [
-          [
-            11,
-            "Fake-Dating-Romantik"
-          ],
-          [
-            11,
-            "Fake-Dating-Romantik"
-          ],
-          [
-            32,
-            "Liebesroman"
-          ]
-        ],
-        "seiten": 325,
+        "seiten": 126,
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0FHJQYQNQ",
-        "titel": "Küss den CEO (Die Whitley-Brüder 2)",
+        "asin": "B0H69VPG23",
+        "titel": "The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 1199,
-        "sterne": 4.3
+        "bewertungen": 124,
+        "sterne": 4.3,
+        "bsr": 349,
+        "kategorien": [
+          [
+            7,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            21,
+            "Liebesromane für Junge Erwachsene"
+          ],
+          [
+            31,
+            "New Adult"
+          ]
+        ],
+        "seiten": 381,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B0HDSFCGCS",
-        "titel": "Business Only CEO (Die Manhattan CEOs 5)",
+        "asin": "B0H1H8JVWW",
+        "titel": "Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 9,
+        "sterne": 3.1,
+        "bsr": 306347,
+        "kategorien": [
+          [
+            5870,
+            "Moderne Belletristik für Frauen"
+          ],
+          [
+            7137,
+            "Liebesromane für Frauen"
+          ],
+          [
+            7537,
+            "Liebesroman"
+          ]
+        ],
+        "seiten": 350,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0H9SP5R4D",
+        "titel": "Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 52,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B0GQP36T3H",
+        "titel": "Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
         "bewertungen": 6,
-        "sterne": 4.6
+        "sterne": 3.8
       },
       {
-        "asin": "B0H5KDZV9G",
-        "titel": "Eine NANNY für den CEO (Seattle Single Daddies 1)",
+        "asin": "B0871NQ5Z1",
+        "titel": "Die zweite Chance: Ein Liebesroman",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 408,
-        "sterne": 3.5
-      },
-      {
-        "asin": "B0GX2YVQ7T",
-        "titel": "Her Pucking CEO: Ein Second Chance - Enemies to Lovers Liebesroman (Die Chester Street Milliardäre 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 982,
-        "sterne": 4.5
-      },
-      {
-        "asin": "B0BS1FTXQ6",
-        "titel": "Die Bändigung von Mr. Walker: Ein CEO-Liebesroman (London-Mister-Reihe 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 6788,
-        "sterne": 4.5
-      }
-    ],
-    "bsr_werte": [
-      754,
-      262,
-      1095,
-      1405,
-      528
-    ],
-    "bsr_median": 754,
-    "bsr_bester": 262,
-    "verkaeufe_tag_geschaetzt": 358.29,
-    "bewertungen_median": 523,
-    "preis_median": null,
-    "kindle_unlimited": 10,
-    "seiten_werte": [
-      306,
-      325,
-      326,
-      334,
-      346
-    ],
-    "seiten_median": 326,
-    "hitze": [
-      "keine Angabe",
-      "keine Angabe",
-      "dazwischen",
-      "dazwischen",
-      "keine Angabe"
-    ],
-    "kategorien": [
-      {
-        "name": "Fake-Dating-Romantik",
-        "titel": 6,
-        "rang_bester": 5
-      },
-      {
-        "name": "Liebesroman",
-        "titel": 3,
-        "rang_bester": 20
-      },
-      {
-        "name": "Romantische Komödien",
-        "titel": 2,
-        "rang_bester": 121
-      },
-      {
-        "name": "Urlaubsromanzen",
-        "titel": 1,
-        "rang_bester": 67
-      },
-      {
-        "name": "Ferienliebesromane",
-        "titel": 1,
-        "rang_bester": 69
-      },
-      {
-        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
-        "titel": 1,
-        "rang_bester": 124
-      },
-      {
-        "name": "Romantische Komödie",
-        "titel": 1,
-        "rang_bester": 175
-      }
-    ],
-    "im_70_prozent_fenster": 0
-  },
-  {
-    "begriff": "enemies to lovers liebesroman",
-    "markt": "www.amazon.de",
-    "titel_gelesen": 10,
-    "davon_gesponsert": 0,
-    "titel": [
-      {
-        "asin": "B0HCN4GK82",
-        "titel": "Legal Seduction: Ein Enemies-to-Lovers-Liebesroman (From Rivals to Lovers 2)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 51,
-        "sterne": 4.4,
-        "bsr": 163,
-        "kategorien": [
-          [
-            12,
-            "Zeitgenössische Frauenliteratur"
-          ],
-          [
-            13,
-            "Moderne Belletristik für Frauen"
-          ],
-          [
-            16,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 477,
-        "hitze": "explizit"
-      },
-      {
-        "asin": "B0HF3HKTRH",
-        "titel": "Mr 2 out of 10: Ein spicy Enemies to Lovers Liebesroman mit Forced Proximity",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": null,
-        "sterne": null,
-        "bsr": 1088,
-        "kategorien": [
-          [
-            40,
-            "Humoristische Belletristik für Frauen"
-          ],
-          [
-            70,
-            "Moderne Belletristik für Frauen"
-          ],
-          [
-            73,
-            "Zeitgenössische Frauenliteratur"
-          ]
-        ],
-        "seiten": 390,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0G51C4M6D",
-        "titel": "Hate to want you, Doc: Ein Enemies-to-Lovers-Doctor-Daddy-Liebesroman (From Rivals to Lovers 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 1221,
-        "sterne": 4.3,
-        "bsr": 1491,
-        "kategorien": [
-          [
-            90,
-            "Moderne Belletristik für Frauen"
-          ],
-          [
-            100,
-            "Zeitgenössische Frauenliteratur"
-          ],
-          [
-            130,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 425,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0D63JX9M7",
-        "titel": "Empire State Enemies: Ein Enemies-to-Lovers-Liebesroman (New York Billionaire Bosses)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 2413,
-        "sterne": 4.5,
-        "bsr": 1986,
-        "kategorien": [
-          [
-            195,
-            "Romantische Komödien"
-          ],
-          [
-            231,
-            "Romantische Komödie"
-          ],
-          [
-            316,
-            "Zeitgenössische Liebesromane"
-          ]
-        ],
-        "seiten": 614,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0HDL1FVXS",
-        "titel": "His New Assistant: Ein Enemies to Lovers - Liebesroman (Reife Beschützer 13)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": null,
-        "sterne": null,
-        "bsr": 1469,
-        "kategorien": [
-          [
-            47,
-            "Zweite-Chance-Romanze"
-          ],
-          [
-            61,
-            "Mystery, Thriller & Spannende Belletristik für Frauen"
-          ],
-          [
-            127,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 582,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0GMXMZ67R",
-        "titel": "Enemy's Baby: Ein CEO Enemies to Lovers - Liebesroman (Reife Beschützer 6)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 427,
-        "sterne": 4.2
-      },
-      {
-        "asin": "B0H6XCS85F",
-        "titel": "Five Week Wife: Ein Enemies to Lovers - Fake Marriage Liebesroman (Secret Desires 5)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 870,
-        "sterne": 4.1
-      },
-      {
-        "asin": "B0H7FNDYDL",
-        "titel": "Loud Ruin: Ein Enemies to Lovers Liebesroman (Reife Beschützer 12)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 50,
-        "sterne": 4.1
-      },
-      {
-        "asin": "B0GCPQ8CH4",
-        "titel": "Im Bann des CEO: Ein Enemies-To-Lovers Liebesroman (Die Whitley-Brüder 6)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "bewertungen": 1056,
+        "bewertungen": 202,
         "sterne": 4.3
       },
       {
-        "asin": "B09KXFHT44",
-        "titel": "A Place to Grow: Roman | Bezaubernde New Adult Enemies to Lovers-Romance (Cherry Hill 2)",
+        "asin": "B0HCJ9BRM4",
+        "titel": "Die Frau, die alles niederbrannte: Ein Verrat – Geheimes Baby – Zweite Chance – Flehender Liebesroman (Herzgebrochene Schatten-Ehefrauen)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "bewertungen": 2335,
-        "sterne": 4.6
+        "bewertungen": 24,
+        "sterne": 3.9
+      },
+      {
+        "asin": "B09NMQWY96",
+        "titel": "The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "bewertungen": 1777,
+        "sterne": 4.5
       }
     ],
     "bsr_werte": [
-      163,
-      1088,
-      1491,
-      1986,
-      1469
+      185713,
+      255462,
+      349,
+      306347
     ],
-    "bsr_median": 1469,
-    "bsr_bester": 163,
-    "verkaeufe_tag_geschaetzt": 203.25,
-    "bewertungen_median": 1221,
-    "preis_median": null,
-    "kindle_unlimited": 10,
+    "bsr_median": 220587,
+    "bsr_bester": 349,
+    "verkaeufe_tag_geschaetzt": 2.87,
+    "bewertungen_median": 9,
+    "preis_median": 4.62,
+    "kindle_unlimited": 7,
     "seiten_werte": [
-      390,
-      425,
-      477,
-      582,
-      614
+      126,
+      199,
+      291,
+      350,
+      381
     ],
-    "seiten_median": 477,
+    "seiten_median": 291,
     "hitze": [
-      "explizit",
       "keine Angabe",
       "dazwischen",
-      "dazwischen",
+      "keine Angabe",
+      "keine Angabe",
       "keine Angabe"
     ],
     "kategorien": [
       {
-        "name": "Zeitgenössische Frauenliteratur",
+        "name": "Zweite-Chance-Romanze",
         "titel": 3,
-        "rang_bester": 12
+        "rang_bester": 7
+      },
+      {
+        "name": "Belletristik",
+        "titel": 2,
+        "rang_bester": 99426
+      },
+      {
+        "name": "Liebesromane",
+        "titel": 2,
+        "rang_bester": 101650
+      },
+      {
+        "name": "Liebesromane für Junge Erwachsene",
+        "titel": 1,
+        "rang_bester": 21
+      },
+      {
+        "name": "New Adult",
+        "titel": 1,
+        "rang_bester": 31
       },
       {
         "name": "Moderne Belletristik für Frauen",
-        "titel": 3,
-        "rang_bester": 13
-      },
-      {
-        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
-        "titel": 3,
-        "rang_bester": 16
-      },
-      {
-        "name": "Humoristische Belletristik für Frauen",
         "titel": 1,
-        "rang_bester": 40
+        "rang_bester": 5870
       },
       {
-        "name": "Zweite-Chance-Romanze",
+        "name": "Liebesromane für Frauen",
         "titel": 1,
-        "rang_bester": 47
+        "rang_bester": 7137
       },
       {
-        "name": "Mystery, Thriller & Spannende Belletristik für Frauen",
+        "name": "Liebesroman",
         "titel": 1,
-        "rang_bester": 61
-      },
-      {
-        "name": "Romantische Komödien",
-        "titel": 1,
-        "rang_bester": 195
-      },
-      {
-        "name": "Romantische Komödie",
-        "titel": 1,
-        "rang_bester": 231
-      },
-      {
-        "name": "Zeitgenössische Liebesromane",
-        "titel": 1,
-        "rang_bester": 316
+        "rang_bester": 7537
       }
     ],
-    "im_70_prozent_fenster": 0
+    "im_70_prozent_fenster": 3
   }
 ]
