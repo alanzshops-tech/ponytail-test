@@ -27,7 +27,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 21 | 1295 | 9.5 | 9.6 | 6.0 % | 48.6 % | 9.3 | – |
 | 22 | 1100 | 8.5 | 10.7 | 8.1 % | 31.3 % | 10.0 | – |
 | 23 | 1160 | 8.5 | 10.4 | 6.1 % | 29.7 % | 16.4 | – |
-| 24 | 1094 | 10.0 | 10.5 | 7.3 % | 28.3 % | 7.3 | – |
+| 24 | 1234 | 9.5 | 10.5 | 7.4 % | 25.3 % | 8.9 | – |
 | 25 | 875 | 11.0 | 8.0 | 4.4 % | 16.8 % | 0.0 | – |
 | 26 | 880 | 10.5 | 10.0 | 6.1 % | 11.8 % | 6.8 | – |
 | 27 | 1039 | 8 | 10.8 | 10.6 % | 17.5 % | 4.8 | – |
@@ -54,7 +54,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 48 | 926 | 12.5 | 9.0 | 4.7 % | 30.9 % | 13.0 | – |
 | 49 | 1109 | 13 | 9.9 | 6.3 % | 22.4 % | 9.0 | – |
 | 50 | 1110 | 11 | 8.2 | 3.4 % | 35.3 % | 10.8 | – |
-| 51 | 1484 | 7.0 | 9.7 | 5.9 % | 23.6 % | 7.4 | – |
+| 51 | 1446 | 7 | 9.7 | 6.0 % | 24.6 % | 7.6 | – |
 | 52 | 1253 | 12 | 11.1 | 12.9 % | 14.6 % | 7.2 | – |
 | 53 | 1092 | 9 | 10.4 | 6.2 % | 10.4 % | 6.4 | – |
 | 54 | 1423 | 11.0 | 11.3 | 8.0 % | 19.9 % | 9.1 | – |
@@ -73,7 +73,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 ## Ausreißer
 
 - **Dialoganteil**: Median 22.2 · höchster Kapitel 46 (63.7) · niedrigster Kapitel 11 (2.0)
-- **Füllwörter je 1000**: Median 7.6 · höchster Kapitel 60 (16.5) · niedrigster Kapitel 25 (0.0)
+- **Füllwörter je 1000**: Median 7.9 · höchster Kapitel 60 (16.5) · niedrigster Kapitel 25 (0.0)
 - **Satzlänge Median**: Median 10.5 · höchster Kapitel 62 (15.5) · niedrigster Kapitel 11 (7.0)
 
 ## Wort doppelt hintereinander
@@ -82,13 +82,14 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 2394
-- Schließende **richtig** `“`: 2394
+- Öffnende Anführungszeichen `„`: 2395
+- Schließende **richtig** `“`: 2395
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 9
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

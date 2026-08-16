@@ -173,6 +173,28 @@ Emil kletterte auf mich, wenn ich mich hinsetzte. Nicht *zu* mir. *Auf*
 mich, wie auf einen Gegenstand, was, glaube ich, die höchste Form von
 Vertrauen ist, die ein achtzehn Monate alter Mensch vergeben kann.
 
+Und einmal, an einem Donnerstag gegen halb neun, kam sie mit zwei
+Tassen um die Theke und stellte eine vor mich hin, und weil ich in dem
+Moment die Hand ausstreckte, stießen wir die zweite um.
+
+Sie fing sie ab. Ich auch. Vier Hände an einer Tasse, die schon stand.
+
+„Geht schon“, sagte sie und ließ los.
+
+Es war nichts. Ich schreibe es nur auf, weil ich danach eine
+Dreiviertelstunde über Entwässerung geredet habe und mich nicht an ein
+Wort davon erinnere.
+
+Sie hatte an diesem Abend die Haare hochgesteckt, mit einem Bleistift,
+und irgendwann rutschte er heraus, und sie steckte ihn wieder hinein,
+ohne hinzusehen, mitten im Satz.
+
+Ich habe zwölf Jahre lang Verhandlungen geführt und dabei gelernt, was
+man sich merkt und was nicht. Man merkt sich Zahlen. Man merkt sich
+Namen.
+
+Ich habe mir einen Bleistift gemerkt.
+
 Von der Mappe sprachen wir nicht.
 
 Ich dachte, das heißt, dass sie erledigt ist.
