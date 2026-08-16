@@ -1,6 +1,6 @@
 # KDP-Nischen
 
-Stand: 2026-08-15
+Stand: 2026-08-16
 
 Gemessen auf den öffentlichen Amazon-Trefferlisten und Produktseiten. **Der Bestseller-Rang (BSR) ist die belastbare Zahl** — innerhalb desselben Marktplatzes direkt vergleichbar, niedriger heißt mehr Verkäufe. Die Umrechnung in Stückzahlen ist eine Schätzung.
 
@@ -8,10 +8,22 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| geheimes baby liebesroman | www.amazon.de | 792 | 124 | 343.62 | 46 | – | 0/10 | 10/10 | 0/10 |
-| milliardär liebesroman | www.amazon.de | 411 | 92 | 600.11 | 64 | – | 0/10 | 10/10 | 0/10 |
-| ceo liebesroman | www.amazon.de | 659 | 267 | 401.74 | 523 | – | 0/10 | 10/10 | 0/10 |
-| zweite chance liebesroman | www.amazon.de | 217072 | 401 | 2.91 | 9 | 3.99 | 3/10 | 7/10 | 0/10 |
+| geheimes baby liebesroman | www.amazon.de | 829 | 120 | 330.54 | 46 | – | 0/10 | 10/10 | 0/10 |
+| milliardär liebesroman | www.amazon.de | 409 | 98 | 602.61 | 64 | – | 0/10 | 10/10 | 0/10 |
+| ceo liebesroman | www.amazon.de | 754 | 262 | 358.29 | 523 | – | 0/10 | 10/10 | 0/10 |
+| enemies to lovers liebesroman | www.amazon.de | 1469 | 163 | 203.25 | 1221 | – | 0/10 | 10/10 | 0/10 |
+
+## Hitzegrad der Spitzentitel
+
+Wie explizit die gemessenen Titel selbst angeben zu sein — aus Beschreibung, Warnhinweisen und Kategorien der Produktseite. Deutsche Romance-Titel schreiben das fast immer selbst hin. **Was ohne Angabe bleibt, ist nicht „geschlossen“, sondern ungemessen.**
+
+| Nische | explizit | dazwischen | geschlossen | keine Angabe |
+|---|---:|---:|---:|---:|
+| geheimes baby liebesroman | 0 | 5 | 0 | 0 |
+| milliardär liebesroman | 0 | 4 | 0 | 1 |
+| ceo liebesroman | 0 | 2 | 0 | 3 |
+| enemies to lovers liebesroman | 1 | 2 | 0 | 2 |
+| **gesamt** | **1** | **13** | **0** | **6** |
 
 ## Wie zu lesen
 
@@ -32,7 +44,7 @@ Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), veröffentlicht Amazon nich
 | geheimes baby liebesroman | 4 | 337 | 312–398 | 84.250 |
 | milliardär liebesroman | 5 | 544 | 150–1189 | 136.000 |
 | ceo liebesroman | 5 | 326 | 306–346 | 81.500 |
-| zweite chance liebesroman | 5 | 291 | 126–381 | 72.750 |
+| enemies to lovers liebesroman | 5 | 477 | 390–614 | 119.250 |
 
 ## Kategorien der Spitzentitel
 
@@ -47,11 +59,11 @@ In welchen Unterkategorien die gemessenen Titel stehen und auf welchem Rang der 
 | Dramatik - Weibliche Autoren | 2 | 1 |
 | Rockstar-Romanze | 2 | 1 |
 | Scheidung | 2 | 3 |
-| Dark Romance | 2 | 532 |
+| Dark Romance | 2 | 479 |
 | Dramen & Theaterstücke von Frauen | 1 | 1 |
+| Multikulturelle & interkulturelle Romanzen | 1 | 3 |
 | Romantische Sammlungen & Anthologien | 1 | 4 |
 | Sammlungen & Erzählbände von Romanzen | 1 | 4 |
-| Multikulturelle & interkulturelle Romanzen | 1 | 4 |
 
 **milliardär liebesroman**
 
@@ -59,37 +71,37 @@ In welchen Unterkategorien die gemessenen Titel stehen und auf welchem Rang der 
 |---|---:|---:|
 | Fake-Dating-Romantik | 2 | 2 |
 | Zweite-Chance-Romanze | 2 | 2 |
-| eBooks über Romanzen über Milliardäre & Millionäre | 2 | 24 |
-| Zeitgenössische Liebesromane | 2 | 54 |
-| eBooks: romantische Thriller | 1 | 25 |
-| Romantische Thriller | 1 | 37 |
-| Action & Abenteuer Liebesromane | 1 | 41 |
-| Moderne Belletristik für Frauen | 1 | 49 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 2 | 28 |
+| Zeitgenössische Liebesromane | 2 | 59 |
+| eBooks: romantische Thriller | 1 | 26 |
+| Action & Abenteuer Liebesromane | 1 | 35 |
+| Romantische Thriller | 1 | 36 |
+| Romantisch Action & Abenteuer | 1 | 43 |
 
 **ceo liebesroman**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| Fake-Dating-Romantik | 6 | 4 |
-| Liebesroman | 3 | 19 |
-| Romantische Komödien | 2 | 129 |
-| Urlaubsromanzen | 1 | 77 |
-| Ferienliebesromane | 1 | 80 |
-| eBooks über Romanzen über Milliardäre & Millionäre | 1 | 116 |
-| Romantische Komödie | 1 | 168 |
+| Fake-Dating-Romantik | 6 | 5 |
+| Liebesroman | 3 | 20 |
+| Romantische Komödien | 2 | 121 |
+| Urlaubsromanzen | 1 | 67 |
+| Ferienliebesromane | 1 | 69 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 1 | 124 |
+| Romantische Komödie | 1 | 175 |
 
-**zweite chance liebesroman**
+**enemies to lovers liebesroman**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| Zweite-Chance-Romanze | 3 | 7 |
-| Belletristik | 2 | 98047 |
-| Liebesromane | 2 | 99866 |
-| Liebesromane für Junge Erwachsene | 1 | 25 |
-| New Adult | 1 | 41 |
-| Moderne Belletristik für Frauen | 1 | 5836 |
-| Liebesromane für Frauen | 1 | 7118 |
-| Liebesroman | 1 | 7514 |
+| Zeitgenössische Frauenliteratur | 3 | 12 |
+| Moderne Belletristik für Frauen | 3 | 13 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 3 | 16 |
+| Humoristische Belletristik für Frauen | 1 | 40 |
+| Zweite-Chance-Romanze | 1 | 47 |
+| Mystery, Thriller & Spannende Belletristik für Frauen | 1 | 61 |
+| Romantische Komödien | 1 | 195 |
+| Romantische Komödie | 1 | 231 |
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
 ---
