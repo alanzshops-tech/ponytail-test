@@ -239,6 +239,37 @@ er mich nicht angefasst hat, war er einer, der geblieben ist* — hat
 jetzt eine Vorgeschichte, die ein Bruder am 29. Dezember am Telefon
 ausgesprochen hat.
 
+### 11. Der Umschlag
+
+Auf dem Cover stand der alte Titel. Ein Hintergrundbild ohne Schrift
+gab es nicht — nur die fertige Datei und die Schriftebene als
+Überlagerung, aus der sich der Hintergrund nicht sauber
+zurückrechnen lässt.
+
+Also über OpenRouter, wie es `CLAUDE.md` vorschreibt: *Erst nachsehen,
+was schon da ist.* Der erste Lauf mit dem voreingestellten günstigsten
+Bildmodell hat die Anweisung ignoriert und dieselbe Datei mit Text
+zurückgegeben. Der zweite Lauf mit `google/gemini-3-pro-image` hat alle
+sechs Textelemente entfernt und Mann, Pose, Brücke und Licht
+unverändert gelassen.
+
+Danach die Typografie neu gesetzt mit `coverbau.py`, und dabei ist etwas
+herausgekommen, das ich nicht erwartet hatte — der neue Umschlag liegt
+**näher an der Nische als der alte**:
+
+| | alt | neu | gemessene Nische (36 Cover) |
+|---|---:|---:|---|
+| Helligkeit | 71,7 | **67,5** | 55,8–64,5 |
+| Sättigung | 75,8 | **96,3** | 94,5–119,7 |
+| Weiß auf Grund | | 11,2 : 1 | Ziel 7,0 |
+| Textzone | | Band 4 | Band 4 (unteres Mitteldrittel) |
+
+Die Sättigung liegt jetzt drin (Faktor 1,35 auf das Hintergrundbild, die
+Helligkeit blieb dabei unverändert), die Helligkeit weiterhin knapp
+darüber — aber drei Punkte näher dran als vorher.
+
+Der alte Umschlag liegt unverändert in `cover/fertig-alt/`.
+
 ---
 
 ## D — Was ich absichtlich nicht angefasst habe
@@ -374,7 +405,7 @@ Reihenkonstruktion, auf Band 1.
 | Datei | Was |
 |---|---|
 | `reinhardt-1_original.epub` | Der Stand vor der Überarbeitung. Unverändert. |
-| `reinhardt-1_KDP_final.epub` | 78.609 Wörter, 64 Kapitel + Epilog, 685 kB, 67 Abschnitte · Titel *Was ich dir nie gesagt habe* |
+| `reinhardt-1_KDP_final.epub` | 78.609 Wörter, 64 Kapitel + Epilog, 714 kB, 67 Abschnitte · Titel *Was ich dir nie gesagt habe*, neuer Umschlag eingebettet |
 | `KDP-PAKET.md` | Titel, Klappentext, Keywords, Kategorien — **nicht im Buch** |
 | `LEKTORAT.md` | dieser Bericht |
 | `DRAMATURGIE.md`, `PRUEFUNG.md` | die beiden Lesungen davor |
@@ -406,11 +437,7 @@ funktioniert.
 1. **Zwei Dinge, die nur der Kontoinhaber kann** — und ohne die nichts
    geht: die **KI-Angabe** im Veröffentlichungsformular und das
    **US-Steuerinterview** (sonst behält Amazon 30 % Quellensteuer ein).
-2. **Cover gegen den neuen Titel prüfen.** Auf dem Umschlag steht noch
-   *Sein bestgehütetes Geheimnis*. `scripts/coverbau.py` setzt die
-   Typografie neu, `scripts/cover.py` misst sie gegen die 36 gemessenen
-   Konkurrenzcover.
-3. **Hochladen.** Titel, Untertitel, Klappentext, sieben Keywords und
+2. **Hochladen.** Titel, Untertitel, Klappentext, sieben Keywords und
    drei Kategorien stehen fertig ausgefüllt in `KDP-PAKET.md`; Länge,
    Typografie und Dateiformat sind geprüft.
 4. **Judge.me aufräumen** — die App liefert weiterhin ein
