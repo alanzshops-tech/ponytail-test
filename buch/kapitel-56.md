@@ -186,12 +186,3 @@ Decke, so wie es das in diesem Haus immer tut.
 Ich hielt das Telefon fest.
 
 „Ich glaube“, sagte ich, „meine Schwägerin.“
-
----
-
-**ENDE**
-
-*Die Reinhardt-Brüder gehen weiter.*
-
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
