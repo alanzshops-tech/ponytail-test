@@ -11,6 +11,20 @@ wie sie Lieferanten bestellt.
 Ich habe „ja“ gesagt und dann den Rest des Tages nichts Vernünftiges
 mehr zustande gebracht.
 
+Zwölf Tage vorher hatte ich in ihrem Café gestanden und gesagt, dass ich
+noch mal frage. Ich hatte in diesen zwölf Tagen dreimal angesetzt und
+jedes Mal etwas anderes gesagt, und am Ende war es wieder sie.
+
+Ich habe darüber am Mittwochabend eine Stunde lang schlechte Laune
+gehabt.
+
+Dann habe ich gemerkt, woher die kommt: Ich hätte gern gehabt, dass es
+meine Frage ist, damit ich nachher weiß, dass ich es war. Also
+buchstäblich das, was ich ihr vorwerfe, wenn sie es tut.
+
+Ich habe an diesem Abend zum ersten Mal in meinem Leben verstanden, dass
+man auch einen Antrag als Vorwand benutzen kann.
+
 ---
 
 Ich habe zwischen Mittwoch und Samstag ungefähr das getan, was ein Mann
