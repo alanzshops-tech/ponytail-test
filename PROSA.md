@@ -64,7 +64,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 58 | 1644 | 12 | 11.2 | 6.2 % | 27.9 % | 8.5 | – |
 | 59 | 1249 | 13.0 | 11.1 | 10.3 % | 16.3 % | 14.4 | – |
 | 60 | 850 | 12 | 12.1 | 9.1 % | 25.1 % | 16.5 | – |
-| 61 | 1690 | 11 | 10.0 | 5.8 % | 2.7 % | 7.7 | – |
+| 61 | 1770 | 11.0 | 10.1 | 6.3 % | 2.9 % | 7.3 | – |
 | 62 | 1098 | 15.5 | 11.5 | 17.2 % | 22.8 % | 16.4 | – |
 | 63 | 998 | 10.5 | 10.9 | 10.6 % | 2.2 % | 9.0 | – |
 | 64 | 1068 | 10 | 10.1 | 4.7 % | 16.9 % | 12.2 | – |
@@ -73,7 +73,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 ## Ausreißer
 
 - **Dialoganteil**: Median 22.2 · höchster Kapitel 46 (63.7) · niedrigster Kapitel 11 (2.0)
-- **Füllwörter je 1000**: Median 7.7 · höchster Kapitel 60 (16.5) · niedrigster Kapitel 25 (1.1)
+- **Füllwörter je 1000**: Median 7.6 · höchster Kapitel 60 (16.5) · niedrigster Kapitel 25 (1.1)
 - **Satzlänge Median**: Median 10.5 · höchster Kapitel 62 (15.5) · niedrigster Kapitel 11 (7.0)
 
 ## Wort doppelt hintereinander
@@ -82,13 +82,14 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Typografie
 
-- Öffnende Anführungszeichen `„`: 2393
-- Schließende **richtig** `“`: 2393
+- Öffnende Anführungszeichen `„`: 2394
+- Schließende **richtig** `“`: 2394
 - Schließende **falsch** `"`: 0
 - Apostroph falsch `'`: 0 · richtig `’`: 9
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 
