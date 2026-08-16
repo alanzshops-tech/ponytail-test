@@ -1,207 +1,235 @@
 # Kapitel 47 — Leni
 
-Der Grundbuchauszug kam am vierten Februar, in einem Umschlag mit
-Fenster, und ich habe ihn zwischen einer Rechnung für Backpapier und
-einem Werbebrief für einen Kombidämpfer aus dem Kasten geholt.
+Ich habe meine Mutter am dreizehnten Januar angerufen, an einem Montag,
+um Viertel nach acht abends, und ich habe damit eine Regel gebrochen,
+die ich mir nie bewusst gegeben hatte und an die ich mich seit 2003
+gehalten habe, seit ich zehn bin.
 
-Ich habe ihn mit an den Fenstertisch genommen und ausgebreitet, und dann
-habe ich zum ersten Mal in meinem Leben die Seite gelesen, auf der steht,
-was mir gehört.
+Die Regel lautet: Man erzählt es, wenn es erledigt ist.
 
-Ich hatte sie vorher zweimal in der Hand gehabt. 2023 beim Notar, als
-ich geerbt habe, und im September, als Sievers sie brauchte. Beide Male
-habe ich sie nicht gelesen. Ich habe sie unterschrieben.
+Ich hätte bis zum einundzwanzigsten warten können. Dann wäre der Beirat
+durch, die Sache entschieden, und ich hätte anrufen und sagen können:
+*Übrigens, es gab da eine Kündigung, das ist jetzt geregelt.* So habe
+ich es mit dem Dach gemacht. So habe ich es mit der Schwangerschaft
+gemacht — im fünften Monat, als es nichts mehr zu besprechen gab.
 
----
-
-**Abteilung II.** Da stehen die Lasten und Beschränkungen.
-
-Es stehen jetzt vier Eintragungen darin, und drei davon kosten mich
-etwas.
-
-*Wegerecht, Anbaurecht, Leitungsrecht — jeweils zugunsten der jeweiligen
-Eigentümer der Grundstücke Flurstück 1204, 1205 und 1207.*
-
-Nicht *zugunsten der Reinhardt Immobilien GmbH*. Zugunsten der
-Grundstücke.
-
-Ich habe eine Weile gebraucht, um zu verstehen, warum mich das getroffen
-hat, und dann habe ich es verstanden: Es ist egal, wem die drei
-Grundstücke in dreißig Jahren gehören. Es kann Kellermann gehören. Es
-kann einem Fonds gehören, den es heute noch nicht gibt. Das Recht hängt
-am Boden, nicht am Namen.
-
-Ich habe etwas verkauft, das über mich hinausgeht, und ich habe dafür
-einen Preis bekommen, den ein Fremder festgesetzt hat.
-
-Das ist ein Geschäft. Es ist das erste richtige Geschäft meines Lebens.
-
-Die vierte Eintragung ist die Reallast. *Duldung der gastronomischen
-Nutzung im Erdgeschoss, Laufzeit zwanzig Jahre.* Sie steht als Belastung
-in meiner Abteilung II, obwohl sie mich schützt, und der Notar hat mir
-das erklärt, und ich habe es trotzdem dreimal gelesen.
-
-**Abteilung III** ist leer.
-
-Da stand seit 2019 eine Grundschuld über zweihundertsechzigtausend Euro,
-und darunter, seit dem Winter, ein Vermerk.
-
-Jetzt steht da eine Zeile mit einer Nummer und dem Wort *gelöscht*, und
-sonst nichts, und der Rest der Spalte ist weiß.
-
-Ich habe zwölf Minuten auf eine weiße Spalte gesehen.
+Es war noch nicht erledigt. Es waren noch sieben Tage. Deshalb habe ich
+angerufen.
 
 ---
 
-In der Nacht auf den fünften bin ich um Viertel nach eins aufgewacht und
-nicht wieder eingeschlafen.
+„Voss.“
 
-Ich bin runtergegangen, habe kein Licht gemacht außer dem über dem
-Arbeitstisch, und habe die vier Blätter aus der Mappe geholt, die er
-beim Notar rübergeschoben hatte.
+„Ich bin es.“
 
-Ich hatte sie bis dahin nicht angesehen. Ich hatte danke gesagt und sie
-eingesteckt, und das war ehrlich gemeint, und ich hatte trotzdem nicht
-vor, sie jemals zu lesen, weil Lesen bedeutet hätte, dass ich prüfe.
+„Ist etwas mit dem Kleinen?“
 
-Um Viertel nach eins habe ich sie geprüft.
+Das ist ihre erste Frage, seit es Emil gibt, und sie stellt sie in einem
+Ton, den ich von früher kenne.
 
-Ich schreibe das hin, obwohl es mich schlecht aussehen lässt, weil
-dieses Buch sonst nichts wert ist.
+„Emil ist gesund“, sagte ich. „Mama, ich muss dir etwas erzählen, und es
+ist nicht zu Ende, und deshalb erzähle ich es dir jetzt.“
 
-**Blatt eins:** Kaufvertrag mit der Bank, zweiundzwanzigster Dezember,
-186.000,00.
+Es war lange still.
 
-**Blatt zwei:** Kontoauszug. Dieselbe Zahl, Wertstellung
-dreiundzwanzigster. Darunter, gleicher Tag, 47,50 Euro
-Bearbeitungsentgelt.
-
-**Blatt drei:** Die Rechnung seines Bruders. 2.856,00 brutto, bezahlt
-vom Privatkonto, nicht von der Gesellschaft.
-
-**Blatt vier:** 188.903,50.
-
-Ich habe es mit dem Taschenrechner der Kasse nachgerechnet, weil das der
-Rechner ist, dem ich traue.
-
-Es stimmte auf den Cent.
+„Dann erzähl“, sagte sie.
 
 ---
 
-Und dann habe ich das gemacht, was ich seit dem dreiundzwanzigsten
-Dezember eigentlich hätte machen wollen und nicht getraut habe: Ich habe
-das Ganze in die andere Richtung gerechnet.
+Ich habe zweiundzwanzig Minuten geredet.
 
-Er hat 188.903,50 aufgewendet.
+Die Bank hat am vierten Dezember gekündigt.
+Zweihundertvierzehntausendsechshundert Euro, fällig sofort. Ich habe es
+fast drei Wochen niemandem gesagt, auch ihm nicht, obwohl er in dieser
+Zeit fast täglich in meiner Küche stand.
 
-Er hat 186.000,00 bekommen.
+Ich habe bei vier Banken gefragt und viermal nein bekommen, und beim
+dritten Mal hat mir ein junger Mann in einer Filiale an der
+Mönckebergstraße erklärt, mein Geschäftsmodell sei nicht skalierbar.
 
-Er hat 2.903,50 Euro verloren und dafür gesorgt, dass in keinem einzigen
-Papier steht, dass er mir etwas geschenkt hat, weil ein Geschenk in
-meiner Steuerklasse dreißig Prozent gekostet hätte und weil ich es nicht
-angenommen hätte.
+Emil hatte am neunten Dezember einen Fieberkrampf, und ich habe in
+dieser Nacht niemanden angerufen. Auch sie nicht. Vor allem sie nicht.
 
-Und er hat auf eine Tantieme von dreihundertsechzigtausend Euro
-verzichtet und es nicht dazugeschrieben.
+Am dreiundzwanzigsten habe ich es Jonas gesagt, alles, auch den Betrag,
+und am selben Tag kam eine Anzeige der Bank, dass die Forderung an ihn
+abgetreten ist. Er hatte sie gekauft. Ohne mich zu fragen. Für
+einhundertsechsundachtzigtausend Euro, weil eine Bank eine gekündigte
+Forderung mit Abschlag verkauft.
 
-Ich saß um zwei Uhr nachts in einem dunklen Café und war wütend, und ich
-habe ungefähr zwanzig Minuten gebraucht, um zu verstehen, worauf.
+Und jetzt gibt es ein Gutachten über zweihundertachtundsechzigtausend,
+und am zwanzigsten stimmen sieben Menschen in einem Raum darüber ab, ob
+ich das Geld bekomme, und wenn sie nein sagen, weiß ich nicht weiter.
 
-Nicht auf ihn.
-
-Ich war wütend, weil ich nachgerechnet hatte.
-
----
-
-Am Morgen habe ich Sanne davon erzählt, über die Straße, im Copyshop,
-zwischen zwei Kunden.
-
-„Ich habe seine Zahlen kontrolliert“, sagte ich. „Nachts. Mit dem
-Kassenrechner.“
-
-Sanne legte einen Stapel in den Ausgabekorb.
-
-„Und?“
-
-„Es stimmte.“
-
-„Und jetzt schämst du dich.“
-
-„Ja.“
-
-„Warum?“
-
-Ich stand da und wusste keine Antwort, und Sanne drehte sich um und sah
-mich an, mit dieser Ruhe, die sie hat, seit wir sieben sind.
-
-„Leni, du hast zwei Jahre lang jemandem misstraut, weil du keine Zahlen
-hattest“, sagte sie. „Jetzt hattest du welche, und du hast sie
-angesehen, und sie waren richtig. Das ist kein Misstrauen. Das ist die
-einzige Art, wie du jemals irgendjemandem trauen wirst.“
-
-„Das klingt nicht besonders schön.“
-
-„Nein“, sagte Sanne. „Aber es hält.“
+Ich habe das alles in der Küche stehend gesagt, mit dem Rücken an der
+Spüle, und meine Mutter hat kein einziges Mal unterbrochen.
 
 ---
 
-Am sechsten kam Herr Kubatz um zehn nach neun, wie an jedem Tag seit
-vier Jahren, und Sender legte sich unter Tisch sieben.
+Als ich fertig war, sagte sie: „Warum hast du im Dezember nichts
+gesagt?“
 
-Er las die Karte, die sich nicht ändert, und bestellte einen Kaffee und
-ein Stück von dem, was am längsten in der Vitrine lag.
+„Weil du gesagt hättest, ich soll verkaufen.“
 
-Dann sagte er, während er das Geld abzählte:
+„Ja“, sagte sie. „Das hätte ich gesagt.“
 
-„Frau Voss, Sie machen die Tür wieder anders zu.“
+„Siehst du.“
 
-„Wie bitte?“
+„Nein.“ Ihre Stimme war fest. „Du siehst. Ich hätte es gesagt, und du
+hättest nein gesagt, und dann hätten wir zwei Wochen lang jeden Abend
+telefoniert. Marlene, das ist der Unterschied. Ich hätte dir nicht
+geholfen. Ich wäre nur dagewesen.“
 
-„Die Tür zum Backraum.“ Er zeigte mit dem Kinn dorthin. „Seit dem
-Sommer machen Sie die immer mit dem Fuß zu, im Vorbeigehen, mit einem
-Knall. Seit dieser Woche machen Sie die mit der Hand zu.“
-
-Ich sah zur Tür.
-
-„Ich weiß nicht, was ich damit sagen will“, sagte Herr Kubatz. „Es ist
-mir nur aufgefallen.“
-
-Er nahm seinen Teller und setzte sich an Tisch sieben, und ich stand
-hinter der Theke, und mir liefen die Tränen über das Gesicht, in einem
-vollen Café, um zehn nach neun an einem Freitagmorgen, wegen einer Tür.
-
-Ein Mann von siebzig, der seit vier Jahren jeden Tag hier sitzt und
-dessen Frau 2022 gestorben ist, hat mich angesehen und weitergegessen
-und mit keinem Wort so getan, als wäre etwas.
-
-Das ist die Sorte Anstand, für die es in keiner Sprache ein Wort gibt.
+Ich stand in meiner Küche und heulte in ein Geschirrtuch, sehr leise,
+weil Emil zwei Türen weiter schläft und einen leichten Schlaf hat.
 
 ---
 
-Am Abend des sechsten Februar habe ich die Schublade unter der Kasse
-aufgemacht.
+Und dann hat sie das gesagt, worauf dieses Buch die ganze Zeit
+zugelaufen ist, ohne dass ich es wusste.
 
-Sie geht seit Oktober leicht.
+„Ich muss dir etwas richtigstellen“, sagte meine Mutter.
 
-Ganz hinten liegt das Heft, in dem sonst die Bestellungen stehen, und in
-diesem Heft steht auf der drittletzten Seite etwas, das ich im Sommer
-2024 geschrieben habe, mit einem anderen Stift und in einer Handschrift,
-die schneller war als meine heutige.
+„Was?“
 
-*26.09., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
+„Den Satz.“
 
-*08.10., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
+Ich wusste sofort, welchen sie meint. Es gibt in unserer Familie genau
+einen, der so heißt.
 
-*22.10., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
+*Sie regeln erst alles, und dann sind sie weg.*
 
-Ich habe diese drei Zeilen zwei Jahre lang aufgehoben, damit ich mir das
-nicht irgendwann selbst anders erzähle.
+„Der stimmt nicht“, sagte sie.
 
-Ich habe sie nicht durchgestrichen. Sie stimmen.
+„Papa hat —“
 
-Ich habe darunter eine vierte Zeile geschrieben, mit dem Kugelschreiber,
-der neben der Kasse liegt, und dann habe ich das Heft zugemacht und
-zurückgelegt, weil es dahin gehört.
+„Dein Vater hat die Versicherungen umgeschrieben und den Wagen verkauft
+und mir einen Ordner hingelegt. Das stimmt. Alles davon stimmt.“ Ich
+hörte, wie sie sich hinsetzte. „Aber der Satz ist nicht daraus
+entstanden. Den habe ich mir gemacht.“
 
-*Sie sind angekommen. Alle drei. Es hat nur zwei Jahre gedauert, bis das
-jemand nachgesehen hat — und ich war es nicht.*
+„Wie meinst du das?“
+
+„Ich habe ihn mir gemacht, weil er kürzer war als die Wahrheit“, sagte
+sie. „Die Wahrheit ist, dass ich seinen Bruder im Frühjahr 2004 um Geld
+gefragt habe. Ein einziges Mal. Zweitausendvierhundert Euro, für die
+Heizung. Und er hat nein gesagt, sehr freundlich, am Telefon, in
+ungefähr vierzig Sekunden.“
+
+„Das wusste ich nicht.“
+
+„Nein. Du warst elf.“ Eine Pause. „Ich habe danach nie wieder
+jemanden gefragt. Nicht meine Schwester, nicht die Kirche, nicht das
+Amt. Und weil ich das nicht getan habe, brauchte ich einen Satz, warum
+das richtig ist.“
+
+Sie atmete einmal aus.
+
+„Und dann habe ich diesen Satz zwanzig Jahre lang bei dir am
+Küchentisch gesagt.“
+
+---
+
+Ich habe an dieser Stelle etwas gesagt, das nicht nett war.
+
+Ich habe gesagt: „Ich habe damit ein Leben eingerichtet.“
+
+„Ich weiß“, sagte meine Mutter.
+
+„Ich habe ihm zwei Jahre lang nicht gesagt, dass er einen Sohn hat, und
+einer der Gründe war ein Satz, den du dir gemacht hast.“
+
+„Ich weiß“, sagte sie noch einmal, und sie hat sich nicht verteidigt,
+und das war das Schwerste an diesem Abend, weil ich mich auf einen
+Streit vorbereitet hatte und keinen bekam.
+
+Wir haben dann beide eine Weile nichts gesagt, und in dieser Weile ist
+etwas passiert, das ich nicht beschreiben kann, außer so: Sie hat
+aufgehört, meine Mutter zu sein, für ungefähr eine Minute, und war eine
+Frau von dreiundsechzig, die einmal vierzig war und zwei Jahre lang
+nicht aufgestanden ist.
+
+„Du hast die Wäsche gemacht“, sagte sie. „Mit zehn.“
+
+„Das war nicht schlimm.“
+
+„Doch“, sagte meine Mutter. „Das war es.“
+
+---
+
+Ganz zum Schluss, als wir beide wieder normal reden konnten, fragte sie:
+
+„Was passiert am Zwanzigsten?“
+
+„Sie stimmen ab.“
+
+„Und wenn sie nein sagen?“
+
+„Dann verkaufe ich“, sagte ich. „Nicht an Kellermann. An irgendjemanden.
+Und dann fange ich in Ottensen noch einmal an, in einem Laden mit
+dreißig Quadratmetern, und Emil kriegt ein Zimmer ohne Zug.“
+
+Ich hörte mich das sagen und merkte, dass es zum ersten Mal kein
+Weltuntergang war.
+
+„Gut“, sagte meine Mutter. „Das ist gut. Man muss wissen, was danach
+kommt.“
+
+Und dann, nach einer Pause:
+
+„Soll ich kommen?“
+
+Ich habe an dieser Stelle drei Sekunden gebraucht, und ich weiß, dass es
+drei waren, weil ich in dieser Zeit den Reflex kommen und wieder gehen
+gesehen habe. Der Reflex heißt: *Nicht jetzt. Komm, wenn es entschieden
+ist.*
+
+„Ja“, sagte ich.
+
+„Ich überlege es mir“, sagte sie schnell, und ich hörte, dass sie
+erschrocken war, weil sie nicht mit ja gerechnet hatte.
+
+Sie kam dann nicht im Januar. Sie kam am siebten Februar, und sie hat
+drei Wochen gebraucht, um sich zu trauen, und ich habe sie deswegen kein
+einziges Mal aufgezogen.
+
+---
+
+Am nächsten Morgen habe ich Frau Kettler die Zahl gesagt.
+
+Nicht *es ist eng*. Nicht *die Bank macht Druck*. Die Zahl.
+
+„Zweihundertvierzehntausendsechshundert“, sagte ich, während sie die
+Schürze zuband.
+
+Sie band die Schürze zu Ende. Dann sagte sie: „Ich weiß.“
+
+„Woher?“
+
+„Frau Voss.“ Sie sah mich an. „Ich mache seit neun Jahren zweimal die
+Woche Ihre Kasse. Ich habe im Dezember den Umschlag gesehen, und ich
+lese keine fremde Post, aber ein Umschlag von einer Bank sieht anders
+aus als ein Umschlag von einer Bank.“
+
+„Und Sie haben nichts gesagt.“
+
+„Nein.“
+
+„Warum nicht?“
+
+„Weil ich neun Jahre gewartet habe, dass Sie es sagen“, sagte Frau
+Kettler und ging in den Backraum. „Es hat sich gelohnt.“
+
+---
+
+Ich habe an diesem Abend in das Heft, in dem sonst die Bestellungen
+stehen, zwei Zeilen geschrieben, so wie meine Großmutter zwei Zeilen
+geschrieben hat.
+
+*13.01. — Mama alles gesagt. Vorher.*
+
+*14.01. — Frau Kettler die Zahl gesagt.*
+
+Es steht kein Umsatz daneben. Es war ein schlechter Tag im Geschäft,
+zweihundertsiebzig Euro, Regen und Ferien.
+
+Ich habe trotzdem beide Zeilen aufgehoben.

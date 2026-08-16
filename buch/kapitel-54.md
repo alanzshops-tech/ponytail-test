@@ -1,170 +1,290 @@
 # Kapitel 54 — Jonas
 
-Am elften April habe ich einen Ring gekauft, und ich habe zweiundzwanzig
-Minuten in diesem Laden gebraucht, weil ich der Verkäuferin erst
-erklären musste, wen sie vor sich hat.
+Der Zustimmungsvorbehalt hat am elften Februar zum ersten Mal
+gegriffen, und ich habe an diesem Tag etwas über mich erfahren, das ich
+nicht erwartet hatte.
 
-Nicht mich. Marlene.
+Es ging um nichts. Ein Grundstück am Brooktorkai, zweitausend
+Quadratmeter, ein Ankauf, den ich in zwölf Jahren zweihundertmal
+gemacht habe. Bis Januar hätte ich unterschrieben und den Beirat im
+Quartalsbericht informiert.
 
-„Was gefällt ihr denn?“, hat sie gefragt, und ich habe gemerkt, dass
-ich das nicht weiß, weil sie keinen Schmuck trägt. Kein einziges Stück.
-Sie hat Mehl unter den Fingernägeln und Hände, die zwölf Stunden am Tag
-in Wasser sind.
+Jetzt liegt es in der Speicherstadt, und für die Speicherstadt brauche
+ich seit dem zwanzigsten Januar die Zustimmung von sieben Leuten.
 
-„Sie kann nichts tragen“, habe ich gesagt. „Sie ist Konditorin. Sie
-nimmt es beim Arbeiten ab, und dann liegt es irgendwo.“
+Ich habe die Vorlage geschrieben. Vier Seiten. Ich habe eine Stunde
+gebraucht, und zwar nicht, weil es schwierig war, sondern weil ich
+zweimal neu angefangen habe.
 
-Die Verkäuferin hat genickt und ist weggegangen und ist mit etwas
-zurückgekommen, das flach ist und keine Kanten hat.
+Beim ersten Versuch habe ich das Grundstück verteidigt.
 
-„Das kann man tragen“, hat sie gesagt. „Das verhakt sich nicht in
-Teigresten.“
+Beim zweiten Versuch habe ich es erklärt.
 
-Ich habe es genommen.
+Das ist ein Unterschied, den ich zwölf Jahre lang nicht gekannt habe.
 
 ---
 
-Er lag von April bis Mai in einer Schublade in meiner Küche, und sie
-wusste es seit dem sechzehnten, weil ich es ihr gesagt habe.
+Die Zustimmung kam nach vier Tagen, einstimmig, mit einem Satz von
+Bosse — dem Mann, der im Januar meine Abberufung beantragt hat.
 
-Das war nicht geplant. Wir standen an einem Donnerstagabend in ihrer
-Küche und hatten unseren einen wahren Satz vor uns, und meiner war
-eigentlich ein anderer, und dann habe ich gesagt:
+Er schrieb: *Sauber begründet. Weiter so.*
 
-„Ich habe am Samstag einen Ring gekauft.“
+Drei Wörter und ein Punkt.
 
-Sie hat weder gelacht noch geweint noch irgendetwas gemacht, was man in
-Filmen macht. Sie hat die Tasse abgestellt und gesagt:
+Ich habe die Mail länger angesehen, als sie es verdient hat.
+
+---
+
+Was ich nicht erwartet hatte: Es ist leichter.
+
+Ich habe zwölf Jahre lang jede Entscheidung so getroffen, dass sie im
+Zweifel vor dem Beirat trägt — allein, im Kopf, mit einem imaginären
+Gremium, das ich mir dabei vorgestellt habe. Jetzt gibt es das Gremium
+wirklich, und es sitzt nicht mehr in meinem Kopf.
+
+Ich habe das Theo erzählt, an einem Donnerstag im Februar, auf der
+Baustelle.
+
+Er hat gelacht.
+
+„Du hast gerade gesagt, dass es dir besser geht, seit sie dich an die
+Leine gelegt haben.“
+
+„Ich habe gesagt, es ist leichter.“
+
+„Jonas.“ Er hat den Helm abgenommen. „Weißt du, was Vater über den
+Beirat gesagt hat? *Sieben Leute, die verhindern, dass man arbeitet.*
+Er hat das in achtzehn Jahren zweimal ernst gemeint und sonst nur
+gesagt, damit alle lachen.“
 
 „Und?“
 
-„Und ich frage nicht.“
-
-„Warum nicht?“
-
-„Weil du dann ja sagen würdest.“
-
-Sie hat mich lange angesehen.
-
-„Erklär das“, sagte sie.
+„Und du sagst zum ersten Mal etwas über die Firma, das nicht von ihm
+ist.“
 
 ---
 
-Ich habe es versucht, und ich brauchte dafür zwei Anläufe.
+Die Tantieme merkt man im Februar noch nicht. Sie wird im April
+abgerechnet.
 
-Der erste war zu kompliziert. Ich habe von Verhandlungen geredet, von
-Situationen, in denen die Gegenseite nur zustimmen kann, und sie hat
-gesagt: „Jonas. Nicht so.“
+Ich merke etwas anderes.
 
-Beim zweiten Anlauf habe ich gesagt:
+Ich habe seit dem zwanzigsten Januar keine Entscheidung mehr getroffen,
+bei der ich hinterher überlegt habe, wie sie aussieht. Nicht eine.
 
-„Wenn ich dich frage, während ich derjenige bin, dem das Haus gehört
-hat, während dein Sohn meinen Nachnamen nicht hat und während du seit
-vier Monaten jeden Dienstag darauf wartest, dass ich es mir anders
-überlege — dann kannst du nicht nein sagen. Nicht ehrlich. Du würdest
-ja sagen, und dann würden wir beide in fünf Jahren nicht mehr wissen,
-ob du es gewollt hast.“
+Das kostet mich dreihundertsechzigtausend Euro über drei Jahre, und ich
+schreibe das hin, weil es sonst klingt, als wäre es billig gewesen.
 
-Sie hat sich hingesetzt.
-
-„Also wartest du.“
-
-„Ich warte, bis es dich nichts kostet.“
-
-„Und wann ist das?“
-
-„Das weiß ich nicht“, sagte ich. „Vielleicht in einem Jahr. Vielleicht
-weiß ich es einfach, wenn es so weit ist.“
-
-Sie hat lange nichts gesagt.
-
-Dann: „Gut. Dann weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied, und ich habe zwei Jahre gebraucht, um zu
-verstehen, dass er alles ist.
+Es war nicht billig. Es war nur der Preis für etwas, das mit Geld nichts
+zu tun hat, und das ist ein Satz, den ich mit fünfunddreißig nicht
+verstanden hätte.
 
 ---
 
-Der April war der Monat, in dem der Hof entstand.
+Am achten Februar kam eine Nachricht von Bastian.
 
-Nicht der fertige. Der Rohbau: Die Bohrpfähle waren durch, die
-Bodenplatten lagen, und man konnte zum ersten Mal stehen, wo später der
-Hof ist, und sehen, dass Theo recht hatte.
+Kein Anruf. Eine Nachricht, um zehn nach elf abends, drei Zeilen:
 
-Er ist unregelmäßig, weil ihr Haus schief steht. Die beiden Neubauten
-treten zurück, als machten sie Platz. Wenn man in der Durchfahrt steht
-und nach hinten sieht, hat man das Gefühl, dass die Häuser um etwas
-herumgebaut wurden, und genau das ist passiert.
+*Hab gehört, es ist gut ausgegangen. Freut mich ehrlich.
+Sag der Konditorin, dass sie recht hatte mit dem Vertrag.
+Frag mich nicht, woher ich das weiß.*
 
-Ich bin im April elfmal auf dieser Baustelle gewesen, und zwar nicht
-als Geschäftsführer.
+Ich habe zurückgeschrieben: *Woher weißt du das?*
 
----
+Er hat nicht geantwortet.
 
-Am dreiundzwanzigsten kam der Tantiemebescheid.
+Zwei Tage später kam noch eine Zeile:
 
-Das ist ein Blatt Papier von der Personalabteilung, auf dem steht, was
-zur Auszahlung angewiesen worden wäre und was stattdessen nicht
-angewiesen wird, mit Verweis auf den Nachtrag zum Anstellungsvertrag
-vom zwanzigsten Januar.
-
-Einhundertzwanzigtausend, im ersten von drei Jahren.
-
-Ich habe das Blatt angesehen und auf das Gefühl gewartet, das dazugehört.
-
-Es kam nicht.
-
-Ich habe es Frau Kuhlmann gesagt, weil sie es ohnehin gesehen hatte.
-
-Sie hat gesagt: „Darf ich?“
-
-„Bitte.“
-
-„Ihr Vater hat 1998 seine Tantieme in eine Beteiligung gesteckt und
-2003 verloren“, sagte sie. „Sie geben Ihre für etwas aus, das Sie schon
-haben. Das ist besser.“
+*Ich hab im Sommer was zu erzählen. Halt dir August frei.*
 
 ---
 
-Und dann, am achtundzwanzigsten April, ist etwas passiert, das ich hier
-aufschreibe, obwohl es nach nichts klingt.
+Am vierzehnten habe ich Niklas gefragt, ob er etwas weiß.
 
-Ich habe eine Mail bekommen von einem Professor an der TU Hamburg,
-Fachbereich Bauingenieurwesen, an den ich zwei Wochen vorher
-geschrieben hatte.
+Wir saßen bei ihm im Büro, nach Feierabend, und er hat eine Weile aus
+dem Fenster gesehen.
 
-Ich hatte gefragt, ob es möglich ist, ein Studium fortzusetzen, das man
-im Jahr 2013 nach dem zweiten Semester abgebrochen hat.
+„Ich weiß, dass er sich beworben hat“, sagte er.
 
-Er hat geantwortet: Ja. In Teilzeit. Es dauert dann acht bis neun Jahre.
+„Wo?“
 
-Ich habe die Mail dreimal gelesen und dann in einen Ordner gelegt, der
-seitdem *Punkt vier* heißt.
+„Das sage ich dir nicht.“
 
-Ich habe es niemandem erzählt. Nicht Theo, nicht meiner Mutter, nicht
-ihr.
+„Niklas.“
 
-Nicht weil es ein Geheimnis ist.
+„Ich sage es dir nicht, weil er mich darum gebeten hat, und weil ich es
+sonst als Anwalt nicht mehr aushalten würde, in dieser Familie zu
+arbeiten.“ Er hat sich umgedreht. „Ich sage dir nur: Es ist nichts
+Schlimmes, und er macht es nicht, um dich zu ärgern.“
 
-Weil ich zum ersten Mal seit zwölf Jahren etwas habe, das noch niemand
-beurteilt hat, und weil ich es eine Weile so lassen will.
+„Sondern?“
 
----
+„Um herauszufinden, ob er es kann, ohne dass jemand weiß, wie er
+heißt.“
 
-Am dreißigsten April, einem Donnerstag, war mein wahrer Satz:
-
-„Ich habe im April etwas angefangen, von dem ich dir im Sommer erzähle.
-Es ist nichts Schlimmes und es betrifft dich nicht direkt.“
-
-Sie hat gesagt: „Okay.“
-
-Und dann, nach einer Pause: „Danke, dass du es ankündigst.“
-
-„Wofür dankst du?“
-
-„Dafür, dass ich es nicht in einem Serienbrief erfahre“, sagte sie.
-
-Wir haben beide gelacht, und es war das erste Mal, dass jemand von uns
-darüber einen Witz gemacht hat, und ich habe an diesem Abend im Auto
-gesessen und gedacht, dass man an so etwas merkt, wann eine Sache vorbei
+Ich habe an diesem Abend lange in meinem Auto gesessen und an einen
+Bruder gedacht, mit dem ich im selben Haus aufgewachsen bin und der
+sich unter einem anderen Namen bewerben muss, um zu wissen, was er wert
 ist.
+
+---
+
+Und dazwischen, die ganze Zeit, das andere.
+
+Ich habe Emil im Februar dreimal die Woche gehabt. Dienstag,
+Donnerstag, Freitag, dazu ein Wochenende im Monat.
+
+Es hat sich in vier Wochen von etwas Besonderem in etwas Normales
+verwandelt, und ich habe gemerkt, wann: an dem Tag, an dem ich
+vergessen habe, dass es besonders ist.
+
+Es war der dreizehnte Februar. Ich habe ihn um zehn geholt, wir waren
+einkaufen, er hat im Wagen geschlafen, ich habe zwei Mails beantwortet,
+während er schlief, und um sechs habe ich ihn zurückgebracht.
+
+Abends ist mir aufgefallen, dass ich den ganzen Tag nicht daran gedacht
+habe, dass ich das darf.
+
+---
+
+Mit Marlene war es in diesen Wochen so:
+
+Wir haben uns dreimal die Woche in einer Durchfahrt gesehen, für
+jeweils vier Minuten, und über Schlafzeiten geredet.
+
+Am fünften Februar hat sie gefragt, ob ich reinkommen will.
+
+Ich habe gesagt: „Heute nicht, ich muss noch mal ins Büro“, was
+gestimmt hat und was falsch war.
+
+Am zwölften hat sie nicht gefragt.
+
+Am neunzehnten habe ich von selbst gesagt: „Darf ich einen Kaffee?“
+
+Und sie hat gesagt: „Du weißt, wo die Schürze hängt.“
+
+---
+
+Und am selben Abend habe ich es kaputt gemacht, und zwar in elf Minuten.
+
+Ich war um acht wieder im Büro. Auf dem Bildschirm stand, dass der
+Brooktorkai-Termin auf den nächsten Tag verlegt worden war, elf Uhr,
+weil der Verkäufer am Wochenende nach Portugal fliegt.
+
+Freitag ist mein Tag mit Emil.
+
+Ich habe das gesehen, ich habe zwei Minuten überlegt, und dann habe ich
+getan, was ich immer tue: Ich habe es geregelt.
+
+Ich habe Frau Kuhlmann gebeten, bei einer Kinderbetreuung anzurufen, die
+für Mitarbeiter mit Notfällen einspringt. Ich habe eine Frau gebucht,
+mit Zeugnissen, für sechs Stunden, und ich habe die Rechnung auf mein
+Privatkonto legen lassen, weil ich sogar dabei noch anständig sein
+wollte.
+
+Dann habe ich Marlene angerufen und gesagt, es sei alles organisiert.
+
+---
+
+Es war einen Moment still, und ich dachte, die Verbindung sei weg.
+
+„Wie heißt sie?“, sagte sie.
+
+„Was?“
+
+„Die Frau, die morgen sechs Stunden mit meinem Sohn verbringt. Wie
+heißt sie?“
+
+Ich habe auf den Zettel gesehen, den Frau Kuhlmann mir hingelegt hatte,
+und den Namen vorgelesen.
+
+„Und wo?“
+
+„Bei ihr. Sie hat eine Wohnung in Eimsbüttel, es ist geprüft —“
+
+„Jonas.“ Ich habe gehört, dass sie sich hingesetzt hat. „Morgen ist Tag
+drei. Morgen geht der erste Trennungsversuch, zwei Minuten, das steht
+seit einer Woche auf einem Zettel an meinem Kühlschrank. Und danach
+sollst du ihn einer Frau geben, deren Namen du gerade vom Blatt
+abgelesen hast.“
+
+„Dann sage ich ab.“
+
+„Das ist nicht der Punkt.“
+
+„Was ist der Punkt?“
+
+„Dass du mich anrufst, wenn es fertig ist“, sagte sie.
+
+---
+
+Ich habe die Frau abbestellt und den Termin verschoben, was zwei
+Telefonate und eine Entschuldigung gekostet hat und in der Sache völlig
+folgenlos war. Der Verkäufer flog trotzdem nach Portugal und
+unterschrieb im März.
+
+Elf Minuten hatten gereicht, um in einem Satz das Gegenteil von dem zu
+tun, was ich seit November versuche.
+
+Ich habe am Freitagabend an ihrer Tür gestanden, mit Emil auf dem Arm,
+und gesagt: „Ich hätte fragen sollen.“
+
+„Ja.“
+
+„Ich habe gedacht, ich nehme dir etwas ab.“
+
+„Ich weiß, was du gedacht hast.“ Sie hielt die Tür auf, aber sie trat
+nicht zur Seite. „Weißt du, was mein Vater mir zum letzten Mal gesagt
+hat? *Ich habe alles geregelt.* Das war der ganze Satz. Ich war zehn.“
+
+Ich habe zwei Sekunden gebraucht, um zu verstehen, dass ich nicht mit
+ihr rede.
+
+„Ich bin nicht dein Vater“, sagte ich.
+
+„Nein“, sagte sie. „Und ich bin nicht meine Mutter. Wir müssen es
+trotzdem beide jeden Tag neu entscheiden.“
+
+Dann trat sie zur Seite.
+
+---
+
+Ich habe an diesem Abend nicht nach der Schürze gefragt, und sie hat sie
+mir auch nicht hingehalten.
+
+Wir haben zwei Stunden über die Eingewöhnung geredet, über Frau
+Özdemir und über die Frage, ob man ein Kind wecken darf, das im
+falschen Moment einschläft.
+
+Es war das erste Mal seit dem siebenundzwanzigsten Januar, dass wir
+etwas hatten, worüber man streiten kann.
+
+Ich habe auf dem Heimweg gemerkt, dass mir das gefehlt hat, und ich habe
+mich dafür geschämt und es trotzdem gedacht.
+
+---
+
+Am einundzwanzigsten Februar, einem Samstag, saß ich in meiner Küche
+und habe die Liste noch einmal gemacht, die ich im November
+weggeworfen hatte.
+
+**Was ich brauche.**
+
+Im November stand da nichts.
+
+Diesmal habe ich vier Dinge hingeschrieben, und ich schreibe sie hier
+hin, weil sie der Grund sind, warum das hier kein Buch über eine Firma
+ist:
+
+*Ihn zweimal die Woche, mindestens.*
+
+*Eine Wohnung, in der man Krach machen darf.*
+
+*Einen Menschen, dem ich abends erzähle, was war.*
+
+*Etwas zu tun, das ich mir ausgesucht habe.*
+
+Bei Punkt vier habe ich zwanzig Minuten gesessen und dann in Klammern
+dazugeschrieben:
+
+*(kommt später. Erst Punkt drei.)*

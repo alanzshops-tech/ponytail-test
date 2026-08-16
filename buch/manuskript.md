@@ -7734,6 +7734,384 @@ Er hat es trotzdem drei Tage lang jeden Abend gefragt.
 
 # Kapitel 34 — Jonas
 
+Ich habe von der Durchfahrt bis zum Büro elf Minuten gebraucht, und ich
+weiß das, weil ich auf die Uhr gesehen habe, als ich losfuhr, und noch
+einmal, als ich den Wagen abstellte.
+
+Das ist kein Detail. Das ist die Diagnose.
+
+Eine Frau hatte mir gerade gesagt, dass ich etwas gekauft habe, das man
+nicht zurückgeben kann, und ich fuhr durch eine leere Stadt und maß die
+Zeit.
+
+---
+
+Im Haus war niemand. Am dreiundzwanzigsten Dezember um zehn nach neun
+ist in der Reinhardt Immobilien niemand, nicht einmal Frau Kuhlmann, die
+sonst immer noch da ist, wenn ich gehe.
+
+Ich habe das Licht im Flur nicht angemacht. Ich bin durch den vierten
+Stock gegangen, an dem Tisch von 1998 vorbei, und habe mich an meinen
+Schreibtisch gesetzt und den Rechner hochgefahren.
+
+Und dann habe ich gearbeitet.
+
+Ich schreibe das so hin, weil es so war. Nicht getrunken, nicht
+geschrien, nicht auf dem Boden gesessen. Gearbeitet.
+
+Von zwanzig nach neun bis Viertel nach zwei habe ich drei Papiere
+aufgesetzt.
+
+---
+
+**Das erste.** Eine Rückabtretung der Forderung an die Hanseatische
+Volksbank, zum selben Preis, mit Wirkung zum ersten Januar. Zwei Seiten.
+Ich habe zwei Stunden dafür gebraucht, weil ich nicht Anwalt bin und
+weil ich zwischendurch Muster gesucht habe wie jemand, der zum ersten
+Mal etwas kündigt.
+
+**Das zweite.** Ein Erlassvertrag. Ein Satz, der die Forderung
+niederschlägt, und darunter Platz für zwei Unterschriften.
+
+**Das dritte.** Ein Brief.
+
+Der Brief war das Längste. Ich habe ihn viermal angefangen. Beim vierten
+Mal stand oben *Sehr geehrte Frau Voss*, und da habe ich gemerkt, was
+ich tue.
+
+---
+
+Ich habe die drei Dateien um Viertel nach zwei nebeneinander auf den
+Bildschirm gelegt und sie angesehen.
+
+Rückabtretung. Erlass. Brief.
+
+Und dann habe ich zum ersten Mal in diesem Winter etwas begriffen, das
+ich seitdem nicht mehr loswerde:
+
+**Alle drei sind dasselbe.** Alle drei sind ein Mann, der um halb drei
+nachts allein in einem Büro sitzt und ein Problem so lange bearbeitet,
+bis es weg ist. Es ist derselbe Mann wie der, der am zweiundzwanzigsten
+um siebzehn Uhr vierzig eine Forderung gekauft hat, ohne zu fragen.
+
+Sie hatte mir vier Stunden vorher gesagt, dass genau das das Problem
+ist. Und ich hatte darauf reagiert, indem ich es noch dreimal gemacht
+habe.
+
+Ich habe die Dateien nicht gelöscht. Ich habe sie in einen Ordner
+geschoben, der *Kehrwieder privat* heißt, und den Rechner zugeklappt.
+
+---
+
+Um Viertel vor sieben rief ich Niklas an.
+
+Mein Bruder geht beim zweiten Klingeln ran, immer, auch am
+vierundzwanzigsten Dezember, und ich habe mich nie gefragt, warum, bis
+zu diesem Morgen.
+
+„Ist jemand gestorben?“
+
+„Nein.“
+
+„Dann ist es beruflich.“ Ich hörte, wie er sich aufsetzte. „Rede.“
+
+Ich habe es ihm erzählt. Alles, in der richtigen Reihenfolge, so wie ich
+es sonst dem Beirat erzähle: der Kauf, der Preis, das Gespräch, ihr
+Satz.
+
+Niklas hat mich nicht ein einziges Mal unterbrochen, was bei ihm
+bedeutet, dass es schlimm ist.
+
+„Kann ich die Forderung zurückgeben?“, fragte ich am Ende.
+
+„An wen?“
+
+„An die Bank.“
+
+„Warum sollte die Bank sie zurücknehmen? Sie hat einen ausgefallenen
+Kredit für einhundertsechsundachtzig verkauft und ist froh. Und selbst
+wenn — dann hat Frau Voss wieder eine Bank, die vollstreckt. Willst du
+das?“
+
+„Nein.“
+
+„Dann Erlass.“
+
+„Ja.“
+
+„Jonas.“ Er machte eine Pause, in der ich hörte, wie irgendwo bei ihm
+eine Kaffeemaschine ansprang. „Ein Erlass ist eine Schenkung. Steuerlich,
+zivilrechtlich und in jedem Gefühl, das ein Mensch dabei hat. Du würdest
+ihr zweihundertvierzehntausend Euro schenken. Hat sie irgendetwas in den
+letzten drei Monaten gesagt, das dich glauben lässt, dass sie das
+annimmt?“
+
+Ich sah aus dem Fenster auf einen Hafen, auf dem es noch dunkel war.
+
+„Sie hat ein Angebot über dreihunderttausend abgelehnt“, sagte ich.
+
+„Dann hast du deine Antwort.“
+
+---
+
+Wir haben danach noch zwei Minuten geredet, und in diesen zwei Minuten
+hat mein Bruder den einzigen Satz gesagt, der mir an diesem Tag
+geholfen hat.
+
+„Ich sage dir, was rechtlich geht“, sagte Niklas. „Rechtlich geht:
+warten. Die Frist läuft bis zum fünfzehnten Januar. Bis dahin passiert
+gar nichts, weil du derjenige bist, der nichts tut. Du bist zum ersten
+Mal in deinem Leben in der Lage, ein Problem zu lösen, indem du es
+liegen lässt.“
+
+„Das ist keine Lösung.“
+
+„Nein“, sagte er. „Das ist eine Frist. Nutz sie für etwas anderes als
+für Papier.“
+
+---
+
+Ich bin um halb acht nach Hause gefahren und habe geduscht und mich
+umgezogen, weil man am vierundzwanzigsten Dezember zu seiner Mutter
+fährt.
+
+Vorher habe ich noch etwas gemacht, wofür ich mich nicht schäme, obwohl
+es lächerlich ist.
+
+Ich habe mein Telefon durchgesehen, ob ich ein Bild von ihm habe.
+
+Ich hatte keins.
+
+Sieben Wochen lang war ich zweimal die Woche in diesem Haus. Ich habe
+ihn hochgehoben, gewickelt, ins Bett gebracht, ich habe ihm einen
+Holzlaster gekauft, und ich habe in sieben Wochen kein einziges Mal auf
+den Auslöser gedrückt, weil ich mir eingebildet habe, dass ein Foto
+etwas beansprucht, worauf ich kein Recht habe.
+
+Es gab in meinem Telefon dreihundert Bilder von Baustellen und keins von
+meinem Sohn.
+
+---
+
+Ich habe an diesem Morgen um zwanzig vor acht in meiner Küche gestanden,
+mit dem Telefon in der Hand, und das war die Stelle, an der es mich
+erwischt hat.
+
+Nicht der Satz mit dem *uns*. Nicht die Tür.
+
+Dreihundert Bilder von Baustellen.
+
+---
+
+Meine Mutter hat mich um elf gefragt, ob ich krank bin.
+
+„Nein.“
+
+„Du siehst aus wie dein Vater 1997.“
+
+Ich habe an diesem Vormittag nicht gewusst, was sie damit meint. Ich
+habe es am Abend erfahren, und das steht im nächsten Kapitel, und ich
+schreibe es nicht hier hin, weil ich es an diesem Vormittag noch nicht
+wusste und weil dieses Buch sonst nicht ehrlich wäre.
+
+Ich wusste an diesem Vormittag nur: Emil ist neunzehn Monate alt, ich
+habe kein Bild von ihm, und der einzige Mensch, der mir eins geben
+könnte, hat mir gestern die Tür aufgehalten und gewartet, bis ich
+draußen war.
+
+---
+
+# Kapitel 35 — Leni
+
+Am Morgen des vierundzwanzigsten Dezember stand ich um zwanzig nach vier
+unten und machte den Ofen an, obwohl der vierundzwanzigste Dezember der
+einzige Tag im Jahr ist, an dem ich nichts verkaufe.
+
+Ich habe neun Bleche gemacht.
+
+Ich habe sie später Sanne gegeben, dem Copyshop, Hauke, der Ausgabe an
+der Kirche und einem Mann, der um sieben mit einem Hund vorbeikam und
+sich erschrocken hat, als ich die Tür aufgemacht habe.
+
+Man kann sehr viel nicht denken, während man Blätterteig tourniert. Ich
+habe das in diesem Buch schon einmal geschrieben. An diesem Morgen hat
+es nicht funktioniert.
+
+---
+
+Um sechs kam Emil.
+
+Er kam nicht die Treppe herunter, dafür ist er zu klein; Frau Kettler
+kommt am Vierundzwanzigsten nicht, also war ich es, die ihn geholt hat.
+Er saß im Bett, hielt den Holzlaster fest und sagte den Laut mit dem
+harten Anfang.
+
+Und dann sah er an mir vorbei zur Tür.
+
+Ich habe ihn hochgenommen und in die Küche getragen und ihm Brot
+gegeben, und er hat dreimal zur Tür gesehen, und beim dritten Mal habe
+ich gesagt: „Heute nicht.“
+
+Ich habe zwei Sekunden gebraucht, um zu hören, was ich gesagt hatte.
+
+---
+
+Um halb neun habe ich mich an den Küchentisch gesetzt und aufgeschrieben,
+was jetzt eigentlich der Fall ist.
+
+Nicht, was ich fühle. Was der Fall ist. Ich kann das eine ohne das
+andere nicht.
+
+**Was sich am 22. Dezember um 17.40 Uhr geändert hat:**
+
+– Gläubiger: nicht mehr Hanseatische Volksbank, sondern Jonas Reinhardt,
+privat.
+– Betrag: unverändert 214.600 €.
+– Grundschuld: unverändert 260.000 €, mit Unterwerfung unter die
+sofortige Zwangsvollstreckung.
+– Frist: 15. Januar.
+– Meine Zahlungsfähigkeit: unverändert null.
+
+Ich habe die fünf Zeilen angesehen und darunter geschrieben:
+
+**Es hat sich nichts geändert.**
+
+Und dann habe ich den Satz durchgestrichen, weil er falsch ist.
+
+---
+
+Es hat sich alles geändert, und zwar in die falsche Richtung.
+
+Eine Bank ist kein Mensch. Eine Bank kündigt nach Frist, vollstreckt
+nach Frist und schreibt in jeden Brief eine Rechtsbehelfsbelehrung. Man
+kann eine Bank hassen, ohne dass es kompliziert wird. Man kann ihr
+gegenüber im Recht sein.
+
+Ein Mann, der einen fallen lässt, ist eine Sache. Ein Mann, der einen
+nicht fallen lässt, ist eine andere.
+
+Wenn Jonas Reinhardt am fünfzehnten Januar nicht vollstreckt — und er
+wird nicht vollstrecken, das wusste ich schon an diesem Morgen —, dann
+wohne ich ab dem sechzehnten Januar in einem Haus, das mir gehört, weil
+er es zulässt.
+
+Jeden Tag. Neu.
+
+Das ist kein Geschenk. Das ist eine Miete, die in einer Währung bezahlt
+wird, die man nicht abzählen kann.
+
+---
+
+Ich habe an diesem Vormittag versucht, eine dritte Liste zu schreiben,
+und ich habe sie nicht fertigbekommen.
+
+Die Überschrift lautete:
+
+**Was wahr sein müsste, damit ich es annehmen kann.**
+
+Darunter steht eine einzige Zeile, und sie ist mit einem anderen Stift
+geschrieben, weil der erste ausgegangen ist und ich zehn Minuten
+gebraucht habe, um einen zweiten zu finden, und in diesen zehn Minuten
+den Rest vergessen habe:
+
+*Dass er nichts davon hat.*
+
+Ich habe das Blatt zwei Wochen später wiedergefunden und lange
+angesehen, weil es zu diesem Zeitpunkt schon nicht mehr stimmte, und
+weil ich mich nicht erinnern konnte, was ich damit gemeint hatte.
+
+Ich weiß es heute. Ich habe gemeint: *Dass er mich nicht dafür haben
+will.*
+
+Es hat mich fünf Wochen gekostet, das aufzuschreiben, und ich habe dafür
+einen Notartermin, ein Gutachten und eine Beiratssitzung gebraucht, und
+das ist ungefähr der teuerste Weg zu einem Satz, den ein Mensch nehmen
+kann.
+
+---
+
+Um vier kam Frau Kettler doch.
+
+Sie hatte gesagt, sie fährt um zwei zu ihrer Tochter nach Barmbek. Sie
+stand um vier vor der Tür, im Mantel, mit einer Tasche, und sagte:
+„Der Zug geht um halb sechs.“
+
+Sie hat den Mantel nicht ausgezogen. Sie ist in die Küche gegangen, hat
+in die Spüle gesehen, hat den Topf abgewaschen, den ich stehen gelassen
+hatte, und dabei mit dem Rücken zu mir geredet, so wie sie alles
+Wichtige mit dem Rücken zu mir redet.
+
+„Er kommt nicht mehr.“
+
+„Nein.“
+
+„Haben Sie ihn rausgeworfen oder ist er gegangen?“
+
+„Ich habe ihn rausgeworfen.“
+
+„Gut“, sagte Frau Kettler.
+
+Ich habe aufgesehen.
+
+„Ich meine das nicht so, wie Sie denken.“ Sie stellte den Topf auf das
+Abtropfbrett. „Ich meine: gut, dass Sie es waren. Ich habe zwanzig Jahre
+lang Frauen dabei zugesehen, wie sie darauf gewartet haben, dass einer
+von selbst geht, und danach haben sie sich vierzig Jahre lang gefragt,
+ob sie ihn hätten halten können.“
+
+Sie trocknete sich die Hände an einem Tuch, das nicht ihres war.
+
+„Sie wissen es. Das ist mehr, als die meisten haben.“
+
+„Das hilft nicht besonders, Frau Kettler.“
+
+„Nein“, sagte sie. „Es soll auch nicht helfen. Es soll stimmen.“
+
+An der Tür hat sie sich noch einmal umgedreht.
+
+„Der Kleine hat heute dreimal zur Tür gesehen.“
+
+„Ich weiß.“
+
+„Ich sage es nur.“
+
+„Ich weiß, dass Sie es nur sagen“, sagte ich, und das ist ein Satz, den
+wir seit zwei Jahren zueinander sagen, und es war das erste Mal, dass
+ich dabei geweint habe.
+
+---
+
+Sie ist gegangen. Ich habe die Tür abgeschlossen und die Rollos
+runtergelassen, alle vier, und die zweite Kurbel ging schwer wie immer.
+
+Dann bin ich an den Tresen gegangen und habe die Schublade unter der
+Kasse aufgezogen.
+
+Darin lagen: der Brief von der Bank vom vierten Dezember. Ein Anspitzer.
+Zwei Steine vom Elbstrand. Ein gefalteter Zettel mit vier Wörtern.
+
+Und eine blaue Mappe mit einem getippten Etikett, sechsunddreißig
+Seiten, die ich seit dem elften November nicht mehr aufgeschlagen hatte.
+
+Ich habe sie in die Hand genommen.
+
+Und dann habe ich sie zurückgelegt und die Schublade zugeschoben, und
+sie klemmte, und ich musste sie anheben und noch einmal drücken.
+
+Es war Viertel nach vier am vierundzwanzigsten Dezember, und ich hatte
+einen Sohn, eine Ente für zwei Personen im Ofen und
+zweihundertvierzehntausendsechshundert Euro Schulden bei einem Mann, der
+mich fragen wollte, ob wir es zusammen versuchen, und dem ich gesagt
+hatte, dass es kein *uns* gibt.
+
+Die Mappe habe ich am sechsundzwanzigsten wieder rausgeholt.
+
+Das war der Fehler, und es war der beste Fehler dieses Winters.
+
+---
+
+# Kapitel 36 — Jonas
+
 Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
 und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
 
@@ -7946,7 +8324,7 @@ gestellt.“
 
 ---
 
-# Kapitel 35 — Leni
+# Kapitel 37 — Leni
 
 Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
 Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich
@@ -8184,7 +8562,7 @@ das mache ich schon selbst.“
 
 ---
 
-# Kapitel 36 — Jonas
+# Kapitel 38 — Jonas
 
 Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
 Telefonat, so gut er es erinnerte, und zweimal wörtlich.
@@ -8393,7 +8771,502 @@ mich nie wieder anrufen.“
 
 ---
 
-# Kapitel 37 — Leni
+# Kapitel 39 — Leni
+
+Am sechsundzwanzigsten Dezember, einem Freitag, hat es den ganzen Tag
+geregnet, und ich habe die blaue Mappe aus der Schublade geholt und mich
+damit an Tisch neun gesetzt.
+
+Ich hatte sie am elften November zum letzten Mal aufgeschlagen, und
+damals bin ich bei Seite vier stehen geblieben, weil auf Seite vier ein
+Wort steht, das ich nicht mehr lesen wollte.
+
+*Alternativentwurf.*
+
+---
+
+Ich sage kurz, was in dieser Mappe ist, weil ich es beim ersten Mal
+selbst nicht verstanden habe.
+
+Sechsunddreißig Seiten. Ein getipptes Etikett. Kein Anschreiben.
+
+Seite eins bis neun: das Bauvorhaben, wie es beschlossen war. Mein Haus
+kommt darin nicht vor. Da, wo mein Haus steht, ist auf den Zeichnungen
+eine Fläche mit einer Schraffur.
+
+Seite zehn bis achtzehn: derselbe Entwurf mit meinem Haus. Der Hof, das
+Tor, die Durchfahrt. Auf Seite vierzehn ist der Baum eingezeichnet, um
+den ich im Oktober gebeten habe, mit Kronendurchmesser, und daneben
+steht handschriftlich: *Bestand prüfen — Anwuchs seit 1994?*
+
+Seite neunzehn bis dreißig: Kosten. Der Vergleich. Was der Umweg um mein
+Haus herum kostet, aufgeschlüsselt nach Gewerken.
+
+Seite einunddreißig bis sechsunddreißig: die Rechte. Wegerecht,
+Anbaurecht, Leitungsrecht. Was die Gesellschaft braucht, wenn mein Haus
+stehen bleibt.
+
+---
+
+Im November habe ich diese Mappe als das gelesen, was sie auf den ersten
+Blick ist: die Aufstellung eines Mannes, der mir mein Haus abkauft und
+mir zeigt, wie großzügig er dabei ist.
+
+Am sechsundzwanzigsten Dezember habe ich auf die Kopfzeile gesehen.
+
+Auf jeder Seite steht rechts oben ein Datum. Das ist bei Bauplänen so;
+mein Vater hat in einer Behörde gearbeitet, ich kenne diese Kopfzeilen,
+seit ich acht bin.
+
+Seite zehn bis achtzehn — der Entwurf mit meinem Haus — trägt das Datum
+**14.10.**
+
+Ich habe es dreimal gelesen.
+
+Am vierzehnten Oktober wusste Jonas Reinhardt nichts von Emil. Er wusste
+es am elften November. Zwischen den beiden Daten liegen achtundzwanzig
+Tage.
+
+Er hat den Entwurf, der mein Haus stehen lässt, achtundzwanzig Tage
+früher gezeichnet, als er wusste, dass oben ein Kind schläft, das ihm gehört.
+
+---
+
+Ich saß an Tisch neun, in einem geschlossenen Café, mit sechsunddreißig
+Seiten vor mir, und mir wurde langsam etwas klar, das nichts an dem
+zweiundzwanzigsten Dezember ändert und alles an dem, was ich über die
+sieben Wochen davor gedacht hatte.
+
+Ich hatte mir seit dem elften November erzählt, dass er mir das Dach
+bezahlt hat, weil er ein schlechtes Gewissen hatte. Dass er den Entwurf
+geändert hat, weil er etwas gutmachen wollte. Dass alles, was zwischen
+Oktober und November passiert ist, rückwirkend eine Reaktion auf ein
+Kind war.
+
+Das ist bequem. Es macht aus einem Mann, der bleibt, einen Mann, der
+zahlt.
+
+Und es stimmt nicht. Die Kopfzeile sagt, dass es nicht stimmt.
+
+---
+
+Ich habe an diesem Nachmittag noch etwas gefunden, und das war schlimmer.
+
+Auf Seite dreiunddreißig, unten, in derselben Handschrift wie der Baum:
+
+*Reallast 20 J. — sichert Voss auch gegen Rechtsnachfolger R.I. GmbH.*
+
+Ich habe das im November überlesen, weil ich nicht wusste, was eine
+Reallast ist.
+
+Es heißt: Er hat in einem Papier, das er mir freiwillig gegeben hat,
+eine Klausel eingebaut, die mich gegen **seine eigene Firma** schützt.
+Für den Fall, dass er nicht mehr da ist.
+
+Ein Mann, der einen Vertrag so baut, dass die andere Seite auch dann
+noch geschützt ist, wenn er selbst verschwindet, hat entweder ein sehr
+schlechtes Gewissen oder er rechnet damit, zu verschwinden.
+
+Ich habe erst im Januar verstanden, dass es das Zweite war, und warum.
+
+---
+
+Am siebenundzwanzigsten Dezember, einem Samstag, habe ich ihn angerufen.
+
+Ich habe vorher zwanzig Minuten mit dem Telefon in der Hand in der Küche
+gestanden, und ich habe mir vorgesagt, dass es um Emil geht, und das war
+zur Hälfte wahr, was der übliche Anteil ist.
+
+„Reinhardt.“
+
+Er hat sich mit dem Nachnamen gemeldet. Nach fünf Tagen. Bei meiner
+Nummer.
+
+„Ich bin’s.“
+
+Dann war es still.
+
+„Ich rufe wegen Emil an“, sagte ich. „Er hat dreimal am Tag zur Tür
+gesehen, und das geht seit Dienstag so, und ich habe nicht vor, ihm zu
+erklären, dass Erwachsene manchmal Sachen kaufen.“
+
+„Marlene —“
+
+„Nein. Nicht jetzt. Das andere klären wir, wenn ich weiß, wie ich es
+sagen will, und ich weiß es noch nicht.“ Ich sah aus dem Fenster auf das
+Gerüst. „Kommst du heute Nachmittag? An die Tür. Nicht rein.“
+
+Eine Pause, in der ich ihn atmen hörte.
+
+„Ja“, sagte er.
+
+„Um vier.“
+
+„Ja.“
+
+---
+
+Er war um vier da. Er hat geklingelt, obwohl die Tür offen stand.
+
+Wir haben in der Durchfahrt gestanden, im Regen, und er ist nicht
+reingekommen, weil ich ihn nicht reingebeten habe und weil er nicht
+gefragt hat.
+
+„Dienstag und Freitag“, sagte ich. „Zehn bis sechs. Du holst ihn unten
+ab und bringst ihn unten zurück.“
+
+„Ja.“
+
+„Kein Papier. Keine Vereinbarung. Wenn es nicht geht, sagt einer von uns
+das, und dann geht es nicht.“
+
+„Ja.“
+
+Dann hat er zur Seite gesehen und gesagt: „Silvester.“
+
+„Ja. Von wann bis wann?“
+
+„Nachmittags bis nachts? Er soll bei mir schlafen, wenn du einverstanden
+bist. Ich bringe ihn am ersten um zehn.“
+
+„Ja“, habe ich gesagt, und danach sechs Tage lang überlegt, ob das eine
+gute Idee ist.
+
+---
+
+Und dann kam der Satz, mit dem ich nicht gerechnet hatte.
+
+Ich hatte alles Mögliche erwartet — eine Entschuldigung, ein Angebot,
+einen Vorschlag zur Forderung, irgendetwas, das man unterschreiben kann.
+
+Er hat gesagt: „Darf ich ein Bild von ihm machen?“
+
+---
+
+Ich habe zwei Sekunden gebraucht.
+
+„Du hast kein Bild von ihm?“
+
+„Nein.“
+
+„Seit sieben Wochen nicht?“
+
+„Nein“, sagte Jonas und sah an mir vorbei in die Durchfahrt, wo nichts
+war. „Ich habe mir eingebildet, dass ich dazu erst fragen muss.“
+
+Ich stand in meiner eigenen Durchfahrt, mit nassen Haaren, und dachte an
+sechsunddreißig Seiten auf Tisch neun und an eine Kopfzeile vom
+vierzehnten Oktober.
+
+„Warte“, sagte ich.
+
+---
+
+Ich bin hochgegangen und habe Emil geholt und ihm die dicke Jacke
+angezogen, die er hasst, und bin mit ihm die Treppe runter.
+
+Er hat Jonas gesehen und diesen Laut gemacht, den mit dem harten Anfang,
+und er hat sich in meinen Armen nach vorne geworfen, so wie er das macht,
+wenn er woanders hinwill.
+
+Ich habe ihn abgesetzt. Er ist die vier Schritte gelaufen.
+
+Jonas ist in die Hocke gegangen, und dabei ist ihm der Mantel in die
+Pfütze gekommen, und er hat es nicht gemerkt.
+
+Er hat das Bild nicht sofort gemacht. Er hat erst eine halbe Minute
+dagesessen.
+
+Dann hat er das Telefon herausgeholt und einmal ausgelöst, unter der
+Lampe in der Durchfahrt, bei Regen, mit einem Kind in einer zu dicken
+Jacke vor einer Backsteinwand.
+
+Es ist kein gutes Foto. Ich habe es später gesehen. Emil ist unscharf,
+weil Emil sich bewegt, und die Lampe macht alles gelb.
+
+Er hat es nie ausgetauscht.
+
+---
+
+Als er weg war, bin ich wieder an Tisch neun gegangen, wo die
+sechsunddreißig Seiten noch lagen.
+
+Ich habe sie zusammengeräumt und zurück in die Schublade gelegt.
+
+Und dann habe ich mich hingesetzt und nichts getan, ungefähr eine
+Stunde lang, was ich seit sechs Jahren nicht gemacht hatte.
+
+Ich hatte ihm nicht verziehen. Ich habe ihm den ganzen Januar nicht
+verziehen, und ich bin bis heute nicht sicher, ob *verzeihen* das
+richtige Wort für das ist, was im Februar passiert ist.
+
+Aber ich hatte an diesem Samstag zum ersten Mal seit fünf Tagen einen
+Gedanken, der nicht aus Zahlen bestand:
+
+*Er hat kein Bild von ihm, weil er glaubt, dass er nichts darf.*
+
+Und darunter, ganz leise, den zweiten:
+
+*Wo hat er das gelernt?*
+
+Die Antwort darauf hatte mir seine Mutter im November gegeben, am
+Fenstertisch, mit einem Kinderpunsch vor sich, und ich hatte sie damals
+für eine höfliche Warnung gehalten:
+
+*Er ist es gewohnt, dass man ihm Dinge nicht sagt.*
+
+---
+
+# Kapitel 40 — Jonas
+
+Das Foto ist unscharf.
+
+Ich sage das gleich zu Anfang, weil sonst der Eindruck entsteht, dass es
+ein schönes Bild ist. Es ist kein schönes Bild. Emil hat sich bewegt,
+die Lampe in der Durchfahrt hat einen Gelbstich, den kein Telefon
+wegrechnet, und im linken Drittel steht eine Regentonne.
+
+Ich habe es am siebenundzwanzigsten Dezember um zwei Minuten nach vier
+gemacht und am selben Abend auf den Sperrbildschirm gelegt.
+
+---
+
+Frau Kuhlmann hat es am neunundzwanzigsten Dezember gesehen, als ich
+das Telefon auf den Tisch legte.
+
+Meine Assistentin arbeitet seit neunzehn Jahren für diese Familie. Sie
+hat meinen Vater erlebt, sie hat die Beerdigung organisiert, sie hat in
+den zwölf Jahren danach ungefähr viertausend Termine für mich gemacht
+und nie einen Kommentar dazu abgegeben.
+
+Sie hat auf den Bildschirm gesehen, dann auf mich, und dann hat sie
+gesagt: „Ihr Vater hatte auch nie eins.“
+
+„Von wem?“
+
+„Von Ihnen“, sagte Frau Kuhlmann und ging raus.
+
+---
+
+Zwischen den Jahren ist in diesem Haus fast niemand. Sie kommt
+trotzdem, drei Tage lang, weil sonst der Januar sie überrollt.
+
+Ich habe an diesem Vormittag nichts geschafft.
+
+Ich habe stattdessen etwas gerechnet, was man nicht rechnen sollte.
+
+In vier Monaten hatte ich für diese Frau ein Dach bezahlt
+(einundvierzigtausend), einen Entwurf umgebaut (vier Komma zwei
+Millionen entgangene Fläche), eine Anruferliste besorgt, eine Mappe mit
+sechsunddreißig Seiten aufgesetzt und eine Forderung über
+zweihundertvierzehntausendsechshundert Euro für
+einhundertsechsundachtzigtausend gekauft.
+
+Ich hatte sie in diesen vier Monaten **um nichts gebeten**.
+
+Nicht einmal. Kein einziges Mal.
+
+Und dann habe ich am siebenundzwanzigsten Dezember in einer Durchfahrt
+gestanden und um ein Foto gebeten, und sie hat *Warte* gesagt und ist
+hochgegangen und hat mir das Kind gebracht.
+
+Es hat vier Sekunden gedauert.
+
+---
+
+Ich habe mir das an diesem Tag so oft vorgesagt, dass es
+anfing, albern zu klingen, und dann habe ich es aufgeschrieben, weil ich
+Dinge erst glaube, wenn sie auf Papier stehen:
+
+*Alles, was ich ihr gegeben habe, hat sie kleiner gemacht.
+Das Einzige, worum ich gebeten habe, hat sie sofort gegeben.*
+
+Ich bin sechsunddreißig Jahre alt und habe das im Dezember 2025 zum
+ersten Mal in dieser Reihenfolge gedacht.
+
+---
+
+Am neunundzwanzigsten Dezember rief Bastian an.
+
+Mein jüngster Bruder ruft nicht an. Bastian schreibt Nachrichten um
+zehn nach elf abends und beantwortet keine Rückfragen. Bastian war seit
+2019 nicht mehr an Heiligabend zu Hause.
+
+„Bist du allein?“
+
+„Ja.“
+
+„Gut“, sagte er. „Mama hat mir erzählt, was sie dir am
+Vierundzwanzigsten gesagt hat.“
+
+Ich habe mich hingesetzt.
+
+„Sie erzählt dir so etwas?“
+
+„Sie erzählt mir *alles*, Jonas. Seit sechs Jahren. Das ist der
+Unterschied zwischen uns beiden: Ich rufe sie sonntags an und frage, wie
+es ihr geht, und du überweist die Pflegekraft.“
+
+Das saß, und es stimmte, und er hat mir keine Zeit gelassen.
+
+„Ich will dir was sagen, und dann leg ich auf, weil ich das nicht gut
+kann.“
+
+---
+
+„Ich bin nicht weggegangen, weil ich die Firma nicht mochte“, sagte
+Bastian. „Ich bin weggegangen, weil ich mit vierundzwanzig gesehen habe,
+was aus dir geworden ist, und weil das die einzige Art war, in dieser
+Familie erwachsen zu werden, die ich mir zugetraut habe.“
+
+„Danke.“
+
+„Das ist kein Angriff. Hör zu.“ Ich hörte, wie er irgendwo eine Tür
+zumachte. „Vater hat 1997 das Haus von Mama verkauft und ihr vier Tage
+später einen Ordner hingelegt. Jede Zahl hat gestimmt. Sie hat
+achtundzwanzig Jahre gebraucht, um das jemandem zu erzählen, und sie hat
+es dir erzählt, weil du gerade dasselbe gemacht hast.“
+
+„Ich weiß.“
+
+„Nein, du weißt es nicht. Du weißt es seit fünf Tagen und hältst es für
+eine Schuld.“ Eine Pause. „Es ist keine Schuld. Es ist eine
+Bedienungsanleitung.“
+
+---
+
+Ich habe nichts gesagt, und mein Bruder, der das nicht gut kann, hat
+weitergeredet.
+
+„Du hast dieser Frau ihr Problem weggenommen. Alle Probleme, der Reihe
+nach. Dach, Entwurf, Bank. Wenn du jetzt noch das letzte wegnimmst, ist
+sie schuldenfrei und du bist der Grund dafür, und dann kann sie in ihrem
+ganzen Leben nicht mehr feststellen, ob sie dich will oder ob sie dich
+braucht.“
+
+„Und was soll ich machen?“
+
+„Nichts.“
+
+„Bastian —“
+
+„Ich meine es wörtlich.“ Er klang zum ersten Mal in diesem Gespräch
+nicht wütend. „Sorg dafür, dass sie am Ende ohne dich klarkommt. Und
+dann steh da und guck, was passiert. Wenn sie dann kommt, hast du eine
+Antwort, die man nicht kaufen kann. Wenn sie nicht kommt, hattest du
+recht mit dir, und das wolltest du sowieso schon immer.“
+
+„Das ist der schlechteste Rat, den ich je bekommen habe.“
+
+„Nein“, sagte Bastian. „Das ist der einzige, den unser Vater dir nie
+gegeben hätte.“
+
+Dann hat er aufgelegt, ohne sich zu verabschieden, was er immer macht.
+
+---
+
+Ich habe zwei Stunden später Theo angerufen, weil ich es nicht
+ausgehalten habe.
+
+„Du hast ihr gesagt, dass sie entscheidet“, sagte ich.
+
+„Ja.“
+
+„Wortwörtlich. Am Vierundzwanzigsten, am Telefon, in einem Satz, den du
+mir vorgestern zweimal zitiert hast.“
+
+„Ja.“
+
+„Theo, das ist eine Zusage über achtzig Millionen Bauvolumen, gegeben
+von einem Architekten an eine Konditorin, an Heiligabend, ohne
+Rücksprache.“
+
+„Ich weiß“, sagte mein Bruder. „Ich schreibe es ihr nach den Feiertagen
+noch auf, damit sie es schwarz auf weiß hat. Sonst glaubt sie es nicht.“
+
+Er hat gelacht, einmal, ohne Freude, und dann hat er nichts mehr gesagt,
+was bei ihm bedeutet, dass er auf die Frage wartet.
+
+„Warum?“
+
+---
+
+„Weil sie mich am Vierundzwanzigsten angerufen hat“, sagte er, „und
+weil sie mir eine Frage gestellt hat, die in dieser Firma seit zwölf
+Jahren niemand mehr stellt.“
+
+„Welche?“
+
+„*Was ist die Dienstbarkeit wert?*“ Er machte eine Pause. „Jonas,
+überleg mal. Diese Frau sitzt an Heiligabend allein in einem Haus, das
+in drei Wochen versteigert wird, und sie ruft nicht dich an, um zu
+weinen, und nicht die Bank, um zu betteln. Sie ruft den Architekten an
+und fragt nach einem Preis.“
+
+„Ich weiß.“
+
+„Nein.“ Zum ersten Mal in diesem Gespräch klang mein Bruder scharf.
+„Du weißt es nicht, sonst hättest du nicht drei Wochen lang überlegt,
+wie du es für sie regelst.“
+
+---
+
+Wir haben danach eine Weile über Rothenburgsort geredet, weil wir beide
+nicht auflegen wollten und weil man in dieser Familie über Bauvorhaben
+redet, wenn es um etwas anderes geht.
+
+Und dann hat Theo etwas gesagt, das ich damals falsch verstanden habe.
+
+„Ich habe ihr auch aus einem zweiten Grund geschrieben.“
+
+„Nämlich?“
+
+„Weil ich wollte, dass wenigstens eine Sache in dieser Familie ohne
+Heimlichkeit ausgeht.“
+
+Ich habe *ja, ja* gesagt und an den zweiundzwanzigsten Dezember gedacht
+und daran, dass er mich meint.
+
+Er hat mich nicht gemeint.
+
+Ich habe das im Mai erfahren, an einem Freitagabend, in einer Küche am
+Kehrwieder, von einer Frau am Telefon, deren Namen ich bis zu diesem
+Anruf nicht gekannt habe.
+
+Theo hat im Dezember 2025 am Telefon gesessen und mir gesagt, dass er
+seit zehn Monaten lügt, und ich habe es für eine Bemerkung über mich
+gehalten.
+
+Das ist ungefähr das genaueste Bild, das ich von mir in diesem Jahr
+zeichnen kann.
+
+---
+
+Ich habe an diesem Abend eine halbe Stunde in meiner Küche gestanden,
+in einer Wohnung, in der seit dem achtzehnten Dezember ein
+Kinderzimmer ist, für ein Kind, das noch nie darin geschlafen hat.
+
+Und dann habe ich zwei Dinge gemacht.
+
+**Erstens:** Ich habe die drei Dateien im Ordner *Kehrwieder privat*
+geöffnet — Rückabtretung, Erlass, Brief — und alle drei gelöscht. Nicht
+in den Papierkorb. Endgültig, mit der Nachfrage, die man wegklicken
+muss.
+
+**Zweitens:** Ich habe die Frist im Kalender eingetragen, die bis dahin
+nur in meinem Kopf stand.
+
+**15. Januar — nichts tun.**
+
+Es steht heute noch da. Ich habe den Termin nie gelöscht, weil es der
+einzige Eintrag in zwölf Jahren ist, bei dem ich mich an alles erinnere:
+an den Tag, an dem ich ihn gemacht habe, an die Küche, an das Foto auf
+dem Bildschirm und an einen Bruder, den ich seit sechs Jahren für
+jemanden gehalten habe, der es sich leicht macht.
+
+---
+
+# Kapitel 41 — Leni
 
 Silvester war der Tag, an dem Emil zum ersten Mal in seiner Wohnung
 war.
@@ -8577,7 +9450,7 @@ und sagte: „Ich wusste nicht, was ich schreiben soll.“
 
 ---
 
-# Kapitel 38 — Jonas
+# Kapitel 42 — Jonas
 
 Ich habe das Kinderzimmer am sechzehnten Dezember bestellt und am
 achtzehnten aufgebaut, abends, allein, mit dem beiliegenden
@@ -8772,7 +9645,7 @@ ich habe es nicht einmal selbst geschrieben.
 
 ---
 
-# Kapitel 39 — Leni
+# Kapitel 43 — Leni
 
 Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
 sechs Absätze, kein Gruß von irgendjemandem.
@@ -9030,7 +9903,402 @@ sagen, was von ihr das Größte ist, was es gibt.
 
 ---
 
-# Kapitel 40 — Jonas
+# Kapitel 44 — Jonas
+
+Zwischen dem dritten und dem zwölften Januar habe ich neun Tage lang
+nichts getan, und das ist die schwerste Arbeit meines Lebens gewesen.
+
+Ich schreibe das hin, obwohl es lächerlich klingt neben dem, was in
+denselben neun Tagen eine Frau am Kehrwieder gemacht hat.
+
+Es bleibt trotzdem wahr. Ich kann Dinge tun. Ich kann keine Dinge lassen.
+
+---
+
+Am fünften Januar, einem Montag, rief Wendland an.
+
+Zweites Mal in neunzehn Jahren, dass er von sich aus anrief; das erste
+war der zweite Dezember. Ich habe an der Nummer im Display gesehen, dass
+es keine gute Nachricht wird.
+
+„Reinhardt. Ich sage Ihnen etwas, und Sie fragen mich nicht, woher ich
+es habe.“
+
+„Gut.“
+
+„Kellermann hat vor Weihnachten einen Grundbuchauszug für Kehrwieder
+zwölf angefordert. Über einen Notar, nicht selbst.“ Papier raschelte.
+„Das ist völlig legal und völlig eindeutig. Er geht ran.“
+
+Ich stand in meinem Büro am Fenster und sah auf einen Hafen, auf dem es
+um halb neun morgens noch dunkel war.
+
+„Verstanden.“
+
+„Sie klingen nicht überrascht.“
+
+„Ich bin nicht überrascht. Sie haben es mir am zweiten Dezember gesagt.“
+
+„Ich habe es Ihnen gesagt, damit Sie handeln“, sagte Wendland. „Nicht,
+damit Sie es sich merken.“
+
+---
+
+Und dann kam die Frage, auf die ich seit sechs Tagen keine Antwort
+hatte.
+
+„Was machen Sie jetzt?“
+
+„Nichts.“
+
+Es war lange still.
+
+„Reinhardt, ich habe Ihnen im Dezember gesagt, Sie sollen handeln wie
+ein Kaufmann und nicht wie ein Verliebter. Ich nehme das zurück, wenn
+Sie mir erklären, was das hier ist. Aber erklären Sie es mir.“
+
+Ich habe es versucht. Ich habe ungefähr vier Sätze gebraucht und beim
+vierten gemerkt, dass ich es zum ersten Mal laut sage:
+
+„Sie hat einen Steuerberater, einen Anwalt kann sie sich nehmen, und
+sie hat von meinem Bruder schriftlich, dass sie entscheidet. Wenn ich
+sie jetzt anrufe und ihr sage, dass Kellermann kommt, dann hat sie die
+Information von mir. Und dann ist jede Entscheidung, die sie danach
+trifft, ein Stück weit meine.“
+
+„Das ist Rhetorik.“
+
+„Nein“, sagte ich. „Das ist der ganze Streit, den wir am
+dreiundzwanzigsten Dezember hatten, in einem Satz.“
+
+Wendland hat eine Weile nichts gesagt, und dann hat er etwas gesagt,
+das nicht zu ihm passte.
+
+„Ich hoffe für Sie, dass sie es aushält.“
+
+---
+
+Ich habe in diesen neun Tagen Folgendes gemacht.
+
+Ich habe Emil am Dienstag geholt und am Freitag geholt, jeweils zehn bis
+sechs, unten in der Durchfahrt, vier Minuten Übergabe, nur über ihn.
+
+Ich habe drei Sitzungen zu Rothenburgsort gehabt und in der zweiten
+etwas beschlossen, an das ich mich nicht erinnere.
+
+Ich habe zweimal die Nummer gewählt und beide Male vor dem letzten
+Klingeln aufgelegt, was ich schon am zweiundzwanzigsten Dezember gemacht
+hatte und was ich für einen Charakterzug halte und nicht für ein
+Versehen.
+
+Und ich habe am achten Januar um Viertel nach elf am Fenster gestanden
+und gewusst, dass er gerade da ist.
+
+Das weiß man nicht. Ich habe es nicht gewusst. Ich habe es mir
+eingebildet, weil ein Mann wie Kellermann an einem Donnerstagvormittag
+kommt, wenn er weiß, dass sie allein hinter der Theke steht.
+
+Ich habe an diesem Vormittag zwischen elf und eins nicht gearbeitet.
+
+---
+
+Am neunten Januar, einem Freitag, um zwanzig nach fünf, rief er selbst
+an.
+
+Ich hatte diesen Mann bis dahin dreimal getroffen, alle drei Male auf
+Veranstaltungen, alle drei Male höflich.
+
+„Reinhardt. Kellermann. Haben Sie zwei Minuten?“
+
+„Nein.“
+
+„Dann eine.“ Er lachte kurz. „Ich war gestern am Kehrwieder. Sie hat
+abgelehnt. Vierhundertsechzig für das Gesamtobjekt, sie hätte
+zweihundertfünfundvierzig behalten, sie hat nein gesagt. Ich wollte, dass
+Sie das von mir hören und nicht aus dritter Hand.“
+
+„Warum?“
+
+„Weil ich mir das Vergnügen nicht nehmen lasse, Ihnen den Rest auch noch
+zu erzählen.“
+
+---
+
+Ich habe mich an den Schreibtisch gesetzt.
+
+„Sie hat nicht wegen Ihnen abgelehnt“, sagte Kellermann. „Das ist der
+Teil, den Sie sich merken sollten. Sie hat eine Nacht darüber
+nachgedacht, und am nächsten Morgen hat sie mich angerufen und *eine*
+Frage gestellt. Eine einzige. Ob ich das Erdgeschoss in den Vertrag
+schreibe.“
+
+„Und?“
+
+„Und ich habe nein gesagt, weil ich nicht lüge, wenn eine Unterschrift
+darunterkommt.“ Eine Pause. „Wenn ich ja gesagt hätte, hätte sie
+unterschrieben, Reinhardt. Am Samstag um elf. Sie hat es nicht wegen
+Ihnen gelassen. Sie hat es wegen eines Absatzes gelassen, den ich nicht
+schreiben wollte.“
+
+Ich habe auf die Tischplatte gesehen, die mein Vater 1998 gekauft hat.
+
+„Warum rufen Sie an?“
+
+„Weil Sie und ich dasselbe machen und ich Sie deshalb ganz gut leiden
+kann“, sagte Kellermann. „Und weil Sie sich seit Wochen einreden, Sie
+seien der Bessere von uns beiden. Sind Sie nicht. Sie hatten Glück mit
+dem Objekt. Ich hätte auch Glück haben können.“
+
+Dann hat er noch etwas gesagt, und das ist der einzige Satz aus diesem
+ganzen Winter, den ich nicht loswerde.
+
+„Ich bin am Kehrwieder fertig. In der Neustadt nicht. In Ottensen nicht,
+in Barmbek nicht, und in zwei Jahren stehe ich neben irgendeinem anderen
+Haus, das jemandem gehört, der um halb fünf aufsteht. Ich verschwinde
+nicht, Reinhardt. Ich bin die Sorte Wetter, die es hier gibt.“
+
+Dann hat er aufgelegt.
+
+---
+
+Ich bin an diesem Abend um Viertel nach acht nach Hause gefahren und
+habe in der Küche gestanden und mir dreimal hintereinander gesagt, dass
+es eine gute Nachricht ist.
+
+Sie hat abgelehnt. Das Haus gehört ihr. Die Frist läuft noch sechs Tage,
+und danach passiert nichts, weil ich derjenige bin, der nichts tut.
+
+Alles daran war gut.
+
+Und ich habe die halbe Nacht wach gelegen wegen eines Satzes, der mit
+mir nichts zu tun hatte:
+
+*Wenn ich ja gesagt hätte, hätte sie unterschrieben.*
+
+---
+
+Ich habe das nie mit ihr besprochen. Nicht im Februar, nicht im April,
+nicht am dreizehnten September.
+
+Ich schreibe es hier hin, weil dieses Buch sonst behauptet, ich hätte in
+diesem Winter irgendwann gewusst, dass es gut ausgeht.
+
+Ich habe es am neunten Januar um zwanzig nach fünf zum ersten Mal
+richtig verstanden: Sie hatte zwei Jahre lang ohne mich zurechtkommen
+müssen und dabei gelernt, wie es geht. Ich war nicht der Grund, aus dem
+sie geblieben ist.
+
+Ich war jemand, der danebenstand, als sie sich entschieden hat.
+
+Bastian hatte recht, und es war furchtbar.
+
+---
+
+# Kapitel 45 — Leni
+
+Der Bote kam am zwölften Januar um zwanzig nach neun, und um zwölf habe
+ich Sievers angerufen.
+
+Dazwischen liegen zwei Stunden und vierzig Minuten, und ich schreibe sie
+auf, weil in diesen zwei Stunden und vierzig Minuten alles entschieden
+worden ist, was danach kam.
+
+---
+
+**268.000 €.**
+
+Ich habe die Zahl zuerst nicht geglaubt und dann nicht verstanden und
+dann verstanden und mich hingesetzt.
+
+Meine Schulden: 214.600.
+
+Die Differenz: dreiundfünfzigtausendvierhundert.
+
+Ich habe im Kopf gerechnet, dann auf Papier, weil ich es im Kopf nicht
+glauben konnte, und dann noch einmal mit dem Taschenrechner aus der
+Schublade, der aus dem Jahr 2009 stammt und dessen Achterreihe klemmt.
+
+Dreimal dasselbe Ergebnis.
+
+Ich verkaufe kein Haus. Ich verkaufe ein Wegerecht, ein Anbaurecht und
+ein Leitungsrecht, ich bin danach schuldenfrei, ich habe
+dreiundfünfzigtausend übrig, und ich stehe am Montag danach um zwanzig
+nach vier in meinem eigenen Backraum.
+
+---
+
+Ich habe zehn Minuten am Fenster gestanden und auf das Gerüst gesehen.
+
+Und dann kam der Gedanke, der die zwei Stunden gekostet hat.
+
+Um das zu tun, muss ich zu ihnen.
+
+Nicht zu einer Bank. Nicht zu einem Makler. Zu der Gesellschaft, deren
+Geschäftsführer am zweiundzwanzigsten Dezember um siebzehn Uhr vierzig
+meine Schulden gekauft hat und den ich am dreiundzwanzigsten aus meinem
+Haus geworfen habe.
+
+Ich habe drei Wochen lang stolz darauf gewesen, dass ich nichts von ihm
+will.
+
+Und jetzt lag auf meinem Tresen ein Gutachten, das sagte: Das Einzige,
+was dich rettet, ist ein Geschäft mit ihm.
+
+---
+
+Ich bin um halb elf rüber zu Sanne gegangen.
+
+Der Copyshop hat vormittags zwei Kunden, und Sanne stand hinter dem
+Tresen und sortierte Kalender aus dem Vorjahr, die niemand mehr will,
+und ich habe ihr das Deckblatt hingelegt.
+
+Sie hat es gelesen. Sie hat lange gebraucht, weil Sanne alles zweimal
+liest.
+
+„Zweihundertachtundsechzig.“
+
+„Ja.“
+
+„Für nichts.“
+
+„Für drei Rechte.“
+
+„Leni.“ Sie hat den Kalenderstapel weggeschoben. „Für nichts, was du
+anfassen kannst. Dein Haus steht danach da wie vorher. Du hast dann
+nur —“ Sie suchte das Wort. „— weniger Rand.“
+
+„Ich weiß.“
+
+„Nimm es.“
+
+„Sanne.“
+
+„Nimm es“, sagte sie noch einmal. „Und jetzt sag mir, warum du seit zehn
+Minuten hier stehst, statt zu telefonieren.“
+
+---
+
+Ich habe es ihr gesagt, und es war das erste Mal, dass ich es überhaupt
+in Worte gefasst habe.
+
+„Weil es danach vorbei ist.“
+
+Sanne hat mich angesehen.
+
+„Wenn ich das mache“, sagte ich, „dann bin ich am fünfzehnten
+schuldenfrei. Und dann gibt es zwischen mir und Jonas Reinhardt genau
+noch eine Sache, und die ist neunzehn Monate alt und heißt Emil.“
+
+„Und?“
+
+„Und dann kommt er dienstags und freitags um zehn und bringt ihn um
+sechs zurück, und wir reden über Schlafzeiten, und das ist der Rest.“
+Ich hörte, wie meine Stimme klang, und es war mir unangenehm. „Solange
+ich Schulden habe, ist er in meinem Leben. Wenn ich sie loswerde, ist er
+in Emils Leben.“
+
+Sanne hat nichts gesagt, ungefähr fünf Sekunden lang, und das kann sie
+länger als jeder Mensch, den ich kenne.
+
+Dann hat sie gesagt: „Hörst du dich?“
+
+„Ja.“
+
+„Du überlegst gerade, ob du Schulden behältst, damit ein Mann einen
+Grund hat, vorbeizukommen.“
+
+„Nein.“
+
+„Doch“, sagte Sanne. „Und ich sage das nicht, um gemein zu sein, sondern
+weil ich dich seit wir sieben sind kenne und weil ich dich noch nie so
+reden gehört habe.“
+
+---
+
+Ich bin zurückgegangen und habe die Vitrine aufgefüllt, was ich um halb
+elf sonst nie mache.
+
+Und irgendwann, zwischen dem zweiten und dem dritten Blech, habe ich den
+Unterschied gefunden, auf den ich seit zwei Stunden gewartet hatte, und
+er ist so klein, dass man ihn nicht sieht, wenn man nicht danach sucht.
+
+**Wenn er mir die Schulden erlässt, nimmt er mir etwas ab.**
+
+**Wenn ich ihm ein Recht verkaufe, gebe ich ihm etwas.**
+
+Das eine ist ein Geschenk. Das andere ist ein Geschäft, bei dem eine
+Frau, die um halb fünf aufsteht, einer Immobiliengesellschaft eine
+Sache verkauft, die dieser Gesellschaft fehlt, zu einem Preis, den ein
+Fremder mit einem Stempel festgesetzt hat.
+
+Im ersten Fall bin ich jemand, der etwas bekommt.
+
+Im zweiten Fall bin ich die Verkäuferin.
+
+Ich habe zweiundvierzig Seiten und einen Stempel gebraucht, um das
+sagen zu dürfen, und ich habe es an diesem Vormittag laut gesagt, im
+leeren Laden, zu einem Blech Nussecken.
+
+---
+
+Um zwölf habe ich Sievers angerufen.
+
+„Voss. Ich habe das Gutachten.“
+
+„Zahl?“
+
+„Zweihundertachtundsechzigtausend.“
+
+Ich habe ihn zum ersten und einzigen Mal in sechs Jahren etwas sagen
+hören, das keine Zahl war. Es war ein Geräusch. Ich schreibe es nicht
+hin, weil er sich schämen würde.
+
+„Herr Sievers, ich möchte, dass Sie etwas für mich machen, und ich
+möchte, dass Sie es genau so machen, wie ich es sage.“
+
+„Ich höre.“
+
+„Sie rufen bei der Reinhardt Immobilien an. Nicht bei Jonas Reinhardt
+privat. Bei der Gesellschaft.“
+
+„Das ist derselbe Mann, Frau Voss.“
+
+„Nein“, sagte ich. „Das ist er ausdrücklich nicht. Und wenn er versucht,
+es zu einem privaten Gespräch zu machen, brechen Sie ab.“
+
+Eine Pause.
+
+„Und was biete ich an?“
+
+„Drei Grunddienstbarkeiten zum Gutachtenwert. Kein Cent Nachlass, kein
+Cent Aufschlag. Er zahlt zweihundertachtundsechzig, ich zahle davon
+zweihundertvierzehnsechs an ihn zurück, und der Rest bleibt bei mir.“
+
+„Frau Voss, das ist —“
+
+„Und noch etwas, Herr Sievers.“ Ich sah auf die Uhr über der Tür, die
+zwei Minuten vorgeht und die ich nie richtig stelle. „Sie fragen ihn
+nicht, ob er einverstanden ist. Sie sagen ihm, was ich verkaufe.“
+
+Er hat sechs oder sieben Sekunden gebraucht.
+
+„Frau Voss“, sagte Herr Sievers, „ich habe Ihnen im September geraten,
+das Haus zu verkaufen, und ich hatte recht, und ich bin froh, dass Sie
+nicht auf mich gehört haben.“
+
+Dann hat er aufgelegt und zwei Stunden später bei ihm angerufen, und
+was danach passiert ist, hat Jonas aufgeschrieben.
+
+---
+
+Ich habe an diesem Mittag hinter der Theke gestanden und gemerkt, dass
+mir die Hände zittern, und es war nicht Angst.
+
+Es war das, was Frau Kettler *Anfang* nennt.
+
+---
+
+# Kapitel 46 — Jonas
 
 Sievers rief am zwölften Januar um vierzehn Uhr an, zwei Stunden nach
 ihrem Anruf, und ließ mir keine Wahl.
@@ -9250,7 +10518,7 @@ Ich habe geschrieben: *Ich weiß.*
 
 ---
 
-# Kapitel 41 — Leni
+# Kapitel 47 — Leni
 
 Ich habe meine Mutter am dreizehnten Januar angerufen, an einem Montag,
 um Viertel nach acht abends, und ich habe damit eine Regel gebrochen,
@@ -9488,7 +10756,7 @@ Ich habe trotzdem beide Zeilen aufgehoben.
 
 ---
 
-# Kapitel 42 — Jonas
+# Kapitel 48 — Jonas
 
 Die Woche vor dem zwanzigsten Januar war die längste meines
 Berufslebens, und ich habe in ihr sehr wenig getan.
@@ -9674,7 +10942,7 @@ gedacht: Gut, dass er so viel gearbeitet hat.“
 
 ---
 
-# Kapitel 43 — Leni
+# Kapitel 49 — Leni
 
 Die Woche vor dem zwanzigsten Januar war die erste seit sechs Jahren,
 in der ich nichts tun konnte.
@@ -9888,7 +11156,7 @@ Anhang, und danach war die Reihenfolge wieder eine andere.
 
 ---
 
-# Kapitel 44 — Jonas
+# Kapitel 50 — Jonas
 
 Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
 
@@ -10109,7 +11377,7 @@ Ich hatte vergessen, dass Marlene Voss alles liest.
 
 ---
 
-# Kapitel 45 — Leni
+# Kapitel 51 — Leni
 
 Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
 
@@ -10391,7 +11659,7 @@ Diesmal habe ich es geglaubt.
 
 ---
 
-# Kapitel 46 — Jonas
+# Kapitel 52 — Jonas
 
 Sie hat den siebenundzwanzigsten Januar schon aufgeschrieben, und sie
 hat es besser gemacht, als ich es könnte.
@@ -10631,7 +11899,7 @@ Und daneben, weil ich nicht anders kann, eine Zeile mit fünf Wörtern:
 
 ---
 
-# Kapitel 47 — Leni
+# Kapitel 53 — Leni
 
 Der Grundbuchauszug kam am vierten Februar, in einem Umschlag mit
 Fenster, und ich habe ihn zwischen einer Rechnung für Backpapier und
@@ -10841,7 +12109,7 @@ jemand nachgesehen hat — und ich war es nicht.*
 
 ---
 
-# Kapitel 48 — Jonas
+# Kapitel 54 — Jonas
 
 Der Zustimmungsvorbehalt hat am elften Februar zum ersten Mal
 gegriffen, und ich habe an diesem Tag etwas über mich erfahren, das ich
@@ -11134,7 +12402,7 @@ dazugeschrieben:
 
 ---
 
-# Kapitel 49 — Leni
+# Kapitel 55 — Leni
 
 Meine Mutter ist am siebten Februar nach Hamburg gekommen, zum ersten
 Mal seit Emils Geburt.
@@ -11341,7 +12609,7 @@ Es ist die erste Zeile, die von mir ist.
 
 ---
 
-# Kapitel 50 — Jonas
+# Kapitel 56 — Jonas
 
 Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
@@ -11504,7 +12772,7 @@ hast und nicht drei.“
 
 ---
 
-# Kapitel 51 — Leni
+# Kapitel 57 — Leni
 
 Der März war der Monat, in dem alles gleichzeitig funktionierte, und
 genau deshalb war er schwer.
@@ -11777,7 +13045,7 @@ Und dann ist die Antwort ein Name und keine Lücke.
 
 ---
 
-# Kapitel 52 — Jonas
+# Kapitel 58 — Jonas
 
 Wir haben zwischen November und Mai viermal gestritten, und dreimal
 davon waren Kleinigkeiten, die keine waren.
@@ -12101,7 +13369,7 @@ gesagt worden sind, und es ist mir bis heute nicht ganz klar, warum.
 
 ---
 
-# Kapitel 53 — Leni
+# Kapitel 59 — Leni
 
 Am neunten April sind zum ersten Mal seit 1994 wieder Menschen in die
 oberen Etagen eingezogen.
@@ -12328,7 +13596,7 @@ Wir sind, glaube ich, ungefähr gleich weit.
 
 ---
 
-# Kapitel 54 — Jonas
+# Kapitel 60 — Jonas
 
 Am elften April habe ich einen Ring gekauft, und ich habe zweiundzwanzig
 Minuten in diesem Laden gebraucht, weil ich der Verkäuferin erst
@@ -12501,7 +13769,7 @@ ist.
 
 ---
 
-# Kapitel 55 — Leni
+# Kapitel 61 — Leni
 
 Ich habe im April jemanden eingestellt.
 
@@ -12612,6 +13880,133 @@ gesagt haben.
 
 ---
 
+Am Dienstag, dem vierzehnten, habe ich Merle den Nachmittag
+allein machen lassen.
+
+Nicht als Probe. Ich hatte nichts vor. Ich bin nach oben gegangen, habe
+mich auf mein eigenes Sofa gesetzt, um Viertel nach zwei, an einem
+Dienstag, und habe nichts getan.
+
+Ich habe das drei Minuten ausgehalten.
+
+Dann bin ich aufgestanden und habe angefangen, den Wäscheständer im
+vierten Zimmer wegzuräumen, der da seit sieben Jahren steht, und dabei
+habe ich gemerkt, was ich eigentlich mache.
+
+Ich mache Platz.
+
+Ich habe den Ständer stehen lassen, wo er stand, und mich wieder
+hingesetzt.
+
+---
+
+Am Mittwoch, dem fünfzehnten April, habe ich um zehn nach fünf hinter
+der Theke gestanden und die Kasse gezählt, und Merle war weg, und Emil
+war oben bei Frau Kettler, und ich habe eine Rolle Zweieuromünzen
+zweimal falsch gezählt.
+
+Ich habe an drei Dinge gedacht, in dieser Reihenfolge:
+
+**Erstens**, an einen Satz vom sechsundzwanzigsten März: *Sag es mir,
+wenn es ein anderer Tag ist.*
+
+**Zweitens**, an das, was er drei Tage später an derselben Theke gesagt
+hat, als er die Stühle von den Tischen nahm: *Ich frage noch mal. Nicht
+heute. Aber ich frage noch mal.*
+
+**Drittens**, dass jetzt zwanzig Tage vergangen sind und er nicht
+gefragt hat.
+
+Ich habe die Rolle hingelegt.
+
+Und dann habe ich zum ersten Mal seit sieben Monaten begriffen, dass er
+gar nicht fragen *wird*. Nicht aus Feigheit. Weil ich ihm im März in
+einem neunzig Zentimeter breiten Gang gesagt habe, dass ich es sage,
+wenn es ein anderer Tag ist, und weil dieser Mann sich seit sieben
+Monaten an alles hält, was ich sage, auch an das, was ich unbedacht
+sage.
+
+Er wartet auf einen Satz von mir.
+
+Und ich habe darauf gewartet, dass er mir das Warten abnimmt.
+
+---
+
+Meine Mutter hat vierzig Jahre lang darauf gewartet, gefragt zu werden.
+Sie hat es mir im Januar in Harburg gesagt, mit einem grauen Ordner auf
+dem Tisch, in dem kein einziges Fragezeichen steht.
+
+Ich bin zweiunddreißig. Ich habe achtzehn Tage gebraucht, um vier
+Wörter zu sagen, die ich schon aufgeschrieben hatte. Ich habe im März
+*nicht heute* gesagt, weil ich nicht ertragen konnte, dass es einfach
+ist.
+
+Ich habe in meinem ganzen Leben genau zweimal etwas gefragt, ohne zu
+wissen, was die Antwort sein wird: Theo am Vierundzwanzigsten und einen
+Gutachter, den ich bezahlt habe, bevor ich wusste, was er schreibt.
+
+Beide Male ging es um Geld.
+
+---
+
+Ich habe Frau Kettler nicht gefragt und Sanne nicht gefragt, weil ich
+diesmal wusste, was sie sagen würden, und weil das nicht der Punkt war.
+
+Ich habe stattdessen die Schublade unter der Kasse aufgezogen und den
+Anspitzer herausgenommen, den er mir am vierundzwanzigsten Oktober
+mitgebracht hat und den ich nie benutzt habe.
+
+Ich habe ihn eine Weile in der Hand gehalten.
+
+Dann habe ich den Bleistift genommen — den mit dem eingeprägten Namen,
+den es nicht mehr gibt — und ihn zum ersten Mal seit sechs Jahren nicht
+mit dem Messer gespitzt.
+
+Es dauerte vier Sekunden. Er wurde besser als mit dem Messer.
+
+Ich habe eine Weile auf die Späne gesehen und mich gefragt, wie viel
+anderes ich seit sechs Jahren mit dem Messer mache, weil meine
+Großmutter es so gemacht hat.
+
+---
+
+Um zehn nach sechs kam er, um Emil zurückzubringen, den er nicht geholt
+hatte — er kam einfach vorbei, mittwochs, was seit März so ist.
+
+Er stand in der Tür, im grünen Anorak aus dem Fundkorb, und fing an, mir
+zu erzählen, dass in Rothenburgsort etwas mit dem Siel ist.
+
+Ich habe ihn nicht ausreden lassen.
+
+„Samstag um acht“, habe ich gesagt. „Emil ist bei meiner Mutter.“
+
+Er hat aufgehört zu reden.
+
+Ich habe weiter die Kasse gezählt, weil ich ihn nicht ansehen konnte,
+und ich habe die Rolle Zweieuromünzen ein drittes Mal falsch gezählt.
+
+„Ja“, hat er gesagt.
+
+Und dann ist er stehen geblieben, ungefähr fünf Sekunden lang, und ich
+habe nicht hochgesehen, und dann hat er gesagt: „Ich bringe nichts mit“,
+und ist gegangen.
+
+---
+
+Ich habe abgeschlossen, die Rollos runtergelassen, alle vier, die zweite
+Kurbel geht schwer.
+
+Dann habe ich in meinem eigenen Laden gestanden und laut gesagt: „So.“
+
+Zu niemandem. Es war niemand da.
+
+Das ist die ganze Stelle in diesem Buch, an der ich etwas gefragt habe,
+ohne dass es um Geld ging, und es waren nicht einmal sechs Wörter, und
+es hat mich mehr gekostet als zweihundertvierzehntausendsechshundert
+Euro.
+
+---
+
 Am Donnerstag, dem sechzehnten, hat Jonas mir gesagt, dass er einen
 Ring gekauft hat.
 
@@ -12691,7 +14086,7 @@ wenn man sie aufschreibt.
 
 ---
 
-# Kapitel 56 — Jonas
+# Kapitel 62 — Jonas
 
 Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
 Mutter.“
@@ -12892,7 +14287,7 @@ Sie hat mir eine Schürze hingehalten, ohne sich umzudrehen, und gesagt:
 
 ---
 
-# Kapitel 57 — Leni
+# Kapitel 63 — Leni
 
 Ich bin um zwölf nach vier wach geworden, wie an vier von fünf Tagen,
 und zwei Minuten liegen geblieben und habe gehorcht, ob oben etwas ist.
@@ -13074,7 +14469,7 @@ Am Ende stand da:
 
 ---
 
-# Kapitel 58 — Jonas
+# Kapitel 64 — Jonas
 
 *Sie sind fertig. Er fängt an.*
 
@@ -13513,7 +14908,7 @@ Ich brauche ihn dafür nicht mehr.
 
 *Die Reinhardt-Brüder gehen weiter.*
 
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
+**Band 2 — Theo:** Achtzehn Monate verheiratet, und niemand in der
 Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
 
 ---
@@ -13543,7 +14938,7 @@ er kaufen wollte. — Sie haben es gerade gelesen.
 
 **Band 2 — Theo**
 *in Arbeit*
-Seit vierzehn Monaten verheiratet, und niemand in der Familie weiß,
+Seit achtzehn Monaten verheiratet, und niemand in der Familie weiß,
 dass es sie gibt. Am Montag läuft ihre Frist ab.
 
 **Band 3 — Niklas**

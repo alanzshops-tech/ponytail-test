@@ -1,192 +1,321 @@
 # Kapitel 58 — Jonas
 
-*Sie sind fertig. Er fängt an.*
+Wir haben zwischen November und Mai viermal gestritten, und dreimal
+davon waren Kleinigkeiten, die keine waren.
 
-Ich habe den Satz von Frau Özdemir für einen Satz über ein Kind
-gehalten, am letzten der acht Vormittage, im Flur zwischen den
-Gummistiefeln.
-
-Es hat bis in den Mai gedauert, bis ich gemerkt habe, dass er über mich
-war.
-
-Was zwischen dem letzten Februar und dem achten Mai passiert ist, ist
-nichts, was man in einem Protokoll unterbringt. Ich schreibe es
-trotzdem auf, weil dieses Jahr nicht an den zwei Stunden beim Notar
-entschieden wurde.
+Der vierte war am zweiten April, und ich hatte unrecht, und ich habe
+zwei Wochen gebraucht, um zu verstehen, warum.
 
 ---
 
-Wie es zwischen uns war in diesen Wochen, ehrlich, ohne es schöner zu
-machen:
+Es fing damit an, dass sie mir zuhörte, wie ich mit Emil rede.
 
-Ich hatte keinen Schlüssel. Ich habe auch keinen bekommen. Ich habe
-geklingelt, jedes Mal, auch als ich schon dreimal die Woche kam. Ich
-klingele bis heute.
+Wir waren in ihrer Küche, es war halb sieben, ich hatte ihn auf dem Arm
+und ihn zum Wickeltisch getragen, und dabei sage ich Sachen, die man
+sagt, damit man nicht schweigend ein Kind trägt.
 
-Bis Ende April haben wir nicht miteinander geschlafen. Wer wissen will,
-warum es dann doch passiert ist, muss bei ihr nachlesen; sie hat es
-aufgeschrieben, und sie hat recht damit, dass der Schrank links über
-der Spüle der eigentliche Vorgang war.
+„So. Jetzt hebt Jonas dich hoch. Jonas macht das jetzt.“
 
-Von den vier Streitigkeiten habe ich den einen aufgeschrieben, bei dem
-ich etwas gelernt habe. Die anderen drei waren: dass ich Emil aus dem
-Wagen hebe, ohne zu fragen, weil sie Angst hat, dass ich es besser kann
-als sie. Dass sie das Wort *Ihr Geld* benutzt. Und der Baubeginn im
-März.
+Sie stand am Herd und sagte, ohne sich umzudrehen: „Ist dir das
+aufgefallen?“
 
-Von den Donnerstagen habe ich auch schon geschrieben. Der schwerste von
-meiner Seite war der zweite: „Ich habe Angst, dass du das alles nur
-machst, damit Emil einen Vater hat.“
+„Was?“
 
-Ihrer, am dritten, war: „Ich habe deine Mutter noch nicht angerufen,
-obwohl sie mir im Dezember ihre Nummer aufgeschrieben hat, weil ich
-Angst vor dem Anruf habe.“
+„Du sagst *Jonas*.“
 
-Sie hat ihn zwei Tage später gemacht. Meine Mutter war anderthalb
-Stunden am Telefon und hat mir hinterher gesagt, Marlene sei „vernünftig
-für ihr Alter“, was in ihrem Wortschatz an dritter Stelle nach
-Heiligsprechung kommt.
+„Ich heiße so.“
+
+„Ja“, sagte Marlene. „Und du sagst es siebzigmal am Tag. Und du sagst
+nie das andere.“
 
 ---
 
-Ende Februar, an einem Donnerstag, machte sie die Schranktür auf, nahm
-den Zettel ab, der neben dem Dienstplan hing, und legte ihn vor mich hin.
+Ich habe das erst nicht ernst genommen, und das war der erste Fehler.
 
-**23.12., abends, nach dem Essen. Ich sage ihm alles. Auch den Betrag.
-Auch die Frist. Ohne Vorrede.**
+„Er soll es nicht wie ein Wort lernen, das man ihm eingesetzt hat“,
+sagte ich. „Er weiß es. Kinder wissen so etwas. Irgendwann sagt er es
+von selbst, und dann ist es echt.“
 
-„Der hing da zwei Monate“, sagte sie.
+„Und bis dahin?“
+
+„Bis dahin heiße ich Jonas.“
+
+Sie drehte den Herd aus. Das ist bei ihr, was bei Theo das Aufstehen von
+der Tischkante ist.
+
+„Jonas, das ist der größte Unsinn, den ich dich je habe sagen hören.“
+
+---
+
+Ich schreibe den Streit jetzt so hin, wie er war, mit dem Satz, der
+nicht hätte fallen dürfen.
+
+Sie sagte: „Kinder lernen keine Wörter, die niemand sagt. Das ist keine
+Erziehungstheorie, das ist Sprache. Er sagt *Ball*, weil hier den ganzen
+Tag jemand *Ball* sagt. Er sagt *Ma*, weil ich es seit
+einundzwanzig Monaten sage. Er wird *Papa* nicht erfinden.“
+
+Ich sagte: „Ich will nicht, dass er es sagt, weil ihm jemand gesagt hat,
+dass er es sagen soll.“
+
+„Das will ich auch nicht. Ich will, dass du es sagst. Über dich. Einmal,
+laut, in seiner Gegenwart, damit das Wort in diesem Raum vorkommt.“
+
+„Und wenn er es dann nicht benutzt?“
+
+„Dann benutzt er es nicht“, sagte sie. „Dann sagt er in einem Jahr
+*Jonas* und mit vier fragt er, und dann erklärst du es ihm. Das ist
+kein Unglück.“
+
+„Für dich nicht.“
+
+„Was soll das heißen?“
+
+Und dann sagte ich es.
+
+„Du hast zwei Jahre lang allein entschieden, was er weiß“, sagte ich.
+„Jetzt entscheide ich das einmal.“
+
+---
+
+Es wurde sehr still in dieser Küche.
+
+Ich habe das im selben Atemzug gewusst, so wie ich das mit der
+Grundschuld im September gewusst habe: nicht hinterher, sondern
+während der Satz noch in der Luft steht und man nichts mehr machen kann.
+
+Sie hat nicht geschrien. Sie hat den Topf in die Spüle gestellt und den
+Wasserhahn aufgedreht und ihn wieder zugedreht.
+
+„Geh bitte“, sagte sie.
+
+„Marlene —“
+
+„Nicht heute.“
+
+Sie hat dieses Wortpaar dreimal zu mir gesagt.
+
+Beim ersten Mal, im November, war es das, was mich am nächsten Morgen
+zur Wahrheit gebracht hat. Beim zweiten Mal, sieben Tage vorher, hatte
+ich meine Hand an ihrem Hals und habe sie zurückgenommen und bin nach
+Hause gefahren und habe gesagt, das sei in Ordnung.
+
+Beim dritten Mal habe ich verstanden, dass es kein Nein ist. Es ist eine
+Uhr. Sie sagt mir jedes Mal, wie spät es ist, und ich habe jedes Mal
+gemacht, was ein höflicher Mann macht, nämlich nichts.
+
+Ich bin gegangen.
+
+---
+
+Ich habe in dieser Nacht auf meinem Küchentisch gesessen und mir das
+Übliche vorgesagt.
+
+Dass es im Kern nicht falsch war. Dass sie tatsächlich zwei Jahre lang
+allein entschieden hat. Dass es einmal gesagt werden durfte.
+
+Es ist erstaunlich, wie lange man sich mit *im Kern nicht falsch*
+beschäftigen kann.
+
+Gegen zwei Uhr habe ich aufgehört und stattdessen die Frage
+angesehen, die schwerer war.
+
+Warum will ich es nicht sagen?
+
+Ich habe mir dafür einen Zettel genommen, weil ich ohne Papier nicht
+denken kann, und ich habe drei Antworten aufgeschrieben und die ersten
+beiden wieder durchgestrichen.
+
+Die erste war: *Weil er es selbst entscheiden soll.* Das ist die
+Antwort, die man Erziehungsratgebern entnimmt und die bei einem
+einundzwanzig Monate alten Kind bedeutungslos ist. Er entscheidet
+nichts. Er lernt.
+
+Die zweite war: *Weil ich kein Recht darauf habe.* Das klingt bescheiden
+und ist es nicht. Es ist ein Weg, sich vorher zu bestrafen, damit einen
+später niemand bestrafen kann.
+
+Die dritte habe ich nicht durchgestrichen.
+
+*Weil ich es sagen und er es nicht erwidern könnte.*
+
+---
+
+Das ist es. Das ist die ganze Sache, und sie hat nichts mit Emil zu tun.
+
+Ich bin ein Mann, der keine Frage stellt, deren Antwort er nicht kennt.
+Ich habe zwölf Jahre lang Verhandlungen so geführt. Ich habe zwei Jahre
+lang nicht angerufen, weil ein Anruf eine Frage gewesen wäre.
+
+Und jetzt stand ich in einer Küche und wollte warten, bis ein Kind mich
+ernennt, damit ich es nicht selbst behaupten muss und dabei etwas
+riskiere.
+
+Ich habe an diesem Nachtküchentisch etwas begriffen, das ich zwei Wochen
+später beim Ring wieder gebraucht habe: Ich verwechsle
+Zurückhaltung mit Anstand, und zwar zuverlässig, und zwar immer dann,
+wenn Zurückhaltung mich vor einem Nein schützt.
+
+Und dann habe ich den Zettel umgedreht und gemerkt, dass auf der
+Rückseite dasselbe steht.
+
+Sieben Tage vorher hatte ich in einem neunzig Zentimeter breiten Gang
+gestanden und die Hand gehoben, und als sie *nicht heute* gesagt hat,
+habe ich gesagt: *Ich frage nicht noch mal.*
+
+Das habe ich für Größe gehalten. Ich habe es sogar gut gefunden, wie es
+klang.
+
+Es heißt: Ich verlange, dass sie den Anfang macht, damit ich nicht
+derjenige bin, der etwas hört, das er nicht will.
+
+Zwei Fragen, dieselbe Feigheit. Bei der einen geht es um ein Wort mit
+vier Buchstaben, das ein Kind sagen soll. Bei der anderen geht es um
+mich.
+
+---
+
+Ich bin am Freitagmorgen um zwanzig vor sieben da gewesen.
+
+Sie machte auf, im Mantel über der Schürze, weil sie gerade die Rollos
+hochgezogen hatte.
+
+„Ich sage dir zuerst, was falsch war“, sagte ich, „und dann sage ich,
+was ich vorhabe, und du kannst beides zurückweisen.“
+
+Sie trat zur Seite.
+
+„Falsch war nicht, dass ich es gesagt habe. Falsch war, wofür ich es
+benutzt habe. Ich habe dir vorgeworfen, dass du zwei Jahre lang allein
+entschieden hast, weil ich in dem Moment verlieren wollte, ohne
+nachzugeben. Das ist der billigste Satz, den es zwischen uns gibt, und
+ich habe ihn genommen, weil er zur Hand war.“
+
+Sie sah mich an.
+
+„Und du hast recht mit dem Wort“, sagte ich. „Ich habe zwei Stunden
+gebraucht und danach noch vier, um zuzugeben, warum.“
 
 „Warum?“
 
-„Damit ich ihn jeden Morgen sehe.“ Sie setzte sich mir gegenüber. „Ich
-habe ihn heute abgenommen, weil ich gemerkt habe, dass ich ihn nicht
-mehr lese. Ich habe nur noch geguckt, ob er noch da ist.“
+„Weil ich Angst habe, dass ich es sage und er sieht mich an und sagt
+gar nichts.“
 
-Ich habe ihn behalten. Er liegt bei mir in der Schublade unter der
-Abschrift vom Jugendamt.
+Marlene stand in ihrem Café, zwischen zwölf Tischen, um zwanzig vor
+sieben, und sagte:
 
-Zwei Zettel. Meiner mit den fünf Punkten habe ich weggeworfen.
+„Das wird passieren. Das ist so ziemlich sicher.“
 
----
+„Ich weiß.“
 
-Bohrpfähle machen kein Hämmern. Sie machen ein Schlagen, das durch den
-Boden kommt und in den Zähnen ankommt, und man hält es in einem Café
-drei Tage lang nicht aus.
+„Und dann?“
 
-Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
+„Dann sage ich es am nächsten Tag noch mal“, sagte ich.
 
-„Der Baum kommt an die Stelle“, sagte er und zeigte.
+Sie hat genickt, einmal.
 
-„Der wird gestrichen“, sagte Marlene. „Bäume werden immer gestrichen.“
+„Und ich nehme etwas zurück“, sagte ich.
 
-„Nicht dieser.“ Theo trank. „Der steht seit November in der
-Ausführungsplanung, und ich habe ihn in drei Sitzungen verteidigt.
-Irgendwann geben sie auf.“
+Sie blieb stehen, wo sie stand, mit der Hand an der Lehne von Tisch
+zwei.
 
----
+„Am Donnerstag davor habe ich gesagt, ich frage nicht noch mal. Das war
+kein Anstand. Das war ein Weg, es dir zu überlassen, damit ich nicht
+derjenige bin, der etwas Falsches will.“ Ich sah sie an, und das war
+schwerer als der ganze Rest. „Ich frage noch mal. Nicht heute. Aber ich
+frage noch mal.“
 
-Am achten Mai wurde Emil zwei.
+Sie hat einen Moment gebraucht.
 
-Wir haben nicht groß gefeiert, weil zwei niemand feiert außer den
-Erwachsenen. Es gab nachmittags Kuchen im Café, mit Frau Kettler, ihrer
-Tochter, zwei Kindern aus Gruppe zwei und deren Müttern, und Emil hat
-die Kerzen nicht ausgepustet, sondern angefasst.
+„Gut“, sagte sie, und es klang nicht wie *in Ordnung*.
 
-Abends, als alle weg waren, saßen wir zu dritt am Fenstertisch. Nicht
-gedeckt, kein Anlass, Reste.
+Dann ist sie in den Backraum gegangen, und ich habe die Stühle von den
+Tischen genommen, weil es das Einzige war, was ich in diesem Moment tun
+konnte.
 
-Emil saß auf seinem Stuhl zwischen uns und schob Erbsen von einer Seite
-des Tellers auf die andere.
+Ich habe dabei gemerkt, dass ich das seit dem Herbst mache und dass mich
+noch nie jemand darum gebeten hat.
 
 ---
 
-Ich hatte einen Ring.
+Wir haben es am Samstag gemacht, dem vierten April, nachmittags, auf dem
+Teppich im Wohnzimmer, zwischen dem Holzlaster und einer Schüssel mit
+Bausteinen.
 
-Ich schreibe das hin, weil es zur Wahrheit gehört. Ich hatte ihn seit
-dem elften April in der Innentasche, ich habe ihn allein gekauft, in
-einem Laden am Neuen Wall, und ich habe der Verkäuferin genau erklärt,
-was für ein Mensch sie ist, damit sie mir nichts Blinkendes zeigt.
+Es gab keinen Plan. Marlene hat gesagt: „Nicht feierlich. Sonst kriegt
+er Angst.“
 
-Ich habe ihn an diesem Abend zweimal angefasst.
+Also saßen wir auf dem Boden, und irgendwann sagte sie:
 
-Und dann habe ich es nicht getan, und ich weiß genau, warum.
+„Emil. Guck mal.“
 
-Ein Antrag ist eine Frage, die keine ist. Man stellt sie mit einem Ring
-in der Hand und einem Kind daneben und einem Gesicht, auf dem alles
-steht, und dann gibt es genau eine Antwort, die nicht wehtut.
+Er guckte.
 
-Ich habe in diesem Jahr gelernt, was eine echte Frage ist. Eine echte
-Frage ist eine, bei der die andere Person nein sagen kann, ohne dass
-irgendetwas kaputtgeht.
+„Das ist Jonas“, sagte sie. „Und Jonas ist dein Papa.“
 
-Ich stelle sie irgendwann. Nicht an einem Abend, an dem sie einen Grund
-hätte, ja zu sagen.
+Und dann sah er mich an, und ich sagte, und meine Stimme war nicht so,
+wie ich sie haben wollte:
 
-Der Ring liegt in derselben Schublade. Ich habe ihn ihr nicht
-verheimlicht — sie weiß, dass er da ist. Sie hat gesagt: „Gut. Dann
-weiß ich, dass es kommt, und muss nicht raten.“
-
-Das ist der ganze Unterschied.
+„Ja. Ich bin dein Papa.“
 
 ---
 
-Um Viertel nach sieben ließ Emil die Erbsen liegen, drehte sich auf
-seinem Stuhl zu mir, streckte den Arm aus und hielt mir etwas hin.
+Emil hat mich zwei Sekunden angesehen.
 
-Es war eine Erbse.
+Dann hat er sich umgedreht, den Holzlaster genommen, ihn mir in die
+Hände gedrückt und gesagt: „Da.“
 
-Ich nahm sie.
+Sonst nichts.
 
-„Danke“, sagte ich.
+Wir haben danach eine Dreiviertelstunde einen Laster über einen Teppich
+geschoben, und um halb sechs gab es Brot mit Frischkäse, und um sieben
+lag er im Bett.
 
-Und mein Sohn sagte, sehr deutlich, mit dem harten Anfang, an dem er
-seit Weihnachten arbeitet:
+Ich habe im Flur gestanden und auf ein Gefühl gewartet, und es kam ein
+anderes, als ich erwartet hatte.
 
-„Papa.“
+Es war nicht Enttäuschung.
 
-Dann drehte er sich wieder um und schob weiter Erbsen.
-
-Marlene sah auf ihren Teller. Ich sah auf meinen. Keiner von uns beiden
-hat irgendetwas dazu gesagt, weil das Kind sonst gemerkt hätte, dass es
-etwas Besonderes war, und es soll nichts Besonderes sein.
-
-Später, als er im Bett lag, standen wir in der Küche und haben uns
-festgehalten, ohne ein Wort, zwei oder drei Minuten lang.
-
-Man kann sehr viel nicht sagen, während man jemanden festhält.
-
-Diesmal reichte es.
+Es war Erleichterung, und zwar die Sorte, die man hat, wenn eine Prüfung
+vorbei ist, die man sich selbst gestellt hat und von der niemand sonst
+wusste, dass sie stattfindet.
 
 ---
 
-Um zehn nach neun klingelte mein Telefon.
+Marlene stand in der Küchentür.
 
-Unbekannte Nummer. Ich wäre nicht rangegangen, aber Marlene sagte:
-„Geh ran, es ist Freitag, das ist nie die Arbeit.“
+„Und?“, sagte sie.
 
-Eine Frau. Jung, vielleicht dreißig. Sehr ruhig, und diese besondere Art
-von ruhig, die Menschen haben, die vorher lange geübt haben.
+„Er hat nichts gesagt.“
 
-„Herr Reinhardt? Jonas Reinhardt?“
+„Nein.“
 
-„Ja.“
+„Es war trotzdem richtig.“
 
-„Sie kennen mich nicht“, sagte sie. „Mein Name ist Amira. Ich bin seit
-vierzehn Monaten mit Ihrem Bruder verheiratet.“
+„Ja“, sagte sie. Und dann, während sie zwei Tassen aus dem Schrank nahm:
+„Weißt du, für wen das eben war?“
 
-Ich sah zu Marlene, die gerade zwei Tassen ausspülte.
+„Für mich.“
 
-„Theo hat mir gesagt, ich soll niemanden aus Ihrer Familie anrufen“,
-sagte die Frau. „Ich rufe trotzdem an, weil ich sonst am Montag das
-Land verlassen muss.“
+„Für dich“, sagte Marlene. „Das ist völlig in Ordnung. Es muss nur
+einer von uns beiden aussprechen.“
 
-Draußen fuhr eine Barkasse durchs Fleet, und das Licht lief über die
-Decke, so wie es das in diesem Haus immer tut.
+---
 
-„Wer ist dran?“, fragte Marlene.
+Frau Kettler hat es am Montag erfahren, von Marlene, in vier Wörtern.
 
-Ich hielt das Telefon fest.
+Sie hat den Teig weggestellt und die Hände abgewischt, so wie sie das
+macht, und dann hat sie zu mir gesagt — zu mir, nicht zu ihr, und es war
+der erste ganze Satz, den sie in sechs Monaten an mich gerichtet hat:
 
-„Ich glaube“, sagte ich, „meine Schwägerin.“
+„Ich habe im September zu Frau Voss gesagt, dass die Antwort irgendwann
+entweder ein Name ist oder eine Lücke.“
+
+„Das hat sie mir erzählt.“
+
+„Es ist jetzt ein Name“, sagte Frau Kettler und ging an den Ofen.
+
+Das war alles.
+
+Ich zähle es zu den drei oder vier besten Dingen, die mir in diesem Jahr
+gesagt worden sind, und es ist mir bis heute nicht ganz klar, warum.

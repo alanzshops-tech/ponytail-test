@@ -1,279 +1,201 @@
 # Kapitel 45 — Leni
 
-Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
+Der Bote kam am zwölften Januar um zwanzig nach neun, und um zwölf habe
+ich Sievers angerufen.
 
-Vier Zeilen Anschreiben. *Zur Kenntnis. Der Notartermin kann jederzeit
-stattfinden, oder auch nicht. Beides ist in Ordnung. J.*
-
-Neun Seiten Anhang.
-
-Ich habe alle neun gelesen, zweimal, mit dem Finger auf der Zeile, so
-wie ich Verträge lese, seit ich weiß, dass man Verträge so lesen muss.
-
-**TOP 4.** Er hat ihnen alles gesagt. Das Kind. Den dritten Dezember.
-Den zweiundzwanzigsten. Den Kaufpreis. Die Fristverlängerung auf meine
-Bitte. Es steht da in dieser Protokollsprache, die aus allem eine
-Wetterlage macht, und es ist trotzdem nicht zu übersehen, dass ein Mann
-in einem Raum mit sieben Leuten vier Minuten lang über sein Privatleben
-geredet hat.
-
-**TOP 6.** *Antrag auf Abberufung des Geschäftsführers. Abstimmung: 5
-Gegenstimmen, 2 Ja-Stimmen. Antrag abgelehnt.*
-
-Zwei. Es hätten vier sein müssen, damit er weg ist. Es waren zwei.
-
-Ich habe eine Weile auf diese Zahl gesehen.
-
-**TOP 7.** Da stand es.
-
-*Der Geschäftsführer bietet von sich aus den unwiderruflichen Verzicht
-auf seine Tantieme für drei Geschäftsjahre an (nach Durchschnitt der
-letzten fünf Jahre 360.000 €). Der Beirat nimmt an und lässt
-ausdrücklich vermerken, dass das Angebot vom Geschäftsführer selbst
-ausging.*
-
-In seinem Anschreiben stand davon kein Wort.
-
-Vier Zeilen. *Beides ist in Ordnung.*
+Dazwischen liegen zwei Stunden und vierzig Minuten, und ich schreibe sie
+auf, weil in diesen zwei Stunden und vierzig Minuten alles entschieden
+worden ist, was danach kam.
 
 ---
 
-Ich bin an diesem Abend nicht hingefahren, und ich sage auch, warum:
-weil ich dann hingefahren wäre wegen dreihundertsechzigtausend Euro.
+**268.000 €.**
 
-Das ist keine gute Reihenfolge. Das ist Dankbarkeit, und Dankbarkeit ist
-das, was man einem Wohltäter schuldet.
+Ich habe die Zahl zuerst nicht geglaubt und dann nicht verstanden und
+dann verstanden und mich hingesetzt.
 
-Ich habe im Dezember zu ihm gesagt, dass ich nicht in einem Leben leben
-kann, in dem mir jeden Morgen jemand etwas erlässt.
+Meine Schulden: 214.600.
 
-Das gilt auch, wenn er es gut macht.
+Die Differenz: dreiundfünfzigtausendvierhundert.
 
----
+Ich habe im Kopf gerechnet, dann auf Papier, weil ich es im Kopf nicht
+glauben konnte, und dann noch einmal mit dem Taschenrechner aus der
+Schublade, der aus dem Jahr 2009 stammt und dessen Achterreihe klemmt.
 
-In den sechs Tagen dazwischen kam er zweimal, am Freitag und am
-Sonntagnachmittag, und wir waren beide sehr höflich.
+Dreimal dasselbe Ergebnis.
 
-Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
-obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
-anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
-ob man einem Kind mit zwanzig Monaten schon Nüsse geben darf.
-
-Emil hat nichts davon gemerkt, und das war die ganze Absicht.
-
-Einmal, an der Tür, hat er gefragt: „Isst du eigentlich abends was?“
-
-Und ich habe gesagt: „Das steht nicht auf der Liste, Jonas.“
-
-Er hat genickt und ist gegangen, und ich habe die Tür zugemacht und bin
-im Flur stehen geblieben, bis ich den Wagen nicht mehr hörte.
+Ich verkaufe kein Haus. Ich verkaufe ein Wegerecht, ein Anbaurecht und
+ein Leitungsrecht, ich bin danach schuldenfrei, ich habe
+dreiundfünfzigtausend übrig, und ich stehe am Montag danach um zwanzig
+nach vier in meinem eigenen Backraum.
 
 ---
 
-Der Notartermin war am siebenundzwanzigsten Januar um neun Uhr, bei
-einem Notar am Neuen Wall, den weder er noch ich ausgesucht hatte,
-sondern Dr. Sassenberg.
+Ich habe zehn Minuten am Fenster gestanden und auf das Gerüst gesehen.
 
-Wir saßen uns gegenüber. Wir gaben uns die Hand.
+Und dann kam der Gedanke, der die zwei Stunden gekostet hat.
 
-Anwesend: der Notar, sein Mitarbeiter, Niklas Reinhardt für die
-Gesellschaft, Theo Reinhardt als Zeuge für die Pläne, Jonas Reinhardt
-persönlich als Verkäufer der Forderung, und ich.
+Um das zu tun, muss ich zu ihnen.
 
-Es dauerte zwei Stunden und zehn Minuten, weil ein Notar alles vorliest.
-Alles. Jede Anlage.
+Nicht zu einer Bank. Nicht zu einem Makler. Zu der Gesellschaft, deren
+Geschäftsführer am zweiundzwanzigsten Dezember um siebzehn Uhr vierzig
+meine Schulden gekauft hat und den ich am dreiundzwanzigsten aus meinem
+Haus geworfen habe.
 
-**Erstens:** Bestellung dreier Grunddienstbarkeiten zulasten meines
-Grundstücks, zugunsten der drei Grundstücke der Gesellschaft. Wegerecht,
-Anbaurecht, Leitungsrecht. Kaufpreis 268.000 €, fällig binnen zehn
-Tagen.
+Ich habe drei Wochen lang stolz darauf gewesen, dass ich nichts von ihm
+will.
 
-**Zweitens:** Kaufvertrag über die Darlehensforderung. Verkäufer: Jonas
-Reinhardt, privat. Käuferin: Marlene Voss. Kaufpreis: 186.000 €.
-
-Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
-Anschaffungspreis des Verkäufers entspricht und dass die Parteien
-übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
-
-„Ist das so richtig?“, fragte er.
-
-„Ja“, sagte Jonas.
-
-„Ja“, sagte ich.
-
-**Drittens** las er einen Absatz vor, bei dem ich zum ersten Mal an
-diesem Vormittag nach Luft geschnappt habe.
-
-*Mit dem Erwerb der Forderung durch die Schuldnerin vereinigen sich
-Forderung und Schuld in einer Person. Die Forderung erlischt
-(Konfusion).*
-
-„Konfusion“, sagte ich.
-
-„Ein alter Ausdruck“, sagte der Notar. „Vermengung. Es ist der einzige
-Fall, in dem eine Schuld verschwindet, ohne dass jemand sie bezahlt oder
-erlässt. Sie hört einfach auf zu existieren, weil niemand mehr da ist,
-der sie fordern könnte.“
-
-Ich sah über den Tisch.
-
-Jonas sah auf seine Hände.
+Und jetzt lag auf meinem Tresen ein Gutachten, das sagte: Das Einzige,
+was dich rettet, ist ein Geschäft mit ihm.
 
 ---
 
-**Viertens:** Löschungsbewilligung für die Grundschuld über 260.000 €.
+Ich bin um halb elf rüber zu Sanne gegangen.
 
-**Fünftens:** ein Blatt, das nicht auf der Tagesordnung stand.
+Der Copyshop hat vormittags zwei Kunden, und Sanne stand hinter dem
+Tresen und sortierte Kalender aus dem Vorjahr, die niemand mehr will,
+und ich habe ihr das Deckblatt hingelegt.
 
-Niklas schob es rüber. „Von der Gesellschaft. Nicht von meinem Bruder.
-Er weiß, was drinsteht, er hat es nicht formuliert.“
+Sie hat es gelesen. Sie hat lange gebraucht, weil Sanne alles zweimal
+liest.
 
-Eine Verpflichtung der Reinhardt Immobilien GmbH, im Erdgeschoss von
-Kehrwieder 12 auf zwanzig Jahre keine Nutzungsänderung zu verlangen, zu
-betreiben oder zu unterstützen, und diese Verpflichtung als Reallast
-eintragen zu lassen.
-
-Ich las es zweimal.
-
-„Warum?“, sagte ich.
-
-„Weil Sie es Herrn Kellermann angeboten haben und er es nicht
-unterschreiben wollte“, sagte Niklas. „Das hat sich herumgesprochen. In
-dieser Stadt spricht sich alles herum, Frau Voss, das haben Sie
-inzwischen gemerkt.“
-
-Ich unterschrieb um elf Uhr zehn.
-
-Ich hatte, als ich aus diesem Büro rausging, keine Schulden, ein Haus,
-zweiundachtzigtausend Euro auf dem Konto und ein Café, in dem in
-zwanzig Jahren immer noch ein Café sein muss.
-
-Auf der Treppe habe ich mich am Geländer festhalten müssen.
-
----
-
-Was ich mit dem Geld gemacht habe, der Reihe nach, weil es das ist, was
-im Kassenbuch steht:
-
-Neuer Ofen: 21.400. Der alte war von 1998 und hatte auf der linken Seite
-vierzig Grad weniger.
-
-Frau Kettler: ein richtiger Arbeitsvertrag über dreißig Stunden, mit
-Beiträgen, mit Urlaub, mit allem. Sie hat neun Jahre schwarz auf halbe
-Tage gearbeitet, weil ich es nicht anders bezahlen konnte, und sie hat
-nie ein Wort gesagt. Rückwirkend geht das nicht. Ab jetzt geht es.
-
-Sie hat den Vertrag gelesen, ihn hingelegt und gesagt: „Da steht
-Weihnachtsgeld.“
+„Zweihundertachtundsechzig.“
 
 „Ja.“
 
-„Frau Voss, ich bin einundsechzig.“
+„Für nichts.“
 
-„Dann kriegen Sie es eben nur noch viermal.“
+„Für drei Rechte.“
 
-Sie ist in den Backraum gegangen und eine Weile nicht wiedergekommen.
+„Leni.“ Sie hat den Kalenderstapel weggeschoben. „Für nichts, was du
+anfassen kannst. Dein Haus steht danach da wie vorher. Du hast dann
+nur —“ Sie suchte das Wort. „— weniger Rand.“
 
-Rest: auf ein Tagesgeldkonto, angefasst wird da nichts. Meine Großmutter
-hätte gesagt: Ein Laden ohne drei Monate Luft ist ein Hobby mit
-Kundschaft.
+„Ich weiß.“
 
----
+„Nimm es.“
 
-Und am dritten Februar, einem Dienstag, um Viertel nach zwei, bin ich
-zum ersten Mal in meinem Leben in ein Bürogebäude an der Ericusspitze
-gegangen.
+„Sanne.“
 
-Ich hatte keinen Termin. Das war Absicht.
-
-Unten fragte man mich nach dem Anlass. Ich sagte: „Privat“, und die Frau
-am Empfang sah mich an und rief oben an und sagte danach: „Vierter
-Stock.“
-
-Frau Kuhlmann wartete am Aufzug. Sie ist Ende fünfzig und hat mich
-angesehen wie eine Zollbeamtin und dann gesagt: „Er hat gleich einen
-Termin. Der Termin fällt aus.“
-
-„Ich brauche zehn Minuten.“
-
-„Sie kriegen so viele, wie Sie wollen“, sagte Frau Kuhlmann.
+„Nimm es“, sagte sie noch einmal. „Und jetzt sag mir, warum du seit zehn
+Minuten hier stehst, statt zu telefonieren.“
 
 ---
 
-Sein Büro ist scheußlich. Ich sage das mit Zuneigung. Es ist groß und
-grau und da hängt nichts an den Wänden außer einem Lageplan von 2011,
-und auf dem Schreibtisch stehen zwei Fotos, die beide neu sind, und auf
-beiden ist Emil.
+Ich habe es ihr gesagt, und es war das erste Mal, dass ich es überhaupt
+in Worte gefasst habe.
 
-Er stand auf, als ich reinkam, und blieb dann stehen, weil er nicht
-wusste, ob er um den Tisch herumgehen darf.
+„Weil es danach vorbei ist.“
 
-„Setz dich hin“, sagte ich. „Ich habe das geübt und ich kriege es nicht
-hin, wenn du so stehst.“
+Sanne hat mich angesehen.
 
-Er setzte sich.
+„Wenn ich das mache“, sagte ich, „dann bin ich am fünfzehnten
+schuldenfrei. Und dann gibt es zwischen mir und Jonas Reinhardt genau
+noch eine Sache, und die ist neunzehn Monate alt und heißt Emil.“
 
-Ich blieb stehen. Das gehörte nicht zum Plan, aber ich konnte nicht
-anders.
+„Und?“
 
-„Erstens“, sagte ich. „Punkt sieben. Ich habe es gelesen.
-Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben.“
+„Und dann kommt er dienstags und freitags um zehn und bringt ihn um
+sechs zurück, und wir reden über Schlafzeiten, und das ist der Rest.“
+Ich hörte, wie meine Stimme klang, und es war mir unangenehm. „Solange
+ich Schulden habe, ist er in meinem Leben. Wenn ich sie loswerde, ist er
+in Emils Leben.“
+
+Sanne hat nichts gesagt, ungefähr fünf Sekunden lang, und das kann sie
+länger als jeder Mensch, den ich kenne.
+
+Dann hat sie gesagt: „Hörst du dich?“
+
+„Ja.“
+
+„Du überlegst gerade, ob du Schulden behältst, damit ein Mann einen
+Grund hat, vorbeizukommen.“
 
 „Nein.“
 
-„Warum nicht?“
-
-„Weil es dann eine Rechnung gewesen wäre.“
-
-Ich nickte, weil das die richtige Antwort war und weil ich sie erwartet
-hatte und weil ich sie trotzdem hören musste.
-
-„Zweitens. Am achtzehnten Februar fängt Emil in der Kita an. Kirchenweg,
-Gruppe zwei, die Eingewöhnung geht über acht Tage. Man muss die ersten
-drei Vormittage dabeisitzen, in einem Raum mit vierzehn Kindern, auf
-einem Stuhl, der dreißig Zentimeter hoch ist, und darf nichts machen
-außer da sein.“
-
-Er sah mich an.
-
-„Ich kann das nicht allein“, sagte ich. „Nicht weil es zu schwer wäre.
-Weil ich morgens den Laden aufmache und Frau Kettler dienstags zum Arzt
-muss. Ich könnte es hinbiegen. Ich habe drei Jahre lang alles
-hingebogen.“ Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
-möchte dich fragen. Kommst du?“
+„Doch“, sagte Sanne. „Und ich sage das nicht, um gemein zu sein, sondern
+weil ich dich seit wir sieben sind kenne und weil ich dich noch nie so
+reden gehört habe.“
 
 ---
 
-Er hat nicht sofort geantwortet. Er hat eine Sekunde gebraucht, und in
-dieser Sekunde ist etwas mit seinem Gesicht passiert, das ich nicht
-beschreiben kann und auch nicht will.
+Ich bin zurückgegangen und habe die Vitrine aufgefüllt, was ich um halb
+elf sonst nie mache.
 
-„Ja“, sagte er. „Alle drei.“
+Und irgendwann, zwischen dem zweiten und dem dritten Blech, habe ich den
+Unterschied gefunden, auf den ich seit zwei Stunden gewartet hatte, und
+er ist so klein, dass man ihn nicht sieht, wenn man nicht danach sucht.
 
-„Es sind nur die ersten drei Vormittage.“
+**Wenn er mir die Schulden erlässt, nimmt er mir etwas ab.**
 
-„Ich habe acht gehört“, sagte Jonas. „Ich komme acht.“
+**Wenn ich ihm ein Recht verkaufe, gebe ich ihm etwas.**
 
-Ich stand da in diesem scheußlichen Büro und merkte, dass ich weine, was
-mir in fremden Räumen noch nie passiert ist.
+Das eine ist ein Geschenk. Das andere ist ein Geschäft, bei dem eine
+Frau, die um halb fünf aufsteht, einer Immobiliengesellschaft eine
+Sache verkauft, die dieser Gesellschaft fehlt, zu einem Preis, den ein
+Fremder mit einem Stempel festgesetzt hat.
 
-„Drittens“, sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
-sage, für die es zu früh ist.
+Im ersten Fall bin ich jemand, der etwas bekommt.
 
-Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
+Im zweiten Fall bin ich die Verkäuferin.
 
-Ich möchte, dass du mich fragst, bevor du das nächste Mal etwas für mich
-entscheidest. Und ich möchte lernen, dich zu fragen, und das war eben
-mein zweites Mal überhaupt, und ich habe zweiunddreißig Jahre
-Rückstand.“ Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
-hin. Ich glaube, das dauert ein Jahr.“
+Ich habe zweiundvierzig Seiten und einen Stempel gebraucht, um das
+sagen zu dürfen, und ich habe es an diesem Vormittag laut gesagt, im
+leeren Laden, zu einem Blech Nussecken.
 
-Er stand auf.
+---
 
-„Ich habe Zeit“, sagte er.
+Um zwölf habe ich Sievers angerufen.
 
-Das hat er im November schon einmal gesagt, am Telefon, als ich ihn zu
-dem Mittwoch eingeladen habe, an dem ich es ihm gesagt habe. *Es dauert
-länger.* — *Ich habe Zeit.*
+„Voss. Ich habe das Gutachten.“
 
-Diesmal habe ich es geglaubt.
+„Zahl?“
+
+„Zweihundertachtundsechzigtausend.“
+
+Ich habe ihn zum ersten und einzigen Mal in sechs Jahren etwas sagen
+hören, das keine Zahl war. Es war ein Geräusch. Ich schreibe es nicht
+hin, weil er sich schämen würde.
+
+„Herr Sievers, ich möchte, dass Sie etwas für mich machen, und ich
+möchte, dass Sie es genau so machen, wie ich es sage.“
+
+„Ich höre.“
+
+„Sie rufen bei der Reinhardt Immobilien an. Nicht bei Jonas Reinhardt
+privat. Bei der Gesellschaft.“
+
+„Das ist derselbe Mann, Frau Voss.“
+
+„Nein“, sagte ich. „Das ist er ausdrücklich nicht. Und wenn er versucht,
+es zu einem privaten Gespräch zu machen, brechen Sie ab.“
+
+Eine Pause.
+
+„Und was biete ich an?“
+
+„Drei Grunddienstbarkeiten zum Gutachtenwert. Kein Cent Nachlass, kein
+Cent Aufschlag. Er zahlt zweihundertachtundsechzig, ich zahle davon
+zweihundertvierzehnsechs an ihn zurück, und der Rest bleibt bei mir.“
+
+„Frau Voss, das ist —“
+
+„Und noch etwas, Herr Sievers.“ Ich sah auf die Uhr über der Tür, die
+zwei Minuten vorgeht und die ich nie richtig stelle. „Sie fragen ihn
+nicht, ob er einverstanden ist. Sie sagen ihm, was ich verkaufe.“
+
+Er hat sechs oder sieben Sekunden gebraucht.
+
+„Frau Voss“, sagte Herr Sievers, „ich habe Ihnen im September geraten,
+das Haus zu verkaufen, und ich hatte recht, und ich bin froh, dass Sie
+nicht auf mich gehört haben.“
+
+Dann hat er aufgelegt und zwei Stunden später bei ihm angerufen, und
+was danach passiert ist, hat Jonas aufgeschrieben.
+
+---
+
+Ich habe an diesem Mittag hinter der Theke gestanden und gemerkt, dass
+mir die Hände zittern, und es war nicht Angst.
+
+Es war das, was Frau Kettler *Anfang* nennt.

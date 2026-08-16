@@ -1,235 +1,186 @@
 # Kapitel 35 — Leni
 
-Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
-Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich
-nicht mitkomme.
+Am Morgen des vierundzwanzigsten Dezember stand ich um zwanzig nach vier
+unten und machte den Ofen an, obwohl der vierundzwanzigste Dezember der
+einzige Tag im Jahr ist, an dem ich nichts verkaufe.
 
-Emil und ich hatten eine Ente für zwei Personen, von der er drei Bissen
-aß, und danach saßen wir auf dem Boden vor dem Regal und er fuhr den
-Holzlaster durch die Christbaumkugeln, die wir am Neunzehnten sortiert
-und nie aufgehängt hatten.
+Ich habe neun Bleche gemacht.
 
-Um sieben fragte er zum vierten Mal an diesem Tag.
+Ich habe sie später Sanne gegeben, dem Copyshop, Hauke, der Ausgabe an
+der Kirche und einem Mann, der um sieben mit einem Hund vorbeikam und
+sich erschrocken hat, als ich die Tür aufgemacht habe.
 
-Er kann den Namen nicht. Es ist dieser Laut mit dem harten Anfang, und
-danach sieht er zur Tür.
-
-„Der kommt am Siebenundzwanzigsten“, sagte ich.
-
-Er versteht *Siebenundzwanzigster* nicht. Er versteht den Tonfall, in
-dem man so etwas sagt, und mein Tonfall war in dieser Woche nicht
-besonders gut.
+Man kann sehr viel nicht denken, während man Blätterteig tourniert. Ich
+habe das in diesem Buch schon einmal geschrieben. An diesem Morgen hat
+es nicht funktioniert.
 
 ---
 
-Ich hatte gekocht, für zwei, obwohl einer davon drei Bissen isst.
+Um sechs kam Emil.
 
-Meine Mutter hat angerufen, um sechs, wie jedes Jahr. Wir haben elf
-Minuten geredet. Sie hat gefragt, ob es uns gutgeht, und ich habe ja
-gesagt, und sie hat gesagt, das sei die Hauptsache, und dann haben wir
-beide nichts mehr gewusst.
+Er kam nicht die Treppe herunter, dafür ist er zu klein; Frau Kettler
+kommt am Vierundzwanzigsten nicht, also war ich es, die ihn geholt hat.
+Er saß im Bett, hielt den Holzlaster fest und sagte den Laut mit dem
+harten Anfang.
 
-Sie weiß nichts von der Bank. Sie weiß auch nichts von Jonas, außer dass
-es ihn gibt, seit ich es ihr im Dezember vor zwei Jahren gesagt habe.
+Und dann sah er an mir vorbei zur Tür.
 
-Ich hätte es ihr erzählen können. Es ist meine Mutter.
+Ich habe ihn hochgenommen und in die Küche getragen und ihm Brot
+gegeben, und er hat dreimal zur Tür gesehen, und beim dritten Mal habe
+ich gesagt: „Heute nicht.“
 
-Ich habe es nicht getan, und das ist derselbe Reflex wie bei allem
-anderen: Ich erzähle Dinge erst, wenn sie erledigt sind. Bei mir heißt
-Vertrauen offenbar, dass man jemandem hinterher berichtet.
-
----
-
-Nach dem Zubettbringen ging ich runter, weil ich die Kasse nicht
-abgerechnet hatte, und weil man an Heiligabend um halb neun allein in
-einer Wohnung über einem geschlossenen Café nicht sitzen bleiben kann.
-
-Die Schublade unter der Kasse geht seit Oktober leicht, seit jemand sie
-an einem Freitagmorgen mit einem Hobel und einem Stück Kerzenwachs
-repariert hat, und ich habe mich seitdem nicht ein einziges Mal daran
-gewöhnt.
-
-Drin lagen: der Brief von der Bank vom vierten Dezember. Der Stein vom
-Elbstrand. Die blaue Mappe. Und ganz hinten, unter dem
-Ersatz-Bonrollenpapier, das Kassenbuch meiner Großmutter.
-
-Ich hatte es seit der Übernahme nicht aufgeschlagen. Es ist nicht
-sentimental, das Ding, es ist ein DIN-A4-Buch mit einem grauen Deckel und
-Spalten, und meine Großmutter hat vierzig Jahre lang jeden Tag zwei
-Zeilen hineingeschrieben.
-
-Ich blätterte, weil ich nichts Besseres zu tun hatte.
-
-**März 1974.**
-
-Der Umsatz bricht ein. Man sieht es sofort, weil die rechte Spalte drei
-Wochen lang kleiner ist als die linke. Ich weiß, was das war: der
-Ölschock, dann der Winter, dann die Straßensperrung wegen der neuen
-Brücke, das steht in der Chronik, die im Flur hängt.
-
-Und dann, am 19. März, in der Zeile für Einlagen, in der Handschrift
-meiner Großmutter:
-
-*Von Frau Petersen geliehen 4.000,–*
-
-Und daneben, kleiner, weil es nicht in die Spalte passte:
-
-*Sie hat nicht gefragt warum.*
+Ich habe zwei Sekunden gebraucht, um zu hören, was ich gesagt hatte.
 
 ---
 
-Ich saß mit diesem Buch bis nach elf am Fenstertisch.
+Um halb neun habe ich mich an den Küchentisch gesetzt und aufgeschrieben,
+was jetzt eigentlich der Fall ist.
 
-Frau Petersen war die Kurzwarenhändlerin von schräg gegenüber. Ich kenne
-sie von Fotos. Sie ist 1989 gestorben, und in der Rückzahlungsspalte
-steht, verteilt über zweiundzwanzig Monate, jeder einzelne Betrag, und
-der letzte ist vom Januar 1976, und daneben hat meine Großmutter
-geschrieben: *erledigt, mit Torte.*
+Nicht, was ich fühle. Was der Fall ist. Ich kann das eine ohne das
+andere nicht.
 
-Meine Großmutter hat gefragt.
+**Was sich am 22. Dezember um 17.40 Uhr geändert hat:**
 
-Sie ist über die Straße gegangen, in einen Kurzwarenladen, und hat eine
-Frau gefragt, ob sie ihr viertausend Mark leiht, und dann hat sie es
-aufgeschrieben, in ihr eigenes Buch, wo sie es jeden Tag sehen musste.
+– Gläubiger: nicht mehr Hanseatische Volksbank, sondern Jonas Reinhardt,
+privat.
+– Betrag: unverändert 214.600 €.
+– Grundschuld: unverändert 260.000 €, mit Unterwerfung unter die
+sofortige Zwangsvollstreckung.
+– Frist: 15. Januar.
+– Meine Zahlungsfähigkeit: unverändert null.
 
-Ich habe in meinem ganzen Leben noch nie jemanden um etwas gebeten.
+Ich habe die fünf Zeilen angesehen und darunter geschrieben:
 
----
+**Es hat sich nichts geändert.**
 
-Ich möchte das nicht schöner machen, als es ist. Ich habe es zuerst als
-Kompliment an mich selbst gelesen. *Ich bin die, die es allein schafft.*
-So habe ich es zweiunddreißig Jahre lang gelesen.
-
-Es dauerte ungefähr bis Mitternacht, bis ich die Liste im Kopf hatte:
-
-Ich habe meine Mutter nicht gefragt, ob sie kommt, als Emil kam.
-
-Ich habe Frau Kettler nicht gefragt, ob sie länger bleiben kann; sie ist
-von selbst geblieben.
-
-Ich habe die Handelskammer erst gefragt, als es zu spät war.
-
-Ich habe Frau Petersens Enkelin, die den Laden heute als Copyshop führt
-und mich duzt, nie gefragt.
-
-Und ich habe Jonas Reinhardt zweimal nicht gefragt: nicht 2024, als ich
-schwanger war, und nicht im Dezember, als die Bank kündigte.
-
-Das ist kein Stolz. Stolz ist, wenn man etwas nicht annimmt. Ich habe
-nie etwas *angeboten bekommen*, weil ich nie gefragt habe, und dann habe
-ich das Nicht-Bekommen als Beweis genommen, dass niemand da ist.
-
-Ich habe es so eingerichtet, dass ich recht behalte.
+Und dann habe ich den Satz durchgestrichen, weil er falsch ist.
 
 ---
 
-Und dann kam der Satz meiner Mutter, wie er in jeder schlechten Nacht
-kommt.
+Es hat sich alles geändert, und zwar in die falsche Richtung.
 
-*Sie regeln erst alles, und dann sind sie weg.*
+Eine Bank ist kein Mensch. Eine Bank kündigt nach Frist, vollstreckt
+nach Frist und schreibt in jeden Brief eine Rechtsbehelfsbelehrung. Man
+kann eine Bank hassen, ohne dass es kompliziert wird. Man kann ihr
+gegenüber im Recht sein.
 
-Ich habe ihn diesmal angesehen, statt ihn nur zu denken.
+Ein Mann, der einen fallen lässt, ist eine Sache. Ein Mann, der einen
+nicht fallen lässt, ist eine andere.
 
-Er stimmt für meinen Vater. Er stimmt für den Mann, der 2003 an einem
-Dienstag die Tür zugemacht hat, nachdem er die Versicherungen umgeschrieben
-und den Wagen verkauft und meiner Mutter einen Ordner hingelegt hatte,
-in dem alles drin war.
+Wenn Jonas Reinhardt am fünfzehnten Januar nicht vollstreckt — und er
+wird nicht vollstrecken, das wusste ich schon an diesem Morgen —, dann
+wohne ich ab dem sechzehnten Januar in einem Haus, das mir gehört, weil
+er es zulässt.
 
-Er stimmt für ihn. Er ist nicht das Gesetz der Welt.
+Jeden Tag. Neu.
 
-Ich habe einen Satz meiner Mutter benutzt, um einen Mann zu beurteilen,
-den sie nie getroffen hat.
-
-Was er gemacht hat, war trotzdem falsch. Beides ist wahr, und beides
-gleichzeitig auszuhalten, war die Arbeit dieser Nacht.
-
----
-
-Am ersten Weihnachtstag habe ich geschlafen und nichts gedacht. Das war
-nötig.
-
-Am zweiten Weihnachtstag, vormittags, lag auf dem Fenstertisch immer
-noch der Entwurf.
-
-Er liegt da seit Oktober. Blatt vier, der Lageplan mit dem Hof, mit
-Theos Bleistiftlinien und meinen Bemerkungen am Rand und einem Kaffeering
-in der Ecke, den Jonas gemacht hat und über den er sich damals mehr
-geärgert hat als über den Beirat.
-
-Ich habe ihn hundertmal angesehen. Ich habe ihn nie *gelesen*.
-
-Der Hof entsteht zwischen vier Gebäuden. Drei davon gehören der
-Reinhardt Immobilien GmbH.
-
-Das vierte ist meins.
-
-Die Durchfahrt zum Kehrwieder — die einzige, durch die man mit einem
-Fahrzeug in diesen Hof kommt — geht unter meinem Haus durch. Das Tor ist
-meins. Die Wand, an die sie den Übergang bauen wollen, ist meine
-Rückwand. Die Leitungen, die sie neu verlegen müssen, laufen unter
-meinem Hinterhof.
-
-Ohne mich gibt es keinen Hof. Es gibt dann drei Häuser und eine Lücke.
-
-Das weiß ich seit Oktober.
-
-Und seit Oktober sitze ich abends mit einem Bleistift daneben und
-verhandle Höhen und Beläge und Entwässerung, und dann sage ich freundlich
-ja, weil es ein guter Entwurf ist und weil ich anständig bin.
-
-Ich habe das Wertvollste, was ich besitze, seit drei Monaten verschenkt,
-und dann habe ich mich darüber empört, dass mich jemand freikaufen will.
+Das ist kein Geschenk. Das ist eine Miete, die in einer Währung bezahlt
+wird, die man nicht abzählen kann.
 
 ---
 
-Am sechsundzwanzigsten Dezember um Viertel nach zwei rief ich Theo
-Reinhardt an.
+Ich habe an diesem Vormittag versucht, eine dritte Liste zu schreiben,
+und ich habe sie nicht fertigbekommen.
 
-Ich hatte seine Nummer, weil sie auf jedem Plan steht.
+Die Überschrift lautete:
 
-„Reinhardt.“
+**Was wahr sein müsste, damit ich es annehmen kann.**
 
-„Marlene Voss. Kehrwieder zwölf.“
+Darunter steht eine einzige Zeile, und sie ist mit einem anderen Stift
+geschrieben, weil der erste ausgegangen ist und ich zehn Minuten
+gebraucht habe, um einen zweiten zu finden, und in diesen zehn Minuten
+den Rest vergessen habe:
 
-Eine Pause, in der ich hörte, wie jemand eine Tür zumachte.
+*Dass er nichts davon hat.*
 
-„Frau Voss.“ Er klang vorsichtig. „Mein Bruder —“
+Ich habe das Blatt zwei Wochen später wiedergefunden und lange
+angesehen, weil es zu diesem Zeitpunkt schon nicht mehr stimmte, und
+weil ich mich nicht erinnern konnte, was ich damit gemeint hatte.
 
-„Ich rufe nicht wegen Ihres Bruders an. Ich rufe wegen des Hofs an, und
-zwar mit einer Frage, die Sie beantworten können und er nicht.“
+Ich weiß es heute. Ich habe gemeint: *Dass er mich nicht dafür haben
+will.*
 
-„Fragen Sie.“
+Es hat mich fünf Wochen gekostet, das aufzuschreiben, und ich habe dafür
+einen Notartermin, ein Gutachten und eine Beiratssitzung gebraucht, und
+das ist ungefähr der teuerste Weg zu einem Satz, den ein Mensch nehmen
+kann.
 
-Ich sah auf Blatt vier, auf das Tor, das meinem Haus gehört.
+---
 
-„Was ist die Dienstbarkeit wert?“
+Um vier kam Frau Kettler doch.
 
-Am anderen Ende war es ungefähr drei Sekunden still.
+Sie hatte gesagt, sie fährt um zwei zu ihrer Tochter nach Barmbek. Sie
+stand um vier vor der Tür, im Mantel, mit einer Tasche, und sagte:
+„Der Zug geht um halb sechs.“
 
-„Wie meinen Sie das?“, sagte Theo, und ich hörte genau, dass er es
-verstanden hatte.
+Sie hat den Mantel nicht ausgezogen. Sie ist in die Küche gegangen, hat
+in die Spüle gesehen, hat den Topf abgewaschen, den ich stehen gelassen
+hatte, und dabei mit dem Rücken zu mir geredet, so wie sie alles
+Wichtige mit dem Rücken zu mir redet.
 
-„Ich meine es genau so, wie es klingt“, sagte ich. „Sie brauchen ein
-Wegerecht durch meine Durchfahrt, ein Anbaurecht an meine Rückwand und
-ein Leitungsrecht unter meinem Hof. Alles drei für immer und
-grundbuchlich gesichert. Ich habe Ihnen das seit Oktober umsonst
-zugesagt, weil ich nett bin und weil mich niemand nach einem Preis
-gefragt hat.“
+„Er kommt nicht mehr.“
 
-„Frau Voss —“
+„Nein.“
 
-„Ich verkaufe mein Haus nicht“, sagte ich. „Ich verkaufe ein Recht. Das
-ist nicht dasselbe, und ich möchte wissen, was es wert ist. Nicht von
-Ihnen. Von jemandem, den wir beide nicht kennen.“
+„Haben Sie ihn rausgeworfen oder ist er gegangen?“
 
-Ich hörte ihn ausatmen.
+„Ich habe ihn rausgeworfen.“
 
-„Einen Gutachter“, sagte er.
+„Gut“, sagte Frau Kettler.
 
-„Einen Gutachter.“
+Ich habe aufgesehen.
 
-„Frau Voss, wissen Sie eigentlich, was Sie da gerade —“
+„Ich meine das nicht so, wie Sie denken.“ Sie stellte den Topf auf das
+Abtropfbrett. „Ich meine: gut, dass Sie es waren. Ich habe zwanzig Jahre
+lang Frauen dabei zugesehen, wie sie darauf gewartet haben, dass einer
+von selbst geht, und danach haben sie sich vierzig Jahre lang gefragt,
+ob sie ihn hätten halten können.“
 
-„Ja“, sagte ich. „Ich frage. Zum ersten Mal in meinem Leben, und
-ausgerechnet einen Reinhardt. Machen Sie sich darüber keine Gedanken,
-das mache ich schon selbst.“
+Sie trocknete sich die Hände an einem Tuch, das nicht ihres war.
+
+„Sie wissen es. Das ist mehr, als die meisten haben.“
+
+„Das hilft nicht besonders, Frau Kettler.“
+
+„Nein“, sagte sie. „Es soll auch nicht helfen. Es soll stimmen.“
+
+An der Tür hat sie sich noch einmal umgedreht.
+
+„Der Kleine hat heute dreimal zur Tür gesehen.“
+
+„Ich weiß.“
+
+„Ich sage es nur.“
+
+„Ich weiß, dass Sie es nur sagen“, sagte ich, und das ist ein Satz, den
+wir seit zwei Jahren zueinander sagen, und es war das erste Mal, dass
+ich dabei geweint habe.
+
+---
+
+Sie ist gegangen. Ich habe die Tür abgeschlossen und die Rollos
+runtergelassen, alle vier, und die zweite Kurbel ging schwer wie immer.
+
+Dann bin ich an den Tresen gegangen und habe die Schublade unter der
+Kasse aufgezogen.
+
+Darin lagen: der Brief von der Bank vom vierten Dezember. Ein Anspitzer.
+Zwei Steine vom Elbstrand. Ein gefalteter Zettel mit vier Wörtern.
+
+Und eine blaue Mappe mit einem getippten Etikett, sechsunddreißig
+Seiten, die ich seit dem elften November nicht mehr aufgeschlagen hatte.
+
+Ich habe sie in die Hand genommen.
+
+Und dann habe ich sie zurückgelegt und die Schublade zugeschoben, und
+sie klemmte, und ich musste sie anheben und noch einmal drücken.
+
+Es war Viertel nach vier am vierundzwanzigsten Dezember, und ich hatte
+einen Sohn, eine Ente für zwei Personen im Ofen und
+zweihundertvierzehntausendsechshundert Euro Schulden bei einem Mann, der
+mich fragen wollte, ob wir es zusammen versuchen, und dem ich gesagt
+hatte, dass es kein *uns* gibt.
+
+Die Mappe habe ich am sechsundzwanzigsten wieder rausgeholt.
+
+Das war der Fehler, und es war der beste Fehler dieses Winters.

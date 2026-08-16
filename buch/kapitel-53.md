@@ -1,224 +1,207 @@
 # Kapitel 53 — Leni
 
-Am neunten April sind zum ersten Mal seit 1994 wieder Menschen in die
-oberen Etagen eingezogen.
+Der Grundbuchauszug kam am vierten Februar, in einem Umschlag mit
+Fenster, und ich habe ihn zwischen einer Rechnung für Backpapier und
+einem Werbebrief für einen Kombidämpfer aus dem Kasten geholt.
 
-Ich schreibe das Jahr hin, weil es in der Chronik im Flur steht. Meine
-Großmutter hat die zweite und dritte Etage im Herbst 1994 leer geräumt,
-weil der letzte Mieter — ein Kontor für Schiffsausrüstung — aufgegeben
-hatte und weil sie mit siebenundsechzig nicht mehr die Kraft hatte, sich
-mit dem Denkmalamt über Fluchtwege zu streiten.
+Ich habe ihn mit an den Fenstertisch genommen und ausgebreitet, und dann
+habe ich zum ersten Mal in meinem Leben die Seite gelesen, auf der steht,
+was mir gehört.
 
-Zweiunddreißig Jahre. In meinem ganzen Leben war über mir nichts als
-Staub, Taubendreck und zwei Regalhalterungen aus der Zeit der Rösterei.
-
----
-
-Ich hatte mir das anders vorgestellt.
-
-Ich hatte gedacht, es kommt ein Umzugswagen und danach hört man Schritte.
-Was tatsächlich passiert ist: Ich habe morgens um zehn nach sieben
-aufgeschlossen, und um zwanzig nach sieben stand eine Frau in meinem
-Café und sagte:
-
-„Ich glaube, wir wohnen jetzt übereinander.“
-
-Sie heißt Britta Rüting, ist Hebamme, arbeitet im Schichtdienst und hat
-einen Mann, der bei der Wasserschutzpolizei ist, und eine Tochter von
-neun, die Ida heißt.
-
-„Vier Zimmer, achtundneunzig Quadratmeter“, sagte sie. „Wir haben
-zweieinhalb Jahre gesucht. Wissen Sie, wie viele Vermieter in dieser
-Stadt an eine Hebamme im Schichtdienst vermieten?“
-
-„Nein.“
-
-„Ich auch nicht. Es waren jedenfalls nicht viele.“
-
-Sie hat einen Kaffee getrunken, im Stehen, und dabei einmal an die Decke
-gesehen, so wie man das macht, wenn man sich seinen eigenen Fußboden von
-unten ansieht.
+Ich hatte sie vorher zweimal in der Hand gehabt. 2023 beim Notar, als
+ich geerbt habe, und im September, als Sievers sie brauchte. Beide Male
+habe ich sie nicht gelesen. Ich habe sie unterschrieben.
 
 ---
 
-In die dritte Etage sind zwei Männer eingezogen, Ende zwanzig, die eine
-Werkstatt für Schiffsmodelle betreiben und beide Tomasz heißen, was sie
-mir am ersten Tag erklärt haben, als wäre es ein Betriebsunfall.
+**Abteilung II.** Da stehen die Lasten und Beschränkungen.
 
-Ida Rüting kam am zweiten Tag nach der Schule runter und stellte sich an
-die Vitrine und sah sich alles an, sehr genau, von links nach rechts.
+Es stehen jetzt vier Eintragungen darin, und drei davon kosten mich
+etwas.
 
-„Was ist das Beste?“
+*Wegerecht, Anbaurecht, Leitungsrecht — jeweils zugunsten der jeweiligen
+Eigentümer der Grundstücke Flurstück 1204, 1205 und 1207.*
 
-„Kommt drauf an, was du magst.“
+Nicht *zugunsten der Reinhardt Immobilien GmbH*. Zugunsten der
+Grundstücke.
 
-„Nein“, sagte Ida. „Was ist das Beste.“
+Ich habe eine Weile gebraucht, um zu verstehen, warum mich das getroffen
+hat, und dann habe ich es verstanden: Es ist egal, wem die drei
+Grundstücke in dreißig Jahren gehören. Es kann Kellermann gehören. Es
+kann einem Fonds gehören, den es heute noch nicht gibt. Das Recht hängt
+am Boden, nicht am Namen.
 
-Ich habe ihr ein Stück Zitronenkuchen hingestellt und nichts dafür
-genommen, und seitdem kommt sie jeden Dienstag und Donnerstag und
-bezahlt mit dem Geld, das sie von ihrem Vater bekommt, und ich nehme es,
-weil sie es sonst nicht wieder täte.
+Ich habe etwas verkauft, das über mich hinausgeht, und ich habe dafür
+einen Preis bekommen, den ein Fremder festgesetzt hat.
 
----
+Das ist ein Geschäft. Es ist das erste richtige Geschäft meines Lebens.
 
-Ich möchte hier etwas sagen, das ich im September nicht hätte sagen
-können.
+Die vierte Eintragung ist die Reallast. *Duldung der gastronomischen
+Nutzung im Erdgeschoss, Laufzeit zwanzig Jahre.* Sie steht als Belastung
+in meiner Abteilung II, obwohl sie mich schützt, und der Notar hat mir
+das erklärt, und ich habe es trotzdem dreimal gelesen.
 
-Diese beiden Etagen gehören mir. Sie gehören mir seit 2023, und sie
-haben mir bis vor zwei Wochen nichts eingebracht außer Heizkosten für
-einen Raum, den niemand heizt, und einem schlechten Gewissen.
+**Abteilung III** ist leer.
 
-Sie sind jetzt vermietet, und ich sehe von diesen Mieten fünfzehn Jahre
-lang keinen Cent.
+Da stand seit 2019 eine Grundschuld über zweihundertsechzigtausend Euro,
+und darunter, seit dem Winter, ein Vermerk.
 
-Das war mein Vorschlag. Ich habe ihn im September in einem
-Besprechungsraum am Alten Wandrahm gemacht, aus einem Blatt vom
-Küchentisch vorgelesen, weil ich kein Geld nehmen wollte.
+Jetzt steht da eine Zeile mit einer Nummer und dem Wort *gelöscht*, und
+sonst nichts, und der Rest der Spalte ist weiß.
 
-Ich habe ihn nicht bereut, und ich habe im April zum ersten Mal
-verstanden, was ich da eigentlich getauscht habe.
-
-Ich habe fünfzehn Jahre Miete gegen ein bewohntes Haus getauscht.
-
-Über mir wohnt eine Hebamme, die um vier Uhr nachts nach Hause kommt und
-im Treppenhaus die Schuhe auszieht, weil sie glaubt, dass sie mich sonst
-weckt. Ich bin um vier Uhr nachts wach. Ich habe es ihr noch nicht
-gesagt.
+Ich habe zwölf Minuten auf eine weiße Spalte gesehen.
 
 ---
 
-Und jetzt zu dem, wovor ich im März Angst hatte.
+In der Nacht auf den fünften bin ich um Viertel nach eins aufgewacht und
+nicht wieder eingeschlafen.
 
-Ich habe es aufgeschrieben, also stehe ich auch dazu: Alles, was uns
-zusammengehalten hat, war ein Problem. Erst das Haus, dann Emil, dann
-die Bank. Und dann gab es nichts mehr zu regeln, und ich habe gedacht,
-dann sieht man, was übrig bleibt.
+Ich bin runtergegangen, habe kein Licht gemacht außer dem über dem
+Arbeitstisch, und habe die vier Blätter aus der Mappe geholt, die er
+beim Notar rübergeschoben hatte.
 
-Was übrig geblieben ist, sah im April so aus.
+Ich hatte sie bis dahin nicht angesehen. Ich hatte danke gesagt und sie
+eingesteckt, und das war ehrlich gemeint, und ich hatte trotzdem nicht
+vor, sie jemals zu lesen, weil Lesen bedeutet hätte, dass ich prüfe.
 
-Am fünften, einem Sonntag, dem Tag nach dem Nachmittag auf dem Teppich,
-sind wir zu dritt nach Övelgönne gefahren und drei Stunden am Wasser
-gewesen.
+Um Viertel nach eins habe ich sie geprüft.
 
-Es gab keinen Anlass. Niemand hatte Geburtstag, niemand musste etwas
-besprechen, es stand nichts an. Wir haben Emil Steine ins Wasser werfen
-lassen, wir haben an einem Kiosk etwas gegessen, das nicht gut war, und
-wir haben eine Dreiviertelstunde über nichts geredet.
+Ich schreibe das hin, obwohl es mich schlecht aussehen lässt, weil
+dieses Buch sonst nichts wert ist.
 
-Ich habe das nicht ausgehalten.
+**Blatt eins:** Kaufvertrag mit der Bank, zweiundzwanzigster Dezember,
+186.000,00.
 
-Ich sage das ganz genau so, weil es stimmt: Ich habe nach ungefähr
-vierzig Minuten angefangen, im Kopf Dinge zu suchen, die man besprechen
-könnte. Kita-Zeiten. Die Frage, wer im Sommer Urlaub nimmt. Ob man den
-Anorak waschen kann.
+**Blatt zwei:** Kontoauszug. Dieselbe Zahl, Wertstellung
+dreiundzwanzigster. Darunter, gleicher Tag, 47,50 Euro
+Bearbeitungsentgelt.
 
-Und irgendwann hat Jonas gesagt, ohne mich anzusehen:
+**Blatt drei:** Die Rechnung seines Bruders. 2.856,00 brutto, bezahlt
+vom Privatkonto, nicht von der Gesellschaft.
 
-„Du suchst nach einem Thema.“
+**Blatt vier:** 188.903,50.
+
+Ich habe es mit dem Taschenrechner der Kasse nachgerechnet, weil das der
+Rechner ist, dem ich traue.
+
+Es stimmte auf den Cent.
+
+---
+
+Und dann habe ich das gemacht, was ich seit dem dreiundzwanzigsten
+Dezember eigentlich hätte machen wollen und nicht getraut habe: Ich habe
+das Ganze in die andere Richtung gerechnet.
+
+Er hat 188.903,50 aufgewendet.
+
+Er hat 186.000,00 bekommen.
+
+Er hat 2.903,50 Euro verloren und dafür gesorgt, dass in keinem einzigen
+Papier steht, dass er mir etwas geschenkt hat, weil ein Geschenk in
+meiner Steuerklasse dreißig Prozent gekostet hätte und weil ich es nicht
+angenommen hätte.
+
+Und er hat auf eine Tantieme von dreihundertsechzigtausend Euro
+verzichtet und es nicht dazugeschrieben.
+
+Ich saß um zwei Uhr nachts in einem dunklen Café und war wütend, und ich
+habe ungefähr zwanzig Minuten gebraucht, um zu verstehen, worauf.
+
+Nicht auf ihn.
+
+Ich war wütend, weil ich nachgerechnet hatte.
+
+---
+
+Am Morgen habe ich Sanne davon erzählt, über die Straße, im Copyshop,
+zwischen zwei Kunden.
+
+„Ich habe seine Zahlen kontrolliert“, sagte ich. „Nachts. Mit dem
+Kassenrechner.“
+
+Sanne legte einen Stapel in den Ausgabekorb.
+
+„Und?“
+
+„Es stimmte.“
+
+„Und jetzt schämst du dich.“
 
 „Ja.“
 
-„Ich auch“, sagte er. „Seit zehn Minuten.“
+„Warum?“
 
-Und dann haben wir beide gelacht, sehr lange, so wie man lacht, wenn man
-sich beim selben Fehler erwischt, und Emil hat mitgelacht, obwohl er
-nichts verstanden hat, und ein Mann mit einem Hund hat sich zu uns
-umgedreht.
+Ich stand da und wusste keine Antwort, und Sanne drehte sich um und sah
+mich an, mit dieser Ruhe, die sie hat, seit wir sieben sind.
 
----
+„Leni, du hast zwei Jahre lang jemandem misstraut, weil du keine Zahlen
+hattest“, sagte sie. „Jetzt hattest du welche, und du hast sie
+angesehen, und sie waren richtig. Das ist kein Misstrauen. Das ist die
+einzige Art, wie du jemals irgendjemandem trauen wirst.“
 
-Ich habe an diesem Sonntagabend, als er weg war, am Küchentisch
-gesessen und begriffen, dass meine Märzangst ein Denkfehler war.
+„Das klingt nicht besonders schön.“
 
-Ich hatte gedacht: Ohne Problem bleibt nichts.
-
-Es bleibt aber etwas. Es ist nur nichts, was man vorzeigen kann. Es sind
-drei Stunden an einem Sonntag, in denen zwei Erwachsene nichts zu
-verhandeln haben und es beide nicht können und darüber lachen.
-
-Das ist erstaunlich wenig, und es ist erstaunlich schwer, und es ist
-vermutlich das Einzige, was hält.
+„Nein“, sagte Sanne. „Aber es hält.“
 
 ---
 
-Der Donnerstag danach war der neunte — derselbe Tag, an dem oben
-eingezogen worden war.
+Am sechsten kam Herr Kubatz um zehn nach neun, wie an jedem Tag seit
+vier Jahren, und Sender legte sich unter Tisch sieben.
 
-Wir standen in meiner Küche, Emil schlief seit halb acht, und wir hatten
-unseren einen wahren Satz vor uns.
+Er las die Karte, die sich nicht ändert, und bestellte einen Kaffee und
+ein Stück von dem, was am längsten in der Vitrine lag.
 
-Ich hatte meinen seit Sonntag im Kopf und hatte ihn dreimal umgebaut,
-und ich habe ihn am Ende so gesagt, wie er zuerst gewesen war.
+Dann sagte er, während er das Geld abzählte:
 
-„Ich weiß nicht, wie das geht“, sagte ich. „Ich habe noch nie mit
-jemandem zusammen etwas gehabt, das kein Notfall war. Nicht mit meiner
-Mutter, nicht mit Sanne, nicht mit dir. Ich kann Krisen. Ich kann keine
-Sonntage.“
+„Frau Voss, Sie machen die Tür wieder anders zu.“
 
-Er hat die Tasse abgestellt.
+„Wie bitte?“
 
-„Das ist derselbe Satz wie meiner“, sagte er.
+„Die Tür zum Backraum.“ Er zeigte mit dem Kinn dorthin. „Seit dem
+Sommer machen Sie die immer mit dem Fuß zu, im Vorbeigehen, mit einem
+Knall. Seit dieser Woche machen Sie die mit der Hand zu.“
 
-„Was war deiner?“
+Ich sah zur Tür.
 
-„Meiner war: Ich weiß nicht, was ich hier eigentlich anbiete, wenn
-gerade nichts kaputt ist.“
+„Ich weiß nicht, was ich damit sagen will“, sagte Herr Kubatz. „Es ist
+mir nur aufgefallen.“
 
-Wir haben uns über den Küchentisch angesehen.
+Er nahm seinen Teller und setzte sich an Tisch sieben, und ich stand
+hinter der Theke, und mir liefen die Tränen über das Gesicht, in einem
+vollen Café, um zehn nach neun an einem Freitagmorgen, wegen einer Tür.
 
-„Wir sind ein Elend“, sagte ich.
+Ein Mann von siebzig, der seit vier Jahren jeden Tag hier sitzt und
+dessen Frau 2022 gestorben ist, hat mich angesehen und weitergegessen
+und mit keinem Wort so getan, als wäre etwas.
 
-„Wir sind zwei Leute, die in Projekten denken“, sagte Jonas. „Das ist
-das Gleiche, nur teurer.“
-
----
-
-Ich habe an diesem Abend noch etwas gesagt, und ich schreibe es hin,
-weil es das Einzige ist, was in diesem ganzen April wirklich etwas
-verändert hat.
-
-„Jonas.“
-
-„Ja?“
-
-„Wenn du mich in den nächsten Monaten irgendwas Großes fragst“, sagte
-ich, „dann sage ich ja.“
-
-Er wurde sehr still.
-
-„Und ich weiß nicht, ob ich es meine“, sagte ich. „Ich weiß nur, dass
-ich nicht nein sagen könnte. Nicht nach diesem Winter. Nicht mit dem
-Grundbuch, wie es jetzt aussieht.“
-
-Ich habe die Tassen genommen und in die Spüle gestellt, weil ich ihn
-dabei nicht ansehen wollte.
-
-„Das ist kein Vorwurf“, sagte ich. „Du hast nichts falsch gemacht. Ich
-sage es dir, weil du es sonst nicht wissen kannst, und weil das hier
-Donnerstag ist.“
+Das ist die Sorte Anstand, für die es in keiner Sprache ein Wort gibt.
 
 ---
 
-Er ist an diesem Abend gegangen, ohne etwas dazu zu sagen. Er hat
-gesagt: „Danke“, und dann: „Bis Freitag“, und dann ist er gefahren.
+Am Abend des sechsten Februar habe ich die Schublade unter der Kasse
+aufgemacht.
 
-Ich habe die Tür zugemacht und im Flur gestanden, bis ich den Wagen
-nicht mehr hörte, und gedacht, ich hätte etwas kaputt gemacht.
+Sie geht seit Oktober leicht.
 
-Er hat den Ring am elften gekauft. Das habe ich erst viel später
-erfahren, und als ich es erfahren habe, habe ich mir das Datum
-aufgeschrieben.
+Ganz hinten liegt das Heft, in dem sonst die Bestellungen stehen, und in
+diesem Heft steht auf der drittletzten Seite etwas, das ich im Sommer
+2024 geschrieben habe, mit einem anderen Stift und in einer Handschrift,
+die schneller war als meine heutige.
 
-Zwei Tage danach.
+*26.09., 11.40 Uhr, 1 Min 20. Nicht durchgestellt.*
 
-Er ist am übernächsten Tag losgegangen und hat einen Ring gekauft
-und ihn dann nicht benutzt, und er hat mir am dritten Tag gesagt, dass
-er da ist, und warum er nicht fragt.
+*08.10., 9.15 Uhr, 2 Min 05. Namen hinterlassen.*
 
-Ich habe zweiunddreißig Jahre gebraucht, um zu lernen, dass man Leute
-fragen darf.
+*22.10., 16.30 Uhr, 0 Min 40. „Lässt ausrichten.“*
 
-Er hat einen Tag gebraucht, um zu lernen, dass man manche Dinge nicht
-fragen darf, solange die Antwort feststeht.
+Ich habe diese drei Zeilen zwei Jahre lang aufgehoben, damit ich mir das
+nicht irgendwann selbst anders erzähle.
 
-Wir sind, glaube ich, ungefähr gleich weit.
+Ich habe sie nicht durchgestrichen. Sie stimmen.
+
+Ich habe darunter eine vierte Zeile geschrieben, mit dem Kugelschreiber,
+der neben der Kasse liegt, und dann habe ich das Heft zugemacht und
+zurückgelegt, weil es dahin gehört.
+
+*Sie sind angekommen. Alle drei. Es hat nur zwei Jahre gedauert, bis das
+jemand nachgesehen hat — und ich war es nicht.*

@@ -1,179 +1,270 @@
 # Kapitel 57 — Leni
 
-Ich bin um zwölf nach vier wach geworden, wie an vier von fünf Tagen,
-und zwei Minuten liegen geblieben und habe gehorcht, ob oben etwas ist.
+Der März war der Monat, in dem alles gleichzeitig funktionierte, und
+genau deshalb war er schwer.
 
-Oben war nichts, weil Emil in Harburg war.
+Das klingt undankbar. Ich versuche es zu erklären.
 
-Neben mir war jemand.
+Seit dem siebenundzwanzigsten Januar habe ich keine Schulden. Seit dem
+achtzehnten Februar ist Emil vormittags in der Kita. Seit dem
+einundzwanzigsten läuft der neue Ofen, der links dieselbe Temperatur hat
+wie rechts, worüber ich in der ersten Woche zweimal geweint habe, und
+zwar beide Male aus dem falschen Grund.
 
-Ich habe in diesen zwei Minuten in einem Bett gelegen, in dem seit drei
-Jahren niemand außer mir und gelegentlich einem fiebernden Kind gelegen
-hat, und ich habe nicht gewusst, wohin mit mir.
+Zum ersten Mal seit sechs Jahren habe ich vormittags drei Stunden, in
+denen niemand etwas von mir will.
 
-Dann bin ich aufgestanden und runtergegangen und habe den Ofen
-angemacht, weil das das Einzige ist, was um diese Zeit sicher richtig
-ist.
-
----
-
-Ich schreibe jetzt auf, was ich zwischen zwanzig nach vier und halb
-sechs gedacht habe, allein, mit den Händen im Teig, und ich mache es
-nicht schöner.
-
-**Das Erste** war Erleichterung, und zwar die falsche Sorte:
-Erleichterung darüber, dass ich unten war und er oben und dass zwischen
-uns eine Treppe lag.
-
-**Das Zweite** war die Frage, ob ich mir das Ganze gerade teuer erkauft
-habe. Ich habe seit dem siebenundzwanzigsten Januar keine Schulden. Ich
-habe mir ein Jahr lang mühsam beigebracht, dass ich diesem Mann nichts
-schulde. Und dann liegt man da und denkt, ob man jetzt wieder etwas
-schuldet, und dieser Gedanke ist eine Unverschämtheit — ihm gegenüber
-und mir gegenüber.
-
-Ich habe ihn trotzdem gedacht. Er ging nach ungefähr einer
-Viertelstunde wieder weg, und was danach kam, war einfacher.
-
-**Das Dritte** war das hier, und es hat mich umgeworfen.
-
-Ich habe neun Bleche aufgearbeitet, und irgendwann habe ich gemerkt,
-dass ich schneller war als sonst.
-
-Nicht viel. Vielleicht sechs, sieben Minuten auf die ganze Fuhre.
-
-Und der Grund war, dass ich zum ersten Mal seit sechzehn Monaten nicht
-mit einem halben Ohr nach oben gehört habe.
-
-Ich hatte nicht gewusst, dass das Arbeit ist. Man weiß das nicht,
-solange man es macht. Man merkt es in der Stunde, in der es aufhört.
+Ich habe in der ersten Woche nicht gewusst, was ich damit machen soll.
 
 ---
 
-Um Viertel vor sechs kam er runter.
+Ich habe angefangen, die Bücher aufzuräumen.
 
-Er hatte das Hemd von gestern an und die Haare falsch und sah aus wie
-jemand, der nicht weiß, ob er in dieser Küche etwas anfassen darf.
+Nicht die Buchhaltung — die macht Sievers. Die Bücher: das Kassenbuch
+meiner Großmutter, die Chronik im Flur, drei Kartons mit Rechnungen aus
+den Neunzigern, die im dritten Stock standen und die niemand je
+angesehen hat.
 
-Ich habe ihm die Schürze hingehalten, ohne mich umzudrehen.
+In der zweiten Woche fand ich in einem dieser Kartons einen Umschlag mit
+Fotos von der Rösterei. 1968, glaube ich. Meine Großmutter steht neben
+einer Maschine, die höher ist als sie, und sieht in die Kamera, als
+hätte man sie bei etwas gestört.
 
-„Blech drei bis fünf. Nicht stapeln, die sind heiß.“
+Auf der Rückseite steht in ihrer Handschrift: *Erste eigene Röstung.
+Hat nicht geschmeckt.*
 
-Er hat nichts gesagt. Er hat die Schürze umgebunden — er kann das
-inzwischen mit einer Hand, das haben ihn die Dienstage gelehrt — und die
-Bleche eingeschoben, und dann hat er das Wasser aufgesetzt, weil er
-weiß, wo alles steht.
-
-Und ich stand vor meinem eigenen Arbeitstisch und musste mich einen
-Moment festhalten, weil dieser Mann in meiner Küche in aller
-Selbstverständlichkeit an den Schrank links über der Spüle gegriffen
-hat.
-
-Das war es. Nicht die Nacht.
-
-Der Schrank links über der Spüle.
+Ich habe das Foto in den Flur gehängt, neben die Chronik.
 
 ---
 
-Um fünf vor sechs hat Hauke an die Seitentür geklopft.
+Die Bohrpfähle kamen am zehnten März.
 
-Ich habe aufgemacht, mit mehligen Händen, und Hauke stand da mit seinem
-Zwanzig-Euro-Schein und den abgezählten Münzen, und hinter mir stand ein
-Mann in einer Schürze und hielt zwei Bleche.
+Drei Tage, und ich habe zu, weil man in einem Café nicht sitzen kann, in
+dem der Boden schlägt. Reinhardt Immobilien hat den Ausfall ersetzt,
+ohne dass ich fragen musste, weil das in dem Vertrag von September
+steht, in einem Absatz, den Herr Sievers hineinverhandelt hat, als noch
+niemand ahnte, was daraus wird.
 
-Hauke ist Wachmann. Er ist sechs Nächte die Woche allein und sieht sehr
-genau hin, das ist sein Beruf.
+Ich habe Sievers deswegen angerufen und mich bedankt.
 
-Er hat zwei Sekunden geguckt.
+Er hat gesagt: „Das war mein Job, Frau Voss.“ Und dann, nach einer
+Pause: „Ich hatte damals unrecht, übrigens. Mit dem Verkaufen.“
 
-Dann hat er zu Jonas gesagt: „Nass draußen.“
+„Sie hatten nicht unrecht. Es war der vernünftigere Rat.“
 
-Und Jonas hat gesagt: „Ja.“
-
-Hauke hat genickt, sein Rosinenbrötchen genommen und ist gegangen.
-
-Ich habe die Tür zugemacht und mich dagegen gelehnt und angefangen zu
-lachen und nicht mehr aufhören können, und Jonas stand mit zwei Blechen
-da und verstand kein Wort, und ich konnte es ihm nicht erklären, weil
-man das nicht erklären kann.
-
-Es hatte jemand hingesehen, und die Welt hatte nicht reagiert.
+„Ja“, sagte er. „Der vernünftigere.“
 
 ---
 
-Um zwanzig vor sieben die Rollos. Alle vier. Die zweite Kurbel geht
-immer noch schwer.
+Und jetzt der Teil, der schwer war.
 
-Um fünf nach sieben die beiden vom Zollmuseum, Tisch zwei, sechs
-Minuten. Um zehn nach neun Herr Kubatz mit Sender.
+Jonas kam in diesem Monat dienstags, donnerstags und freitags. Er hatte
+keinen Schlüssel, er hat jedes Mal geklingelt, und wir hatten eine
+Verabredung, die von mir kam und die albern klingt: einmal in der Woche,
+donnerstags, wenn Emil im Bett ist, sagt jeder von uns einen wahren
+Satz.
 
-Herr Kubatz hat die Karte gelesen, die sich nicht ändert, und ein Stück
-von dem bestellt, was am längsten in der Vitrine lag, und dabei einmal
-kurz zu dem Mann hinter der Theke gesehen, der Tassen nicht stapelte,
-weil sie noch heiß waren.
+Meiner am vierten Donnerstag war der schwerste.
 
-Er hat nichts gesagt.
+„Ich bin nicht sicher, ob ich dich liebe oder ob ich erleichtert bin.“
 
-Um halb zehn kam Sanne, holte Wechselgeld, nahm ein Franzbrötchen, ohne
-zu fragen, sah einmal in den Backraum und einmal mich an und blieb an
-diesem Tag vierzig Minuten.
+Er hat lange nichts gesagt. Dann: „Danke.“
 
-Sie hat auch nichts gesagt.
+„Danke?“
 
-Sie hat mir beim Gehen von hinten kurz die Hand auf die Schulter gelegt,
-und das war das lauteste, was an diesem Samstag jemand geäußert hat.
+„Du hättest das nicht sagen müssen.“ Er drehte die Tasse. „Ich hätte es
+nicht gemerkt.“
 
----
-
-Er ist um Viertel nach zwei gegangen, weil er Theo versprochen hatte,
-sich etwas anzusehen.
-
-An der Tür hat er sich umgedreht, so wie er sich immer umdreht, und
-ich habe gesehen, dass er etwas sagen wollte, und dass er es sich
-verkniffen hat, weil ich ihn darum gebeten hatte.
-
-„Donnerstag“, sagte er.
-
-„Donnerstag.“
-
-Und dann war er weg, und ich habe eine Kiste mit dem, was übrig war,
-für Frau Kettler bereitgestellt und die Kasse gemacht.
-
-**478,20 €.** Der beste Samstag des Jahres bis dahin, und das lag am
-Wetter und nicht an mir.
+„Doch“, sagte ich. „Irgendwann schon.“
 
 ---
 
-Meine Mutter hat Emil um kurz nach zwölf am Sonntag gebracht.
+Ich habe im März zum ersten Mal seit zwei Jahren wieder Angst gehabt,
+und diesmal war es eine andere.
 
-Sie hat ihn abgesetzt, seine Tasche hingestellt, sich im Café umgesehen
-und gesagt: „Es riecht anders.“
+Die alte Angst hatte einen Namen und einen Betrag: zweihundertvierzehn-
+tausendachthundert. Die neue hat keinen.
 
-„Es riecht wie immer.“
+Sie geht so: Alles, was uns bisher zusammengehalten hat, war ein
+Problem. Erst das Haus, dann Emil, dann die Bank. Wir haben nie eine
+Woche gehabt, in der es nichts zu regeln gab.
 
-„Nein“, sagte meine Mutter.
+Und jetzt gibt es nichts mehr zu regeln.
 
-Sie ist nicht länger geblieben. Sie hat an der Tür gefragt, ob sie ihn
-im Juni noch mal haben kann, ein ganzes Wochenende diesmal, und ich habe
-ja gesagt, und sie hat genickt und ist zum Bahnhof gegangen.
+Ich habe das an einem Dienstagabend Frau Kettler gesagt, weil sie
+zufällig da war und weil man ihr Dinge sagt, ohne es vorzuhaben.
 
-Sie hat kein einziges Mal gefragt, was am Samstagabend war.
+Sie hat den Lappen ausgewrungen und gesagt: „Und?“
 
-Ich habe zwei Jahre lang geglaubt, dass sie das aus Desinteresse nicht
-fragt.
+„Was und?“
 
-Sie fragt es nicht, weil ihr vor zweiundzwanzig Jahren jemand am
-Telefon in vierzig Sekunden erklärt hat, dass man nicht fragt.
+„Dann finden Sie es jetzt raus.“ Sie hängte den Lappen über den Hahn.
+„Frau Voss, Sie reden, als wäre das ein Unglück. Die meisten Leute
+kommen nie in die Lage.“
 
 ---
 
-Am Sonntagabend, als Emil im Bett war, habe ich in dem Heft, in dem
-sonst die Bestellungen stehen, eine Zeile geschrieben.
+Am sechsundzwanzigsten März, dem vierten Donnerstag, nach dem Satz mit
+dem *erleichtert*, ist er nicht gegangen.
 
-Ich habe lange überlegt, was da hinkommt, und ich habe drei Sachen
-angefangen und wieder durchgestrichen, weil sie alle nach etwas
-klangen, das man sich selbst erzählt.
+Ich habe mir diesen Abend seitdem sehr oft vorgesagt, und zwar in beide
+Richtungen.
 
-Am Ende stand da:
+Er stand auf, um seine Tasse zur Spüle zu bringen, was er immer macht
+und was mich immer ärgert, weil ich es dann noch einmal abspüle. Ich
+stand auch auf, um ihm die Tasse abzunehmen. Wir standen zwischen Tisch
+neun und der Theke, an der Stelle, an der der Gang neunzig Zentimeter
+breit ist, weil meine Großmutter 1961 eine Vitrine gekauft hat, die zu
+groß war.
 
-*18.04. — Er hat gewusst, wo die Tassen stehen.*
+Er gab mir die Tasse nicht.
+
+„Marlene.“
+
+„Ja.“
+
+„Ich habe seit November eine Sache nicht gemacht“, sagte er, „und ich
+habe sie nicht gemacht, weil ich dir jedes Mal dabei etwas geschuldet
+hätte. Erst das Dach. Dann die Mappe. Dann die Forderung. Es gab in
+sieben Monaten keinen einzigen Tag, an dem zwischen uns nichts offen
+war.“
+
+Er stellte die Tasse zurück auf den Tisch, ohne hinzusehen, und traf den
+Untersetzer nicht.
+
+„Seit dem siebenundzwanzigsten Januar ist nichts mehr offen.“
+
+Ich wusste genau, was jetzt kommt. Ich habe es zwei Sekunden vorher
+gewusst, und ich habe in diesen zwei Sekunden nichts getan, was man
+Weggehen nennen könnte.
+
+Er hob die Hand und legte sie an meinen Hals, unter dem Ohr, wo man den
+Puls fühlt, und ich weiß, dass er ihn gefühlt hat, weil ich gefühlt
+habe, dass er ihn fühlt.
+
+Neunzig Zentimeter sind nicht viel.
+
+Ich habe seinen Mantel gerochen, der nass war, und darunter den grünen
+Anorak, den er nicht mehr hergibt, und ich habe an eine Schüssel mit
+Butter und Mehl gedacht und daran, dass das jetzt viereinhalb Monate
+her ist und dass es seitdem eine Hand auf einem Ärmel gegeben hat und
+sonst nichts.
+
+Dann habe ich meine Hand auf seine gelegt und sie heruntergenommen.
+
+„Nicht heute“, sagte ich.
+
+---
+
+Ich habe die zwei Wörter gehört, während ich sie gesagt habe, und ich
+habe sie sofort wiedererkannt.
+
+An einem Donnerstagabend im November, im Backraum, mit Mehl bis zum
+Ellenbogen, hatte ich dieselben zwei Wörter benutzt, um ihm zu sagen,
+dass es etwas gibt, und ihn gleichzeitig zu bitten, nicht danach zu
+fragen.
+
+Er hat es auch wiedererkannt. Ich habe es gesehen.
+
+Und er hat wieder nicht gefragt.
+
+„Gut“, sagte er.
+
+„Es ist nicht gut.“
+
+„Nein.“ Er nahm seinen Schlüssel vom Tisch. „Es ist nicht gut. Es ist in
+Ordnung. Das ist zweierlei, und ich kann beides.“
+
+An der Tür drehte er sich um, so wie er sich immer umdreht.
+
+„Sag es mir, wenn es ein anderer Tag ist“, sagte er. „Ich frage nicht
+noch mal.“
+
+---
+
+Ich habe danach eine Stunde in der Küche gesessen, ohne Licht, mit dem
+Rücken an der Ofentür, die noch warm war.
+
+Ich hatte nein gesagt zu dem Einzigen in diesem Winter, das mich nichts
+gekostet hätte.
+
+Und ich wusste, warum. Ich habe es nur nicht gern hingeschrieben:
+
+Solange er mich nicht angefasst hat, war er einer, der geblieben ist.
+Danach wäre er einer, der bleiben *muss*.
+
+Meine Mutter hat vierzig Jahre lang darauf gewartet, gefragt zu werden.
+Ich habe an einem Donnerstag im März gemerkt, dass ich in der anderen
+Richtung dasselbe Problem habe: Ich kann nicht ertragen, dass jemand
+bleibt, weil es sich so ergeben hat.
+
+Ich wollte, dass er es sich aussucht.
+
+Ich habe ihm nur nicht gesagt, dass ich das will, und damit war ich
+wieder genau da, wo dieses ganze Jahr angefangen hat.
+
+---
+
+Am siebenundzwanzigsten März ist etwas passiert, das ich hier
+aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
+nicht das Abendessen im Mai.
+
+Es war der Tag danach, ein Freitag. Jonas hatte Emil geholt, sie waren
+am Elbstrand, und ich hatte den Laden allein und war fertig um sechs.
+
+Ich hatte den ganzen Tag überlegt, was ich sage, wenn er kommt. Ich habe
+zwölf Stunden lang Sätze gebaut und alle wieder abgeräumt.
+
+Er hat nichts gesagt. Er hat gefragt, ob Emil noch etwas isst, und ob
+die Bohrpfähle durch sind, und er hat sich dabei nicht anders
+hingestellt als sonst.
+
+Ich weiß bis heute nicht, ob ich dankbar oder wütend war.
+
+Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
+einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
+der Kasse.
+
+Er kann sie nicht aufziehen. Er ist einundzwanzig Monate alt und
+sechsundachtzig Zentimeter groß, und die Schublade ist auf einem Meter.
+
+Er stand davor und streckte den Arm hoch und sagte: „Da.“
+
+Ich habe die Schublade aufgezogen — sie geht seit Oktober leicht — und
+ihn hochgehoben, und er hat den Stein hineingelegt, zu dem anderen, dem
+vom November.
+
+Und dann hat er sie selbst zugeschoben, mit beiden Händen.
+
+Jonas stand in der Tür, in dem grünen Anorak aus dem Fundkorb, den er
+inzwischen behalten hat, und sah zu.
+
+„Wusstest du, dass er das weiß?“, fragte er.
+
+„Nein“, sagte ich.
+
+In dieser Schublade lagen: der Brief von der Bank vom vierten Dezember.
+Die blaue Mappe mit dem Etikett. Der Anspitzer. Der Zettel vom
+siebenundzwanzigsten Oktober, den ich nie weggeworfen habe. Zwei Steine.
+
+Es ist die Schublade, in der ich zwei Jahre lang alles aufbewahrt habe,
+was ich niemandem gezeigt habe.
+
+Und mein Sohn benutzt sie inzwischen für seine Steine.
+
+---
+
+Ich habe an diesem Abend, nachdem sie beide weg waren — Emil oben,
+Jonas nach Hause —, die Schublade noch einmal aufgemacht und den Zettel
+herausgenommen.
+
+*Emil ist deiner.*
+
+Vier Wörter, viermal umgeschrieben, achtzehn Tage lang nicht gesagt.
+
+Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
+Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
+
+Wenn Emil ihn irgendwann findet, ist er alt genug, um zu fragen.
+
+Und dann ist die Antwort ein Name und keine Lücke.

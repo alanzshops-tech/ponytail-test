@@ -1,183 +1,192 @@
 # Kapitel 42 — Jonas
 
-Die Woche vor dem zwanzigsten Januar war die längste meines
-Berufslebens, und ich habe in ihr sehr wenig getan.
+Ich habe das Kinderzimmer am sechzehnten Dezember bestellt und am
+achtzehnten aufgebaut, abends, allein, mit dem beiliegenden
+Sechskantschlüssel, und ich habe dafür zwei Stunden gebraucht, was
+laut Anleitung vierzig Minuten sind.
 
-Das ist der Teil, den man nicht lernt: dass Warten Arbeit ist.
+Ich habe es niemandem gesagt.
 
-Ich hatte einen Plan in vier Schritten, ein Gutachten, das nicht mir
-gehörte, und eine Sitzung, in der ich etwas offenlegen wollte, das mich
-den Posten kosten kann. Und dazwischen acht Tage, in denen ich nichts
-tun durfte, ohne alles zu gefährden.
+Nicht ihr, weil ich nicht wusste, ob sie es übergriffig findet. Nicht
+Theo, weil er es lustig gefunden hätte. Nicht Niklas, weil Niklas
+gefragt hätte, ob ich damit rechne, dass das Kind bei mir wohnt, und ich
+hätte darauf keine Antwort gehabt.
 
-Ich habe in diesen acht Tagen zweimal den Hörer in der Hand gehabt, um
-sie anzurufen, und beide Male aufgelegt, bevor es klingelte.
+Fünf Tage später lag eine blaue Mappe auf ihrem Tisch, und danach war
+es zwölf Tage lang ein leeres Zimmer in einer Wohnung, in der niemand
+ist.
 
-Nicht aus Trotz. Weil Theo ihr geschrieben hatte, dass sie entscheidet,
-und weil ein Anruf von mir das kaputtgemacht hätte.
-
----
-
-Am vierzehnten kam Niklas mit dem Entwurf für den Forderungskauf.
-
-Wir haben ihn zweieinhalb Stunden lang durchgearbeitet, Satz für Satz,
-und mein Bruder hat dabei dreimal gesagt: „Das hält.“
-
-Beim vierten Mal habe ich gefragt: „Warum sagst du das dauernd?“
-
-Er hat den Stift hingelegt.
-
-„Weil du seit zwanzig Minuten nach einer Stelle suchst, an der du
-etwas hinzufügen kannst“, sagte er. „Eine Klausel, eine Zusicherung,
-irgendwas. Und es gibt keine, weil der Vertrag fertig ist.“
-
-„Ich will nur sicher sein, dass sie nicht —“
-
-„Dass sie nicht was?“ Niklas lehnte sich zurück. „Dass sie nicht
-schlechter dasteht? Sie steht am Ende ohne Schulden da, mit ihrem Haus,
-mit einer Reallast auf zwanzig Jahre für ihr Erdgeschoss, die wir
-freiwillig anbieten. Wenn du da noch etwas hinzufügst, ist es kein
-Vertrag mehr, sondern ein Geschenk mit Deckel.“
-
-Er hat die Blätter zusammengeschoben.
-
-„Jonas. Der Vertrag ist nicht dein letzter Satz an sie. Er ist nur ein
-Vertrag.“
+Ich bin in diesen zwölf Tagen zweimal drin gewesen und habe nichts
+gemacht, nur in der Tür gestanden.
 
 ---
 
-Am fünfzehnten stand Kellermann in der Zeitung.
+Am neunundzwanzigsten hat sie gefragt, ob sie es sich ansehen darf.
 
-Nicht wegen Kehrwieder. Wegen eines Objekts in der Neustadt, das er
-aus einem Bankenpaket gekauft hat, und der Artikel war freundlich; er
-wird darin als jemand beschrieben, der Substanz erhält.
+Ich habe vorher aufgeräumt, was lächerlich ist in einer Wohnung, in
+der nichts herumliegt. Ich habe die Spülmaschine ausgeräumt und den
+Lageplan an der Wand gerade gerückt und mich dann hingesetzt und
+gewartet und mich dabei angesehen wie von außen.
 
-Ich habe den Artikel zweimal gelesen und danach eine halbe Stunde am
-Fenster gestanden.
+Sie ist durch die Zimmer gegangen und hat nichts gesagt.
 
-Denn das Unangenehme ist: Er macht dasselbe wie ich.
+Ich habe versucht, meine eigene Wohnung mit ihren Augen zu sehen, und
+es war unangenehm: zweihundert Quadratmeter, ein Sofa, auf dem nie
+jemand gelegen hat, ein Kühlschrank mit Milch und Wasser, kein
+einziges Foto.
 
-Er wartet, bis eine Bank aufräumt, und dann ist er da. Genau das hat
-mein Vater mir mit siebzehn erklärt, in genau diesen Worten, und ich
-habe es zwölf Jahre lang für Handwerk gehalten.
+Sie hat vor dem Kühlschrank gestanden und ihn zugemacht und nichts
+dazu gesagt, und das war schlimmer, als wenn sie etwas gesagt hätte.
 
-Der Unterschied zwischen Kellermann und mir besteht in diesem Winter
-aus einer einzigen Sache, und die ist nicht Anstand.
+Im Kinderzimmer hat sie gefragt: „Seit wann?“
 
-Sie ist: Ich kenne sie.
-
-Das ist kein moralischer Unterschied. Das ist Zufall.
-
-Ich habe an diesem Abend zum ersten Mal gedacht, dass ich mich nicht
-für einen besseren Menschen halten darf, sondern nur für einen, der
-Glück hatte.
+Und ich habe es ihr gesagt.
 
 ---
 
-Am sechzehnten habe ich Wendland angerufen.
+Am einunddreißigsten um zwei kam er.
 
-Das mache ich nie. Wendland ruft an; man ruft nicht Wendland an.
+Er ist die drei Stufen hochgegangen, hat sich nicht umgedreht und ist
+in den Flur gelaufen, als wäre er hier zu Hause, und hat als Erstes
+versucht, den Schirmständer umzuwerfen.
 
-„Reinhardt.“ Er klang überrascht. „Ist etwas?“
+Ich habe an diesem Nachmittag folgende Dinge gelernt:
 
-„Ich möchte, dass Sie am Zwanzigsten etwas wissen, bevor ich es im
-Raum sage.“
+Eine Wohnung ohne Kind hat vierzehn Steckdosen. Eine Wohnung mit Kind
+hat vierzehn Löcher in Kopfhöhe.
 
-„Dann sagen Sie es.“
+Ein Glastisch ist keine gute Idee.
 
-Ich habe es ihm gesagt. Alles: das Kind, den dritten Dezember, den
-Kauf am zweiundzwanzigsten, die Fristverlängerung, den Plan mit den
-Dienstbarkeiten.
+Ein Kind mit zwanzig Monaten braucht für zweihundert Quadratmeter
+ungefähr elf Minuten und findet in dieser Zeit alles, was man übersehen
+hat.
 
-Es hat vier Minuten gedauert.
-
-Am anderen Ende war es danach lange still.
-
-„Warum rufen Sie mich vorher an?“, sagte er.
-
-„Damit Sie nicht am Zwanzigsten zum ersten Mal davon hören und
-entscheiden müssen, während Sie überrascht sind.“
-
-„Das ist Taktik.“
-
-„Ja“, sagte ich. „Es ist auch Taktik.“
-
-Wieder eine Pause.
-
-„Reinhardt, ich sage Ihnen jetzt etwas, und ich sage es genau einmal.“
-Ich hörte ihn etwas hinlegen. „Ihr Vater hätte diesen Anruf nicht
-gemacht. Nicht weil er unehrlich war. Weil ihm nicht in den Sinn
-gekommen wäre, dass ein Mensch überrascht sein könnte.“
-
-„Ist das gut oder schlecht?“
-
-„Das weiß ich am Zwanzigsten“, sagte Wendland und legte auf.
+Um halb vier saß er auf dem Küchenboden und schlug mit einem Kochlöffel
+auf einen Topf, und ich saß daneben und dachte, dass dieser Boden seit
+sieben Jahren nicht benutzt worden ist.
 
 ---
 
-Am siebzehnten, einem Freitag, habe ich Emil gehabt.
+Wir haben um sechs gegessen. Nudeln, weil ich Nudeln kann.
 
-Zehn bis sechs. Wir waren im Museumshafen, weil dort Schiffe liegen und
-weil ein Zwanzigmonatiger für ein Schiff denselben Laut macht wie für
-einen Bagger.
+Er hat gegessen, was er üblicherweise isst, nämlich ein Drittel, und
+den Rest verteilt.
 
-Sie hat ihn mir unten in der Durchfahrt übergeben, und wir haben sechs
-Sätze gewechselt, alle über Emil.
+Danach habe ich zum ersten Mal allein ein Kind gebadet.
 
-Beim Zurückbringen um sechs stand sie schon in der Tür.
+Das ist eine Sache, über die niemand redet: Es dauert lange, es geht
+alles gleichzeitig schief, und man braucht sechs Hände. Ich habe das
+Wasser zweimal zu heiß gehabt und danach zu kalt, ich habe das Handtuch
+außer Reichweite gelegt, und ich bin danach nasser gewesen als er.
 
-„Wie war er?“
-
-„Gut. Er hat vor einem Schlepper vierzig Minuten gestanden.“
-
-„Vierzig?“
-
-„Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
-habe.“
-
-Sie hat gelächelt, und ich habe zum ersten Mal seit dem
-dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
-vorbei ist, sondern nur anders.
-
-Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
-hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein
-Handel aussieht.
-
-Ich glaube bis heute, dass das richtig war.
-
-Ich weiß aber auch, dass „ich sage lieber nichts“ in diesem Buch
-ungefähr sechzigmal vorkommt, und dass es jedes Mal die falsche
-Entscheidung war.
+Er hat die ganze Zeit gelacht.
 
 ---
 
-Am achtzehnten, einem Samstag, war ich bei meiner Mutter und habe ihr
-gesagt, dass es sein kann, dass ich am Montag abberufen werde.
+Um halb acht lag er im Bett, mit dem Holzlaster, und ich saß auf dem
+Boden daneben, weil es keinen Stuhl gab.
 
-Sie hat gefragt: „Und dann?“
+Er hat nicht geschlafen. Er hat mich angesehen.
 
-„Dann führt Theo die Firma.“
+Ich habe irgendwann angefangen zu reden, weil ich nichts anderes wusste.
 
-„Ich meine nicht die Firma, Jonas.“ Sie hat die Tasse abgestellt. „Ich
-meine dich. Was machst du dann?“
+Ich habe ihm von der Firma erzählt. Von Rothenburgsort und der
+Fundamentplatte und dem Kanal, von dem die Stadt nichts wusste. Von den
+elf Wohnungen in Barmbek. Von dem Aufzug.
 
-Ich habe darauf keine Antwort gehabt.
+Ich habe einem Zwanzigmonatigen fünfundzwanzig Minuten lang von einem
+Aufzug erzählt.
 
-Ich bin sechsunddreißig, ich habe mit vierundzwanzig ein
-Bauingenieurstudium im zweiten Semester abgebrochen, und ich hatte auf
-die Frage, was ich mache, wenn ich diese Firma nicht mehr führe, keine
-Antwort.
+Irgendwann hat er die Augen zugemacht.
 
-Meine Mutter hat gesagt: „Denk mal darüber nach. Nicht am Montag.
-Irgendwann.“
+Ich bin noch zehn Minuten sitzen geblieben, auf dem Boden, in einem
+Zimmer ohne Vorhänge, und habe gehört, wie er atmet.
 
-Und dann, an der Tür:
+---
 
-„Ich fände es nicht schlimm, weißt du.“
+Um Mitternacht bin ich ans Fenster gegangen.
 
-„Was?“
+Von hier sieht man über die Speicherstadt bis zum Fleet, und über der
+ganzen Stadt gingen die Raketen hoch, und in dieser Wohnung war es so
+laut wie seit sieben Jahren nicht, nämlich gar nicht.
 
-„Wenn sie dich rauswerfen.“ Sie hat mir den Mantel gereicht. „Dein Vater
-ist mit vierundfünfzig gestorben, und in den zweiunddreißig Jahren
-davor hat er zwei Wochen Urlaub gemacht. Ich habe kein einziges Mal
-gedacht: Gut, dass er so viel gearbeitet hat.“
+Er ist nicht aufgewacht. Nicht einmal.
+
+Ich habe ein Foto gemacht und es ihr geschickt und drei Wörter
+darunter geschrieben, weil mir nichts Besseres eingefallen ist.
+
+Sie hat geantwortet: *Frohes neues Jahr.*
+
+Und dann, eine Minute später: *Danke, dass du das Zimmer schon im
+Dezember gemacht hast.*
+
+---
+
+Ich habe eine Stunde gebraucht, um nicht zu antworten.
+
+Das klingt merkwürdig. Ich erkläre es.
+
+Ich habe angefangen zu tippen und wieder gelöscht, und zwar sechs- oder
+siebenmal, und jedes Mal war es dasselbe Muster: Ich habe eine Erklärung
+geschrieben.
+
+*Ich habe es gemacht, weil —*
+
+*Ich wollte damit nicht sagen, dass —*
+
+*Es ist nicht so gemeint, dass —*
+
+Ich bin sechsunddreißig Jahre alt und kann vor sieben Leuten eine
+Vier-Komma-zwei-Millionen-Entscheidung begründen, und ich konnte auf
+einen Satz mit acht Wörtern nicht antworten, ohne ihn zu verhandeln.
+
+Um zehn nach eins habe ich das Telefon weggelegt.
+
+---
+
+Am ersten Januar um zehn habe ich ihn zurückgebracht.
+
+Sie stand unten in der Durchfahrt, in dem Mantel, den sie im Winter
+trägt, und hat die Arme ausgestreckt, und er ist zu ihr.
+
+„Er hat durchgeschlafen“, sagte ich. „Bis Viertel nach sieben.“
+
+„Bei mir wacht er um sechs auf.“
+
+„Ich weiß.“
+
+„Das ist unfair.“
+
+„Ja“, sagte ich.
+
+Sie hat kurz gelacht, und dann standen wir da, in einer Durchfahrt, an
+einem ersten Januar, und keiner von uns wusste, wie man aus so einer
+Situation herauskommt.
+
+„Ich wusste nicht, was ich schreiben soll“, sagte ich.
+
+„Musst du nicht.“
+
+„Doch“, sagte ich. „Irgendwann schon.“
+
+---
+
+Ich bin danach nicht ins Büro gefahren, obwohl ich es vorhatte.
+
+Ich bin zu Fuß über die Brooksbrücke gegangen, einmal die ganze
+Speicherstadt lang, und habe mir das Kontorhaus angesehen, das ich seit
+sechs Jahren kaufen wollte.
+
+Vier Geschosse. Roter Backstein. Eine Winde unter dem Dach, die seit
+siebzig Jahren nichts mehr gehoben hat.
+
+Am zweiten Januar habe ich Theo gebeten, den Brief zu schreiben, in dem
+steht, dass die Gesellschaft die drei Rechte erwerben will und dass sie
+den Sachverständigen aussucht.
+
+Er hat gefragt, ob er Grüße von mir dazuschreiben soll.
+
+Ich habe gesagt: nein.
+
+Es war das Schwerste, was ich in diesem Winter geschrieben habe, und
+ich habe es nicht einmal selbst geschrieben.

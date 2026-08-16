@@ -1,198 +1,160 @@
 # Kapitel 56 — Jonas
 
-Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
-Mutter.“
+Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
+auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
+Arbeit ist.
 
-Es war der fünfzehnte April, und der Samstag war der achtzehnte.
+**Tag eins.** Achtzehnter Februar, Mittwoch, halb neun. Kita Kirchenweg,
+Gruppe zwei. Ein Raum mit vierzehn Kindern, drei Erzieherinnen, einem
+Teppich mit einer aufgemalten Stadt und einem Geruch aus nasser Wolle
+und Apfel, den ich seitdem sofort wiedererkenne.
 
-Nicht *hast du Zeit*. Nicht *würdest du gern*. Ein Termin, mit Uhrzeit,
-wie sie Lieferanten bestellt.
+Frau Özdemir, die die Gruppe leitet, erklärte mir die Regeln in vier
+Sätzen: Sie sitzen. Sie spielen nicht. Sie rufen nicht. Wenn er kommt,
+sind Sie da; wenn er nicht kommt, sind Sie trotzdem da.
 
-Ich habe „ja“ gesagt und dann den Rest des Tages nichts Vernünftiges
-mehr zustande gebracht.
+Ich saß sechzig Minuten auf einem Stuhl von einunddreißig Zentimetern
+und tat nichts.
 
-Zwölf Tage vorher hatte ich in ihrem Café gestanden und gesagt, dass ich
-noch mal frage. Ich hatte in diesen zwölf Tagen dreimal angesetzt und
-jedes Mal etwas anderes gesagt, und am Ende war es wieder sie.
+Emil hat in dieser Stunde dreimal zu mir hergesehen. Beim dritten Mal
+hat er gewinkt, und ich habe zurückgewinkt, und Frau Özdemir hat gesagt:
+„Nicht winken. Nur da sein.“
 
-Ich habe darüber am Mittwochabend eine Stunde lang schlechte Laune
-gehabt.
+**Tag zwei.** Emil hat einen anderen Jungen geschubst. Ich bin
+aufgestanden. Frau Özdemir hat den Kopf geschüttelt, ohne mich anzusehen,
+und ich habe mich wieder hingesetzt, und eine Erzieherin hat das in
+elf Sekunden geregelt, ohne dass jemand geweint hat.
 
-Dann habe ich gemerkt, woher die kommt: Ich hätte gern gehabt, dass es
-meine Frage ist, damit ich nachher weiß, dass ich es war. Also
-buchstäblich das, was ich ihr vorwerfe, wenn sie es tut.
+Ich habe an diesem Tag verstanden, dass ich nicht gebraucht werde, und
+dass genau das die Übung ist.
 
-Ich habe an diesem Abend zum ersten Mal in meinem Leben verstanden, dass
-man auch einen Antrag als Vorwand benutzen kann.
+**Tag drei.** Der erste Trennungsversuch. Ich gehe raus, zwei Minuten,
+in den Flur, und komme wieder.
 
----
+Er hat nicht gemerkt, dass ich weg war.
 
-Ich habe zwischen Mittwoch und Samstag ungefähr das getan, was ein Mann
-von sechsunddreißig in dieser Lage tut, und es ist nicht schmeichelhaft.
+Ich habe zwei Minuten in einem Kita-Flur gestanden, zwischen
+Gummistiefeln und einer Wand mit vierzehn Fotos, und war beleidigt. Ich
+schreibe das hin, weil es die Wahrheit ist: Ein Mann von
+sechsunddreißig, Geschäftsführer, war beleidigt, weil ein
+Einundzwanzigmonatiger ihn nicht vermisst hat.
 
-Ich habe überlegt, was ich mitbringe. Wein — sie trinkt fast keinen.
-Blumen — sie hat mir im November erklärt, dass Schnittblumen im Café
-nicht gehen, wegen der Vitrine. Etwas für Emil — Emil ist nicht da, und
-etwas für ein Kind mitzubringen, das nicht da ist, wäre genau die Sorte
-Ausweichmanöver, die ich mir abgewöhnen wollte.
+**Tag vier.** Fünf Minuten. Er hat gemerkt, dass ich weg war, und hat
+weitergespielt.
 
-Am Freitagabend habe ich Theo am Telefon gefragt, und mein Bruder hat
-ungefähr vier Sekunden gebraucht.
-
-„Nichts“, hat er gesagt. „Wie beim letzten Mal.“
-
-„Beim letzten Mal habe ich eine Mappe hingelegt.“
-
-„Eben.“
-
----
-
-Ich bin um Viertel vor acht am Kehrwieder gewesen und zehn Minuten im
-Wagen sitzen geblieben, was ich in diesem Jahr schon einmal getan habe,
-an einem Sonntag im Oktober, als ich nicht ausgestiegen bin.
-
-Diesmal bin ich ausgestiegen.
-
-Ich habe geklingelt. Ich klingele immer noch. Es ist inzwischen kein
-Prinzip mehr, es ist eine Angewohnheit, und ich glaube, sie mag sie.
-
-Sie machte auf, und ich sah als Erstes, dass sie sich umgezogen hatte,
-und als Zweites, dass sie darüber ärgerlich war.
-
-„Du hast Mehl am Handgelenk“, sagte ich.
-
-„Ich habe Mehl an allem.“ Sie trat zur Seite. „Komm rein.“
-
----
-
-Es gab Kartoffeln, Butter, Salz und ein gebratenes Stück Fisch, und es
-war das Beste, was ich seit Monaten gegessen habe.
-
-„Das hast du nicht extra gemacht“, sagte ich.
-
-„Doch.“ Sie schob mir die Schüssel hin. „Und ich ärgere mich darüber,
-seit ich um vier damit angefangen habe.“
+Frau Özdemir sagte: „Das ist das Beste, was passieren kann.“
 
 „Warum?“
 
-„Weil ich nichts extra machen wollte.“ Sie setzte sich. „Und dann habe
-ich mittags im Laden gestanden und gedacht, dass ich in drei Jahren für
-niemanden gekocht habe außer für ein Kind, das alles außer Nudeln vom
-Teller schiebt.“
+„Weil er weiß, dass Sie wiederkommen.“ Sie räumte Becher ein. „Kinder,
+die nicht merken, dass jemand geht, haben es sich abgewöhnt. Kinder, die
+merken und weiterspielen, haben Vertrauen. Das sind zwei völlig
+verschiedene Sachen, und sie sehen von außen gleich aus.“
 
-Wir haben eine Weile gegessen.
+Ich habe an diesem Vormittag an meine Mutter gedacht, an den Satz aus
+dem Café: *Ihn allein zurechtkommen lassen, bis er es sich abgewöhnt
+hat, jemanden zu brauchen.*
 
-Dann sagte sie: „Ich möchte, dass wir vorher etwas klären.“
-
-Ich legte die Gabel hin.
+Ich habe zum ersten Mal begriffen, dass das kein Vorwurf an sie war.
+Es war eine Warnung.
 
 ---
 
-„Es ist nichts Schlimmes“, sagte sie. „Es ist nur eine Reihenfolge.“
+**Tag fünf.** Zwanzig Minuten. Ich bin in ein Café an der Ecke gegangen
+und habe einen Kaffee getrunken, der schlecht war, und drei Mails
+beantwortet.
 
-„Ich höre.“
+Ich habe in diesen zwanzig Minuten dreimal aufs Telefon gesehen.
 
-„Wenn heute Abend etwas passiert“, sagte Marlene, „dann möchte ich
-nicht, dass du morgen früh etwas regelst.“
+**Tag sechs.** Vierzig Minuten. Rückschlag: Er hat geweint, als ich
+ging, und Frau Özdemir hat mich trotzdem gehen lassen und nach
+achtundzwanzig Minuten geschrieben, dass er seit fünfundzwanzig Minuten
+mit dem Wasserhahn spielt.
 
-„Was sollte ich —“
+**Tag sieben.** Der ganze Vormittag. Ich habe zu Hause gesessen und
+gearbeitet und um elf gemerkt, dass ich seit einer Stunde dieselbe Seite
+lese.
 
-„Ich weiß es nicht. Ich weiß nur, dass du es tun wirst.“ Sie sah mich
-an, sehr ruhig. „Du wirst aufwachen und denken, dass jetzt etwas anders
-ist und dass man das absichern muss. Und dann liegt am Dienstag
-irgendetwas auf dem Fenstertisch.“
+**Tag acht.** Er ist morgens allein in die Garderobe gelaufen und hat
+versucht, seine Jacke auf den Haken zu hängen, was nicht funktioniert
+hat, weil der Haken auf einem Meter zehn sitzt und Emil auf sechsundachtzig
+Zentimetern.
 
-Ich habe daran ehrlich gedacht, bevor ich geantwortet habe, und dann
-habe ich das Ehrliche gesagt.
+Frau Özdemir hat gesagt: „Er ist drin.“
 
-„Wahrscheinlich hast du recht.“
+Ich habe gefragt, ob das heißt, dass wir fertig sind.
+
+Sie hat gesagt: „Sie sind fertig. Er fängt an.“
+
+---
+
+An diesen acht Vormittagen habe ich Dinge gelernt, die in keiner
+Übergabe stehen und die ich hier aufschreibe, weil ich sie sonst wieder
+vergesse.
+
+Ein Kind mit einundzwanzig Monaten braucht für den Weg von der Tür zur
+Garderobe zwischen vierzig Sekunden und elf Minuten, und man kann nicht
+vorher wissen, welches von beidem.
+
+Man zieht die Schuhe im Sitzen an, nicht im Stehen, und man fängt mit
+dem Fuß an, den das Kind hinstreckt, nicht mit dem linken.
+
+Wenn ein Kind fällt und einen ansieht, bevor es weint, entscheidet das
+Gesicht des Erwachsenen, ob geweint wird. Das ist keine Erziehungsfrage,
+das ist Physik.
+
+Und: Es gibt in dieser Gruppe genau eine andere Person, die morgens
+allein kommt, ein Vater namens Ole, der bei der Hafenbahn arbeitet und
+mit dem ich seitdem zweimal die Woche vier Sätze wechsle. Er hat mich
+am zweiten Tag gefragt, was ich beruflich mache, und ich habe gesagt:
+Immobilien.
+
+„Oh“, hat er gesagt. „Und, viel zu tun?“
+
+Ich habe gesagt: „Geht so.“
+
+Das war die erste Unterhaltung seit Jahren, in der niemand wusste, wer
+ich bin, und ich habe nachts noch daran gedacht.
+
+---
+
+Am fünften Vormittag stand Marlene um zehn plötzlich in der Tür.
+
+Sie war dienstags nie da. Dienstag ist Backtag; sie hat den ganzen
+Vormittag Blätterteig, sie kann nicht weg, das war der ganze Grund,
+warum sie mich gefragt hat.
+
+„Ich wollte nur sehen, wie es aussieht“, sagte sie.
+
+Wir standen zusammen im Flur, zwischen den Gummistiefeln, und sahen
+durch die Scheibe in der Tür.
+
+Emil saß am kleinen Tisch und schob einen Becher hin und her. Er hat
+uns nicht bemerkt.
+
+„Er sitzt da, als wäre er immer schon da gewesen“, sagte sie.
 
 „Ja.“
 
-„Was möchtest du stattdessen?“
+„Ich habe achtzehn Monate lang gedacht, ich kann ihn nirgends hingeben.“
+Sie sah nicht weg von der Scheibe. „Und jetzt steht er da und braucht
+mich zwei Stunden lang nicht, und ich stehe hier und weiß nicht, ob ich
+erleichtert bin oder ob mir schlecht ist.“
 
-„Dass du morgen früh um halb sechs mit runterkommst“, sagte sie, „und
-die Bleche einschiebst, und dass wir um zwanzig vor sieben aufmachen wie
-an jedem anderen Samstag. Und dass wir kein Wort darüber verlieren, was
-das jetzt bedeutet.“
+„Beides“, sagte ich. „Sagt Frau Özdemir.“
 
-„Und wann verlieren wir Worte darüber?“
+Sie lachte, einmal, kurz.
 
-„Donnerstag“, sagte sie.
+Und dann stand sie noch eine Minute da, und ich stand daneben, und
+irgendwann hat sie ihre Hand an meinen Ärmel gelegt — nicht in meine
+Hand, an den Ärmel, wie man das macht, wenn man sich an etwas festhält,
+das zufällig da ist.
 
-Ich habe gelacht, und sie hat auch gelacht, und irgendwo unter uns fuhr
-eine Barkasse durch das Fleet und das Licht lief über die Decke, so wie
-es das in diesem Haus immer tut.
+Wir haben beide nichts dazu gesagt.
 
----
+Als sie ging, sagte sie an der Treppe: „Danke, dass du acht gemacht
+hast und nicht drei.“
 
-Ich möchte den Rest dieses Abends nicht in Einzelteile zerlegen, und
-zwar aus einem Grund, der nichts mit Anstand zu tun hat.
+„Ich habe acht gehört.“
 
-Er gehört nicht in ein Buch, in dem ich sonst Beträge aufschreibe.
-
-Ich schreibe drei Dinge auf.
-
-Das erste: Sie hat als Erste die Hand ausgestreckt, nicht ich, und sie
-hat es an einem Küchentisch getan, zwischen zwei Tellern, die noch nicht
-abgeräumt waren, und sie hat dabei nichts gesagt.
-
-Das zweite: Ich habe ihr Handgelenk genommen — das mit dem Mehl — und
-mich nicht getraut, es festzuhalten, und sie hat gemerkt, dass ich mich
-nicht traue, und hat es mir in die Hand gedrückt.
-
-Das dritte: Wir haben beide angefangen zu reden, gleichzeitig, wie
-Menschen, die es nicht gewohnt sind, und dann hat sie gesagt: „Jonas.
-Bitte hör auf, das gut machen zu wollen.“
-
-Und danach war es einfach.
-
----
-
-Es gibt in dieser Wohnung eine Diele, die vierte von der Tür aus, und
-sie knarrt so laut, dass man sie hört, wenn man unten in der Küche
-steht.
-
-Sie hat auf dem Weg dorthin die Hand nach hinten gegeben, ohne sich
-umzudrehen, und ich habe sie genommen, und dann ist sie auf die Diele
-getreten, und wir sind beide stehen geblieben und haben nach oben
-gehorcht.
-
-Es war niemand da, auf den man hätte horchen müssen.
-
-Wir haben beide gemerkt, dass wir es trotzdem tun.
-
-„Er ist in Harburg“, sagte sie.
-
-„Ich weiß.“
-
-„Ich habe seit sechzehn Monaten nicht eine Nacht gehabt, in der ich
-nicht auf etwas gehorcht habe.“
-
-Ich habe nichts geantwortet, weil es darauf keine Antwort gibt, und
-dann hat sie die Tür hinter uns zugemacht.
-
----
-
-Ich bin gegen halb vier wach geworden, weil das Fenster offen war und
-weil ein Schiff sehr weit weg ein Signal gegeben hat.
-
-Sie war nicht da.
-
-Ich habe zwei Sekunden lang gedacht, was ein Mann wie ich in so einer
-Sekunde denkt, und dann habe ich das Licht unter der Tür gesehen und
-gehört, wie unten etwas Metallenes auf etwas Metallenes gesetzt wurde.
-
-Es war der Riegel am Ofen.
-
-Sie war um zwanzig nach vier unten, so wie an vierhundert Tagen im Jahr,
-und ich lag in einem fremden Bett in einem Haus, das älter ist als mein
-Urgroßvater, und habe an die Decke gesehen und gedacht:
-
-*Das ist es. Das ist die ganze Sache. Sie steht auf und geht runter und
-macht den Ofen an, und heute war ich schon da.*
-
-Ich bin um Viertel vor sechs runtergegangen.
-
-Sie hat mir eine Schürze hingehalten, ohne sich umzudrehen, und gesagt:
-„Blech drei bis fünf. Nicht stapeln, die sind heiß.“
+„Ich weiß“, sagte sie. „Deshalb sage ich es ja.“

@@ -1,217 +1,246 @@
 # Kapitel 40 — Jonas
 
-Sievers rief am zwölften Januar um vierzehn Uhr an, zwei Stunden nach
-ihrem Anruf, und ließ mir keine Wahl.
+Das Foto ist unscharf.
 
-„Reinhardt? Sievers, Steuerberater. Ich vertrete Frau Voss.“
+Ich sage das gleich zu Anfang, weil sonst der Eindruck entsteht, dass es
+ein schönes Bild ist. Es ist kein schönes Bild. Emil hat sich bewegt,
+die Lampe in der Durchfahrt hat einen Gelbstich, den kein Telefon
+wegrechnet, und im linken Drittel steht eine Regentonne.
 
-„Ich weiß, wer Sie sind.“
-
-„Dann wissen Sie auch, warum ich anrufe. Ich hätte Sie gern heute noch
-hier. Ohne Ihren Anwalt.“ Ein Blättern. „Sechzehn Uhr dreißig.“
-
-„Ich habe um sechzehn Uhr dreißig —“
-
-„Das dachte ich mir“, sagte Sievers und legte auf.
-
-Ich habe zwei Termine abgesagt.
+Ich habe es am siebenundzwanzigsten Dezember um zwei Minuten nach vier
+gemacht und am selben Abend auf den Sperrbildschirm gelegt.
 
 ---
 
-Seine Kanzlei liegt in Eimsbüttel, im ersten Stock über einer Apotheke,
-mit einer Klingel aus Messing und einem Treppenhaus, das nach
-Bohnerwachs riecht. Im Wartezimmer stehen sechs Stühle und ein Aquarium
-ohne Fische.
+Frau Kuhlmann hat es am neunundzwanzigsten Dezember gesehen, als ich
+das Telefon auf den Tisch legte.
 
-Er ist Ende sechzig, trägt eine Strickjacke unter dem Sakko und hat auf
-dem Schreibtisch keinen Bildschirm, sondern zwei Stapel Papier und eine
-Rechenmaschine mit Papierrolle, wie sie in Sparkassen standen, als ich
-Kind war.
+Meine Assistentin arbeitet seit neunzehn Jahren für diese Familie. Sie
+hat meinen Vater erlebt, sie hat die Beerdigung organisiert, sie hat in
+den zwölf Jahren danach ungefähr viertausend Termine für mich gemacht
+und nie einen Kommentar dazu abgegeben.
 
-Er ließ mich stehen, bis er zu Ende geschrieben hatte. Ich glaube, das
-war Absicht, und ich glaube auch, dass es funktioniert hat.
+Sie hat auf den Bildschirm gesehen, dann auf mich, und dann hat sie
+gesagt: „Ihr Vater hatte auch nie eins.“
 
-„Setzen Sie sich.“
+„Von wem?“
 
-Ich setzte mich.
-
-„Ich habe hier drei Dinge“, sagte Sievers. „Erstens: eine
-Abtretungsanzeige der Hanseatischen Volksbank vom dreiundzwanzigsten
-Dezember, wonach eine gekündigte Forderung über
-zweihundertvierzehntausendsechshundert Euro an Sie persönlich abgetreten
-wurde. Zweitens: ein Schreiben Ihres Bruders vom dritten Januar.
-Drittens: ein Verkehrswertgutachten über
-zweihundertachtundsechzigtausend Euro.“
-
-Er legte die Hände auf die Papiere.
-
-„Herr Reinhardt, ich mache diesen Beruf seit einundvierzig Jahren. Ich
-habe in dieser Zeit dreimal so etwas gesehen, und zweimal davon saß am
-Ende ein Steuerfahnder bei meinem Mandanten.“
+„Von Ihnen“, sagte Frau Kuhlmann und ging raus.
 
 ---
 
-„Dann sagen Sie mir, was Sie sehen“, sagte ich.
+Zwischen den Jahren ist in diesem Haus fast niemand. Sie kommt
+trotzdem, drei Tage lang, weil sonst der Januar sie überrollt.
 
-„Ich sehe Folgendes.“ Er zählte an der Hand ab. „Ein Mann kauft die
-Schulden einer Frau, ohne dass sie davon weiß. Danach beschließt die
-Gesellschaft, deren Geschäftsführer dieser Mann ist, für Rechte zu
-zahlen, die dieselbe Frau seit Oktober unentgeltlich zugesagt hatte. Der
-Betrag liegt zufällig über der Forderung. Am Ende ist die Frau
-schuldenfrei und der Mann Vater ihres Kindes.“
+Ich habe an diesem Vormittag nichts geschafft.
 
-Er sah auf.
+Ich habe stattdessen etwas gerechnet, was man nicht rechnen sollte.
 
-„Ich muss nichts erfinden. Ich lese vor.“
+In vier Monaten hatte ich für diese Frau ein Dach bezahlt
+(einundvierzigtausend), einen Entwurf umgebaut (vier Komma zwei
+Millionen entgangene Fläche), eine Anruferliste besorgt, eine Mappe mit
+sechsunddreißig Seiten aufgesetzt und eine Forderung über
+zweihundertvierzehntausendsechshundert Euro für
+einhundertsechsundachtzigtausend gekauft.
 
-„Es ist trotzdem sauber.“
+Ich hatte sie in diesen vier Monaten **um nichts gebeten**.
 
-„Es ist sauber“, sagte Sievers. „Das ist es ja. Ich habe zwei Tage
-gebraucht, um es kaputt zu kriegen, und ich habe es nicht geschafft, und
-das sage ich nicht gern. Das Gutachten stammt von einem öffentlich
-bestellten Sachverständigen, den sie ausgesucht hat. Der Wert liegt in
-einem Bereich, den ich nachvollziehen kann; Ihr Bruder hat mir auf
-Nachfrage die Alternativtrasse aufgeschlüsselt, und die ist teurer. Der
-Forderungskauf zum Einstandspreis ist ein Forderungskauf. Konfusion ist
-Konfusion.“ Er legte den Kugelschreiber hin. „Es hält.“
+Nicht einmal. Kein einziges Mal.
 
-„Warum sitze ich dann hier?“
+Und dann habe ich am siebenundzwanzigsten Dezember in einer Durchfahrt
+gestanden und um ein Foto gebeten, und sie hat *Warte* gesagt und ist
+hochgegangen und hat mir das Kind gebracht.
+
+Es hat vier Sekunden gedauert.
 
 ---
 
-„Weil ich Ihnen eine Frage stellen will“, sagte Herr Sievers, „und weil
-ich sie Ihnen ins Gesicht stellen will und nicht am Telefon.“
+Ich habe mir das an diesem Tag so oft vorgesagt, dass es
+anfing, albern zu klingen, und dann habe ich es aufgeschrieben, weil ich
+Dinge erst glaube, wenn sie auf Papier stehen:
 
-„Bitte.“
+*Alles, was ich ihr gegeben habe, hat sie kleiner gemacht.
+Das Einzige, worum ich gebeten habe, hat sie sofort gegeben.*
 
-„Was ist Ihr Interesse?“
-
-„Ich möchte, dass sie ihr Haus behält.“
-
-„Das ist keine Antwort, das ist ein Ergebnis.“ Er lehnte sich zurück.
-„Ich frage anders. Was passiert, wenn sie unterschreibt, schuldenfrei
-ist und Ihnen danach mitteilt, dass sie Sie nicht wiedersehen will außer
-zur Übergabe des Kindes?“
-
-Ich habe eine Weile gebraucht.
-
-„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
-sechs zurück.“
-
-„Und das Haus?“
-
-„Gehört ihr.“
-
-„Und die Rechte?“
-
-„Sind gekauft und im Grundbuch. Die kann ihr niemand nehmen, auch ich
-nicht.“
-
-Sievers sah mich an, sehr lange, mit dem Ausdruck eines Mannes, der
-einundvierzig Jahre lang Leuten beim Lügen zugesehen hat.
-
-„Gut“, sagte er dann.
+Ich bin sechsunddreißig Jahre alt und habe das im Dezember 2025 zum
+ersten Mal in dieser Reihenfolge gedacht.
 
 ---
 
-Danach war er anders.
+Am neunundzwanzigsten Dezember rief Bastian an.
 
-Er nahm ein leeres Blatt, drehte es quer und schrieb eine Zahl darauf.
+Mein jüngster Bruder ruft nicht an. Bastian schreibt Nachrichten um
+zehn nach elf abends und beantwortet keine Rückfragen. Bastian war seit
+2019 nicht mehr an Heiligabend zu Hause.
 
-„Das hier geht Sie nichts an“, sagte er, „und ich sage es Ihnen
-trotzdem, weil Sie mit einer falschen Zahl im Kopf hier sitzen. Das ist
-nicht die Zahl meiner Mandantin. Das ist die Zahl, die ein Café dieser
-Größe an diesem Standort in einem guten Jahr für den Inhaber übrig
-lässt, und die können Sie in jeder Branchenauswertung nachlesen.“
-
-Ich sah auf das Blatt.
-
-Es war eine vierstellige Zahl mit einer Eins vorn, und darunter hatte er
-geschrieben: *im Monat, vor Steuern, ohne Rücklage.*
-
-„Ich verstehe“, sagte ich.
-
-„Nein, Sie verstehen es nicht, und das ist kein Vorwurf.“ Er drehte das
-Blatt wieder zurück. „Sie halten es für wenig. Es ist nicht wenig. Es
-ist unmöglich. Von dieser Zahl kann man ein Kind großziehen, wenn man
-mietfrei wohnt und niemals krank wird. Rücklagen für ein Dach von 1911
-bildet man davon nicht. Deshalb war das Dach kaputt, und deshalb hat die
-Bank gekündigt, und nichts davon hat mit Unfähigkeit zu tun.“
-
-„Das habe ich nie —“
-
-„Doch“, sagte Sievers. „Sie haben ihr im September einen Vertrag
-hingelegt, in dem Sie das Dach zahlen. Ich habe ihn geprüft. Ich habe in
-Absatz sieben eine Formulierung gefunden, die Sie das Wegerecht an
-Dritte hätte weitergeben lassen, und die habe ich gestrichen, und Ihr
-Anwalt hat sie ohne ein Wort akzeptiert.“ Er zog die Brille herunter.
-„Danach habe ich zwei Tage weitergesucht, weil kein Mensch ohne Grund
-einen so guten Vertrag schreibt. Und dann habe ich begriffen, dass der
-Grund war, dass Sie sich schämen.“
-
----
-
-Ich habe an dieser Stelle ungefähr eine Minute lang nichts gesagt.
-
-„Sie hat mich einmal etwas gefragt, das keine Steuerfrage war“, sagte
-Sievers dann. „Ein einziges Mal in drei Jahren. Im September. Sie saß
-da, wo Sie sitzen, mit dem Entwurf auf dem Schoß, und hat gefragt: *Ist
-das ein Geschenk?*“
-
-„Was haben Sie geantwortet?“
-
-„Ich habe gesagt: nein, das ist ein Leistungsaustausch, Sie geben ein
-Wegerecht und bekommen ein Dach.“ Er faltete die Hände. „Das war
-juristisch richtig und im Kern gelogen, und wir wussten es beide. Sie
-hat trotzdem unterschrieben, weil sie musste. Und danach hat sie ein
-Vierteljahr lang jeden Handwerker, der auf diesem Gerüst stand, mit
-Kaffee versorgt, ohne einen Cent zu nehmen, und ich habe mir das
-angesehen und gedacht: Sie zahlt zurück. Sie weiß nur nicht, in welcher
-Währung.“
-
----
-
-Am Ende, als ich schon stand, sagte er das Einzige, was ich mir aus
-diesem Nachmittag aufgeschrieben habe, im Auto, auf die Rückseite eines
-Parkscheins.
-
-„Herr Reinhardt. Eine Empfehlung, die Sie nicht bezahlen müssen.“
+„Bist du allein?“
 
 „Ja.“
 
-„Legen Sie beim Notar den Preis offen, den Sie bezahlt haben. Nicht die
-Zahl aus dem Vertrag — den Kontoauszug. Mit den Nebenkosten. Mit der
-Gebühr der Bank, mit dem Honorar Ihres Anwalts, mit allem.“
+„Gut“, sagte er. „Mama hat mir erzählt, was sie dir am
+Vierundzwanzigsten gesagt hat.“
 
-„Warum?“
+Ich habe mich hingesetzt.
 
-„Weil sie es nachrechnen wird“, sagte Sievers. „Nicht morgen. In vier
-Jahren, nachts, wenn etwas anderes schiefgegangen ist. Und wenn sie dann
-auf einen einzigen Euro stößt, den Sie nicht genannt haben, dann ist
-alles andere, was Sie in diesem Winter getan haben, für sie wertlos.“
+„Sie erzählt dir so etwas?“
 
-Er machte die Tür auf.
+„Sie erzählt mir *alles*, Jonas. Seit sechs Jahren. Das ist der
+Unterschied zwischen uns beiden: Ich rufe sie sonntags an und frage, wie
+es ihr geht, und du überweist die Pflegekraft.“
 
-„Das ist keine Rechtsberatung“, sagte er. „Das ist einundvierzig Jahre
-Zusehen.“
+Das saß, und es stimmte, und er hat mir keine Zeit gelassen.
+
+„Ich will dir was sagen, und dann leg ich auf, weil ich das nicht gut
+kann.“
 
 ---
 
-Ich saß danach zwanzig Minuten in einem Wagen in der Osterstraße, im
-Halteverbot, und habe niemanden angerufen.
+„Ich bin nicht weggegangen, weil ich die Firma nicht mochte“, sagte
+Bastian. „Ich bin weggegangen, weil ich mit vierundzwanzig gesehen habe,
+was aus dir geworden ist, und weil das die einzige Art war, in dieser
+Familie erwachsen zu werden, die ich mir zugetraut habe.“
 
-Ich hatte in diesem Winter mit Wendland gesprochen, mit Niklas, mit
-Theo, mit meiner Mutter, mit einer Sachbearbeiterin des Jugendamts und
-mit einer Frau in Rissen.
+„Danke.“
 
-Der Erste, der mich gefragt hat, was ich eigentlich will, war der
-Steuerberater der Gegenseite.
+„Das ist kein Angriff. Hör zu.“ Ich hörte, wie er irgendwo eine Tür
+zumachte. „Vater hat 1997 das Haus von Mama verkauft und ihr vier Tage
+später einen Ordner hingelegt. Jede Zahl hat gestimmt. Sie hat
+achtundzwanzig Jahre gebraucht, um das jemandem zu erzählen, und sie hat
+es dir erzählt, weil du gerade dasselbe gemacht hast.“
 
-Ich habe am Abend Niklas geschrieben, er solle für den Notartermin eine
-Aufstellung vorbereiten: Kaufpreis der Forderung, Bearbeitungsgebühr der
-Bank, Beurkundungskosten, sein eigenes Honorar. Vollständig. Mit
-Kontoauszügen im Anhang.
+„Ich weiß.“
 
-Er hat um dreiundzwanzig Uhr geantwortet: *Das muss man nicht offenlegen.*
+„Nein, du weißt es nicht. Du weißt es seit fünf Tagen und hältst es für
+eine Schuld.“ Eine Pause. „Es ist keine Schuld. Es ist eine
+Bedienungsanleitung.“
 
-Ich habe geschrieben: *Ich weiß.*
+---
+
+Ich habe nichts gesagt, und mein Bruder, der das nicht gut kann, hat
+weitergeredet.
+
+„Du hast dieser Frau ihr Problem weggenommen. Alle Probleme, der Reihe
+nach. Dach, Entwurf, Bank. Wenn du jetzt noch das letzte wegnimmst, ist
+sie schuldenfrei und du bist der Grund dafür, und dann kann sie in ihrem
+ganzen Leben nicht mehr feststellen, ob sie dich will oder ob sie dich
+braucht.“
+
+„Und was soll ich machen?“
+
+„Nichts.“
+
+„Bastian —“
+
+„Ich meine es wörtlich.“ Er klang zum ersten Mal in diesem Gespräch
+nicht wütend. „Sorg dafür, dass sie am Ende ohne dich klarkommt. Und
+dann steh da und guck, was passiert. Wenn sie dann kommt, hast du eine
+Antwort, die man nicht kaufen kann. Wenn sie nicht kommt, hattest du
+recht mit dir, und das wolltest du sowieso schon immer.“
+
+„Das ist der schlechteste Rat, den ich je bekommen habe.“
+
+„Nein“, sagte Bastian. „Das ist der einzige, den unser Vater dir nie
+gegeben hätte.“
+
+Dann hat er aufgelegt, ohne sich zu verabschieden, was er immer macht.
+
+---
+
+Ich habe zwei Stunden später Theo angerufen, weil ich es nicht
+ausgehalten habe.
+
+„Du hast ihr gesagt, dass sie entscheidet“, sagte ich.
+
+„Ja.“
+
+„Wortwörtlich. Am Vierundzwanzigsten, am Telefon, in einem Satz, den du
+mir vorgestern zweimal zitiert hast.“
+
+„Ja.“
+
+„Theo, das ist eine Zusage über achtzig Millionen Bauvolumen, gegeben
+von einem Architekten an eine Konditorin, an Heiligabend, ohne
+Rücksprache.“
+
+„Ich weiß“, sagte mein Bruder. „Ich schreibe es ihr nach den Feiertagen
+noch auf, damit sie es schwarz auf weiß hat. Sonst glaubt sie es nicht.“
+
+Er hat gelacht, einmal, ohne Freude, und dann hat er nichts mehr gesagt,
+was bei ihm bedeutet, dass er auf die Frage wartet.
+
+„Warum?“
+
+---
+
+„Weil sie mich am Vierundzwanzigsten angerufen hat“, sagte er, „und
+weil sie mir eine Frage gestellt hat, die in dieser Firma seit zwölf
+Jahren niemand mehr stellt.“
+
+„Welche?“
+
+„*Was ist die Dienstbarkeit wert?*“ Er machte eine Pause. „Jonas,
+überleg mal. Diese Frau sitzt an Heiligabend allein in einem Haus, das
+in drei Wochen versteigert wird, und sie ruft nicht dich an, um zu
+weinen, und nicht die Bank, um zu betteln. Sie ruft den Architekten an
+und fragt nach einem Preis.“
+
+„Ich weiß.“
+
+„Nein.“ Zum ersten Mal in diesem Gespräch klang mein Bruder scharf.
+„Du weißt es nicht, sonst hättest du nicht drei Wochen lang überlegt,
+wie du es für sie regelst.“
+
+---
+
+Wir haben danach eine Weile über Rothenburgsort geredet, weil wir beide
+nicht auflegen wollten und weil man in dieser Familie über Bauvorhaben
+redet, wenn es um etwas anderes geht.
+
+Und dann hat Theo etwas gesagt, das ich damals falsch verstanden habe.
+
+„Ich habe ihr auch aus einem zweiten Grund geschrieben.“
+
+„Nämlich?“
+
+„Weil ich wollte, dass wenigstens eine Sache in dieser Familie ohne
+Heimlichkeit ausgeht.“
+
+Ich habe *ja, ja* gesagt und an den zweiundzwanzigsten Dezember gedacht
+und daran, dass er mich meint.
+
+Er hat mich nicht gemeint.
+
+Ich habe das im Mai erfahren, an einem Freitagabend, in einer Küche am
+Kehrwieder, von einer Frau am Telefon, deren Namen ich bis zu diesem
+Anruf nicht gekannt habe.
+
+Theo hat im Dezember 2025 am Telefon gesessen und mir gesagt, dass er
+seit zehn Monaten lügt, und ich habe es für eine Bemerkung über mich
+gehalten.
+
+Das ist ungefähr das genaueste Bild, das ich von mir in diesem Jahr
+zeichnen kann.
+
+---
+
+Ich habe an diesem Abend eine halbe Stunde in meiner Küche gestanden,
+in einer Wohnung, in der seit dem achtzehnten Dezember ein
+Kinderzimmer ist, für ein Kind, das noch nie darin geschlafen hat.
+
+Und dann habe ich zwei Dinge gemacht.
+
+**Erstens:** Ich habe die drei Dateien im Ordner *Kehrwieder privat*
+geöffnet — Rückabtretung, Erlass, Brief — und alle drei gelöscht. Nicht
+in den Papierkorb. Endgültig, mit der Nachfrage, die man wegklicken
+muss.
+
+**Zweitens:** Ich habe die Frist im Kalender eingetragen, die bis dahin
+nur in meinem Kopf stand.
+
+**15. Januar — nichts tun.**
+
+Es steht heute noch da. Ich habe den Termin nie gelöscht, weil es der
+einzige Eintrag in zwölf Jahren ist, bei dem ich mich an alles erinnere:
+an den Tag, an dem ich ihn gemacht habe, an die Küche, an das Foto auf
+dem Bildschirm und an einen Bruder, den ich seit sechs Jahren für
+jemanden gehalten habe, der es sich leicht macht.

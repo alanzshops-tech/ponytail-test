@@ -1,211 +1,186 @@
 # Kapitel 34 — Jonas
 
-Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
-und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
+Ich habe von der Durchfahrt bis zum Büro elf Minuten gebraucht, und ich
+weiß das, weil ich auf die Uhr gesehen habe, als ich losfuhr, und noch
+einmal, als ich den Wagen abstellte.
 
-Es gab Kartoffelsalat und Würstchen, weil mein Vater das so wollte und
-weil seit zwölf Jahren niemand den Mut hat, es zu ändern.
+Das ist kein Detail. Das ist die Diagnose.
 
-Wir sind vier Brüder und sitzen zu dritt am Tisch, seit Bastian nicht
-mehr kommt. Niklas erzählt, Theo sagt etwas Trockenes dazu, ich schenke
-nach. Das ist die Aufteilung. Sie steht nirgends und wird nie
-verhandelt.
-
-Meine Mutter hat gefragt, ob es im Kontorhaus vorangeht. Theo hat
-gesagt, ja. Niklas hat mich angesehen und nichts gesagt.
-
-Um neun hat Niklas eine Geschichte über einen Mandanten erzählt, die
-sehr lustig war, und ich habe zwei Sekunden zu spät gelacht, und Theo
-hat es gemerkt.
-
-Ich funktionierte gut. Ich habe darin Übung.
-
-Um halb elf gingen die beiden, und meine Mutter sagte: „Du bleibst noch.“
-
-Es war keine Frage.
+Eine Frau hatte mir gerade gesagt, dass ich etwas gekauft habe, das man
+nicht zurückgeben kann, und ich fuhr durch eine leere Stadt und maß die
+Zeit.
 
 ---
 
-Sie setzte sich in den Sessel, in dem sie seit dem Schlaganfall sitzt,
-weil man aus ihm allein aufstehen kann, und sagte:
+Im Haus war niemand. Am dreiundzwanzigsten Dezember um zehn nach neun
+ist in der Reinhardt Immobilien niemand, nicht einmal Frau Kuhlmann, die
+sonst immer noch da ist, wenn ich gehe.
 
-„Wo ist sie?“
+Ich habe das Licht im Flur nicht angemacht. Ich bin durch den vierten
+Stock gegangen, an dem Tisch von 1998 vorbei, und habe mich an meinen
+Schreibtisch gesetzt und den Rechner hochgefahren.
 
-„Zu Hause.“
+Und dann habe ich gearbeitet.
 
-„Und warum?“
+Ich schreibe das so hin, weil es so war. Nicht getrunken, nicht
+geschrien, nicht auf dem Boden gesessen. Gearbeitet.
 
-Und dann erzählte ich es ihr. Vollständig, in der richtigen Reihenfolge,
-mit allen Zahlen, weil ich in dieser Woche ungefähr vierzigmal geübt
-hatte, es so zu erzählen, dass es stimmt.
-
-Ich erzählte von der Kündigung und dem fünfzehnten Januar. Von
-Kellermann und den sechs Ferienwohnungen. Von der Schenkungsteuer und
-den neunundvierzigtausendachthundert Euro, die sie nicht hat. Von den
-achtzehn Uhr am Zweiundzwanzigsten und davon, dass ich am nächsten Abend
-alles gesagt habe, alles, ohne dass sie fragen musste.
-
-Ich habe ungefähr zwölf Minuten geredet.
-
-Meine Mutter hat mich nicht ein einziges Mal unterbrochen.
-
-Als ich fertig war, saß sie da mit der linken Hand im Schoß, die nicht
-immer macht, was sie soll, und sagte:
-
-„Das hat dein Vater auch immer so erzählt.“
+Von zwanzig nach neun bis Viertel nach zwei habe ich drei Papiere
+aufgesetzt.
 
 ---
 
-Ich weiß nicht, was ich erwartet hatte. Trost vermutlich. Meine Mutter
-gibt keinen Trost, sie gibt Auskunft.
+**Das erste.** Eine Rückabtretung der Forderung an die Hanseatische
+Volksbank, zum selben Preis, mit Wirkung zum ersten Januar. Zwei Seiten.
+Ich habe zwei Stunden dafür gebraucht, weil ich nicht Anwalt bin und
+weil ich zwischendurch Muster gesucht habe wie jemand, der zum ersten
+Mal etwas kündigt.
 
-„Was meinst du damit?“
+**Das zweite.** Ein Erlassvertrag. Ein Satz, der die Forderung
+niederschlägt, und darunter Platz für zwei Unterschriften.
 
-„Setz dich hin, Jonas. Du stehst so herum.“
+**Das dritte.** Ein Brief.
 
-Ich setzte mich.
-
-„Weißt du, wem das Haus in Reinbek gehört hat?“, sagte sie.
-
-„Uns.“
-
-„Mir.“ Sie sagte es ohne Betonung. „Von meiner Mutter. Ich habe es 1991
-geerbt, mit dem Garten und der Garage, in der dein Vater dann seine
-Akten gelagert hat.“
-
-„Wir haben es 1997 verkauft.“
-
-„*Er* hat es 1997 verkauft.“ Sie sah auf ihre Hand. „Im Februar 1997
-hatte die Firma ein Liquiditätsloch von neunhunderttausend Mark. Es gab
-drei Möglichkeiten, und die schnellste war das Haus meiner Mutter.“
-
-Ich sagte nichts.
-
-„Er hat es gemacht. Notar am achten März, Übergabe im Mai.“ Sie sah auf.
-„Erzählt hat er es mir am zwölften März. Vier Tage danach. Er hat mir
-den Vertrag auf den Küchentisch gelegt und alles erklärt, und es war
-alles richtig. Jedes Wort. Wenn er es nicht gemacht hätte, hätten
-vierundneunzig Leute im Juni kein Gehalt bekommen. Ich habe damals
-nachgerechnet, weil ich es nicht glauben wollte, und es stimmte.“
-
-„Warum weiß ich das nicht?“
-
-„Weil ich nichts gesagt habe“, sagte meine Mutter. „Achtundzwanzig
-Jahre lang.“
+Der Brief war das Längste. Ich habe ihn viermal angefangen. Beim vierten
+Mal stand oben *Sehr geehrte Frau Voss*, und da habe ich gemerkt, was
+ich tue.
 
 ---
 
-Draußen fing es an zu regnen, weil es in Hamburg auch an Heiligabend
-regnet.
+Ich habe die drei Dateien um Viertel nach zwei nebeneinander auf den
+Bildschirm gelegt und sie angesehen.
 
-„Ich habe ihn nicht verlassen“, sagte sie. „Ich habe ihn geliebt, bis er
-tot war, und ich vermisse ihn jeden Tag, und das ist alles wahr. Ich
-sage dir das, damit du das Folgende richtig einordnest.“
+Rückabtretung. Erlass. Brief.
 
-Sie wartete, bis ich sie ansah.
+Und dann habe ich zum ersten Mal in diesem Winter etwas begriffen, das
+ich seitdem nicht mehr loswerde:
 
-„Ich habe achtundzwanzig Jahre neben einem Mann gelebt, der recht
-hatte.“
+**Alle drei sind dasselbe.** Alle drei sind ein Mann, der um halb drei
+nachts allein in einem Büro sitzt und ein Problem so lange bearbeitet,
+bis es weg ist. Es ist derselbe Mann wie der, der am zweiundzwanzigsten
+um siebzehn Uhr vierzig eine Forderung gekauft hat, ohne zu fragen.
 
----
+Sie hatte mir vier Stunden vorher gesagt, dass genau das das Problem
+ist. Und ich hatte darauf reagiert, indem ich es noch dreimal gemacht
+habe.
 
-Ich habe seit dem dreiundzwanzigsten Dezember eine ganze Menge Sätze
-gehört, die wehtun. Marlenes Sätze, Bastians Satz, Niklas’ Satz mit den
-achtzehn Monaten.
-
-Dieser war anders, weil er nicht mir galt.
-
-„Es geht nicht um das Haus“, sagte meine Mutter. „Das Haus war ein
-Haus. Es geht darum, dass ich am achten März nichts wusste und am
-zwölften alles. In diesen vier Tagen war ich verheiratet mit jemandem,
-der eine Entscheidung über mein Elternhaus getroffen hatte, und ich habe
-in der Zeit Wäsche aufgehängt.“
-
-„Er hat es dir doch gesagt.“
-
-„Ja.“ Sie nickte. „Er hat es mir gesagt. Er hat mich nie belogen, dein
-Vater, nicht ein einziges Mal in vierunddreißig Jahren. Er hat mich nur
-nie gefragt.“
+Ich habe die Dateien nicht gelöscht. Ich habe sie in einen Ordner
+geschoben, der *Kehrwieder privat* heißt, und den Rechner zugeklappt.
 
 ---
 
-Ich saß eine Weile da.
+Um Viertel vor sieben rief ich Niklas an.
 
-„Warum hast du nie etwas gesagt?“
+Mein Bruder geht beim zweiten Klingeln ran, immer, auch am
+vierundzwanzigsten Dezember, und ich habe mich nie gefragt, warum, bis
+zu diesem Morgen.
 
-„Weil er recht hatte.“ Sie lachte kurz, ohne Freude. „Das ist die Falle,
-Jonas. Wenn der andere unrecht hat, kannst du streiten. Dann geht es
-raus, und danach ist es kleiner. Wenn der andere recht hat, kannst du
-nur schlucken. Und geschlucktes Zeug wird nicht kleiner. Es wird
-härter.“
+„Ist jemand gestorben?“
 
-„Und was hättest du gebraucht?“
+„Nein.“
 
-„Am siebten März“, sagte sie sofort, so schnell, dass ich merkte, wie
-oft sie diesen Satz gedacht hat, „hätte er sich abends hinsetzen und
-sagen müssen: *Renate, ich sehe drei Wege, und der schnellste ist dein
-Elternhaus. Ich weiß nicht weiter. Was sagst du?*“
+„Dann ist es beruflich.“ Ich hörte, wie er sich aufsetzte. „Rede.“
 
-„Und dann hättest du ja gesagt.“
+Ich habe es ihm erzählt. Alles, in der richtigen Reihenfolge, so wie ich
+es sonst dem Beirat erzähle: der Kauf, der Preis, das Gespräch, ihr
+Satz.
 
-„Vermutlich.“ Sie sah mich an. „Aber es wäre *meins* gewesen.“
+Niklas hat mich nicht ein einziges Mal unterbrochen, was bei ihm
+bedeutet, dass es schlimm ist.
+
+„Kann ich die Forderung zurückgeben?“, fragte ich am Ende.
+
+„An wen?“
+
+„An die Bank.“
+
+„Warum sollte die Bank sie zurücknehmen? Sie hat einen ausgefallenen
+Kredit für einhundertsechsundachtzig verkauft und ist froh. Und selbst
+wenn — dann hat Frau Voss wieder eine Bank, die vollstreckt. Willst du
+das?“
+
+„Nein.“
+
+„Dann Erlass.“
+
+„Ja.“
+
+„Jonas.“ Er machte eine Pause, in der ich hörte, wie irgendwo bei ihm
+eine Kaffeemaschine ansprang. „Ein Erlass ist eine Schenkung. Steuerlich,
+zivilrechtlich und in jedem Gefühl, das ein Mensch dabei hat. Du würdest
+ihr zweihundertvierzehntausend Euro schenken. Hat sie irgendetwas in den
+letzten drei Monaten gesagt, das dich glauben lässt, dass sie das
+annimmt?“
+
+Ich sah aus dem Fenster auf einen Hafen, auf dem es noch dunkel war.
+
+„Sie hat ein Angebot über dreihunderttausend abgelehnt“, sagte ich.
+
+„Dann hast du deine Antwort.“
 
 ---
 
-Ich fuhr um eins nach Hause, über die leere Stadt, und an einer roten
-Ampel an der Willy-Brandt-Straße, an der außer mir kein Auto stand,
-verstand ich es endlich.
+Wir haben danach noch zwei Minuten geredet, und in diesen zwei Minuten
+hat mein Bruder den einzigen Satz gesagt, der mir an diesem Tag
+geholfen hat.
 
-Ich hatte die ganze Woche gedacht, mein Fehler sei ein Timing-Fehler.
-Acht Tage. Vierzehn Stunden. Ein Serienbrief um neun Uhr vierzehn. Ich
-hatte mir tatsächlich vorgestellt, wie es gelaufen wäre, wenn Frau
-Kuhlmann die Anzeige zurückgestellt hätte, und in dieser Vorstellung war
-alles gut ausgegangen.
+„Ich sage dir, was rechtlich geht“, sagte Niklas. „Rechtlich geht:
+warten. Die Frist läuft bis zum fünfzehnten Januar. Bis dahin passiert
+gar nichts, weil du derjenige bist, der nichts tut. Du bist zum ersten
+Mal in deinem Leben in der Lage, ein Problem zu lösen, indem du es
+liegen lässt.“
 
-Es wäre nicht gut ausgegangen.
+„Das ist keine Lösung.“
 
-Es wäre nur später schlecht ausgegangen.
-
-Weil sie dann am dreiundzwanzigsten Dezember um zwanzig nach acht
-erfahren hätte, dass ihr Haus mir gehört — von mir, freundlich,
-vollständig, mit einem Zettel neben der Hand — und weil das immer noch
-eine Mitteilung gewesen wäre und keine Frage.
-
-Ich hatte nicht zu spät geredet.
-
-Ich hatte in der falschen Richtung geredet.
+„Nein“, sagte er. „Das ist eine Frist. Nutz sie für etwas anderes als
+für Papier.“
 
 ---
 
-Am siebenundzwanzigsten holte ich Emil um zehn ab, wie besprochen.
+Ich bin um halb acht nach Hause gefahren und habe geduscht und mich
+umgezogen, weil man am vierundzwanzigsten Dezember zu seiner Mutter
+fährt.
 
-Marlene öffnete, gab mir die Tasche, sagte, dass er seit Mittwoch
-Karotten verweigert, und sagte danach nichts mehr, was nicht Emil
-betraf.
+Vorher habe ich noch etwas gemacht, wofür ich mich nicht schäme, obwohl
+es lächerlich ist.
 
-Sie war höflich. Sie hatte es angekündigt, und sie hielt sich daran, und
-es war das Schlimmste, was ich je erlebt habe.
+Ich habe mein Telefon durchgesehen, ob ich ein Bild von ihm habe.
 
-Ich brachte ihn um sechs zurück. An der Tür drehte Emil sich in meinem
-Arm um und griff nach meinem Kragen, weil er nicht runter wollte, und
-Marlene nahm ihn und sagte in seinen Nacken hinein, sehr ruhig: „Der
-kommt wieder. Am Silvester.“
+Ich hatte keins.
 
-Sie sagte es zu ihm. Ich stand dabei.
+Sieben Wochen lang war ich zweimal die Woche in diesem Haus. Ich habe
+ihn hochgehoben, gewickelt, ins Bett gebracht, ich habe ihm einen
+Holzlaster gekauft, und ich habe in sieben Wochen kein einziges Mal auf
+den Auslöser gedrückt, weil ich mir eingebildet habe, dass ein Foto
+etwas beansprucht, worauf ich kein Recht habe.
 
-Auf dem Rückweg hielt ich am Baumwall an und saß zehn Minuten im Auto.
+Es gab in meinem Telefon dreihundert Bilder von Baustellen und keins von
+meinem Sohn.
 
-Und dann tat ich zum ersten Mal seit dem dreiundzwanzigsten etwas, das
-nicht Warten war: Ich rief meinen Bruder an. Nicht Niklas.
+---
 
-„Theo. Ich brauche den Entwurf. Alle Fassungen, auch die verworfenen.“
+Ich habe an diesem Morgen um zwanzig vor acht in meiner Küche gestanden,
+mit dem Telefon in der Hand, und das war die Stelle, an der es mich
+erwischt hat.
 
-„Warum?“
+Nicht der Satz mit dem *uns*. Nicht die Tür.
 
-„Weil ich wissen will, was sie mir eigentlich gibt“, sagte ich. „Und
-was das wert ist.“
+Dreihundert Bilder von Baustellen.
 
-Er war einen Moment still.
+---
 
-„Interessant“, sagte Theo. „Die Frage hat mir gestern schon jemand
-gestellt.“
+Meine Mutter hat mich um elf gefragt, ob ich krank bin.
+
+„Nein.“
+
+„Du siehst aus wie dein Vater 1997.“
+
+Ich habe an diesem Vormittag nicht gewusst, was sie damit meint. Ich
+habe es am Abend erfahren, und das steht im nächsten Kapitel, und ich
+schreibe es nicht hier hin, weil ich es an diesem Vormittag noch nicht
+wusste und weil dieses Buch sonst nicht ehrlich wäre.
+
+Ich wusste an diesem Vormittag nur: Emil ist neunzehn Monate alt, ich
+habe kein Bild von ihm, und der einzige Mensch, der mir eins geben
+könnte, hat mir gestern die Tür aufgehalten und gewartet, bis ich
+draußen war.

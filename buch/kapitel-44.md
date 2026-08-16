@@ -1,218 +1,188 @@
 # Kapitel 44 — Jonas
 
-Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
+Zwischen dem dritten und dem zwölften Januar habe ich neun Tage lang
+nichts getan, und das ist die schwerste Arbeit meines Lebens gewesen.
 
-Sieben Leute. Dieselben sieben.
+Ich schreibe das hin, obwohl es lächerlich klingt neben dem, was in
+denselben neun Tagen eine Frau am Kehrwieder gemacht hat.
 
-Ich hatte keine Präsentation vorbereitet. Ich hatte vier Blätter, für
-jeden eins, und auf dem ersten stand oben, weil Niklas darauf bestanden
-hatte, das Wort **Interessenkonflikt**.
-
-„Bevor wir mit dem Projekt anfangen“, sagte ich, „muss ich Ihnen etwas
-über mich erzählen. Es dauert vier Minuten, und danach wissen Sie alles,
-und dann können Sie entscheiden, ob Sie mir überhaupt noch zuhören
-wollen.“
-
-Und dann erzählte ich es.
-
-Dass ich ein Kind habe mit der Eigentümerin von Kehrwieder zwölf. Dass
-ich das seit November weiß und im Beirat am fünfzehnten offengelegt
-habe, dass ich sie kenne, aber nicht, dass es ein Kind gibt. Dass ihre
-Bank am dritten Dezember gekündigt hat. Dass ich am zweiundzwanzigsten
-Dezember die Forderung privat gekauft habe, für einhundertsechs-
-undachtzigtausend Euro, ohne sie zu fragen. Dass ich die Frist auf ihre
-Bitte hin verlängert habe.
-
-Ich habe nichts weggelassen und nichts erklärt. Erklärungen kamen mir in
-diesem Raum billig vor.
-
-Als ich fertig war, sagte lange niemand etwas.
+Es bleibt trotzdem wahr. Ich kann Dinge tun. Ich kann keine Dinge lassen.
 
 ---
 
-Dr. Wendland stellte die richtige Frage, weil er immer die richtige
-Frage stellt.
+Am fünften Januar, einem Montag, rief Wendland an.
 
-„Was hätte die Gesellschaft am fünfzehnten Januar bezahlt, wenn Sie
-nichts getan hätten?“
+Zweites Mal in neunzehn Jahren, dass er von sich aus anrief; das erste
+war der zweite Dezember. Ich habe an der Nummer im Display gesehen, dass
+es keine gute Nachricht wird.
 
-Ich hatte es ausrechnen lassen. Ich schob das dritte Blatt in die Mitte.
+„Reinhardt. Ich sage Ihnen etwas, und Sie fragen mich nicht, woher ich
+es habe.“
 
-„Bei einer Zwangsversteigerung im Frühjahr: geschätzt zwischen
-zweihundertvierzig und dreihundertzwanzigtausend für das gesamte Objekt.
-Mit dem Objekt hätten wir die drei Rechte umsonst gehabt, weil sie dann
-uns gehört hätten.“
+„Gut.“
 
-„Und was schlagen Sie stattdessen vor?“
+„Kellermann hat vor Weihnachten einen Grundbuchauszug für Kehrwieder
+zwölf angefordert. Über einen Notar, nicht selbst.“ Papier raschelte.
+„Das ist völlig legal und völlig eindeutig. Er geht ran.“
 
-„Zweihundertachtundsechzigtausend für die Rechte allein. Das Haus bleibt
-ihr.“
+Ich stand in meinem Büro am Fenster und sah auf einen Hafen, auf dem es
+um halb neun morgens noch dunkel war.
 
-Jemand am anderen Ende des Tisches lachte kurz auf. Nicht böse. So, wie
-man lacht, wenn eine Zahl für sich spricht.
+„Verstanden.“
 
-„Sie haben die Gesellschaft also“, sagte Wendland, „durch eine private
-Handlung um eine Erwerbschance gebracht.“
+„Sie klingen nicht überrascht.“
 
-„Ja.“
+„Ich bin nicht überrascht. Sie haben es mir am zweiten Dezember gesagt.“
 
-„Sagen Sie *ja* nicht so schnell, Reinhardt. Denken Sie darüber nach.“
-
-„Ich denke seit vier Wochen über nichts anderes nach“, sagte ich. „Es
-bleibt ja.“
+„Ich habe es Ihnen gesagt, damit Sie handeln“, sagte Wendland. „Nicht,
+damit Sie es sich merken.“
 
 ---
 
-Theo rechnete danach die Alternativtrasse vor: eine Komma vier Millionen,
-neun Monate, Genehmigung ungewiss.
+Und dann kam die Frage, auf die ich seit sechs Tagen keine Antwort
+hatte.
 
-Es half. Es machte die zweihundertachtundsechzigtausend zu einem guten
-Geschäft, rein wirtschaftlich, und drei Leute im Raum entspannten sich
-sichtbar.
+„Was machen Sie jetzt?“
 
-Und genau deshalb sagte ich den Satz, den mir Niklas ausdrücklich
-abgeraten hatte.
+„Nichts.“
 
-„Ich möchte, dass wir das nicht so beschließen.“
+Es war lange still.
 
-Wendland sah hoch.
+„Reinhardt, ich habe Ihnen im Dezember gesagt, Sie sollen handeln wie
+ein Kaufmann und nicht wie ein Verliebter. Ich nehme das zurück, wenn
+Sie mir erklären, was das hier ist. Aber erklären Sie es mir.“
 
-„Wenn wir das heute beschließen, weil es billiger ist als die
-Alternativtrasse, dann haben wir eine Rechnung gemacht“, sagte ich. „Die
-Rechnung stimmt. Sie ändert aber nichts daran, dass ich privat etwas
-getan habe, das dieser Gesellschaft eine Chance genommen hat. Dass es
-sich zufällig trotzdem rechnet, ist keine Entlastung. Es ist Glück.“
+Ich habe es versucht. Ich habe ungefähr vier Sätze gebraucht und beim
+vierten gemerkt, dass ich es zum ersten Mal laut sage:
 
-„Und was schlagen Sie vor?“
+„Sie hat einen Steuerberater, einen Anwalt kann sie sich nehmen, und
+sie hat von meinem Bruder schriftlich, dass sie entscheidet. Wenn ich
+sie jetzt anrufe und ihr sage, dass Kellermann kommt, dann hat sie die
+Information von mir. Und dann ist jede Entscheidung, die sie danach
+trifft, ein Stück weit meine.“
 
-Ich schob das vierte Blatt hin.
+„Das ist Rhetorik.“
 
-„Verzicht auf meine Tantieme für drei Geschäftsjahre. Nach dem
-Durchschnitt der letzten fünf Jahre sind das dreihundertsechzigtausend
-Euro. Der Verzicht ist unwiderruflich und wird im Anstellungsvertrag
-niedergelegt, nicht im Protokoll.“
+„Nein“, sagte ich. „Das ist der ganze Streit, den wir am
+dreiundzwanzigsten Dezember hatten, in einem Satz.“
 
-Der Raum war sehr still.
+Wendland hat eine Weile nichts gesagt, und dann hat er etwas gesagt,
+das nicht zu ihm passte.
 
-„Das ist mehr als der Schaden“, sagte jemand.
-
-„Der Schaden ist nicht ausrechenbar“, sagte ich. „Deshalb nehme ich
-lieber zu viel als zu wenig. Ich möchte nicht, dass in fünf Jahren
-jemand an diesem Tisch sitzt und sagt, der Reinhardt hat sich das damals
-schöngerechnet.“
+„Ich hoffe für Sie, dass sie es aushält.“
 
 ---
 
-Es kam, wie Niklas gesagt hatte, dass es kommen würde.
+Ich habe in diesen neun Tagen Folgendes gemacht.
 
-Herr Bosse, einer von den dreien, die selten etwas sagen, meldete sich.
-Ich habe diesen Mann in neunzehn Jahren vielleicht dreißig Sätze sagen
-hören.
+Ich habe Emil am Dienstag geholt und am Freitag geholt, jeweils zehn bis
+sechs, unten in der Durchfahrt, vier Minuten Übergabe, nur über ihn.
 
-„Ich beantrage die Abberufung des Geschäftsführers.“
+Ich habe drei Sitzungen zu Rothenburgsort gehabt und in der zweiten
+etwas beschlossen, an das ich mich nicht erinnere.
 
-Er sagte es ohne Feindseligkeit. Er begründete es in vier Sätzen, und
-jeder einzelne stimmte: Ein Geschäftsführer, der privat Positionen
-aufbaut, die Projekte der Gesellschaft berühren, ist untragbar,
-unabhängig vom Ausgang, unabhängig vom Motiv, und ein Beirat, der das
-durchgehen lässt, wird das nächste Mal gar nicht erst gefragt.
+Ich habe zweimal die Nummer gewählt und beide Male vor dem letzten
+Klingeln aufgelegt, was ich schon am zweiundzwanzigsten Dezember gemacht
+hatte und was ich für einen Charakterzug halte und nicht für ein
+Versehen.
 
-Ich saß da und hörte mir zu, wie ein Fremder über mich sprach, und ich
-stimmte ihm in jedem Punkt zu.
+Und ich habe am achten Januar um Viertel nach elf am Fenster gestanden
+und gewusst, dass er gerade da ist.
 
-„Möchten Sie etwas dazu sagen?“, fragte Wendland.
+Das weiß man nicht. Ich habe es nicht gewusst. Ich habe es mir
+eingebildet, weil ein Mann wie Kellermann an einem Donnerstagvormittag
+kommt, wenn er weiß, dass sie allein hinter der Theke steht.
 
-„Er hat recht“, sagte ich.
-
-„Das ist keine Verteidigung.“
-
-„Ich habe keine.“
+Ich habe an diesem Vormittag zwischen elf und eins nicht gearbeitet.
 
 ---
 
-Es wurde abgestimmt.
+Am neunten Januar, einem Freitag, um zwanzig nach fünf, rief er selbst
+an.
 
-Fünf zu zwei gegen die Abberufung.
+Ich hatte diesen Mann bis dahin dreimal getroffen, alle drei Male auf
+Veranstaltungen, alle drei Male höflich.
 
-Ich habe hinterher nie herausgefunden, wer der zweite war. Bosse hat es
-nicht verheimlicht; er hat mir nach der Sitzung die Hand gegeben und
-gesagt: „Nichts Persönliches, Herr Reinhardt. Ich hoffe, Sie machen es
-gut.“ Den anderen kenne ich bis heute nicht, und ich habe aufgehört, es
-wissen zu wollen.
+„Reinhardt. Kellermann. Haben Sie zwei Minuten?“
 
-Dann wurde das Übrige beschlossen.
+„Nein.“
 
-Der Erwerb der drei Grunddienstbarkeiten zum Gutachtenwert: sechs zu
-eins.
+„Dann eine.“ Er lachte kurz. „Ich war gestern am Kehrwieder. Sie hat
+abgelehnt. Vierhundertsechzig für das Gesamtobjekt, sie hätte
+zweihundertfünfundvierzig behalten, sie hat nein gesagt. Ich wollte, dass
+Sie das von mir hören und nicht aus dritter Hand.“
 
-Ein Zustimmungsvorbehalt des Beirats für sämtliche Geschäfte der
-Gesellschaft in der Speicherstadt, unbefristet: einstimmig.
+„Warum?“
 
-Der Tantiemeverzicht: einstimmig, mit dem Zusatz, dass er im Protokoll
-ausdrücklich als *vom Geschäftsführer selbst angeboten* zu vermerken
-sei. Das war Wendland.
-
-Und ein Vermerk im Protokoll, dass der Geschäftsführer in eigener Sache
-befangen war und dies vor der Beratung vollständig offengelegt hat. Der
-steht da jetzt. Der steht da für immer. Jeder, der in zwanzig Jahren die
-Protokolle dieser Gesellschaft liest, wird ihn finden.
+„Weil ich mir das Vergnügen nicht nehmen lasse, Ihnen den Rest auch noch
+zu erzählen.“
 
 ---
 
-Danach blieb Wendland sitzen, bis die anderen draußen waren.
+Ich habe mich an den Schreibtisch gesetzt.
 
-Neunzehn Jahre. Ich habe mit diesem Mann nie über etwas anderes geredet
-als über Zahlen.
+„Sie hat nicht wegen Ihnen abgelehnt“, sagte Kellermann. „Das ist der
+Teil, den Sie sich merken sollten. Sie hat eine Nacht darüber
+nachgedacht, und am nächsten Morgen hat sie mich angerufen und *eine*
+Frage gestellt. Eine einzige. Ob ich das Erdgeschoss in den Vertrag
+schreibe.“
 
-„Reinhardt.“
+„Und?“
 
-„Ja.“
+„Und ich habe nein gesagt, weil ich nicht lüge, wenn eine Unterschrift
+darunterkommt.“ Eine Pause. „Wenn ich ja gesagt hätte, hätte sie
+unterschrieben, Reinhardt. Am Samstag um elf. Sie hat es nicht wegen
+Ihnen gelassen. Sie hat es wegen eines Absatzes gelassen, den ich nicht
+schreiben wollte.“
 
-„Ihr Vater hat 1997 das Haus seiner Frau verkauft.“
+Ich habe auf die Tischplatte gesehen, die mein Vater 1998 gekauft hat.
 
-Ich sah auf.
+„Warum rufen Sie an?“
 
-„Ich war damals schon dabei“, sagte Wendland. „Nicht im Beirat, ich war
-bei der Bank. Ich habe die Unterlagen gesehen.“ Er klappte seine Mappe
-zu. „Er hat es genau richtig gemacht. Jede Zahl stimmte. Ich habe ihn
-dafür bewundert.“
+„Weil Sie und ich dasselbe machen und ich Sie deshalb ganz gut leiden
+kann“, sagte Kellermann. „Und weil Sie sich seit Wochen einreden, Sie
+seien der Bessere von uns beiden. Sind Sie nicht. Sie hatten Glück mit
+dem Objekt. Ich hätte auch Glück haben können.“
 
-Er stand auf und nahm seinen Mantel vom Stuhl.
+Dann hat er noch etwas gesagt, und das ist der einzige Satz aus diesem
+ganzen Winter, den ich nicht loswerde.
 
-„Ich habe ihn zwanzig Jahre lang für den vernünftigsten Menschen
-gehalten, den ich kenne, und ich habe erst auf seiner Beerdigung
-gemerkt, dass ich nicht ein einziges Mal mit ihm über etwas gesprochen
-habe, das ihm wichtig war.“ An der Tür blieb er stehen. „Sie haben heute
-vier Minuten lang über Ihr Kind geredet, in diesem Raum, vor diesen
-Leuten. Das war das Dümmste, was Sie machen konnten.“
+„Ich bin am Kehrwieder fertig. In der Neustadt nicht. In Ottensen nicht,
+in Barmbek nicht, und in zwei Jahren stehe ich neben irgendeinem anderen
+Haus, das jemandem gehört, der um halb fünf aufsteht. Ich verschwinde
+nicht, Reinhardt. Ich bin die Sorte Wetter, die es hier gibt.“
 
-„Ich weiß.“
-
-„Machen Sie es wieder“, sagte Wendland und ging.
+Dann hat er aufgelegt.
 
 ---
 
-Ich fuhr nicht zum Kehrwieder.
+Ich bin an diesem Abend um Viertel nach acht nach Hause gefahren und
+habe in der Küche gestanden und mir dreimal hintereinander gesagt, dass
+es eine gute Nachricht ist.
 
-Ich saß bis halb sieben im Büro und ließ das Protokoll schreiben, und
-als es fertig war, las ich es einmal durch und schickte es ihr.
+Sie hat abgelehnt. Das Haus gehört ihr. Die Frist läuft noch sechs Tage,
+und danach passiert nichts, weil ich derjenige bin, der nichts tut.
 
-Vollständig. Ungekürzt. Mit dem Abberufungsantrag, mit dem Ergebnis
-fünf zu zwei, mit dem Vermerk über meine Befangenheit.
+Alles daran war gut.
 
-Ich schrieb keinen Text dazu. Ich schrieb nur:
+Und ich habe die halbe Nacht wach gelegen wegen eines Satzes, der mit
+mir nichts zu tun hatte:
 
-*Zur Kenntnis. Der Notartermin kann jederzeit stattfinden, oder auch
-nicht. Beides ist in Ordnung. J.*
+*Wenn ich ja gesagt hätte, hätte sie unterschrieben.*
 
-Ich hatte einen Satz über die Tantieme geschrieben und ihn wieder
-gelöscht.
+---
 
-Nicht aus Bescheidenheit. Weil er wie eine Rechnung ausgesehen hätte,
-die ich ihr aufmache, und weil ich in diesem Winter gelernt habe, wie
-schnell aus etwas Gutgemeintem eine Forderung wird.
+Ich habe das nie mit ihr besprochen. Nicht im Februar, nicht im April,
+nicht am dreizehnten September.
 
-Sie hat es trotzdem gefunden. Es stand im Protokoll, Seite drei, Punkt
-sieben, zwischen dem Zustimmungsvorbehalt und den Verschiedenes.
+Ich schreibe es hier hin, weil dieses Buch sonst behauptet, ich hätte in
+diesem Winter irgendwann gewusst, dass es gut ausgeht.
 
-Ich hatte vergessen, dass Marlene Voss alles liest.
+Ich habe es am neunten Januar um zwanzig nach fünf zum ersten Mal
+richtig verstanden: Sie hatte zwei Jahre lang ohne mich zurechtkommen
+müssen und dabei gelernt, wie es geht. Ich war nicht der Grund, aus dem
+sie geblieben ist.
+
+Ich war jemand, der danebenstand, als sie sich entschieden hat.
+
+Bastian hatte recht, und es war furchtbar.

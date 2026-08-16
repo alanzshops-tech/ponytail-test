@@ -1,270 +1,279 @@
 # Kapitel 51 — Leni
 
-Der März war der Monat, in dem alles gleichzeitig funktionierte, und
-genau deshalb war er schwer.
+Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
 
-Das klingt undankbar. Ich versuche es zu erklären.
+Vier Zeilen Anschreiben. *Zur Kenntnis. Der Notartermin kann jederzeit
+stattfinden, oder auch nicht. Beides ist in Ordnung. J.*
 
-Seit dem siebenundzwanzigsten Januar habe ich keine Schulden. Seit dem
-achtzehnten Februar ist Emil vormittags in der Kita. Seit dem
-einundzwanzigsten läuft der neue Ofen, der links dieselbe Temperatur hat
-wie rechts, worüber ich in der ersten Woche zweimal geweint habe, und
-zwar beide Male aus dem falschen Grund.
+Neun Seiten Anhang.
 
-Zum ersten Mal seit sechs Jahren habe ich vormittags drei Stunden, in
-denen niemand etwas von mir will.
+Ich habe alle neun gelesen, zweimal, mit dem Finger auf der Zeile, so
+wie ich Verträge lese, seit ich weiß, dass man Verträge so lesen muss.
 
-Ich habe in der ersten Woche nicht gewusst, was ich damit machen soll.
+**TOP 4.** Er hat ihnen alles gesagt. Das Kind. Den dritten Dezember.
+Den zweiundzwanzigsten. Den Kaufpreis. Die Fristverlängerung auf meine
+Bitte. Es steht da in dieser Protokollsprache, die aus allem eine
+Wetterlage macht, und es ist trotzdem nicht zu übersehen, dass ein Mann
+in einem Raum mit sieben Leuten vier Minuten lang über sein Privatleben
+geredet hat.
 
----
+**TOP 6.** *Antrag auf Abberufung des Geschäftsführers. Abstimmung: 5
+Gegenstimmen, 2 Ja-Stimmen. Antrag abgelehnt.*
 
-Ich habe angefangen, die Bücher aufzuräumen.
+Zwei. Es hätten vier sein müssen, damit er weg ist. Es waren zwei.
 
-Nicht die Buchhaltung — die macht Sievers. Die Bücher: das Kassenbuch
-meiner Großmutter, die Chronik im Flur, drei Kartons mit Rechnungen aus
-den Neunzigern, die im dritten Stock standen und die niemand je
-angesehen hat.
+Ich habe eine Weile auf diese Zahl gesehen.
 
-In der zweiten Woche fand ich in einem dieser Kartons einen Umschlag mit
-Fotos von der Rösterei. 1968, glaube ich. Meine Großmutter steht neben
-einer Maschine, die höher ist als sie, und sieht in die Kamera, als
-hätte man sie bei etwas gestört.
+**TOP 7.** Da stand es.
 
-Auf der Rückseite steht in ihrer Handschrift: *Erste eigene Röstung.
-Hat nicht geschmeckt.*
+*Der Geschäftsführer bietet von sich aus den unwiderruflichen Verzicht
+auf seine Tantieme für drei Geschäftsjahre an (nach Durchschnitt der
+letzten fünf Jahre 360.000 €). Der Beirat nimmt an und lässt
+ausdrücklich vermerken, dass das Angebot vom Geschäftsführer selbst
+ausging.*
 
-Ich habe das Foto in den Flur gehängt, neben die Chronik.
+In seinem Anschreiben stand davon kein Wort.
 
----
-
-Die Bohrpfähle kamen am zehnten März.
-
-Drei Tage, und ich habe zu, weil man in einem Café nicht sitzen kann, in
-dem der Boden schlägt. Reinhardt Immobilien hat den Ausfall ersetzt,
-ohne dass ich fragen musste, weil das in dem Vertrag von September
-steht, in einem Absatz, den Herr Sievers hineinverhandelt hat, als noch
-niemand ahnte, was daraus wird.
-
-Ich habe Sievers deswegen angerufen und mich bedankt.
-
-Er hat gesagt: „Das war mein Job, Frau Voss.“ Und dann, nach einer
-Pause: „Ich hatte damals unrecht, übrigens. Mit dem Verkaufen.“
-
-„Sie hatten nicht unrecht. Es war der vernünftigere Rat.“
-
-„Ja“, sagte er. „Der vernünftigere.“
+Vier Zeilen. *Beides ist in Ordnung.*
 
 ---
 
-Und jetzt der Teil, der schwer war.
+Ich bin an diesem Abend nicht hingefahren, und ich sage auch, warum:
+weil ich dann hingefahren wäre wegen dreihundertsechzigtausend Euro.
 
-Jonas kam in diesem Monat dienstags, donnerstags und freitags. Er hatte
-keinen Schlüssel, er hat jedes Mal geklingelt, und wir hatten eine
-Verabredung, die von mir kam und die albern klingt: einmal in der Woche,
-donnerstags, wenn Emil im Bett ist, sagt jeder von uns einen wahren
-Satz.
+Das ist keine gute Reihenfolge. Das ist Dankbarkeit, und Dankbarkeit ist
+das, was man einem Wohltäter schuldet.
 
-Meiner am vierten Donnerstag war der schwerste.
+Ich habe im Dezember zu ihm gesagt, dass ich nicht in einem Leben leben
+kann, in dem mir jeden Morgen jemand etwas erlässt.
 
-„Ich bin nicht sicher, ob ich dich liebe oder ob ich erleichtert bin.“
-
-Er hat lange nichts gesagt. Dann: „Danke.“
-
-„Danke?“
-
-„Du hättest das nicht sagen müssen.“ Er drehte die Tasse. „Ich hätte es
-nicht gemerkt.“
-
-„Doch“, sagte ich. „Irgendwann schon.“
+Das gilt auch, wenn er es gut macht.
 
 ---
 
-Ich habe im März zum ersten Mal seit zwei Jahren wieder Angst gehabt,
-und diesmal war es eine andere.
+In den sechs Tagen dazwischen kam er zweimal, am Freitag und am
+Sonntagnachmittag, und wir waren beide sehr höflich.
 
-Die alte Angst hatte einen Namen und einen Betrag: zweihundertvierzehn-
-tausendachthundert. Die neue hat keinen.
+Höflich ist das falsche Wort. Wir waren *sorgfältig*. Er klingelte,
+obwohl die Tür offen stand. Ich sagte danke, wenn er Emil die Schuhe
+anzog. Wir sprachen über Uhrzeiten und über Schlaf und über die Frage,
+ob man einem Kind mit zwanzig Monaten schon Nüsse geben darf.
 
-Sie geht so: Alles, was uns bisher zusammengehalten hat, war ein
-Problem. Erst das Haus, dann Emil, dann die Bank. Wir haben nie eine
-Woche gehabt, in der es nichts zu regeln gab.
+Emil hat nichts davon gemerkt, und das war die ganze Absicht.
 
-Und jetzt gibt es nichts mehr zu regeln.
+Einmal, an der Tür, hat er gefragt: „Isst du eigentlich abends was?“
 
-Ich habe das an einem Dienstagabend Frau Kettler gesagt, weil sie
-zufällig da war und weil man ihr Dinge sagt, ohne es vorzuhaben.
+Und ich habe gesagt: „Das steht nicht auf der Liste, Jonas.“
 
-Sie hat den Lappen ausgewrungen und gesagt: „Und?“
-
-„Was und?“
-
-„Dann finden Sie es jetzt raus.“ Sie hängte den Lappen über den Hahn.
-„Frau Voss, Sie reden, als wäre das ein Unglück. Die meisten Leute
-kommen nie in die Lage.“
+Er hat genickt und ist gegangen, und ich habe die Tür zugemacht und bin
+im Flur stehen geblieben, bis ich den Wagen nicht mehr hörte.
 
 ---
 
-Am sechsundzwanzigsten März, dem vierten Donnerstag, nach dem Satz mit
-dem *erleichtert*, ist er nicht gegangen.
+Der Notartermin war am siebenundzwanzigsten Januar um neun Uhr, bei
+einem Notar am Neuen Wall, den weder er noch ich ausgesucht hatte,
+sondern Dr. Sassenberg.
 
-Ich habe mir diesen Abend seitdem sehr oft vorgesagt, und zwar in beide
-Richtungen.
+Wir saßen uns gegenüber. Wir gaben uns die Hand.
 
-Er stand auf, um seine Tasse zur Spüle zu bringen, was er immer macht
-und was mich immer ärgert, weil ich es dann noch einmal abspüle. Ich
-stand auch auf, um ihm die Tasse abzunehmen. Wir standen zwischen Tisch
-neun und der Theke, an der Stelle, an der der Gang neunzig Zentimeter
-breit ist, weil meine Großmutter 1961 eine Vitrine gekauft hat, die zu
-groß war.
+Anwesend: der Notar, sein Mitarbeiter, Niklas Reinhardt für die
+Gesellschaft, Theo Reinhardt als Zeuge für die Pläne, Jonas Reinhardt
+persönlich als Verkäufer der Forderung, und ich.
 
-Er gab mir die Tasse nicht.
+Es dauerte zwei Stunden und zehn Minuten, weil ein Notar alles vorliest.
+Alles. Jede Anlage.
 
-„Marlene.“
+**Erstens:** Bestellung dreier Grunddienstbarkeiten zulasten meines
+Grundstücks, zugunsten der drei Grundstücke der Gesellschaft. Wegerecht,
+Anbaurecht, Leitungsrecht. Kaufpreis 268.000 €, fällig binnen zehn
+Tagen.
+
+**Zweitens:** Kaufvertrag über die Darlehensforderung. Verkäufer: Jonas
+Reinhardt, privat. Käuferin: Marlene Voss. Kaufpreis: 186.000 €.
+
+Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
+Anschaffungspreis des Verkäufers entspricht und dass die Parteien
+übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
+
+„Ist das so richtig?“, fragte er.
+
+„Ja“, sagte Jonas.
+
+„Ja“, sagte ich.
+
+**Drittens** las er einen Absatz vor, bei dem ich zum ersten Mal an
+diesem Vormittag nach Luft geschnappt habe.
+
+*Mit dem Erwerb der Forderung durch die Schuldnerin vereinigen sich
+Forderung und Schuld in einer Person. Die Forderung erlischt
+(Konfusion).*
+
+„Konfusion“, sagte ich.
+
+„Ein alter Ausdruck“, sagte der Notar. „Vermengung. Es ist der einzige
+Fall, in dem eine Schuld verschwindet, ohne dass jemand sie bezahlt oder
+erlässt. Sie hört einfach auf zu existieren, weil niemand mehr da ist,
+der sie fordern könnte.“
+
+Ich sah über den Tisch.
+
+Jonas sah auf seine Hände.
+
+---
+
+**Viertens:** Löschungsbewilligung für die Grundschuld über 260.000 €.
+
+**Fünftens:** ein Blatt, das nicht auf der Tagesordnung stand.
+
+Niklas schob es rüber. „Von der Gesellschaft. Nicht von meinem Bruder.
+Er weiß, was drinsteht, er hat es nicht formuliert.“
+
+Eine Verpflichtung der Reinhardt Immobilien GmbH, im Erdgeschoss von
+Kehrwieder 12 auf zwanzig Jahre keine Nutzungsänderung zu verlangen, zu
+betreiben oder zu unterstützen, und diese Verpflichtung als Reallast
+eintragen zu lassen.
+
+Ich las es zweimal.
+
+„Warum?“, sagte ich.
+
+„Weil Sie es Herrn Kellermann angeboten haben und er es nicht
+unterschreiben wollte“, sagte Niklas. „Das hat sich herumgesprochen. In
+dieser Stadt spricht sich alles herum, Frau Voss, das haben Sie
+inzwischen gemerkt.“
+
+Ich unterschrieb um elf Uhr zehn.
+
+Ich hatte, als ich aus diesem Büro rausging, keine Schulden, ein Haus,
+zweiundachtzigtausend Euro auf dem Konto und ein Café, in dem in
+zwanzig Jahren immer noch ein Café sein muss.
+
+Auf der Treppe habe ich mich am Geländer festhalten müssen.
+
+---
+
+Was ich mit dem Geld gemacht habe, der Reihe nach, weil es das ist, was
+im Kassenbuch steht:
+
+Neuer Ofen: 21.400. Der alte war von 1998 und hatte auf der linken Seite
+vierzig Grad weniger.
+
+Frau Kettler: ein richtiger Arbeitsvertrag über dreißig Stunden, mit
+Beiträgen, mit Urlaub, mit allem. Sie hat neun Jahre schwarz auf halbe
+Tage gearbeitet, weil ich es nicht anders bezahlen konnte, und sie hat
+nie ein Wort gesagt. Rückwirkend geht das nicht. Ab jetzt geht es.
+
+Sie hat den Vertrag gelesen, ihn hingelegt und gesagt: „Da steht
+Weihnachtsgeld.“
 
 „Ja.“
 
-„Ich habe seit November eine Sache nicht gemacht“, sagte er, „und ich
-habe sie nicht gemacht, weil ich dir jedes Mal dabei etwas geschuldet
-hätte. Erst das Dach. Dann die Mappe. Dann die Forderung. Es gab in
-sieben Monaten keinen einzigen Tag, an dem zwischen uns nichts offen
-war.“
+„Frau Voss, ich bin einundsechzig.“
 
-Er stellte die Tasse zurück auf den Tisch, ohne hinzusehen, und traf den
-Untersetzer nicht.
+„Dann kriegen Sie es eben nur noch viermal.“
 
-„Seit dem siebenundzwanzigsten Januar ist nichts mehr offen.“
+Sie ist in den Backraum gegangen und eine Weile nicht wiedergekommen.
 
-Ich wusste genau, was jetzt kommt. Ich habe es zwei Sekunden vorher
-gewusst, und ich habe in diesen zwei Sekunden nichts getan, was man
-Weggehen nennen könnte.
-
-Er hob die Hand und legte sie an meinen Hals, unter dem Ohr, wo man den
-Puls fühlt, und ich weiß, dass er ihn gefühlt hat, weil ich gefühlt
-habe, dass er ihn fühlt.
-
-Neunzig Zentimeter sind nicht viel.
-
-Ich habe seinen Mantel gerochen, der nass war, und darunter den grünen
-Anorak, den er nicht mehr hergibt, und ich habe an eine Schüssel mit
-Butter und Mehl gedacht und daran, dass das jetzt viereinhalb Monate
-her ist und dass es seitdem eine Hand auf einem Ärmel gegeben hat und
-sonst nichts.
-
-Dann habe ich meine Hand auf seine gelegt und sie heruntergenommen.
-
-„Nicht heute“, sagte ich.
+Rest: auf ein Tagesgeldkonto, angefasst wird da nichts. Meine Großmutter
+hätte gesagt: Ein Laden ohne drei Monate Luft ist ein Hobby mit
+Kundschaft.
 
 ---
 
-Ich habe die zwei Wörter gehört, während ich sie gesagt habe, und ich
-habe sie sofort wiedererkannt.
+Und am dritten Februar, einem Dienstag, um Viertel nach zwei, bin ich
+zum ersten Mal in meinem Leben in ein Bürogebäude an der Ericusspitze
+gegangen.
 
-An einem Donnerstagabend im November, im Backraum, mit Mehl bis zum
-Ellenbogen, hatte ich dieselben zwei Wörter benutzt, um ihm zu sagen,
-dass es etwas gibt, und ihn gleichzeitig zu bitten, nicht danach zu
-fragen.
+Ich hatte keinen Termin. Das war Absicht.
 
-Er hat es auch wiedererkannt. Ich habe es gesehen.
+Unten fragte man mich nach dem Anlass. Ich sagte: „Privat“, und die Frau
+am Empfang sah mich an und rief oben an und sagte danach: „Vierter
+Stock.“
 
-Und er hat wieder nicht gefragt.
+Frau Kuhlmann wartete am Aufzug. Sie ist Ende fünfzig und hat mich
+angesehen wie eine Zollbeamtin und dann gesagt: „Er hat gleich einen
+Termin. Der Termin fällt aus.“
 
-„Gut“, sagte er.
+„Ich brauche zehn Minuten.“
 
-„Es ist nicht gut.“
-
-„Nein.“ Er nahm seinen Schlüssel vom Tisch. „Es ist nicht gut. Es ist in
-Ordnung. Das ist zweierlei, und ich kann beides.“
-
-An der Tür drehte er sich um, so wie er sich immer umdreht.
-
-„Sag es mir, wenn es ein anderer Tag ist“, sagte er. „Ich frage nicht
-noch mal.“
+„Sie kriegen so viele, wie Sie wollen“, sagte Frau Kuhlmann.
 
 ---
 
-Ich habe danach eine Stunde in der Küche gesessen, ohne Licht, mit dem
-Rücken an der Ofentür, die noch warm war.
+Sein Büro ist scheußlich. Ich sage das mit Zuneigung. Es ist groß und
+grau und da hängt nichts an den Wänden außer einem Lageplan von 2011,
+und auf dem Schreibtisch stehen zwei Fotos, die beide neu sind, und auf
+beiden ist Emil.
 
-Ich hatte nein gesagt zu dem Einzigen in diesem Winter, das mich nichts
-gekostet hätte.
+Er stand auf, als ich reinkam, und blieb dann stehen, weil er nicht
+wusste, ob er um den Tisch herumgehen darf.
 
-Und ich wusste, warum. Ich habe es nur nicht gern hingeschrieben:
+„Setz dich hin“, sagte ich. „Ich habe das geübt und ich kriege es nicht
+hin, wenn du so stehst.“
 
-Solange er mich nicht angefasst hat, war er einer, der geblieben ist.
-Danach wäre er einer, der bleiben *muss*.
+Er setzte sich.
 
-Meine Mutter hat vierzig Jahre lang darauf gewartet, gefragt zu werden.
-Ich habe an einem Donnerstag im März gemerkt, dass ich in der anderen
-Richtung dasselbe Problem habe: Ich kann nicht ertragen, dass jemand
-bleibt, weil es sich so ergeben hat.
+Ich blieb stehen. Das gehörte nicht zum Plan, aber ich konnte nicht
+anders.
 
-Ich wollte, dass er es sich aussucht.
+„Erstens“, sagte ich. „Punkt sieben. Ich habe es gelesen.
+Dreihundertsechzigtausend. Du hast es nicht dazugeschrieben.“
 
-Ich habe ihm nur nicht gesagt, dass ich das will, und damit war ich
-wieder genau da, wo dieses ganze Jahr angefangen hat.
+„Nein.“
 
----
+„Warum nicht?“
 
-Am siebenundzwanzigsten März ist etwas passiert, das ich hier
-aufschreibe, weil es der eigentliche Schluss dieses Winters ist und
-nicht das Abendessen im Mai.
+„Weil es dann eine Rechnung gewesen wäre.“
 
-Es war der Tag danach, ein Freitag. Jonas hatte Emil geholt, sie waren
-am Elbstrand, und ich hatte den Laden allein und war fertig um sechs.
+Ich nickte, weil das die richtige Antwort war und weil ich sie erwartet
+hatte und weil ich sie trotzdem hören musste.
 
-Ich hatte den ganzen Tag überlegt, was ich sage, wenn er kommt. Ich habe
-zwölf Stunden lang Sätze gebaut und alle wieder abgeräumt.
+„Zweitens. Am achtzehnten Februar fängt Emil in der Kita an. Kirchenweg,
+Gruppe zwei, die Eingewöhnung geht über acht Tage. Man muss die ersten
+drei Vormittage dabeisitzen, in einem Raum mit vierzehn Kindern, auf
+einem Stuhl, der dreißig Zentimeter hoch ist, und darf nichts machen
+außer da sein.“
 
-Er hat nichts gesagt. Er hat gefragt, ob Emil noch etwas isst, und ob
-die Bohrpfähle durch sind, und er hat sich dabei nicht anders
-hingestellt als sonst.
+Er sah mich an.
 
-Ich weiß bis heute nicht, ob ich dankbar oder wütend war.
-
-Um halb sieben kamen sie zurück, und Emil hatte einen Stein in der Hand,
-einen nassen, und marschierte an mir vorbei, direkt zur Schublade unter
-der Kasse.
-
-Er kann sie nicht aufziehen. Er ist einundzwanzig Monate alt und
-sechsundachtzig Zentimeter groß, und die Schublade ist auf einem Meter.
-
-Er stand davor und streckte den Arm hoch und sagte: „Da.“
-
-Ich habe die Schublade aufgezogen — sie geht seit Oktober leicht — und
-ihn hochgehoben, und er hat den Stein hineingelegt, zu dem anderen, dem
-vom November.
-
-Und dann hat er sie selbst zugeschoben, mit beiden Händen.
-
-Jonas stand in der Tür, in dem grünen Anorak aus dem Fundkorb, den er
-inzwischen behalten hat, und sah zu.
-
-„Wusstest du, dass er das weiß?“, fragte er.
-
-„Nein“, sagte ich.
-
-In dieser Schublade lagen: der Brief von der Bank vom vierten Dezember.
-Die blaue Mappe mit dem Etikett. Der Anspitzer. Der Zettel vom
-siebenundzwanzigsten Oktober, den ich nie weggeworfen habe. Zwei Steine.
-
-Es ist die Schublade, in der ich zwei Jahre lang alles aufbewahrt habe,
-was ich niemandem gezeigt habe.
-
-Und mein Sohn benutzt sie inzwischen für seine Steine.
+„Ich kann das nicht allein“, sagte ich. „Nicht weil es zu schwer wäre.
+Weil ich morgens den Laden aufmache und Frau Kettler dienstags zum Arzt
+muss. Ich könnte es hinbiegen. Ich habe drei Jahre lang alles
+hingebogen.“ Ich holte Luft. „Ich möchte es nicht mehr hinbiegen. Ich
+möchte dich fragen. Kommst du?“
 
 ---
 
-Ich habe an diesem Abend, nachdem sie beide weg waren — Emil oben,
-Jonas nach Hause —, die Schublade noch einmal aufgemacht und den Zettel
-herausgenommen.
+Er hat nicht sofort geantwortet. Er hat eine Sekunde gebraucht, und in
+dieser Sekunde ist etwas mit seinem Gesicht passiert, das ich nicht
+beschreiben kann und auch nicht will.
 
-*Emil ist deiner.*
+„Ja“, sagte er. „Alle drei.“
 
-Vier Wörter, viermal umgeschrieben, achtzehn Tage lang nicht gesagt.
+„Es sind nur die ersten drei Vormittage.“
 
-Ich habe ihn nicht weggeworfen. Ich habe ihn zwischen die Fotos von der
-Rösterei gelegt, in den Karton, den ich im März durchgesehen habe.
+„Ich habe acht gehört“, sagte Jonas. „Ich komme acht.“
 
-Wenn Emil ihn irgendwann findet, ist er alt genug, um zu fragen.
+Ich stand da in diesem scheußlichen Büro und merkte, dass ich weine, was
+mir in fremden Räumen noch nie passiert ist.
 
-Und dann ist die Antwort ein Name und keine Lücke.
+„Drittens“, sagte ich, „und dann gehe ich wieder, weil ich sonst Dinge
+sage, für die es zu früh ist.
+
+Ich komme nicht zurück. Noch nicht. Ich weiß nicht, wann.
+
+Ich möchte, dass du mich fragst, bevor du das nächste Mal etwas für mich
+entscheidest. Und ich möchte lernen, dich zu fragen, und das war eben
+mein zweites Mal überhaupt, und ich habe zweiunddreißig Jahre
+Rückstand.“ Ich nahm meine Tasche. „Das kriegen wir nicht an einem Abend
+hin. Ich glaube, das dauert ein Jahr.“
+
+Er stand auf.
+
+„Ich habe Zeit“, sagte er.
+
+Das hat er im November schon einmal gesagt, am Telefon, als ich ihn zu
+dem Mittwoch eingeladen habe, an dem ich es ihm gesagt habe. *Es dauert
+länger.* — *Ich habe Zeit.*
+
+Diesmal habe ich es geglaubt.

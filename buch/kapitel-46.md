@@ -1,237 +1,217 @@
 # Kapitel 46 — Jonas
 
-Sie hat den siebenundzwanzigsten Januar schon aufgeschrieben, und sie
-hat es besser gemacht, als ich es könnte.
+Sievers rief am zwölften Januar um vierzehn Uhr an, zwei Stunden nach
+ihrem Anruf, und ließ mir keine Wahl.
 
-Ich schreibe trotzdem meine Seite hin, weil in ihrer Fassung ein Mann
-vorkommt, der auf seine Hände sieht, und weil ich sagen will, was dieser
-Mann in diesen zwei Stunden und zehn Minuten gedacht hat.
+„Reinhardt? Sievers, Steuerberater. Ich vertrete Frau Voss.“
 
-Er hat gedacht: *Jetzt bloß nichts sagen.*
+„Ich weiß, wer Sie sind.“
+
+„Dann wissen Sie auch, warum ich anrufe. Ich hätte Sie gern heute noch
+hier. Ohne Ihren Anwalt.“ Ein Blättern. „Sechzehn Uhr dreißig.“
+
+„Ich habe um sechzehn Uhr dreißig —“
+
+„Das dachte ich mir“, sagte Sievers und legte auf.
+
+Ich habe zwei Termine abgesagt.
 
 ---
 
-Ich war um zwanzig nach acht da. Vierzig Minuten zu früh, in einem
-Wartezimmer am Neuen Wall mit einem Teppich, der Geräusche schluckt, und
-ich habe die vierzig Minuten damit verbracht, eine Mappe nicht
-aufzumachen.
+Seine Kanzlei liegt in Eimsbüttel, im ersten Stock über einer Apotheke,
+mit einer Klingel aus Messing und einem Treppenhaus, das nach
+Bohnerwachs riecht. Im Wartezimmer stehen sechs Stühle und ein Aquarium
+ohne Fische.
 
-Niklas kam um zehn vor neun und sah die Mappe und sagte: „Du machst das
-wirklich.“
+Er ist Ende sechzig, trägt eine Strickjacke unter dem Sakko und hat auf
+dem Schreibtisch keinen Bildschirm, sondern zwei Stapel Papier und eine
+Rechenmaschine mit Papierrolle, wie sie in Sparkassen standen, als ich
+Kind war.
+
+Er ließ mich stehen, bis er zu Ende geschrieben hatte. Ich glaube, das
+war Absicht, und ich glaube auch, dass es funktioniert hat.
+
+„Setzen Sie sich.“
+
+Ich setzte mich.
+
+„Ich habe hier drei Dinge“, sagte Sievers. „Erstens: eine
+Abtretungsanzeige der Hanseatischen Volksbank vom dreiundzwanzigsten
+Dezember, wonach eine gekündigte Forderung über
+zweihundertvierzehntausendsechshundert Euro an Sie persönlich abgetreten
+wurde. Zweitens: ein Schreiben Ihres Bruders vom dritten Januar.
+Drittens: ein Verkehrswertgutachten über
+zweihundertachtundsechzigtausend Euro.“
+
+Er legte die Hände auf die Papiere.
+
+„Herr Reinhardt, ich mache diesen Beruf seit einundvierzig Jahren. Ich
+habe in dieser Zeit dreimal so etwas gesehen, und zweimal davon saß am
+Ende ein Steuerfahnder bei meinem Mandanten.“
+
+---
+
+„Dann sagen Sie mir, was Sie sehen“, sagte ich.
+
+„Ich sehe Folgendes.“ Er zählte an der Hand ab. „Ein Mann kauft die
+Schulden einer Frau, ohne dass sie davon weiß. Danach beschließt die
+Gesellschaft, deren Geschäftsführer dieser Mann ist, für Rechte zu
+zahlen, die dieselbe Frau seit Oktober unentgeltlich zugesagt hatte. Der
+Betrag liegt zufällig über der Forderung. Am Ende ist die Frau
+schuldenfrei und der Mann Vater ihres Kindes.“
+
+Er sah auf.
+
+„Ich muss nichts erfinden. Ich lese vor.“
+
+„Es ist trotzdem sauber.“
+
+„Es ist sauber“, sagte Sievers. „Das ist es ja. Ich habe zwei Tage
+gebraucht, um es kaputt zu kriegen, und ich habe es nicht geschafft, und
+das sage ich nicht gern. Das Gutachten stammt von einem öffentlich
+bestellten Sachverständigen, den sie ausgesucht hat. Der Wert liegt in
+einem Bereich, den ich nachvollziehen kann; Ihr Bruder hat mir auf
+Nachfrage die Alternativtrasse aufgeschlüsselt, und die ist teurer. Der
+Forderungskauf zum Einstandspreis ist ein Forderungskauf. Konfusion ist
+Konfusion.“ Er legte den Kugelschreiber hin. „Es hält.“
+
+„Warum sitze ich dann hier?“
+
+---
+
+„Weil ich Ihnen eine Frage stellen will“, sagte Herr Sievers, „und weil
+ich sie Ihnen ins Gesicht stellen will und nicht am Telefon.“
+
+„Bitte.“
+
+„Was ist Ihr Interesse?“
+
+„Ich möchte, dass sie ihr Haus behält.“
+
+„Das ist keine Antwort, das ist ein Ergebnis.“ Er lehnte sich zurück.
+„Ich frage anders. Was passiert, wenn sie unterschreibt, schuldenfrei
+ist und Ihnen danach mitteilt, dass sie Sie nicht wiedersehen will außer
+zur Übergabe des Kindes?“
+
+Ich habe eine Weile gebraucht.
+
+„Dann hole ich ihn freitags um zehn ab“, sagte ich, „und bringe ihn um
+sechs zurück.“
+
+„Und das Haus?“
+
+„Gehört ihr.“
+
+„Und die Rechte?“
+
+„Sind gekauft und im Grundbuch. Die kann ihr niemand nehmen, auch ich
+nicht.“
+
+Sievers sah mich an, sehr lange, mit dem Ausdruck eines Mannes, der
+einundvierzig Jahre lang Leuten beim Lügen zugesehen hat.
+
+„Gut“, sagte er dann.
+
+---
+
+Danach war er anders.
+
+Er nahm ein leeres Blatt, drehte es quer und schrieb eine Zahl darauf.
+
+„Das hier geht Sie nichts an“, sagte er, „und ich sage es Ihnen
+trotzdem, weil Sie mit einer falschen Zahl im Kopf hier sitzen. Das ist
+nicht die Zahl meiner Mandantin. Das ist die Zahl, die ein Café dieser
+Größe an diesem Standort in einem guten Jahr für den Inhaber übrig
+lässt, und die können Sie in jeder Branchenauswertung nachlesen.“
+
+Ich sah auf das Blatt.
+
+Es war eine vierstellige Zahl mit einer Eins vorn, und darunter hatte er
+geschrieben: *im Monat, vor Steuern, ohne Rücklage.*
+
+„Ich verstehe“, sagte ich.
+
+„Nein, Sie verstehen es nicht, und das ist kein Vorwurf.“ Er drehte das
+Blatt wieder zurück. „Sie halten es für wenig. Es ist nicht wenig. Es
+ist unmöglich. Von dieser Zahl kann man ein Kind großziehen, wenn man
+mietfrei wohnt und niemals krank wird. Rücklagen für ein Dach von 1911
+bildet man davon nicht. Deshalb war das Dach kaputt, und deshalb hat die
+Bank gekündigt, und nichts davon hat mit Unfähigkeit zu tun.“
+
+„Das habe ich nie —“
+
+„Doch“, sagte Sievers. „Sie haben ihr im September einen Vertrag
+hingelegt, in dem Sie das Dach zahlen. Ich habe ihn geprüft. Ich habe in
+Absatz sieben eine Formulierung gefunden, die Sie das Wegerecht an
+Dritte hätte weitergeben lassen, und die habe ich gestrichen, und Ihr
+Anwalt hat sie ohne ein Wort akzeptiert.“ Er zog die Brille herunter.
+„Danach habe ich zwei Tage weitergesucht, weil kein Mensch ohne Grund
+einen so guten Vertrag schreibt. Und dann habe ich begriffen, dass der
+Grund war, dass Sie sich schämen.“
+
+---
+
+Ich habe an dieser Stelle ungefähr eine Minute lang nichts gesagt.
+
+„Sie hat mich einmal etwas gefragt, das keine Steuerfrage war“, sagte
+Sievers dann. „Ein einziges Mal in drei Jahren. Im September. Sie saß
+da, wo Sie sitzen, mit dem Entwurf auf dem Schoß, und hat gefragt: *Ist
+das ein Geschenk?*“
+
+„Was haben Sie geantwortet?“
+
+„Ich habe gesagt: nein, das ist ein Leistungsaustausch, Sie geben ein
+Wegerecht und bekommen ein Dach.“ Er faltete die Hände. „Das war
+juristisch richtig und im Kern gelogen, und wir wussten es beide. Sie
+hat trotzdem unterschrieben, weil sie musste. Und danach hat sie ein
+Vierteljahr lang jeden Handwerker, der auf diesem Gerüst stand, mit
+Kaffee versorgt, ohne einen Cent zu nehmen, und ich habe mir das
+angesehen und gedacht: Sie zahlt zurück. Sie weiß nur nicht, in welcher
+Währung.“
+
+---
+
+Am Ende, als ich schon stand, sagte er das Einzige, was ich mir aus
+diesem Nachmittag aufgeschrieben habe, im Auto, auf die Rückseite eines
+Parkscheins.
+
+„Herr Reinhardt. Eine Empfehlung, die Sie nicht bezahlen müssen.“
 
 „Ja.“
 
-„Es steht dir frei, es nicht zu machen.“
+„Legen Sie beim Notar den Preis offen, den Sie bezahlt haben. Nicht die
+Zahl aus dem Vertrag — den Kontoauszug. Mit den Nebenkosten. Mit der
+Gebühr der Bank, mit dem Honorar Ihres Anwalts, mit allem.“
 
-„Ich weiß.“
+„Warum?“
 
-Er setzte sich neben mich. Mein Bruder ist Anwalt, seit er
-sechsundzwanzig ist, und er hat in dieser Zeit ungefähr elftausend
-Stunden damit zugebracht, Mandanten davon abzubringen, Dinge freiwillig
-offenzulegen.
+„Weil sie es nachrechnen wird“, sagte Sievers. „Nicht morgen. In vier
+Jahren, nachts, wenn etwas anderes schiefgegangen ist. Und wenn sie dann
+auf einen einzigen Euro stößt, den Sie nicht genannt haben, dann ist
+alles andere, was Sie in diesem Winter getan haben, für sie wertlos.“
 
-„Zum letzten Mal“, sagte er. „Sie hat keinen Anspruch darauf. Der
-Kaufpreis steht im Vertrag, er ist prüfbar, der Notar verliest ihn. Was
-du in der Mappe hast, ist mehr, als jeder Käufer der Welt je zu sehen
-bekommt.“
+Er machte die Tür auf.
 
-„Ja.“
-
-„Warum dann?“
-
-„Weil sie es sonst in vier Jahren nachts nachrechnet“, sagte ich.
-
-Niklas sah mich an.
-
-„Wer hat dir das gesagt?“
-
-„Ihr Steuerberater.“
-
-Mein Bruder lachte einmal, kurz, ohne Freude, und sagte: „Natürlich.“
+„Das ist keine Rechtsberatung“, sagte er. „Das ist einundvierzig Jahre
+Zusehen.“
 
 ---
 
-Sie kam um Punkt neun. Sie gab mir die Hand.
+Ich saß danach zwanzig Minuten in einem Wagen in der Osterstraße, im
+Halteverbot, und habe niemanden angerufen.
 
-Ich hatte in den zwölf Tagen davor sehr oft überlegt, wie das sein wird,
-und ich hatte mit allem Möglichen gerechnet, und ich hatte nicht damit
-gerechnet, dass sie mir die Hand gibt wie eine Geschäftspartnerin und
-dass mich das mehr trifft als alles andere an diesem Vormittag.
+Ich hatte in diesem Winter mit Wendland gesprochen, mit Niklas, mit
+Theo, mit meiner Mutter, mit einer Sachbearbeiterin des Jugendamts und
+mit einer Frau in Rissen.
 
-Zwei Stunden zehn. Ein Notar liest alles vor. Jede Anlage, jede
-Bezugsurkunde, jede Flurstücksnummer, jede Grundbuchblattnummer, und man
-sitzt da und darf nicht daran denken, was gerade verhandelt wird,
-sondern nur an das, was vorgelesen wird.
+Der Erste, der mich gefragt hat, was ich eigentlich will, war der
+Steuerberater der Gegenseite.
 
-Es war das Beste, was uns beiden passieren konnte.
+Ich habe am Abend Niklas geschrieben, er solle für den Notartermin eine
+Aufstellung vorbereiten: Kaufpreis der Forderung, Bearbeitungsgebühr der
+Bank, Beurkundungskosten, sein eigenes Honorar. Vollständig. Mit
+Kontoauszügen im Anhang.
 
-Ich habe in diesen zwei Stunden dreimal etwas sagen wollen und es
-dreimal nicht getan, und ich zähle das zu den nützlichsten Dingen, die
-ich in diesem Jahr unterlassen habe.
+Er hat um dreiundzwanzig Uhr geantwortet: *Das muss man nicht offenlegen.*
 
----
-
-Bei Anlage vier machte ich die Mappe auf.
-
-„Bevor der Kaufvertrag über die Forderung beurkundet wird“, sagte ich,
-„möchte ich etwas zu Protokoll geben.“
-
-Der Notar sah auf. Notare mögen das nicht.
-
-„Es ändert nichts am Text“, sagte ich. „Es ist eine Anlage zur
-Kenntnis.“
-
-Ich schob vier Blätter über den Tisch.
-
-**Blatt eins:** Der Kaufvertrag mit der Hanseatischen Volksbank vom
-zweiundzwanzigsten Dezember. Kaufpreis der Forderung:
-186.000,00 €.
-
-**Blatt zwei:** Kontoauszug. Wertstellung 23.12., Empfänger
-Hanseatische Volksbank, 186.000,00 €. Darunter, gleicher Tag,
-eine zweite Buchung: 47,50 € Bearbeitungsentgelt Forderungsverkauf.
-
-**Blatt drei:** Rechnung Niklas Reinhardt, Beratung und Vertragsprüfung
-Dezember, 2.856,00 € brutto. Bezahlt am 30.12. von meinem
-Privatkonto. Nicht von der Gesellschaft.
-
-**Blatt vier:** Eine Aufstellung, die alles zusammenzieht, mit einer
-Summe unten rechts: **188.903,50 €.** Und ein Satz darunter, den
-Niklas nicht formuliert hat, weil er sich geweigert hat:
-
-*Dies ist alles, was der Verkäufer für die Forderung aufgewendet hat.
-Weitere Aufwendungen, Nebenabreden, Rückvergütungen oder Vorteile
-bestehen nicht.*
-
-„Der Verkaufspreis heute beträgt einhundertsechsundachtzigtausend“,
-sagte ich. „Ich verkaufe zweitausendneunhundertdrei Euro fünfzig unter
-meinen Kosten. Das ist kein Nachlass, das sind Nebenkosten, die ich
-nicht auf sie umlegen will. Wenn das steuerlich ein Problem ist, sagt
-mir das jemand, und dann machen wir es anders.“
-
-Sievers, der nicht da war, hätte an dieser Stelle vermutlich gesagt, das
-sei rechtlich unnötig.
-
-Marlene sah die vier Blätter an, sehr lange, und blätterte einmal
-zurück.
-
-Dann sagte sie: „Danke“, und legte sie in ihre Mappe, und wir machten
-weiter.
-
----
-
-Es gibt an diesem Vormittag genau eine Stelle, an der ich es fast nicht
-ausgehalten hätte, und sie stand nicht im Vertrag.
-
-Der Notar las den Absatz über die Konfusion vor. *Die Forderung
-erlischt.*
-
-Und Marlene sagte: „Konfusion.“
-
-Sie sagte es so, wie sie Wörter sagt, die sie behalten will, und ich
-habe sie in diesem Moment nicht angesehen, weil ich wusste, dass ich das
-Gesicht nicht hinkriege.
-
-Zwei Jahre lang hatte ich mir eingeredet, dass es zu spät ist. Sieben
-Wochen lang hatte ich Papier gebaut, damit eine Schuld verschwindet,
-ohne dass jemand sie erlässt. Und dann saß eine Frau am Tisch und
-wiederholte ein Wort aus dem neunzehnten Jahrhundert, als hätte sie es
-gerade geschenkt bekommen.
-
-Ich habe auf meine Hände gesehen. Sie hat es richtig aufgeschrieben.
-
----
-
-Um elf Uhr zehn hat sie unterschrieben.
-
-Sie ging vor mir raus. Ich habe ihr nicht die Tür aufgehalten, weil ich
-mir das für diesen Tag verboten hatte, und ich habe im Flur gestanden
-und gesehen, wie sie sich auf der Treppe am Geländer festhielt, und ich
-bin nicht hingegangen.
-
-Das war die schwerste einzelne Sekunde dieses Winters.
-
-Theo stand neben mir und sagte nichts. Mein Bruder kann das. Er hat
-zwanzig Sekunden lang nichts gesagt und dann: „Fahr ins Büro.“
-
-„Ich weiß.“
-
-„Ich meine es ernst. Fahr ins Büro und arbeite, sonst fährst du zum
-Kehrwieder.“
-
----
-
-Ich bin ins Büro gefahren und habe gearbeitet.
-
-Bauleitung Rothenburgsort: Das Denkmalschutzamt hat am
-einundzwanzigsten Januar geantwortet, nach dreieinhalb Monaten. Zwei
-Seiten. Das Siel wird als Sachgesamtheit erfasst, ein Abschnitt von
-achtzehn Metern bleibt erhalten und wird überbaut, der Rest darf
-zurückgebaut werden. Bauzeit plus elf Wochen. Kosten, Stand heute:
-vierhundertzehntausend.
-
-Frau Dr. Ahrend hat am Ende ihres Berichts einen Satz stehen lassen, der
-dort fachlich nichts zu suchen hat, und ich vermute, dass sie das wusste:
-
-*Nach Kenntnis der Verfasserin ist dies der erste vollständig
-dokumentierte Sielabschnitt dieser Bauart im Stadtgebiet.*
-
-Ich habe diesen Satz gelesen und gedacht, dass mein Vater ihn albern
-gefunden hätte.
-
-Und dann habe ich gedacht, dass mein Vater seit zwölf Jahren tot ist und
-dass ich langsam aufhören sollte, mir vorzustellen, was er von Dingen
-hält.
-
----
-
-Es kam dann eine Woche, in der nichts passierte, und ich hatte damit
-gerechnet, dass sie schwer wird, und sie war es nicht.
-
-Ich habe Emil freitags geholt und montags gebracht und dazwischen
-gearbeitet. Ich habe am Samstag mit meiner Mutter telefoniert und ihr
-gesagt, dass die Schulden weg sind, und sie hat gefragt: „Und ihr?“, und
-ich habe gesagt: „Weiß ich nicht.“
-
-„Gut“, hat sie gesagt.
-
-„Was ist daran gut?“
-
-„Dass du es nicht weißt“, sagte meine Mutter. „Du hast in deinem ganzen
-Leben noch nie etwas nicht gewusst und trotzdem ausgehalten.“
-
----
-
-Am dritten Februar, einem Dienstag, um Viertel nach zwei, rief Frau
-Kuhlmann durch und sagte, ich hätte Besuch, und der Termin um halb drei
-falle aus.
-
-„Wer ist es denn?“
-
-„Das sehen Sie gleich“, sagte meine Assistentin, und ich hörte an ihrer
-Stimme, dass sie sich seit neunzehn Jahren auf diesen Satz gefreut
-hatte.
-
-Marlene kam rein und blieb stehen, und ich stand auf und wusste nicht,
-ob ich um den Tisch herumgehen darf.
-
-Was sie dann gesagt hat, steht bei ihr, und sie hat es Wort für Wort
-richtig aufgeschrieben — bis auf eine Stelle.
-
-Sie schreibt, ich hätte eine Sekunde gebraucht.
-
-Es war keine Sekunde. Ich habe in dieser Zeit den ganzen November noch
-einmal gesehen, die Mappe, die sechsunddreißig Seiten, das Laborblatt,
-und die zwei Jahre, in denen ich nicht angerufen habe, und ich habe
-gedacht: *Sie fragt mich. Sie fragt mich um etwas, das sie allein
-hinbiegen könnte.*
-
-Dann habe ich ja gesagt.
-
-Ich habe an diesem Abend in meiner Küche gestanden, allein, mit einem
-Kalender in der Hand, und acht Vormittage eingetragen, einzeln, mit
-Datum und Uhrzeit, wie Termine.
-
-Und daneben, weil ich nicht anders kann, eine Zeile mit fünf Wörtern:
-
-*Nichts tun. Nur da sein.*
+Ich habe geschrieben: *Ich weiß.*

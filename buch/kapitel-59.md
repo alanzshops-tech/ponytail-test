@@ -1,246 +1,224 @@
-# Epilog — Leni
+# Kapitel 59 — Leni
 
-Der dreizehnte September, ein Sonntag, ein Jahr und fünf Tage nach dem
-Morgen, an dem ein Mann in einem zu guten Mantel durch meine Tür kam.
+Am neunten April sind zum ersten Mal seit 1994 wieder Menschen in die
+oberen Etagen eingezogen.
 
-Ich stehe sonntags trotzdem um zwanzig nach vier auf. Das kriegt man
-nicht weg. Aber ich gehe nicht mehr runter.
+Ich schreibe das Jahr hin, weil es in der Chronik im Flur steht. Meine
+Großmutter hat die zweite und dritte Etage im Herbst 1994 leer geräumt,
+weil der letzte Mieter — ein Kontor für Schiffsausrüstung — aufgegeben
+hatte und weil sie mit siebenundsechzig nicht mehr die Kraft hatte, sich
+mit dem Denkmalamt über Fluchtwege zu streiten.
+
+Zweiunddreißig Jahre. In meinem ganzen Leben war über mir nichts als
+Staub, Taubendreck und zwei Regalhalterungen aus der Zeit der Rösterei.
 
 ---
 
-Was sich in einem Jahr geändert hat, kurz, weil man das wissen will:
+Ich hatte mir das anders vorgestellt.
 
-Merle macht dienstags und samstags den Backraum allein. Sie ist jetzt
-vierundzwanzig und hat im Juli gefragt, ob sie die Hochzeitstorten
-übernehmen darf, und ich habe ja gesagt, und die erste war besser als
-meine.
+Ich hatte gedacht, es kommt ein Umzugswagen und danach hört man Schritte.
+Was tatsächlich passiert ist: Ich habe morgens um zehn nach sieben
+aufgeschlossen, und um zwanzig nach sieben stand eine Frau in meinem
+Café und sagte:
 
-Ida Rüting aus dem zweiten Stock hilft samstags an der Theke, drei
-Stunden, angemeldet, zehn Euro fünfzig, und rechnet schneller als ich.
+„Ich glaube, wir wohnen jetzt übereinander.“
 
-Frau Kettler hat im Dezember zum ersten Mal in neun Jahren
-Weihnachtsgeld bekommen und dazu nichts gesagt, sondern am
-siebenundzwanzigsten mit einem Blech Butterkuchen vor der Tür gestanden,
-das niemand bestellt hatte.
+Sie heißt Britta Rüting, ist Hebamme, arbeitet im Schichtdienst und hat
+einen Mann, der bei der Wasserschutzpolizei ist, und eine Tochter von
+neun, die Ida heißt.
 
-Hauke klopft weiter um fünf vor sechs an die Seitentür. Herr Kubatz
-kommt weiter um zehn nach neun und nimmt weiter das, was sonst keiner
-nimmt. Sender ist im Frühjahr vierzehn geworden und legt sich jetzt
-schon um Viertel nach neun hin.
+„Vier Zimmer, achtundneunzig Quadratmeter“, sagte sie. „Wir haben
+zweieinhalb Jahre gesucht. Wissen Sie, wie viele Vermieter in dieser
+Stadt an eine Hebamme im Schichtdienst vermieten?“
 
-Der Hof ist seit Juni fertig.
+„Nein.“
 
-Was seit dem achten Mai mit Theo ist, schreibe ich nicht auf. Es ist
-seins, es ist nicht vorbei, und er kann es besser erzählen als ich. Nur
-so viel: Amira war im Juli zum ersten Mal bei seiner Mutter zum
-Kartoffelsalat, und Jonas hat sich hinterher zwanzig Minuten im Wagen
-sammeln müssen.
+„Ich auch nicht. Es waren jedenfalls nicht viele.“
 
-Und Jonas Reinhardt sitzt seit dem Wintersemester dienstagabends von
-achtzehn bis einundzwanzig Uhr in einem Hörsaal an der Denickestraße
-und hört Technische Mechanik, zusammen mit Leuten, die zwanzig sind. Er
-hat es mir im August erzählt, wie angekündigt, und er hat dabei
-ausgesehen wie jemand, der eine Straftat gesteht.
+Sie hat einen Kaffee getrunken, im Stehen, und dabei einmal an die Decke
+gesehen, so wie man das macht, wenn man sich seinen eigenen Fußboden von
+unten ansieht.
 
-„Acht Jahre“, hat er gesagt.
+---
 
-„Dann bist du vierundvierzig.“
+In die dritte Etage sind zwei Männer eingezogen, Ende zwanzig, die eine
+Werkstatt für Schiffsmodelle betreiben und beide Tomasz heißen, was sie
+mir am ersten Tag erklärt haben, als wäre es ein Betriebsunfall.
+
+Ida Rüting kam am zweiten Tag nach der Schule runter und stellte sich an
+die Vitrine und sah sich alles an, sehr genau, von links nach rechts.
+
+„Was ist das Beste?“
+
+„Kommt drauf an, was du magst.“
+
+„Nein“, sagte Ida. „Was ist das Beste.“
+
+Ich habe ihr ein Stück Zitronenkuchen hingestellt und nichts dafür
+genommen, und seitdem kommt sie jeden Dienstag und Donnerstag und
+bezahlt mit dem Geld, das sie von ihrem Vater bekommt, und ich nehme es,
+weil sie es sonst nicht wieder täte.
+
+---
+
+Ich möchte hier etwas sagen, das ich im September nicht hätte sagen
+können.
+
+Diese beiden Etagen gehören mir. Sie gehören mir seit 2023, und sie
+haben mir bis vor zwei Wochen nichts eingebracht außer Heizkosten für
+einen Raum, den niemand heizt, und einem schlechten Gewissen.
+
+Sie sind jetzt vermietet, und ich sehe von diesen Mieten fünfzehn Jahre
+lang keinen Cent.
+
+Das war mein Vorschlag. Ich habe ihn im September in einem
+Besprechungsraum am Alten Wandrahm gemacht, aus einem Blatt vom
+Küchentisch vorgelesen, weil ich kein Geld nehmen wollte.
+
+Ich habe ihn nicht bereut, und ich habe im April zum ersten Mal
+verstanden, was ich da eigentlich getauscht habe.
+
+Ich habe fünfzehn Jahre Miete gegen ein bewohntes Haus getauscht.
+
+Über mir wohnt eine Hebamme, die um vier Uhr nachts nach Hause kommt und
+im Treppenhaus die Schuhe auszieht, weil sie glaubt, dass sie mich sonst
+weckt. Ich bin um vier Uhr nachts wach. Ich habe es ihr noch nicht
+gesagt.
+
+---
+
+Und jetzt zu dem, wovor ich im März Angst hatte.
+
+Ich habe es aufgeschrieben, also stehe ich auch dazu: Alles, was uns
+zusammengehalten hat, war ein Problem. Erst das Haus, dann Emil, dann
+die Bank. Und dann gab es nichts mehr zu regeln, und ich habe gedacht,
+dann sieht man, was übrig bleibt.
+
+Was übrig geblieben ist, sah im April so aus.
+
+Am fünften, einem Sonntag, dem Tag nach dem Nachmittag auf dem Teppich,
+sind wir zu dritt nach Övelgönne gefahren und drei Stunden am Wasser
+gewesen.
+
+Es gab keinen Anlass. Niemand hatte Geburtstag, niemand musste etwas
+besprechen, es stand nichts an. Wir haben Emil Steine ins Wasser werfen
+lassen, wir haben an einem Kiosk etwas gegessen, das nicht gut war, und
+wir haben eine Dreiviertelstunde über nichts geredet.
+
+Ich habe das nicht ausgehalten.
+
+Ich sage das ganz genau so, weil es stimmt: Ich habe nach ungefähr
+vierzig Minuten angefangen, im Kopf Dinge zu suchen, die man besprechen
+könnte. Kita-Zeiten. Die Frage, wer im Sommer Urlaub nimmt. Ob man den
+Anorak waschen kann.
+
+Und irgendwann hat Jonas gesagt, ohne mich anzusehen:
+
+„Du suchst nach einem Thema.“
 
 „Ja.“
 
-„Und wenn du es nicht machst, bist du auch vierundvierzig“, habe ich
-gesagt, und er hat mich angesehen, als hätte ich etwas Kluges gesagt,
-dabei ist das der einzige Satz zu diesem Thema, den es gibt.
+„Ich auch“, sagte er. „Seit zehn Minuten.“
+
+Und dann haben wir beide gelacht, sehr lange, so wie man lacht, wenn man
+sich beim selben Fehler erwischt, und Emil hat mitgelacht, obwohl er
+nichts verstanden hat, und ein Mann mit einem Hund hat sich zu uns
+umgedreht.
 
 ---
 
-Wir sind an diesem Sonntag um halb elf in den Hof gegangen, weil Emil
-einen Bagger sehen wollte.
+Ich habe an diesem Sonntagabend, als er weg war, am Küchentisch
+gesessen und begriffen, dass meine Märzangst ein Denkfehler war.
 
-Es war Sonntag. Da steht kein Bagger. Das lässt sich einem Menschen von
-zwei Jahren und vier Monaten nicht erklären, und wir sind trotzdem
-hingegangen, weil man in dem Alter erst glaubt, was man selbst nicht
-gesehen hat.
+Ich hatte gedacht: Ohne Problem bleibt nichts.
 
-Der Hof ist unregelmäßig. Er ist es, weil mein Haus schief steht, und
-die beiden Neubauten treten zurück, als machten sie Platz. Wenn man in
-der Durchfahrt steht — in meiner Durchfahrt, unter meinem Tor, über das
-im Grundbuch jetzt ein Wegerecht steht, für das jemand
-zweihundertachtundsechzigtausend Euro bezahlt hat — und nach hinten
-sieht, dann sieht man, dass hier um etwas herumgebaut worden ist.
+Es bleibt aber etwas. Es ist nur nichts, was man vorzeigen kann. Es sind
+drei Stunden an einem Sonntag, in denen zwei Erwachsene nichts zu
+verhandeln haben und es beide nicht können und darüber lachen.
 
-In der Mitte, nicht ganz in der Mitte, steht eine Winterlinde.
-
-Vier Meter, drei Pfähle, ein Gurt, ein Gießring. Sie ist im März
-gepflanzt worden, und sie hat den Sommer überstanden, und sie sieht
-noch nach nichts aus.
-
-Theo hat sie in fünf Sitzungen verteidigt. Nicht in drei. Er hat mir im
-Juni die Protokolle gezeigt, aus Eitelkeit, und ich habe sie gelesen,
-weil ich inzwischen Protokolle lese.
+Das ist erstaunlich wenig, und es ist erstaunlich schwer, und es ist
+vermutlich das Einzige, was hält.
 
 ---
 
-Emil hat mit einem Stock im Gießring gegraben.
+Der Donnerstag danach war der neunte — derselbe Tag, an dem oben
+eingezogen worden war.
 
-Jonas saß auf der niedrigen Mauer, in dem grünen Anorak aus dem
-Fundkorb, den er nie zurückgegeben hat, und ich saß daneben, und es war
-zwanzig Grad und bewölkt und es passierte nichts.
+Wir standen in meiner Küche, Emil schlief seit halb acht, und wir hatten
+unseren einen wahren Satz vor uns.
 
-Ein Jahr vorher hätte ich das nicht ausgehalten. Ich weiß das, weil ich
-es aufgeschrieben habe: *Ich kann Krisen. Ich kann keine Sonntage.*
+Ich hatte meinen seit Sonntag im Kopf und hatte ihn dreimal umgebaut,
+und ich habe ihn am Ende so gesagt, wie er zuerst gewesen war.
 
-Ich habe an diesem Vormittag zweiundvierzig Minuten auf einer Mauer
-gesessen und nichts geregelt.
+„Ich weiß nicht, wie das geht“, sagte ich. „Ich habe noch nie mit
+jemandem zusammen etwas gehabt, das kein Notfall war. Nicht mit meiner
+Mutter, nicht mit Sanne, nicht mit dir. Ich kann Krisen. Ich kann keine
+Sonntage.“
 
-Und dann habe ich gefragt.
+Er hat die Tasse abgestellt.
 
-„Willst du hier wohnen?“
+„Das ist derselbe Satz wie meiner“, sagte er.
 
-Er hat sich nicht sofort umgedreht.
+„Was war deiner?“
 
-„Bei euch?“
+„Meiner war: Ich weiß nicht, was ich hier eigentlich anbiete, wenn
+gerade nichts kaputt ist.“
 
-„In dem Haus. Zweiter Stock ist vermietet, dritter ist vermietet, aber
-über dem Café sind vier Zimmer, und in einem davon steht seit sieben
-Jahren ein Wäscheständer.“ Ich sah geradeaus. „Ich frage schlecht. Ich
-frage seit einem Jahr, und ich werde nicht besser darin.“
+Wir haben uns über den Küchentisch angesehen.
 
-„Du fragst nicht schlecht.“
+„Wir sind ein Elend“, sagte ich.
 
-„Doch. Ich habe mit dem Wäscheständer angefangen.“
-
-Jonas hat gelacht, einmal, und dann hat er gesagt: „Ja.“
-
-Nur das. Er hat nicht gefragt, ab wann, und nicht, ob wir das mit Emil
-erst besprechen sollten, und nicht, was es kostet.
-
-Ich habe zwei Jahre gebraucht, um zu lernen, wie viel Arbeit in einem
-Mann steckt, der bei einer wichtigen Frage nur *ja* sagt.
+„Wir sind zwei Leute, die in Projekten denken“, sagte Jonas. „Das ist
+das Gleiche, nur teurer.“
 
 ---
 
-Danach war es eine Weile still, und dann sagte er:
+Ich habe an diesem Abend noch etwas gesagt, und ich schreibe es hin,
+weil es das Einzige ist, was in diesem ganzen April wirklich etwas
+verändert hat.
 
-„Ich habe eine Frage, die ich seit dem elften April nicht gestellt
-habe.“
+„Jonas.“
 
-„Ich weiß.“
+„Ja?“
 
-„Willst du sie heute hören?“
+„Wenn du mich in den nächsten Monaten irgendwas Großes fragst“, sagte
+ich, „dann sage ich ja.“
 
-Und da habe ich gemerkt, dass er sogar das noch fragt, und ich habe
-gedacht: Wenn ich jetzt nein sage, fragt er im Dezember noch mal, und
-das ist der Unterschied zwischen diesem Mann und jedem Satz, den meine
-Mutter mir über Männer beigebracht hat.
+Er wurde sehr still.
 
-„Ja“, sagte ich.
+„Und ich weiß nicht, ob ich es meine“, sagte ich. „Ich weiß nur, dass
+ich nicht nein sagen könnte. Nicht nach diesem Winter. Nicht mit dem
+Grundbuch, wie es jetzt aussieht.“
 
-Er ist nicht auf die Knie gegangen. Ich hätte es fürchterlich gefunden,
-und er wusste das.
+Ich habe die Tassen genommen und in die Spüle gestellt, weil ich ihn
+dabei nicht ansehen wollte.
 
-Er hat den Ring aus der Innentasche geholt — er trägt ihn seit fünf
-Monaten mit sich herum, in einer kleinen flachen Schachtel, und
-zweimal ist er in die Waschmaschine geraten, weil er die Jacke vergessen
-hat — und er hat ihn zwischen uns auf die Mauer gelegt, nicht in die
-Hand gedrückt.
-
-Dann hat er gesagt:
-
-„Marlene. Willst du mich heiraten?“
-
-Und danach, ohne Pause, weil er das seit April vorbereitet hat und weil
-es der eigentliche Satz war:
-
-„Wenn du nein sagst, ändert sich nichts. Nicht das Haus, nicht der
-Junge, nicht die Dienstage. Ich frage heute, weil heute nichts ist.“
+„Das ist kein Vorwurf“, sagte ich. „Du hast nichts falsch gemacht. Ich
+sage es dir, weil du es sonst nicht wissen kannst, und weil das hier
+Donnerstag ist.“
 
 ---
 
-Ich habe nicht sofort geantwortet.
+Er ist an diesem Abend gegangen, ohne etwas dazu zu sagen. Er hat
+gesagt: „Danke“, und dann: „Bis Freitag“, und dann ist er gefahren.
 
-Ich schreibe das hin, weil es der wichtigste Teil ist, und weil ich
-weiß, wie es aussieht, wenn man es nur erzählt und nicht erklärt.
+Ich habe die Tür zugemacht und im Flur gestanden, bis ich den Wagen
+nicht mehr hörte, und gedacht, ich hätte etwas kaputt gemacht.
 
-Ich habe die Sekunden gezählt. Es waren elf.
+Er hat den Ring am elften gekauft. Das habe ich erst viel später
+erfahren, und als ich es erfahren habe, habe ich mir das Datum
+aufgeschrieben.
 
-Nicht weil ich unsicher war. Ich war seit Ostern nicht mehr unsicher.
+Zwei Tage danach.
 
-Ich habe elf Sekunden lang nichts gesagt, um zu prüfen, ob ich es
-aushalte — ob ich in einem Hof sitzen kann, neben einem Mann, mit
-seiner Frage in der Luft, ohne dass mir jemand etwas wegnimmt und ohne
-dass ich schnell etwas retten muss.
+Er ist am übernächsten Tag losgegangen und hat einen Ring gekauft
+und ihn dann nicht benutzt, und er hat mir am dritten Tag gesagt, dass
+er da ist, und warum er nicht fragt.
 
-Es hielt. Nichts ging kaputt. Er saß da und wartete und sah dabei nicht
-einmal auf seine Hände.
+Ich habe zweiunddreißig Jahre gebraucht, um zu lernen, dass man Leute
+fragen darf.
 
-Das war der Beweis, und den brauchte ich, und danach war es einfach.
+Er hat einen Tag gebraucht, um zu lernen, dass man manche Dinge nicht
+fragen darf, solange die Antwort feststeht.
 
-„Ja“, sagte ich.
-
----
-
-Der Ring passt und ist flach und hat keine Kanten, weil eine
-Verkäuferin am Neuen Wall im April einem Mann zugehört hat, der ihr
-erklärte, dass die Frau, um die es geht, zwölf Stunden am Tag die Hände
-in Wasser hat.
-
-Ich habe ihn in der ersten Woche viermal abgenommen und dreimal
-wiedergefunden.
-
-Beim vierten Mal lag er in der Schublade unter der Kasse, zwischen zwei
-Steinen vom Elbstrand, und ich habe eine Weile davorgestanden.
-
-In dieser Schublade lagen zwei Jahre lang die Dinge, die ich niemandem
-gezeigt habe. Ein Kündigungsschreiben. Eine blaue Mappe. Ein Zettel mit
-vier Wörtern.
-
-Jetzt liegen darin: zwei Steine, ein Ring und ein Heft.
-
----
-
-Auf der drittletzten Seite dieses Heftes stehen vier Zeilen, drei davon
-aus dem Herbst 2023, mit einem anderen Stift.
-
-Ich habe am Sonntagabend eine fünfte dazugeschrieben, und dann habe ich
-das Heft zugemacht und zurückgelegt, weil es dahin gehört.
-
-Es steht kein Umsatz daneben. Sonntags ist zu.
-
----
-
-Meine Großmutter hat vierzig Jahre lang jeden Tag zwei Zeilen
-geschrieben, und ich habe zweiunddreißig Jahre gebraucht, um zu
-begreifen, dass in einer davon einmal stand, dass sie jemanden um Geld
-gebeten hat.
-
-Im Flur hängt immer noch die Liste von 1961, neun Zeilen, neun Preise.
-Zeile acht ist der Grund, warum in dieser Vitrine an jedem Tag
-Zitronenkuchen liegt.
-
-Ich backe eine Liste von 1961 nach. Das mache ich weiter.
-
----
-
-Am Montagmorgen war ich um zwanzig nach vier unten.
-
-Ofen an, vierzig Minuten, der Vorteig steht seit Sonntagabend halb acht
-in der Wanne. Neun Bleche. Um zwanzig vor sieben die Rollos, alle vier,
-die zweite Kurbel geht immer noch schwer.
-
-Oben schliefen zwei Menschen, von denen einer erst seit vier Nächten
-dort schläft und noch nicht weiß, dass man die vierte Diele von der Tür
-aus nicht betreten darf.
-
-Der Ofen hatte keine Meinung. Das war ein Jahr lang das Schönste an ihm.
-
-Ich brauche ihn dafür nicht mehr.
-
----
-
-**ENDE**
-
-*Die Reinhardt-Brüder gehen weiter.*
-
-**Band 2 — Theo:** Vierzehn Monate verheiratet, und niemand in der
-Familie weiß, dass es sie gibt. Am Montag läuft ihre Frist ab.
+Wir sind, glaube ich, ungefähr gleich weit.

@@ -27,7 +27,7 @@ er kaufen wollte. — Sie haben es gerade gelesen.
 
 **Band 2 — Theo**
 *in Arbeit*
-Seit vierzehn Monaten verheiratet, und niemand in der Familie weiß,
+Seit achtzehn Monaten verheiratet, und niemand in der Familie weiß,
 dass es sie gibt. Am Montag läuft ihre Frist ab.
 
 **Band 3 — Niklas**
