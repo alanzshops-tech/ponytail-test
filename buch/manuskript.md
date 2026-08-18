@@ -1,6 +1,6 @@
 # Was ich dir nie gesagt habe
 
-### Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman
+### Ein Milliardär, ein geheimes Kind und eine zweite Chance
 
 **Die Reinhardt-Brüder — Band 1**
 
@@ -500,8 +500,8 @@ es zugelassen hätte.
 
 ---
 
-Ich sah mich um, während sie hinter den Tresen zurückging, und ich sah
-mich zum ersten Mal richtig um.
+Während sie hinter den Tresen zurückging, sah ich mich um. Richtig um,
+meine ich — beim Reinkommen hatte ich nur die Decke angesehen.
 
 Zwölf Tische. Ein Boden aus alten Fliesen, schwarz und weiß, in einer
 Ecke ausgebessert mit welchen, die fast passen. Eine Vitrine, in der um
@@ -5730,6 +5730,28 @@ Emil kletterte auf mich, wenn ich mich hinsetzte. Nicht *zu* mir. *Auf*
 mich, wie auf einen Gegenstand, was, glaube ich, die höchste Form von
 Vertrauen ist, die ein achtzehn Monate alter Mensch vergeben kann.
 
+Und einmal, an einem Donnerstag gegen halb neun, kam sie mit zwei
+Tassen um die Theke und stellte eine vor mich hin, und weil ich in dem
+Moment die Hand ausstreckte, stießen wir die zweite um.
+
+Sie fing sie ab. Ich auch. Vier Hände an einer Tasse, die schon stand.
+
+„Geht schon“, sagte sie und ließ los.
+
+Es war nichts. Ich schreibe es nur auf, weil ich danach eine
+Dreiviertelstunde über Entwässerung geredet habe und mich nicht an ein
+Wort davon erinnere.
+
+Sie hatte an diesem Abend die Haare hochgesteckt, mit einem Bleistift,
+und irgendwann rutschte er heraus, und sie steckte ihn wieder hinein,
+ohne hinzusehen, mitten im Satz.
+
+Ich habe zwölf Jahre lang Verhandlungen geführt und dabei gelernt, was
+man sich merkt und was nicht. Man merkt sich Zahlen. Man merkt sich
+Namen.
+
+Ich habe mir einen Bleistift gemerkt.
+
 Von der Mappe sprachen wir nicht.
 
 Ich dachte, das heißt, dass sie erledigt ist.
@@ -5944,7 +5966,7 @@ Ich habe es für einen Zufall gehalten. Kinder haben Fieber, ständig, das
 hat mit gar nichts zu tun, und jede Kinderärztin sagt einem das.
 
 Ich schreibe es trotzdem hin, weil ich in dieser Nacht um zwei Uhr im
-Kinderzimmer saß und zum ersten Mal seit sehr langer Zeit gedacht habe:
+Kinderzimmer saß und lange nichts gedacht habe und dann das hier:
 
 *Ich will nicht mehr die Einzige sein, die wach ist.*
 
@@ -7786,8 +7808,7 @@ Bildschirm gelegt und sie angesehen.
 
 Rückabtretung. Erlass. Brief.
 
-Und dann habe ich zum ersten Mal in diesem Winter etwas begriffen, das
-ich seitdem nicht mehr loswerde:
+Und dann habe ich etwas begriffen, das ich seitdem nicht mehr loswerde:
 
 **Alle drei sind dasselbe.** Alle drei sind ein Mann, der um halb drei
 nachts allein in einem Büro sitzt und ein Problem so lange bearbeitet,
@@ -9820,8 +9841,8 @@ Davon Wertminderung des dienenden Grundstücks 61.000 €,
 Vorteilsausgleich 207.000 €.
 
 Ich saß auf dem Hocker im Backraum, mit mehligen Händen, und rechnete
-das, was ich seit einer Woche im Kopf gerechnet hatte, zum ersten Mal
-mit einer echten Zahl.
+das, was ich seit einer Woche im Kopf gerechnet hatte, mit einer echten
+Zahl darunter.
 
 268.000 minus die Bank.
 
@@ -10888,9 +10909,9 @@ Beim Zurückbringen um sechs stand sie schon in der Tür.
 „Ich habe auf die Uhr gesehen“, sagte ich. „Weil ich es nicht geglaubt
 habe.“
 
-Sie hat gelächelt, und ich habe zum ersten Mal seit dem
-dreiundzwanzigsten Dezember gedacht, dass das hier vielleicht nicht
-vorbei ist, sondern nur anders.
+Sie hat gelächelt, und ich bin auf dem Rückweg an einer roten Ampel
+stehen geblieben und habe gedacht, dass das hier vielleicht nicht vorbei
+ist, sondern nur anders.
 
 Und dann habe ich nichts gesagt, weil ich am Zwanzigsten eine Sitzung
 hatte und weil ich nicht wollte, dass irgendetwas zwischen uns wie ein
@@ -11450,26 +11471,22 @@ sondern Dr. Sassenberg.
 
 Wir saßen uns gegenüber. Wir gaben uns die Hand.
 
-Anwesend: der Notar, sein Mitarbeiter, Niklas Reinhardt für die
-Gesellschaft, Theo Reinhardt als Zeuge für die Pläne, Jonas Reinhardt
-persönlich als Verkäufer der Forderung, und ich.
+Sechs Leute an einem Tisch, von denen drei Reinhardt heißen.
 
 Es dauerte zwei Stunden und zehn Minuten, weil ein Notar alles vorliest.
 Alles. Jede Anlage.
 
-**Erstens:** Bestellung dreier Grunddienstbarkeiten zulasten meines
-Grundstücks, zugunsten der drei Grundstücke der Gesellschaft. Wegerecht,
-Anbaurecht, Leitungsrecht. Kaufpreis 268.000 €, fällig binnen zehn
-Tagen.
+**Erstens:** die drei Rechte. Wegerecht, Anbaurecht, Leitungsrecht.
+268.000 €.
 
-**Zweitens:** Kaufvertrag über die Darlehensforderung. Verkäufer: Jonas
-Reinhardt, privat. Käuferin: Marlene Voss. Kaufpreis: 186.000 €.
+**Zweitens:** ich kaufe meine eigenen Schulden. Von ihm, privat, für
+186.000 €.
 
-Der Notar las die Zeile vor, in der steht, dass der Kaufpreis dem
-Anschaffungspreis des Verkäufers entspricht und dass die Parteien
-übereinstimmend erklären, dass keine Zuwendung beabsichtigt ist.
+Er las die Zeile vor, in der steht, dass der Preis dem entspricht, was
+der Verkäufer selbst bezahlt hat, und dass keine Zuwendung beabsichtigt
+ist.
 
-„Ist das so richtig?“, fragte er.
+„Ist das so richtig?“
 
 „Ja“, sagte Jonas.
 
@@ -13914,12 +13931,11 @@ gefragt hat.
 
 Ich habe die Rolle hingelegt.
 
-Und dann habe ich zum ersten Mal seit sieben Monaten begriffen, dass er
-gar nicht fragen *wird*. Nicht aus Feigheit. Weil ich ihm im März in
-einem neunzig Zentimeter breiten Gang gesagt habe, dass ich es sage,
-wenn es ein anderer Tag ist, und weil dieser Mann sich seit sieben
-Monaten an alles hält, was ich sage, auch an das, was ich unbedacht
-sage.
+Und dann habe ich begriffen, dass er gar nicht fragen *wird*. Nicht aus
+Feigheit. Weil ich ihm im März in einem neunzig Zentimeter breiten Gang
+gesagt habe, dass ich es sage, wenn es ein anderer Tag ist, und weil
+dieser Mann sich seit sieben Monaten an alles hält, was ich sage, auch
+an das, was ich unbedacht sage.
 
 Er wartet auf einen Satz von mir.
 
@@ -14087,9 +14103,8 @@ Tage, über die in diesem Kapitel nichts steht.
 Das ist Absicht. Einer davon war ein Samstag.
 
 Ich habe an diesem Findling gesessen, mit vier nassen Steinen in der
-Manteltasche, neben einem Mann, der sechs hatte, und habe zum ersten
-Mal seit sechs Jahren nicht daran gedacht, wie viele Bleche morgen
-müssen.
+Manteltasche, neben einem Mann, der sechs hatte, und eine halbe Stunde
+lang nicht daran gedacht, wie viele Bleche morgen müssen.
 
 Frau Kettler hat mich am Montag angesehen und gesagt: „Sie haben heute
 nichts umgestellt.“
@@ -14557,8 +14572,8 @@ Bohrpfähle machen kein Hämmern. Sie machen ein Schlagen, das durch den
 Boden kommt und in den Zähnen ankommt, und man hält es in einem Café
 drei Tage lang nicht aus.
 
-Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem Becher Kaffee aus meinem
-Laden, und sah zu, wie die Maschine arbeitete.
+Am dritten Tag, es war der zwölfte März, stand Theo im Hof, mit einem
+Becher Kaffee aus meinem Laden, und sah zu, wie die Maschine arbeitete.
 
 „Der Baum kommt an die Stelle“, sagte er und zeigte.
 

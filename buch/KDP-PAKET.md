@@ -6,114 +6,68 @@ Vorspann, im Nachspann und in der EPUB steht nichts davon.
 
 ---
 
-## 1. Titel — zehn Vorschläge
+## 1. Untertitel — zehn Vorschläge
 
-### Zuerst der Befund zum jetzigen Titel
+Der Titel **Was ich dir nie gesagt habe** bleibt. Er stimmt inhaltlich
+(das Geheimnis ist ihres), er ist ihre Stimme, und er steht auf dem
+fertigen Umschlag. Zur Debatte steht nur der Untertitel.
 
-**„Sein bestgehütetes Geheimnis"** hat einen Fehler, der nicht im
-Geschmack liegt: **Das Geheimnis ist ihres.** Leni verschweigt, dass
-Emil sein Sohn ist — achtzehn Tage lang mit Zettel in der Schublade,
-davor zwei Jahre. Jonas hütet nichts; er weiß es nicht.
+### Woran gemessen wird
 
-Der Titel verspricht damit einen Helden mit Geheimnis, und die Leserin
-sucht in den ersten Kapiteln nach etwas, das es nicht gibt. In dieser
-Nische ist das kein Detail: „Geheimes Baby" heißt, dass die Frau schweigt.
+Aus dem Lauf vom 16.08.2026, 30 Spitzentitel der Nischen *geheimes
+baby*, *milliardär* und *zweite chance* (`../KDP-NISCHEN.md`, Abschnitt
+„Die Spitzentitel im Wortlaut"):
 
-Der Untertitel **„Ein Geheimes-Baby-Milliardär-Liebesroman"** ist ein
-Bindestrichwort aus drei Nomen. Es liest sich wie eine Kategorie, nicht
-wie ein Buch, und es lässt die zweite Chance weg, obwohl das die
-Kategorie ist, in der der Titel den besten gemessenen Rang holen kann
-(`../KDP-NISCHEN.md`: Zweite-Chance-Romanze, bester Rang 2).
+| Muster | Treffer |
+|---|---:|
+| Untertitel nach Doppelpunkt oder Gedankenstrich | 24 / 30 |
+| Wort *Liebesroman* oder *Romance* darin | 23 / 30 |
+| Reihenname in Klammern am Ende | 21 / 30 |
+
+Und ein Muster, das in der Liste zweimal wörtlich vorkommt — die
+Dreier-Aufzählung:
+
+> *Das geheime Baby des Milliardärs: **Eine verborgene Schwangerschaft,
+> ein CEO und eine zweite Chance*** (Skrupellose Milliardäre 3)
 
 ### Die zehn
 
-| # | Titel | Was er verspricht | Risiko |
-|---|---|---|---|
-| 1 ⭐ | **Was ich dir nie gesagt habe** | Ihre Schuld, ihre Stimme, Ich-Form wie das Buch | Kein Trope-Wort im Titel — muss der Untertitel tragen |
-| 2 | **Sein Sohn, mein Haus** | Beide Konflikte in vier Wörtern, sehr distinktiv | Härter als das Buch; klingt nach Rosenkrieg |
-| 3 | **Achtzehn Tage** | Die Zahl, die im Buch gezählt wird | Sagt ohne Untertitel gar nichts |
-| 4 | **Der Mann, der alles regelt** | Sein Fehler, das Thema des Buches | Klingt nach Ratgeber |
-| 5 | **Alles außer der Wahrheit** | Genrenah, glatt | Austauschbar |
-| 6 | **Zwei Jahre Schweigen** | Zweite Chance plus Geheimnis | Klingt nach Drama, nicht nach Romanze |
-| 7 | **Ein Sohn, den er nicht kennt** | Der Trope, unmissverständlich | Nimmt die Wendung aus Kapitel 16 vorweg |
-| 8 | **Der Zettel in der Schublade** | Das stärkste Ding des Buches | Zu leise für die Nische |
-| 9 | **Nicht heute** | Der Schlüsselsatz, dreimal im Buch | Zu leise, und negativ formuliert |
-| 10 | **Was er nicht gefragt hat** | Der Motor, aus seiner Seite | Verwechselbar mit 1 |
+| # | Untertitel | Bewertung |
+|---:|---|---|
+| 1 ⭐ | **Ein Milliardär, ein geheimes Kind und eine zweite Chance** | Die gemessene Dreier-Aufzählung. Alle drei Tropes als Sachverhalte, keiner als Schlagwort. |
+| 2 | Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman | *(bisher)* Kommaliste, liest sich wie ein Kategoriepfad. |
+| 3 | Geheimes Baby, zweite Chance — eine Milliardär-Romance | Wie 2, plus Anglizismus. *Romance* steht in der Nische, wirkt hier aber aufgesetzt. |
+| 4 | Sie hat ihm nie gesagt, dass er einen Sohn hat | Stärkster Haken, aber er verrät die Wendung aus Kapitel 16. |
+| 5 | Ein geheimes Kind, ein zweiter Anlauf, ein Mann, der alles regelt | Vier Glieder, eines zu viel; „regelt" versteht nur, wer das Buch kennt. |
+| 6 | Eine Konditorin, ein Milliardär und ein Sohn, von dem er nichts weiß | Sehr konkret, sehr lang, verrät ebenfalls zu viel. |
+| 7 | Zweite-Chance-Liebesroman mit geheimem Baby | Ehrlich und langweilig. Klingt nach Regalschild. |
+| 8 | Ein Milliardär-Liebesroman um ein Kind, das er nicht kennt | Trifft alle Muster, aber der Relativsatz bremst. |
+| 9 | Geheimes Baby · Zweite Chance · Milliardär | Die Cover-Zeile. Auf einem Umschlag gut, im Metadatenfeld Keyword-Stuffing. |
+| 10 | Ein Milliardär, ein geheimes Kind und eine zweite Chance — Liebesroman (Die Reinhardt-Brüder 1) | Wie 1, plus die zwei restlichen Muster. Für das KDP-Feld die vollständige Fassung. |
 
 ### Empfehlung
 
 > **Titel:** Was ich dir nie gesagt habe
-> **Untertitel:** Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman (Die Reinhardt-Brüder 1)
+> **Untertitel (KDP-Feld):** Ein Milliardär, ein geheimes Kind und eine zweite Chance — Liebesroman (Die Reinhardt-Brüder 1)
+> **Untertitel (Buchinneres, Cover):** Ein Milliardär, ein geheimes Kind und eine zweite Chance
 
-Begründung:
+**Zu den beiden Varianten, die ausdrücklich geprüft werden sollten:**
 
-- **Die Schuld liegt richtig.** Sie sagt es nicht. Das ist die
-  Geschichte, und der Titel ist ihr Satz.
-- **Ich-Anrede.** Das Buch ist durchgehend Ich-Perspektive und redet die
-  andere Figur an. Der Titel klingt wie eine Zeile daraus, weil es eine
-  sein könnte.
-- **Der Untertitel trägt die Suchbegriffe** — und zwar als Wörter, nicht
-  als Bindestrichkette: *Geheimes Baby*, *zweite Chance*, *Milliardär*,
-  *Liebesroman*. Alle vier stehen so in den gemessenen Nischen.
-- **Die zweite Chance kommt hinein.** Sie fehlte bisher und ist die
-  Kategorie mit dem besten erreichbaren Rang.
+*„Geheimes Baby, zweite Chance – eine Milliardär-Romance"* ist die
+bisherige Fassung mit Anglizismus. Sie zählt drei Schlagwörter auf. Das
+liest sich wie ein Filter, nicht wie ein Buch — und es ist genau die
+Konstruktion, die man einem KI-Text ansieht.
 
-**Zweitwahl, wenn es auffallen soll statt gefallen: „Sein Sohn, mein
-Haus".** Vier Wörter, zwei Besitzansprüche, exakt der Konflikt. Riskanter
-und einprägsamer.
-
-### Und jetzt gezählt statt vermutet
-
-Bis heute stand hier, dass diese Empfehlung Lektoratsurteil ist, weil
-die Spitzentitel gelesen und wieder weggeworfen wurden. `kdp_nischen.py`
-schreibt sie seit dem 16.08. im Wortlaut in `../KDP-NISCHEN.md`. Der
-Lauf ist durch. **30 Titel** aus *geheimes baby*, *milliardär* und
-*zweite chance*:
-
-| Muster | Treffer |
-|---|---:|
-| Untertitel nach Doppelpunkt oder Gedankenstrich | **24 / 30** |
-| Wort *Liebesroman* oder *Romance* irgendwo im Titel | **23 / 30** |
-| Reihenname in Klammern am Ende | **21 / 30** |
-| Trope schon im **Haupt**titel | 16 / 30 |
-| englischsprachiger Haupttitel | 11 / 30 |
-| Reihe heißt „Die X-Brüder" bzw. „Die X-Männer" | 2 / 30 |
-
-**Die Empfehlung hält.** Vierzehn der dreißig machen genau das, was oben
-vorgeschlagen ist: ein Haupttitel, der nichts erklärt, und ein
-Untertitel, der die Tropes stapelt. *Irresistible Temptation: Ein
-geheimes Baby vom Boss.* *Catch a Falling Star: Ein zweiter Versuch,
-geheimes Baby – Liebesroman.* *Seine Frau auf Zeit: Ein
-Milliardär-Liebesroman mit arrangierter Ehe.*
-
-Der vorgeschlagene Untertitel trifft alle drei häufigsten Muster
-gleichzeitig: Doppelpunkt-Konstruktion, das Wort *Liebesroman*, und der
-Reihenname in Klammern.
-
-**Und ein Fund, der zu gut ist, um ihn wegzulassen:** In den aktuellen
-Top 10 der Nische *milliardär liebesroman* steht
-
-> *Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe
-> (**Die Thorne-Brüder 1**)*
-
-— dieselbe Reihenkonstruktion wie *Die Reinhardt-Brüder 1*, auf Band 1,
-in derselben Nische, heute. Das ist kein Beweis, dass es funktioniert.
-Es ist aber der Beleg, dass der Reihenname nicht schiefsteht.
-
-⚠️ **Grenzen dieser Zählung.** Dreißig Titel, drei Suchbegriffe, ein
-Lauf an einem Tag. Die Rubrik „englischsprachiger Haupttitel" hat einen
-bekannten Fehltreffer: *Schicksalsruf* ist deutsch und wird als englisch
-gezählt, weil kein deutsches Funktionswort darin vorkommt. Der erste
-Selektor zählte 15 statt 11, weil er jeden Titel ohne Umlaute für
-englisch hielt — *„Das geheime Baby der Bratva"* eingeschlossen.
-
----
+*„Ein Milliardär, ein geheimes Kind und eine zweite Chance auf die
+Liebe"* ist die bessere von beiden und wird empfohlen — **ohne** das
+angehängte *auf die Liebe*. Der Zusatz erklärt, was die drei Glieder
+schon gesagt haben, und kostet die Kürze, die den Rhythmus trägt.
 
 ## 2. Amazon-Klappentext
 
-Aufbau: Haken · Konflikt · er · das Kind · Romance · Konflikt ·
-Handlungsaufforderung. Ohne Spoiler — die Wendung aus Kapitel 16 wird
-angekündigt, nicht erzählt.
+Aufbau: Haken · sie · er · das Kind · zweite Chance · Konflikt ·
+Handlungsaufforderung. Die Wendung aus Kapitel 16 wird angekündigt,
+nicht erzählt.
 
 ---
 
@@ -121,20 +75,20 @@ angekündigt, nicht erzählt.
 Heute steht er in meinem Café und will mein Haus kaufen.
 Und oben schläft sein Sohn.**
 
-Marlene Voss backt seit sechs Jahren um Viertel nach vier. Die
+Marlene Voss steht seit sechs Jahren um Viertel nach vier auf. Die
 Konditorei in der Hamburger Speicherstadt gehörte ihrer Großmutter,
-gehört jetzt ihr, und sie hat gelernt, niemanden dafür zu brauchen.
+gehört jetzt ihr, und sie hat gelernt, dafür niemanden zu brauchen.
 
-Dann kündigt die Bank den Kredit. Und durch die Tür kommt Jonas
-Reinhardt.
+Dann kündigt die Bank den Kredit.
 
-Ihm gehört die halbe Speicherstadt. Für sein größtes Projekt fehlt ihm
-genau ein Gebäude — ihres. Er bietet mehr Geld, als sie je gesehen hat.
+Und durch die Tür kommt Jonas Reinhardt. Ihm gehört die halbe
+Speicherstadt, für sein größtes Projekt fehlt ihm genau ein Gebäude —
+ihres —, und er bietet mehr Geld, als sie je gesehen hat.
 
 Sie sagt nein.
 
-Was sie ihm nicht sagt: dass sie ihn dreimal angerufen hat, damals. Dass
-sie ihm drei Seiten geschrieben hat. Dass er nie geantwortet hat — und
+Was sie ihm nicht sagt: dass sie ihn damals dreimal angerufen hat. Dass
+sie ihm drei Seiten geschrieben hat. Dass er nie geantwortet hat. Und
 dass der Junge, der oben schläft, seine Stirn hat.
 
 Jonas kommt dienstags und donnerstags. Er wischt Tische ab. Er lernt,
@@ -142,61 +96,75 @@ Butter in Mehl zu reiben. Er ist ein Mann, der jedes Problem löst, bevor
 jemand ihn darum bittet — und Marlene weiß aus Erfahrung, wie das
 ausgeht: *Sie regeln erst alles, und dann sind sie weg.*
 
-Zwischen einem Bauplan um Mitternacht und achtzehn Tagen, die sie
-einzeln zählt, wird aus einer Verhandlung etwas, das sich keiner von
-beiden leisten kann.
+Achtzehn Tage lang liegt ein Zettel mit vier Wörtern in ihrer
+Schublade.
 
-Und irgendwann sieht Jonas das Kind. Und rechnet nach.
+Dann sieht Jonas das Kind. Und rechnet nach.
 
-**Ein Liebesroman über zwei Menschen, die beide gelernt haben, allein
-zurechtzukommen — und über den Unterschied zwischen etwas regeln und
-jemanden fragen.**
+**Eine zweite Chance für zwei Menschen, die beide gelernt haben, allein
+zurechtzukommen — und die Frage, ob man jemanden lieben kann, der einem
+nichts mehr schuldet.**
 
 *Band 1 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit
-Happy End und Epilog — kein Cliffhanger für dieses Paar. Sinnlich, ohne
-explizite Szenen.*
+Happy End und Epilog — kein Cliffhanger für dieses Paar. Emotional und
+sinnlich, ohne explizite Szenen.*
+
+---
+
+**Warum er so gebaut ist.** Die ersten drei Zeilen stehen fett, weil auf
+dem Handy zunächst nur sie zu sehen sind. Die drei Anrufe und der Brief
+stehen mit drin, weil das die häufigste Ein-Stern-Kritik dieser Nische
+entkräftet, bevor jemand das Buch öffnet. Und der Schlusssatz nennt die
+eigentliche Frage des Romans, ohne die Auflösung zu verraten.
 
 ---
 
 ## 3. Sieben Keywords
 
-Für die sieben Felder im KDP-Formular. Regel von Amazon: **nicht**
-wiederholen, was ohnehin in Titel, Untertitel, Autorenname oder
-Kategorie steht — das verschenkt ein Feld.
+Für die sieben Felder im KDP-Formular. Regel: nicht wiederholen, was in
+Titel, Untertitel, Autorenname oder Kategorie ohnehin steht — das
+verschenkt ein Feld. Deshalb kommen *Milliardär*, *geheimes Kind* und
+*zweite Chance* hier **nicht** vor; sie stehen bereits im Untertitel.
 
 | # | Keyword | Warum |
-|---|---|---|
-| 1 | `alleinerziehende mutter liebesroman` | Steht nirgends sonst; beschreibt Leni über 65 Kapitel |
-| 2 | `hamburg speicherstadt roman` | Ort ist im Buch eine Figur, kommt in keinem Metafeld vor |
-| 3 | `slow burn liebesroman deutsch` | Beinahe-Kuss bei 87 %, Liebesnacht bei 95 % — trifft zu und ist eine Suchphrase |
-| 4 | `reicher mann normale frau` | Umgangssprachliche Suchform der Nische, ohne „Milliardär" zu doppeln |
-| 5 | `liebesroman mit kind` | Emil kommt in 46 von 65 Kapiteln vor |
-| 6 | `familiengeheimnis roman deutsch` | Zweiter Strang: der Vater, 1997, der graue Ordner |
-| 7 | `liebesroman reihe band 1 abgeschlossen` | Fängt die Sorge vor Cliffhangern ab, die in dieser Nische Ein-Stern-Bewertungen erzeugt |
+|---:|---|---|
+| 1 | `secret baby romance deutsch` | Englischer Nischenbegriff, den deutsche Leserinnen eingeben; steht in keinem Metafeld |
+| 2 | `single mom liebesroman` | Beschreibt Leni über 65 Kapitel, taucht sonst nirgends auf |
+| 3 | `alleinerziehende mutter roman` | Deutsche Suchform desselben |
+| 4 | `hamburg speicherstadt liebesroman` | Der Ort ist im Buch eine Figur |
+| 5 | `slow burn liebesroman` | Trifft zu: Beinahe-Kuss bei 87 %, Liebesnacht bei 95 % |
+| 6 | `reicher mann normale frau` | Umgangssprachliche Suchform der Nische |
+| 7 | `liebesroman reihe band 1 abgeschlossen` | Fängt die Cliffhanger-Sorge ab, die hier Ein-Stern-Bewertungen erzeugt |
 
-⚠️ Suchvolumen ist **nicht gemessen**. Diese sieben sind aus dem Inhalt
-abgeleitet, nicht aus Amazons Vorschlagsliste. Wer sie prüfen will:
-`scripts/trends.py` misst Nachfrage über pytrends, aber für
-Amazon-interne Suche gibt es kein öffentliches Volumen.
+⚠️ **Suchvolumen ist nicht gemessen.** Diese sieben sind aus dem Inhalt
+und aus den gemessenen Nischenbegriffen abgeleitet, nicht aus Amazons
+Vorschlagsliste — für die Amazon-interne Suche gibt es kein
+öffentliches Volumen. Keine Markennamen, keine fremden Buchtitel, keine
+Begriffe, die das Buch nicht einlöst.
 
 ---
 
 ## 4. Drei Kategorien
 
-Aus dem Lauf vom 16.08.2026 (`../KDP-NISCHEN.md`), nicht geraten:
+Beobachtet am 16.08.2026 auf den Produktseiten der Spitzentitel
+(`../KDP-NISCHEN.md`) — also real existierende Kategorien, keine
+erfundenen Pfade. **Amazon ändert den Kategoriebaum und die Beschriftung
+regelmäßig; die genaue Bezeichnung im Formular kann abweichen.** Im
+Zweifel die nächstliegende wählen und den Rang nach zwei Wochen prüfen.
 
-| Kategorie | Warum | Gemessen |
+| Kategorie | Warum sie inhaltlich stimmt | Beobachtet |
 |---|---|---|
-| eBooks › Liebesromane › **Milliardäre & Millionäre** | Jonas führt eine Gesellschaft mit 1,7 Mrd Bestand | Zwei Spitzentitel darin, bester Rang 28 |
-| eBooks › Liebesromane › **Zweite-Chance-Romanze** | Der Kern: sie kennen sich seit zweieinhalb Jahren | Zwei Spitzentitel darin, bester Rang 2 |
-| eBooks › Liebesromane › **Zeitgenössische Liebesromane** | Gegenwart, Hamburg, September 2025 bis September 2026 | Zwei Spitzentitel darin, bester Rang 59 |
+| Liebesromane › **Milliardäre & Millionäre** | Jonas führt eine Gesellschaft mit 1,7 Mrd Bestand | 2 Spitzentitel darin, bester Rang 28 |
+| Liebesromane › **Zweite-Chance-Romanze** | Der Kern: die beiden kennen sich seit zweieinhalb Jahren | 2 Spitzentitel darin, bester Rang 2 |
+| Liebesromane › **Zeitgenössische Liebesromane** | Gegenwart, Hamburg, September 2025 bis September 2026 | 2 Spitzentitel darin, bester Rang 59 |
 
 **Bewusst nicht genommen:**
 
-- *Fake-Dating-Romantik* (bester gemessener Rang 2) — im Buch gibt es
-  kein Fake Dating. Eine Kategorie, die der Inhalt nicht einlöst, holt
-  Ein-Stern-Bewertungen von genau den Leserinnen, die man erreichen wollte.
-- *Rockstar-Romanze* — leer im Buch.
+- *Fake-Dating-Romantik* — bester beobachteter Rang 2, aber im Buch gibt
+  es kein Fake Dating. Eine Kategorie, die der Inhalt nicht einlöst,
+  holt Ein-Stern-Bewertungen von genau den Leserinnen, die man erreichen
+  wollte.
+- *Rockstar-Romanze* — kommt im Buch nicht vor.
 - Jede Erotik-Kategorie — von zwanzig gemessenen Spitzentiteln steht
   genau einer in einer, und dieses Buch gehört nicht dazu.
 

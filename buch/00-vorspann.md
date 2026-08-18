@@ -4,7 +4,7 @@
 
 # Was ich dir nie gesagt habe
 
-### Geheimes Baby, zweite Chance — ein Milliardär-Liebesroman
+### Ein Milliardär, ein geheimes Kind und eine zweite Chance
 
 **Die Reinhardt-Brüder — Band 1**
 
