@@ -160,8 +160,18 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
             + '[data-component-type="sp-sponsored-result"], .puis-sponsored-label-text, '
             + 's-sponsored-label-info-icon, .s-sponsored-label-text')
           || /\bGesponsert\b|\bSponsored\b/.test(k.textContent);
+        // Autorenzeile. Amazon setzt sie als zweite Zeile der
+        // Trefferkachel, meist "von <Name>" bzw. "by <Name>". Kein
+        // eigener stabiler Selektor -- deshalb ueber den Text, und der
+        // Praefix wird in Python abgeschnitten, nicht hier.
+        let autorText = '';
+        for (const z of k.querySelectorAll('.a-row, .a-size-base+.a-size-base')) {
+          const tx = z.textContent.trim();
+          if (/^(von|by)\s+\S/.test(tx) && tx.length < 120) { autorText = tx; break; }
+        }
         raus.push({
           asin,
+          autor_text: autorText,
           titel: t ? t.textContent.trim() : '',
           preis_text: preis ? preis.textContent.trim() : '',
           bewertungen_text: bewText.trim(),
@@ -180,6 +190,11 @@ def suche(seite, host: str, begriff: str, anzahl: int) -> list[dict]:
         # nach unten und taeuscht ein billiges Marktsegment vor.
         t["kindle_unlimited"] = (p == 0.0)
         t["preis"] = None if (p is None or p == 0.0) else p
+        roh_autor = (t.pop("autor_text", "") or "").strip()
+        roh_autor = re.sub(r"^(von|by)\s+", "", roh_autor, flags=re.I)
+        # Amazon haengt oft "| 1. Januar 2026" oder Formatangaben an.
+        roh_autor = re.split(r"\s*[|·]\s*|\s{2,}", roh_autor)[0].strip()
+        t["autor"] = roh_autor or None
         t["bewertungen"] = zahl_aus(t.pop("bewertungen_text", ""))
         m = re.search(r"([\d,.]+)", t.pop("sterne_text", "") or "")
         t["sterne"] = preis_aus(m.group(1)) if m else None
@@ -531,10 +546,12 @@ def bericht(ergebnisse: list[dict], a: float, b: float) -> str:
             continue
         z.append(f"**{e['begriff']}**", )
         z.append("")
-        namen = [(t.get("titel") or "").strip()
-                 for t in (e.get("titel") or [])]
-        for i, name in enumerate([n for n in namen if n], 1):
-            z.append(f"{i}. {name}")
+        eintraege = [((t.get("titel") or "").strip(),
+                      (t.get("autor") or "").strip())
+                     for t in (e.get("titel") or [])]
+        for i, (name, autor) in enumerate(
+                [x for x in eintraege if x[0]], 1):
+            z.append(f"{i}. {name}" + (f" — *{autor}*" if autor else ""))
         z.append("")
 
     z += ["## Wie lang sind die Spitzentitel?", "",
