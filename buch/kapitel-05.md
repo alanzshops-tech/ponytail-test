@@ -1,4 +1,4 @@
-# Kapitel 5 — Leni: Der vernünftigere Rat
+# Der vernünftigere Rat — Leni
 
 Herr Sievers, mein Steuerberater, brauchte elf Minuten, um mir zu sagen,
 dass ich verrückt sei.

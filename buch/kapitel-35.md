@@ -1,4 +1,4 @@
-# Kapitel 35 — Leni: Der Vierundzwanzigste
+# Der Vierundzwanzigste — Leni
 
 Am Morgen des vierundzwanzigsten Dezember stand ich um zwanzig nach vier
 unten und machte den Ofen an, obwohl der vierundzwanzigste Dezember der

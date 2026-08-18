@@ -1,4 +1,4 @@
-# Kapitel 38 — Jonas: Was Theo erzählt hat
+# Was Theo erzählt hat — Jonas
 
 Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
 Telefonat, so gut er es erinnerte, und zweimal wörtlich.

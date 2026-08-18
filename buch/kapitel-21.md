@@ -1,4 +1,4 @@
-# Kapitel 21 — Leni: Tisch neun
+# Tisch neun — Leni
 
 Sanne kam am Mittwoch um zehn nach sechs, nachdem ich abgeschlossen
 hatte, mit einer Flasche Wein, die sie nicht aufmachte, und setzte sich

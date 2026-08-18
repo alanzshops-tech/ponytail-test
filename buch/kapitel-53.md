@@ -1,4 +1,4 @@
-# Kapitel 53 — Leni: Ein Umschlag mit Fenster
+# Ein Umschlag mit Fenster — Leni
 
 Der Grundbuchauszug kam am vierten Februar, in einem Umschlag mit
 Fenster, und ich habe ihn zwischen einer Rechnung für Backpapier und

@@ -1,4 +1,4 @@
-# Kapitel 48 — Jonas: Warten ist Arbeit
+# Warten ist Arbeit — Jonas
 
 Die Woche vor dem zwanzigsten Januar war die längste meines
 Berufslebens, und ich habe in ihr sehr wenig getan.

@@ -1,4 +1,4 @@
-# Epilog — Leni: Der dreizehnte September
+# Epilog: Der dreizehnte September — Leni
 
 Der dreizehnte September, ein Sonntag, ein Jahr und fünf Tage nach dem
 Morgen, an dem ein Mann in einem zu guten Mantel durch meine Tür kam.

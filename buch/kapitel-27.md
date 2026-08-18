@@ -1,4 +1,4 @@
-# Kapitel 27 — Leni: Zwanzig nach zwei
+# Zwanzig nach zwei — Leni
 
 Am neunten Dezember, zwanzig nach zwei nachts, wachte ich auf, weil es
 zu still war.

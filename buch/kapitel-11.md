@@ -1,4 +1,4 @@
-# Kapitel 11 — Leni: Ein Freitag, an dem nichts passiert
+# Ein Freitag, an dem nichts passiert — Leni
 
 Ich schreibe jetzt einen Tag auf. Einen ganz normalen, einen Freitag,
 den einunddreißigsten Oktober, an dem nichts passiert ist.

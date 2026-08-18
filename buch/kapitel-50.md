@@ -1,4 +1,4 @@
-# Kapitel 50 — Jonas: Der Tisch von 1998
+# Der Tisch von 1998 — Jonas
 
 Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
 

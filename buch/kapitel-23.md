@@ -1,4 +1,4 @@
-# Kapitel 23 — Leni: Die blaue Mappe
+# Die blaue Mappe — Leni
 
 Ich schlug sie nicht sofort auf.
 

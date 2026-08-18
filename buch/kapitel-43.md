@@ -1,4 +1,4 @@
-# Kapitel 43 — Leni: Einschreiben
+# Einschreiben — Leni
 
 Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
 sechs Absätze, kein Gruß von irgendjemandem.

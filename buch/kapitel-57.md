@@ -1,4 +1,4 @@
-# Kapitel 57 — Leni: Der Monat, in dem alles funktionierte
+# Der Monat, in dem alles funktionierte — Leni
 
 Der März war der Monat, in dem alles gleichzeitig funktionierte, und
 genau deshalb war er schwer.

@@ -1,4 +1,4 @@
-# Kapitel 45 — Leni: Der Bote
+# Der Bote — Leni
 
 Der Bote kam am zwölften Januar um zwanzig nach neun, und um zwölf habe
 ich Sievers angerufen.

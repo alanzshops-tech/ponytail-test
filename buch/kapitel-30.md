@@ -1,4 +1,4 @@
-# Kapitel 30 — Jonas: Was man dafür braucht
+# Was man dafür braucht — Jonas
 
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.

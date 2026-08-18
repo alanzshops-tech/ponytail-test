@@ -1,4 +1,4 @@
-# Kapitel 9 — Leni: Dienstags und donnerstags
+# Dienstags und donnerstags — Leni
 
 Es gibt eine Sache an Dienstagen und Donnerstagen, die ich niemandem
 erzählt habe, auch Sanne nicht.

@@ -1,4 +1,4 @@
-# Kapitel 26 — Jonas: Der zweite Anruf in neunzehn Jahren
+# Der zweite Anruf in neunzehn Jahren — Jonas
 
 Wendland rief am zweiten Dezember an, und das war das zweite Mal in
 neunzehn Jahren, dass er von sich aus anrief.
