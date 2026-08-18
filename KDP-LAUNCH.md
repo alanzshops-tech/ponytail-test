@@ -612,6 +612,51 @@ GbR, Hamburg als Schauplatz, erste Reihe.
 >
 > Sie lebt und arbeitet im Ruhrgebiet.
 
+### Autorenname — gemessen, nicht geraten [M]
+
+Lauf vom 18.08.2026, **40 Spitzentitel** aus vier Nischen. Die
+Autorennamen stehen im Wortlaut in `KDP-NISCHEN.md`.
+
+| Art des Vornamens | Treffer |
+|---|---:|
+| eindeutig weiblich | **26 / 40** |
+| Initialen oder neutral (*G.R. Oliveira*, *J. S. Kingsley*, *A. Kross*) | 10 / 40 |
+| Mononym ohne klares Geschlecht (*Raven*, dreimal) | 3 / 40 |
+| eindeutig männlich | **1 / 40** — *Asher*, und auch das ein Mononym |
+
+**Ein einziger von vierzig.** Damit ist die Frage beantwortet: Ein
+männlicher Vorname ist in dieser Nische kein Nachteil, den man
+abwägen müsste, sondern eine Abweichung von 39 zu 1.
+
+### Und ein zweiter Befund, der die Namenswahl betrifft
+
+| | deutsch klingende Namen |
+|---|---:|
+| Trope-Nischen (*geheimes baby*, *milliardär*, *zweite chance*) | **2 / 30** |
+| Breite Nische (*liebesroman*) | **4 / 10** |
+
+In den Trope-Nischen dominieren englisch klingende Kunstnamen — *Ivy
+Layne*, *Rosie Storm*, *Nikki Lawson*, *Rebecca Baker*. Deutsche Namen
+stehen dagegen ganz oben in der **größten** Nische überhaupt: *Svenja
+Lassen*, *Lina Martens*, *Michelle Schrenk*, *Julia Sommer*.
+
+Und die Titel dieser vier verraten, warum: *Meersalz, Zimt und
+Küstenglück — ein Ostsee-Liebesroman*. *Ein Sommermeerchen auf Sylt*.
+**Deutscher Name plus deutscher Schauplatz ist ein stimmiges Paket.**
+
+### Empfehlung: Jule Norden bleibt [E]
+
+Ein englischer Kunstname würde zwar dem Muster der Trope-Nischen
+folgen — aber er stünde über einem Roman, der in der Hamburger
+Speicherstadt spielt, in dem Grundbuch, Beirat und Kleinunternehmer­-
+regelung vorkommen und dessen Schauplatz eines der fünf
+Verkaufsargumente ist. *Rosie Storm* über der Speicherstadt wäre die
+Inkohärenz, die *Jule Norden* vermeidet.
+
+Wenn stattdessen der englische Weg gegangen werden soll, muss er
+konsequent sein: dann auch englischer Reihenname und englische
+Haupttitel. Das wäre ein anderes Buch als das, das hier fertig ist.
+
 **Zum Pseudonym.** *Jule Norden* ist ein Künstlername. Das ist im
 Liebesroman gängige Praxis und keine Täuschung — getäuscht wäre, wer
 sich als real existierende Person ausgäbe. Rechtlich bleibt alles beim
