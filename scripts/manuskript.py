@@ -181,10 +181,19 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     #
     # Aus dem Inhalt gebildet, nicht zufaellig: gleicher Text gibt
     # dieselbe Kennung, der Bau bleibt reproduzierbar.
+    #
+    # Das Umschlagbild gehoert mit hinein. Am 18.08.2026 wurde nur das
+    # Bild getauscht, der Text blieb gleich -- die Kennung blieb damit
+    # ebenfalls gleich, und genau daran haette ein Lesegeraet die neue
+    # Fassung wieder als dasselbe Buch erkannt und den alten Umschlag
+    # behalten. Derselbe Fehler wie vorher, nur eine Ebene tiefer.
     import hashlib
-    stoff = "".join([titel, autor, vorspann, nachspann]
-                    + [t for _, _, t in kapitel])
-    kennung = hashlib.sha256(stoff.encode("utf-8")).hexdigest()[:12]
+    h = hashlib.sha256()
+    for teil in [titel, autor, vorspann, nachspann] + [t for _, _, t in kapitel]:
+        h.update(teil.encode("utf-8"))
+    if coverbild and coverbild.exists():
+        h.update(coverbild.read_bytes())
+    kennung = h.hexdigest()[:12]
     buch.set_identifier(f"reinhardt-1-{kennung}")
     buch.set_title(titel)
     buch.set_language("de")

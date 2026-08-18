@@ -380,11 +380,22 @@ Alle fünf durch das Manuskript gedeckt.
 ### Ausgangslage [M]
 
 Es gibt bereits einen fertigen Umschlag (`cover/fertig/cover.jpg`,
-1600 × 2560). Gemessen gegen 36 Konkurrenzcover: Sättigung 98,5
-(Nische 94,5–119,7 — **drin**), Helligkeit 69,6 (Nische 55,8–64,5 —
-knapp darüber), Textzone Band 4, Weiß auf Grund 11,8 : 1.
+1600 × 2560, Stand 18.08.2026 die New-York-Fassung mit der kantigeren
+Figur). Gemessen gegen 36 Konkurrenzcover — **alle vier Werte im
+Nischenband**:
 
-Das Briefing unten gilt für eine mögliche Neufassung oder für Band 2.
+| | gemessen | Nische |
+|---|---:|---|
+| Helligkeit | 55,8 | 55,8–64,5 |
+| Sättigung | 110,8 | 94,5–119,7 |
+| Verhältnis | 1,60 | 1,45–1,61 |
+| Textzone | 4 | 4 (unteres Mitteldrittel) |
+
+Die vorigen Fassungen liegen zum Vergleich in
+`cover/fertig-newyork-weich/`, `cover/fertig-hamburg/` und
+`cover/fertig-alt/`.
+
+Das Briefing unten gilt für Band 2 — für Band 1 ist es abgearbeitet.
 
 ### Gemeinsame Vorgaben
 

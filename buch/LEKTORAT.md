@@ -284,6 +284,42 @@ weiterhin darüber — aber zwei Punkte näher dran als vorher.
 
 Der alte Umschlag liegt unverändert in `cover/fertig-alt/`.
 
+### 12. Die New-York-Fassung — und dieselbe Kennung noch einmal
+
+Auf Wunsch ist der Umschlag danach zweimal gewechselt worden: erst auf
+das New-York-Motiv, dann auf eine Fassung mit kantigerer, älterer
+Figur (Ende dreißig statt Ende zwanzig, härteres Seitenlicht,
+zurückgekämmtes Haar). Gemessen gegen dieselben 36 Konkurrenzcover:
+
+| | Hamburg | New York, weich | **New York, jetzt** | Nische |
+|---|---:|---:|---:|---|
+| Helligkeit | 69,6 | 57,4 | **55,8** | 55,8–64,5 |
+| Sättigung | 98,5 | 104,1 | **110,8** | 94,5–119,7 |
+| Verhältnis | 1,60 | 1,60 | **1,60** | 1,45–1,61 |
+| Textzone | 4 | 2 | **4** | 4 |
+
+Die weiche Fassung verfehlte die Textzone: Die helle Skyline warf mehr
+Kantenenergie in den oberen Bildteil als der Titel selbst, das Auge
+landete auf den Häusern. Die dunklere, härter ausgeleuchtete Fassung
+korrigiert das, ohne dass an der Typografie etwas geändert wurde.
+
+Dabei ist der Kennungsfehler aus Abschnitt C.10 ein zweites Mal
+aufgetreten, eine Ebene tiefer. Die Kennung wurde aus **Titel, Autor
+und allen Kapiteltexten** gebildet — nicht aus dem Umschlagbild. Der
+Text war unverändert, nur das Bild neu: gleiche Kennung
+(`reinhardt-1-b6147c47114a`), also für jedes Lesegerät dasselbe Buch,
+also der alte Umschlag. Genau die Meldung, die dreimal gekommen war,
+hätte ein viertes Mal kommen müssen.
+
+`manuskript.py` hasht jetzt die Bilddatei mit. Nachgemessen an drei
+Läufen: neues Bild `ae7f7630aa88`, altes Bild `d9a39872a7d8`, neues Bild
+noch einmal wieder `ae7f7630aa88` — verschieden bei verschiedenem Bild,
+gleich bei gleichem, der Bau bleibt reproduzierbar.
+
+Alle Vorgängerfassungen bleiben erhalten:
+`cover/fertig-newyork-weich/`, `cover/fertig-hamburg/`,
+`cover/fertig-alt/`.
+
 ---
 
 ## D — Was ich absichtlich nicht angefasst habe

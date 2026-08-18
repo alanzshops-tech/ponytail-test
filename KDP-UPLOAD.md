@@ -42,7 +42,7 @@ Abschnitt „Hitzegrad der Spitzentitel".
 |---|---|---|
 | `buch/reinhardt-1.epub` | **das ist die Datei, die hochgeladen wird** | fertig, 658 kB, 61 Abschnitte |
 | `buch/manuskript.md` | zum Lesen und Korrigieren | fertig |
-| `cover/fertig/cover.jpg` | **Cover zum Hochladen** | fertig, 1600 × 2560 nachgemessen, 447 kB |
+| `cover/fertig/cover.jpg` | **Cover zum Hochladen** | fertig, 1600 × 2560 nachgemessen, 642 kB |
 | `cover/fertig/schrift-ebene.png` | transparent, für Canva | fertig |
 
 **KDP nimmt kein Markdown.** Zulässig sind unter anderem DOCX, EPUB und
@@ -253,10 +253,17 @@ Meldet `manuskript.py` „Keine Beanstandungen", obwohl du Platzhalter
 erwartest, prüfe zuerst das Prüfwerkzeug selbst: `--selbsttest`.
 
 **✅ 2. Cover nachgemessen.** 1600 × 2560 Pixel, Verhältnis exakt 1,600,
-447 kB. Die Miniaturprobe (`cover/fertig/miniaturprobe.png`) zeigt den
+642 kB. Die Miniaturprobe (`cover/fertig/miniaturprobe.png`) zeigt den
 Titel bei 160 Pixeln — so sieht ihn die Leserin in der Trefferliste.
 Wenn er dort nicht lesbar ist, ist das Cover falsch, egal wie gut es
 in groß aussieht.
+
+Stand 18.08.2026 liegt in `cover/fertig/` die New-York-Fassung mit der
+kantigeren Figur. Alle vier gegen 36 Konkurrenzcover gemessenen Werte
+liegen im Nischenband, auch die Textzone, die die vorige Fassung
+verfehlt hat. Die Vorgängerfassungen sind vollständig erhalten:
+`cover/fertig-newyork-weich/` (jüngere Figur), `cover/fertig-hamburg/`
+(Speicherstadt) und `cover/fertig-alt/` (ältester Titel).
 
 **✅ 3. Die Leseprobe fängt bei Kapitel 1 an.** Das war nicht so. Der
 Vorspann enthielt Titelei, Impressum und Hinweise; „Blick ins Buch"
