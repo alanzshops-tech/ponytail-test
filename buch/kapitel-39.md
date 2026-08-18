@@ -1,4 +1,4 @@
-# Kapitel 39 — Leni
+# Kapitel 39 — Leni: Die Kopfzeile
 
 Am sechsundzwanzigsten Dezember, einem Freitag, hat es den ganzen Tag
 geregnet, und ich habe die blaue Mappe aus der Schublade geholt und mich

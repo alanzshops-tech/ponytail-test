@@ -35,7 +35,7 @@ wieder aufschließen.
 
 ---
 
-# Kapitel 1 — Leni
+# Kapitel 1 — Leni: Der Ofen
 
 Der Ofen hatte keine Meinung. Das war das Schönste an ihm.
 
@@ -321,7 +321,7 @@ Kontorhausdielen, hörte ich, wie Emil zu weinen anfing.
 
 ---
 
-# Kapitel 2 — Jonas
+# Kapitel 2 — Jonas: Drei Sätze
 
 Ich hatte drei Sätze vorbereitet.
 
@@ -587,7 +587,7 @@ Theo schwieg einen Moment zu lang.
 
 ---
 
-# Kapitel 3 — Leni
+# Kapitel 3 — Leni: Mittags um halb eins
 
 Ich schloss ab. Mittags, um halb eins, an einem Dienstag.
 
@@ -836,7 +836,7 @@ Ich setzte mich hin.
 
 ---
 
-# Kapitel 4 — Jonas
+# Kapitel 4 — Jonas: Vier Komma zwei
 
 Vier Komma zwei Millionen.
 
@@ -1079,7 +1079,7 @@ Und er ging.
 
 ---
 
-# Kapitel 5 — Leni
+# Kapitel 5 — Leni: Der vernünftigere Rat
 
 Herr Sievers, mein Steuerberater, brauchte elf Minuten, um mir zu sagen,
 dass ich verrückt sei.
@@ -1303,7 +1303,7 @@ Und dann, ganz leise, der Satz, vor dem ich seit zwei Jahren weglief:
 
 ---
 
-# Kapitel 6 — Jonas
+# Kapitel 6 — Jonas: Die Mappe auf dem Tisch
 
 Theo warf mir die Mappe auf den Tisch, ohne sich zu setzen.
 
@@ -1554,7 +1554,7 @@ Ich hatte nicht gesagt: *Es tut mir leid.*
 
 ---
 
-# Kapitel 7 — Leni
+# Kapitel 7 — Leni: Eine Situation in der Familie
 
 *Es gab damals eine Situation in der Familie.*
 
@@ -1787,7 +1787,7 @@ Dann sah er mich an.
 
 ---
 
-# Kapitel 8 — Jonas
+# Kapitel 8 — Jonas: Ich fragte nicht
 
 Ich fragte nicht.
 
@@ -2108,7 +2108,7 @@ Merken Sie sich das, sonst hält der Laden das nicht aus.“
 
 ---
 
-# Kapitel 9 — Leni
+# Kapitel 9 — Leni: Dienstags und donnerstags
 
 Es gibt eine Sache an Dienstagen und Donnerstagen, die ich niemandem
 erzählt habe, auch Sanne nicht.
@@ -2310,7 +2310,7 @@ geschwiegen hat.
 
 ---
 
-# Kapitel 10 — Jonas
+# Kapitel 10 — Jonas: Das Gewölbe
 
 Der Anruf kam am achten Oktober um zwanzig vor sieben, und ich wusste
 schon an dem Wort *Chef*, dass es kein guter Tag wird. Prill sagt sonst
@@ -2538,7 +2538,7 @@ mir gesagt, dass sie keinem fehlt.
 
 ---
 
-# Kapitel 11 — Leni
+# Kapitel 11 — Leni: Ein Freitag, an dem nichts passiert
 
 Ich schreibe jetzt einen Tag auf. Einen ganz normalen, einen Freitag,
 den einunddreißigsten Oktober, an dem nichts passiert ist.
@@ -2755,7 +2755,7 @@ jedes Wort davon.
 
 ---
 
-# Kapitel 12 — Jonas
+# Kapitel 12 — Jonas: Sonntags
 
 Sonntags habe ich nichts.
 
@@ -2968,7 +2968,7 @@ Ich weiß heute, was in dieser Schublade lag.
 
 ---
 
-# Kapitel 13 — Leni
+# Kapitel 13 — Leni: Dieselbe Stirn
 
 Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
 alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie
@@ -3193,7 +3193,7 @@ um diese Zeit von der Straße hereinkommt.
 
 ---
 
-# Kapitel 14 — Jonas
+# Kapitel 14 — Jonas: Butter und Mehl
 
 Der Beirat tagt im vierten Stock, in einem Raum mit einem Tisch, den mein
 Vater 1998 gekauft hat und den niemand austauschen will, weil er
@@ -3454,7 +3454,7 @@ und lag bis drei Uhr wach und wusste, dass ich es längst wusste.
 
 ---
 
-# Kapitel 15 — Leni
+# Kapitel 15 — Leni: Laternen
 
 *Nicht heute. Bitte.*
 
@@ -3653,7 +3653,7 @@ Zwei Tage lang reichte es nicht.
 
 ---
 
-# Kapitel 16 — Jonas
+# Kapitel 16 — Jonas: Zehn nach acht
 
 Am Mittwoch stand ich um zehn nach acht vor ihrer Tür und wusste, was
 kommt.
@@ -3933,7 +3933,7 @@ Kinderzimmer einer Frau, die ich zwei Jahre lang nicht angerufen hatte.
 
 ---
 
-# Kapitel 17 — Leni
+# Kapitel 17 — Leni: Zwanzig vor sieben
 
 Er stand um zwanzig vor sieben vor der Tür.
 
@@ -4151,7 +4151,7 @@ Ich habe ihn trotzdem gedacht.
 
 ---
 
-# Kapitel 18 — Jonas
+# Kapitel 18 — Jonas: Ein Enkel
 
 Ich habe meiner Mutter am Samstag gesagt, dass sie einen Enkel hat.
 
@@ -4356,7 +4356,7 @@ Zentimetern.
 
 ---
 
-# Kapitel 19 — Leni
+# Kapitel 19 — Leni: Was Frau Kettler wusste
 
 Frau Kettler hat es an dem Morgen gewusst, an dem er zum ersten Mal um
 zwanzig vor sieben vor der Tür stand.
@@ -4563,7 +4563,7 @@ erzählt.
 
 ---
 
-# Kapitel 20 — Jonas
+# Kapitel 20 — Jonas: Sechsunddreißig Seiten
 
 Es gab in dieser Woche eine Sache, die ich nicht loswurde, und es war
 nicht der Junge.
@@ -4839,7 +4839,7 @@ zurückgelegt habe.
 
 ---
 
-# Kapitel 21 — Leni
+# Kapitel 21 — Leni: Tisch neun
 
 Sanne kam am Mittwoch um zehn nach sechs, nachdem ich abgeschlossen
 hatte, mit einer Flasche Wein, die sie nicht aufmachte, und setzte sich
@@ -5090,7 +5090,7 @@ Ordner.
 
 ---
 
-# Kapitel 22 — Jonas
+# Kapitel 22 — Jonas: Zwei Tage bis Freitag
 
 Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
 macht, wenn man nicht weiß, wie man es macht.
@@ -5318,7 +5318,7 @@ Ich hatte es nicht abgezogen.
 
 ---
 
-# Kapitel 23 — Leni
+# Kapitel 23 — Leni: Die blaue Mappe
 
 Ich schlug sie nicht sofort auf.
 
@@ -5555,7 +5555,7 @@ Das war ein neues Wort.
 
 ---
 
-# Kapitel 24 — Jonas
+# Kapitel 24 — Jonas: Das Jugendamt
 
 Ich rief vier Tage nicht an.
 
@@ -5795,7 +5795,7 @@ Ich habe diesen Satz gesagt, und ich habe ihn geglaubt.
 
 ---
 
-# Kapitel 25 — Leni
+# Kapitel 25 — Leni: Drei Dienstage
 
 Es gab in der ersten Dezemberwoche drei Dienstage, und das ist
 arithmetisch unmöglich, aber so hat es sich angefühlt.
@@ -5972,7 +5972,7 @@ Kinderzimmer saß und lange nichts gedacht habe und dann das hier:
 
 ---
 
-# Kapitel 26 — Jonas
+# Kapitel 26 — Jonas: Der zweite Anruf in neunzehn Jahren
 
 Wendland rief am zweiten Dezember an, und das war das zweite Mal in
 neunzehn Jahren, dass er von sich aus anrief.
@@ -6138,7 +6138,7 @@ Man weiß das. Ich habe nicht gewusst, dass man das weiß.
 
 ---
 
-# Kapitel 27 — Leni
+# Kapitel 27 — Leni: Zwanzig nach zwei
 
 Am neunten Dezember, zwanzig nach zwei nachts, wachte ich auf, weil es
 zu still war.
@@ -6382,7 +6382,7 @@ Nicht dir.“
 
 ---
 
-# Kapitel 28 — Jonas
+# Kapitel 28 — Jonas: Neun Minuten
 
 Ich war in neun Minuten da, und ich bin bei Rot über die Willy-Brandt-
 Straße gefahren, und ich schreibe das hin, weil ich es nicht
@@ -6575,7 +6575,7 @@ Sie hat es eingetragen, ohne zu fragen, wozu.
 
 ---
 
-# Kapitel 29 — Leni
+# Kapitel 29 — Leni: Vier Dinge über mich
 
 Sie haben ihn bis Dienstagmittag dabehalten, zur Beobachtung, und ich
 habe in diesen vierunddreißig Stunden ungefähr vier Dinge über mich
@@ -6757,7 +6757,7 @@ Ich habe trotzdem ein Hemd rausgelegt.
 
 ---
 
-# Kapitel 30 — Jonas
+# Kapitel 30 — Jonas: Was man dafür braucht
 
 Man braucht: einen Personalausweis, eine Geburtsurkunde des Kindes, den
 Mutterpass oder die Abstammungsurkunde, und eine Frau, die mitkommt.
@@ -7021,7 +7021,7 @@ einzigen Morgen daran gedacht, sie zu fragen.
 
 ---
 
-# Kapitel 31 — Leni
+# Kapitel 31 — Leni: Der Brief vom vierten Dezember
 
 Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
 also mit der Post, die eigentlich niemand mehr bekommt.
@@ -7262,7 +7262,7 @@ Ich habe ihn erst im Februar wieder abgenommen.
 
 ---
 
-# Kapitel 32 — Jonas
+# Kapitel 32 — Jonas: Der zweiundzwanzigste Dezember
 
 Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
 wachte um vier auf und wusste, dass ich es tun werde.
@@ -7475,7 +7475,7 @@ Ich kam um sieben.
 
 ---
 
-# Kapitel 33 — Leni
+# Kapitel 33 — Leni: Neun Uhr vierzehn
 
 Die Mail kam am dreiundzwanzigsten Dezember um neun Uhr vierzehn.
 
@@ -7754,7 +7754,7 @@ Er hat es trotzdem drei Tage lang jeden Abend gefragt.
 
 ---
 
-# Kapitel 34 — Jonas
+# Kapitel 34 — Jonas: Drei Papiere
 
 Ich habe von der Durchfahrt bis zum Büro elf Minuten gebraucht, und ich
 weiß das, weil ich auf die Uhr gesehen habe, als ich losfuhr, und noch
@@ -7942,7 +7942,7 @@ draußen war.
 
 ---
 
-# Kapitel 35 — Leni
+# Kapitel 35 — Leni: Der Vierundzwanzigste
 
 Am Morgen des vierundzwanzigsten Dezember stand ich um zwanzig nach vier
 unten und machte den Ofen an, obwohl der vierundzwanzigste Dezember der
@@ -8131,7 +8131,7 @@ Das war der Fehler, und es war der beste Fehler dieses Winters.
 
 ---
 
-# Kapitel 36 — Jonas
+# Kapitel 36 — Jonas: Kartoffelsalat
 
 Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
 und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.
@@ -8345,7 +8345,7 @@ gestellt.“
 
 ---
 
-# Kapitel 37 — Leni
+# Kapitel 37 — Leni: Eine Ente für zwei
 
 Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
 Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich
@@ -8583,7 +8583,7 @@ das mache ich schon selbst.“
 
 ---
 
-# Kapitel 38 — Jonas
+# Kapitel 38 — Jonas: Was Theo erzählt hat
 
 Theo kam am Abend des siebenundzwanzigsten und erzählte mir das
 Telefonat, so gut er es erinnerte, und zweimal wörtlich.
@@ -8792,7 +8792,7 @@ mich nie wieder anrufen.“
 
 ---
 
-# Kapitel 39 — Leni
+# Kapitel 39 — Leni: Die Kopfzeile
 
 Am sechsundzwanzigsten Dezember, einem Freitag, hat es den ganzen Tag
 geregnet, und ich habe die blaue Mappe aus der Schublade geholt und mich
@@ -9038,7 +9038,7 @@ für eine höfliche Warnung gehalten:
 
 ---
 
-# Kapitel 40 — Jonas
+# Kapitel 40 — Jonas: Ein unscharfes Foto
 
 Das Foto ist unscharf.
 
@@ -9287,7 +9287,7 @@ jemanden gehalten habe, der es sich leicht macht.
 
 ---
 
-# Kapitel 41 — Leni
+# Kapitel 41 — Leni: Silvester
 
 Silvester war der Tag, an dem Emil zum ersten Mal in seiner Wohnung
 war.
@@ -9466,7 +9466,7 @@ und sagte: „Ich wusste nicht, was ich schreiben soll.“
 
 ---
 
-# Kapitel 42 — Jonas
+# Kapitel 42 — Jonas: Das Zimmer ohne Vorhänge
 
 Ich habe das Kinderzimmer am sechzehnten Dezember bestellt und am
 achtzehnten aufgebaut, abends, allein, mit dem beiliegenden
@@ -9661,7 +9661,7 @@ ich habe es nicht einmal selbst geschrieben.
 
 ---
 
-# Kapitel 43 — Leni
+# Kapitel 43 — Leni: Einschreiben
 
 Theos Brief kam am dritten Januar per Einschreiben, eine Seite,
 sechs Absätze, kein Gruß von irgendjemandem.
@@ -9919,7 +9919,7 @@ sagen, was von ihr das Größte ist, was es gibt.
 
 ---
 
-# Kapitel 44 — Jonas
+# Kapitel 44 — Jonas: Neun Tage nichts tun
 
 Zwischen dem dritten und dem zwölften Januar habe ich neun Tage lang
 nichts getan, und das ist die schwerste Arbeit meines Lebens gewesen.
@@ -10110,7 +10110,7 @@ Bastian hatte recht, und es war furchtbar.
 
 ---
 
-# Kapitel 45 — Leni
+# Kapitel 45 — Leni: Der Bote
 
 Der Bote kam am zwölften Januar um zwanzig nach neun, und um zwölf habe
 ich Sievers angerufen.
@@ -10314,7 +10314,7 @@ Es war das, was Frau Kettler *Anfang* nennt.
 
 ---
 
-# Kapitel 46 — Jonas
+# Kapitel 46 — Jonas: Die Kanzlei über der Apotheke
 
 Sievers rief am zwölften Januar um vierzehn Uhr an, zwei Stunden nach
 ihrem Anruf, und ließ mir keine Wahl.
@@ -10534,7 +10534,7 @@ Ich habe geschrieben: *Ich weiß.*
 
 ---
 
-# Kapitel 47 — Leni
+# Kapitel 47 — Leni: Ein Anruf nach Harburg
 
 Ich habe meine Mutter am dreizehnten Januar angerufen, an einem Montag,
 um Viertel nach acht abends, und ich habe damit eine Regel gebrochen,
@@ -10772,7 +10772,7 @@ Ich habe trotzdem beide Zeilen aufgehoben.
 
 ---
 
-# Kapitel 48 — Jonas
+# Kapitel 48 — Jonas: Warten ist Arbeit
 
 Die Woche vor dem zwanzigsten Januar war die längste meines
 Berufslebens, und ich habe in ihr sehr wenig getan.
@@ -10958,7 +10958,7 @@ gedacht: Gut, dass er so viel gearbeitet hat.“
 
 ---
 
-# Kapitel 49 — Leni
+# Kapitel 49 — Leni: Achtzehn Zitronentarten
 
 Die Woche vor dem zwanzigsten Januar war die erste seit sechs Jahren,
 in der ich nichts tun konnte.
@@ -11172,7 +11172,7 @@ Anhang, und danach war die Reihenfolge wieder eine andere.
 
 ---
 
-# Kapitel 50 — Jonas
+# Kapitel 50 — Jonas: Der Tisch von 1998
 
 Am zwanzigsten Januar, zehn Uhr, vierter Stock, der Tisch von 1998.
 
@@ -11393,7 +11393,7 @@ Ich hatte vergessen, dass Marlene Voss alles liest.
 
 ---
 
-# Kapitel 51 — Leni
+# Kapitel 51 — Leni: Konfusion
 
 Das Protokoll kam am zwanzigsten Januar um achtzehn Uhr vierundvierzig.
 
@@ -11671,7 +11671,7 @@ Diesmal habe ich es geglaubt.
 
 ---
 
-# Kapitel 52 — Jonas
+# Kapitel 52 — Jonas: Anlage vier
 
 Sie hat den siebenundzwanzigsten Januar schon aufgeschrieben, und sie
 hat es besser gemacht, als ich es könnte.
@@ -11911,7 +11911,7 @@ Und daneben, weil ich nicht anders kann, eine Zeile mit fünf Wörtern:
 
 ---
 
-# Kapitel 53 — Leni
+# Kapitel 53 — Leni: Ein Umschlag mit Fenster
 
 Der Grundbuchauszug kam am vierten Februar, in einem Umschlag mit
 Fenster, und ich habe ihn zwischen einer Rechnung für Backpapier und
@@ -12121,7 +12121,7 @@ jemand nachgesehen hat — und ich war es nicht.*
 
 ---
 
-# Kapitel 54 — Jonas
+# Kapitel 54 — Jonas: Der Zustimmungsvorbehalt
 
 Der Zustimmungsvorbehalt hat am elften Februar zum ersten Mal
 gegriffen, und ich habe an diesem Tag etwas über mich erfahren, das ich
@@ -12414,7 +12414,7 @@ dazugeschrieben:
 
 ---
 
-# Kapitel 55 — Leni
+# Kapitel 55 — Leni: Meine Mutter in Hamburg
 
 Meine Mutter ist am siebten Februar nach Hamburg gekommen, zum ersten
 Mal seit Emils Geburt.
@@ -12621,7 +12621,7 @@ Es ist die erste Zeile, die von mir ist.
 
 ---
 
-# Kapitel 56 — Jonas
+# Kapitel 56 — Jonas: Acht Vormittage
 
 Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche
@@ -12784,7 +12784,7 @@ hast und nicht drei.“
 
 ---
 
-# Kapitel 57 — Leni
+# Kapitel 57 — Leni: Der Monat, in dem alles funktionierte
 
 Der März war der Monat, in dem alles gleichzeitig funktionierte, und
 genau deshalb war er schwer.
@@ -13057,7 +13057,7 @@ Und dann ist die Antwort ein Name und keine Lücke.
 
 ---
 
-# Kapitel 58 — Jonas
+# Kapitel 58 — Jonas: Ein Wort mit vier Buchstaben
 
 Wir haben zwischen November und Mai viermal gestritten, und dreimal
 davon waren Kleinigkeiten, die keine waren.
@@ -13381,7 +13381,7 @@ gesagt worden sind, und es ist mir bis heute nicht ganz klar, warum.
 
 ---
 
-# Kapitel 59 — Leni
+# Kapitel 59 — Leni: Die oberen Etagen
 
 Am neunten April sind zum ersten Mal seit 1994 wieder Menschen in die
 oberen Etagen eingezogen.
@@ -13608,7 +13608,7 @@ Wir sind, glaube ich, ungefähr gleich weit.
 
 ---
 
-# Kapitel 60 — Jonas
+# Kapitel 60 — Jonas: Zweiundzwanzig Minuten
 
 Am elften April habe ich einen Ring gekauft, und ich habe zweiundzwanzig
 Minuten in diesem Laden gebraucht, weil ich der Verkäuferin erst
@@ -13781,7 +13781,7 @@ ist.
 
 ---
 
-# Kapitel 61 — Leni
+# Kapitel 61 — Leni: Merle
 
 Ich habe im April jemanden eingestellt.
 
@@ -14113,7 +14113,7 @@ Sie hat nicht die Vitrine gemeint.
 
 ---
 
-# Kapitel 62 — Jonas
+# Kapitel 62 — Jonas: Samstag um acht
 
 Sie hat am Mittwoch gesagt: „Samstag um acht. Emil ist bei meiner
 Mutter.“
@@ -14314,7 +14314,7 @@ Sie hat mir eine Schürze hingehalten, ohne sich umzudrehen, und gesagt:
 
 ---
 
-# Kapitel 63 — Leni
+# Kapitel 63 — Leni: Zwölf nach vier
 
 Ich bin um zwölf nach vier wach geworden, wie an vier von fünf Tagen,
 und zwei Minuten liegen geblieben und habe gehorcht, ob oben etwas ist.
@@ -14496,7 +14496,7 @@ Am Ende stand da:
 
 ---
 
-# Kapitel 64 — Jonas
+# Kapitel 64 — Jonas: Sie sind fertig
 
 *Sie sind fertig. Er fängt an.*
 
@@ -14691,7 +14691,7 @@ Ich hielt das Telefon fest.
 
 ---
 
-# Epilog — Leni
+# Epilog — Leni: Der dreizehnte September
 
 Der dreizehnte September, ein Sonntag, ein Jahr und fünf Tage nach dem
 Morgen, an dem ein Mann in einem zu guten Mantel durch meine Tür kam.

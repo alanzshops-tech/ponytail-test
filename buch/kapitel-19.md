@@ -1,4 +1,4 @@
-# Kapitel 19 — Leni
+# Kapitel 19 — Leni: Was Frau Kettler wusste
 
 Frau Kettler hat es an dem Morgen gewusst, an dem er zum ersten Mal um
 zwanzig vor sieben vor der Tür stand.

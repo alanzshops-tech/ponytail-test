@@ -1,4 +1,4 @@
-# Kapitel 36 — Jonas
+# Kapitel 36 — Jonas: Kartoffelsalat
 
 Heiligabend war ich bei meiner Mutter, wie jedes Jahr, zusammen mit Theo
 und Niklas. Bastian kam nicht, was auch jedes Jahr so ist.

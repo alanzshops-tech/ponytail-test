@@ -1,4 +1,4 @@
-# Kapitel 58 — Jonas
+# Kapitel 58 — Jonas: Ein Wort mit vier Buchstaben
 
 Wir haben zwischen November und Mai viermal gestritten, und dreimal
 davon waren Kleinigkeiten, die keine waren.

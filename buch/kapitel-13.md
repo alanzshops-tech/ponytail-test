@@ -1,4 +1,4 @@
-# Kapitel 13 — Leni
+# Kapitel 13 — Leni: Dieselbe Stirn
 
 Frau Kettler stellte mich am Mittwoch zur Rede, und sie tat es so, wie sie
 alles tut: ohne Anlauf, in der Küche, mit dem Rücken zu mir, während sie

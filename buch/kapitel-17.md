@@ -1,4 +1,4 @@
-# Kapitel 17 — Leni
+# Kapitel 17 — Leni: Zwanzig vor sieben
 
 Er stand um zwanzig vor sieben vor der Tür.
 

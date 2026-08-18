@@ -1,4 +1,4 @@
-# Kapitel 40 — Jonas
+# Kapitel 40 — Jonas: Ein unscharfes Foto
 
 Das Foto ist unscharf.
 

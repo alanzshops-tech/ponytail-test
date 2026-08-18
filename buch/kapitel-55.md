@@ -1,4 +1,4 @@
-# Kapitel 55 — Leni
+# Kapitel 55 — Leni: Meine Mutter in Hamburg
 
 Meine Mutter ist am siebten Februar nach Hamburg gekommen, zum ersten
 Mal seit Emils Geburt.

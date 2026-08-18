@@ -1,4 +1,4 @@
-# Kapitel 22 — Jonas
+# Kapitel 22 — Jonas: Zwei Tage bis Freitag
 
 Ich habe die zwei Tage bis Freitag ungefähr so verbracht, wie man das
 macht, wenn man nicht weiß, wie man es macht.

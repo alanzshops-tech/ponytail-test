@@ -1,4 +1,4 @@
-# Kapitel 32 — Jonas
+# Kapitel 32 — Jonas: Der zweiundzwanzigste Dezember
 
 Am zweiundzwanzigsten Dezember hatte ich bis achtzehn Uhr Zeit, und ich
 wachte um vier auf und wusste, dass ich es tun werde.

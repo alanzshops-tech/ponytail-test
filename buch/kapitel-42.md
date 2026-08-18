@@ -1,4 +1,4 @@
-# Kapitel 42 — Jonas
+# Kapitel 42 — Jonas: Das Zimmer ohne Vorhänge
 
 Ich habe das Kinderzimmer am sechzehnten Dezember bestellt und am
 achtzehnten aufgebaut, abends, allein, mit dem beiliegenden

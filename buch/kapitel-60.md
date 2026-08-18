@@ -1,4 +1,4 @@
-# Kapitel 60 — Jonas
+# Kapitel 60 — Jonas: Zweiundzwanzig Minuten
 
 Am elften April habe ich einen Ring gekauft, und ich habe zweiundzwanzig
 Minuten in diesem Laden gebraucht, weil ich der Verkäuferin erst

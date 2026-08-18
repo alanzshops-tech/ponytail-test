@@ -1,4 +1,4 @@
-# Kapitel 6 — Jonas
+# Kapitel 6 — Jonas: Die Mappe auf dem Tisch
 
 Theo warf mir die Mappe auf den Tisch, ohne sich zu setzen.
 

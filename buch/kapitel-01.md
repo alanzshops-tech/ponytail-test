@@ -1,4 +1,4 @@
-# Kapitel 1 — Leni
+# Kapitel 1 — Leni: Der Ofen
 
 Der Ofen hatte keine Meinung. Das war das Schönste an ihm.
 

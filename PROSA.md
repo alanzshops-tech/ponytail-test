@@ -78,7 +78,8 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Wort doppelt hintereinander
 
-*Keine gefunden.*
+- Kapitel 12, Zeile 1: „Sonntags Sonntags“
+- Kapitel 41, Zeile 1: „Silvester Silvester“
 
 ## Typografie
 
@@ -89,6 +90,7 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 

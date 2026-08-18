@@ -1,4 +1,4 @@
-# Kapitel 3 — Leni
+# Kapitel 3 — Leni: Mittags um halb eins
 
 Ich schloss ab. Mittags, um halb eins, an einem Dienstag.
 

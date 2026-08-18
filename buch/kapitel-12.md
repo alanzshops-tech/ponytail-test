@@ -1,4 +1,4 @@
-# Kapitel 12 — Jonas
+# Kapitel 12 — Jonas: Sonntags
 
 Sonntags habe ich nichts.
 

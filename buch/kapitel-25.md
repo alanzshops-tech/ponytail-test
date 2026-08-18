@@ -1,4 +1,4 @@
-# Kapitel 25 — Leni
+# Kapitel 25 — Leni: Drei Dienstage
 
 Es gab in der ersten Dezemberwoche drei Dienstage, und das ist
 arithmetisch unmöglich, aber so hat es sich angefühlt.

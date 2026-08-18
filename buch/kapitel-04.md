@@ -1,4 +1,4 @@
-# Kapitel 4 — Jonas
+# Kapitel 4 — Jonas: Vier Komma zwei
 
 Vier Komma zwei Millionen.
 

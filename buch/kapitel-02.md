@@ -1,4 +1,4 @@
-# Kapitel 2 — Jonas
+# Kapitel 2 — Jonas: Drei Sätze
 
 Ich hatte drei Sätze vorbereitet.
 

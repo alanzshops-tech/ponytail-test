@@ -1,4 +1,4 @@
-# Kapitel 56 — Jonas
+# Kapitel 56 — Jonas: Acht Vormittage
 
 Die Eingewöhnung dauert acht Vormittage, und ich schreibe sie alle acht
 auf, weil mir bis dahin niemand gesagt hatte, dass das die eigentliche

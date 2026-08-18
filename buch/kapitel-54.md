@@ -1,4 +1,4 @@
-# Kapitel 54 — Jonas
+# Kapitel 54 — Jonas: Der Zustimmungsvorbehalt
 
 Der Zustimmungsvorbehalt hat am elften Februar zum ersten Mal
 gegriffen, und ich habe an diesem Tag etwas über mich erfahren, das ich

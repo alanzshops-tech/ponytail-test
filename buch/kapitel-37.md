@@ -1,4 +1,4 @@
-# Kapitel 37 — Leni
+# Kapitel 37 — Leni: Eine Ente für zwei
 
 Heiligabend, halb sechs. Frau Kettler war um vier gegangen, zu ihrer
 Tochter nach Barmbek, und hatte vorher zweimal gefragt, ob ich wirklich

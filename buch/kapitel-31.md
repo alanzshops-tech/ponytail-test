@@ -1,4 +1,4 @@
-# Kapitel 31 — Leni
+# Kapitel 31 — Leni: Der Brief vom vierten Dezember
 
 Der Brief kam am vierten Dezember, einen Tag nachdem er datiert war,
 also mit der Post, die eigentlich niemand mehr bekommt.

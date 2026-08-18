@@ -1,4 +1,4 @@
-# Kapitel 7 — Leni
+# Kapitel 7 — Leni: Eine Situation in der Familie
 
 *Es gab damals eine Situation in der Familie.*
 
