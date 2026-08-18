@@ -319,8 +319,6 @@ Ich sagte gar nichts.
 Und über uns, durch die Decke, durch dreißig Zentimeter Hamburger
 Kontorhausdielen, hörte ich, wie Emil zu weinen anfing.
 
-Ein zusätzlicher Satz für die Gegenprobe.
-
 ---
 
 # Drei Sätze — Jonas
