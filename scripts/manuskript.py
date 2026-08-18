@@ -171,7 +171,21 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     from ebooklib import epub
 
     buch = epub.EpubBook()
-    buch.set_identifier(f"reinhardt-1-{titel.lower().replace(' ', '-')}")
+    # Die Kennung muss sich aendern, wenn sich der Inhalt aendert.
+    # Bis zum 18.08.2026 stand hier nur der Titel -- jede neue Fassung
+    # trug damit dieselbe Kennung, und Lesegeraete erkennen Buecher
+    # genau daran. Wer eine aeltere Fassung importiert hatte, bekam die
+    # neue nicht zu sehen: gleiche Kennung, also dasselbe Buch. Drei Mal
+    # als "steht immer noch das Alte drin" gemeldet, bevor es aufgefallen
+    # ist.
+    #
+    # Aus dem Inhalt gebildet, nicht zufaellig: gleicher Text gibt
+    # dieselbe Kennung, der Bau bleibt reproduzierbar.
+    import hashlib
+    stoff = "".join([titel, autor, vorspann, nachspann]
+                    + [t for _, _, t in kapitel])
+    kennung = hashlib.sha256(stoff.encode("utf-8")).hexdigest()[:12]
+    buch.set_identifier(f"reinhardt-1-{kennung}")
     buch.set_title(titel)
     buch.set_language("de")
     buch.add_author(autor)
