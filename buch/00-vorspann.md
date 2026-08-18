@@ -8,7 +8,7 @@
 
 **Die Reinhardt-Brüder — Band 1**
 
-*Alan Lorenz*
+*Jule Norden*
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Die Reinhardt-Brüder — Band 1**
 
-*Alan Lorenz*
+*Jule Norden*
 
 ---
 
@@ -15015,6 +15015,8 @@ Welperstraße 3 G
 Deutschland
 
 Vertretungsberechtigter Gesellschafter: Alan Lorenz
+
+Dieser Roman erscheint unter dem Pseudonym **Jule Norden**.
 
 Telefon: 0152 31840613
 E-Mail: alanz.shops@gmail.com

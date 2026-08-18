@@ -602,7 +602,7 @@ das, was Amazon selbst anbietet:
 Keine erfundenen Preise, keine erfundene Biografie. Was stimmt: Bochum,
 GbR, Hamburg als Schauplatz, erste Reihe.
 
-> Alan Lorenz schreibt Liebesromane, in denen die Leute arbeiten müssen
+> Jule Norden schreibt Liebesromane, in denen die Leute arbeiten müssen
 > — an ihrem Geld, an ihren Familien und aneinander.
 >
 > „Die Reinhardt-Brüder" spielt in der Hamburger Speicherstadt, zwischen
@@ -610,7 +610,21 @@ GbR, Hamburg als Schauplatz, erste Reihe.
 > Immobiliengesellschaft, die einmal die Straße kaufen wollte, in der
 > sie steht.
 >
-> Er lebt und arbeitet in Bochum.
+> Sie lebt und arbeitet im Ruhrgebiet.
+
+**Zum Pseudonym.** *Jule Norden* ist ein Künstlername. Das ist im
+Liebesroman gängige Praxis und keine Täuschung — getäuscht wäre, wer
+sich als real existierende Person ausgäbe. Rechtlich bleibt alles beim
+echten Namen: KDP-Konto, Steuerinterview, Auszahlung und das Impressum
+im Nachspann, das die Alan Lorenz GbR nennt und das Pseudonym
+ausdrücklich zuordnet.
+
+Zwei praktische Gründe sprachen dafür, unabhängig vom Geschlecht:
+
+1. *Alan Lorenz* ist der Name der GbR hinter homeeins.de. Wer den
+   Autorennamen sucht, landet sonst bei Hundemöbeln.
+2. Die Amazon-Autorenseite trägt nur, wenn darunter ausschließlich
+   Bücher stehen.
 
 **Warum so kurz:** Eine Autorenbiografie ohne Veröffentlichungen wird
 mit jedem zusätzlichen Satz unglaubwürdiger. Drei Absätze, die stimmen,

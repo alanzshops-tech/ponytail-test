@@ -330,7 +330,7 @@ def main() -> None:
                        # laengst, nur das Feld, das KDP ausliest, war
                        # leer. Die Platzhalterpruefung sieht nur den
                        # Text, nicht die Metadaten.
-                       args.autor or "Alan Lorenz", Path(args.epub),
+                       args.autor or "Jule Norden", Path(args.epub),
                        Path(args.cover) if args.cover else None)
             groesse = Path(args.epub).stat().st_size / 1024
             print(f"Geschrieben: {args.epub} ({groesse:.0f} kB, "
