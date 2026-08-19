@@ -320,6 +320,57 @@ Alle Vorgängerfassungen bleiben erhalten:
 `cover/fertig-newyork-weich/`, `cover/fertig-hamburg/`,
 `cover/fertig-alt/`.
 
+### 13. Die 2 an jedem Szenenwechsel
+
+Gemeldet als *„kannst du im Buch überall diese 2 entfernen, das
+irritiert"*, mit einem Foto der Titelseite: unter dem Reihennamen ein
+Kästchen und eine **2**.
+
+Das war kein Zeichen im Text. Es war eine Zeile Stylesheet:
+
+    hr:after { content: "\2042"; }
+
+Gemeint war U+2042, das Asterism ⁂ — das Zeichen, das im Buch die
+Szenenwechsel trennt. Das Stylesheet steht in `manuskript.py` in einem
+gewöhnlichen Python-String, und Python liest `\204` als **Oktalzahl**.
+Was im Buch ankam, war das Steuerzeichen U+0084, gefolgt von der
+übrig gebliebenen Ziffer 2. Ein Lesegerät kann ein Steuerzeichen nicht
+zeichnen und malt ein Kästchen — und daneben stand die 2.
+
+An **471 Stellen** im Buch, an jedem einzelnen Szenenwechsel, plus auf
+der Titelseite.
+
+Das Trennzeichen steht jetzt als echtes Zeichen im Stylesheet.
+
+**Warum es keins der Messgeräte gesehen hat.** `prosa.py`, `vale.sh`
+und `dopplung.py` prüfen die Prosa. `epubcheck.py` prüft die fertige
+Datei, aber es las nur die Kapitel-Dateien — nie das Stylesheet, nie
+die Metadaten. Das Zeichen stand in keiner dieser Dateien.
+
+`epubcheck.py` prüft jetzt **jede Textdatei im Paket** — Kapitel,
+Stylesheet, OPF, NCX — auf C0- und C1-Steuerzeichen und auf das
+Ersatzzeichen U+FFFD. Kalibriert an beiden Seiten: Das saubere
+Testbuch im Selbsttest trägt ein Stylesheet mit Asterism,
+Gedankenstrich und deutschen Anführungszeichen und darf **nicht**
+anschlagen; das kaputte trägt genau diesen Fehler und **muss**. Gegen
+die echte Datei vor der Reparatur gehalten, hat es ihn gefunden:
+`EPUB/style.css: Steuerzeichen im Text (U+0084 bei 465)`.
+
+**Und die Kennung war zum dritten Mal falsch.** Text und Umschlag waren
+unverändert, nur das Stylesheet repariert — die Kennung blieb damit
+`ae7f7630aa88`, dieselbe wie in der Fassung, die schon ausgeliefert
+war. Ein Lesegerät hätte die reparierte Datei wieder als dasselbe Buch
+erkannt und die 2 behalten. Derselbe Fehler wie am 18.08., wieder eine
+Ebene tiefer.
+
+Im Code steht jetzt die Regel statt einer weiteren Aufzählung:
+**alles, was in die Datei geht, geht in die Kennung** — Titel, Autor,
+Vorspann, Nachspann, Kapitel, Stylesheet, Umschlagbild. Nachgemessen an
+drei Läufen: Stylesheet wie jetzt `1bf553410eee`, Stylesheet geändert
+`e920677d3c13`, Stylesheet wieder wie jetzt `1bf553410eee`.
+
+Die ausgelieferte Datei trägt jetzt `79fe7dd70150`.
+
 ---
 
 ## D — Was ich absichtlich nicht angefasst habe

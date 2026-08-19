@@ -157,7 +157,14 @@ h2 { font-size: 1.15em; text-align: center; margin: 2em 0 1em;
 p { text-indent: 1.2em; margin: 0; text-align: justify; }
 p:first-of-type, h1 + p, h2 + p, hr + p { text-indent: 0; }
 hr { border: 0; text-align: center; margin: 1.6em 0; }
-hr:after { content: "\2042"; }
+/* Das Trennzeichen steht als echtes Zeichen da, nicht als CSS-Escape.
+   Bis zum 19.08.2026 stand hier content: "\\2042" -- gemeint war das
+   Asterism U+2042. Python hat \\204 aber als Oktalzahl gelesen, also
+   als Steuerzeichen U+0084, und die 2 blieb als Ziffer stehen. Im
+   Lesegeraet stand an allen 471 Szenenwechseln ein Kaestchen und eine
+   2. Als "diese 2 irritiert" gemeldet. epubcheck.py prueft seitdem
+   auch das Stylesheet auf Steuerzeichen. */
+hr:after { content: "⁂"; }
 blockquote { font-style: italic; margin: 1.2em 2em; }
 blockquote p { text-indent: 0; }
 """
@@ -182,14 +189,24 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     # Aus dem Inhalt gebildet, nicht zufaellig: gleicher Text gibt
     # dieselbe Kennung, der Bau bleibt reproduzierbar.
     #
-    # Das Umschlagbild gehoert mit hinein. Am 18.08.2026 wurde nur das
-    # Bild getauscht, der Text blieb gleich -- die Kennung blieb damit
-    # ebenfalls gleich, und genau daran haette ein Lesegeraet die neue
-    # Fassung wieder als dasselbe Buch erkannt und den alten Umschlag
-    # behalten. Derselbe Fehler wie vorher, nur eine Ebene tiefer.
+    # Die Regel dazu lautet: **Alles, was in die Datei geht, geht in die
+    # Kennung.** Sie ist zweimal gebrochen worden, jedes Mal eine Ebene
+    # tiefer, und jedes Mal hat es dieselbe Meldung ausgeloest.
+    #
+    #   18.08.2026  Das Umschlagbild fehlte im Hash. Nur das Bild wurde
+    #               getauscht, der Text blieb gleich -- gleiche Kennung,
+    #               also fuer das Lesegeraet dasselbe Buch, also der
+    #               alte Umschlag.
+    #   19.08.2026  Das Stylesheet fehlte im Hash. Behoben wurde eine
+    #               kaputte Zeile CSS, Text und Bild blieben gleich --
+    #               wieder gleiche Kennung, wieder die alte Fassung.
+    #
+    # Wer hier eine neue Zutat einbaut -- Schriftart, zweites Bild,
+    # Nachwort --, traegt sie in diese Liste ein.
     import hashlib
     h = hashlib.sha256()
-    for teil in [titel, autor, vorspann, nachspann] + [t for _, _, t in kapitel]:
+    for teil in ([titel, autor, vorspann, nachspann, CSS]
+                 + [t for _, _, t in kapitel]):
         h.update(teil.encode("utf-8"))
     if coverbild and coverbild.exists():
         h.update(coverbild.read_bytes())

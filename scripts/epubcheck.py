@@ -21,6 +21,7 @@ einem Kindle falsch aus.
   Platzhalter   keine eckigen Platzhalter, kein TODO, kein HTML-Kommentar
   Metadaten     Titel, Autor, Sprache, Kennung gesetzt und ohne Platzhalter
   Cover         als Bild vorhanden und als Cover ausgezeichnet
+  Zeichen       keine Steuerzeichen in Text, Stylesheet oder Metadaten
 
     python3 scripts/epubcheck.py --selbsttest
     python3 scripts/epubcheck.py buch/reinhardt-1_KDP_final.epub
@@ -41,6 +42,25 @@ PLATZHALTER = re.compile(
     r"|\bTODO\b|\bFIXME\b|\bLEKTORAT\b|<!--", re.I)
 
 KAPITEL = re.compile(r"kap(\d+)\.xhtml$")
+
+# Zeichen, die niemand gesetzt hat und die ein Lesegeraet als Kaestchen
+# malt: C0-Steuerzeichen (ohne Tab, Zeilenumbruch, Wagenruecklauf),
+# C1-Steuerzeichen U+0080-U+009F und das Ersatzzeichen U+FFFD.
+#
+# Gebaut am 19.08.2026, nachdem in der fertigen Datei an jedem
+# Szenenwechsel ein Kaestchen und eine 2 stand. Ursache war eine Zeile
+# CSS: content: "\2042" in einem Python-String. Python las \204 als
+# Oktalzahl, machte U+0084 daraus und liess die 2 als Ziffer stehen.
+# Beide Werkzeuge, die es haette sehen muessen, sahen nur den Prosatext
+# und nie das Stylesheet.
+#
+# Absichtlich eng: Gedankenstrich, Anfuehrungszeichen und das Asterism
+# sind normale Zeichen und duerfen nicht anschlagen.
+STEUERZEICHEN = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f�]")
+
+# Geprueft wird jede Textdatei im Paket, nicht nur die Kapitel. Das
+# Stylesheet gehoert dazu -- dort stand der Fehler.
+TEXTDATEI = (".xhtml", ".html", ".css", ".opf", ".ncx", ".xml")
 
 
 def text_aus(html: str) -> str:
@@ -154,6 +174,20 @@ def pruefe(pfad: Path) -> list[str]:
             if ordner + ziel not in namen and ziel not in namen:
                 klagen.append(f"{s}: toter Verweis auf {ziel!r}")
 
+    # --- Zeichen --------------------------------------------------------
+    for n in namen:
+        if not n.lower().endswith(TEXTDATEI):
+            continue
+        inhalt = z.read(n).decode("utf-8", "replace")
+        treffer = list(STEUERZEICHEN.finditer(inhalt))
+        if treffer:
+            stellen = ", ".join(
+                f"U+{ord(t.group(0)):04X} bei {t.start()}"
+                for t in treffer[:3])
+            mehr = f" und {len(treffer)-3} weitere" if len(treffer) > 3 else ""
+            klagen.append(f"{n}: Steuerzeichen im Text ({stellen}{mehr}) — "
+                          f"das Lesegeraet malt dafuer ein Kaestchen")
+
     # --- Inhaltsverzeichnis --------------------------------------------
     nav = next((n for n in namen if n.endswith("nav.xhtml")), None)
     if not nav:
@@ -201,6 +235,7 @@ def selbsttest() -> None:
  </metadata>
  <manifest>
   <item id="cv" href="cover.jpg" media-type="image/jpeg"/>
+  <item id="st" href="style.css" media-type="text/css"/>
   <item id="k1" href="kap01.xhtml" media-type="application/xhtml+xml"/>
   <item id="k2" href="kap02.xhtml" media-type="application/xhtml+xml"/>
   <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
@@ -209,6 +244,15 @@ def selbsttest() -> None:
  <spine><itemref idref="k1"/><itemref idref="k2"/></spine>
 </package>""")
             z.writestr("EPUB/cover.jpg", b"\xff\xd8\xff")
+            # Negativfall fuer die Zeichenpruefung: Das saubere
+            # Stylesheet enthaelt Asterism, Gedankenstrich und deutsche
+            # Anfuehrungszeichen. Schlaegt der Pruefer hier an, ist er
+            # zu grob. Der Kaputtfall traegt genau den Fehler vom
+            # 19.08.2026: aus "\2042" wurde U+0084 plus die Ziffer 2.
+            z.writestr("EPUB/style.css",
+                       'hr:after { content: "\x842"; }\n' if kaputt else
+                       'hr:after { content: "⁂"; }\n'
+                       '/* Gedankenstrich — und „Anfuehrung" */\n')
             z.writestr("EPUB/kap01.xhtml",
                        f"<html><body><h1>Eins</h1><p>{lang}</p></body></html>")
             if kaputt:
