@@ -104,6 +104,59 @@ wollte einen Witz machen und es ist der falsche Moment gewesen.“
 
 ---
 
+Ich habe den Antrag am elften Juli abgegeben und danach vier Wochen
+lang nichts gehört, und in diesen vier Wochen habe ich zum ersten Mal
+begriffen, wie es Menschen geht, die auf einen Bescheid warten.
+
+Ich weiß, wie das klingt. Ich habe von Mai 2026 bis September 2027 auf
+zwei Bescheide gewartet, von denen einer über mein Bleiben entschieden
+hat.
+
+Es ist trotzdem nicht dasselbe.
+
+Damals habe ich gewartet und dabei gearbeitet, weil ich es kann, und
+ich habe jeden Tag genau gewusst, was auf dem Spiel steht. Es ging um
+Existenz, und Existenz ist übersichtlich.
+
+Diesmal ging es um einen Baum für elftausendzweihundert Euro, und ich
+habe an vierzehn von achtundzwanzig Tagen ins System gesehen, ob sich
+der Vorgang bewegt hat.
+
+Theo hat mich am siebten August dabei erwischt.
+
+„Du schaust nach.“
+
+„Ich schaue nach.“
+
+„Willst du, dass ich frage?“
+
+„Nein“, sagte ich. „Ich will, dass du merkst, wie lächerlich es ist,
+und es trotzdem nicht sagst.“
+
+Er hat genickt und ist rausgegangen und hat es nicht gesagt.
+
+---
+
+Ich habe später verstanden, warum es schwerer war.
+
+Bei den Bescheiden der Ausländerbehörde konnte ich nichts falsch
+gemacht haben. Ich hatte die Ehe nicht erfunden, ich hatte nicht
+gelogen, ich hatte die Wahrheit gesagt, und wenn es schiefgegangen
+wäre, wäre es eine Ungerechtigkeit gewesen und nicht meine Schuld.
+
+Bei diesem Antrag konnte ich mich blamieren.
+
+Ich hatte etwas gewollt und es aufgeschrieben und meinen Namen
+darunter gesetzt, und wenn die Antwort nein gewesen wäre, dann hätte
+jemand gefunden, dass es die elftausend nicht wert ist.
+
+Ich habe elf Jahre lang nichts beantragt außer Verlängerungen.
+
+Das ist der Unterschied zwischen einem Antrag und einem Antrag, und ich
+habe fünfunddreißig Jahre gebraucht, um ihn zu bemerken.
+
+---
+
 Die Geschäftsführung hat den Antrag am siebten August beschieden.
 
 Es war kein Beiratsthema, elftausend Euro sind das nicht. Es ist ein

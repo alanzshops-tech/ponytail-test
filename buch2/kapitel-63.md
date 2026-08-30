@@ -137,12 +137,10 @@ Sie hat den Stift in der Hand gehabt und nicht angesetzt.
 
 „Das ist kein Grund.“
 
-„Doch.“ Sie hat den Stift hingelegt. „Amira, ich habe im April in
-meiner Diele gestanden und gedacht: Dieses Kind ist die Erste, die in
-diese Familie kommt und von Anfang an alles weiß. Das habe ich dir
-damals gesagt.“
+„Doch.“ Sie hat den Stift hingelegt. „Weißt du noch, was ich im April
+in meiner Diele gedacht habe? Ich habe es dir am selben Tag gesagt.“
 
-„Ich erinnere mich.“
+„Über das Kind, das von Anfang an alles weiß.“
 
 „Ich habe seitdem vier Monate darüber nachgedacht, und es stimmt nicht.“
 Sie hat die Hände in den Schoß gelegt. „Sie wird nicht alles wissen. Sie
