@@ -113,6 +113,63 @@ ihn dir gezeigt, nach sieben Monaten.“
 
 ---
 
+Ich habe zwei Wochen gebraucht, und ich habe in diesen zwei Wochen
+etwas gemacht, das ich niemandem erzählt habe: Ich habe den Ordner
+gelesen. Ganz. Zweihundert Blätter, an fünf Abenden.
+
+Es ist kein angenehmes Buch.
+
+Sabine hat nicht aufgeschrieben, was die Firma gebaut hat. Sie hat
+aufgeschrieben, was vorher da war.
+
+Objekt 12, Barmbek, 1984: *Zwei Schwestern, achtzig und
+sechsundsiebzig. Umzug ins Heim Februar 1985, die Jüngere im
+selben Jahr gestorben.*
+
+Objekt 29, Altona, 1991: *Bäckerei Kruse, seit 1911. Der Sohn wollte
+nicht. Verkauf war seine Entscheidung, nicht unsere.*
+
+Objekt 38, Rothenburgsort, 1996: *Wohnungen 3, 7 und 11 waren bewohnt.
+Sozialplan. Die Frau aus 7 hat mir 1998 geschrieben. Ich habe nicht
+geantwortet, weil W. es nicht wollte.*
+
+Bei diesem Eintrag habe ich aufgehört und bin ins Bett gegangen.
+
+Am nächsten Abend habe ich weitergelesen und gezählt: In
+einhundertzweiundfünfzig Einträgen steht neunzehnmal ein Satz, der
+Sabine selbst betrifft, und in fünfzehn davon steht, dass sie etwas
+nicht getan hat.
+
+Das ist kein Register. Das ist ein Schuldbuch, und sie hat es zwanzig
+Jahre lang allein geführt.
+
+---
+
+Ich habe Theo davon nichts erzählt, bis ich zugesagt hatte, und das war
+die einzige Sache in diesem Winter, bei der ich sicher bin, dass es
+richtig war.
+
+„Warum nicht?“, hat er im Januar gefragt.
+
+„Weil es der Ordner deiner Mutter ist“, sagte ich. „Sie hat ihn mir
+gegeben und nicht dir. Wenn ich dir am zweiten Abend erzähle, was auf
+Blatt achtunddreißig steht, dann habe ich ihn dir gegeben, und das war
+nicht ihre Entscheidung.“
+
+Theo hat lange nichts gesagt.
+
+„Steht etwas über meinen Vater drin?“
+
+„Ja.“
+
+„Willst du es mir sagen?“
+
+„Nein“, sagte ich. „Und ich sage dir auch, warum ich nicht ausweiche:
+Frag sie. Sie sitzt sonntags in Othmarschen und wartet seit
+achtundzwanzig Jahren darauf, dass einer von euch fragt.“
+
+---
+
 Ich habe am zwanzigsten Dezember zugesagt.
 
 Wir haben zusammen angefangen, an einem Sonntagnachmittag, Sabine und

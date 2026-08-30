@@ -67,6 +67,25 @@ Ein Mietvertrag zum Selbstkostenpreis von der Firma ihres Mannes.
 Ein Absatz in einer Akte, der schon existiert, und dieser hier käme
 dazu.
 
+Ich habe das in dieser Reihenfolge gedacht, in zwei Minuten, auf einer
+Bank am Kastellet, während mein Mann neben mir saß und wartete.
+
+Und irgendwo in der zweiten Minute ist mir aufgefallen, dass ich es
+nicht gedacht habe wie jemand, der ein Geschenk prüft.
+
+Ich habe es gedacht wie jemand, der eine Akte gegenliest.
+
+Das ist der Beruf, und er ist gut, und er hat mich elf Jahre lang durch
+diese Stadt getragen. Und er ist auch der Grund, warum ich am
+vierzehnten März 2025 auf einer Treppe in Kopenhagen saß und schon
+wusste, wie ich meine eigene Hochzeit behandeln werde.
+
+Ich habe an dieser Bank zum ersten Mal gedacht: Es gibt Dinge, bei
+denen ist Gegenlesen die falsche Bewegung.
+
+Und dann habe ich trotzdem gegengelesen, weil ich es nicht anders kann,
+und deshalb habe ich gesagt, was ich gesagt habe.
+
 „Es geht nicht“, sagte ich.
 
 „Ich weiß“, sagte Theo.

@@ -109,6 +109,26 @@ Kubiak hat die Hände in die Taschen gesteckt und auf den Boden gesehen.
 
 „Nein. Ich glaube nicht, dass wir das je erfahren.“
 
+„Wir haben es im Büro besprochen“, sagte Kubiak. „Vier Leute, im
+September. Ich habe jeden Einzelnen gefragt, und ich habe dabei
+zugesehen, wie sie mich ansehen, weil ich es wissen wollte, und weil
+ich mir sicher sein musste, bevor ich Ihnen sagen kann, dass wir es
+nicht waren.“
+
+„Und?“
+
+„Und ich bin mir sicher“, sagte er. „Was mir nichts nützt, weil ich es
+Ihnen nicht beweisen kann, und was Ihnen nichts nützt, weil Sie es mir
+glauben müssen.“
+
+Er hat einen Moment nichts gesagt.
+
+„Wissen Sie, was mich daran wirklich stört, Herr Reinhardt? Nicht Ihr
+Anruf. Ihr Anruf war ein Fehler, und Sie haben ihn zugegeben, und damit
+ist er erledigt.“ Er hat aufgesehen. „Mich stört, dass ich seither vier
+Leute in meinem eigenen Büro anders ansehe. Das ist der Schaden. Den
+hat der Brief angerichtet und nicht Sie.“
+
 „Ich auch nicht.“ Er hat aufgesehen. „Ich habe damals einen Aktenvermerk
 geschrieben, und ich habe ihn Ihrem Anwalt geschickt, und ich habe zwei
 Wochen überlegt, ob ich ihn auch der Behörde schicke.“

@@ -114,6 +114,82 @@ Reihenfolge.“
 „Nein“, sagte ich. „Du sollst aufhören zu glauben, dass es die Rechnung
 ausgleicht. Es ist keine Zahlung. Es ist eine Feststellung.“
 
+Er hat eine Weile nichts gesagt.
+
+„Ich verstehe den Unterschied nicht.“
+
+„Dann erkläre ich ihn dir mit etwas, das du verstehst.“ Ich habe mich
+im Bett aufgerichtet. „Wenn ich an einer Wand einen Riss aufnehme,
+schreibe ich hin: Rissbreite 0,8 Millimeter, Verlauf treppenförmig
+über sechs Steinlagen, Ursache Setzung. Das ist der Befund.“
+
+„Ja.“
+
+„Der Befund repariert nichts“, sagte ich. „Er ändert an der Wand keinen
+Millimeter. Er ist trotzdem die Voraussetzung für alles, was danach
+kommt, und ohne ihn ist jede Maßnahme geraten.“
+
+Theo hat sich an das Kopfteil gelehnt.
+
+„Und die Entschuldigung ist die Maßnahme.“
+
+„Nein“, sagte ich. „Das ist ja der Punkt. Die Entschuldigung ist gar
+nichts. Sie ist ein Satz, mit dem du dich besser fühlst. Die Maßnahme
+ist das, was du beim nächsten Mal anders machst, und die kannst du mir
+heute nicht geben, weil es das nächste Mal noch nicht gibt.“
+
+Ich habe die Lampe wieder ausgemacht.
+
+„Und deshalb hilft mir das Blatt. Auf dem Blatt steht ein Befund. Vier
+Zeilen, Datum, Reihenfolge, keine Wertung.“
+
+---
+
+Wir haben danach eine Weile im Dunkeln gelegen.
+
+„Ich habe eine Frage“, sagte Theo, „und ich weiß nicht, ob sie fair
+ist.“
+
+„Stell sie.“
+
+„Führst du über mich einen Befund?“
+
+Ich habe eine ganze Weile nichts gesagt, weil die ehrliche Antwort ja
+lautet und weil ich sie ihm im Mai nicht gegeben hätte.
+
+„Ich habe ein Heft“, sagte ich. „Seit dem zwanzigsten Mai. Es sind
+einundfünfzig Einträge.“
+
+„Über mich?“
+
+„Über uns.“
+
+„Was steht drin?“
+
+„Was du gemacht hast“, sagte ich. „Datum, Beobachtung. Keine Wertung.
+Ich habe im Mai angefangen, weil mir aufgefallen ist, dass ich über
+eine Ostwand vierhundertelf Blätter führe und über meine eigene Ehe
+nichts.“
+
+Es war lange still.
+
+„Darf ich es sehen?“
+
+„Nein“, sagte ich. „Irgendwann. Nicht solange eine Behörde etwas von
+uns will.“
+
+„Warum nicht?“
+
+„Weil du sonst anfängst, für das Heft zu leben“, sagte ich. „Und dann
+ist es kein Befund mehr, sondern eine Bühne.“
+
+Er hat im Dunkeln gelacht.
+
+„Das ist der kälteste Satz, den du je zu mir gesagt hast.“
+
+„Ich weiß“, sagte ich. „Ich habe ihn mir seit vier Wochen zurechtgelegt.
+Ich wollte ihn nicht sagen müssen.“
+
 Er hat sich auch aufgesetzt.
 
 „Was gleicht es aus?“
