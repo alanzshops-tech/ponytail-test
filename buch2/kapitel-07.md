@@ -39,6 +39,64 @@ Zahlen und keine Kaffeetassen.“
 
 ---
 
+Dann kamen die kleinen Fragen, und ich habe zwanzig Minuten gebraucht,
+bis ich verstanden habe, was sie eigentlich prüfen.
+
+„Wer steht morgens zuerst auf?“
+
+„Er. Zehn nach sechs.“
+
+„Immer?“
+
+„Außer dienstags. Dienstags stehe ich um fünf auf, weil ich vor der
+Sonne am Objekt sein muss.“
+
+„Warum?“
+
+„Weil Backstein sich ausdehnt, wenn die Sonne draufsteht“, sagte ich.
+„Wer mittags misst, misst das Wetter.“
+
+Herr Feldmann hat genickt, als hätte er das schon einmal gehört, was
+mich kurz irritiert hat.
+
+„Wie viele Gerichte kann Ihr Mann kochen?“
+
+Ich habe fast gelacht.
+
+„Vier“, sagte ich. „Er behauptet, es seien vier. Es sind
+dreieinhalb, weil zwei davon dasselbe sind mit einer anderen Soße.“
+
+„Und Sie sagen ihm das nicht.“
+
+„Ich habe es ihm einmal gesagt“, sagte ich. „Im ersten Jahr. Er hat
+danach zwei Wochen lang etwas Neues probiert und es war furchtbar, und
+seitdem sage ich nichts mehr und esse dreieinhalb Gerichte.“
+
+Zum ersten Mal an diesem Vormittag hat Herr Feldmann gelächelt und es
+sofort wieder weggemacht.
+
+„Nimmt er Zucker im Kaffee?“
+
+„Er trinkt Tee“, sagte ich. „Kaffee macht er nur für mich, und er
+macht ihn falsch, er lässt ihn zu lange in der Kanne.“
+
+„Und Sie trinken ihn trotzdem.“
+
+„Seit drei Jahren.“
+
+„Warum?“
+
+Ich habe eine Sekunde gebraucht.
+
+„Weil er ihn am zwölften Mai, vor drei Jahren, auf einer Baustelle
+zum ersten Mal so gemacht hat, ohne zu fragen, wie ich ihn trinke, und
+weil er danach stehen geblieben ist, um zu sehen, ob es stimmt“, sagte
+ich. „Ich habe ihn damals so getrunken, weil ich nicht sagen wollte,
+dass er zu bitter ist. Und dann war es irgendwann zu spät, es zu
+korrigieren, und dann war es meiner.“
+
+---
+
 „Warum haben Sie geheiratet, ohne es Ihrer Mutter vorher zu sagen?“
 
 Die Frage traf mich, weil ich sie mir selbst nie so gestellt hatte.

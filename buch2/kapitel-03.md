@@ -42,6 +42,25 @@ Risse vermesse:
   seit einer Woche, meine beste Freundin seit vierzehn Monaten, sonst
   niemand.
 
+Ich habe diese Liste am Freitagabend zwischen halb zwölf und drei
+geschrieben, und ich habe dabei gemerkt, dass ich sie so aufsetze, wie
+ich einen Befund aufsetze: Bestand, Zustand, Einschränkungen.
+
+Das ist mein Beruf. Wenn ich vor einer Wand stehe, an der jemand
+zweifelt, dann sammle ich, was messbar ist, und lege es hin, und dann
+kann jeder daran nachrechnen, ob ich recht habe.
+
+Es hat mich am Freitagabend ungefähr zwei Stunden gekostet zu
+begreifen, warum es diesmal nicht funktioniert.
+
+Bei einer Wand bin ich die, die misst. Hier bin ich die Wand.
+
+Ich habe das später Theo erzählt, und er hat es nicht verstanden, und
+das nehme ich ihm nicht übel; man versteht das nicht, wenn man immer
+auf der Seite mit dem Messgerät gestanden hat.
+
+---
+
 Dr. Brandt hat die Liste zweimal gelesen und dann gesagt: „Das ist die
 schlechteste Aktenlage, die ich seit Jahren gesehen habe, für eine Ehe,
 die ich Ihnen sofort glaube.“
@@ -68,6 +87,39 @@ Widersprüche. Nutzen Sie das. Erzählen Sie ihr, warum ein Architekt und
 eine Gutachterin, die seit vierzehn Monaten verheiratet sind, keine
 gemeinsame Kreditkarte haben. Das ist eine echte Antwort. Erfinden Sie
 keine bessere.“
+
+„Und wenn die Wahrheit schlecht klingt?“, fragte ich.
+
+„Sie klingt schlecht“, sagte Dr. Brandt. „Frau Haddad, ich will
+Ihnen keine Illusionen machen: Sie werden am Montag in einem Raum
+sitzen und einer Beamtin erklären, dass Sie Ihre Ehe vor der Familie
+Ihres Mannes verschwiegen haben, um Ihre berufliche Unabhängigkeit zu
+schützen. Das klingt konstruiert. Es klingt nach einer Erklärung, die
+sich jemand ausgedacht hat.“
+
+„Es ist keine.“
+
+„Ich weiß“, sagte er. „Genau deshalb sollen Sie sie sagen. Eine
+ausgedachte Erklärung ist immer plausibel — das ist ihr einziger
+Zweck. Ihre ist es nicht, und die Unwahrscheinlichkeit ist Ihr
+bester Beleg.“
+
+Er hat etwas notiert.
+
+„Ich sage Ihnen, wovor ich mich mehr fürchte als vor Ihrer Aktenlage.“
+
+„Bitte.“
+
+„Dass Sie beide am Wochenende zusammensitzen und sich abstimmen.“ Er
+hat aufgesehen. „Tun Sie das nicht. Reden Sie über alles, nur nicht
+über das, was Sie am Montag sagen werden. Wenn Ihre Antworten am Montag
+deckungsgleich sind, verlieren Sie.“
+
+Theo hat gefragt: „Und wenn wir uns widersprechen?“
+
+„Dann sind Sie ein Ehepaar“, sagte Dr. Brandt.
+
+---
 
 Er sah auf seine Uhr.
 

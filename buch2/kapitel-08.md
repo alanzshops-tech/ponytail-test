@@ -26,6 +26,79 @@ Mal seit Freitag richtig gelacht.
 
 ---
 
+Ich habe am Dienstagabend zugesehen, wie sie auspackt, und dabei etwas
+gelernt, was mir vorher nie aufgefallen war.
+
+Sie hat eine Reisetasche und einen Rollkoffer, und beide sind so
+gepackt, dass man in vier Minuten wieder weg ist. Kulturbeutel oben.
+Ladekabel in einer eigenen Tasche. Die Bluse für den nächsten Tag
+zuoberst, auf einem Bügel, den sie mitbringt.
+
+Ich habe gesagt: „Du packst wie jemand, der auf Montage ist.“
+
+„Ich bin auf Montage.“
+
+„Du wohnst hier.“
+
+„Seit heute“, sagte Amira.
+
+Sie hat den Bügel in den Schrank gehängt, in die Mitte, zwischen meine
+Hemden, und ist dann einen halben Schritt zurückgetreten und hat ihn
+angesehen, wie man etwas ansieht, das nicht dort hingehört.
+
+„Das ist der erste Bügel“, sagte sie.
+
+„Von dir?“
+
+„Von mir überhaupt.“ Sie hat den Schrank zugemacht. „Theo, ich bin
+2018 in die Wohnung in Ottensen gezogen. Ich habe da sieben Jahre
+gewohnt. Ich habe in diesen sieben Jahren nie etwas in einen fremden
+Schrank gehängt.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Und ich?“
+
+„Du hast bei mir vier Sachen“, sagte sie. „Ich habe sie im Mai
+gezählt, als du den Zettel für die Behörde geschrieben hast. Ich habe
+dich nicht gefragt, ob dir das auffällt.“
+
+„Es fällt mir auf.“
+
+„Seit wann?“
+
+„Seit dem dritten Monat“, sagte ich.
+
+Sie hat sich auf die Bettkante gesetzt.
+
+„Und du hast nie etwas gesagt.“
+
+„Nein.“
+
+„Warum nicht?“
+
+Ich habe mich neben sie gesetzt, weil es leichter ist, so etwas zu
+sagen, wenn man nicht gegenübersteht.
+
+„Weil ich es für den Preis gehalten habe“, sagte ich. „Ich hatte dich
+unter der Bedingung, dass es niemand weiß. Das war mir das wert, und
+ich habe mir eingeredet, dass es kein Verzicht ist, sondern eine
+Vereinbarung.“
+
+Amira hat lange nichts gesagt.
+
+„Das ist der traurigste Satz, den du je gesagt hast“, sagte sie
+schließlich.
+
+„Ich habe im Mai einen traurigeren gesagt.“
+
+„Welchen?“
+
+„*Weil es meine Sache war*“, sagte ich. „Am Telefon, zu meinem Bruder,
+am achten Mai um kurz nach neun.“
+
+---
+
 Am Mittwochnachmittag rief Okonkwo an. Nicht bei mir — bei Amira, aber
 ich war dabei, weil wir inzwischen angefangen hatten, Telefonate nicht
 mehr allein zu führen, was neu war und sich falsch und richtig zugleich

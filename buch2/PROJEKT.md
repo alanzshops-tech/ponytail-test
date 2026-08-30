@@ -317,6 +317,29 @@ Gefühl.
 
 ---
 
+## 7c. Ein Dopplungstreffer, der stehen bleibt
+
+`dopplung.py` meldet seit dem Ausbau **Kapitel 6 und 7 mit 0,62**
+(Schwelle 0,55):
+
+> 6: *„Weil sich Backstein bei Sonne ausdehnt. Sie misst Rissbreiten.
+> Wenn sie mittags misst, misst sie die Sonne mit."*
+> 7: *„Weil Backstein sich ausdehnt, wenn die Sonne draufsteht. Wer
+> mittags misst, misst das Wetter."*
+
+**Das bleibt so.** Die beiden werden in Kapitel 6 und 7 **getrennt** von
+zwei Sachbearbeitern befragt, und die Behörde prüft genau, ob ihre
+Antworten zusammenpassen. Zwei Eheleute, die denselben Sachverhalt in
+eigenen Worten erklären, sind der Inhalt der Szene, nicht ihr Fehler.
+Dass die Formulierungen sich unterscheiden und die Sache dieselbe ist,
+ist die Pointe.
+
+Verzeichnet wie Band 1s Kapitel 27/28 (`../buch/LEKTORAT.md`), damit die
+Zahl nicht bei einem späteren Lauf für einen Mangel gehalten und
+„behoben" wird. Wer sie wegschreibt, nimmt der Anhörung ihren Zweck.
+
+---
+
 ## 8. Was in Kapitel 1–10 nachgetragen wird
 
 Beim Schreiben von Block 2 sind vier Stellen aufgefallen, an denen die

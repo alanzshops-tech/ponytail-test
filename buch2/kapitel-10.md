@@ -51,6 +51,62 @@ Beweisliste, Theo. Das ist eine Ehe.“
 
 „Ich weiß.“
 
+---
+
+Sie hat danach eine zweite Liste gemacht, und die habe ich nicht
+kommen sehen.
+
+„Sechs Monate“, sagte sie und hat ein neues Blatt genommen. „Ich
+schreibe auf, was mich das kostet, weil ich sonst im September wütend
+bin und nicht weiß, worauf.“
+
+Sie hat sieben Zeilen geschrieben.
+
+Keine Aufträge außerhalb Hamburgs, weil jede Woche, die sie nicht in
+der gemeinsamen Wohnung schläft, in einer Akte anders aussieht, als sie
+gemeint ist.
+
+Keine Reise nach Beirut. Ihre Mutter war zu diesem Zeitpunkt
+neunundfünfzig und hatte seit November Probleme mit dem Knie.
+
+Die Zusage für Lübeck, die sie im April gegeben hatte, auf zwei Wochen
+kürzen.
+
+Und die vierte Zeile, bei der sie eine Weile mit dem Stift dagesessen
+hat, bevor sie sie geschrieben hat: *Prien, Sandtorkai — Anfrage
+Zweitbegutachtung, Antwort vertagen.*
+
+„Was ist das?“
+
+„Eine Anfrage, die im März kam“, sagte sie. „Der zweite Bauabschnitt
+fängt frühestens 2028 an. Wenn ich zusage, sage ich für zwei Jahre zu.“
+
+„Und?“
+
+„Und ich weiß nicht, ob ich in zwei Jahren hier bin, Theo.“
+
+---
+
+Ich habe das Blatt angesehen und eine Weile nichts gesagt.
+
+Ich hatte bis zu diesem Abend gedacht, die sechs Monate seien eine
+Frist, die über uns beiden hängt.
+
+Sie hingen nicht über uns beiden. Sie hingen über ihr, und ich habe
+daneben gestanden und meine eigene Liste geschrieben, auf der Punkte
+standen wie *Konto* und *Testament* — lauter Dinge, die man in einer
+Mittagspause erledigt.
+
+„Deine Liste ist teurer als meine“, sagte ich.
+
+„Ja“, sagte Amira. „Das ist keine Anklage. Ich zeige sie dir nur,
+damit du sie gesehen hast.“
+
+„Ich hätte gern, dass du mir sagst, was ich davon abnehmen kann.“
+
+„Nichts“, sagte sie. „Und das ist der Grund, warum ich sie dir zeige.
+Wenn ich sie dir nicht zeige, versuchst du es trotzdem.“
+
 „Wir haben sie vierzehn Monate lang nicht gelebt, weil wir Angst
 hatten, dass jemand fragt, warum es sie gibt. Und jetzt bauen wir sie,
 weil eine Behörde uns dazu zwingt.“ Sie sah mich an. „Findest du das

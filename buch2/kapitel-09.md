@@ -91,6 +91,51 @@ unterscheidet dich von Papa. Er hat es nie gemerkt.“
 
 ---
 
+Ich habe die beiden dann eine Weile machen lassen und Kaffee gekocht,
+den keiner getrunken hat, und dabei zum ersten Mal zugehört, wie
+Reinhardts miteinander reden, wenn niemand Fremdes im Raum ist.
+
+Sie reden über Zahlen.
+
+Nicht über Geld — über Jahreszahlen. In vierzig Minuten sind gefallen:
+2010, dreimal. 1997, zweimal. 2019, viermal. 2024. Der zweite
+Dezember. Der vierundzwanzigste Dezember. Der achte Mai.
+
+Jede Zahl steht für eine Sache, über die sie nicht reden, und sie
+wissen alle beide sofort, welche gemeint ist, und keiner muss sie
+aussprechen.
+
+Ich habe irgendwann gesagt: „Ihr redet wie ein Archiv.“
+
+Bastian hat aufgesehen.
+
+„Wie meinen Sie das?“
+
+„Sie sagen ein Datum, und Ihr Bruder weiß, was gemeint ist, und dann
+ist das Thema erledigt“, sagte ich. „Sie haben in vierzig Minuten
+zwölf Daten gesagt und über keines davon geredet.“
+
+Es war eine Weile still.
+
+„Das stimmt“, sagte Theo.
+
+„Ich mache das beruflich“, sagte ich. „Ich schreibe für Gebäude auf,
+wann etwas passiert ist. Datum, Befund, Maßnahme. Bei einem Gebäude
+funktioniert das, weil man daneben aufschreibt, was man gemacht hat.“
+Ich habe die Tassen abgestellt. „Sie schreiben nur die Daten auf.“
+
+Bastian hat mich sehr lange angesehen.
+
+„Wie lange kennen Sie uns?“, hat er gefragt.
+
+„Ihren Bruder drei Jahre. Sie seit vierzig Minuten.“
+
+„Und in vierzig Minuten fällt Ihnen das auf.“
+
+„Ich habe elf Jahre lang nichts anderes gemacht“, sagte ich.
+
+---
+
 Er ist nach einer Stunde gegangen, ohne sich zu verabschieden, was ich
 inzwischen als seine Art erkannte, Nähe zu vermeiden, sobald sie
 tatsächlich entstanden war.

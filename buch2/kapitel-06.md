@@ -81,6 +81,60 @@ mehr war. Sie hat kurz etwas notiert und dann weitergefragt.
 
 ---
 
+Es kamen dann Fragen, auf die mich niemand vorbereitet hatte, weil sie
+zu klein waren, um sie vorzubereiten.
+
+„Wer steht morgens zuerst auf?“
+
+„Ich. Um zehn nach sechs. Sie um halb sieben, außer dienstags, dann um
+fünf, weil sie am Objekt sein will, bevor die Sonne auf die Ostwand
+kommt.“
+
+„Warum ist das wichtig?“
+
+„Weil sich Backstein bei Sonne ausdehnt“, sagte ich. „Sie misst
+Rissbreiten. Wenn sie mittags misst, misst sie die Sonne mit.“
+
+Frau Sarrazin hat etwas notiert.
+
+„Wer kauft ein?“
+
+„Sie. Ich koche.“
+
+„Was kochen Sie?“
+
+„Nudeln“, sagte ich, und hörte selbst, wie das klang. „Und drei andere
+Sachen. Ich koche viermal die Woche und es sind vier Gerichte.“
+
+„Welche Seite im Bett?“
+
+„Sie links, am Fenster. Ich rechts. Ich wache vom Licht auf.“
+
+„Nimmt Ihre Frau Zucker in den Kaffee?“
+
+„Nein. Schwarz. Und sie trinkt ihn so, wie ich ihn mache, seit drei
+Jahren, obwohl ich ihn falsch mache.“
+
+„Was heißt falsch?“
+
+„Zu lange in der Kanne“, sagte ich. „Ihre Mutter hat es mir letztes
+Jahr — “ Ich habe abgebrochen. „Entschuldigung. Ihre Mutter hat es mir
+nicht gesagt. Ihre Mutter kennt mich nicht. Sie weiß seit einer Woche,
+dass es mich gibt.“
+
+Frau Sarrazin hat den Stift hingelegt.
+
+„Warum haben Sie das korrigiert?“
+
+„Weil es fast rausgerutscht wäre und weil es nicht stimmt“, sagte ich.
+„Ich habe drei Jahre lang eine Schwiegermutter gehabt, die nichts von
+mir weiß. Ich denke manchmal an sie, als würde ich sie kennen. Das ist
+etwas, das ich mir selbst zusammengebaut habe.“
+
+Sie hat das aufgeschrieben.
+
+---
+
 „Warum haben Sie die Ehe geheim gehalten? Und ich warne Sie, Herr
 Reinhardt — ‚Privatsache‘ akzeptiere ich nicht als Antwort. Ich habe es
 heute schon dreimal gehört, von drei Ehen, die keine waren.“

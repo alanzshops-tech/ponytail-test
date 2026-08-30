@@ -4,6 +4,34 @@ Ich bin am Sonntag um vierzehn Uhr zu meiner Mutter gefahren, allein,
 ohne Amira, und das war der erste Fehler an diesem Tag, nur habe ich es
 erst am Abend gemerkt.
 
+Ich bin um Viertel nach eins losgefahren für eine Strecke von zwanzig
+Minuten.
+
+Ich habe die zwanzig überzähligen Minuten auf einem Parkstreifen an der
+Elbchaussee verbracht, zweihundert Meter vor dem Haus, mit
+ausgeschaltetem Motor, und habe die Fassungen durchgesehen.
+
+Erste Fassung: *Ich muss dir etwas sagen, und du wirst enttäuscht
+sein.* Damit fängt man an, wenn man will, dass der andere einen
+tröstet, bevor er überhaupt weiß, worum es geht. Verworfen.
+
+Zweite Fassung: *Es hat sich so ergeben.* Eine Lüge in vier Wörtern.
+Es hat sich nicht ergeben, ich habe es entschieden, jeden einzelnen Tag
+vierzehn Monate lang. Verworfen.
+
+Dritte Fassung, die längste, mit der Vorgeschichte, mit dem Auftrag,
+mit Amiras Gründen, mit dem Kontorhaus. Ich habe sie zweimal im Kopf
+durchgesprochen und beim zweiten Mal gemerkt, dass sie sechs Minuten
+dauert und dass meine Mutter in Minute eins nicht mehr zuhört.
+
+Ich habe um zwanzig vor zwei den Motor wieder angemacht und bin die
+zweihundert Meter gefahren, ohne eine vierte zu haben.
+
+Das ist das Einzige an diesem Tag, was ich richtig gemacht habe, und
+ich habe es aus Zeitmangel gemacht und nicht aus Einsicht.
+
+---
+
 Sie hat mir die Tür aufgemacht, in der Schürze, die sie sonntags trägt,
 obwohl sie sonntags nie kocht, und hat sofort gesehen, dass etwas nicht
 stimmt, weil sie das immer sieht.

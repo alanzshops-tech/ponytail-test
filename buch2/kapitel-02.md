@@ -67,6 +67,64 @@ neunzehnten Lebensjahr an meinem Bruder kritisiere.
 
 ---
 
+Es gab in diesen vierzehn Monaten sieben Gelegenheiten, an denen es
+gegangen wäre.
+
+Ich habe sie im Mai aufgeschrieben, in einer Nacht, in der ich nicht
+schlafen konnte, und ich habe die Liste danach nicht weggeworfen,
+sondern in die Innentasche der Mappe gelegt, in der ich meine
+Journale aufbewahre.
+
+Ostern 2025: Meine Mutter hat gefragt, ob ich jemanden habe, weil ich
+zweimal zu früh gegangen war. Ich habe *nein* gesagt. Das ist die
+einzige direkte Lüge in vierzehn Monaten, und ich habe sie erst im Mai
+2026 als solche gezählt.
+
+Juni 2025: Der Geburtstag von Jonas. Amira war in Lübeck, es hätte an dem
+Wochenende ohnehin nicht funktioniert, und ich habe das damals für
+Glück gehalten.
+
+August 2025: Niklas hat gefragt, warum ich das Haus in Övelgönne
+angesehen habe, das für eine Person zu groß ist. Ich habe gesagt: als
+Anlage.
+
+Oktober 2025: Ihr Geburtstag. Wir waren zu zweit essen, in einem
+Lokal in Winterhude, in dem uns niemand kennt, und ich habe an diesem
+Abend fast angefangen und es dann gelassen, weil sie erzählt hat, wie
+gut das Jahr beruflich läuft.
+
+Weihnachten 2025: Der stärkste Moment. Ich saß am
+Vierundzwanzigsten bei meiner Mutter am Tisch, an dem sie 1997 einen
+Ordner bekommen hat, und zwei Stunden später hat mich eine fremde Frau
+angerufen und nach einem Preis gefragt, und ich habe ihr geantwortet,
+dass sie entscheidet.
+
+Ich habe an diesem Abend eine Zusage über achtzig Millionen
+Bauvolumen gegeben, mündlich, an eine Konditorin, die ich nie
+getroffen hatte.
+
+Und ich habe an demselben Abend am selben Tisch gesessen und meiner
+Mutter nicht gesagt, dass ich verheiratet bin.
+
+Zweiter Januar 2026: Ich habe Theo — nein. Ich habe Jonas am Telefon
+gehabt, und er hat mich angeschrien, und ich habe ihm dabei gesagt,
+dass ich wollte, dass wenigstens eine Sache in dieser Familie ohne
+Heimlichkeit ausgeht.
+
+Er hat gedacht, ich meine ihn.
+
+März 2026: Unser erster Hochzeitstag. Sie war in Lübeck, ich in einer
+Sitzung, wir haben abends zusammen gegessen und uns nichts geschenkt,
+weil wir uns vor niemandem hätten erklären können, warum wir uns etwas
+schenken.
+
+Sieben Gelegenheiten. Bei sechs davon war jemand anders im Weg
+gewesen, ein Termin, eine Reise, eine ungünstige Stimmung.
+
+Bei der siebten war niemand im Weg. Das war Weihnachten.
+
+---
+
 „Was brauchst du“, sagte Jonas. Keine Frage, eine Aufforderung.
 
 „Einen Anwalt für Ausländerrecht, bis Montag früh.“
