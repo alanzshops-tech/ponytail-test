@@ -119,6 +119,43 @@ passiert, wenn es rauskommt“, sagte ich. „Diese sechs Wochen habe ich
 niemandem etwas gesagt, weil ich wusste, dass nichts passiert, wenn es
 rauskommt. Das eine ist Angst und das andere ist Besitz.“
 
+Theo hat eine Weile nichts gesagt.
+
+„Woran merkst du den Unterschied?“, hat er dann gefragt, und es war
+keine rhetorische Frage, sondern die von jemandem, der ihn selbst nicht
+sicher erkennt.
+
+„Daran, wie es aufhört“, sagte ich. „Wenn ich es aus Angst mache, dann
+denke ich jeden Tag darüber nach, wann ich es sage, und schiebe es
+auf. Wenn ich es aus Besitz mache, dann denke ich gar nicht darüber
+nach, und irgendwann sage ich es einfach, weil der Moment da ist.“
+
+„Und dieses Mal?“
+
+„Dieses Mal habe ich am zwölften April in einer Küche in Othmarschen
+gesessen und es deiner Mutter erzählt, ohne dass wir es vorher
+verabredet hatten.“ Ich habe ihn angesehen. „Ist dir das aufgefallen?“
+
+„Ja“, sagte Theo. „Ich habe zwei Sekunden gebraucht und dann gedacht:
+Sie hat entschieden, es ist jetzt.“
+
+„Und was hast du gemacht?“
+
+„Nichts“, sagte er. „Ich habe die Tasse gehalten und zugehört.“
+
+Ich habe das später ins Heft geschrieben, weil es aus dieser ganzen
+Zeit der Eintrag ist, an dem man am besten sieht, was sich geändert
+hat.
+
+Eintrag einhundertvierundsiebzig.
+
+*12.04. Ich habe es Sabine gesagt, ohne es vorher mit ihm abzusprechen.
+Er hat nichts gemacht.*
+
+Und darunter:
+
+*Vor drei Jahren hätte er einen Satz gebraucht, um es einzuordnen.*
+
 „Und woher weißt du, dass es diesmal das Zweite ist?“
 
 „Weil ich es dir gerade erzähle“, sagte ich. „Das habe ich damals nicht

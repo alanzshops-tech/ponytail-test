@@ -28,6 +28,83 @@ Fünfundzwanzig Monate. Ich habe das nicht gewusst.
 
 ---
 
+Ich habe irgendwann angefangen, mich zu fragen, was sie über mich
+erfährt, und die Antwort war deprimierend.
+
+Sie wusste alles.
+
+Nicht weil ich offener bin — weil ich seit fünfundzwanzig Monaten
+über nichts anderes rede als über Arbeit, und weil in dieser Arbeit
+alles über mich drinsteht, wenn man zuhören kann.
+
+Am vierten Freitag habe ich sie gefragt, ob es etwas gibt, das sie
+nicht über mich weiß.
+
+Sie hat den Löffel abgelegt und nachgedacht, richtig, zwei Minuten
+lang.
+
+„Drei Sachen“, sagte sie dann. „Erstens: Ich weiß nicht, ob du deinen
+Vater gemocht hast. Ich weiß, was er gemacht hat, und ich weiß, was du
+darüber denkst. Ich weiß nicht, ob du ihn gemocht hast.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Ja“, sagte ich. „Sehr.“
+
+„Das dachte ich mir. Es steht in keinem deiner Sätze über ihn.“
+
+„Und zweitens?“
+
+„Ich weiß nicht, was du machen würdest, wenn du morgen aufhören
+könntest.“ Sie hat mich angesehen. „Nicht was du machen *willst*. Was
+du machen würdest, wenn niemand dich braucht.“
+
+Darauf hatte ich keine Antwort, und ich habe eine gesucht und keine
+gefunden und es zugegeben, und sie hat gesagt, das sei die richtige
+Antwort für heute.
+
+„Und drittens?“
+
+„Drittens ist unfair.“
+
+„Sag es trotzdem.“
+
+„Ich weiß nicht, ob du je jemand anderen so gehabt hast wie mich“,
+sagte Amira. „Du hast nie über eine erzählt. In drei Jahren nicht ein
+einziges Mal.“
+
+Ich habe die Serviette hingelegt.
+
+„Es gab zwei“, sagte ich. „Eine mit vierundzwanzig, zwei Jahre. Eine
+mit dreißig, elf Monate.“
+
+„Und?“
+
+„Und die erste hat mit mir Schluss gemacht, weil ich sechs Tage die
+Woche gearbeitet habe, und die zweite, weil ich sieben gearbeitet
+habe.“ Ich habe auf den Tisch gesehen. „Das ist die ganze Geschichte.
+Sie ist kurz, weil sie zweimal dieselbe ist.“
+
+Amira hat nichts gesagt.
+
+„Und du?“, habe ich gefragt.
+
+„Nach Beirut zwei“, sagte sie. „Und dann sechs Jahre nichts, was du
+weißt.“
+
+„Warum sechs Jahre?“
+
+„Weil ich in diesen sechs Jahren die Frau geworden bin, die man
+anruft, wenn ein Backsteinbau vor 1920 Risse hat“, sagte sie. „Das
+kostet sechs Jahre. Ich habe damals gedacht, es sei ein guter Tausch.“
+
+„Und heute?“
+
+„Heute finde ich, es war ein guter Tausch, und ich hätte ihn nicht
+noch einmal machen wollen.“
+
+---
+
 Am sechsten Freitag hat es nicht funktioniert.
 
 Ich hatte einen Tisch bestellt und um sechs abgesagt, weil im
