@@ -149,6 +149,41 @@ Es war wieder still.
 
 ---
 
+Wir haben an diesem Abend noch eine Stunde telefoniert, und irgendwann
+hat er etwas gesagt, das ich seit 2019 hätte wissen müssen.
+
+„Weißt du, was der Unterschied zwischen mir und euch dreien ist?“
+
+„Sag es.“
+
+„Ihr habt alle einen Platz“, sagte Bastian. „Jonas führt die Firma.
+Niklas macht die Verträge. Du zeichnest. Ich bin der, der gegangen
+ist.“
+
+„Du bist Gesellschafter.“
+
+„Ich bin zu sechzehn Prozent Gesellschafter und komme zu vier
+Sitzungen im Jahr“, sagte er. „Das ist kein Platz, Theo. Das ist ein
+Aktenzeichen.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Und deshalb kommst du als Letzter und gehst als Erster.“
+
+„Ich komme als Letzter, damit ich niemandem im Weg stehe, und ich gehe
+als Erster, damit niemand entscheiden muss, ob er mich zum Essen
+einlädt.“ Er hat kurz gelacht, ohne Freude. „Das mache ich seit sieben
+Jahren, und ich habe geglaubt, es merkt keiner.“
+
+„Mama merkt es.“
+
+„Mama merkt alles“, sagte Bastian. „Mama hat 2021 aufgehört, mir
+Weihnachten anzubieten, weil sie es nicht mehr ausgehalten hat, dass ich
+absage. Das habe ich als Erleichterung empfunden. Es war der
+schlimmste Tag des Jahres.“
+
+---
+
 Er hat sich vier Wochen Zeit erbeten und nach zwei geantwortet, und die
 Antwort war ein Nein und ein Ja.
 

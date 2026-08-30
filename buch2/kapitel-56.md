@@ -70,6 +70,72 @@ lang etwas mit dir herumgetragen hast.“
 
 ---
 
+Sie hat sich dann etwas getraut, was sie sonst nicht macht: Sie hat mich
+nach Emil gefragt.
+
+„Du hast im März gesagt, du hast ihn ins Bett gebracht und danach
+vierzig Minuten im Auto gesessen.“
+
+„Ja.“
+
+„Erzähl mir das.“
+
+Ich habe eine Weile gebraucht.
+
+„Er hat mich am Ärmel gehalten“, sagte ich. „Nicht an der Hand. Am
+Ärmel, zwischen Daumen und Zeigefinger, so wie man etwas hält, von dem
+man weiß, dass es einem nicht gehört.“
+
+Amira hat nichts gesagt.
+
+„Und er hat dabei nicht geguckt, ob ich noch da bin. Er hat einfach
+gehalten und ist eingeschlafen.“ Ich habe auf die Decke gesehen. „Ich
+habe danach im Auto gesessen und gedacht: Dieses Kind hat sechzehn
+Monate lang nicht gewusst, dass es einen Vater gibt, und mit drei hält
+es einen Onkel am Ärmel fest, als wäre das das Selbstverständlichste
+der Welt.“
+
+„Und?“
+
+„Und dann habe ich gedacht, dass ich siebenunddreißig bin.“
+
+---
+
+„Ich möchte dir etwas sagen, und ich habe es noch nie jemandem gesagt“,
+sagte Amira nach einer Weile.
+
+„Ja.“
+
+„Ich habe im November 2026 im Wartezimmer von Frau Sarrazins Behörde
+gesessen und eine Frau gesehen, mit zwei Kindern, sechs und vielleicht
+neun.“ Sie hat die Knie losgelassen. „Und ich habe gedacht: Gut, dass
+ich keine habe.“
+
+Sie hat mich angesehen.
+
+„Das ist der Satz. Ich habe ihn gedacht, und ich habe mich in derselben
+Sekunde dafür gehasst, und ich habe ihn seitdem nicht vergessen.“
+
+„Das ist kein schlimmer Satz.“
+
+„Doch“, sagte Amira. „Nicht weil er hart ist. Weil er stimmt. Es
+*wäre* schlimmer gewesen, mit einem Kind in diesem Verfahren zu sitzen.
+Ich habe in diesem Moment etwas Vernünftiges gedacht, und ich möchte
+nie wieder in einer Lage sein, in der so ein Gedanke vernünftig ist.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Und jetzt bist du nicht mehr in dieser Lage.“
+
+„Seit dem achtzehnten September“, sagte sie. „Seit dreizehn Monaten.“
+
+Sie hat die Hände auf die Decke gelegt.
+
+„Ich habe die dreizehn Monate gebraucht, Theo. Nicht um mich zu
+entscheiden. Um zu glauben, dass ich mich entscheiden darf.“
+
+---
+
 Wir haben an diesem Sonntag vier Stunden gebraucht und sind erst um
 zwei aufgestanden.
 
