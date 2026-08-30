@@ -108,8 +108,34 @@ seit zweieinhalb Jahren die Bücher eines Mannes zwischen meinen stehen.
 
 „Nein“, sagte ich.
 
+Ich habe elf Jahre gebraucht, um dieses Wort am Telefon zu sagen, und
+es hat eine halbe Sekunde gedauert.
+
 „Gut“, sagte sie. „Dann sage ich es deinen Tanten, und dann hören sie
 auf zu fragen.“
+
+„Das ist alles?“
+
+„Was hast du erwartet?“
+
+„Ich weiß nicht“, sagte ich. „Etwas Längeres.“
+
+Meine Mutter hat gelacht, und es hat sich alt angehört, älter als im
+Sommer.
+
+„Amira, ich habe das Längere in den letzten elf Jahren ungefähr
+vierhundertmal gesagt“, sagte sie. „Jedes Mal, wenn du gesagt hast, du
+weißt es noch nicht. Ich habe erklärt, wie das Wetter im April ist und
+wer gestorben ist und dass Nadia die Wohnung im Erdgeschoss bekommen
+könnte.“ Sie hat kurz Luft geholt. „Ich habe das gemacht, weil es noch
+offen war. Es ist nicht mehr offen. Also mache ich es nicht mehr.“
+
+„Das klingt hart.“
+
+„Es ist eine Erleichterung“, sagte sie. „Für uns beide, du merkst es
+nur noch nicht.“
+
+---
 
 „Bist du traurig?“
 

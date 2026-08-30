@@ -60,6 +60,46 @@ Amira hat gelacht, ohne Bitterkeit.
 „Das ist der leichteste Teil“, sagte sie. „Der schwere Teil kommt
 danach, und er heißt: Es jemandem erzählen.“
 
+Marlene hat den Ring gedreht, den sie seit zwei Tagen trägt.
+
+„Darf ich dich etwas Unhöfliches fragen?“
+
+„Ja.“
+
+„Habt ihr im März 2025 daran gedacht, dass es rauskommen könnte?“
+
+Amira hat eine Weile nichts gesagt.
+
+„Nein“, sagte sie. „Und das ist der Teil, den ich mir am meisten
+vorwerfe. Ich habe nicht gedacht: Das kommt raus, und dann wird es
+schwer. Ich habe gedacht: Das bleibt so.“
+
+„Für immer?“
+
+„Ich habe an *für immer* gar nicht gedacht“, sagte Amira. „Ich habe an
+das nächste Jahr gedacht, und dann wieder an das nächste. Ich habe elf
+Jahre lang in Zwölfmonatsschritten gelebt, und ich habe meine Ehe
+genauso behandelt.“
+
+Marlene hat genickt, so wie jemand nickt, der etwas wiedererkennt.
+
+„Ich habe zwei Jahre lang nicht damit gerechnet, dass er
+wiederkommt“, sagte sie. „Ich habe Emil bekommen und die Konditorei
+weitergemacht und nicht einen Tag geplant, an dem der Vater
+auftaucht.“ Sie hat die Hand auf den Tisch gelegt. „Und als er dann in
+meinem Café stand, war ich nicht überrascht, dass er da ist. Ich war
+überrascht, dass ich keinen Plan hatte.“
+
+„Und was hast du gemacht?“
+
+„Ich habe nein gesagt“, sagte Marlene. „Viermal. Das war mein Plan.“
+
+Amira hat gelacht.
+
+„Es hat funktioniert“, sagte Marlene. „Zwei Jahre lang. Es funktioniert
+nur nicht ewig, weil irgendwann die Frage kommt, auf die nein keine
+Antwort ist.“
+
 ---
 
 Später standen Jonas und ich wieder in der Durchfahrt, weil wir

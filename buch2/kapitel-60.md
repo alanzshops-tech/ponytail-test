@@ -35,6 +35,27 @@ Aufsatz gestritten.
 
 Ich habe von der anderen Seite des Hofs zugesehen.
 
+Ich kann von hier aus sagen, worum es ging, weil ich sie hinterher
+gefragt habe: um Fußnote vierzehn.
+
+Kubiak hat darin geschrieben, dass die Messreihe „über drei Jahre
+geführt" wurde. Amira hat gesagt, das sei falsch, sie habe sie über
+drei Jahre und vier Monate geführt, und die vier Monate seien
+diejenigen, in denen im November der Baustopp lag, und deshalb gehörten
+sie zwingend dazu.
+
+Kubiak hat gesagt, das sei in einem Aufsatz von acht Seiten
+Erbsenzählerei.
+
+Amira hat gesagt, ein Aufsatz über eine Messreihe, der bei der Länge
+der Messreihe rundet, sei ein Aufsatz über nichts.
+
+Sie haben das vierzig Minuten lang gemacht, an einem Empfang, mit
+Sektgläsern in der Hand, und sie haben sich am Ende die Hand gegeben
+und beide zufrieden ausgesehen.
+
+Ich habe später verstanden, dass das ihre Art ist, sich zu bedanken.
+
 Bastian ist neben mich getreten.
 
 „Guck nicht so.“

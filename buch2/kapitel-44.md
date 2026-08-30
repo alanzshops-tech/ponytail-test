@@ -120,6 +120,55 @@ anders macht, der weniger anständig ist als Sie.“
 
 ---
 
+Es gab vor der Abstimmung eine Pause von zwölf Minuten, und ich habe
+sie im Treppenhaus verbracht, weil ich niemanden sehen wollte.
+
+Niklas ist nachgekommen.
+
+„Ich habe eine Frage, bevor ich abstimme.“
+
+„Ja.“
+
+„Wenn wir heute dagegen stimmen und das Haus abgerissen wird — was
+machst du dann?“
+
+Ich habe eine Weile nichts gesagt.
+
+„Nichts“, sagte ich. „Ich schreibe es in die Chronik.“
+
+„Welche Chronik?“
+
+„Mamas“, sagte ich. „Amira führt sie seit Dezember. Es gibt darin eine
+vierte Spalte, die es bei Mama nicht gab: wer vorher darin gewohnt hat.
+Bei Kehrwieder vierzehn steht Frau Wilms drin, mit der Sattlerei ihres
+Vaters und mit den vier Haken.“
+
+Niklas hat mich angesehen.
+
+„Und wenn wir abreißen?“
+
+„Dann steht in der Chronik: *Abgerissen im ersten Quartal 2028*“, sagte
+ich. „Und darunter, wer vorher drin gewohnt hat. Beides. Das ist der
+ganze Sinn der Sache.“
+
+Mein Bruder hat sich an das Geländer gelehnt.
+
+„Das ist keine Drohung, oder?“
+
+„Nein“, sagte ich, und ich habe eine Sekunde gebraucht, um zu merken,
+wie es geklungen haben musste. „Nein, Niklas. Ich habe das nicht so
+gemeint. Ich habe dir nur geantwortet.“
+
+„Ich weiß“, sagte er. „Deswegen frage ich nach.“
+
+Er ist wieder nach oben gegangen.
+
+Ich habe hinterher nie herausgefunden, ob dieses Gespräch seine Stimme
+entschieden hat. Ich habe ihn zweimal gefragt, und er hat beide Male
+gesagt, das gehe mich nichts an, was bei Niklas heißt: ja.
+
+---
+
 Die Abstimmung war um sechzehn Uhr zehn.
 
 Dafür: Theo, Bastian, Niklas.
