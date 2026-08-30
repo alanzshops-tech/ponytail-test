@@ -276,6 +276,47 @@ die ohnehin fehlen (siehe Liste in Abschnitt 8).
 
 ---
 
+## 7b. Romantische Spannung — gemessen, nicht geschätzt
+
+`romantik.py` nimmt seit dem 24.08.2026 auch Band 2 (`--buch buch2`).
+Die Namenstabelle ist dafür erweitert worden, mit zwei Fallen, die im
+Selbsttest jetzt beide abgesichert sind: **„Reinhardt" darf nicht in
+Amiras Namensliste stehen** — so heißen vier Brüder, die Mutter und die
+Firma, und jede Sitzung über Rothenburgsort wäre als gemeinsame Szene
+gezählt worden. Dasselbe gilt für „Herr Reinhardt", weil die Behörde in
+Kapitel 23/24 beide Ehepartner so anspricht.
+
+**Messung bei 31 Kapiteln, je 1000 Wörter normiert:**
+
+| | Band 1 | Band 2 | |
+|---|---:|---:|---|
+| Berührung | **3,15** | **1,67** | halb so viel |
+| Sehnsucht | 0,92 | 1,43 | mehr, aber im Kopf |
+| Konflikt | 1,54 | 1,67 | vergleichbar |
+| stärkste Kapitel, roh | bis **15** | bis **6** | **keine Spitzen** |
+
+**Diagnose:** Nicht zu wenig Romantik, sondern eine flache Kurve. Die
+beiden sind in **allen 31 Kapiteln gemeinsam im Raum** (0 Kapitel ohne
+gemeinsame Szene — Band 1 hatte Strecken ohne) und fassen sich trotzdem
+halb so oft an. Das ist die Falle dieses Stoffes: Ein Ehepaar, das
+zusammenwohnt, ist automatisch zusammen im Bild, und dadurch entsteht
+Nähe, die nie verhandelt werden muss. Genau daraus entsteht keine
+Spannung.
+
+**Das dramaturgische Gegenmittel — Werbung in der falschen
+Reihenfolge.** Die beiden haben geheiratet, bevor sie ein einziges Mal
+miteinander aus waren. Ab Kapitel 32 holen sie das nach: erster Kuss
+vor Zeugen (Heiligabend), erste Verabredung, er klingelt unten an ihrer
+Tür, obwohl er dort wohnt. Das erzeugt echte Nervosität zwischen zwei
+Verheirateten, ohne einen Konflikt zu erfinden, den es nicht gibt.
+
+**Wirkung, nachgemessen:** Kapitel 32 und 33 kommen auf 14 und 15 rohe
+Marker (Berührung 11 und 9). Band 1s stärkstes Kapitel liegt bei 15.
+Ab hier wird jeder Block gegen diese Zahlen geprüft, nicht gegen
+Gefühl.
+
+---
+
 ## 8. Was in Kapitel 1–10 nachgetragen wird
 
 Beim Schreiben von Block 2 sind vier Stellen aufgefallen, an denen die

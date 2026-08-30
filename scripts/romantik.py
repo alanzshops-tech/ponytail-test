@@ -83,9 +83,26 @@ def fliesstext(text: str) -> str:
 # Voss". Ein Selektor mit nur einem Namen fand in *jedem* Jonas-Kapitel
 # null gemeinsame Szenen — ein leeres Ergebnis, das offensichtlich falsch
 # war. Am 16.08.2026 korrigiert.
+#
+# Band 2 am 24.08.2026 dazugekommen. Nachschlag erfolgt ueber die
+# Perspektive, und die vier Namen sind ueber beide Baende eindeutig, also
+# braucht es keine zweite Tabelle. Zwei Fallen dabei:
+#
+#   * "Reinhardt" darf bei Amira NICHT drinstehen. In Band 2 heissen so
+#     vier Brueder, die Mutter und die Firma; in Theos eigenen Kapiteln
+#     stuende der Nachname in fast jedem Absatz und wuerde jede Sitzung
+#     ueber Rothenburgsort als Liebesszene zaehlen.
+#   * "Herr Reinhardt" ist ebenfalls unbrauchbar — die Behoerde nennt in
+#     Kapitel 23 und 24 beide Ehepartner so, und Wendland meint damit in
+#     Kapitel 22 mal Jonas und mal Theo.
+#
+# Uebrig bleibt der Vorname, plus die Behoerdenanrede fuer sie, die
+# eindeutig ist.
 NAMEN = {
     "Leni":  ("Jonas", "Reinhardt"),
     "Jonas": ("Marlene", "Leni", "Frau Voss"),
+    "Amira": ("Theo",),
+    "Theo":  ("Amira", "Frau Haddad"),
 }
 
 
@@ -137,6 +154,21 @@ def selbsttest() -> None:
         fehler.append("Gemeinsame Szene wird nicht erkannt.")
     if gemeinsame_szene(nein, ("Jonas",)) > 0:
         fehler.append("Ein Gedanke an ihn gilt als gemeinsame Szene.")
+
+    # Band 2: derselbe Test mit dem anderen Paar, plus der Negativfall,
+    # wegen dem "Reinhardt" nicht in Amiras Namensliste steht.
+    ja2 = ('Theo stand am Herd.\n\n„Ich habe ihn falsch gemacht.“\n')
+    nein2 = ('Ich habe den ganzen Nachmittag an Theo gedacht,\n'
+             'waehrend ich die Ostwand vermessen habe.\n')
+    if gemeinsame_szene(ja2, NAMEN["Amira"]) < 1:
+        fehler.append("Band 2: gemeinsame Szene wird nicht erkannt.")
+    if gemeinsame_szene(nein2, NAMEN["Amira"]) > 0:
+        fehler.append("Band 2: ein Gedanke gilt als gemeinsame Szene.")
+    sitzung = ('Wendland hat die Mappe zugemacht.\n\n'
+               '„Die Reinhardt Immobilien klagt.“\n')
+    if gemeinsame_szene(sitzung, NAMEN["Amira"]) > 0:
+        fehler.append("Band 2: eine Sitzung ueber die Firma zaehlt als "
+                      "gemeinsame Szene — 'Reinhardt' steht in der Liste.")
 
     for f in fehler:
         print(f"  FEHLER: {f}")
