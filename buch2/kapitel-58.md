@@ -114,6 +114,45 @@ Er hat mir die Hand gegeben.
 Mensch. Vergessen Sie das nicht, wenn Sie irgendwann Ihren Kindern von
 ihm erzählen.“
 
+Ich habe ihn dann doch noch etwas gefragt, obwohl er schon halb
+weggedreht war.
+
+„Herr Wendland. Warum haben Sie es nie erzählt?“
+
+Er ist stehen geblieben.
+
+„Die Sache von 1997.“
+
+„Ja.“
+
+Er hat eine ganze Weile nichts gesagt.
+
+„Weil ich mir eingeredet habe, es sei Diskretion“, sagte er. „Das war
+es die ersten fünf Jahre auch. Danach war es Bequemlichkeit, und in den
+letzten zehn Jahren war es Feigheit, weil ich Ihre Mutter jedes
+Weihnachten gesehen habe und wusste, dass sie glaubt, außer ihr und
+ihrem Mann wisse es niemand.“
+
+Er hat die Mappe umgefasst.
+
+„Ich habe im Februar mit ihr darüber gesprochen. Zum ersten Mal. Ich
+bin hingefahren, ich habe ihr gesagt, dass ich es seit
+achtundzwanzig Jahren weiß, und ich habe mich entschuldigt.“
+
+„Das wusste ich nicht.“
+
+„Nein“, sagte Wendland. „Sie hat es Ihnen nicht erzählt, und ich hätte
+es Ihnen heute auch nicht erzählt, wenn Sie nicht gefragt hätten.“
+
+„Was hat sie gesagt?“
+
+„Sie hat gesagt: *Sie hätten es mir 1998 sagen sollen, dann hätte ich
+gewusst, dass ich nicht verrückt bin.*“ Er hat kurz auf die vier Bilder
+gesehen. „Und dann hat sie mir Kaffee angeboten, und ich bin noch zwei
+Stunden geblieben, und wir haben über Ihren Vater geredet wie über
+einen Menschen und nicht wie über einen Gesellschafter. Das war das
+erste Mal seit 2010.“
+
 ---
 
 Ich habe Amira davon abends erzählt, und sie hat gefragt: „Was hast du

@@ -126,8 +126,48 @@ Sie hat gefragt, ob sie es unterschreiben soll.
 
 „Ich möchte es trotzdem“, sagte Sabine.
 
-Sie hat unterschrieben, mit Datum, und dann hat sie den Stift hingelegt
-und gesagt: „So. Jetzt habe ich Hunger.“
+Ich habe den Ausdruck vor sie gelegt und ihr den Stift gegeben, und
+dann habe ich gefragt, was ich seit zwei Stunden fragen wollte.
+
+„Warum jetzt?“
+
+Sie hat den Stift in der Hand gehabt und nicht angesetzt.
+
+„Weil du in vier Wochen ein Kind bekommst“, sagte sie.
+
+„Das ist kein Grund.“
+
+„Doch.“ Sie hat den Stift hingelegt. „Amira, ich habe im April in
+meiner Diele gestanden und gedacht: Dieses Kind ist die Erste, die in
+diese Familie kommt und von Anfang an alles weiß. Das habe ich dir
+damals gesagt.“
+
+„Ich erinnere mich.“
+
+„Ich habe seitdem vier Monate darüber nachgedacht, und es stimmt nicht.“
+Sie hat die Hände in den Schoß gelegt. „Sie wird nicht alles wissen. Sie
+wird das wissen, was jemand aufgeschrieben hat.“
+
+Sie hat auf den Ausdruck gezeigt.
+
+„Wenn ich das nicht diktiere, dann erfährt sie irgendwann, dass ihr
+Urgroßvater ein tüchtiger Kaufmann war, der eine Firma aufgebaut hat.
+Das steht in jeder Unterlage, die es über ihn gibt.“
+
+„Und so?“
+
+„Und so erfährt sie beides“, sagte Sabine. „Und sie wird sich das
+ansehen und selbst entscheiden, was sie davon hält. Das ist alles, was
+ich noch tun kann.“
+
+Sie hat unterschrieben, mit Datum.
+
+„Ich hätte das mit sechzig machen sollen“, sagte sie dann. „Ich habe
+achtundzwanzig Jahre gewartet, bis mich jemand fragt, und dann hat mich
+niemand gefragt, und jetzt bin ich siebenundsechzig und mache es
+selbst.“
+
+Sie hat den Stift hingelegt und gesagt: „So. Jetzt habe ich Hunger.“
 
 Wir sind essen gegangen, in ein Lokal am Kehrwieder, in dem sie seit
 1994 nicht mehr war, und sie hat mir dabei erzählt, dass sie Theo dort

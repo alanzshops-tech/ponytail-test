@@ -68,6 +68,60 @@ dazu.“
 
 ---
 
+Nach der Sitzung ist Jonas mit in mein Büro gekommen und hat sich
+hingesetzt, ohne gefragt zu werden, was er sonst nicht macht.
+
+„Ich muss dir was sagen, und du wirst es nicht hören wollen.“
+
+„Dann sag es schnell.“
+
+„Wenn das am Montag schiefgeht“, sagte mein Bruder, „dann fängst du an,
+Dinge zu tun, die nicht gehen.“
+
+Ich habe nichts gesagt.
+
+„Ich weiß das, weil ich es gemacht habe.“ Er hat sich vorgebeugt.
+„Im Dezember vor zwei Jahren habe ich eine Forderung über
+hundertsechsundachtzigtausend Euro gekauft, um ein Haus zu retten, das
+mir nicht gehört, für eine Frau, die mich nicht darum gebeten hatte. Ich
+habe das drei Wochen lang für Fürsorge gehalten.“
+
+„Es ist gut ausgegangen.“
+
+„Es ist gut ausgegangen, weil sie stärker war als mein Fehler“, sagte
+Jonas. „Nicht weil der Fehler keiner war.“
+
+Er hat auf die Tischplatte gesehen, die unser Vater 1998 gekauft hat.
+
+„Am Montag steht deine Frau in einem Raum, und drei Leute entscheiden
+über sie, und du sitzt daneben und kannst nichts machen. Das ist die
+schlechteste Lage, in der ein Mann aus dieser Familie sein kann, weil
+wir alle vier gelernt haben, dass Zuständigkeit gleich Handeln ist.“
+
+„Und was soll ich tun?“
+
+„Nichts“, sagte Jonas. „Und ich weiß, wie das klingt. Bastian hat mir
+das im Dezember gesagt, wörtlich, und ich habe ihm geantwortet, es sei
+der schlechteste Rat, den ich je bekommen habe.“
+
+Er ist aufgestanden.
+
+„Es war der beste. Ich habe elf Monate gebraucht, um das zuzugeben, und
+ich sage es dir jetzt drei Tage vorher, damit du die elf Monate nicht
+brauchst.“
+
+An der Tür hat er sich umgedreht.
+
+„Und Theo — ruf mich am Montag an. Egal wie es ausgeht, egal wie spät.
+Nicht Mama. Nicht Niklas. Mich.“
+
+„Warum?“
+
+„Weil ich der Einzige bin, der schon mal in einem Auto gesessen und
+zwanzig Minuten gewartet hat“, sagte er.
+
+---
+
 Amira hat in dieser Woche gearbeitet, als sei nichts.
 
 Sie war am zweiten in Lübeck, am dritten in Harburg, am vierten wieder
