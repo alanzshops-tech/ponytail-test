@@ -75,6 +75,67 @@ aufgeschrieben, während sie noch im Raum stand.
 
 ---
 
+Danach kam der Teil, auf den mich niemand vorbereitet hatte, weil ihn
+niemand vorhersagen kann.
+
+Sie haben nichts durchsucht. Sie haben in keine Schublade gesehen. Sie
+haben mich Türen öffnen lassen und dabei zugesehen, und das ist etwas
+völlig anderes, als ich erwartet hatte, und es war schlimmer.
+
+Ich habe eine Wohnung vorgeführt, in der ich seit sieben Jahren wohne,
+so wie ich Bauherren durch ein Objekt führe. Hier die Küche. Hier das
+Bad. Ich habe zweimal *hier hinten links* gesagt, was ich auf
+Baustellen sage.
+
+Bei der Kommode im Schlafzimmer habe ich die dritte Schublade
+aufgemacht, ohne dass jemand danach gefragt hätte.
+
+„Das müssen Sie nicht“, sagte Frau Kolb.
+
+„Ich weiß.“
+
+„Warum machen Sie es dann?“
+
+Ich habe die Schublade wieder zugeschoben.
+
+„Weil ich seit vierzig Minuten beweise, dass hier zwei Menschen
+wohnen“, sagte ich. „Und weil ich in diesen vierzig Minuten vergessen
+habe, dass ich das nicht muss.“
+
+Frau Kolb hat kurz gewartet.
+
+„Das passiert fast allen“, sagte sie. „Wir sagen es am Anfang, und nach
+zwanzig Minuten macht jeder alles auf. Es ist einer der Gründe, warum
+ich diesen Teil meiner Arbeit nicht mag.“
+
+Sie hat auf ihren Bogen gesehen.
+
+„Ich schreibe hinein, dass ich Sie darauf hingewiesen habe und dass Sie
+freiwillig gehandelt haben. Das ist keine Formalie, das ist zu Ihrem
+Schutz.“
+
+---
+
+Im Arbeitszimmer, das eigentlich das zweite Zimmer ist und in dem mein
+Klemmbrett und drei Ordner und der Plotter stehen, hat Herr Adamczyk
+zum ersten Mal von sich aus etwas gesagt.
+
+„Sie haben hier vierhundert Blätter über eine Wand.“
+
+„Vierhundertelf.“
+
+„Und im Wohnzimmer vier Gegenstände von Ihrem Mann.“
+
+Ich habe ihn angesehen.
+
+„Das ist mir eben selbst aufgefallen“, sagte ich.
+
+Er hat genickt und nichts weiter dazu gesagt, und ich habe eine Stunde
+gebraucht, bis ich verstanden habe, dass das kein Vorwurf war, sondern
+das Genaueste, was an diesem Vormittag jemand über mich gesagt hat.
+
+---
+
 „Frau Haddad“, sagte sie danach, im Flur. „Darf ich Ihnen eine Frage
 stellen, die nicht auf dem Bogen steht?“
 

@@ -44,6 +44,77 @@ den Bescheid hingelegt. „Ihr steht bis Sommer.“
 
 ---
 
+Ich habe an diesem Abend etwas gemacht, das ich seit sechs Jahren nicht
+mehr gemacht hatte: Ich habe die Aktenlage aus der Sicht des Gegners
+aufgeschrieben.
+
+Das ist ein Handwerk, das man in Beirut lernt, wenn man
+siebenundzwanzig ist und einmal verloren hat. Man setzt sich hin und
+schreibt die Fassung auf, die die andere Seite vortragen wird, und man
+schreibt sie so stark auf, wie man kann, ohne sich zu schonen.
+
+Ich habe sechs Punkte gefunden.
+
+Erstens: Die Erstvergabe ist zwar sauber, aber sie ist von einem
+Prokuristen unterschrieben, der seit vierzehn Jahren für dieselbe Firma
+arbeitet, in einem Verfahren mit vier Bewerbern, bei dem der Preis nur
+zu dreißig Prozent gewichtet war.
+
+Zweitens: Die Gutachterin ist heute mit einem Gesellschafter
+verheiratet. Dass das damals nicht so war, muss man glauben.
+
+Drittens: Die Zweitbegutachtung ging freihändig an ein Büro mit
+zwölfjähriger Geschäftsbeziehung. Das ist der Punkt, den sie gewonnen
+haben.
+
+Viertens: Die Firma hat gegen diesen Punkt geklagt, statt ihn
+einzuräumen.
+
+Fünftens: Es gibt eine Behördenakte mit einem Vermerk nach Paragraf
+einundzwanzig über die Gutachterin.
+
+Sechstens: Es gibt einen Aktenvermerk eines Wettbewerbers über einen
+Anruf des Ehemanns.
+
+Ich habe diese sechs Punkte um halb elf abends fertig gehabt, und
+danach habe ich zwanzig Minuten dagesessen und sie angesehen.
+
+Es liest sich furchtbar. Es ist jede einzelne Zeile wahr. Und es ergibt
+zusammen ein Bild, das mit dem, was tatsächlich passiert ist, fast
+nichts zu tun hat.
+
+---
+
+Ich habe Theo den Zettel am nächsten Morgen gezeigt.
+
+Er hat ihn gelesen und ist blass geworden.
+
+„Woher hast du das?“
+
+„Ich habe es aufgeschrieben.“
+
+„Warum?“
+
+„Weil ich wissen will, wie stark die andere Seite ist“, sagte ich.
+„Nicht wie stark ich bin. Das weiß ich.“
+
+Er hat den Zettel hingelegt.
+
+„Wenn das jemand findet —“
+
+„Es findet es niemand, weil ich es niemandem schicke“, sagte ich. „Und
+Theo: Genau davor hast du seit anderthalb Jahren Angst, und deswegen
+sage ich es dir jetzt so deutlich, wie ich kann.“ Ich habe auf das
+Blatt getippt. „Das hier ist die schlimmste Fassung unserer Geschichte,
+die man erzählen kann, und sie besteht aus lauter Tatsachen, und sie
+kann trotzdem jederzeit erzählt werden, egal was wir tun.“
+
+„Und was folgt daraus?“
+
+„Dass wir aufhören können, sie zu verhindern“, sagte ich.
+
+---
+
 Am Donnerstag saß ich in einer Sitzung, in die ich nicht gehörte.
 
 Jonas hatte gefragt, ob ich komme, und Wendland hatte widersprochen und

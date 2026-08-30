@@ -62,6 +62,109 @@ Ehe beweist, die kein Papier je zeigt.
 
 ---
 
+Sabine hat dann gefragt, wie es weitergegangen ist, und ich habe
+gemerkt, dass ich es nicht weiß.
+
+Das ist die Wahrheit: Ich kann nicht sagen, wann aus dem Kaffee etwas
+anderes wurde.
+
+Es gab keinen Abend, an dem es angefangen hat. Es gab elf Monate, in
+denen wir uns auf einer Baustelle begegnet sind, ungefähr alle zwei
+Wochen, weil er der Architekt war und ich die Gutachterin, und in denen
+er jedes Mal zwanzig Minuten länger geblieben ist, als er musste.
+
+Ich habe das damals nicht gemerkt. Ich habe es später gemerkt, weil ich
+Protokolle führe.
+
+Im Februar 2024 habe ich beim Nachtragen von Ortsterminen gesehen, dass
+bei siebzehn von neunzehn Terminen unter *anwesend* sein Name steht,
+obwohl er nur bei sechsen fachlich nötig war.
+
+Ich habe an dem Abend eine halbe Stunde vor dieser Tabelle gesessen.
+
+Ich habe nichts gemacht. Ich habe die Tabelle zugeklappt und drei Monate
+lang nichts gemacht, weil ich zu diesem Zeitpunkt seit sechs Jahren
+niemanden mehr an mich herangelassen hatte und weil das der Grund war,
+aus dem ich in Hamburg so gut geworden bin.
+
+---
+
+„Und wer hat dann angefangen?“, fragte Sabine.
+
+„Ich“, sagte ich. „Im Mai 2024. Auf demselben Gerüst wie im Jahr
+davor.“
+
+Ich habe ihn gefragt, ob er mit mir essen geht.
+
+Ich habe vier Tage gebraucht, um mir den Satz zurechtzulegen, und ich
+habe ihn dann falsch gesagt: Ich habe gesagt, ich hätte eine fachliche
+Frage, für die ein Ortstermin zu kurz sei.
+
+Er hat gesagt: „Ja.“ Sofort. Ohne nachzufragen, worum es geht.
+
+Wir haben dreieinhalb Stunden in einem Lokal in Eppendorf gesessen, und
+ich habe in Minute zwanzig gemerkt, dass er nicht ein einziges Mal
+gefragt hat, was denn nun die fachliche Frage sei.
+
+„Warum fragst du nicht?“, habe ich irgendwann gesagt.
+
+„Weil es keine gibt“, sagte er.
+
+„Woher weißt du das?“
+
+„Weil du seit einem Jahr jede fachliche Frage am Telefon klärst, in
+unter vier Minuten“, sagte Theo. „Du bist die einzige Person auf
+dieser Baustelle, die nie ein Treffen dafür braucht.“
+
+Ich habe eine ganze Weile nichts gesagt.
+
+„Und du hast trotzdem ja gesagt.“
+
+„Ich habe vor allem schnell ja gesagt“, sagte er. „Bevor du merkst,
+dass du es nicht so gemeint hast.“
+
+---
+
+Sabine hat gelacht, an dieser Stelle, zum zweiten Mal an diesem Abend.
+
+„Er hat es also gewusst.“
+
+„Er hat es ein Jahr lang gewusst“, sagte ich. „Und er hat nichts
+gemacht.“
+
+„Warum nicht?“
+
+Ich habe zu Theo gesehen, und er hat auf seine Hände gesehen, und ich
+habe es für ihn gesagt, weil ich wusste, dass er es sonst schöner
+formuliert, als es war.
+
+„Weil ich die Gutachterin war und er der Bauherr“, sagte ich. „Er hat
+mir das im Juni 2024 erklärt, und es war der Satz, an dem ich gemerkt
+habe, dass ich ihn will: *Wenn ich anfange, kannst du nicht mehr nein
+sagen, ohne dass es dich etwas kostet.*“
+
+Sabine hat die Tasse abgestellt.
+
+„Das hat er gesagt?“
+
+„Wörtlich“, sagte ich. „Vor drei Jahren, auf einem Parkplatz in
+Eppendorf, um halb zwölf nachts.“
+
+„Und dann?“
+
+„Und dann habe ich gesagt, dass er das nicht zu entscheiden hat“, sagte
+ich. „Und dann haben wir noch vierzig Minuten auf diesem Parkplatz
+gestanden und darüber gestritten, wer hier wem etwas nicht zu
+entscheiden hat, und irgendwann hat es angefangen zu regnen, und wir
+sind stehen geblieben.“
+
+Ich habe die Hände um die Tasse gelegt.
+
+„Das ist der Anfang. Es gibt keinen besseren, und es ist die einzige
+Geschichte über uns, die ich gern erzähle.“
+
+---
+
 „Und warum die Heimlichkeit?“, fragte Sabine schließlich, direkt, ohne
 Umweg, genau wie Theo es beschrieben hat.
 
