@@ -313,6 +313,9 @@ def main() -> None:
         formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--autor", default=None,
                    help="ersetzt [AUTORENNAME] im Vorspann")
+    p.add_argument("--buch", default="buch",
+                   help="Ordner mit Kapiteln, Vor- und Nachspann "
+                        "(zweiter Band: --buch buch2)")
     p.add_argument("--ziel", default="buch/manuskript.md")
     p.add_argument("--selbsttest", action="store_true")
     p.add_argument("--epub", default="buch/reinhardt-1.epub",
@@ -320,6 +323,9 @@ def main() -> None:
     p.add_argument("--cover", default="cover/fertig/cover.jpg")
     p.add_argument("--titel", default="Was ich dir nie gesagt habe")
     args = p.parse_args()
+
+    global BUCH
+    BUCH = Path(args.buch)
 
     print("Kalibrierung der Pruefungen:")
     if not selbsttest():

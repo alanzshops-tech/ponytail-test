@@ -126,7 +126,12 @@ def main() -> None:
                     help="nur Kapitel vergleichen, die hoechstens so weit "
                          "auseinanderliegen")
     ap.add_argument("--selbsttest", action="store_true")
+    ap.add_argument("--buch", default="buch",
+                    help="Ordner mit Kapiteln (zweiter Band: --buch buch2)")
     a = ap.parse_args()
+
+    global BUCH
+    BUCH = Path(a.buch)
 
     print("Selbsttest:")
     selbsttest()

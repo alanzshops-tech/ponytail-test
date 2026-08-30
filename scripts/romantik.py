@@ -152,7 +152,14 @@ def main() -> None:
         formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--selbsttest", action="store_true")
     ap.add_argument("--csv", action="store_true")
+    ap.add_argument("--buch", default="buch",
+                    help="Ordner mit Kapiteln (zweiter Band: --buch buch2 "
+                         "-- NAMEN oben im Skript muss dafuer erst auf "
+                         "Amira/Theo umgestellt werden)")
     a = ap.parse_args()
+
+    global BUCH
+    BUCH = Path(a.buch)
 
     print("Selbsttest:")
     selbsttest()

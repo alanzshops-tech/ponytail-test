@@ -316,7 +316,12 @@ def main() -> None:
                    help="eindeutige Typografiefehler im Text ersetzen")
     p.add_argument("--bericht", default="PROSA.md")
     p.add_argument("--ohne-spacy", action="store_true")
+    p.add_argument("--buch", default="buch",
+                   help="Ordner mit Kapiteln (zweiter Band: --buch buch2)")
     args = p.parse_args()
+
+    global BUCH
+    BUCH = Path(args.buch)
 
     print("Kalibrierung:")
     if not selbsttest():
