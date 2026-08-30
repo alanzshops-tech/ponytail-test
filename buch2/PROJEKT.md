@@ -203,6 +203,42 @@ identisch zu Band 1s Muster.
 | 61–62 | Die Anhörung | wechselnd | August | Höhepunkt — bestanden, weil wahr |
 | Epilog | Der Baum, den er endlich erklärt | Theo | September | Schließt an Band 1s Baum-Motiv an, spielt kurz vor oder am Rand von dessen Epilog |
 
+### Korrektur der Struktur, 24.08.2026
+
+Der ursprüngliche Plan hatte die Anhörung als Höhepunkt bei Kapitel 61.
+Beim Schreiben von Block 3 ist sie bei Kapitel 23 angekommen — nicht
+weil zu schnell erzählt wurde, sondern weil der anonyme Hinweis in
+Kapitel 18 den Termin von November auf September vorzieht, und dieser
+Hinweis ist die beste Wendung des ganzen ersten Drittels. Ihn wieder
+herauszunehmen, um einen Plan zu retten, wäre die falsche Reihenfolge.
+
+**Der Denkfehler im ursprünglichen Plan:** Die Aufenthaltsfrage ist die
+Uhr, nicht die Frage. Ob Amira bleiben darf, ist in Band 1 bereits
+beantwortet — der Epilog vom 13.09. zeigt sie im Juli bei Sabine und im
+September noch da. Ein Höhepunkt, dessen Ausgang der Leser von Band 1
+kennt, trägt keine sechzig Kapitel.
+
+**Die eigentliche Frage** lautet: Können zwei Menschen, die vierzehn
+Monate verheiratet waren, ohne die Ehe zu leben, eine bauen — und lernt
+Theo zu fragen, statt zu regeln.
+
+**Neue Einteilung:**
+
+| Kapitel | Was |
+|---|---|
+| 1–21 | Störung, Bestandsaufnahme, Rückfall (geschrieben) |
+| 22–26 | Die Anhörung am 8.9. **als Mittelpunkt, nicht als Finale.** Ergebnis: Aufenthaltserlaubnis für ein Jahr statt drei, mit dem Kubiak-Vermerk in der Akte |
+| 27–28 | Kurze Entlastung. Der 13.09. — Band 1s Epilogtag, von außen gesehen |
+| 29–38 | **Die zweite, größere Krise:** Kubiaks Widerspruch gegen die Zweitbegutachtung hat Erfolg, das Gutachten wird aufgehoben, das 24-Millionen-Projekt steht still. Genau das Szenario, vor dem Amira vierzehn Monate lang Angst hatte — es kommt trotzdem, und zwar erst, nachdem sie aufgehört hat, sich zu verstecken |
+| 39–48 | Winter. Die Ehe wird zum ersten Mal wirklich geführt. Amiras beruflicher Stand, Theos Position in der Firma. Hier die eine sinnliche, nicht explizite Szene |
+| 49–58 | Zuspitzung auf die Beiratssitzung: Theo muss zwischen Firmeninteresse und Amiras fachlicher Integrität wählen — und wählt, indem er sie **vorher und öffentlich** fragt |
+| 59–62 | Auflösung |
+| Epilog | **März 2027**, ein Jahr nach der Winterlinde im Hof am Kehrwieder. Der Garten aus Kapitel 16, und der erste Baum, den Theo für sich selbst pflanzt |
+
+Damit spiegelt das Finale Band 1s Beiratssitzung, ohne sie zu
+wiederholen: Dort ging es um ein Haus, das jemandem gehört. Hier geht
+es um ein Gutachten, das jemandem gehört.
+
 **Arbeitsnotiz:** Die vollständige Kapitel-für-Kapitel-Liste (Beats 6
 bis 60) wird nicht im Voraus vollständig fixiert, sondern in Blöcken
 von acht bis zehn Kapiteln festgelegt und sofort geschrieben — Band 1
