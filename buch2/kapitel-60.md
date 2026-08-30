@@ -39,7 +39,7 @@ Ich kann von hier aus sagen, worum es ging, weil ich sie hinterher
 gefragt habe: um Fußnote vierzehn.
 
 Kubiak hat darin geschrieben, dass die Messreihe „über drei Jahre
-geführt" wurde. Amira hat gesagt, das sei falsch, sie habe sie über
+geführt“ wurde. Amira hat gesagt, das sei falsch, sie habe sie über
 drei Jahre und vier Monate geführt, und die vier Monate seien
 diejenigen, in denen im November der Baustopp lag, und deshalb gehörten
 sie zwingend dazu.
