@@ -124,6 +124,69 @@ wohnt“, sagte ich. „Und wenn jemand wohnt, kann man es nicht mehr
 verschweigen. Ich habe meine Ehe versteckt, indem ich meine eigene
 Wohnung leer gehalten habe. Er hat nur mitgemacht.“
 
+Frau Domnick hat sich vorgebeugt.
+
+„Frau Haddad, Sie belasten sich seit zehn Minuten selbst. Ist Ihnen das
+bewusst?“
+
+„Ja.“
+
+„Warum tun Sie es?“
+
+Ich habe eine Weile gebraucht.
+
+„Weil ich zwei Möglichkeiten habe“, sagte ich. „Ich kann Ihnen
+erklären, dass wir beide gleich schuld sind. Das ist die freundliche
+Fassung, mein Mann würde sie sofort unterschreiben, und sie ist
+ungefähr zu vierzig Prozent wahr.“
+
+„Und die andere?“
+
+„Die andere ist, dass ich diejenige war, die diese Ehe kleingehalten
+hat, und dass er der war, der es zugelassen hat.“ Ich habe die Hände
+auf den Tisch gelegt. „Das ist die genauere. Wenn Sie am Ende dieses
+Termins entscheiden, ob unsere Ehe echt ist, dann brauchen Sie die
+genauere. Die freundliche hilft nur uns beiden beim Nachhausefahren.“
+
+Frau Domnick hat mich lange angesehen.
+
+„Wissen Sie, wie oft in diesem Zimmer jemand die genauere Fassung
+wählt?“
+
+„Nein.“
+
+„Ich auch nicht mehr“, sagte sie. „Ich habe irgendwann aufgehört zu
+zählen, weil die Zahl mich deprimiert hat.“
+
+---
+
+Es gab dann noch eine Frage, die mich mehr getroffen hat als alle
+anderen, und sie kam von Herrn Feldmann und war rein technisch gemeint.
+
+„Frau Haddad, im Protokoll des Hausbesuchs steht, dass die Wohnung auf
+Sie gemeldet ist und der Mietvertrag von 2018 stammt. Haben Sie
+erwogen, gemeinsam etwas Neues zu suchen?“
+
+„Nein.“
+
+„Warum nicht?“
+
+Ich habe den Mund aufgemacht und wieder zugemacht.
+
+„Ich weiß es nicht“, sagte ich schließlich. „Das ist mir noch nie in den
+Sinn gekommen. Wir wohnen seit Mai zusammen, und keiner von uns hat je
+gesagt: Lass uns etwas suchen, das uns beiden gehört.“
+
+Ich habe zu Theo gesehen, und er hat den Kopf ganz leicht geschüttelt,
+was hieß: mir auch nicht.
+
+„Ich möchte das nicht als Antwort stehen lassen“, sagte ich zu Herrn
+Feldmann. „Können Sie mir die Frage im November noch einmal stellen?“
+
+Er hat kurz auf Frau Sarrazin gesehen.
+
+„Ich kann sie mir notieren“, sagte er.
+
 ---
 
 Um zwölf Uhr zwanzig gab es eine Pause.

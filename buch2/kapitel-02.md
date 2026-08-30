@@ -14,7 +14,7 @@ das man am besten schnell loswird, solange es noch warm ist.
 Ich habe abgenommen.
 
 „Theo.“ Nur das, und ich kannte den Ton. Ich kenne ihn seit
-sechsunddreißig Jahren — es ist der Ton, den er benutzt, bevor er eine
+fünfunddreißig Jahren — es ist der Ton, den er benutzt, bevor er eine
 Zahl sagt, die einem nicht gefällt.
 
 „Jonas.“

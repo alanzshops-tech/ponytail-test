@@ -340,6 +340,40 @@ Zahl nicht bei einem späteren Lauf für einen Mangel gehalten und
 
 ---
 
+## 7d. Die Zeitrechnung — nachgeprüft am 24.08.2026
+
+Beim Ausbau sind zwei Altersfehler aufgefallen, beide durch
+Nachrechnen gegen Band 1, nicht durch Lesen:
+
+**Amiras Mutter.** Kapitel 15 (Juli 2026) sagt zweiundsechzig,
+Kapitel 51 (Juni 2028) dreiundsechzig, Kapitel 57 (Januar 2029)
+fünfundsechzig. Zwischen Juli 2026 und Juni 2028 liegen zwei Jahre —
+Kapitel 51 war um eins zu niedrig. Auf **vierundsechzig** korrigiert;
+damit ist sie im Januar 1964 geboren und alle drei Stellen stimmen.
+
+**Theo.** Band 1 (`../buch/kapitel-08.md`) setzt ihn beim Tod des
+Vaters im Februar 2010 auf neunzehn. Kapitel 2 (Mai 2026) ließ ihn
+seinen Bruder „seit sechsunddreißig Jahren" kennen — ein Jahr zu viel.
+Auf **fünfunddreißig** korrigiert. Damit ist er im August 1990 geboren
+und die späteren Stellen stimmen ohne weitere Eingriffe: Kapitel 36
+(Mai 2027) sechsunddreißig, Kapitel 41 und 43 (September 2027)
+siebenunddreißig.
+
+**Wendland** ist nachgerechnet und stimmt: einundsiebzig im September
+2027 (Kapitel 44), zweiundsiebzig beim Ausscheiden im Mai 2029
+(Kapitel 58) — Geburtstag zwischen Mai und September.
+
+**Ein Widerspruch, der in Band 1 selbst liegt und hier nicht angerührt
+wird:** Band 1 nennt Jonas an mehreren Stellen sechsunddreißig
+(2025/26), lässt ihn aber in Kapitel 48 sagen, er habe „mit
+vierundzwanzig" das Studium abgebrochen — das war beim Tod des Vaters,
+also 2010, was ihn 2025 auf vierzig brächte. Band 1 ist abgeschlossen
+und wird nicht geändert. Band 2 folgt durchgehend der häufigeren
+Angabe (sechsunddreißig in 2025/26) und vermeidet jede Stelle, an der
+die andere zitiert werden müsste.
+
+---
+
 ## 8. Was in Kapitel 1–10 nachgetragen wird
 
 Beim Schreiben von Block 2 sind vier Stellen aufgefallen, an denen die

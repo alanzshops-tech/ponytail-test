@@ -52,6 +52,47 @@ Mitwirkungspflicht bei der Aufklärung des Sachverhalts, und Sie haben
 ein Grundrecht auf Ihre Wohnung, und beides gilt gleichzeitig. Das ist
 kein Widerspruch, den ich für Sie auflösen kann. Das ist die Lage.“
 
+Amira hat den geschwärzten Zettel wieder aufgenommen.
+
+„Herr Brandt, ich möchte etwas anderes wissen.“
+
+„Bitte.“
+
+„Wer darf so einen Hinweis schreiben?“
+
+„Jeder“, sagte Dr. Brandt. „Nachbarn, Kollegen, verlassene Partner,
+Vermieter. Am häufigsten sind es Ex-Partner und Nachbarn, in dieser
+Reihenfolge.“
+
+„Und die Behörde muss dem nachgehen?“
+
+„Die Behörde muss prüfen, ob ein konkreter Anfangsverdacht entsteht“,
+sagte er. „Ein anonymes Schreiben allein reicht dafür in der Regel
+nicht. Dieses hier reicht, weil es zwei Tatsachen nennt, die stimmen und
+die der Verfasser nicht aus der Nachbarschaft haben kann.“
+
+Er hat auf die dritte Zeile getippt.
+
+„*Über vierzehn Monate gegenüber der eigenen Familie verschwiegen.*
+Das weiß kein Nachbar. Das weiß jemand, der Ihre Akte kennt oder Ihre
+Vergabeunterlagen.“
+
+Amira hat den Zettel hingelegt.
+
+„Also jemand aus meinem Beruf.“
+
+„Oder jemand aus einer Behörde“, sagte Dr. Brandt. „Das ist der Teil,
+den ich Ihnen nicht ersparen kann und der Ihnen die nächsten Wochen
+verderben wird: Sie werden anfangen, Leute anzusehen und sich zu
+fragen.“
+
+Er hat seine Tasche zugemacht.
+
+„Der einzige Rat, den ich Ihnen dazu geben kann, ist ein schlechter:
+Hören Sie damit auf, so bald Sie können. Ich habe Mandanten gehabt, die
+das Verfahren gewonnen und danach zwei Jahre lang jeden Kollegen
+verdächtigt haben. Das ist der eigentliche Schaden dieser Briefe.“
+
 ---
 
 Er ist um halb elf gegangen, und wir haben bis um eins am Küchentisch

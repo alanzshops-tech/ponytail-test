@@ -16,7 +16,7 @@ hingesehen, ob sie schwerer atmet als früher.
 
 Sie hat es gemerkt.
 
-„Ich bin dreiundsechzig, Amira, nicht dreiundachtzig. Fahr.“
+„Ich bin vierundsechzig, Amira, nicht dreiundachtzig. Fahr.“
 
 ---
 
