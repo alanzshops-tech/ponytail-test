@@ -164,6 +164,38 @@ können es sich holen.“
 hergekommen bin. Es entlastet Sie vollständig.“ Eine Pause. „Und es
 wird Ihnen nichts nützen, wenn es jemand anderes zuerst erzählt.“
 
+Jonas hat sich das bis dahin schweigend angehört.
+
+„Ich hätte es Ihnen gesagt“, sagte er jetzt.
+
+„Wann?“
+
+„Diese Woche.“
+
+„Sie wissen es seit dem achten Mai“, sagte Wendland. „Heute ist der
+siebenundzwanzigste.“
+
+Mein Bruder hat nichts erwidert, und ich habe zum ersten Mal seit
+zwanzig Tagen gesehen, dass ihn das etwas kostet.
+
+„Herr Reinhardt“, sagte Wendland zu ihm, „ich mache Ihnen keinen
+Vorwurf. Sie haben neunzehn Tage lang die Familie über die Gesellschaft
+gestellt, und das ist im Zweifel die richtige Reihenfolge. Ich stelle
+nur fest, dass Sie es getan haben, damit Sie es wissen.“
+
+Er hat sich wieder zu mir gedreht.
+
+„Und Sie haben mir eben gesagt, es tue Ihnen leid, dass ich es so
+erfahre. Das ist die Höflichkeitsform. Was Sie meinen, ist: Es tut
+Ihnen leid, dass ich es überhaupt erfahre.“
+
+Ich habe eine Weile nichts gesagt.
+
+„Ja“, sagte ich.
+
+„Danke“, sagte Wendland. „Das war die erste Antwort heute, die ich
+brauchen kann.“
+
 Er ist aufgestanden.
 
 „Ich sage Ihnen dasselbe, was ich Ihrem Bruder im Dezember gesagt habe,

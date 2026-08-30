@@ -108,6 +108,30 @@ dass sie nein sagt.*
 *Ich habe es ihr am 28.08. gesagt, nachdem Dr. Brandt angerufen hatte.
 Nicht vorher.*
 
+Ich habe die vier Zeilen dreimal gelesen, bevor ich etwas gesagt habe,
+und beim dritten Mal ist mir aufgefallen, was nicht darin steht.
+
+Es steht kein *leider* darin. Kein *ich wollte nur*. Kein Wort darüber,
+dass er den Hinweis für ungerecht hält, was er tut. Keine Erklärung,
+warum ein Mann bei einem Wettbewerber anruft, wenn seine Frau
+ausgewiesen werden soll — und es gäbe eine, und sie wäre gut, und jeder
+im Raum hätte sie ihm abgenommen.
+
+Er hat vier Sätze geschrieben und in jedem einzelnen die Tatsache
+stehen lassen, ohne sie zu tragen.
+
+Ich mache das beruflich. Ich schreibe seit elf Jahren Befunde, in denen
+nichts steht außer dem, was da ist. Ich habe an diesem Sonntagmorgen
+zum ersten Mal einen von jemand anderem gelesen.
+
+„Wer hat dir das beigebracht?“, habe ich gefragt.
+
+Theo hat aufgesehen.
+
+„Du“, sagte er. „Im Mai. Du hast mir die Liste mit den acht Zeilen
+gezeigt und gesagt, sie sei die schlechteste Aktenlage, die Brandt seit
+Jahren gesehen habe, und du hast keine einzige Zeile schöner gemacht.“
+
 „Was ist das?“, sagte ich.
 
 „Das schicke ich am Montag an Brandt“, sagte Theo. „Und er legt es
