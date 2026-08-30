@@ -180,7 +180,7 @@ Tisch.
 
 „Drei zu zwei. Es bleibt stehen.“
 
-Sie hat nichts gesagt. Sie hat mich am Mantel genommen und in die
+Amira hat nichts gesagt. Sie hat mich am Mantel genommen und in die
 Wohnung gezogen und die Tür zugemacht, und dann hat sie geweint, und
 zwar ziemlich heftig, und ich habe sie festgehalten und nichts gesagt,
 weil ich inzwischen weiß, dass das die Aufgabe ist.
