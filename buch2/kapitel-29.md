@@ -67,7 +67,7 @@ Gutachterin, die ich kenne.“
 
 Ich habe eine Sekunde zu lange gebraucht, um zu antworten.
 
-„Das ist der erste Satz seit Juni, in dem ‚die beste' und ‚Gutachterin'
+„Das ist der erste Satz seit Juni, in dem ‚die beste‘ und ‚Gutachterin‘
 in derselben Zeile stehen wie mein Name.“
 
 „Dann haben Sie schlecht zugehört“, sagte Okonkwo. „Das habe ich im
