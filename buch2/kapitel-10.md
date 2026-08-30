@@ -67,7 +67,7 @@ der gemeinsamen Wohnung schläft, in einer Akte anders aussieht, als sie
 gemeint ist.
 
 Keine Reise nach Beirut. Ihre Mutter war zu diesem Zeitpunkt
-neunundfünfzig und hatte seit November Probleme mit dem Knie.
+zweiundsechzig und hatte seit November Probleme mit dem Knie.
 
 Die Zusage für Lübeck, die sie im April gegeben hatte, auf zwei Wochen
 kürzen.

@@ -359,9 +359,27 @@ und die späteren Stellen stimmen ohne weitere Eingriffe: Kapitel 36
 (Mai 2027) sechsunddreißig, Kapitel 41 und 43 (September 2027)
 siebenunddreißig.
 
-**Wendland** ist nachgerechnet und stimmt: einundsiebzig im September
-2027 (Kapitel 44), zweiundsiebzig beim Ausscheiden im Mai 2029
-(Kapitel 58) — Geburtstag zwischen Mai und September.
+Ein dritter Fall derselben Sorte fiel beim Ausbau auf: Kapitel 10
+(Mai 2026) setzte dieselbe Mutter auf **neunundfünfzig** — drei Jahre
+daneben. Auf zweiundsechzig korrigiert.
+
+**Danach der ganze Bestand durchgesehen**, nicht gelesen, sondern mit
+einem Suchlauf über alle Zahlwörter zwischen neunundfünfzig und
+vierundsiebzig, jeweils mit Umfeld ausgegeben. Zweiundzwanzig Treffer,
+davon dreizehn keine Altersangaben (siebzig Meter Mauerkrone, sechzig
+Seiten Anlage, Eintrag neunundsechzig). Die übrigen stimmen alle:
+
+**Wendland** — einundsiebzig im September 2027 (Kapitel 44),
+zweiundsiebzig beim Ausscheiden im Mai 2029 (Kapitel 58) und im Juni
+2029 (Kapitel 60); Geburtstag zwischen Juni und September.
+
+**Sabine** — siebenundsechzig im November 2029 (Kapitel 63).
+
+**Ernst Kohl und seine Tochter** — sechzehn im Jahr 1954, also 1938
+geboren, „wäre jetzt neunundachtzig" im Februar 2028 (Kapitel 48),
+gestorben 2019; von 1954 bis zum Aufhören mit vierundsechzig sind
+achtundvierzig Jahre (Kapitel 49); die Tochter siebenundsechzig im
+März 2028.
 
 **Ein Widerspruch, der in Band 1 selbst liegt und hier nicht angerührt
 wird:** Band 1 nennt Jonas an mehreren Stellen sechsunddreißig

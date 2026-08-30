@@ -112,6 +112,66 @@ Mantel.
 
 „Nein“, sagte Theo. „Zum ersten Mal nicht.“
 
+Ich habe eine Weile nichts gesagt.
+
+„Das stimmt nicht ganz“, sagte ich dann.
+
+„Nein?“
+
+„Ich bin nicht nervös, das ist richtig.“ Ich habe mich auf die Seite
+gedreht. „Ich habe stattdessen etwas anderes, und ich habe zwei
+Stunden gebraucht, um zu merken, was es ist.“
+
+„Sag es.“
+
+„Ich bin nicht dankbar.“
+
+Er hat den Kopf gehoben.
+
+„Ich weiß, wie das klingt“, sagte ich. „Ich erkläre es. Ich bin
+vierzehn Monate lang mit dir verheiratet gewesen und habe in jeder
+einzelnen Nacht gedacht, dass ich es gut habe. Nicht: dass es gut ist.
+Dass ich es gut *habe*. Wie jemand, der etwas bekommen hat, das ihm
+eigentlich nicht zusteht.“
+
+Theo hat nichts gesagt.
+
+„Und heute habe ich vor achtzig Leuten gestanden und du hast gesagt,
+dass dir nichts einfällt, und ich habe dabei nicht einmal gedacht, dass
+ich Glück habe.“ Ich habe die Hand auf seine Brust gelegt. „Ich habe
+gedacht: Das ist meiner.“
+
+---
+
+Wir sind bis vier Uhr wach geblieben.
+
+Irgendwann, vielleicht um halb zwei, hat er im Halbdunkeln gefragt:
+„Wie war deine Hochzeitsnacht?“
+
+„Welche?“
+
+„Die erste.“
+
+Ich habe eine Weile gebraucht.
+
+„Wir waren in einem Hotelzimmer in Kopenhagen“, sagte ich. „Es war
+schön. Ich habe die ganze Zeit gewusst, dass ich am Montag zurückfliege
+und niemandem etwas sage, und ich habe versucht, das wegzudenken, und es
+ist mir nicht gelungen.“
+
+Ich habe ihn angesehen.
+
+„Und du?“
+
+„Ich habe um zweiundzwanzig Uhr eine Mail beantwortet“, sagte Theo.
+
+„Das habe ich dich nicht gefragt.“
+
+„Ich weiß“, sagte er. „Es ist die Antwort. Ich habe an diesem Abend
+eine Mail beantwortet, weil ich in dem Zimmer war und nicht wusste, wie
+man in einem Zimmer ist, in dem gerade etwas passiert ist, das man
+niemandem erzählen darf.“
+
 ---
 
 Wir haben bis vier Uhr wach gelegen, weil keiner von uns schlafen
