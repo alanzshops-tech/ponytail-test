@@ -210,6 +210,56 @@ ist auch in Wellen entstanden (Nachtrag von sechs Kapiteln am
 16.08.2026 zeigt, warum ein starres Vorab-Gerüst der Textqualität
 schadet). Diese Datei wird nach jedem Block aktualisiert.
 
+### Kapitellänge — ein Befund, den ich erst beim Nachmessen ernst genommen habe
+
+Am 24.08.2026 gegen Band 1 gemessen:
+
+| | Kapitel | Schnitt | Median | Spanne |
+|---|---:|---:|---:|---|
+| Band 1 | 65 | **1.207** | 1.172 | 837–1.990 |
+| Band 2, Kapitel 1–10 | 10 | **765** | 752 | 574–965 |
+
+Hochgerechnet hätte Band 2 bei diesem Schnitt und 62 Kapiteln **47.400
+Wörter** — rund 30.000 unter der gemessenen Nischenspanne
+(`../KDP-NISCHEN.md`: Median 337 Druckseiten, Spanne 312–398). Für
+78.000 Wörter bei 62 Kapiteln sind **rund 1.258 Wörter je Kapitel**
+nötig.
+
+**Das Messgerät hat es die ganze Zeit gemeldet.** `manuskript.py`
+druckt nach jedem Lauf die Zeile *„Kapitel unter 900 Wörtern"*, und sie
+enthielt ab dem zweiten Kapitel fast jede Nummer. Ich habe sie sechsmal
+gelesen und als Rauschen behandelt, weil bei Band 1 in dieser Zeile
+immer nur drei oder vier Nummern standen. Ein Messgerät, dessen Ausgabe
+man an eine Gewohnheit gewöhnt, ist keins mehr.
+
+**Konsequenz:** Ab Kapitel 11 wird auf Band-1-Länge geschrieben
+(11: 1.213, 12: 1.092, 13: 1.123, 14: 1.204, 15: 1.106, 16: 1.281).
+Die zehn kurzen Kapitel bekommen am Ende denselben Ausbau, den Band 1
+am 16.08. bekommen hat — nicht durch Auffüllen, sondern durch Szenen,
+die ohnehin fehlen (siehe Liste in Abschnitt 8).
+
+---
+
+## 8. Was in Kapitel 1–10 nachgetragen wird
+
+Beim Schreiben von Block 2 sind vier Stellen aufgefallen, an denen die
+frühen Kapitel zu schnell über etwas hinweggehen:
+
+- **Kapitel 3:** Dr. Brandt erklärt die Rechtslage in einem Absatz.
+  Fehlt: Amiras Gegenrechnung — sie ist es gewohnt, Gutachten zu
+  verteidigen, und merkt hier zum ersten Mal, dass sie diesmal das
+  Objekt ist und nicht die Gutachterin.
+- **Kapitel 4:** Sabine erfährt es. Die Szene endet, bevor Theo das
+  Haus verlässt. Fehlt: die zwanzig Minuten im Auto davor, in denen er
+  drei Fassungen verwirft.
+- **Kapitel 6/7:** Die getrennten Anhörungen sind je 750 Wörter. Beide
+  vertragen die doppelte Länge, weil genau hier der Unterschied
+  zwischen einer echten und einer erfundenen Ehe verhandelt wird.
+- **Kapitel 10:** Der Bescheid. Fehlt: was sechs Monate Frist
+  praktisch heißen — Amira rechnet aus, was sie in dieser Zeit nicht
+  annehmen kann (Aufträge außerhalb Hamburgs, jede Reise über zwei
+  Wochen).
+
 ---
 
 ## 6. Werkzeuge, angepasst für Band 2
