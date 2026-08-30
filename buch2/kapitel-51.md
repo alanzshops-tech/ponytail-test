@@ -67,6 +67,23 @@ nicht gegeben, weil ich nicht wusste, dass du heiratest.“
 
 Ich habe es in der Hand gehalten und nichts gesagt.
 
+Es hat einen Fleck, unten rechts, handtellergroß, ein bisschen dunkler
+als der Rest.
+
+„Was ist das?“
+
+„Öl“, sagte meine Mutter. „1983. Deine Großmutter hat es beim Kochen
+angehabt, weil ihr kalt war, und danach zwei Wochen lang behauptet, sie
+würde es wegwerfen.“
+
+„Und?“
+
+„Und sie hat es sechs Jahre später ihrer Tochter gegeben, mit dem
+Fleck“, sagte sie. „Sie hat gesagt: *Wenn ich ihn rausmache, ist es ein
+Tuch. So ist es meins.*“
+
+Ich habe mit dem Daumen über die Stelle gestrichen.
+
 „Ich habe zwei Jahre gebraucht, um dir das nicht mehr vorzuwerfen“,
 sagte meine Mutter. „Ich sage es dir, damit du nicht denkst, es sei
 leicht gewesen.“

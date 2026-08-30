@@ -137,6 +137,44 @@ Er hat das Telefon wieder weggesteckt.
 Kalender geschrieben. Wenn du sagst, ich soll nicht kommen, streiche ich
 ihn und niemand hat Schaden.“
 
+Ich habe eine Weile nichts gesagt.
+
+„Das ist die Grenze“, sagte ich dann. „Genau da.“
+
+„Welche Grenze?“
+
+„Zwischen dem, was ich brauche, und dem, was ich nicht aushalte.“ Ich
+habe mich an die Wand gelehnt. „Wenn du um Viertel nach vier einen Flug
+gebucht hättest, wäre ich jetzt wütend. Wenn du gar nichts gemacht
+hättest, wäre ich enttäuscht und hätte es dir nie gesagt.“
+
+„Und ein Vorbehalt im Kalender?“
+
+„Ein Vorbehalt im Kalender ist richtig“, sagte ich. „Und ich hätte dir
+das vorher nicht sagen können, weil ich es selbst nicht gewusst habe.
+Ich weiß es erst seit ungefähr vier Minuten.“
+
+Theo hat genickt.
+
+„Dann schreibe ich es auf.“
+
+„Was?“
+
+„Das mit dem Vorbehalt.“ Er hat auf sein Telefon gesehen. „Ich habe seit
+dem neunundzwanzigsten August eine Liste. Da stehen einunddreißig
+Sachen drauf, von denen ich weiß, dass sie richtig sind. Das hier wird
+Nummer zweiunddreißig.“
+
+„Du führst wirklich eine Liste.“
+
+„Ich habe es dir im November gesagt.“
+
+„Ich habe gedacht, das war ein Witz.“
+
+„Nein“, sagte Theo. „Du hast ein Heft, in dem steht, was ich gemacht
+habe. Ich habe eine Liste, auf der steht, was funktioniert hat. Das ist
+nicht dasselbe, und meine ist die schlechtere, weil ich sie brauche.“
+
 ---
 
 Ich bin am Dienstag geflogen und am elften Februar zurückgekommen, für
