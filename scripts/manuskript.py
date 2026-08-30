@@ -245,9 +245,17 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     # fuer Titelei und Hinweise. Mit guide/landmarks vom Typ
     # "text" bzw. "bodymatter" faengt beides bei Kapitel 1 an.
     erstes_kapitel = seiten[1].file_name if len(seiten) > 1 else "vorspann.xhtml"
-    buch.guide = [{"type": "cover", "href": "cover.xhtml", "title": "Cover"},
-                  {"type": "text", "href": erstes_kapitel,
+    buch.guide = [{"type": "text", "href": erstes_kapitel,
                    "title": "Anfang"}]
+    # Der Cover-Eintrag nur, wenn es auch ein Cover gibt. Er stand hier
+    # bis zum 24.08.2026 fest verdrahtet, weil Band 1 immer eins hatte.
+    # Der erste Bau von Band 2 lief ohne, und die fertige Datei trug
+    # danach im Verzeichnis einen Verweis auf eine cover.xhtml, die es
+    # nicht gab -- ein toter Link, gefunden von epubcheck.py, nicht beim
+    # Lesen.
+    if coverbild and coverbild.exists():
+        buch.guide.insert(0, {"type": "cover", "href": "cover.xhtml",
+                              "title": "Cover"})
 
     buch.add_item(epub.EpubNcx())
     buch.add_item(epub.EpubNav())

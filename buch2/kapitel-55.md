@@ -40,6 +40,52 @@ Ruszczyk hat mich am Nachmittag angerufen.
 
 ---
 
+Ich habe an diesem dritten Abend eine Sache gemacht, die ich Theo nie
+erzählt habe, und ich schreibe sie hier auf, weil dieses Heft sonst
+behauptet, ich hätte in diesen vier Tagen nur gewartet.
+
+Ich habe meinen eigenen Befund gegengeprüft.
+
+Nicht die Physik — die Physik ist einfach und ich habe sie zwanzig Mal
+gerechnet. Ich habe geprüft, ob ich recht habe, weil ich recht habe,
+oder ob ich recht habe, weil er es ist.
+
+Ich habe dafür die Unterlagen von drei Objekten geholt, bei denen ich
+in den letzten fünf Jahren eine Sockelabdichtung durchgehen ließ, und
+ich habe nachgesehen, warum.
+
+Beim ersten war der Nachbarabstand vier Meter. Kein Spalt, kein
+Problem.
+
+Beim zweiten stand daneben ein Betonbau von 1974, dem Wasser nichts
+tut.
+
+Beim dritten habe ich eine Auflage gemacht, dieselbe wie bei Theo, und
+sie steht auf Seite elf meines Berichts von 2024, und ich hatte sie
+vergessen.
+
+Ich habe eine halbe Stunde vor diesem Blatt gesessen.
+
+Es ist eine merkwürdige Erleichterung, sich selbst dabei zu ertappen,
+dass man konsequent ist. Ich hatte in dieser halben Stunde ernsthaft
+damit gerechnet, dass ich strenger bin, wenn es um ihn geht — und dann
+liegt da eine Auflage von vor vier Jahren, gegenüber einem Bauherrn,
+den ich nie wiedergesehen habe, im selben Wortlaut.
+
+Ich habe das Blatt eingescannt und in die Mappe für Kehrwieder
+vierzehn gelegt, unter *Vergleichsfälle*.
+
+Ich habe es Theo nicht gezeigt.
+
+Nicht weil ich es verstecke. Weil es meine Frage war und nicht seine,
+und weil er sie sich in diesen vier Tagen nicht ein einziges Mal
+gestellt hat — was ich damals für Vertrauen gehalten habe und
+inzwischen für etwas Besseres halte.
+
+Er hat nicht daran gedacht, dass ich befangen sein könnte.
+
+---
+
 Am vierten Abend hat er zwei Blätter auf den Küchentisch gelegt.
 
 Das eine war Blatt neunzehn, neu.
