@@ -116,6 +116,57 @@ Heft. Ich habe angefangen, eine Liste zu führen. Ihre ist schöner.“
 
 ---
 
+Es gab dann noch eine Frage, die Frau Domnick gestellt hat und die ich
+für harmlos gehalten habe, bis ich sie beantwortet hatte.
+
+„Herr Reinhardt, was hat Ihre Frau in den letzten vier Monaten
+aufgegeben?“
+
+Ich habe angefangen zu antworten und wieder aufgehört.
+
+„Ich habe darauf keine vollständige Antwort“, sagte ich.
+
+„Eine unvollständige reicht.“
+
+„Sie hat im Mai eine Liste geschrieben“, sagte ich. „Sieben Zeilen. Ich
+habe sie einmal gesehen und mir vier davon gemerkt: keine Aufträge
+außerhalb Hamburgs, keine Reise nach Beirut, Lübeck von vier auf zwei
+Wochen gekürzt, und eine Anfrage der Stadt für einen Auftrag bis 2029,
+den sie nicht annehmen konnte, weil er über die Frist hinausgeht.“
+
+„Und die anderen drei Zeilen?“
+
+„Die weiß ich nicht mehr.“
+
+Frau Domnick hat den Stift hingelegt.
+
+„Warum nicht?“
+
+„Weil ich die Liste nur einmal gesehen habe“, sagte ich. „Sie hat sie
+mir gezeigt und danach weggelegt, und ich habe nicht darum gebeten, sie
+noch einmal zu sehen.“
+
+„Warum nicht?“
+
+Ich habe eine Weile gebraucht.
+
+„Weil ich Angst hatte, dass ich anfange, sie abzuarbeiten“, sagte ich.
+„Sie hat mir damals gesagt, ich könne ihr nichts davon abnehmen, und sie
+hatte recht, und ich habe gewusst, dass ich es trotzdem versuchen
+würde, wenn ich die Liste noch einmal vor mir hätte.“
+
+Frau Domnick hat das aufgeschrieben, und dann hat sie etwas gesagt, das
+ich mir gemerkt habe.
+
+„Das ist die erste Antwort heute, bei der Sie schlechter aussehen, als
+Sie müssten.“
+
+„Ich habe vier davon“, sagte ich.
+
+„Ich weiß“, sagte sie. „Ich zähle auch mit.“
+
+---
+
 Um sechzehn Uhr zehn hat Frau Sarrazin die Akte zugemacht.
 
 „Wir werden heute nicht entscheiden“, sagte sie. „Ich sage Ihnen, was

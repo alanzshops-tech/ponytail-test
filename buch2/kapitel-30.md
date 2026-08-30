@@ -34,6 +34,37 @@ Beste.“
 Ich habe das am Abend Amira erzählt, weil ich wusste, dass es ihr mehr
 bedeuten würde als jeder Vermerk von Okonkwo, und ich hatte recht.
 
+Sie hat drei Sekunden gebraucht und dann gefragt: „Wörtlich?“
+
+„Wörtlich.“
+
+„Sag es noch mal.“
+
+Ich habe es noch mal gesagt, und sie hat sich hingesetzt und die Hände
+in den Schoß gelegt.
+
+„Ruszczyk hat mich in drei Jahren viermal gegrüßt“, sagte sie. „Ich
+habe im ersten Jahr gedacht, er kann mich nicht leiden.“
+
+„Er kann niemanden leiden.“
+
+„Doch“, sagte Amira. „Er kann Leute leiden, die ihm keine Arbeit
+machen, die nicht nötig ist. Das ist etwas anderes und es ist schwerer
+zu bekommen.“
+
+Sie hat mich angesehen.
+
+„Ich habe im November zweitausendsechsundzwanzig einen Baustopp
+verhängt, der elf Wochen gekostet hat und am Ende umsonst war. Das
+waren seine elf Wochen. Er hat vier Leute vier Wochen umsetzen müssen
+und danach wieder zurück.“
+
+„Er hat sich nie beschwert.“
+
+„Er hat sich damals nicht beschwert, und er sagt heute, ich sei die
+Beste“, sagte sie. „Theo, das ist die einzige Anerkennung in diesem
+ganzen Jahr, die nichts mit einer Akte zu tun hat.“
+
 ---
 
 Am fünfundzwanzigsten November kam die Erwiderung von Kubiak

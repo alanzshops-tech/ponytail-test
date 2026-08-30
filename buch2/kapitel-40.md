@@ -162,3 +162,45 @@ davon angefasst.
 „Und jetzt?“
 
 „Jetzt liegt hier eine Sattlerei auf meinem Küchentisch“, sagte ich.
+
+---
+
+Sie hat die Fotos erst am nächsten Abend eingescannt, und ich habe
+dabei zugesehen, weil ich wissen wollte, wie sie es macht.
+
+Sie hat jedes einzelne auf die Glasplatte gelegt, mit der Bildseite
+nach unten, und danach umgedreht und die Rückseite auch gescannt, auch
+die, auf denen nichts stand.
+
+„Warum die leeren?“
+
+„Weil ich nicht weiß, ob sie leer sind“, sagte Amira. „Bleistift von
+1959 sieht man auf einem Foto manchmal nicht und auf einem Scan schon.“
+
+Auf der Rückseite von Bild elf war tatsächlich etwas, das man mit
+bloßem Auge nicht sah: eine Zahl, sehr blass, *4,20*, und darunter ein
+Wort, das wir beide nicht lesen konnten.
+
+„Was ist das?“
+
+„Ein Preis“, sagte sie. „Oder ein Maß. Ich weiß es nicht, und ich
+schreibe es trotzdem auf, weil in vierzig Jahren vielleicht jemand
+weiß, was das Wort heißt.“
+
+Sie hat es in die Chronik eingetragen, unter Kehrwieder vierzehn, mit
+dem Zusatz *Bedeutung unbekannt.*
+
+Ich habe eine Weile zugesehen.
+
+„Du schreibst auf, was du nicht verstehst.“
+
+„Das ist der wichtigste Teil“, sagte Amira. „Was ich verstehe, kann ich
+jederzeit rekonstruieren. Was ich nicht verstehe, ist weg, sobald ich es
+weglasse.“
+
+Sie hat den Deckel des Scanners zugemacht.
+
+„Deine Mutter hat einhundertzweiundfünfzig Objekte aufgeschrieben und
+bei fünfzehn davon vermerkt, was sie selbst nicht getan hat“, sagte
+sie. „Sie hat nicht dazugeschrieben, warum. Ich habe zwei Monate
+gebraucht, um zu verstehen, dass sie es nicht wusste.“
