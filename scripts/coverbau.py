@@ -277,6 +277,17 @@ def main() -> None:
     p.add_argument("--band", default="BAND 1")
     p.add_argument("--autor", default="DEIN AUTORENNAME")
     p.add_argument("--ordner", default="cover/fertig")
+    # Helligkeit und Saettigung sind Regler auf das Hintergrundbild, keine
+    # Neugestaltung. Band 1 hat die Saettigung am 15.08.2026 von Hand um
+    # Faktor 1,35 hochgezogen, weil sie unter dem Nischenband lag -- das
+    # stand danach nirgends und war beim naechsten Band nicht wiederholbar.
+    # Seit dem 24.08.2026 stehen beide hier, damit der Wert im Aufruf steht
+    # und die Messung darunter zeigt, ob er gereicht hat.
+    p.add_argument("--helligkeit", type=float, default=1.0,
+                   help="Faktor auf die Helligkeit des Hintergrundbildes "
+                        "(1.0 = unveraendert)")
+    p.add_argument("--saettigung", type=float, default=1.0,
+                   help="Faktor auf die Saettigung des Hintergrundbildes")
     args = p.parse_args()
 
     if args.bild:
@@ -287,6 +298,16 @@ def main() -> None:
         quelle = "(Platzhalter)"
     else:
         p.error("entweder --bild oder --platzhalter")
+
+    if args.helligkeit != 1.0 or args.saettigung != 1.0:
+        from PIL import ImageEnhance
+        bild = bild.convert("RGB")
+        if args.helligkeit != 1.0:
+            bild = ImageEnhance.Brightness(bild).enhance(args.helligkeit)
+        if args.saettigung != 1.0:
+            bild = ImageEnhance.Color(bild).enhance(args.saettigung)
+        print(f"Regler: Helligkeit x{args.helligkeit}, "
+              f"Saettigung x{args.saettigung}")
 
     texte = {"reihe": args.reihe, "titel_script": args.titel_script,
              "titel_caps": args.titel_caps, "genre": args.genre,

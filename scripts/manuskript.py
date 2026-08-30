@@ -211,7 +211,14 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     if coverbild and coverbild.exists():
         h.update(coverbild.read_bytes())
     kennung = h.hexdigest()[:12]
-    buch.set_identifier(f"reinhardt-1-{kennung}")
+    # Das Praefix kommt aus dem Buchordner, nicht aus einer festen
+    # Zeichenkette. Bis zum 24.08.2026 stand hier "reinhardt-1-", und
+    # Band 2 trug damit eine Kennung, die ihn als Band 1 auswies. Die
+    # Buecher waren trotzdem unterscheidbar, weil der Hash sich
+    # unterscheidet -- aufgefallen ist es erst, als beide Kennungen
+    # nebeneinander ausgegeben wurden.
+    band = "2" if BUCH.name.endswith("2") else "1"
+    buch.set_identifier(f"reinhardt-{band}-{kennung}")
     buch.set_title(titel)
     buch.set_language("de")
     buch.add_author(autor)
