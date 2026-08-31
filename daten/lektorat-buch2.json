@@ -1,0 +1,452 @@
+[
+  {
+    "kapitel": 1,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich wollte am Dienstag noch in diesem Land sein.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich wollte am Dienstag noch in diesem Land sein.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"ich sein Telefon nicht nahm, sondern meins, und in seiner Kontaktliste\" — Wenn sie ihr eigenes Handy benutzt, wie kann sie dann in seiner Kontaktliste suchen?\nSTARK: \"Das ist keine Hochzeit. Das ist eine Unterschrift mit Musik.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "ich sein Telefon nicht nahm, sondern meins, und in seiner Kontaktliste",
+            "grund": "Wenn sie ihr eigenes Handy benutzt, wie kann sie dann in seiner Kontaktliste suchen?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Das ist keine Hochzeit. Das ist eine Unterschrift mit Musik.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 2,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich habe Theo — nein. Ich habe Jonas am Telefon\" — Warum der Wechsel von Theo zu Jonas?\n\nSTARK: \"Ich habe sie gefragt. Was brauchst du von mir.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich habe Theo — nein. Ich habe Jonas am Telefon",
+            "grund": "nein. Ich habe Jonas am Telefon\" — Warum der Wechsel von Theo zu Jonas?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Ich habe sie gefragt. Was brauchst du von mir.",
+            "grund": null,
+            "belegt": false
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Ich habe Theo — nein. Ich habe Jonas am Telefon gehabt\" — Es reißt mich aus dem Lesefluss, dass der Ich-Erzähler Theo sich in seinen eigenen Gedanken im Namen irrt.\nSTARK: \"Das hier gehört niemandem außer uns.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich habe Theo — nein. Ich habe Jonas am Telefon gehabt",
+            "grund": "nein. Ich habe Jonas am Telefon gehabt\" — Es reißt mich aus dem Lesefluss, dass der Ich-Erzähler Theo sich in seinen eigenen Gedanken im Namen irrt.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Das hier gehört niemandem außer uns.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 3,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Hier bin ich die Wand.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Hier bin ich die Wand.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Frau Sarrazin hat in ihrer Abteilung echte Scheinehen gesehen.\" — Es wird aus dem Nichts eine Frau Sarrazin erwähnt, ohne dass vorher erklärt wurde, wer das überhaupt ist.\nSTARK: \"Wer lügt, bereitet sich vor.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Frau Sarrazin hat in ihrer Abteilung echte Scheinehen gesehen.",
+            "grund": "Es wird aus dem Nichts eine Frau Sarrazin erwähnt, ohne dass vorher erklärt wurde, wer das überhaupt ist.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Wer lügt, bereitet sich vor.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 5,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich trinke ihn seitdem, wie er ihn macht.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich trinke ihn seitdem, wie er ihn macht.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Weil ich die Gutachterin war und er der Bauherr\" — Später heißt es, er sei der Bruder des Auftraggebers, was ein Widerspruch zu seiner Rolle als Bauherr ist.\nSTARK: \"als hätte ihn jemand geschlagen, ohne dass es wehtut\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Weil ich die Gutachterin war und er der Bauherr",
+            "grund": "Später heißt es, er sei der Bruder des Auftraggebers, was ein Widerspruch zu seiner Rolle als Bauherr ist.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "als hätte ihn jemand geschlagen, ohne dass es wehtut",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 12,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Das ist Misstrauen mit Aktenzeichen.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist Misstrauen mit Aktenzeichen.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Das ist Misstrauen mit Aktenzeichen.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist Misstrauen mit Aktenzeichen.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 19,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich habe zweimal *hier hinten links* gesagt, was ich auf“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich habe zweimal *hier hinten links* gesagt, was ich auf",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Zu meinen. Nicht daneben. Dazwischen.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Zu meinen. Nicht daneben. Dazwischen.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 23,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich weiß nicht, ob das reicht. Ich weiß, dass es zählt.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich weiß nicht, ob das reicht. Ich weiß, dass es zählt.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Die freundliche hilft nur uns beiden beim Nachhausefahren.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Die freundliche hilft nur uns beiden beim Nachhausefahren.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 36,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Ich habe seit Montag jeden Abend die Tür aufgemacht\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich habe seit Montag jeden Abend die Tür aufgemacht",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"weil da die Schiene sitzt, wenn sie nachts nicht schläft.\" — Es verwirrt beim ersten Lesen kurz, ob sie die Schiene nur bei Schlaflosigkeit trägt.\nSTARK: \"Man vermisst jemanden nicht in großen Stücken.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "weil da die Schiene sitzt, wenn sie nachts nicht schläft.",
+            "grund": "Es verwirrt beim ersten Lesen kurz, ob sie die Schiene nur bei Schlaflosigkeit trägt.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Man vermisst jemanden nicht in großen Stücken.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 53,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Das ist meiner.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist meiner.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Ich habe gedacht: Das ist meiner.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich habe gedacht: Das ist meiner.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 64,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Er hat gesagt, das gibt es im öffentlichen Dienst nicht\" — Warum gibt es das nicht?\n\nSTARK: \"Ich habe vier Jahre gebraucht, um zu verstehen, dass ich lieber der Zweite bin.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Er hat gesagt, das gibt es im öffentlichen Dienst nicht",
+            "grund": "Warum gibt es das nicht?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Ich habe vier Jahre gebraucht, um zu verstehen, dass ich lieber der Zweite bin.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"weil Nadia gegessen werden wollte\" — Es klingt unfreiwillig komisch, als ob das Baby verspeist werden soll, statt gefüttert zu werden.\nSTARK: \"Ich schreibe zum ersten Mal auf, was du nicht gemacht hast.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "weil Nadia gegessen werden wollte",
+            "grund": "Es klingt unfreiwillig komisch, als ob das Baby verspeist werden soll, statt gefüttert zu werden.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Ich schreibe zum ersten Mal auf, was du nicht gemacht hast.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  }
+]
