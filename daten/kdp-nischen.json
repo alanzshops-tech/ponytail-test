@@ -1,99 +1,10 @@
 [
   {
-    "begriff": "geheimes baby liebesroman",
+    "begriff": "geheime ehe liebesroman",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
-    "davon_gesponsert": 0,
+    "davon_gesponsert": 4,
     "titel": [
-      {
-        "asin": "B0H9X4BLS4",
-        "titel": "Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Becky Snow",
-        "bewertungen": 138,
-        "sterne": 3.9,
-        "bsr": 144,
-        "kategorien": [
-          [
-            1,
-            "Dramatik - Weibliche Autoren"
-          ],
-          [
-            1,
-            "Dramen & Theaterstücke von Frauen"
-          ],
-          [
-            1,
-            "Dramatik - Weibliche Autoren"
-          ],
-          [
-            8,
-            "Liebesroman"
-          ]
-        ],
-        "seiten": 305,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0F671SQP8",
-        "titel": "Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Emily",
-        "bewertungen": 1059,
-        "sterne": 4.5,
-        "bsr": 132,
-        "kategorien": [
-          [
-            1,
-            "Rockstar-Romanze"
-          ],
-          [
-            1,
-            "Rockstar-Romanze"
-          ],
-          [
-            4,
-            "Romantische Sammlungen & Anthologien"
-          ],
-          [
-            4,
-            "Sammlungen & Erzählbände von Romanzen"
-          ]
-        ],
-        "seiten": 312,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0HD133PD7",
-        "titel": "Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "G.R. Oliveira",
-        "bewertungen": 23,
-        "sterne": 3.7,
-        "bsr": 1136,
-        "kategorien": [
-          [
-            5,
-            "Multikulturelle & interkulturelle Romanzen"
-          ],
-          [
-            6,
-            "Multikulturelle & Rassenübergreifende Liebesromane"
-          ],
-          [
-            105,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": null,
-        "hitze": "dazwischen"
-      },
       {
         "asin": "B0H5T8L75H",
         "titel": "Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55)",
@@ -101,62 +12,169 @@
         "kindle_unlimited": true,
         "preis": null,
         "autor": "Lira Rain",
-        "bewertungen": 47,
-        "sterne": 4.4,
-        "bsr": 852,
+        "bewertungen": 81,
+        "sterne": 4.5,
+        "bsr": 1234,
         "kategorien": [
           [
-            3,
+            13,
             "Scheidung"
           ],
           [
-            5,
+            14,
             "Scheidung"
           ],
           [
-            6,
+            15,
             "Scheidung & Trennung"
           ]
         ],
         "seiten": 315,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0HDYH831D",
-        "titel": "Verlassen von meinem Alpha-Ehemann: Ein abgelehnter, vorbestimmter Gefährte – Geheimes Baby und ein flehender Alpha-Wandler – Liebesroman (Die Grausame-Alpha-Serie)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rhea A",
-        "bewertungen": 1,
-        "sterne": 5.0,
-        "bsr": 2402,
-        "kategorien": [
-          [
-            63,
-            "Übersinnliche Liebesromane: Werwölfe & Formwandler"
-          ],
-          [
-            139,
-            "eBooks: Fantasy-Romanze"
-          ],
-          [
-            238,
-            "Fantasy-Liebesromane"
-          ]
-        ],
-        "seiten": 320,
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0H6HLG71H",
-        "titel": "Das geheime Baby der Bratva (Reich der Sünde)",
+        "asin": "B0HC1NNYHV",
+        "titel": "Am Rande der Liebe (Infiltration der High Society 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Sara Adrien",
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B0HC1H2X94",
+        "titel": "Statt Harmonie (Die Diamanten-Dynastie 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Sara Adrien",
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B0H95F3S1W",
+        "titel": "Die geheime Ehe von Ashbury Vale : Eine bisexuelle viktorianische Liebesgeschichte über Verrat und verborgene Gefühle (DIE SKANDAL-CHRONIKEN VON ASHBURY: ... Liebesroman-Saga voller Geheimnisse 3)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 5.78,
+        "autor": "Tamsin",
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": null,
+        "kategorien": [
+          [
+            6362,
+            "Bisexuelle Liebesromane"
+          ],
+          [
+            105075,
+            "Historische Romane"
+          ]
+        ],
+        "seiten": 199,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0C8QHCMR4",
+        "titel": "Dirty Like Zane: Ein geheime Ehe-Rockstar Liebesroman",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Ariana Cooper",
-        "bewertungen": 1,
-        "sterne": 5.0
+        "autor": "Jaine Diamond",
+        "bewertungen": 1196,
+        "sterne": 4.5,
+        "bsr": 5127,
+        "kategorien": [
+          [
+            26,
+            "Rockstar-Romanze"
+          ],
+          [
+            257,
+            "Moderne Belletristik für Frauen"
+          ],
+          [
+            318,
+            "Zeitgenössische Frauenliteratur"
+          ]
+        ],
+        "seiten": 416,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0HGR6HTD4",
+        "titel": "Die Ehe, Die Er Restrukturierte: Ein Milliardär-Liebesroman über eine Ehe in der Krise – von Verrat, Rache in der Scheidung, einem geheimen Kind und einer zweiten Chance, die er fast verspielt hätte",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 5.66,
+        "autor": "Theo Blackridge, Andreas Barth, et al.",
+        "bewertungen": null,
+        "sterne": null,
+        "bsr": 136511,
+        "kategorien": [
+          [
+            2035,
+            "eBooks über Romanzen über Milliardäre & Millionäre"
+          ],
+          [
+            75978,
+            "Liebesromane"
+          ],
+          [
+            78306,
+            "Belletristik"
+          ]
+        ],
+        "seiten": 120,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0G3MMMG8F",
+        "titel": "Erst für immer: Ein christlicher Liebesroman (Hope-Springs-Serie 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Valerie M. Bodden",
+        "bewertungen": 36,
+        "sterne": 3.7
+      },
+      {
+        "asin": "B0FMH2G88Q",
+        "titel": "Stücke der Ewigkeit: Ein christlicher Liebesroman (River Falls 1)",
+        "gesponsert": true,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Valerie M. Bodden",
+        "bewertungen": 49,
+        "sterne": 3.9
+      },
+      {
+        "asin": "B0HGB44LRC",
+        "titel": "Unsere Herzen erinnern sich: Eine Ehe in der Krise, Liebesroman mit geheimem Baby",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Hattie Milson",
+        "bewertungen": 3,
+        "sterne": 4.4,
+        "bsr": 15056,
+        "kategorien": [
+          [
+            101,
+            "Scheidung"
+          ],
+          [
+            118,
+            "Scheidung"
+          ],
+          [
+            155,
+            "Scheidung & Trennung"
+          ]
+        ],
+        "seiten": 367,
+        "hitze": "keine Angabe"
       },
       {
         "asin": "B0H46WNGC6",
@@ -165,988 +183,1231 @@
         "kindle_unlimited": true,
         "preis": null,
         "autor": "Ella Amafa",
-        "bewertungen": 17,
-        "sterne": 4.0
-      },
-      {
-        "asin": "B0D9G5DJX2",
-        "titel": "Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "A. Kross",
-        "bewertungen": 29,
-        "sterne": 4.5
-      },
-      {
-        "asin": "B0FSLQGDZT",
-        "titel": "Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Dalia Dawn",
-        "bewertungen": 78,
+        "bewertungen": 33,
         "sterne": 4.2
-      },
-      {
-        "asin": "B0DHV884NH",
-        "titel": "Whispered Sins: Das geheime Baby vom CEO (Baby Confessions 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rebecca Baker",
-        "bewertungen": 3114,
-        "sterne": 4.4
       }
     ],
     "bsr_werte": [
-      144,
-      132,
-      1136,
-      852,
-      2402
+      1234,
+      5127,
+      136511,
+      15056
     ],
-    "bsr_median": 852,
-    "bsr_bester": 132,
-    "verkaeufe_tag_geschaetzt": 322.94,
-    "bewertungen_median": 47,
-    "preis_median": null,
-    "kindle_unlimited": 10,
+    "bsr_median": 10091,
+    "bsr_bester": 1234,
+    "verkaeufe_tag_geschaetzt": 39.51,
+    "bewertungen_median": 81,
+    "preis_median": 5.72,
+    "kindle_unlimited": 8,
     "seiten_werte": [
-      305,
-      312,
+      120,
+      199,
       315,
-      320
+      367,
+      416
     ],
-    "seiten_median": 313,
+    "seiten_median": 315,
     "hitze": [
-      "dazwischen",
-      "dazwischen",
-      "dazwischen",
-      "dazwischen",
-      "keine Angabe"
-    ],
-    "kategorien": [
-      {
-        "name": "Dramatik - Weibliche Autoren",
-        "titel": 2,
-        "rang_bester": 1
-      },
-      {
-        "name": "Rockstar-Romanze",
-        "titel": 2,
-        "rang_bester": 1
-      },
-      {
-        "name": "Scheidung",
-        "titel": 2,
-        "rang_bester": 3
-      },
-      {
-        "name": "Dramen & Theaterstücke von Frauen",
-        "titel": 1,
-        "rang_bester": 1
-      },
-      {
-        "name": "Romantische Sammlungen & Anthologien",
-        "titel": 1,
-        "rang_bester": 4
-      },
-      {
-        "name": "Sammlungen & Erzählbände von Romanzen",
-        "titel": 1,
-        "rang_bester": 4
-      },
-      {
-        "name": "Multikulturelle & interkulturelle Romanzen",
-        "titel": 1,
-        "rang_bester": 5
-      },
-      {
-        "name": "Multikulturelle & Rassenübergreifende Liebesromane",
-        "titel": 1,
-        "rang_bester": 6
-      },
-      {
-        "name": "Scheidung & Trennung",
-        "titel": 1,
-        "rang_bester": 6
-      },
-      {
-        "name": "Liebesroman",
-        "titel": 1,
-        "rang_bester": 8
-      },
-      {
-        "name": "Übersinnliche Liebesromane: Werwölfe & Formwandler",
-        "titel": 1,
-        "rang_bester": 63
-      },
-      {
-        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
-        "titel": 1,
-        "rang_bester": 105
-      },
-      {
-        "name": "eBooks: Fantasy-Romanze",
-        "titel": 1,
-        "rang_bester": 139
-      },
-      {
-        "name": "Fantasy-Liebesromane",
-        "titel": 1,
-        "rang_bester": 238
-      }
-    ],
-    "im_70_prozent_fenster": 0
-  },
-  {
-    "begriff": "milliardär liebesroman",
-    "markt": "www.amazon.de",
-    "titel_gelesen": 10,
-    "davon_gesponsert": 0,
-    "titel": [
-      {
-        "asin": "B0FRSYBT37",
-        "titel": "Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Ivy Layne",
-        "bewertungen": 806,
-        "sterne": 4.1,
-        "bsr": 1161,
-        "kategorien": [
-          [
-            42,
-            "Action & Abenteuer Liebesromane"
-          ],
-          [
-            51,
-            "Romantisch Action & Abenteuer"
-          ],
-          [
-            67,
-            "eBooks: Fantasy-Romanze"
-          ]
-        ],
-        "seiten": 150,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0HCW28KG7",
-        "titel": "My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "J. S. Kingsley",
-        "bewertungen": 69,
-        "sterne": 4.5,
-        "bsr": 105,
-        "kategorien": [
-          [
-            2,
-            "Fake-Dating-Romantik"
-          ],
-          [
-            2,
-            "Zweite-Chance-Romanze"
-          ],
-          [
-            2,
-            "Fake-Dating-Romantik"
-          ]
-        ],
-        "seiten": 544,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0H5C9LJYP",
-        "titel": "Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Alisha Snow",
-        "bewertungen": 304,
-        "sterne": 4.2,
-        "bsr": 649,
-        "kategorien": [
-          [
-            46,
-            "Moderne Belletristik für Frauen"
-          ],
-          [
-            50,
-            "Zeitgenössische Frauenliteratur"
-          ],
-          [
-            68,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 360,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0HF6GV4B6",
-        "titel": "Die Überraschung des Milliardärs: Ein Secret Baby Hockey Liebesroman (Das Dilemma des Milliardärs 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rosie Storm",
-        "bewertungen": null,
-        "sterne": null,
-        "bsr": 2665,
-        "kategorien": [
-          [
-            86,
-            "Sport Liebesromane"
-          ],
-          [
-            136,
-            "Sportliebesroman"
-          ],
-          [
-            185,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 404,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0H8WXW6C5",
-        "titel": "Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "G.R. Oliveira",
-        "bewertungen": 53,
-        "sterne": 4.1,
-        "bsr": 1492,
-        "kategorien": [
-          [
-            7,
-            "Multikulturelle & Rassenübergreifende Liebesromane"
-          ],
-          [
-            7,
-            "Multikulturelle & interkulturelle Romanzen"
-          ],
-          [
-            125,
-            "eBooks über Romanzen über Milliardäre & Millionäre"
-          ]
-        ],
-        "seiten": 370,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0H7SHQN5J",
-        "titel": "Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Nikki Lawson",
-        "bewertungen": 58,
-        "sterne": 4.2
-      },
-      {
-        "asin": "B0H7QHTGP1",
-        "titel": "Die Vertragsverlobte des Milliardärs: Ein Milliardär-Liebesroman: Vernunftehe, Vom Feind zum Geliebten und eine Zweite Chance (Dark Romance: Dominante ... und Intensive Psychologische Erotik)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "B. F. Elise",
-        "bewertungen": 3,
-        "sterne": 4.0
-      },
-      {
-        "asin": "B0HC8L5HYN",
-        "titel": "Vernachlässigt von meinem Milliardär-Ehemann: Eine Romanzen-Serie um einen Milliardär, eine Ehe in der Krise und eine zweite Chance",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Lira Rain",
-        "bewertungen": 19,
-        "sterne": 4.1
-      },
-      {
-        "asin": "B0FXBYX37M",
-        "titel": "Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rosa Lucas",
-        "bewertungen": 1715,
-        "sterne": 4.5
-      },
-      {
-        "asin": "B0DVCGHL4P",
-        "titel": "Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rosa Lucas",
-        "bewertungen": 2771,
-        "sterne": 4.5
-      }
-    ],
-    "bsr_werte": [
-      1161,
-      105,
-      649,
-      2665,
-      1492
-    ],
-    "bsr_median": 1161,
-    "bsr_bester": 105,
-    "verkaeufe_tag_geschaetzt": 248.25,
-    "bewertungen_median": 186,
-    "preis_median": null,
-    "kindle_unlimited": 10,
-    "seiten_werte": [
-      150,
-      360,
-      370,
-      404,
-      544
-    ],
-    "seiten_median": 370,
-    "hitze": [
-      "dazwischen",
-      "dazwischen",
-      "dazwischen",
+      "keine Angabe",
+      "keine Angabe",
+      "keine Angabe",
       "keine Angabe",
       "keine Angabe"
     ],
     "kategorien": [
       {
-        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
-        "titel": 3,
-        "rang_bester": 68
+        "name": "Scheidung",
+        "titel": 4,
+        "rang_bester": 13
       },
       {
-        "name": "Fake-Dating-Romantik",
+        "name": "Scheidung & Trennung",
         "titel": 2,
-        "rang_bester": 2
+        "rang_bester": 15
       },
       {
-        "name": "Zweite-Chance-Romanze",
+        "name": "Rockstar-Romanze",
         "titel": 1,
-        "rang_bester": 2
-      },
-      {
-        "name": "Multikulturelle & Rassenübergreifende Liebesromane",
-        "titel": 1,
-        "rang_bester": 7
-      },
-      {
-        "name": "Multikulturelle & interkulturelle Romanzen",
-        "titel": 1,
-        "rang_bester": 7
-      },
-      {
-        "name": "Action & Abenteuer Liebesromane",
-        "titel": 1,
-        "rang_bester": 42
+        "rang_bester": 26
       },
       {
         "name": "Moderne Belletristik für Frauen",
         "titel": 1,
-        "rang_bester": 46
+        "rang_bester": 257
       },
       {
         "name": "Zeitgenössische Frauenliteratur",
         "titel": 1,
-        "rang_bester": 50
+        "rang_bester": 318
       },
       {
-        "name": "Romantisch Action & Abenteuer",
+        "name": "eBooks über Romanzen über Milliardäre & Millionäre",
         "titel": 1,
-        "rang_bester": 51
+        "rang_bester": 2035
       },
       {
-        "name": "eBooks: Fantasy-Romanze",
+        "name": "Bisexuelle Liebesromane",
         "titel": 1,
-        "rang_bester": 67
+        "rang_bester": 6362
       },
       {
-        "name": "Sport Liebesromane",
+        "name": "Liebesromane",
         "titel": 1,
-        "rang_bester": 86
+        "rang_bester": 75978
       },
       {
-        "name": "Sportliebesroman",
+        "name": "Belletristik",
         "titel": 1,
-        "rang_bester": 136
+        "rang_bester": 78306
+      },
+      {
+        "name": "Historische Romane",
+        "titel": 1,
+        "rang_bester": 105075
       }
     ],
-    "im_70_prozent_fenster": 0
+    "im_70_prozent_fenster": 2
   },
   {
-    "begriff": "zweite chance liebesroman",
+    "begriff": "scheinehe roman",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
     "davon_gesponsert": 0,
     "titel": [
       {
-        "asin": "B0H93P1LWL",
-        "titel": "Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2)",
+        "asin": "B0FPXSSHSN",
+        "titel": "Glücksharfe: Lesbische Piratinnen #4: Lucky Harp (German Edition)",
         "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 5.78,
-        "autor": "Raven",
-        "bewertungen": 1,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Marina Tempest",
+        "bewertungen": 2,
         "sterne": 5.0,
-        "bsr": 114890,
+        "bsr": null,
         "kategorien": [
           [
-            837,
-            "Zweite-Chance-Romanze"
+            4,
+            "eBooks Bisexuelle Romantik"
           ],
           [
-            65640,
-            "Liebesromane"
+            10,
+            "Romantische Romane für Lesben"
           ],
           [
-            69912,
-            "Belletristik"
-          ]
-        ],
-        "seiten": 291,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0HCLDL167",
-        "titel": "Die andere Frau Drama Zweite-Chance-Liebesroman",
-        "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 4.62,
-        "autor": "Raven",
-        "bewertungen": null,
-        "sterne": null,
-        "bsr": 95850,
-        "kategorien": [
-          [
-            668,
-            "eBooks Später im Leben Romantik"
-          ],
-          [
-            1011,
-            "Liebesromane – Spätere Lebensphase"
-          ],
-          [
-            3179,
+            27,
             "Action & Abenteuer Liebesromane"
           ]
         ],
-        "seiten": 199,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0H8XQYLWX",
-        "titel": "Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1)",
-        "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 4.62,
-        "autor": "Raven",
-        "bewertungen": null,
-        "sterne": null,
-        "bsr": 276530,
-        "kategorien": [
-          [
-            1258,
-            "Zweite-Chance-Romanze"
-          ],
-          [
-            134229,
-            "Belletristik"
-          ],
-          [
-            145070,
-            "Liebesromane"
-          ]
-        ],
-        "seiten": 126,
+        "seiten": 75,
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0H69VPG23",
-        "titel": "The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2)",
+        "asin": "B0F6G8J7YF",
+        "titel": "Meine fast perfekte Scheinehe: ein Schottland-roman (Chaos in den Highlands)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Lily Parker",
-        "bewertungen": 124,
-        "sterne": 4.3,
-        "bsr": 452,
+        "autor": "Estelle Every",
+        "bewertungen": 257,
+        "sterne": 4.5,
+        "bsr": 19277,
         "kategorien": [
           [
-            12,
-            "Zweite-Chance-Romanze"
-          ],
-          [
-            32,
-            "Liebesromane für Junge Erwachsene"
-          ],
-          [
-            49,
-            "New Adult"
-          ]
-        ],
-        "seiten": 381,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0H9SP5R4D",
-        "titel": "Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Ava",
-        "bewertungen": 54,
-        "sterne": 3.4,
-        "bsr": 193,
-        "kategorien": [
-          [
-            9,
-            "Liebesromane für Junge Erwachsene"
-          ],
-          [
-            12,
+            904,
             "Liebesroman"
           ],
           [
-            13,
+            993,
             "Liebesromane – Leichte Kost"
+          ],
+          [
+            1235,
+            "Romantische Komödien"
           ]
         ],
-        "seiten": 651,
+        "seiten": 428,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0HGFRRMTW",
+        "titel": "Die Scheinehe des verschlossenen Duke (Die Pakte der dunklen Dukes 9)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "E. M.",
+        "bewertungen": 1,
+        "sterne": 4.0,
+        "bsr": 6374,
+        "kategorien": [
+          [
+            5,
+            "eBooks Renaissance Historische Romantik"
+          ],
+          [
+            8,
+            "Historische Liebesromane – Renaissance"
+          ],
+          [
+            88,
+            "Viktorianische Historische Romanzen"
+          ]
+        ],
+        "seiten": 223,
         "hitze": "dazwischen"
       },
       {
-        "asin": "B0H1H8JVWW",
-        "titel": "Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen",
+        "asin": "B0CBCSS7K9",
+        "titel": "Mein Alien-Orca: Ein Scheinehe-Roman (Alien-Entführer 8)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Nora Sommerfeld",
-        "bewertungen": 9,
-        "sterne": 3.1
+        "autor": "Calista Skye",
+        "bewertungen": 306,
+        "sterne": 4.6,
+        "bsr": 61197,
+        "kategorien": [
+          [
+            105,
+            "Zeitreisen"
+          ],
+          [
+            304,
+            "Zeitreisen-Fiktion"
+          ],
+          [
+            518,
+            "Romantische Science Fiction"
+          ]
+        ],
+        "seiten": 352,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B0GQP36T3H",
-        "titel": "Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5)",
+        "asin": "B0DC8RV49H",
+        "titel": "Die Scheinehe von Bladys: Historischer Roman",
         "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Rose Pearson",
-        "bewertungen": 6,
-        "sterne": 3.8
+        "kindle_unlimited": false,
+        "preis": 3.47,
+        "autor": "Sabine Baring-Gould",
+        "bewertungen": 22,
+        "sterne": 2.9,
+        "bsr": null,
+        "kategorien": [],
+        "seiten": 299,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B0871NQ5Z1",
-        "titel": "Die zweite Chance: Ein Liebesroman",
+        "asin": "B091G1Z8KJ",
+        "titel": "Accidental Baby: Ein Scheinehen-Roman von (Fake Marriage (German Translation) 2)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Lexa Roth",
-        "bewertungen": 202,
+        "autor": "Ajme Williams",
+        "bewertungen": 396,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B0HC58SYN9",
+        "titel": "Die Scheinehe des Cowboys",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Alexa Verde",
+        "bewertungen": null,
+        "sterne": null
+      },
+      {
+        "asin": "B07T3G9VPL",
+        "titel": "Lore-Roman 57: Die Scheinehe des Grafen",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Erika Sommer",
+        "bewertungen": 13,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B08XKDLCWM",
+        "titel": "Accidental Love: Ein Scheinehen-Roman von (Fake Marriage (German Translation) 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Ajme Williams",
+        "bewertungen": 743,
         "sterne": 4.3
       },
       {
-        "asin": "B0HCJ9BRM4",
-        "titel": "Die Frau, die alles niederbrannte: Ein Verrat – Geheimes Baby – Zweite Chance – Flehender Liebesroman (Herzgebrochene Schatten-Ehefrauen)",
+        "asin": "B0GX38HL64",
+        "titel": "Die Scheinehe des königlichen Wolfs (Königliche Gestaltwandler des Nordreichs)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Asher",
-        "bewertungen": 25,
-        "sterne": 3.9
-      },
-      {
-        "asin": "B09NMQWY96",
-        "titel": "The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "J.D. Summer",
-        "bewertungen": 1777,
-        "sterne": 4.5
+        "autor": "Lisa",
+        "bewertungen": 3,
+        "sterne": 3.5
       }
     ],
     "bsr_werte": [
-      114890,
-      95850,
-      276530,
-      452,
-      193
+      19277,
+      6374,
+      61197
     ],
-    "bsr_median": 95850,
-    "bsr_bester": 193,
-    "verkaeufe_tag_geschaetzt": 5.83,
-    "bewertungen_median": 54,
-    "preis_median": 4.62,
-    "kindle_unlimited": 7,
+    "bsr_median": 19277,
+    "bsr_bester": 6374,
+    "verkaeufe_tag_geschaetzt": 22.79,
+    "bewertungen_median": 22,
+    "preis_median": 3.47,
+    "kindle_unlimited": 9,
     "seiten_werte": [
-      126,
-      199,
-      291,
-      381,
-      651
+      75,
+      223,
+      299,
+      352,
+      428
     ],
-    "seiten_median": 291,
+    "seiten_median": 299,
     "hitze": [
+      "keine Angabe",
       "keine Angabe",
       "dazwischen",
       "keine Angabe",
-      "keine Angabe",
-      "dazwischen"
+      "keine Angabe"
     ],
     "kategorien": [
       {
-        "name": "Zweite-Chance-Romanze",
-        "titel": 3,
-        "rang_bester": 12
-      },
-      {
-        "name": "Liebesromane für Junge Erwachsene",
-        "titel": 2,
-        "rang_bester": 9
-      },
-      {
-        "name": "Liebesromane",
-        "titel": 2,
-        "rang_bester": 65640
-      },
-      {
-        "name": "Belletristik",
-        "titel": 2,
-        "rang_bester": 69912
-      },
-      {
-        "name": "Liebesroman",
+        "name": "eBooks Bisexuelle Romantik",
         "titel": 1,
-        "rang_bester": 12
+        "rang_bester": 4
       },
       {
-        "name": "Liebesromane – Leichte Kost",
+        "name": "eBooks Renaissance Historische Romantik",
         "titel": 1,
-        "rang_bester": 13
+        "rang_bester": 5
       },
       {
-        "name": "New Adult",
+        "name": "Historische Liebesromane – Renaissance",
         "titel": 1,
-        "rang_bester": 49
+        "rang_bester": 8
       },
       {
-        "name": "eBooks Später im Leben Romantik",
+        "name": "Romantische Romane für Lesben",
         "titel": 1,
-        "rang_bester": 668
-      },
-      {
-        "name": "Liebesromane – Spätere Lebensphase",
-        "titel": 1,
-        "rang_bester": 1011
+        "rang_bester": 10
       },
       {
         "name": "Action & Abenteuer Liebesromane",
         "titel": 1,
-        "rang_bester": 3179
+        "rang_bester": 27
+      },
+      {
+        "name": "Viktorianische Historische Romanzen",
+        "titel": 1,
+        "rang_bester": 88
+      },
+      {
+        "name": "Zeitreisen",
+        "titel": 1,
+        "rang_bester": 105
+      },
+      {
+        "name": "Zeitreisen-Fiktion",
+        "titel": 1,
+        "rang_bester": 304
+      },
+      {
+        "name": "Romantische Science Fiction",
+        "titel": 1,
+        "rang_bester": 518
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 1,
+        "rang_bester": 904
+      },
+      {
+        "name": "Liebesromane – Leichte Kost",
+        "titel": 1,
+        "rang_bester": 993
+      },
+      {
+        "name": "Romantische Komödien",
+        "titel": 1,
+        "rang_bester": 1235
       }
     ],
-    "im_70_prozent_fenster": 3
+    "im_70_prozent_fenster": 1
   },
   {
-    "begriff": "liebesroman",
+    "begriff": "ehe roman deutsch",
     "markt": "www.amazon.de",
     "titel_gelesen": 10,
     "davon_gesponsert": 0,
     "titel": [
       {
-        "asin": "B0FXSXKW2V",
-        "titel": "Du musst mich vergessen: Roman - Die spannendste Lovestory des Jahres – Nr.1-SPIEGEL-Bestsellerautorin Rosie Walsh ist zurück!",
-        "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 17.35,
-        "autor": "Rosie Walsh",
-        "bewertungen": 1832,
-        "sterne": 4.3,
-        "bsr": 268,
-        "kategorien": [
-          [
-            17,
-            "Frauenliteratur"
-          ],
-          [
-            62,
-            "Belletristik für Frauen"
-          ],
-          [
-            111,
-            "eBooks mit Audible Hörbuch"
-          ]
-        ],
-        "seiten": 497,
-        "hitze": "dazwischen"
-      },
-      {
-        "asin": "B0BMGHC1GB",
-        "titel": "Fünf Sommer mit dir: Roman - Der internationale Bestseller und Romanvorlage zur großen Verfilmung EVERY YEAR AFTER - jetzt auf Amazon Prime! (Die Barry’s-Bay-Reihe 1)",
-        "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 13.88,
-        "autor": "Carley Fortune",
-        "bewertungen": 8020,
-        "sterne": 4.4,
-        "bsr": 380,
-        "kategorien": [
-          [
-            76,
-            "Liebesromane"
-          ],
-          [
-            150,
-            "eBooks mit Audible Hörbuch"
-          ],
-          [
-            199,
-            "Liebesromane"
-          ]
-        ],
-        "seiten": 417,
-        "hitze": "explizit"
-      },
-      {
-        "asin": "B0CMCDHRVF",
-        "titel": "This could be love: Roman | Start der neuen New-Adult-Reihe und Nr.-1-Spiegel-Bestseller von Lilly Lucas (Hawaii Love)",
+        "asin": "B0GZD69PX5",
+        "titel": "Fake Ehe, Echter Schotte: Ein humorvoller Liebesroman in den Highlands (Ein Herz für Highlander)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Lilly Lucas",
-        "bewertungen": 3068,
-        "sterne": 4.6,
-        "bsr": 5,
-        "kategorien": [
-          [
-            1,
-            "New Adult"
-          ],
-          [
-            1,
-            "Liebesroman"
-          ],
-          [
-            1,
-            "Liebesromane für Junge Erwachsene"
-          ],
-          [
-            1,
-            "New Adult"
-          ]
-        ],
-        "seiten": 364,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B074P5TWCX",
-        "titel": "Nur noch ein einziges Mal: Roman | Die deutsche Ausgabe des Bestsellers ›It Ends With Us‹ (Lily, Ryle und Atlas-Reihe 1)",
-        "gesponsert": false,
-        "kindle_unlimited": false,
-        "preis": 12.72,
-        "autor": "Colleen Hoover",
-        "bewertungen": 17362,
-        "sterne": 4.6,
-        "bsr": 2860,
-        "kategorien": [
-          [
-            14,
-            "Amerikanische Literatur"
-          ],
-          [
-            43,
-            "Mythen & Legenden für junge Erwachsene"
-          ],
-          [
-            54,
-            "Partnerschaft & Beziehungen"
-          ]
-        ],
-        "seiten": 412,
-        "hitze": "keine Angabe"
-      },
-      {
-        "asin": "B0F5WTYZC8",
-        "titel": "Suche Traummann, biete Nachbarn (Traummänner 1)",
-        "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "Svenja Lassen",
-        "bewertungen": 12904,
+        "autor": "Rieke Fenning",
+        "bewertungen": 22,
         "sterne": 4.4,
-        "bsr": 897,
+        "bsr": 9625,
         "kategorien": [
           [
-            43,
-            "Ferienliebesromane"
-          ],
-          [
-            65,
+            399,
             "Urlaubsromanzen"
           ],
           [
-            65,
-            "Romantische Komödie"
+            433,
+            "Ferienliebesromane"
+          ],
+          [
+            472,
+            "Liebesroman"
           ]
         ],
-        "seiten": 271,
+        "seiten": 217,
         "hitze": "keine Angabe"
       },
       {
-        "asin": "B0GKVQY8VT",
-        "titel": "Ein Sommermeerchen : Ein sommerlicher Liebesroman auf Sylt, Enemies to Lovers. Von der Autorin der Café mit Sylt und Zucker Reihe (Sommermärchen mit Meergefühl)",
+        "asin": "B0GX32YTPX",
+        "titel": "Seine zweite Ehe: Ein packender und süchtig machender Psychothriller",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Michelle Schrenk",
-        "bewertungen": 675,
-        "sterne": 4.4
+        "autor": "Jess Ryder",
+        "bewertungen": 99,
+        "sterne": 4.2,
+        "bsr": 312,
+        "kategorien": [
+          [
+            10,
+            "Action - Thriller & Spannung"
+          ],
+          [
+            21,
+            "Mystery, Thriller & Spannende Action Belletristik"
+          ],
+          [
+            40,
+            "Suspense"
+          ]
+        ],
+        "seiten": 400,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B0H49WVBZK",
-        "titel": "Meersalz, Zimt und Küstenglück: Ein Ostsee-Liebesroman über einen Neuanfang am Meer (Verliebt in Glückshaven 1)",
+        "asin": "B0GX2ZD1X6",
+        "titel": "Verliebt in Doc Perfect: Ein Fake Ehe Liebesroman (Doctors & Deals 3)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Lina Martens",
-        "bewertungen": 1267,
-        "sterne": 4.4
+        "autor": "Eva Herzsprung",
+        "bewertungen": 166,
+        "sterne": 4.5,
+        "bsr": 1567,
+        "kategorien": [
+          [
+            1,
+            "Ehevertrag"
+          ],
+          [
+            9,
+            "eBooks medizinische Romantik"
+          ],
+          [
+            13,
+            "Medizin-Liebesromane"
+          ]
+        ],
+        "seiten": 305,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B08YRLYQ76",
-        "titel": "Vielleicht war es Liebe: Eine Liebesgeschichte (Vielleicht ... Liebesroman Reihe 1)",
+        "asin": "B0G66Y7ZX7",
+        "titel": "Fremde: Die Geschichte einer Ehe - Der gefeierte #1-New York Times-Bestseller",
         "gesponsert": false,
-        "kindle_unlimited": true,
-        "preis": null,
-        "autor": "A.D. WiLK",
-        "bewertungen": 5932,
-        "sterne": 4.3
+        "kindle_unlimited": false,
+        "preis": 24.32,
+        "autor": "Belle Burden und Charlotte Breuer",
+        "bewertungen": 97,
+        "sterne": 4.1,
+        "bsr": 425,
+        "kategorien": [
+          [
+            147,
+            "Unterhaltungsliteratur"
+          ],
+          [
+            169,
+            "eBooks mit Audible Hörbuch"
+          ],
+          [
+            418,
+            "Belletristik"
+          ]
+        ],
+        "seiten": 305,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B09Q97S2XD",
-        "titel": "BERÜHRT bis du mich LIEBST (… bis du mich LIEBST 1)",
+        "asin": "B0H8FKD3BK",
+        "titel": "Gebunden durch Verrat: Eine Feinde-zu-Liebenden Mafia-Romanze (Das Severato Syndikat 2)",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "D.C.",
-        "bewertungen": 5156,
-        "sterne": 4.5
+        "autor": "Eliana Ezra",
+        "bewertungen": 34,
+        "sterne": 4.0,
+        "bsr": 4101,
+        "kategorien": [
+          [
+            181,
+            "Action & Abenteuer Liebesromane"
+          ],
+          [
+            188,
+            "Dark Romance"
+          ],
+          [
+            208,
+            "Romantisch Action & Abenteuer"
+          ]
+        ],
+        "seiten": 366,
+        "hitze": "keine Angabe"
       },
       {
-        "asin": "B0H2RMDFTP",
-        "titel": "Eine Woche in der Villa Belmonte: Eine unwiderstehliche Sommerromance unter italienischer Sonne",
+        "asin": "B0H8Z5K134",
+        "titel": "Unser perfektes Zuhause | Der spannende Domestic Thriller über eine toxische Ehe",
         "gesponsert": false,
         "kindle_unlimited": true,
         "preis": null,
-        "autor": "Julia Sommer",
-        "bewertungen": 645,
-        "sterne": 4.3
+        "autor": "Helen Matthews",
+        "bewertungen": 1,
+        "sterne": 4.0
+      },
+      {
+        "asin": "B0H1MYP4CC",
+        "titel": "Vernachlässigt von ihrem Milliardär-Ehemann (Ihre Ehe in der Krise 110)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Lira Rain",
+        "bewertungen": 117,
+        "sterne": 4.2
+      },
+      {
+        "asin": "B0GX2Z2V4H",
+        "titel": "Verheiratet mit dem skrupellosen Mafia-Erben: Eine Altersunterschied-Geheimbaby-Jungfrau-Heldin-arrangierte Ehe-Mafia-Romanze (Schwüre des Mafia-Auftrags)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "A. J.",
+        "bewertungen": 14,
+        "sterne": 3.8
+      },
+      {
+        "asin": "B0H6VHLT3Z",
+        "titel": "Offene Ehe: Hotwife wider Willen — Ein expliziter Erotik-Roman über eine offene Ehe, einen Mann, der zusehen will, und eine Frau, deren Hunger größer ist als seine Fantasie | Spicy Hotwife Romance",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Jule Sommer",
+        "bewertungen": 5,
+        "sterne": 3.6
+      },
+      {
+        "asin": "B09WQNNJ7C",
+        "titel": "Gefängnis einer Ehe: Nervenaufreibender Thriller über Lügen und Obsession",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Sophie Edenberg",
+        "bewertungen": 7488,
+        "sterne": 4.1
       }
     ],
     "bsr_werte": [
-      268,
-      380,
-      5,
-      2860,
-      897
+      9625,
+      312,
+      1567,
+      425,
+      4101
     ],
-    "bsr_median": 380,
-    "bsr_bester": 5,
-    "verkaeufe_tag_geschaetzt": 641.48,
-    "bewertungen_median": 8020,
-    "preis_median": 13.88,
-    "kindle_unlimited": 7,
+    "bsr_median": 1567,
+    "bsr_bester": 312,
+    "verkaeufe_tag_geschaetzt": 192.39,
+    "bewertungen_median": 97,
+    "preis_median": 24.32,
+    "kindle_unlimited": 9,
     "seiten_werte": [
-      271,
-      364,
-      412,
-      417,
-      497
+      217,
+      305,
+      305,
+      366,
+      400
     ],
-    "seiten_median": 412,
+    "seiten_median": 305,
     "hitze": [
-      "dazwischen",
-      "explizit",
+      "keine Angabe",
+      "keine Angabe",
       "keine Angabe",
       "keine Angabe",
       "keine Angabe"
     ],
     "kategorien": [
       {
-        "name": "New Adult",
-        "titel": 2,
+        "name": "Ehevertrag",
+        "titel": 1,
         "rang_bester": 1
       },
       {
-        "name": "Liebesromane",
-        "titel": 2,
-        "rang_bester": 76
+        "name": "eBooks medizinische Romantik",
+        "titel": 1,
+        "rang_bester": 9
+      },
+      {
+        "name": "Action - Thriller & Spannung",
+        "titel": 1,
+        "rang_bester": 10
+      },
+      {
+        "name": "Medizin-Liebesromane",
+        "titel": 1,
+        "rang_bester": 13
+      },
+      {
+        "name": "Mystery, Thriller & Spannende Action Belletristik",
+        "titel": 1,
+        "rang_bester": 21
+      },
+      {
+        "name": "Suspense",
+        "titel": 1,
+        "rang_bester": 40
+      },
+      {
+        "name": "Unterhaltungsliteratur",
+        "titel": 1,
+        "rang_bester": 147
       },
       {
         "name": "eBooks mit Audible Hörbuch",
-        "titel": 2,
-        "rang_bester": 111
+        "titel": 1,
+        "rang_bester": 169
       },
       {
-        "name": "Liebesroman",
+        "name": "Action & Abenteuer Liebesromane",
         "titel": 1,
-        "rang_bester": 1
+        "rang_bester": 181
       },
       {
-        "name": "Liebesromane für Junge Erwachsene",
+        "name": "Dark Romance",
         "titel": 1,
-        "rang_bester": 1
+        "rang_bester": 188
       },
       {
-        "name": "Amerikanische Literatur",
+        "name": "Romantisch Action & Abenteuer",
         "titel": 1,
-        "rang_bester": 14
-      },
-      {
-        "name": "Frauenliteratur",
-        "titel": 1,
-        "rang_bester": 17
-      },
-      {
-        "name": "Mythen & Legenden für junge Erwachsene",
-        "titel": 1,
-        "rang_bester": 43
-      },
-      {
-        "name": "Ferienliebesromane",
-        "titel": 1,
-        "rang_bester": 43
-      },
-      {
-        "name": "Partnerschaft & Beziehungen",
-        "titel": 1,
-        "rang_bester": 54
-      },
-      {
-        "name": "Belletristik für Frauen",
-        "titel": 1,
-        "rang_bester": 62
+        "rang_bester": 208
       },
       {
         "name": "Urlaubsromanzen",
         "titel": 1,
-        "rang_bester": 65
+        "rang_bester": 399
       },
       {
-        "name": "Romantische Komödie",
+        "name": "Belletristik",
         "titel": 1,
-        "rang_bester": 65
+        "rang_bester": 418
+      },
+      {
+        "name": "Ferienliebesromane",
+        "titel": 1,
+        "rang_bester": 433
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 1,
+        "rang_bester": 472
+      }
+    ],
+    "im_70_prozent_fenster": 0
+  },
+  {
+    "begriff": "familiengeheimnis liebesroman",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B0F9P1LPWG",
+        "titel": "Das Geheimnis von Schottland | Ein dramatischer Familiengeheimnis Liebesroman",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 5.78,
+        "autor": "Ines Vitouladitis",
+        "bewertungen": 17,
+        "sterne": 3.9,
+        "bsr": 64123,
+        "kategorien": [
+          [
+            933,
+            "Sage Belletristik"
+          ],
+          [
+            1716,
+            "Übernatürliche Liebesromane"
+          ],
+          [
+            1937,
+            "Familiensaga"
+          ]
+        ],
+        "seiten": 266,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0H8JQHYFM",
+        "titel": "Solange wir uns widerstehen: Ein berührender Liebesroman über alte Wunden, unerwartete Nähe und den Mut, zu bleiben (Herzen von Lindenbach 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Karla Linden",
+        "bewertungen": 60,
+        "sterne": 4.0,
+        "bsr": 4081,
+        "kategorien": [
+          [
+            145,
+            "Zweite-Chance-Romanze"
+          ],
+          [
+            212,
+            "Liebesroman"
+          ],
+          [
+            224,
+            "Liebesromane für Junge Erwachsene"
+          ]
+        ],
+        "seiten": 460,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0H3KHYP3S",
+        "titel": "Sanddorn, Karamell und Küstenglück: Ein Ostsee-Liebesroman über ein altes Familiengeheimnis und die große Liebe (Verliebt in Glückshaven 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Lina Martens",
+        "bewertungen": 591,
+        "sterne": 4.4,
+        "bsr": 99,
+        "kategorien": [
+          [
+            1,
+            "Partnersuche & Partnerwahl"
+          ],
+          [
+            1,
+            "Partnersuche & Partnerwahl"
+          ],
+          [
+            7,
+            "Ferienliebesromane"
+          ],
+          [
+            7,
+            "Urlaubsromanzen"
+          ]
+        ],
+        "seiten": 330,
+        "hitze": "dazwischen"
+      },
+      {
+        "asin": "B0HDKLCM69",
+        "titel": "Das Kindermädchen des sizilianischen Mafioso: Ein Roman über eine verbotene Nanny, ein Familiengeheimnis und einen gefährlichen Beschützer (Mafia-Dynastien, Buch 7)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Lívia Moraes",
+        "bewertungen": 6,
+        "sterne": 4.3,
+        "bsr": 2989,
+        "kategorien": [
+          [
+            173,
+            "Liebesroman"
+          ],
+          [
+            178,
+            "eBooks: romantische Thriller"
+          ],
+          [
+            197,
+            "Liebesromane – Leichte Kost"
+          ]
+        ],
+        "seiten": 306,
+        "hitze": "geschlossen"
+      },
+      {
+        "asin": "B0GTMQFS3Z",
+        "titel": "Das irische Familiengeheimnis: Ein wunderschöner und bewegender Irland-Roman (Emerald Isles)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Daisy O'Shea",
+        "bewertungen": 1059,
+        "sterne": 4.3,
+        "bsr": 879,
+        "kategorien": [
+          [
+            36,
+            "Humoristische Belletristik für Frauen"
+          ],
+          [
+            59,
+            "Moderne Belletristik für Frauen"
+          ],
+          [
+            62,
+            "Zeitgenössische Frauenliteratur"
+          ]
+        ],
+        "seiten": 358,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0BS1T4YSF",
+        "titel": "Familien-Geheimnisse (Die Hexen von Hollow Cove 6)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Kim Richardson",
+        "bewertungen": 1565,
+        "sterne": 4.6
+      },
+      {
+        "asin": "B0HF5JP3C3",
+        "titel": "Die Witwe des französischen Mafioso: Ein Roman über Zweckehe, aufgeschobene Rache und Familiengeheimnis (Mafia-Dynastien, Buch 8)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Lívia Moraes",
+        "bewertungen": 2,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0HBKBCFV4",
+        "titel": "Das Eebe Des Milliardärs : Ein bewegender Liebesroman über Familiengeheimnisse, verlorenes Vertrauen und die Kraft der Wahren liebe (Die König-Brandt-Saga 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Nitesh Khanna",
+        "bewertungen": 2,
+        "sterne": 5.0
+      },
+      {
+        "asin": "B0H9VDGLPC",
+        "titel": "Das Geheimnis seiner Liebe Band II: Ein bewegender Nordsee-Liebesroman über ein Familiengeheimnis, zweite Chancen und einen Neuanfang am Meer (Küstenherzen 2)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Leni Lund",
+        "bewertungen": 16,
+        "sterne": 4.0
+      },
+      {
+        "asin": "B0841X5PZ9",
+        "titel": "Blüten der Hoffnung (Große Gefühle auf der Sonneninsel)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Rosie M. Clark",
+        "bewertungen": 9696,
+        "sterne": 4.4
+      }
+    ],
+    "bsr_werte": [
+      64123,
+      4081,
+      99,
+      2989,
+      879
+    ],
+    "bsr_median": 2989,
+    "bsr_bester": 99,
+    "verkaeufe_tag_geschaetzt": 111.12,
+    "bewertungen_median": 60,
+    "preis_median": 5.78,
+    "kindle_unlimited": 9,
+    "seiten_werte": [
+      266,
+      306,
+      330,
+      358,
+      460
+    ],
+    "seiten_median": 330,
+    "hitze": [
+      "keine Angabe",
+      "keine Angabe",
+      "dazwischen",
+      "geschlossen",
+      "keine Angabe"
+    ],
+    "kategorien": [
+      {
+        "name": "Partnersuche & Partnerwahl",
+        "titel": 2,
+        "rang_bester": 1
+      },
+      {
+        "name": "Liebesroman",
+        "titel": 2,
+        "rang_bester": 173
+      },
+      {
+        "name": "Ferienliebesromane",
+        "titel": 1,
+        "rang_bester": 7
+      },
+      {
+        "name": "Urlaubsromanzen",
+        "titel": 1,
+        "rang_bester": 7
+      },
+      {
+        "name": "Humoristische Belletristik für Frauen",
+        "titel": 1,
+        "rang_bester": 36
+      },
+      {
+        "name": "Moderne Belletristik für Frauen",
+        "titel": 1,
+        "rang_bester": 59
+      },
+      {
+        "name": "Zeitgenössische Frauenliteratur",
+        "titel": 1,
+        "rang_bester": 62
+      },
+      {
+        "name": "Zweite-Chance-Romanze",
+        "titel": 1,
+        "rang_bester": 145
+      },
+      {
+        "name": "eBooks: romantische Thriller",
+        "titel": 1,
+        "rang_bester": 178
+      },
+      {
+        "name": "Liebesromane – Leichte Kost",
+        "titel": 1,
+        "rang_bester": 197
+      },
+      {
+        "name": "Liebesromane für Junge Erwachsene",
+        "titel": 1,
+        "rang_bester": 224
+      },
+      {
+        "name": "Sage Belletristik",
+        "titel": 1,
+        "rang_bester": 933
+      },
+      {
+        "name": "Übernatürliche Liebesromane",
+        "titel": 1,
+        "rang_bester": 1716
+      },
+      {
+        "name": "Familiensaga",
+        "titel": 1,
+        "rang_bester": 1937
+      }
+    ],
+    "im_70_prozent_fenster": 1
+  },
+  {
+    "begriff": "slow burn liebesroman deutsch",
+    "markt": "www.amazon.de",
+    "titel_gelesen": 10,
+    "davon_gesponsert": 0,
+    "titel": [
+      {
+        "asin": "B01L2KV6XQ",
+        "titel": "Slow Burn - Dunkle Hingabe (Slow-Burn-Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 11.58,
+        "autor": "Maya Banks",
+        "bewertungen": 231,
+        "sterne": 4.2,
+        "bsr": null,
+        "kategorien": [
+          [
+            1377,
+            "Erotikkalender"
+          ],
+          [
+            4336,
+            "Erotikromane & Erotikerzählungen"
+          ],
+          [
+            7209,
+            "Erotikromane & -erzählungen"
+          ]
+        ],
+        "seiten": 322,
+        "hitze": "explizit"
+      },
+      {
+        "asin": "B0HDL337KN",
+        "titel": "Slow Burn: Eine Dark Mafia Romance (What Survives the Fire - Deutsche Ausgabe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Daisy Bloom",
+        "bewertungen": 4,
+        "sterne": 2.4,
+        "bsr": 33438,
+        "kategorien": [
+          [
+            372,
+            "Multikulturelle & Rassenübergreifende Liebesromane"
+          ],
+          [
+            384,
+            "Multikulturelle & interkulturelle Romanzen"
+          ],
+          [
+            1017,
+            "Dark Romance"
+          ]
+        ],
+        "seiten": 324,
+        "hitze": "keine Angabe"
+      },
+      {
+        "asin": "B0H1JBRGNG",
+        "titel": "Valentino: Ein Age Gap Slow Burn Dark Mafia Romance (Feretti-Syndikat-Serie 13)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Sherry Blake",
+        "bewertungen": 130,
+        "sterne": 4.6,
+        "bsr": 255,
+        "kategorien": [
+          [
+            7,
+            "Action & Abenteuer Liebesromane"
+          ],
+          [
+            8,
+            "Dark Romance"
+          ],
+          [
+            10,
+            "Dark Romance"
+          ]
+        ],
+        "seiten": 458,
+        "hitze": "explizit"
+      },
+      {
+        "asin": "B0DLP2PM68",
+        "titel": "The Slowest Burn: Roman. Für die Liebe gibt es kein Rezept. Eine unwiderstehliche Foodie-Romance mit Sugar und Spice",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 11.58,
+        "autor": "Sarah Chamberlain , Melike Karamustafa, et al.",
+        "bewertungen": 19,
+        "sterne": 3.8,
+        "bsr": 430351,
+        "kategorien": [
+          [
+            84770,
+            "Liebesromane"
+          ],
+          [
+            150107,
+            "Liebesromane"
+          ],
+          [
+            182042,
+            "Belletristik"
+          ]
+        ],
+        "seiten": 513,
+        "hitze": "explizit"
+      },
+      {
+        "asin": "B0H25XWZMX",
+        "titel": "Zuerst Kommt Die Liebe: Ein lesbischer Slow-Burn-Liebesroman voller Kleinstadtchaos und verbotener Gefühle (Unexpected Love Reihe 1)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Frankie Duncan, Ruby Scott , et al.",
+        "bewertungen": 7,
+        "sterne": 4.2,
+        "bsr": 10152,
+        "kategorien": [
+          [
+            28,
+            "Romantische Romane für Lesben"
+          ],
+          [
+            91,
+            "Friends-to-Lovers-Romantik"
+          ],
+          [
+            122,
+            "Friends-to-Lovers-Romantik"
+          ]
+        ],
+        "seiten": 210,
+        "hitze": "dazwischen"
+      },
+      {
+        "asin": "B0HBXZX3H3",
+        "titel": "Shadow Whisper – Die Fae von Irvin | Atmosphärische Slow-Burn-Romantasy voller Geheimnisse und dunkler Höfe",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "Nina Loon",
+        "bewertungen": 4,
+        "sterne": 4.0
+      },
+      {
+        "asin": "B01L2MWSLI",
+        "titel": "Slow Burn - Verhängnisvolle Begierde (Slow-Burn-Reihe 2)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 11.58,
+        "autor": "Maya Banks",
+        "bewertungen": 163,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B01N4164SU",
+        "titel": "Slow Burn - Eine einzige Berührung (Slow-Burn-Reihe 5)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 11.58,
+        "autor": "Maya Banks",
+        "bewertungen": 143,
+        "sterne": 4.4
+      },
+      {
+        "asin": "B01MQJAGOC",
+        "titel": "Slow Burn - Entfesseltes Verlangen (Slow-Burn-Reihe 4)",
+        "gesponsert": false,
+        "kindle_unlimited": false,
+        "preis": 11.58,
+        "autor": "Maya Banks",
+        "bewertungen": 133,
+        "sterne": 4.5
+      },
+      {
+        "asin": "B0H8XKRN9L",
+        "titel": "Eine weitere Lektion: Eine lesbische Slow-Burn-Romance über Erwachen und Begehren (Bin ich lesbisch?)",
+        "gesponsert": false,
+        "kindle_unlimited": true,
+        "preis": null,
+        "autor": "S.J. Milan",
+        "bewertungen": 6,
+        "sterne": 3.6
+      }
+    ],
+    "bsr_werte": [
+      33438,
+      255,
+      430351,
+      10152
+    ],
+    "bsr_median": 21795,
+    "bsr_bester": 255,
+    "verkaeufe_tag_geschaetzt": 20.53,
+    "bewertungen_median": 19,
+    "preis_median": 11.58,
+    "kindle_unlimited": 5,
+    "seiten_werte": [
+      210,
+      322,
+      324,
+      458,
+      513
+    ],
+    "seiten_median": 324,
+    "hitze": [
+      "explizit",
+      "keine Angabe",
+      "explizit",
+      "explizit",
+      "dazwischen"
+    ],
+    "kategorien": [
+      {
+        "name": "Dark Romance",
+        "titel": 3,
+        "rang_bester": 8
+      },
+      {
+        "name": "Friends-to-Lovers-Romantik",
+        "titel": 2,
+        "rang_bester": 91
+      },
+      {
+        "name": "Liebesromane",
+        "titel": 2,
+        "rang_bester": 84770
+      },
+      {
+        "name": "Action & Abenteuer Liebesromane",
+        "titel": 1,
+        "rang_bester": 7
+      },
+      {
+        "name": "Romantische Romane für Lesben",
+        "titel": 1,
+        "rang_bester": 28
+      },
+      {
+        "name": "Multikulturelle & Rassenübergreifende Liebesromane",
+        "titel": 1,
+        "rang_bester": 372
+      },
+      {
+        "name": "Multikulturelle & interkulturelle Romanzen",
+        "titel": 1,
+        "rang_bester": 384
+      },
+      {
+        "name": "Erotikkalender",
+        "titel": 1,
+        "rang_bester": 1377
+      },
+      {
+        "name": "Erotikromane & Erotikerzählungen",
+        "titel": 1,
+        "rang_bester": 4336
+      },
+      {
+        "name": "Erotikromane & -erzählungen",
+        "titel": 1,
+        "rang_bester": 7209
+      },
+      {
+        "name": "Belletristik",
+        "titel": 1,
+        "rang_bester": 182042
       }
     ],
     "im_70_prozent_fenster": 0

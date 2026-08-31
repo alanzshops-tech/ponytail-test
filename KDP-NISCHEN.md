@@ -1,6 +1,6 @@
 # KDP-Nischen
 
-Stand: 2026-08-18
+Stand: 2026-08-31
 
 Gemessen auf den öffentlichen Amazon-Trefferlisten und Produktseiten. **Der Bestseller-Rang (BSR) ist die belastbare Zahl** — innerhalb desselben Marktplatzes direkt vergleichbar, niedriger heißt mehr Verkäufe. Die Umrechnung in Stückzahlen ist eine Schätzung.
 
@@ -8,10 +8,11 @@ Verwendete Konstanten: `täglich = 100000 × BSR^-0.85`. Öffentlich kursierende
 
 | Nische | Markt | BSR Median | BSR bester | Verk./Tag (gesch.) | Bewertungen Median | Preis Median | im 70-%-Fenster | in KU | gesponsert |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| geheimes baby liebesroman | www.amazon.de | 852 | 132 | 322.94 | 47 | – | 0/10 | 10/10 | 0/10 |
-| milliardär liebesroman | www.amazon.de | 1161 | 105 | 248.25 | 186 | – | 0/10 | 10/10 | 0/10 |
-| zweite chance liebesroman | www.amazon.de | 95850 | 193 | 5.83 | 54 | 4.62 | 3/10 | 7/10 | 0/10 |
-| liebesroman | www.amazon.de | 380 | 5 | 641.48 | 8020 | 13.88 | 0/10 | 7/10 | 0/10 |
+| geheime ehe liebesroman | www.amazon.de | 10091 | 1234 | 39.51 | 81 | 5.72 | 2/10 | 8/10 | 4/10 |
+| scheinehe roman | www.amazon.de | 19277 | 6374 | 22.79 | 22 | 3.47 | 1/10 | 9/10 | 0/10 |
+| ehe roman deutsch | www.amazon.de | 1567 | 312 | 192.39 | 97 | 24.32 | 0/10 | 9/10 | 0/10 |
+| familiengeheimnis liebesroman | www.amazon.de | 2989 | 99 | 111.12 | 60 | 5.78 | 1/10 | 9/10 | 0/10 |
+| slow burn liebesroman deutsch | www.amazon.de | 21795 | 255 | 20.53 | 19 | 11.58 | 0/10 | 5/10 | 0/10 |
 
 ## Hitzegrad der Spitzentitel
 
@@ -19,11 +20,12 @@ Wie explizit die gemessenen Titel selbst angeben zu sein — aus Beschreibung, W
 
 | Nische | explizit | dazwischen | geschlossen | keine Angabe |
 |---|---:|---:|---:|---:|
-| geheimes baby liebesroman | 0 | 4 | 0 | 1 |
-| milliardär liebesroman | 0 | 3 | 0 | 2 |
-| zweite chance liebesroman | 0 | 2 | 0 | 3 |
-| liebesroman | 1 | 1 | 0 | 3 |
-| **gesamt** | **1** | **10** | **0** | **9** |
+| geheime ehe liebesroman | 0 | 0 | 0 | 5 |
+| scheinehe roman | 0 | 1 | 0 | 4 |
+| ehe roman deutsch | 0 | 0 | 0 | 5 |
+| familiengeheimnis liebesroman | 0 | 1 | 1 | 3 |
+| slow burn liebesroman deutsch | 3 | 1 | 0 | 1 |
+| **gesamt** | **3** | **3** | **1** | **18** |
 
 ## Wie zu lesen
 
@@ -39,57 +41,70 @@ Die beste Nische hat **niedrigen BSR bei niedrigen Bewertungszahlen**. Das ist N
 
 Ungekuerzt, in der Reihenfolge der Trefferliste. Wer daraus Titelmuster ableitet, kann sie hier nachzaehlen.
 
-**geheimes baby liebesroman**
+**geheime ehe liebesroman**
 
-1. Mein geheimes Baby vom Boss: Eine Secret Baby Workplace Romance mit starker Heldin — *Becky Snow*
-2. Catch a Falling Star: Ein zweiter Versuch, geheimes Baby – Liebesroman (Blingwood Billionaires - German Edition 3) — *Emily*
-3. Das geheime Baby des Milliardärs: Eine verborgene Schwangerschaft, ein CEO und eine zweite Chance (Skrupellose Milliardäre 3) — *G.R. Oliveira*
-4. Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55) — *Lira Rain*
-5. Verlassen von meinem Alpha-Ehemann: Ein abgelehnter, vorbestimmter Gefährte – Geheimes Baby und ein flehender Alpha-Wandler – Liebesroman (Die Grausame-Alpha-Serie) — *Rhea A*
-6. Das geheime Baby der Bratva (Reich der Sünde) — *Ariana Cooper*
-7. Das geheime Baby meines Mannes mit seiner Assistentin (Ihre Ehe in der Krise 46) — *Ella Amafa*
-8. Verschwiegen von meinem Milliardärs-Boss – Ein geheimer Baby-Roman (Die Valenti-Männer – Millionär-Liebesromane 3) — *A. Kross*
-9. Geheimes Baby für den Mafia-Don: Ein dunkler Mafia-Liebesroman über eine arrangierte Ehe und ein geheimes Baby (Die besitzergreifenden Mafiakönige 43) — *Dalia Dawn*
-10. Whispered Sins: Das geheime Baby vom CEO (Baby Confessions 1) — *Rebecca Baker*
+1. Das geheime Baby meines Mannes mit meiner Schwester (Ihre Ehe in der Krise 55) — *Lira Rain*
+2. Am Rande der Liebe (Infiltration der High Society 1) — *Sara Adrien*
+3. Statt Harmonie (Die Diamanten-Dynastie 1) — *Sara Adrien*
+4. Die geheime Ehe von Ashbury Vale : Eine bisexuelle viktorianische Liebesgeschichte über Verrat und verborgene Gefühle (DIE SKANDAL-CHRONIKEN VON ASHBURY: ... Liebesroman-Saga voller Geheimnisse 3) — *Tamsin*
+5. Dirty Like Zane: Ein geheime Ehe-Rockstar Liebesroman — *Jaine Diamond*
+6. Die Ehe, Die Er Restrukturierte: Ein Milliardär-Liebesroman über eine Ehe in der Krise – von Verrat, Rache in der Scheidung, einem geheimen Kind und einer zweiten Chance, die er fast verspielt hätte — *Theo Blackridge, Andreas Barth, et al.*
+7. Erst für immer: Ein christlicher Liebesroman (Hope-Springs-Serie 1) — *Valerie M. Bodden*
+8. Stücke der Ewigkeit: Ein christlicher Liebesroman (River Falls 1) — *Valerie M. Bodden*
+9. Unsere Herzen erinnern sich: Eine Ehe in der Krise, Liebesroman mit geheimem Baby — *Hattie Milson*
+10. Das geheime Baby meines Mannes mit seiner Assistentin (Ihre Ehe in der Krise 46) — *Ella Amafa*
 
-**milliardär liebesroman**
+**scheinehe roman**
 
-1. Das Geheime Herz des Milliardärs: Liebesroman (Die Winters Saga 1) — *Ivy Layne*
-2. My Unexpected Surprise: Ein Secret Baby Fake-Hochzeit Liebesroman (Die Chester Street Milliardäre 5) — *J. S. Kingsley*
-3. Beautiful Deception: Ein Milliardärs-Liebesroman (High Stakes 4) — *Alisha Snow*
-4. Die Überraschung des Milliardärs: Ein Secret Baby Hockey Liebesroman (Das Dilemma des Milliardärs 1) — *Rosie Storm*
-5. Das Urteil des Milliardärs: Ein intensiver Liebesroman über falsche Anschuldigungen und zweite Chancen (Skrupellose Milliardäre 2) — *G.R. Oliveira*
-6. Seine Frau auf Zeit: Ein Milliardär-Liebesroman mit arrangierter Ehe (Die Thorne-Brüder 1) — *Nikki Lawson*
-7. Die Vertragsverlobte des Milliardärs: Ein Milliardär-Liebesroman: Vernunftehe, Vom Feind zum Geliebten und eine Zweite Chance (Dark Romance: Dominante ... und Intensive Psychologische Erotik) — *B. F. Elise*
-8. Vernachlässigt von meinem Milliardär-Ehemann: Eine Romanzen-Serie um einen Milliardär, eine Ehe in der Krise und eine zweite Chance — *Lira Rain*
-9. Not Mine to Love: Ein CEO-Liebesroman (Milliardäre von London) — *Rosa Lucas*
-10. Love to Loathe Him: Ein CEO-Liebesroman (Milliardäre von London) — *Rosa Lucas*
+1. Glücksharfe: Lesbische Piratinnen #4: Lucky Harp (German Edition) — *Marina Tempest*
+2. Meine fast perfekte Scheinehe: ein Schottland-roman (Chaos in den Highlands) — *Estelle Every*
+3. Die Scheinehe des verschlossenen Duke (Die Pakte der dunklen Dukes 9) — *E. M.*
+4. Mein Alien-Orca: Ein Scheinehe-Roman (Alien-Entführer 8) — *Calista Skye*
+5. Die Scheinehe von Bladys: Historischer Roman — *Sabine Baring-Gould*
+6. Accidental Baby: Ein Scheinehen-Roman von (Fake Marriage (German Translation) 2) — *Ajme Williams*
+7. Die Scheinehe des Cowboys — *Alexa Verde*
+8. Lore-Roman 57: Die Scheinehe des Grafen — *Erika Sommer*
+9. Accidental Love: Ein Scheinehen-Roman von (Fake Marriage (German Translation) 1) — *Ajme Williams*
+10. Die Scheinehe des königlichen Wolfs (Königliche Gestaltwandler des Nordreichs) — *Lisa*
 
-**zweite chance liebesroman**
+**ehe roman deutsch**
 
-1. Betrug und Verrat Ehe zweite Chance Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 2) — *Raven*
-2. Die andere Frau Drama Zweite-Chance-Liebesroman — *Raven*
-3. Betrug und Verrat, Erlösung und zweite Chance: Liebesroman (Gebrochene Gelübde MC-Liebesroman-Reihe 1) — *Raven*
-4. The Best Second Chance: Ein spicy Liebesroman über zweite Chancen, Forced Proximity und Friends-to-Lovers (Off-Limits 2) — *Lily Parker*
-5. Eine Zweite Chance Für den Single Daddy (Seattle Single Daddies 2) — *Ava*
-6. Der Buchladen der zweiten Chancen: Ein Liebesroman über verpasste Nähe, neue Seiten und eine zweite Chance zwischen den Zeilen — *Nora Sommerfeld*
-7. Zweite Chance Regency-Liebesromane Boxset: Die Komplette Regency-Reihe als Sammelband (Zweite Chance – Regency Liebesromane 5) — *Rose Pearson*
-8. Die zweite Chance: Ein Liebesroman — *Lexa Roth*
-9. Die Frau, die alles niederbrannte: Ein Verrat – Geheimes Baby – Zweite Chance – Flehender Liebesroman (Herzgebrochene Schatten-Ehefrauen) — *Asher*
-10. The Proposal - Zweite Chance zur Weihnachtszeit: Liebesroman in Schottland (Fisherman's End Love Stories 5) — *J.D. Summer*
+1. Fake Ehe, Echter Schotte: Ein humorvoller Liebesroman in den Highlands (Ein Herz für Highlander) — *Rieke Fenning*
+2. Seine zweite Ehe: Ein packender und süchtig machender Psychothriller — *Jess Ryder*
+3. Verliebt in Doc Perfect: Ein Fake Ehe Liebesroman (Doctors & Deals 3) — *Eva Herzsprung*
+4. Fremde: Die Geschichte einer Ehe - Der gefeierte #1-New York Times-Bestseller — *Belle Burden und Charlotte Breuer*
+5. Gebunden durch Verrat: Eine Feinde-zu-Liebenden Mafia-Romanze (Das Severato Syndikat 2) — *Eliana Ezra*
+6. Unser perfektes Zuhause | Der spannende Domestic Thriller über eine toxische Ehe — *Helen Matthews*
+7. Vernachlässigt von ihrem Milliardär-Ehemann (Ihre Ehe in der Krise 110) — *Lira Rain*
+8. Verheiratet mit dem skrupellosen Mafia-Erben: Eine Altersunterschied-Geheimbaby-Jungfrau-Heldin-arrangierte Ehe-Mafia-Romanze (Schwüre des Mafia-Auftrags) — *A. J.*
+9. Offene Ehe: Hotwife wider Willen — Ein expliziter Erotik-Roman über eine offene Ehe, einen Mann, der zusehen will, und eine Frau, deren Hunger größer ist als seine Fantasie | Spicy Hotwife Romance — *Jule Sommer*
+10. Gefängnis einer Ehe: Nervenaufreibender Thriller über Lügen und Obsession — *Sophie Edenberg*
 
-**liebesroman**
+**familiengeheimnis liebesroman**
 
-1. Du musst mich vergessen: Roman - Die spannendste Lovestory des Jahres – Nr.1-SPIEGEL-Bestsellerautorin Rosie Walsh ist zurück! — *Rosie Walsh*
-2. Fünf Sommer mit dir: Roman - Der internationale Bestseller und Romanvorlage zur großen Verfilmung EVERY YEAR AFTER - jetzt auf Amazon Prime! (Die Barry’s-Bay-Reihe 1) — *Carley Fortune*
-3. This could be love: Roman | Start der neuen New-Adult-Reihe und Nr.-1-Spiegel-Bestseller von Lilly Lucas (Hawaii Love) — *Lilly Lucas*
-4. Nur noch ein einziges Mal: Roman | Die deutsche Ausgabe des Bestsellers ›It Ends With Us‹ (Lily, Ryle und Atlas-Reihe 1) — *Colleen Hoover*
-5. Suche Traummann, biete Nachbarn (Traummänner 1) — *Svenja Lassen*
-6. Ein Sommermeerchen : Ein sommerlicher Liebesroman auf Sylt, Enemies to Lovers. Von der Autorin der Café mit Sylt und Zucker Reihe (Sommermärchen mit Meergefühl) — *Michelle Schrenk*
-7. Meersalz, Zimt und Küstenglück: Ein Ostsee-Liebesroman über einen Neuanfang am Meer (Verliebt in Glückshaven 1) — *Lina Martens*
-8. Vielleicht war es Liebe: Eine Liebesgeschichte (Vielleicht ... Liebesroman Reihe 1) — *A.D. WiLK*
-9. BERÜHRT bis du mich LIEBST (… bis du mich LIEBST 1) — *D.C.*
-10. Eine Woche in der Villa Belmonte: Eine unwiderstehliche Sommerromance unter italienischer Sonne — *Julia Sommer*
+1. Das Geheimnis von Schottland | Ein dramatischer Familiengeheimnis Liebesroman — *Ines Vitouladitis*
+2. Solange wir uns widerstehen: Ein berührender Liebesroman über alte Wunden, unerwartete Nähe und den Mut, zu bleiben (Herzen von Lindenbach 1) — *Karla Linden*
+3. Sanddorn, Karamell und Küstenglück: Ein Ostsee-Liebesroman über ein altes Familiengeheimnis und die große Liebe (Verliebt in Glückshaven 2) — *Lina Martens*
+4. Das Kindermädchen des sizilianischen Mafioso: Ein Roman über eine verbotene Nanny, ein Familiengeheimnis und einen gefährlichen Beschützer (Mafia-Dynastien, Buch 7) — *Lívia Moraes*
+5. Das irische Familiengeheimnis: Ein wunderschöner und bewegender Irland-Roman (Emerald Isles) — *Daisy O'Shea*
+6. Familien-Geheimnisse (Die Hexen von Hollow Cove 6) — *Kim Richardson*
+7. Die Witwe des französischen Mafioso: Ein Roman über Zweckehe, aufgeschobene Rache und Familiengeheimnis (Mafia-Dynastien, Buch 8) — *Lívia Moraes*
+8. Das Eebe Des Milliardärs : Ein bewegender Liebesroman über Familiengeheimnisse, verlorenes Vertrauen und die Kraft der Wahren liebe (Die König-Brandt-Saga 2) — *Nitesh Khanna*
+9. Das Geheimnis seiner Liebe Band II: Ein bewegender Nordsee-Liebesroman über ein Familiengeheimnis, zweite Chancen und einen Neuanfang am Meer (Küstenherzen 2) — *Leni Lund*
+10. Blüten der Hoffnung (Große Gefühle auf der Sonneninsel) — *Rosie M. Clark*
+
+**slow burn liebesroman deutsch**
+
+1. Slow Burn - Dunkle Hingabe (Slow-Burn-Reihe 1) — *Maya Banks*
+2. Slow Burn: Eine Dark Mafia Romance (What Survives the Fire - Deutsche Ausgabe 1) — *Daisy Bloom*
+3. Valentino: Ein Age Gap Slow Burn Dark Mafia Romance (Feretti-Syndikat-Serie 13) — *Sherry Blake*
+4. The Slowest Burn: Roman. Für die Liebe gibt es kein Rezept. Eine unwiderstehliche Foodie-Romance mit Sugar und Spice — *Sarah Chamberlain , Melike Karamustafa, et al.*
+5. Zuerst Kommt Die Liebe: Ein lesbischer Slow-Burn-Liebesroman voller Kleinstadtchaos und verbotener Gefühle (Unexpected Love Reihe 1) — *Frankie Duncan, Ruby Scott , et al.*
+6. Shadow Whisper – Die Fae von Irvin | Atmosphärische Slow-Burn-Romantasy voller Geheimnisse und dunkler Höfe — *Nina Loon*
+7. Slow Burn - Verhängnisvolle Begierde (Slow-Burn-Reihe 2) — *Maya Banks*
+8. Slow Burn - Eine einzige Berührung (Slow-Burn-Reihe 5) — *Maya Banks*
+9. Slow Burn - Entfesseltes Verlangen (Slow-Burn-Reihe 4) — *Maya Banks*
+10. Eine weitere Lektion: Eine lesbische Slow-Burn-Romance über Erwachen und Begehren (Bin ich lesbisch?) — *S.J. Milan*
 
 ## Wie lang sind die Spitzentitel?
 
@@ -97,10 +112,11 @@ Die Zahl, nach der Kindle Unlimited bezahlt (KENPC), veröffentlicht Amazon nich
 
 | Nische | Titel mit Angabe | Seiten Median | Spanne | ≈ Wörter (×250) |
 |---|---:|---:|---|---:|
-| geheimes baby liebesroman | 4 | 313 | 305–320 | 78.250 |
-| milliardär liebesroman | 5 | 370 | 150–544 | 92.500 |
-| zweite chance liebesroman | 5 | 291 | 126–651 | 72.750 |
-| liebesroman | 5 | 412 | 271–497 | 103.000 |
+| geheime ehe liebesroman | 5 | 315 | 120–416 | 78.750 |
+| scheinehe roman | 5 | 299 | 75–428 | 74.750 |
+| ehe roman deutsch | 5 | 305 | 217–400 | 76.250 |
+| familiengeheimnis liebesroman | 5 | 330 | 266–460 | 82.500 |
+| slow burn liebesroman deutsch | 5 | 324 | 210–513 | 81.000 |
 
 ## Kategorien der Spitzentitel
 
@@ -108,57 +124,70 @@ In welchen Unterkategorien die gemessenen Titel stehen und auf welchem Rang der 
 
 **Ein niedriger bester Rang heißt: dort ist es eng.** Eine Kategorie, in der der beste gemessene Titel auf Rang 40 steht, ist leichter zu erreichen als eine, in der er auf Rang 2 steht.
 
-**geheimes baby liebesroman**
+**geheime ehe liebesroman**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| Dramatik - Weibliche Autoren | 2 | 1 |
-| Rockstar-Romanze | 2 | 1 |
-| Scheidung | 2 | 3 |
-| Dramen & Theaterstücke von Frauen | 1 | 1 |
-| Romantische Sammlungen & Anthologien | 1 | 4 |
-| Sammlungen & Erzählbände von Romanzen | 1 | 4 |
-| Multikulturelle & interkulturelle Romanzen | 1 | 5 |
-| Multikulturelle & Rassenübergreifende Liebesromane | 1 | 6 |
+| Scheidung | 4 | 13 |
+| Scheidung & Trennung | 2 | 15 |
+| Rockstar-Romanze | 1 | 26 |
+| Moderne Belletristik für Frauen | 1 | 257 |
+| Zeitgenössische Frauenliteratur | 1 | 318 |
+| eBooks über Romanzen über Milliardäre & Millionäre | 1 | 2035 |
+| Bisexuelle Liebesromane | 1 | 6362 |
+| Liebesromane | 1 | 75978 |
 
-**milliardär liebesroman**
-
-| Kategorie | Titel darin | bester Rang |
-|---|---:|---:|
-| eBooks über Romanzen über Milliardäre & Millionäre | 3 | 68 |
-| Fake-Dating-Romantik | 2 | 2 |
-| Zweite-Chance-Romanze | 1 | 2 |
-| Multikulturelle & Rassenübergreifende Liebesromane | 1 | 7 |
-| Multikulturelle & interkulturelle Romanzen | 1 | 7 |
-| Action & Abenteuer Liebesromane | 1 | 42 |
-| Moderne Belletristik für Frauen | 1 | 46 |
-| Zeitgenössische Frauenliteratur | 1 | 50 |
-
-**zweite chance liebesroman**
+**scheinehe roman**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| Zweite-Chance-Romanze | 3 | 12 |
-| Liebesromane für Junge Erwachsene | 2 | 9 |
-| Liebesromane | 2 | 65640 |
-| Belletristik | 2 | 69912 |
-| Liebesroman | 1 | 12 |
-| Liebesromane – Leichte Kost | 1 | 13 |
-| New Adult | 1 | 49 |
-| eBooks Später im Leben Romantik | 1 | 668 |
+| eBooks Bisexuelle Romantik | 1 | 4 |
+| eBooks Renaissance Historische Romantik | 1 | 5 |
+| Historische Liebesromane – Renaissance | 1 | 8 |
+| Romantische Romane für Lesben | 1 | 10 |
+| Action & Abenteuer Liebesromane | 1 | 27 |
+| Viktorianische Historische Romanzen | 1 | 88 |
+| Zeitreisen | 1 | 105 |
+| Zeitreisen-Fiktion | 1 | 304 |
 
-**liebesroman**
+**ehe roman deutsch**
 
 | Kategorie | Titel darin | bester Rang |
 |---|---:|---:|
-| New Adult | 2 | 1 |
-| Liebesromane | 2 | 76 |
-| eBooks mit Audible Hörbuch | 2 | 111 |
-| Liebesroman | 1 | 1 |
-| Liebesromane für Junge Erwachsene | 1 | 1 |
-| Amerikanische Literatur | 1 | 14 |
-| Frauenliteratur | 1 | 17 |
-| Mythen & Legenden für junge Erwachsene | 1 | 43 |
+| Ehevertrag | 1 | 1 |
+| eBooks medizinische Romantik | 1 | 9 |
+| Action - Thriller & Spannung | 1 | 10 |
+| Medizin-Liebesromane | 1 | 13 |
+| Mystery, Thriller & Spannende Action Belletristik | 1 | 21 |
+| Suspense | 1 | 40 |
+| Unterhaltungsliteratur | 1 | 147 |
+| eBooks mit Audible Hörbuch | 1 | 169 |
+
+**familiengeheimnis liebesroman**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Partnersuche & Partnerwahl | 2 | 1 |
+| Liebesroman | 2 | 173 |
+| Ferienliebesromane | 1 | 7 |
+| Urlaubsromanzen | 1 | 7 |
+| Humoristische Belletristik für Frauen | 1 | 36 |
+| Moderne Belletristik für Frauen | 1 | 59 |
+| Zeitgenössische Frauenliteratur | 1 | 62 |
+| Zweite-Chance-Romanze | 1 | 145 |
+
+**slow burn liebesroman deutsch**
+
+| Kategorie | Titel darin | bester Rang |
+|---|---:|---:|
+| Dark Romance | 3 | 8 |
+| Friends-to-Lovers-Romantik | 2 | 91 |
+| Liebesromane | 2 | 84770 |
+| Action & Abenteuer Liebesromane | 1 | 7 |
+| Romantische Romane für Lesben | 1 | 28 |
+| Multikulturelle & Rassenübergreifende Liebesromane | 1 | 372 |
+| Multikulturelle & interkulturelle Romanzen | 1 | 384 |
+| Erotikkalender | 1 | 1377 |
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
 ---
