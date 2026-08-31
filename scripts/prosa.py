@@ -11,7 +11,15 @@ Was das Gerät kann und was nicht:
 
 **Absolut messbar** — hier gibt es richtig und falsch:
   * Typografie: Anführungszeichen, Apostroph, Auslassungspunkte
-  * Rechtschreibung und Grammatik (LanguageTool)
+  * Rechtschreibung und Grammatik (LanguageTool), nur mit `--sprache`
+
+Zu `--sprache`: Der Kopf dieser Datei hat die LanguageTool-Prüfung vom
+ersten Tag an aufgezählt, und die Filterliste LT_AUS stand auch da --
+aber der Aufruf fehlte. Ein Bericht, der eine Prüfung ankündigt und sie
+nicht durchführt, ist schlimmer als einer, der nichts ankündigt: Er
+liest sich, als sei die Rechtschreibung geprüft. Am 31.08.2026
+nachgetragen. Sie ist abschaltbar, weil sie Java und einen 259-MB-
+Download braucht -- nicht, weil sie unwichtig wäre.
 
 **Nur im Vergleich messbar** — hier gibt es kein „richtig", nur
 Ausreißer zwischen den Kapiteln:
@@ -72,7 +80,29 @@ LT_AUS = {
     # Bewusste Satzfragmente sind in diesem Buch Stilmittel:
     # "Ich sagte nichts." / "Vierzig Bilder."
     "SATZBAU",
+    # Am 31.08.2026 dazugekommen, nach dem ersten echten Lauf. Beide
+    # Regeln haben zusammen 47 von 110 Treffern gestellt, und keiner
+    # davon war ein Fehler -- sie messen die Stimme des Buches:
+    #
+    # "rausgehen" statt "hinausgehen", "runterfahren" statt
+    # "hinunterfahren". Zwei Ich-Erzaehler, die gesprochenes Deutsch
+    # denken. Wer das wegkorrigiert, korrigiert die Erzaehlstimme.
+    "RAN_RUM_RAUF_REIN_RAUS_RUNTER",
+    "RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU",
+    # Aufeinanderfolgende Saetze mit demselben Anfang ("Ich habe ...
+    # Ich habe ...") sind hier Anapher, nicht Nachlaessigkeit. Sie
+    # tragen die Aufzaehlungen, an denen beide Erzaehler sich
+    # festhalten, wenn es eng wird.
+    "GERMAN_WORD_REPEAT_BEGINNING_RULE",
 }
+
+# Was diese Pruefung NICHT sieht, und warum das hier steht: Vor dem
+# Pruefen wird das Markdown entfernt (ohne_markdown), sonst meldet
+# LanguageTool Kursivsterne als Grammatikfehler. Damit faellt aber auch
+# die Auszeichnung weg, die ein Zitat im Zitat kenntlich macht -- in
+# Kapitel 55 steht "Er hat *Ihre Frau hat recht* geschrieben.", und das
+# Werkzeug hat daraus ein doppeltes "hat" gemacht. Ein Treffer dieser
+# Art ist ein Artefakt der Messung, kein Fund.
 
 
 # ----------------------------------------------------------- Grundlagen
@@ -224,6 +254,62 @@ def wiederholungen(lemmas: list[tuple[str, int]], fenster: int = 220,
     return sorted(raus, key=lambda x: -x[1])
 
 
+# ------------------------------------------------------------- Sprache
+
+def sprachwerkzeug():
+    """LanguageTool starten. Gibt None zurueck, wenn es nicht geht --
+    und der Bericht sagt das dann ausdruecklich, statt zu schweigen."""
+    try:
+        import language_tool_python
+        return language_tool_python.LanguageTool("de-DE")
+    except Exception as e:
+        print(f"LanguageTool nicht verfuegbar ({str(e)[:70]}).")
+        return None
+
+
+def sprachfunde(werkzeug, t: str) -> list[tuple[str, str, str]]:
+    """Regel, Meldung, Umfeld -- fuer jeden Treffer, der nicht in
+    LT_AUS steht."""
+    funde = []
+    for m in werkzeug.check(ohne_markdown(t)):
+        if m.rule_id in LT_AUS:
+            continue
+        umfeld = " ".join(m.context.split())
+        funde.append((m.rule_id, m.message, umfeld))
+    return funde
+
+
+def sprache_kalibrieren(werkzeug) -> bool:
+    """Ein bekannter Fehler muss anschlagen, sauberer Text nicht, und
+    die Filterliste muss wirklich filtern. Ohne diese drei Faelle ist
+    'keine Beanstandungen' keine Messung."""
+    ok = True
+
+    kaputt = "Ich habe gestern ins Kino gegangen und war sehr müde."
+    if not sprachfunde(werkzeug, kaputt):
+        print("  FEHLGESCHLAGEN: bekannter Grammatikfehler nicht gefunden.")
+        ok = False
+
+    sauber = ("Sie hat den Ordner auf den Tisch gelegt und nichts gesagt. "
+              "Draußen hat es geregnet, und der Zug hatte Verspätung.")
+    falsch = sprachfunde(werkzeug, sauber)
+    if falsch:
+        print(f"  FEHLGESCHLAGEN: sauberer Satz beanstandet: {falsch[:2]}")
+        ok = False
+
+    # Erfundene Eigennamen duerfen nicht als Tippfehler durchschlagen --
+    # sonst ertrinkt jeder echte Fund in Kehrwieder, Haddad und Okonkwo.
+    namen = "Am Kehrwieder hat Frau Haddad mit Herrn Okonkwo gesprochen."
+    if any(r == "GERMAN_SPELLER_RULE" for r, _, _ in
+           sprachfunde(werkzeug, namen)):
+        print("  FEHLGESCHLAGEN: LT_AUS filtert den Speller nicht.")
+        ok = False
+
+    print("  Sprachpruefung kalibriert." if ok
+          else "  Sprachpruefung NICHT brauchbar.")
+    return ok
+
+
 # --------------------------------------------------------- Kalibrierung
 
 def selbsttest() -> bool:
@@ -321,6 +407,9 @@ def main() -> None:
     # muss, damit es nichts kaputtmacht, ist falsch gebaut.
     p.add_argument("--bericht", default=None)
     p.add_argument("--ohne-spacy", action="store_true")
+    p.add_argument("--sprache", action="store_true",
+                   help="Rechtschreibung und Grammatik mit LanguageTool "
+                        "pruefen (braucht Java und einen 259-MB-Download)")
     p.add_argument("--buch", default="buch",
                    help="Ordner mit Kapiteln (zweiter Band: --buch buch2)")
     args = p.parse_args()
@@ -442,8 +531,45 @@ def main() -> None:
                f"- Apostroph falsch `'`: {t['apostroph_falsch']} · "
                f"richtig `’`: {t['apostroph_richtig']}",
                f"- Auslassung falsch `...`: {t['auslassung_falsch']} · "
-               f"richtig `…`: {t['auslassung_richtig']}", "",
-               MARKER, ""]
+               f"richtig `…`: {t['auslassung_richtig']}", ""]
+
+    zeilen += ["## Rechtschreibung und Grammatik", ""]
+    if not args.sprache:
+        zeilen += ["*Nicht geprüft.* Mit `--sprache` laufen lassen — "
+                   "braucht Java und einen 259-MB-Download.", ""]
+    else:
+        werkzeug = sprachwerkzeug()
+        if werkzeug is None:
+            zeilen += ["*LanguageTool war nicht startbar.* Diese Zeile "
+                       "steht hier, damit ein fehlender Lauf nicht wie "
+                       "ein sauberes Ergebnis aussieht.", ""]
+        else:
+            print("Kalibrierung der Sprachpruefung:")
+            if not sprache_kalibrieren(werkzeug):
+                raise SystemExit(2)
+            gesamt_funde = []
+            for f in dateien:
+                n = int(re.search(r"(\d+)", f.name).group(1))
+                for regel, meldung, umfeld in sprachfunde(
+                        werkzeug, text_von(f)):
+                    gesamt_funde.append((n, regel, meldung, umfeld))
+            print(f"Sprachpruefung: {len(gesamt_funde)} Treffer.")
+            zeilen += [f"Geprüft mit LanguageTool, gefiltert um "
+                       f"{len(LT_AUS)} Regeln, die bei Belletristik nur "
+                       f"Rauschen liefern (jede in `prosa.py` begründet). "
+                       f"**{len(gesamt_funde)} Treffer.**", ""]
+            if gesamt_funde:
+                zeilen += ["| Kap. | Regel | Meldung | Stelle |",
+                           "|---:|---|---|---|"]
+                for n, regel, meldung, umfeld in gesamt_funde:
+                    zeilen.append(
+                        f"| {n} | `{regel}` | {meldung[:70]} | "
+                        f"…{umfeld[:70]}… |")
+                zeilen.append("")
+            else:
+                zeilen += ["*Keine Beanstandung.*", ""]
+
+    zeilen += [MARKER, ""]
 
     ziel = Path(args.bericht)
     alt = ziel.read_text(encoding="utf-8") if ziel.exists() else ""

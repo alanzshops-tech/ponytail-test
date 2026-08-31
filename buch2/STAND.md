@@ -8,7 +8,7 @@
 | Untertitel | Eine geheime Ehe, eine Frist und eine Familie, die alles regelt |
 | Reihe | Die Reinhardt-Brüder, Band 2 |
 | Autorin | Jule Norden (Pseudonym, wie Band 1) |
-| Umfang | **64 Kapitel, 69.302 Wörter Fließtext, 70.036 Wörter gesamt** |
+| Umfang | **64 Kapitel, 69.297 Wörter Fließtext, 70.032 Wörter gesamt** |
 | Erzählform | Ich-Perspektive, wechselnd Amira / Theo, Präteritum |
 | Datei | `buch2/reinhardt-2_KDP.epub` (1.143 kB, 66 Abschnitte) |
 | Lesefassung | `buch2/Was-er-nie-gefragt-hat.epub` |
@@ -24,6 +24,7 @@ Alle Werkzeuge laufen mit `--buch buch2`:
 |---|---|
 | `manuskript.py` | Keine Beanstandungen. Kapitelfolge lückenlos, Perspektivwechsel durchgehend, keine Platzhalter |
 | `prosa.py` | 0 falsche Anführungszeichen, 0 falsche Apostrophe, 0 falsche Auslassungspunkte |
+| `prosa.py --sprache` | LanguageTool: 110 Treffer, 8 echte Fehler behoben, 47 als Stil gefiltert |
 | `dopplung.py` | Ein Treffer, absichtlich — siehe `PROJEKT.md` 7c |
 | `romantik.py` | 0 von 64 Kapiteln ohne gemeinsame Szene |
 | `epubcheck.py` | Keine Beanstandungen |
@@ -209,6 +210,50 @@ November 2026.
   also vor rund fünf Jahren. Die Jahreszahl ist raus.
 - In der Leseprobe auf Band 3 ist ein Vertrag von 2019 „vor sechs
   Jahren" geschrieben worden. Auf *acht* korrigiert.
+
+### Die Rechtschreibprüfung stand im Handbuch und lief nie
+
+Der Kopf von `prosa.py` zählt seit dem ersten Tag auf, was das Gerät
+kann, und *„Rechtschreibung und Grammatik (LanguageTool)"* steht in
+dieser Liste. Die Filterliste der auszunehmenden Regeln steht auch da.
+**Der Aufruf fehlte.** In keinem Lauf, bei keinem der beiden Bände, ist
+je ein Wort auf Rechtschreibung geprüft worden — und der Bericht las
+sich, als sei es geschehen. Das ist schlimmer als ein Gerät, das nichts
+verspricht.
+
+Am 31.08.2026 nachgetragen, mit Kalibrierung in drei Fällen: ein
+bekannter Grammatikfehler *muss* anschlagen, ein sauberer Satz *darf
+nicht*, und die erfundenen Eigennamen (Kehrwieder, Haddad, Okonkwo)
+müssen gefiltert bleiben, sonst ertrinkt jeder echte Fund.
+
+**110 Treffer beim ersten Lauf. Acht davon waren echte Fehler:**
+
+| Kapitel | Stand | Jetzt |
+|---|---|---|
+| 6 | `Jahr — “` (Leerzeichen vor dem Schlusszeichen) | `Jahr —“` |
+| 18 | „Hören Sie damit auf, **so bald** Sie können" | **sobald** |
+| 30 | „wenn die Sonne den ganzen Tag **drauf stand**" | **draufstand** |
+| 35 | „Sonst **muss** du mich trösten" | **musst** |
+| 37 | „**wegen dem** ich vierzehn Monate lang" | **wegen dessen** |
+| 46 | „und wieder **runter gefahren**" | **runtergefahren** |
+| 52 | „an **den zweiten** Juniwoche gehalten" | **die zweite** |
+| 52 | „Wir **haben** beide nichts vorbereitet **gehabt**" (Doppelperfekt) | „Wir **hatten** beide nichts vorbereitet" |
+
+**47 der 110 Treffer waren gar keine**, sondern die Stimme des Buches:
+*rausgehen* statt *hinausgehen* und aufeinanderfolgende Sätze mit
+demselben Anfang. Beides sind jetzt begründete Einträge in der
+Filterliste — wer sie wegkorrigiert, korrigiert die Erzählstimme.
+Bleiben **54**, alle durchgesehen: bewusste Satzfragmente („Nicht weil
+Hamburg besser ist."), Ellipsen („Welche?" „Die erste."), das
+*daß* im zitierten Dokument von 1943 und Ruszczyks Plattdeutsch.
+
+Ein Treffer war ein Artefakt der eigenen Messung: In Kapitel 55 steht
+ein Zitat im Zitat kursiv, und weil vor dem Prüfen das Markdown
+entfernt wird, wurde daraus ein doppeltes „hat". Das steht jetzt als
+Warnung im Code.
+
+**Band 1 gleich mitgeprüft** (`PROSA.md`): 90 Treffer, dieselben
+Kategorien, **kein harter Fehler darunter**. Band 1 bleibt unangetastet.
 
 ### Ein Werkzeug, das man richtig aufrufen muss, ist falsch gebaut
 

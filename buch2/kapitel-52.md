@@ -3,7 +3,7 @@
 Der Flieder meiner Mutter hat 2028 vier Tage zu früh geblüht, und sie
 hat das genommen wie eine persönliche Beleidigung.
 
-„Er hat sich seit dreißig Jahren an den zweiten Juniwoche gehalten“,
+„Er hat sich seit dreißig Jahren an die zweite Juniwoche gehalten“,
 sagte sie am Morgen. „Und jetzt das.“
 
 „Er blüht doch noch.“
@@ -64,7 +64,7 @@ Meine Mutter hat von links gesagt: „Zu spät.“
 
 ---
 
-Wir haben beide nichts vorbereitet gehabt, und wir haben es beide
+Wir hatten beide nichts vorbereitet, und wir haben es beide
 gewusst, und wir haben es beide nicht gesagt.
 
 Amira hat angefangen.

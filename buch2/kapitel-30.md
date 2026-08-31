@@ -14,8 +14,8 @@ geblieben.
 
 Von der Mauerkrone eines Kontorhauses sieht man über die halbe
 Speicherstadt, und der Wind kommt von Nordwest, und der Backstein ist
-selbst im November nicht kalt, wenn die Sonne den ganzen Tag drauf
-stand.
+selbst im November nicht kalt, wenn die Sonne den ganzen Tag
+draufstand.
 
 Ich habe mit dem Polier oben gestanden, Herrn Ruszczyk, den ich seit
 neun Jahren kenne, und er hat gesagt: „Dat wär im Februar teuer

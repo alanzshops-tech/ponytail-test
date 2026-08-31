@@ -150,7 +150,7 @@ Er hat gelacht.
 
 Und dann habe ich mich umgedreht und ihn angesehen, in einem Gebäude,
 das seit zweieinhalb Jahren zwischen uns steht, in dem wir uns
-kennengelernt haben und wegen dem ich vierzehn Monate lang meine Ehe
+kennengelernt haben und wegen dessen ich vierzehn Monate lang meine Ehe
 versteckt habe, und ich habe gesagt:
 
 „Komm her.“

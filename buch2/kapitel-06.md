@@ -118,7 +118,7 @@ Jahren, obwohl ich ihn falsch mache.“
 „Was heißt falsch?“
 
 „Zu lange in der Kanne“, sagte ich. „Ihre Mutter hat es mir letztes
-Jahr — “ Ich habe abgebrochen. „Entschuldigung. Ihre Mutter hat es mir
+Jahr —“ Ich habe abgebrochen. „Entschuldigung. Ihre Mutter hat es mir
 nicht gesagt. Ihre Mutter kennt mich nicht. Sie weiß seit einer Woche,
 dass es mich gibt.“
 

@@ -89,7 +89,7 @@ fragen.“
 Er hat seine Tasche zugemacht.
 
 „Der einzige Rat, den ich Ihnen dazu geben kann, ist ein schlechter:
-Hören Sie damit auf, so bald Sie können. Ich habe Mandanten gehabt, die
+Hören Sie damit auf, sobald Sie können. Ich habe Mandanten gehabt, die
 das Verfahren gewonnen und danach zwei Jahre lang jeden Kollegen
 verdächtigt haben. Das ist der eigentliche Schaden dieser Briefe.“
 

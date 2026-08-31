@@ -131,7 +131,7 @@ es nicht gelernt haben.
 
 „Du musst nicht.“
 
-„Doch“, sagte er. „Sonst muss du mich trösten, und das ist falsch
+„Doch“, sagte er. „Sonst musst du mich trösten, und das ist falsch
 herum.“
 
 „Es ist nicht falsch herum“, sagte ich. „Es ist zwölf Jahre her, und ich

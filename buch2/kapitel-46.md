@@ -105,7 +105,7 @@ Gesicht, so wie sie es macht, wenn sie will, dass ich still bin, und
 eine dänische Familie ist zugestiegen und hat höflich in die andere
 Richtung gesehen.
 
-Wir sind bis in den siebten und wieder runter gefahren.
+Wir sind bis in den siebten und wieder runtergefahren.
 
 Im Zimmer hat sie im Dunkeln gestanden und den Mantel nicht ausgezogen,
 und ich habe im Türrahmen gewartet, weil ich gemerkt habe, dass sie

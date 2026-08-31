@@ -1076,7 +1076,7 @@ Jahren, obwohl ich ihn falsch mache.“
 „Was heißt falsch?“
 
 „Zu lange in der Kanne“, sagte ich. „Ihre Mutter hat es mir letztes
-Jahr — “ Ich habe abgebrochen. „Entschuldigung. Ihre Mutter hat es mir
+Jahr —“ Ich habe abgebrochen. „Entschuldigung. Ihre Mutter hat es mir
 nicht gesagt. Ihre Mutter kennt mich nicht. Sie weiß seit einer Woche,
 dass es mich gibt.“
 
@@ -3189,7 +3189,7 @@ fragen.“
 Er hat seine Tasche zugemacht.
 
 „Der einzige Rat, den ich Ihnen dazu geben kann, ist ein schlechter:
-Hören Sie damit auf, so bald Sie können. Ich habe Mandanten gehabt, die
+Hören Sie damit auf, sobald Sie können. Ich habe Mandanten gehabt, die
 das Verfahren gewonnen und danach zwei Jahre lang jeden Kollegen
 verdächtigt haben. Das ist der eigentliche Schaden dieser Briefe.“
 
@@ -5585,8 +5585,8 @@ geblieben.
 
 Von der Mauerkrone eines Kontorhauses sieht man über die halbe
 Speicherstadt, und der Wind kommt von Nordwest, und der Backstein ist
-selbst im November nicht kalt, wenn die Sonne den ganzen Tag drauf
-stand.
+selbst im November nicht kalt, wenn die Sonne den ganzen Tag
+draufstand.
 
 Ich habe mit dem Polier oben gestanden, Herrn Ruszczyk, den ich seit
 neun Jahren kenne, und er hat gesagt: „Dat wär im Februar teuer
@@ -6798,7 +6798,7 @@ es nicht gelernt haben.
 
 „Du musst nicht.“
 
-„Doch“, sagte er. „Sonst muss du mich trösten, und das ist falsch
+„Doch“, sagte er. „Sonst musst du mich trösten, und das ist falsch
 herum.“
 
 „Es ist nicht falsch herum“, sagte ich. „Es ist zwölf Jahre her, und ich
@@ -7185,7 +7185,7 @@ Er hat gelacht.
 
 Und dann habe ich mich umgedreht und ihn angesehen, in einem Gebäude,
 das seit zweieinhalb Jahren zwischen uns steht, in dem wir uns
-kennengelernt haben und wegen dem ich vierzehn Monate lang meine Ehe
+kennengelernt haben und wegen dessen ich vierzehn Monate lang meine Ehe
 versteckt habe, und ich habe gesagt:
 
 „Komm her.“
@@ -8894,7 +8894,7 @@ Gesicht, so wie sie es macht, wenn sie will, dass ich still bin, und
 eine dänische Familie ist zugestiegen und hat höflich in die andere
 Richtung gesehen.
 
-Wir sind bis in den siebten und wieder runter gefahren.
+Wir sind bis in den siebten und wieder runtergefahren.
 
 Im Zimmer hat sie im Dunkeln gestanden und den Mantel nicht ausgezogen,
 und ich habe im Türrahmen gewartet, weil ich gemerkt habe, dass sie
@@ -9948,7 +9948,7 @@ gesagt.
 Der Flieder meiner Mutter hat 2028 vier Tage zu früh geblüht, und sie
 hat das genommen wie eine persönliche Beleidigung.
 
-„Er hat sich seit dreißig Jahren an den zweiten Juniwoche gehalten“,
+„Er hat sich seit dreißig Jahren an die zweite Juniwoche gehalten“,
 sagte sie am Morgen. „Und jetzt das.“
 
 „Er blüht doch noch.“
@@ -10009,7 +10009,7 @@ Meine Mutter hat von links gesagt: „Zu spät.“
 
 ---
 
-Wir haben beide nichts vorbereitet gehabt, und wir haben es beide
+Wir hatten beide nichts vorbereitet, und wir haben es beide
 gewusst, und wir haben es beide nicht gesagt.
 
 Amira hat angefangen.

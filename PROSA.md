@@ -88,7 +88,105 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 - Apostroph falsch `'`: 0 · richtig `’`: 9
 - Auslassung falsch `...`: 0 · richtig `…`: 2
 
+## Rechtschreibung und Grammatik
+
+Geprüft mit LanguageTool, gefiltert um 6 Regeln, die bei Belletristik nur Rauschen liefern (jede in `prosa.py` begründet). **90 Treffer.**
+
+| Kap. | Regel | Meldung | Stelle |
+|---:|---|---|---|
+| 1 | `GENAU_SO` | Bitte prüfen Sie die Getrenntschreibung: Meinten Sie „genauso“ als Adv | …... Dann das Wasser für den Hefeteig, das genau so warm sein muss, wie… |
+| 1 | `AUSLASSUNGSPUNKTE_LEERZEICHEN` | Nach Auslassungspunkten sollte in der Regel ein geschütztes Leerzeiche | …...en erledigt. Sehr geehrte Frau Voss, …sehen wir uns leider nicht me… |
+| 1 | `VIELZAHL_PLUS_SINGULAR` | Möglicher Tippfehler: Müsste dieses Wort im Plural stehen? | …...as Café macht im guten Monat elftausend Umsatz. Davon gehen ab: War… |
+| 3 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...rieben, dass ich mit ihm sprechen muss. Dass es wichtig ist. Dass e… |
+| 3 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...ihm sprechen muss. Dass es wichtig ist. Dass er sich bitte meldet. … |
+| 3 | `SO_LANG` | Meinten Sie „so lange“ oder fehlt vielleicht ein Komma vor der Konjunk | …...an die Decke gesehen und gesagt: „Nein. Nicht solange —“ Und dann h… |
+| 4 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...men Sie sich einen eigenen Anwalt. Nicht weil wir Sie über den Tisc… |
+| 4 | `FRAGEZEICHEN_NACH_DIREKTER_REDE` | Eine Frage bitte mit einem ‚?‘ abschließen, eine Aufforderung mit eine | …...ie mich an. „Kann ich mir nicht leisten“, sagte sie ruhig. „Aber da… |
+| 6 | `HILFSVERB_HABEN_SEIN` | Bitte prüfen Sie, ob eine Form des Hilfsverbs ‚sein‘ verwendet werden  | …...ngerufen?“ Und das war der Moment. Ich habe ihn später hundertmal d… |
+| 7 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...eben, dass ich mit Ihnen sprechen muss. Dass es wichtig ist.“ „Ich … |
+| 7 | `MACHEN_UMGANGSSPRACHE` | ‚Zumachen‘ ist eine umgangssprachliche Ausdrucksweise. | …...h in der Tür steht und du es hinter ihm zumachen kannst. „Jonas“, s… |
+| 8 | `KOMMA_ZWISCHEN_HAUPT_UND_NEBENSATZ_2` | Hier sollte ein Komma eingefügt werden, wenn es sich um einen Haupt- u | …...später am schwersten verzeihen konnte — nicht weil es falsch war, s… |
+| 8 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...hlt so, wie andere Leute etwas zugeben. Dass die Mutter nach der Sc… |
+| 10 | `DE_AGREEMENT2` | Möglicherweise fehlende grammatikalische Übereinstimmung zwischen Adje | …...h, als sie wieder oben war. „Ein Siel. Wahrscheinlich Ende neunzehn… |
+| 10 | `DRUEBER` | Möchten Sie ein weniger umgangssprachliches Wort verwenden, um Ihren S | …...t. Eins. Verfüllen. Beton rein, Platte drüber, weiterbauen. Kostet … |
+| 10 | `AUSGESCHRIEBENE_ZAHLEN_NEU` | Bitte prüfen Sie die Getrenntschreibung: Zahlen bis zu einer Million w | …...n den tragfähigen Horizont. Kostet rund dreihunderttausend und sieb… |
+| 11 | `HERUM_GELAUFEN` | Bitte prüfen Sie die Getrenntschreibung: Meinten Sie eventuell „herumg | …...schwer, seit ich sie 2021 einmal falsch herum gedreht habe. Um sieb… |
+| 11 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...inzelnen Tag Zitronenkuchen liegt. Nicht weil er sich am besten ver… |
+| 11 | `MACHEN_UMGANGSSPRACHE` | ‚Zumachen‘ ist eine umgangssprachliche Ausdrucksweise. | …...secken für morgen noch schaffe. 17.30. Zumachen. Rollos runter, Vit… |
+| 12 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …...tschaftsprüfer im letzten Abschluss mit einer Komma sieben Milliard… |
+| 12 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...ahl nie laut. Nicht aus Bescheidenheit — weil sie nichts bedeutet. … |
+| 12 | `SUBJUNKTION_KOMMA_2` | Der von ‚wenn‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...ts. „Es trägt“, sagte er dann. „Knapp. Wenn die Erdgeschosse vermie… |
+| 12 | `GERMAN_WORD_REPEAT_RULE` | Möglicher Tippfehler: ein Wort wird wiederholt | …...rten Mal hat sie gelacht. Und dann hat sie sie zugemacht und die Ha… |
+| 13 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …...en, und du hattest recht, und ich hatte unrecht. Und dann hatte er … |
+| 15 | `DIENSTAG_ABENDS` | Wochentag + Tageszeit auf ‚s‘ wird klein- und zusammengeschrieben. | …... ich ihn an. „Reinhardt.“ „Können Sie Mittwoch abends kommen? Nach … |
+| 15 | `SUBJUNKTION_KOMMA_2` | Der von ‚wenn‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... Sie Mittwoch abends kommen? Nach acht. Wenn Emil schläft.“ Am ande… |
+| 16 | `SO_LANG` | Meinten Sie „so lange“ oder fehlt vielleicht ein Komma vor der Konjunk | …...inder willst. Und du hast gesagt: Nein. Nicht solange — und dann ha… |
+| 16 | `SO_LANG` | Meinten Sie „so lange“ oder fehlt vielleicht ein Komma vor der Konjunk | …...ersuchen können, war da dieses Nein.“ „Nicht solange die Firma so a… |
+| 16 | `SO_LANG` | Meinten Sie „so lange“ oder fehlt vielleicht ein Komma vor der Konjunk | …...Das war der Rest vom Satz“, sagte ich. „Nicht solange die Firma so … |
+| 17 | `PRP_WAS_WO` | Möchten Sie das standardsprachliche „Wozu“ verwenden? | …... nicht, was man mitbringt“, sagte er. „Zu was?“ „Das ist die Frage.… |
+| 19 | `FRAGEZEICHEN_STATT_PUNKT` | Wenn dieser Satz eine Frage ist, verwenden Sie bitte ein Fragezeichen. | …...Nicht: wie hat er reagiert. Was will er. „Ich glaube, er will seine… |
+| 19 | `ETWAS_ZAHL` | Meinten Sie „etwa“? | …...rt, die sie vorher nicht war. Man kann etwas achtzehn Monate lang a… |
+| 21 | `FRAGEZEICHEN_NACH_DIREKTER_REDE` | Eine Frage bitte mit einem ‚?‘ abschließen, eine Aufforderung mit eine | …...immt. „Was hätte ich denn machen sollen“, sagte ich. „Ihm auflauern… |
+| 21 | `SUBJUNKTION_KOMMA_2` | Der von ‚wenn‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...seit zwei Jahren mache, nur mit Anwalt. Wenn er gut ist —“ Ich hört… |
+| 22 | `PRAEP_GEN` | Die Präposition ‚dem‘ erfordert in der Regel den Genitiv. | …...ammen, und dabei sagte Niklas den Satz, wegen dem ich diesen Abend … |
+| 22 | `SCHIEFGEHEN` | Formen des Verbs ‚schief-/glattgehen‘ / ‚schief-/glattlaufen‘ (in der  | …...Er stand auf. „Absichern heißt: Wenn es schief geht, habe ich alles… |
+| 22 | `ERSTE_PERSON_SIN_OHNE_E` | Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren Le | …... „Nein“, sagte ich. „Schon gut.“ „Ich mach dir das alles fertig“, s… |
+| 22 | `ERSTE_PERSON_SIN_OHNE_E` | Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren Le | …...les fertig“, sagte er. „Bis Montag. Ich sag nur: Wenn du ihr diese … |
+| 23 | `ERSTE_PERSON_SIN_OHNE_E` | Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren Le | …...ERSÖNLICH „Setz dich“, sagte ich. „Ich mach uns Kaffee.“ Ich machte… |
+| 23 | `AUF_DEM_STAND` | Bitte prüfen Sie, ob „Stand“ hier als Nomen gebraucht wird und daher g | …... Und trotzdem lag da ein Blatt, auf dem stand, dass mein Sohn zum L… |
+| 23 | `PRP_WAS_WO` | Möchten Sie das standardsprachliche „Wozu“ verwenden? | …...irklich. Und ich sage trotzdem nein.“ „Zu was?“ „Zu dem Test.“ Ich … |
+| 25 | `COMMA_IN_FRONT_RELATIVE_CLAUSE` | Sowohl angehängte als auch eingeschobene Relativsätze werden durch Kom | …...eit sechs Wochen kennt.“ Was in diesen Wochen zwischen den beiden p… |
+| 26 | `DE_DASH` | Möglicherweise fehlt ein ‚und‘ oder ein Komma, oder es wurde nach dem  | …... ich am selben Abend um sechs mit einem Neunzehn-Monate- Menschen v… |
+| 28 | `DE_DASH` | Möglicherweise fehlt ein ‚und‘ oder ein Komma, oder es wurde nach dem  | …...inuten da, und ich bin bei Rot über die Willy-Brandt- Straße gefahr… |
+| 28 | `DOPPELPUNKT_GROSS` | Folgt nach dem Doppelpunkt ein vollständiger Hauptsatz, schreibt man d | …...e in diesem Moment tatsächlich gedacht: die vierte. Im Kinderzimmer… |
+| 30 | `DOPPELPUNKT_GROSS` | Folgt nach dem Doppelpunkt ein vollständiger Hauptsatz, schreibt man d | …...esagt. Ich habe nur zwei Dinge gefragt: was die Einzelabtretung kos… |
+| 31 | `AUSLASSUNGSPUNKTE_LEERZEICHEN` | Nach Auslassungspunkten sollte in der Regel ein geschütztes Leerzeiche | …...gelesen, dass ich ihn auswendig kann. …kündigen wir hiermit die obe… |
+| 31 | `DE_VERBAGREEMENT` | Möglicherweise fehlende grammatische Übereinstimmung zwischen Subjekt  | …...enn dieses Buch eine Stelle hat, an der ich zurückgehen und jemande… |
+| 32 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...un werde. Nicht: dass ich es tun soll. Dass ich es tun werde. Das i… |
+| 32 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...Wenn ich sie frage, sagt sie nein. Nicht weil es falsch wäre. Weil … |
+| 33 | `WIR_WIE` | Meinten Sie „wie“? | …...cksicht und es ist beides Mal dasselbe: Wir lassen den anderen nich… |
+| 33 | `BEI_VERB` | Nach ‚bei‘ folgt normalerweise kein Verb. | …...begriffen hat, dass es ernst ist. Nicht bei geh. Bei ich benutze es… |
+| 34 | `DER_ERSTE` | Bitte prüfen Sie, ob „Erste“ hier als Nomen gebraucht wird und daher g | …... habe ich drei Papiere aufgesetzt. Das erste. Eine Rückabtretung de… |
+| 34 | `DER_ERSTE` | Bitte prüfen Sie, ob „Zweite“ hier als Nomen gebraucht wird und daher  | …... der zum ersten Mal etwas kündigt. Das zweite. Ein Erlassvertrag. E… |
+| 34 | `DER_ERSTE` | Bitte prüfen Sie, ob „Dritte“ hier als Nomen gebraucht wird und daher  | …...ter Platz für zwei Unterschriften. Das dritte. Ein Brief. Der Brief… |
+| 34 | `GERMAN_WORD_REPEAT_RULE` | Möglicher Tippfehler: ein Wort wird wiederholt | …... vier Stunden vorher gesagt, dass genau das das Problem ist. Und ic… |
+| 35 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... zehn Minuten den Rest vergessen habe: Dass er nichts davon hat. Ic… |
+| 36 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …...s ist die Falle, Jonas. Wenn der andere unrecht hat, kannst du stre… |
+| 36 | `ZUSAMMENSCHREIBUNG_HER` | Bitte überprüfen Sie die Zusammenschreibung. Meinten Sie „runterwollte | …...griff nach meinem Kragen, weil er nicht runter wollte, und Marlene … |
+| 38 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …... auf dem Rand. „Ohne mich festzulegen: eine Komma vier. Plus neun M… |
+| 38 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …...as wir seit Oktober geschenkt bekommen, eine Komma vier wert.“ „Min… |
+| 40 | `ERSTE_PERSON_SIN_OHNE_E` | Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren Le | …...sen. „Ich will dir was sagen, und dann leg ich auf, weil ich das ni… |
+| 44 | `WEGEN_DIR` | ‚wegen Ihnen‘ ist möglicherweise umgangssprachlich. | …...n Schreibtisch gesetzt. „Sie hat nicht wegen Ihnen abgelehnt“, sagt… |
+| 44 | `WEGEN_DIR` | ‚wegen Ihnen‘ ist möglicherweise umgangssprachlich. | …...dt. Am Samstag um elf. Sie hat es nicht wegen Ihnen gelassen. Sie h… |
+| 45 | `HILFSVERB_HABEN_SEIN` | Bitte prüfen Sie, ob eine Form des Hilfsverbs ‚sein‘ verwendet werden  | …...ten aus meinem Haus geworfen habe. Ich habe drei Wochen lang stolz … |
+| 46 | `COMPOUND_INFINITIV_RULE` | Wenn der erweiterte Infinitiv von dem Verb ‚kaputtkriegen‘ abgeleitet  | …...ja. Ich habe zwei Tage gebraucht, um es kaputt zu kriegen, und ich … |
+| 47 | `JA_NEIN` | Bitte prüfen Sie, ob „Ja“ hier als Nomen gebraucht wird und daher groß | …...sie erschrocken war, weil sie nicht mit ja gerechnet hatte. Sie kam… |
+| 48 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... hätte diesen Anruf nicht gemacht. Nicht weil er unehrlich war. Wei… |
+| 50 | `AUF_DEM_STAND` | Bitte prüfen Sie, ob „Stand“ hier als Nomen gebraucht wird und daher g | …...ter, für jeden eins, und auf dem ersten stand oben, weil Niklas dar… |
+| 50 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...en wollen.“ Und dann erzählte ich es. Dass ich ein Kind habe mit de… |
+| 50 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...nne, aber nicht, dass es ein Kind gibt. Dass ihre Bank am dritten D… |
+| 50 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...chtzigtausend Euro, ohne sie zu fragen. Dass ich die Frist auf ihre… |
+| 50 | `SO_WIE_KEIN_KOMMA` | In der Regel steht am Satzanfang zwischen „So“ und „wie“ kein Komma. | …...es Tisches lachte kurz auf. Nicht böse. So, wie man lacht, wenn ein… |
+| 50 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …...chnete danach die Alternativtrasse vor: eine Komma vier Millionen, … |
+| 51 | `FEHLERHAFTES_KOMMA_ALLG` | Wenn es sich hier um keinen Haupt- und Nebensatz handelt, wird in der  | …...rgekommen. Rest: auf ein Tagesgeldkonto, angefasst wird da nichts. … |
+| 55 | `ZUSAMMENSCHREIBUNG_HER` | Bitte überprüfen Sie die Zusammenschreibung. Meinten Sie „runtermusste | …...s sie im Gästebett lag und ich noch mal runter musste, weil ich die… |
+| 58 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …...rte war am zweiten April, und ich hatte unrecht, und ich habe zwei … |
+| 58 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...esessen und mir das Übliche vorgesagt. Dass es im Kern nicht falsch… |
+| 58 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...agt. Dass es im Kern nicht falsch war. Dass sie tatsächlich zwei Ja… |
+| 58 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...zwei Jahre lang allein entschieden hat. Dass es einmal gesagt werde… |
+| 58 | `WENN_WEN` | Meinten Sie „wenn“? | …...en aus dem Schrank nahm: „Weißt du, für wen das eben war?“ „Für mic… |
+| 59 | `DRAUF` | Meinten Sie „darauf“? ‚Drauf‘ ist eine umgangssprachliche Ausdruckswei | …...h rechts. „Was ist das Beste?“ „Kommt drauf an, was du magst.“ „Nei… |
+| 59 | `FEHLERHAFTES_KOMMA_ALLG` | Wenn es sich hier um keinen Haupt- und Nebensatz handelt, wird in der  | …...ihr noch nicht gesagt. Und jetzt zu dem, wovor ich im März Angst ha… |
+| 60 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …..., nicht meiner Mutter, nicht ihr. Nicht weil es ein Geheimnis ist. … |
+| 62 | `FRAGEZEICHEN_NACH_DIREKTER_REDE` | Eine Frage bitte mit einem ‚?‘ abschließen, eine Aufforderung mit eine | …... früh etwas regelst.“ „Was sollte ich —“ „Ich weiß es nicht. Ich we… |
+| 62 | `DER_ERSTE` | Bitte prüfen Sie, ob „Erste“ hier als Nomen gebraucht wird und daher g | …...ibe. Ich schreibe drei Dinge auf. Das erste: Sie hat als Erste die … |
+| 62 | `DER_ERSTE` | Bitte prüfen Sie, ob „Dritte“ hier als Nomen gebraucht wird und daher  | …...d hat es mir in die Hand gedrückt. Das dritte: Wir haben beide ange… |
+| 63 | `GERMAN_WORD_REPEAT_RULE` | Möglicher Tippfehler: ein Wort wird wiederholt | …...angen und habe den Ofen angemacht, weil das das Einzige ist, was um… |
+| 64 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...t hat, dass ich es besser kann als sie. Dass sie das Wort Ihr Geld … |
+| 65 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...e Sekunden gezählt. Es waren elf. Nicht weil ich unsicher war. Ich … |
+
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 
