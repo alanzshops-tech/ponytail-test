@@ -98,13 +98,45 @@ Mangel „behoben" wird.
 
 ---
 
+## Das KDP-Paket
+
+Steht in `KDP-LAUNCH-2.md`: Untertitel, drei Klappentexte mit
+Empfehlung, sieben Keywords, drei Kategorien, Preis, KDP Select.
+
+**Der Nischenlauf vom 31.08.2026 hat die Empfehlung geändert, die ich
+vorher aufgeschrieben hatte.** Drei Sachen, die ich ohne Messung falsch
+gehabt hätte:
+
+- **Band 2 steht in schwächeren Nischen als Band 1.** *Geheime Ehe* hat
+  BSR-Median 10.091, *geheimes baby* hatte 829. Eine Größenordnung
+  weniger Nachfrage. Band 2 lebt deshalb stärker von Band 1s
+  Leserinnen als von eigener Sichtbarkeit — die Reihenseite ist hier
+  wichtiger als jedes Keyword.
+- **Die Nische mit der besten Nachfrage ist die falsche.** *ehe roman
+  deutsch* liegt bei BSR 1.567, aber der Preis-Median ist 24,32 €, kein
+  einziger Titel im 70-%-Fenster, und die Spitzenplätze belegen
+  Psychothriller und ein expliziter Erotiktitel. Dort wird keine
+  Liebesgeschichte gesucht.
+- **Slow Burn ist eine Hitzegrad-Falle.** Der Trope trifft auf dieses
+  Buch zu, aber drei von fünf messbaren Spitzentiteln der Nische sind
+  ausdrücklich explizit. Der Begriff ist deshalb *nicht* in den
+  Keywords, obwohl er inhaltlich stimmt.
+
+Die beste passende Nische ist **familiengeheimnis liebesroman**
+(BSR 2.989, Bewertungen-Median nur 60), und ihre Spitzentitel stehen
+unter deutschen Autorinnennamen — Karla Linden, Lina Martens, Leni
+Lund. Jule Norden passt dort hin.
+
+---
+
 ## Offen
 
 | Punkt | Wer |
 |---|---|
-| Klappentext, Keywords, Kategorien für Band 2 | steht noch aus, Vorlage ist `../KDP-LAUNCH.md` |
 | KI-Angabe im KDP-Formular (Text **und** Bild) | nur der Kontoinhaber |
-| Reihenseite bei KDP anlegen | erst möglich, wenn Band 1 online ist |
+| US-Steuerinterview | nur der Kontoinhaber; gilt fürs Konto, nicht je Titel |
+| Reihenseite bei KDP anlegen | erst möglich, wenn beide Bände online sind |
+| Keyword-Feld 6 (`brüder saga deutsch`) gegenprüfen | *Brüder* steht im Untertitel in der Reihenklammer; ob Amazon die mitindiziert, ist nicht messbar |
 | Band 3 (Niklas) | Haken steht im Epilog und im Nachspann |
 
 **Der Umschlag ist gebaut und gemessen**, alle vier Werte im

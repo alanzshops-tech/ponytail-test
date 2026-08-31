@@ -152,33 +152,168 @@ Leserinnen weitererzählen.
 
 ---
 
-## 4. Keywords
+## 4. Die Nischen, gemessen am 31.08.2026 [M]
 
-*Wird ergänzt, sobald der Nischenlauf vom 24.08.2026 zurück ist —
-gemessene Begriffe zuerst, geschätzte danach und als solche markiert.*
+Fünf Begriffe auf amazon.de, je zehn Spitzentitel
+(`../KDP-NISCHEN.md`).
 
-**Gesperrt** (steht schon in Titel oder Untertitel und wäre ein
-verschenktes Feld): *was, er, nie, gefragt, hat, geheime, Ehe, Frist,
-Familie, Liebesroman, Reinhardt, Brüder.*
+| Nische | BSR Median | Bewertungen Median | Preis Median | in KU | gesponsert |
+|---|---:|---:|---:|---:|---:|
+| geheime ehe liebesroman | 10.091 | 81 | 5,72 € | 8/10 | **4/10** |
+| scheinehe roman | 19.277 | 22 | 3,47 € | 9/10 | 0/10 |
+| ehe roman deutsch | **1.567** | 97 | 24,32 € | 9/10 | 0/10 |
+| **familiengeheimnis liebesroman** | **2.989** | **60** | 5,78 € | 9/10 | 0/10 |
+| slow burn liebesroman deutsch | 21.795 | 19 | 11,58 € | 5/10 | 0/10 |
+
+### Der unangenehme Befund zuerst
+
+**Band 2 steht in schwächeren Nischen als Band 1.** Zum Vergleich, aus
+demselben Werkzeug: *geheimes baby liebesroman* hat einen BSR-Median
+von **829**, *milliardär liebesroman* **409**. Die beste hier
+tatsächlich passende Nische liegt bei **2.989** — also grob eine
+Größenordnung weniger Nachfrage.
+
+Das ist keine Schwäche des Buches, sondern eine des Tropes: *Geheime
+Ehe* ist in Deutschland eine kleinere Nische als *Geheimes Baby*.
+Bekannt zu sein, bevor die ersten Verkaufszahlen kommen, ist besser,
+als es hinterher zu erklären.
+
+**Konsequenz [E]:** Band 2 lebt stärker von den Leserinnen von Band 1
+als von eigener Nischen-Sichtbarkeit. Die Reihenseite und der Hinweis
+im Nachspann von Band 1 sind hier wichtiger als jedes Keyword.
+
+### Drei Fallen, die die Messung sichtbar macht
+
+**1. *ehe roman deutsch* hat die beste Nachfrage und ist trotzdem
+falsch.** BSR-Median 1.567 — aber Preis-Median **24,32 €**, **0 von 10**
+im 70-%-Fenster, und die Spitzentitel sind Psychothriller
+(*„Seine zweite Ehe"*), Domestic Thriller, Mafia-Romanzen und ein
+expliziter Erotik-Titel. Dort wird kein Liebesroman gesucht, dort wird
+eine kaputte Ehe gesucht. Wer sich dort hineinstellt, bekommt die
+Bewertungen von Leserinnen, die etwas anderes wollten.
+
+**2. *slow burn liebesroman deutsch* ist eine Hitzegrad-Falle.**
+Von fünf Titeln mit Angabe sind **drei ausdrücklich explizit**, die
+Spitzenplätze belegen *Dark Mafia Romance* und Maya Banks. Wer diesen
+Begriff eingibt, erwartet Hitze. Dieses Buch hat eine Liebesszene, und
+die Tür geht zu. **Der Begriff kommt nicht in die Keywords**, obwohl
+der Trope inhaltlich zutrifft.
+
+**3. *geheime ehe liebesroman* ist als Einziges beworben** (4 von 10
+gesponsert) — dort ist Geld im Markt. Die Spitzentitel sind allerdings
+zu großen Teilen Serienware (*„Ihre Ehe in der Krise 55"*, *„… 46"*,
+*„… 110"*) und Übersetzungen. Bewertungen-Median 81 heißt: Die
+Führenden sitzen fest.
+
+### Die beste passende Nische [M]
+
+**familiengeheimnis liebesroman.** BSR-Median 2.989, Bewertungen-Median
+nur 60, Preis 5,78 €, 9 von 10 in KU. Und die Spitzentitel klingen wie
+dieses Buch:
+
+> *Solange wir uns widerstehen: Ein berührender Liebesroman über alte
+> Wunden, unerwartete Nähe und den Mut, zu bleiben* — Karla Linden
+> *Sanddorn, Karamell und Küstenglück … über ein altes Familiengeheimnis* — Lina Martens
+> *Das Geheimnis seiner Liebe … über ein Familiengeheimnis, zweite Chancen und einen Neuanfang* — Leni Lund
+
+Drei deutsche Autorinnennamen an der Spitze, dieselbe Beobachtung wie
+bei Band 1s breiter Nische. **Jule Norden passt hier besser hin als in
+jede andere gemessene Nische.**
+
+### Die sieben Keywords [E, auf gemessener Grundlage]
+
+**Gesperrt** (steht in Titel oder Untertitel, wäre ein verschenktes
+Feld): *was, er, nie, gefragt, hat, geheime, Ehe, Frist, Familie,
+Liebesroman, Reinhardt, Brüder.*
+
+| Feld | Keyword | Zeichen | Grundlage |
+|---:|---|---:|---|
+| 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989) |
+| 2 | `scheinehe roman` | 15 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
+| 3 | `hamburg speicherstadt roman` | 27 | Schauplatz, Alleinstellung, ungemessen |
+| 4 | `alleinerziehend zweite chance` | 29 | Anschluss an Band 1s Leserschaft, ungemessen |
+| 5 | `heimliche hochzeit kopenhagen` | 29 | Suchintention statt Etikett, ungemessen |
+| 6 | `verschwiegene beziehung roman` | 29 | dieselbe Suchintention ohne das Wort *Ehe*, ungemessen |
+| 7 | `emotionale liebesgeschichte ohne spice` | 38 | fängt die Erwartungsfrage ab, die bei Falle 2 zum Problem würde |
+
+**Nachgerechnet, nicht behauptet.** Ein Prüfskript hat jedes Feld gegen
+Titel und Untertitel gehalten, und dabei zwei Fehler in meiner ersten
+Fassung gefunden: *scheinehe **liebesroman*** und *emotionaler
+**liebesroman** ohne spice* enthielten beide **Liebesroman**, und das
+steht im Untertitel. Zwei von sieben Feldern wären verschenkt gewesen.
+
+Feld 2 heißt jetzt `scheinehe roman` — das ist ohnehin der gemessene
+Suchbegriff. Feld 7 sagt *Liebesgeschichte* statt *Liebesroman*.
+
+Ein früherer Entwurf für Feld 6 lautete `brüder saga deutsch`. Gestrichen:
+*Brüder* steht im Untertitel in der Reihenklammer, und ob Amazon die
+Teile eines Bindestrich-Kompositums mitindiziert, lässt sich von außen
+nicht messen. Ein Feld, das vielleicht verschenkt ist, ist ein
+verschenktes Feld.
+
+**Stand nach Prüfung:** 7 Felder, alle ≤ 50 Zeichen (Maximum 38), keine
+Kommas, keine Kollision mit Titel oder Untertitel — auch nicht mit den
+Bestandteilen von *Reinhardt-Brüder*.
+
+⚠️ **Suchvolumen ist nicht gemessen.** Für die Amazon-interne Suche gibt
+es kein öffentliches Volumen. Was gemessen ist, sind BSR, Bewertungen,
+Preis und KU-Anteil der Spitzentitel — nicht, wie oft jemand den
+Begriff eingibt.
 
 ---
 
-## 5. Kategorien [E]
+## 5. Kategorien [M/E]
 
-Drei, wie bei KDP zulässig. **[K]** Beim Veröffentlichen sind drei
-wählbar, jederzeit unter *Buchdetails* änderbar.
+**[K]** Drei sind beim Veröffentlichen wählbar, jederzeit unter
+*Buchdetails* änderbar.
 
-| Priorität | Kategorie | Warum |
-|---|---|---|
-| 1 | Liebesromane › **Zeitgenössische Liebesromane** | Gegenwart, Hamburg, Mai 2026 bis März 2030 |
-| 2 | Liebesromane › **Familienleben** | Vier Brüder, die Mutter, die Chronik — der Familienstrang trägt das halbe Buch |
-| 3 | Liebesromane › **Milliardäre & Millionäre** | Deckt die Reihenzugehörigkeit ab und hält Band 1 und 2 in derselben Liste |
+**Beobachtet** am 31.08.2026 auf den Produktseiten der Spitzentitel.
+Die Namen sind Amazons Anzeigenamen; im KDP-Formular können sie
+abweichen.
 
-**Bewusst nicht genommen:** *Zweite-Chance-Romanze* — das war Band 1s
-stärkste Kategorie und trifft hier nicht; die beiden bekommen keine
-zweite Chance, sie führen eine erste zu Ende. Eine Kategorie, die der
-Inhalt nicht einlöst, holt Ein-Stern-Bewertungen von genau den
-Leserinnen, die man erreichen wollte.
+| Priorität | Kategorie | Warum | Beobachtet |
+|---|---|---|---|
+| 1 | **Liebesroman** (allgemein) | Trägt das Buch, und es ist die einzige gemessene Kategorie mit Luft | bester Rang **173** — mit Abstand der lockerste Wert im ganzen Lauf |
+| 2 | **Moderne Belletristik für Frauen** | Familienstrang, Chronik, die beiden Mütter | bester Rang 59 |
+| 3 | **Zeitgenössische Frauenliteratur** | Gegenwart, Hamburg, Beruf | bester Rang 318 |
+
+**Bewusst nicht genommen, obwohl die Ränge locken:**
+
+*Partnersuche & Partnerwahl* (bester Rang 1) und *Ferienliebesromane*
+(Rang 7) sind praktisch leere Kategorien — dort steht ein Titel auf
+Platz eins, weil sonst kaum jemand drin ist. Ein Abzeichen in einer
+Kategorie, die niemand ansieht, ist keins.
+
+*Scheidung* und *Scheidung & Trennung* (bester Rang 13 bzw. 15) tragen
+die halbe *geheime-ehe*-Nische — **in diesem Buch wird sich niemand
+scheiden lassen.** Falsche Einordnung verstößt gegen die
+KDP-Richtlinien und holt Rückgaben.
+
+*Zweite-Chance-Romanze* war Band 1s stärkste Kategorie und trifft hier
+nicht: Die beiden bekommen keine zweite Chance, sie führen eine erste
+zu Ende.
+
+---
+
+## 4b. Länge — ein Befund, der eine Entscheidung verlangt [M]
+
+| | Seiten Median | Spanne |
+|---|---:|---|
+| familiengeheimnis liebesroman | **330** | 266–460 |
+| geheime ehe liebesroman | 315 | 120–416 |
+
+Dieses Buch hat **69.294 Wörter ≈ 277 Druckseiten** (Faustregel 250
+Wörter je Seite, dieselbe wie bei Band 1).
+
+Das liegt **innerhalb** der Spanne, aber deutlich unter dem Median —
+dieselbe Lage, in der Band 1 am 16.08. war, bevor sechs Kapitel
+dazukamen. Bei Kindle Unlimited wird pro gelesener Seite bezahlt, also
+ist das keine Kosmetik.
+
+**Empfehlung [E]: so lassen.** Band 1 wurde ausgebaut, weil er mit
+69.603 Wörtern *unter* der damaligen Untergrenze lag. Band 2 liegt
+darüber, und die Kapitel, die man jetzt noch einzöge, gäbe es nur
+wegen einer Zahl. Das kostet mehr, als die Seiten einbringen.
 
 ---
 
