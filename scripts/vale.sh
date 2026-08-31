@@ -12,6 +12,7 @@
 # meldet, sieht sonst aus wie ein sauberer Text.
 #
 #   scripts/vale.sh              # Kalibrierung + buch/ prüfen
+#   scripts/vale.sh buch2        # Kalibrierung + buch2/ prüfen
 #   scripts/vale.sh --nur-probe  # nur die Kalibrierung
 set -euo pipefail
 
@@ -75,4 +76,5 @@ kalibrieren
 
 echo
 cd "$WURZEL"
-"$BIN" buch/kapitel-*.md buch/00-vorspann.md buch/99-nachspann.md
+BUCH="${1:-buch}"
+"$BIN" "$BUCH"/kapitel-*.md "$BUCH"/00-vorspann.md "$BUCH"/99-nachspann.md
