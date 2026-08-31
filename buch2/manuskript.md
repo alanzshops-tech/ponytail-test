@@ -1981,8 +1981,9 @@ siebzig Jahren nichts mehr gehoben hat. Ich kenne dieses Gebäude
 besser als meine eigene Wohnung: Ich weiß, wo im zweiten Obergeschoss
 der Boden vier Zentimeter abfällt, ich weiß, welcher der elf Anker im
 Giebel 1954 ersetzt wurde und welcher original ist, ich weiß, dass die
-Setzung an der Ostseite abgeschlossen ist, weil ich sie über vierzehn
-Monate gemessen habe, mit demselben Gerät, an denselben vier Punkten.
+Setzung an der Ostseite abgeschlossen ist, weil sich die vier Punkte
+seit vierzehn Monaten nicht mehr bewegt haben, gemessen alle vierzehn
+Tage, mit demselben Gerät, an denselben vier Punkten.
 
 Vierzehn Monate. Dieselben vierzehn Monate.
 
@@ -2033,7 +2034,7 @@ sie es anders gesagt hätte, und ich habe zum ersten Mal seit Wochen
 nicht sofort nachgebessert, sondern gewartet.
 
 „Das ist die eine Hälfte“, sagte sie dann. „Die andere ist, dass wir
-seit fünfzehn Monaten verheiratet sind und ich nicht weiß, was
+seit vierzehn Monaten verheiratet sind und ich nicht weiß, was
 passiert, wenn er morgen von einem Gerüst fällt.“
 
 Ohlrogge hat genickt, ohne zu lächeln.
@@ -2044,7 +2045,7 @@ regelt sich dabei von allein.“
 ---
 
 Es hat zwei Stunden gedauert, und ich habe in diesen zwei Stunden mehr
-über meine eigene Lage gelernt als in den fünfzehn Monaten davor.
+über meine eigene Lage gelernt als in den vierzehn Monaten davor.
 
 Ich besitze neunzehn Prozent der Reinhardt Immobilien GmbH. Das ist
 weniger als Jonas mit neunundvierzig, mehr als Niklas und Bastian mit
@@ -2157,7 +2158,7 @@ trotzdem etwas verraten.“
 „Es tut mir leid, dass Sie es so erfahren.“
 
 „Mir auch“, sagte Wendland. „Aber das ist nicht mein Punkt.“ Er hat
-die Hände gefaltet. „Mein Punkt ist: Sie sind seit fünfzehn Monaten
+die Hände gefaltet. „Mein Punkt ist: Sie sind seit vierzehn Monaten
 mit einer Frau verheiratet, die für diese Gesellschaft ein Gutachten
 über ein Objekt erstellt, in das wir vierundzwanzig Millionen stecken.
 Und niemand in diesem Haus wusste davon.“
@@ -2277,7 +2278,7 @@ Frau Dr. Perlbach hat es gelesen und weitergeschoben.
 
 „Das entlastet die Vergabe“, sagte sie. „Es entlastet nicht die
 Ausführung. Die Frage ist nicht, wie Sie an den Auftrag gekommen sind.
-Die Frage ist, ob Sie ihn in den letzten fünfzehn Monaten so bearbeitet
+Die Frage ist, ob Sie ihn in den letzten vierzehn Monaten so bearbeitet
 haben, wie Sie ihn ohne diese Ehe bearbeitet hätten.“
 
 Und da habe ich den zweiten Ordner hingelegt.
@@ -2288,8 +2289,8 @@ Es ist ein grauer Ordner mit einem Rückenschild, auf dem *KWK
 Messreihe Setzung, lfd.* steht, und er enthält vierhundertelf Blätter.
 
 „Das ist meine Messreihe“, sagte ich. „Vier Punkte an der Ostwand,
-zwei am Giebel, gemessen alle vierzehn Tage seit April vor drei Jahren.
-Achtundsiebzig Messtermine. Jeder mit Datum, Uhrzeit, Temperatur,
+zwei am Giebel, gemessen alle vierzehn Tage seit September vor drei
+Jahren. Zweiundsiebzig Messtermine. Jeder mit Datum, Uhrzeit, Temperatur,
 Gerätenummer und Kalibrierdatum.“
 
 „Warum zeigen Sie mir das?“
@@ -2507,7 +2508,7 @@ ein Wegerecht liegt, für das mein Bruder
 zweihundertachtundsechzigtausend Euro bezahlt hat.
 
 „Es ist leiser, als ich dachte“, sagte ich. „Das ist das Merkwürdige.
-Ich habe fünfzehn Monate lang gedacht, wenn das rauskommt, gibt es
+Ich habe vierzehn Monate lang gedacht, wenn das rauskommt, gibt es
 Sitzungen und Meinungen und Weihnachten wird furchtbar. Und dann
 kommt es raus, und Mama kocht Kartoffelsalat, und Bastian kommt zum
 ersten Mal seit sieben Jahren durch eine Tür, und der Einzige, der
@@ -2559,7 +2560,7 @@ An der Ampel Millerntorplatz sagte sie: „Sie sind laut.“
 sich nicht sagt, dein Bruder hat sich in einer Durchfahrt bei dir
 entschuldigt, und keiner von ihnen hat einen Moment lang so getan, als
 wäre alles in Ordnung.“ Sie hat sich zu mir gedreht. „Und du hast
-fünfzehn Monate lang geglaubt, das hält meine Ehe nicht aus.“
+vierzehn Monate lang geglaubt, das hält meine Ehe nicht aus.“
 
 „Ja.“
 
@@ -2643,7 +2644,7 @@ Sekunden eines Vortrags zu sagen, wessen Arbeit das ist, und heute
 werde ich in dieser Stadt angerufen, wenn ein Backsteinbau vor 1920
 Risse hat.
 
-Es hat funktioniert, und es hat mir fünfzehn Monate Ehe gekostet, und
+Es hat funktioniert, und es hat mir vierzehn Monate Ehe gekostet, und
 beides ist wahr.
 
 ---
@@ -3077,7 +3078,7 @@ Nach einer Weile hat er die Hände vom Lenkrad genommen.
 
 „Wenn Sie im November den Titel bekommen“, sagte er, „bleiben Sie dann
 in Hamburg? Ich frage nicht als Auftraggeber. Ich frage, weil mein
-Bruder seit fünfzehn Monaten der erste Reinhardt ist, der sich etwas
+Bruder seit sechzehn Monaten der erste Reinhardt ist, der sich etwas
 ausgesucht hat, und ich möchte wissen, ob ich mich daran gewöhnen
 darf.“
 
@@ -3339,7 +3340,7 @@ Und da bin ich zum ersten Mal hängen geblieben.
 
 Weil die Antwort lautet: mir. Alle. Zweihundertirgendwas. Theo hat
 keine dreißig Bücher in diese Wohnung gebracht, und zwar deshalb, weil
-er in fünfzehn Monaten nie etwas hergebracht hat, was schwer wieder
+er in siebzehn Monaten nie etwas hergebracht hat, was schwer wieder
 wegzuschaffen gewesen wäre.
 
 „Mir“, sagte ich. „Die Bücher gehören mir.“
@@ -3354,7 +3355,7 @@ Plotter, die im Flur steht, weil sie nirgends hinpasst. Und einen
 Anspitzer aus Messing, der auf dem Fensterbrett liegt und den sein Vater
 1994 in Mailand gekauft hat.
 
-Vier Dinge in fünfzehn Monaten.
+Vier Dinge in siebzehn Monaten.
 
 Ich habe sie genannt, alle vier, und ich habe die Stimme nicht
 verloren, und Frau Kolb hat das erste Mal an diesem Vormittag etwas
@@ -3428,7 +3429,7 @@ stellen, die nicht auf dem Bogen steht?“
 
 „Sie dürfen sie stellen.“
 
-„Warum hat Ihr Mann in fünfzehn Monaten nichts hergebracht?“
+„Warum hat Ihr Mann in siebzehn Monaten nichts hergebracht?“
 
 Ich habe eine Weile gebraucht.
 
@@ -3479,11 +3480,11 @@ Es geht nicht darum, dass es zu wenig ist. Es ist nicht zu wenig, um
 eine Ehe zu beweisen — Herr Adamczyk hat mir am Türrahmen das Gegenteil
 gesagt, und er hätte es nicht sagen müssen.
 
-Es geht darum, dass ich es fünfzehn Monate lang nicht gesehen habe.
+Es geht darum, dass ich es siebzehn Monate lang nicht gesehen habe.
 
 Ich messe seit elf Jahren, wie viel sich in einer Wand bewegt. Ich
 merke, wenn ein Riss in sechs Wochen 1,1 Millimeter wandert. Und ich
-habe fünfzehn Monate lang mit einem Mann zusammengelebt, der in meiner
+habe siebzehn Monate lang mit einem Mann zusammengelebt, der in meiner
 Wohnung vier Gegenstände hat, und es ist mir nie aufgefallen, weil ich
 nie hingesehen habe, weil Hinsehen bedeutet hätte, es aufzuschreiben,
 und Aufschreiben bedeutet hätte, dass es das gibt.
@@ -3848,7 +3849,7 @@ es reicht. Er hat es geschrieben und mir hingeschoben und dann gesagt,
 was er damit macht, und er hätte es auch abgeschickt, wenn ich mit der
 Tasche zur Tür gegangen wäre.
 
-Das ist das erste Mal in fünfzehn Monaten, dass dieser Mann etwas gegen
+Das ist das erste Mal in siebzehn Monaten, dass dieser Mann etwas gegen
 sein eigenes Interesse getan hat, ohne dass jemand dabei zusah, der es
 ihm anrechnet.
 
@@ -4071,7 +4072,7 @@ mitnehmen.“
 
 „Warum nicht?“
 
-„Weil es meins ist“, sagte sie. „Ich habe fünfzehn Monate lang alles,
+„Weil es meins ist“, sagte sie. „Ich habe siebzehn Monate lang alles,
 was zwischen uns war, danach beurteilt, ob es mir irgendwann schaden
 könnte. Das hier ist die erste Sache seit drei Jahren, die ich
 aufschreibe, ohne zu überlegen, wer sie liest.“
@@ -4138,7 +4139,7 @@ Frau Domnick hat zum ersten Mal etwas notiert.
 
 „Weil ich am Sonntag gemerkt habe, dass er das Schreiben an Sie
 aufgesetzt hat, bevor er wusste, ob ich bleibe“, sagte ich. „Es ist das
-Einzige in fünfzehn Monaten, was er gegen sein eigenes Interesse getan
+Einzige in siebzehn Monaten, was er gegen sein eigenes Interesse getan
 hat, ohne dass jemand dabei war, der es ihm anrechnet. Ich weiß nicht,
 ob das reicht. Ich weiß, dass es zählt.“
 
@@ -4170,7 +4171,7 @@ gehören.“
 
 „Ja.“
 
-„Nach fünfzehn Monaten Ehe.“
+„Nach siebzehn Monaten Ehe.“
 
 „Ja.“
 
@@ -4189,7 +4190,7 @@ beide, und deshalb ist es zu bequem.“
 gesehen, der sofort etwas sagen wollte, und Dr. Brandt hat ihm ganz
 kurz die Hand auf den Unterarm gelegt.
 
-„Mein Mann hat in fünfzehn Monaten nichts hergebracht, weil er gemerkt
+„Mein Mann hat in siebzehn Monaten nichts hergebracht, weil er gemerkt
 hat, dass ich es nicht will“, sagte ich. „Ich habe ihm das nie gesagt.
 Ich habe es ihm auch nie verboten. Ich habe nur jedes Mal, wenn er
 etwas dagelassen hat, am nächsten Tag gefragt, ob er es noch braucht.“
@@ -4501,7 +4502,7 @@ vorschlagen, befristet auf ein Jahr statt der üblichen drei, mit
 erneuter Prüfung im September nächsten Jahres. Die Vorgänge Kubiak und
 der Anruf Ihres Mannes werden in der Akte vermerkt und bleiben dort.“
 Sie hat aufgesehen. „Das ist keine Strafe, Herr Reinhardt. Es ist der
-Preis dafür, dass fünfzehn Monate nichts dokumentiert wurde. Ein Jahr
+Preis dafür, dass vierzehn Monate nichts dokumentiert wurde. Ein Jahr
 lang leben Sie jetzt so, dass man es sehen kann. Dann sehen wir es uns
 wieder an.“
 
@@ -5731,7 +5732,7 @@ Dann hat er aufgelegt, ohne sich zu verabschieden.
 
 ---
 
-Am achtundzwanzigsten November, einem Freitag, ist Amira um sechs nach
+Am siebenundzwanzigsten November, einem Freitag, ist Amira um sechs nach
 Hause gekommen und hat gesagt: „Ich habe heute mit Kubiak telefoniert.“
 
 Ich habe zwei Sekunden gebraucht.
@@ -6882,7 +6883,7 @@ gesagt hat: Man vermisst jemanden nicht in großen Stücken. Man vermisst
 ihn morgens um zehn nach sechs, weil das Bad leer ist, und abends um
 halb acht, wenn man aus Gewohnheit für zwei kocht.
 
-Am zwanzigsten Mai habe ich ihr geschrieben: *Ich habe wieder für zwei
+Am neunzehnten Mai habe ich ihr geschrieben: *Ich habe wieder für zwei
 gekocht.*
 
 Sie hat geantwortet: *Friert es ein. Ich bin Donnerstag da.*
@@ -6895,7 +6896,7 @@ Ich habe dieses zweite Bild aufgehoben. Ich habe es immer noch.
 
 ---
 
-Am Donnerstag, dem einundzwanzigsten Mai, ist sie um Viertel nach sechs
+Am Donnerstag, dem zwanzigsten Mai, ist sie um Viertel nach sechs
 gekommen, und ich war noch im Büro, und als ich um acht nach Hause kam,
 saß sie in der Küche mit nassen Haaren.
 
@@ -7082,7 +7083,7 @@ weggelassen.
 
 ---
 
-Theo ist am zwölften Juni gekommen, ohne sich anzukündigen, an einem
+Theo ist am elften Juni gekommen, ohne sich anzukündigen, an einem
 Freitagnachmittag, weil eine Sitzung ausgefallen war.
 
 Ich stand auf dem dritten Boden, allein, mit dem Klemmbrett, und habe
@@ -7208,7 +7209,7 @@ recht gehabt, und sie wäre allein nach Hause gefahren.
 
 Ich habe in dieser Nacht Eintrag zweiundachtzig geschrieben.
 
-*12.06. Er hat gezaehlt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
+*11.06. Er hat gezaehlt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
 wusste es selbst nicht.*
 
 Und darunter:
@@ -7375,7 +7376,7 @@ passiert ist.“
 
 Es hat sechs Wochen gedauert.
 
-Am achtundzwanzigsten August, einem Freitag, hat Kubiak mich angerufen
+Am siebenundzwanzigsten August, einem Freitag, hat Kubiak mich angerufen
 und gefragt, ob ich am Montag Zeit habe.
 
 „Ist es schlimm?“
@@ -7574,7 +7575,7 @@ Sie hatte gesagt, sie brauche ungefähr eine Woche, und sie hat sich an
 ihr Wort gehalten, und ich habe in dieser Woche gelernt, dass es einen
 Unterschied gibt zwischen Schweigen und Stillsein.
 
-Vom einunddreißigsten August bis zum sechsten September hat Amira
+Vom einunddreißigsten August bis zum fünften September hat Amira
 gearbeitet, gegessen, geschlafen und ungefähr vierzig Sätze am Tag
 gesagt, und keiner davon war unfreundlich.
 
@@ -7602,7 +7603,7 @@ dem Tisch, ohne aufzusehen, und sie eine Stunde dort gelassen.
 
 ---
 
-Am Sonntag, dem sechsten September, hat sie mich um halb acht morgens
+Am Sonntag, dem fünften September, hat sie mich um halb acht morgens
 geweckt.
 
 „Ich bin fertig“, sagte sie.
@@ -7683,7 +7684,7 @@ aufschreibe.“
 
 ---
 
-Am siebten September ist sie hingefahren, und sie ist um halb sieben
+Am sechsten September ist sie hingefahren, und sie ist um halb sieben
 zurückgekommen, mit einem Umschlag voller Fotos, die eine
 neunundsiebzigjährige Frau ihr mitgegeben hat, und mit roten Augen.
 
@@ -8059,7 +8060,7 @@ Wand bleiben.
 
 ---
 
-Ich habe das am zwanzigsten September, einem Sonntag, auf den
+Ich habe das am neunzehnten September, einem Sonntag, auf den
 Küchentisch gelegt.
 
 „Was ist das?“, sagte Amira.
@@ -8593,7 +8594,7 @@ hinein; was, steht noch nicht fest.
 Die vier Haken an der Wand hinten links bleiben, wo sie sind. Das habe
 ich mir schriftlich geben lassen.
 Ihre Fotos habe ich abfotografiert und schicke Ihnen die Originale
-zurück. Was Sie mir am siebten September erzählt haben, steht jetzt in
+zurück. Was Sie mir am sechsten September erzählt haben, steht jetzt in
 einer Chronik, die eine Frau namens Sabine Reinhardt 1989 angefangen
 hat.
 Ich würde gern noch einmal kommen, wenn es Ihnen recht ist.*
@@ -8912,7 +8913,7 @@ Ich habe nichts gesagt, weil mir die Stimme nicht getraut hat.
 „Sag was“, sagte Amira.
 
 „Ich habe seit Juli einen Termin reserviert“, sagte ich. „Im
-Wintergarten meiner Mutter. Zwölfter Juni, weil das der einzige Samstag
+Wintergarten meiner Mutter. Zehnter Juni, weil das der einzige Samstag
 ist, an dem ihr Flieder blüht.“
 
 Sie hat mich sehr lange angesehen.
@@ -8931,7 +8932,7 @@ als hätte ich dich hineingedrängt.“
 
 „Und wenn ich nein gesagt hätte?“
 
-„Dann hätte ich am elften Juni abgesagt und es dir nie erzählt.“
+„Dann hätte ich am neunten Juni abgesagt und es dir nie erzählt.“
 
 ---
 
@@ -9125,7 +9126,7 @@ geprüft, ein Jahr lang, unter Aufsicht.“
 ---
 
 Wir sind am Sonntag zurückgefahren, und im Zug hat er auf dem Tisch
-zwischen uns angefangen, den zwölften Juni zu planen.
+zwischen uns angefangen, den zehnten Juni zu planen.
 
 Ich habe ihm nach vierzig Minuten den Stift weggenommen.
 
@@ -9554,7 +9555,7 @@ Theo hat eine Weile nichts gesagt.
 
 # Achtundfünfzig Quadratmeter — Theo
 
-Sie hat das Büro am zwanzigsten März bezogen, an einem Freitag, und ich
+Sie hat das Büro am siebzehnten März bezogen, an einem Freitag, und ich
 durfte nicht helfen.
 
 „Warum nicht?“
@@ -9941,7 +9942,7 @@ gesagt.
 
 ---
 
-# Der zwölfte Juni — Theo
+# Der zehnte Juni — Theo
 
 Der Flieder meiner Mutter hat 2028 vier Tage zu früh geblüht, und sie
 hat das genommen wie eine persönliche Beleidigung.
@@ -11449,7 +11450,7 @@ Ich habe sie angesehen.
 
 „Wie viele wissen es?“
 
-„Deine Mutter seit dem zwölften April“, sagte Amira. „Selin seit
+„Deine Mutter seit dem achten April“, sagte Amira. „Selin seit
 Februar, weil sie es an meinem Gesicht gesehen hat. Meine Mutter seit
 Ostern. Marlene seit vorgestern, weil sie mir eine Tasse Kaffee
 hingestellt hat und ich zwei Sekunden zu lange gezögert habe.“
@@ -11623,7 +11624,7 @@ hat.
 
 Eintrag einhundertvierundsiebzig.
 
-*12.04. Ich habe es Sabine gesagt, ohne es vorher mit ihm abzusprechen.
+*08.04. Ich habe es Sabine gesagt, ohne es vorher mit ihm abzusprechen.
 Er hat nichts gemacht.*
 
 Und darunter:
@@ -11637,7 +11638,7 @@ gemacht.“
 
 ---
 
-Wir haben es Sabine am zwölften April gesagt, an einem Sonntag, und sie
+Wir haben es Sabine am achten April gesagt, an einem Sonntag, und sie
 hat die Kaffeekanne abgestellt und ist aus der Küche gegangen, ohne ein
 Wort, und ist vier Minuten weggeblieben.
 
@@ -12542,7 +12543,7 @@ Es hat vier Jahre gedauert, ihm das beizubringen.
 
 # Epilog: Der vierundzwanzigste März — Theo
 
-Die Winterlinde ist am vierundzwanzigsten März 2030 gepflanzt worden,
+Die Winterlinde ist am zwanzigsten März 2030 gepflanzt worden,
 einem Mittwoch, um Viertel nach acht morgens, und sie hat vier Meter
 zwanzig und einen Stammumfang von siebzehn Zentimetern.
 
@@ -12735,7 +12736,7 @@ Am Abend hat Amira in ihr Heft geschrieben. Eintrag zweihundertsechs.
 
 Sie hat ihn mir gezeigt, was sie sonst nicht macht.
 
-*24.03. Der Baum steht. Grube war zu flach, R. hat sie nachgemacht,
+*20.03. Der Baum steht. Grube war zu flach, R. hat sie nachgemacht,
 ohne zu diskutieren. N. hat durchgeschlafen.*
 
 Und darunter:

@@ -8,7 +8,7 @@
 | Untertitel | Eine geheime Ehe, eine Frist und eine Familie, die alles regelt |
 | Reihe | Die Reinhardt-Brüder, Band 2 |
 | Autorin | Jule Norden (Pseudonym, wie Band 1) |
-| Umfang | **64 Kapitel, 69.294 Wörter Fließtext, 70.028 Wörter gesamt** |
+| Umfang | **64 Kapitel, 69.302 Wörter Fließtext, 70.036 Wörter gesamt** |
 | Erzählform | Ich-Perspektive, wechselnd Amira / Theo, Präteritum |
 | Datei | `buch2/reinhardt-2_KDP.epub` (1.143 kB, 66 Abschnitte) |
 | Lesefassung | `buch2/Was-er-nie-gefragt-hat.epub` |
@@ -18,7 +18,7 @@
 
 ## Die Prüfläufe
 
-Alle vier Werkzeuge laufen mit `--buch buch2`:
+Alle Werkzeuge laufen mit `--buch buch2`:
 
 | Werkzeug | Ergebnis |
 |---|---|
@@ -27,6 +27,9 @@ Alle vier Werkzeuge laufen mit `--buch buch2`:
 | `dopplung.py` | Ein Treffer, absichtlich — siehe `PROJEKT.md` 7c |
 | `romantik.py` | 0 von 64 Kapiteln ohne gemeinsame Szene |
 | `epubcheck.py` | Keine Beanstandungen |
+| `kalender.py` | 12 Datumsangaben mit Wochentag geprüft, keine Beanstandungen (nach 9 Korrekturen) |
+| `namen.py` | 32 Eigennamen, 3 Verdachtsfälle, alle drei falsch — keine Schreibvariante im Buch |
+| `vale.sh buch2` | 0 Fehler, 0 Warnungen, 10 Hinweise (Füllwörter in wörtlicher Rede) |
 
 Band 1 nach allen Änderungen an den gemeinsamen Werkzeugen
 gegengeprüft: unverändert ohne Beanstandung, Kennung weiterhin
@@ -77,6 +80,76 @@ denselben Sachverhalt in eigenen Worten erklären, ist der Inhalt der
 Szene. Wer das wegschreibt, nimmt der Anhörung ihren Zweck.
 Begründung in `PROJEKT.md` 7c, damit es beim nächsten Lauf nicht als
 Mangel „behoben" wird.
+
+---
+
+## Die Fehlerprüfung vom 31.08.2026
+
+Das Buch war fertig. Geprüft wurde trotzdem noch einmal, und zwar auf
+die Fehlerart, die kein Leser verzeiht und kein bisheriges Werkzeug
+gesehen hat: **Zahlen, die im Text aufeinander zeigen.**
+
+Zwei neue Messgeräte, beide mit Selbsttest:
+
+**`kalender.py`** rechnet jede Datumsangabe mit ausgeschriebenem
+Wochentag gegen den echten Kalender. Gefunden: **neun falsche
+Wochentage** in den Kapiteln 30 bis 64. Behoben wurden die *Daten*, nicht
+die Wochentage — der Sonntag beim Essen und der Dienstag beim Amt
+tragen Bedeutung, das Datum daneben nicht.
+
+*Die erste Fassung des Werkzeugs hat 6 von 11 prüfbaren Stellen nicht
+gesehen*, weil sie nur eine Wortstellung kannte, und hätte „keine
+Beanstandungen" gemeldet. Ein Messgerät, das die Hälfte nicht sieht,
+ist schlimmer als keins. Jetzt vier Wortformen, jede mit ihrem echten
+Satz im Selbsttest.
+
+**`namen.py`** hält jedes großgeschriebene Wort gegen einen umgrenzten
+Namensbestand. Ergebnis: 32 Eigennamen, drei Verdachtsfälle, alle drei
+falsch (*Erst/Ernst*, *Krise/Kruse*, *Sein/Selin* sind echte Wörter).
+Keine Schreibvariante im Buch.
+
+### Die Ehedauer stand fünfzehn Kapitel lang still
+
+Der größte Fund kam nicht vom Werkzeug, sondern vom Nachrechnen: Die
+Wendung *„seit fünfzehn Monaten verheiratet"* stand von Kapitel 12 bis
+Kapitel 24 unverändert da — während die Handlung von Mai bis September
+2026 läuft. **Fünfzehn Stellen**, jede einzeln gegen ihr Kapiteldatum
+und die Hochzeit am 14.03.2025 gerechnet:
+
+| Kapitel | Im Buch datiert auf | Stand | Jetzt |
+|---|---|---|---|
+| 12 | 27.05.2026 | fünfzehn | **vierzehn** |
+| 13 | 04.06.2026 | fünfzehn | **vierzehn** |
+| 14, 15 | 21.06. / 08.07.2026 | fünfzehn | **vierzehn** (Rückblick auf die Geheimhaltung) |
+| 17 | 26.07.2026 | fünfzehn | **sechzehn** |
+| 19 | 21.08.2026 | fünfzehn (5×) | **siebzehn** |
+| 21, 22, 23 | 30.08.–08.09.2026 | fünfzehn | **siebzehn** |
+| 24 | 08.09.2026 | fünfzehn | **vierzehn** (Zeitraum ohne Dokumentation) |
+
+Dabei ist eine Regel sichtbar geworden, die das Buch vorher nur
+zufällig eingehalten hat und jetzt durchgehend einhält: **Vierzehn
+Monate ist die Geheimhaltung** (Hochzeit bis zu Amiras Anruf im Mai
+2026) — eine feste Zahl, die von Kapitel 18 bis Kapitel 59 immer wieder
+zurückzitiert wird. Alles andere ist die laufende Ehedauer und wächst
+mit.
+
+### Zwei Widersprüche in der Messreihe
+
+- Die Setzung an der Ostwand war in Kapitel 11 **vierzehn Monate**
+  lang gemessen und in vier weiteren Kapiteln **drei Jahre**. Kapitel 11
+  sagt jetzt, dass sich die vier Punkte *seit* vierzehn Monaten nicht
+  mehr bewegt haben — das Bild („dieselben vierzehn Monate", der
+  Gleichlauf von Riss und Ehe) bleibt, der Widerspruch ist weg.
+- Die Messreihe begann im **April 2023**, der Auftrag kam im **August
+  2023**. Sie hat gemessen, bevor sie beauftragt war. Jetzt September,
+  und damit 72 statt 78 Messtermine.
+
+### Ein Werkzeug, das man richtig aufrufen muss, ist falsch gebaut
+
+`prosa.py --buch buch2` **ohne** `--bericht` hat den Prosa-Bericht von
+Band 1 mit den Zahlen von Band 2 überschrieben. Der Berichtspfad
+richtet sich jetzt nach dem Buch; Band 2s Bericht liegt als
+`buch2/PROSA.md`.
 
 ---
 

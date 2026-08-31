@@ -314,7 +314,12 @@ def main() -> None:
     p.add_argument("--selbsttest", action="store_true")
     p.add_argument("--korrigieren", action="store_true",
                    help="eindeutige Typografiefehler im Text ersetzen")
-    p.add_argument("--bericht", default="PROSA.md")
+    # Ohne Angabe richtet sich der Berichtspfad nach dem Buch. Vorher
+    # stand hier fest "PROSA.md" -- ein Lauf mit --buch buch2 und ohne
+    # --bericht hat am 31.08.2026 den Bericht von Band 1 mit den Zahlen
+    # von Band 2 ueberschrieben. Ein Werkzeug, das man richtig aufrufen
+    # muss, damit es nichts kaputtmacht, ist falsch gebaut.
+    p.add_argument("--bericht", default=None)
     p.add_argument("--ohne-spacy", action="store_true")
     p.add_argument("--buch", default="buch",
                    help="Ordner mit Kapiteln (zweiter Band: --buch buch2)")
@@ -322,6 +327,9 @@ def main() -> None:
 
     global BUCH
     BUCH = Path(args.buch)
+    if args.bericht is None:
+        args.bericht = ("PROSA.md" if BUCH.name == "buch"
+                        else str(BUCH / "PROSA.md"))
 
     print("Kalibrierung:")
     if not selbsttest():

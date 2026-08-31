@@ -392,6 +392,41 @@ die andere zitiert werden müsste.
 
 ---
 
+## 7e. Die zwei Monatszähler — nachgerechnet am 31.08.2026
+
+Das Buch zählt Monate an zwei verschiedenen Anfängen, und wer das nicht
+weiß, „korrigiert" später das Richtige kaputt.
+
+**Zähler A — die Geheimhaltung: immer vierzehn Monate.** Von der
+Hochzeit in Kopenhagen (14.03.2025) bis zu Amiras Anruf bei Jonas
+(Freitag, 08.05.2026). Eine feste Zahl. Sie steht überall dort, wo
+jemand zurückblickt: das anonyme Schreiben in Kapitel 18, Amiras Satz
+im Auto in Kapitel 27, Heiligabend in Kapitel 32, die Rede in
+Kapitel 59. **Diese Stellen sind richtig und dürfen nicht mitwachsen.**
+
+**Zähler B — die laufende Ehedauer.** Hochzeit bis zum Datum des
+Kapitels. Wächst. Als Anhalt: vierzehn Monate ab 14.05.2026, fünfzehn
+ab 14.06., sechzehn ab 14.07., siebzehn ab 14.08., achtzehn ab 14.09.,
+einundzwanzig ab 14.12.2026.
+
+Bis zum 31.08.2026 stand *fünfzehn Monate* von Kapitel 12 bis
+Kapitel 24 fest, obwohl die Handlung in dieser Strecke vier Monate
+zurücklegt. Fünfzehn Stellen korrigiert; die Tabelle mit jeder
+einzelnen steht in `STAND.md`.
+
+**Kapitel 32 ist Heiligabend 2026, nicht 2027.** Die Jahrestabelle in
+`kalender.py` hatte es auf 2027 stehen. Aufgefallen ist es nicht dem
+Werkzeug — in Kapitel 32 kommt kein Datum mit Wochentag vor —, sondern
+dem Nachrechnen von „einundzwanzig Monaten".
+
+**Die Messreihe am Kontorhaus läuft drei Jahre**, seit September 2023,
+72 Termine im Abstand von vierzehn Tagen, 411 Blätter. Davon zu
+unterscheiden: die letzten **vierzehn Monate**, in denen sich die vier
+Punkte an der Ostwand nicht mehr bewegt haben — das ist der Gleichlauf
+mit der Ehe in Kapitel 11 und keine zweite Angabe zur Dauer der Reihe.
+
+---
+
 ## 8. Was in Kapitel 1–10 nachgetragen wird
 
 Beim Schreiben von Block 2 sind vier Stellen aufgefallen, an denen die
@@ -419,12 +454,20 @@ frühen Kapitel zu schnell über etwas hinweggehen:
 Alle vier Skripte akzeptieren jetzt `--buch buch2`:
 
     python3 scripts/manuskript.py --buch buch2 --ziel buch2/manuskript.md --epub ""
-    python3 scripts/prosa.py --buch buch2 --bericht PROSA-2.md
+    python3 scripts/prosa.py --buch buch2
     python3 scripts/dopplung.py --buch buch2
     python3 scripts/romantik.py --buch buch2   # NAMEN-Dict muss vorher auf Amira/Theo umgestellt werden
+    python3 scripts/kalender.py --buch buch2   # Wochentage gegen den echten Kalender
+    python3 scripts/namen.py --buch buch2      # Eigennamen auf Schreibvarianten
+    bash    scripts/vale.sh   buch2
 
 `epubcheck.py` und `coverbau.py` brauchen keine Anpassung — sie
 arbeiten bereits an der fertigen Datei bzw. an einem übergebenen Bild.
+
+**In `kalender.py` und `namen.py` steht je eine Tabelle von Hand:** die
+Jahreszahl je Kapitel und die Vornamen. Wer ein Kapitel einschiebt oder
+eine Figur einführt, trägt dort nach. Ein fehlender Eintrag führt zu
+einer Meldung, nicht zu einer stillen Annahme.
 
 ---
 
