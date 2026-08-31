@@ -391,13 +391,25 @@ def main() -> None:
     p.add_argument("--kapitel", nargs="*", type=int, default=[])
     p.add_argument("--modelle", nargs="*",
                    default=["openai/gpt", "google/gemini"])
-    p.add_argument("--bericht", default="LEKTORAT.md")
+    p.add_argument("--buch", default="buch",
+                   help="Ordner mit Kapiteln (zweiter Band: --buch buch2)")
+    # Ohne Angabe richtet sich der Bericht nach dem Buch. Ein fester
+    # Vorgabewert hat am 31.08.2026 bei prosa.py den Bericht von
+    # Band 1 mit den Zahlen von Band 2 ueberschrieben; derselbe
+    # Fehler waere hier moeglich gewesen.
+    p.add_argument("--bericht", default=None)
     p.add_argument("--max-preis", type=float, default=20.0,
                    help="USD je Mio. Token, Obergrenze")
     p.add_argument("--selbsttest", action="store_true")
     p.add_argument("--ohne-kontrolle", action="store_true",
                    help="Gegenprobe überspringen")
     args = p.parse_args()
+
+    global BUCH
+    BUCH = Path(args.buch)
+    if args.bericht is None:
+        args.bericht = ("LEKTORAT.md" if BUCH.name == "buch"
+                        else str(BUCH / "LEKTORAT.md"))
 
     print("Kalibrierung:")
     if not selbsttest():
@@ -475,7 +487,11 @@ def main() -> None:
         ergebnisse.append(eintrag)
 
     Path("daten").mkdir(exist_ok=True)
-    Path("daten/lektorat.json").write_text(
+    # Auch die Rohdaten je Buch, sonst ueberschreibt der Lauf ueber Band 2
+    # die Antworten zu Band 1.
+    rohdaten = ("daten/lektorat.json" if BUCH.name == "buch"
+                else f"daten/lektorat-{BUCH.name}.json")
+    Path(rohdaten).write_text(
         json.dumps(ergebnisse, ensure_ascii=False, indent=2),
         encoding="utf-8")
 

@@ -48,6 +48,10 @@ on:
         description: "Modell-Muster für das Lektorat, Leerzeichen-getrennt (werden gegen die Modellliste aufgelöst)"
         type: string
         default: "openai/gpt google/gemini"
+      lektorat_buch:
+        description: "Buchordner für das Lektorat (buch = Band 1, buch2 = Band 2)"
+        type: string
+        default: "buch"
       bild_ausgabe:
         description: "Zieldatei für --bild-prompt, damit mehrere Läufe sich nicht überschreiben"
         type: string
@@ -95,6 +99,7 @@ jobs:
           BILD_AUSGABE: ${{ inputs.bild_ausgabe || 'bilder/openrouter/ausgabe.png' }}
           LEKTORAT_KAPITEL: ${{ inputs.lektorat_kapitel }}
           LEKTORAT_MODELLE: ${{ inputs.lektorat_modelle || 'openai/gpt google/gemini' }}
+          LEKTORAT_BUCH: ${{ inputs.lektorat_buch || 'buch' }}
         run: |
           # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
           # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
@@ -111,7 +116,7 @@ jobs:
           fi
           if [ -n "$LEKTORAT_KAPITEL" ]; then
             python3 scripts/lektorat.py --kapitel $LEKTORAT_KAPITEL \
-              --modelle $LEKTORAT_MODELLE
+              --modelle $LEKTORAT_MODELLE --buch "$LEKTORAT_BUCH"
             exit 0
           fi
           if [ -n "$BILD_PROMPT" ]; then
@@ -140,6 +145,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add OPENROUTER.md MODELLINFO.md daten/openrouter.json bilder/openrouter 2>/dev/null || true
           git add LEKTORAT.md daten/lektorat.json 2>/dev/null || true
+          git add buch2/LEKTORAT.md daten/lektorat-buch2.json 2>/dev/null || true
           # Am 15.08.2026 lief eine Bilderzeugung durch, meldete Erfolg --
           # und das Bild war weg. Der Ausgabepfad lag ausserhalb der oben
           # aufgezaehlten Verzeichnisse, `git add` nahm ihn nicht mit, und
