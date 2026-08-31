@@ -8,7 +8,7 @@
 | Untertitel | Eine geheime Ehe, eine Frist und eine Familie, die alles regelt |
 | Reihe | Die Reinhardt-Brüder, Band 2 |
 | Autorin | Jule Norden (Pseudonym, wie Band 1) |
-| Umfang | **64 Kapitel, 69.297 Wörter Fließtext, 70.032 Wörter gesamt** |
+| Umfang | **64 Kapitel, 69.297 Wörter Fließtext, 70.243 Wörter gesamt** |
 | Erzählform | Ich-Perspektive, wechselnd Amira / Theo, Präteritum |
 | Datei | `buch2/reinhardt-2_KDP.epub` (1.143 kB, 66 Abschnitte) |
 | Lesefassung | `buch2/Was-er-nie-gefragt-hat.epub` |
