@@ -138,7 +138,8 @@ Ich habe zu Theo gesehen, und er hat auf seine Hände gesehen, und ich
 habe es für ihn gesagt, weil ich wusste, dass er es sonst schöner
 formuliert, als es war.
 
-„Weil ich die Gutachterin war und er der Bauherr“, sagte ich. „Er hat
+„Weil ich die Gutachterin war und er für den Bauherrn saß“, sagte
+ich. „Er hat
 mir das im Juni 2024 erklärt, und es war der Satz, an dem ich gemerkt
 habe, dass ich ihn will: *Wenn ich anfange, kannst du nicht mehr nein
 sagen, ohne dass es dich etwas kostet.*“

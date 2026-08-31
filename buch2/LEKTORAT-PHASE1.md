@@ -570,3 +570,108 @@ Phase 3 anfängt, wäre ein Lauf über die Kapitel, die dieser Plan
 anfasst — 3, 5, 6, 20, 22, 27, 28, 34, 38, 47, 61, 62 — die beste
 verfügbare Gegenprobe. Kosten nach der Hochrechnung des ersten Laufs:
 etwa 0,35 USD.
+
+
+---
+
+# PHASE 3 — was tatsächlich geändert wurde (Stand 31.08.2026)
+
+## Die Gegenprobe zuerst
+
+Zwölf Kapitel, zwei fremde Modelle, **Belegquote 100 % (38 von 38
+Zitaten)**, Gegenprobe hat bei beiden gegriffen, **0 Abbruchstellen in
+24 Leseproben**. Bericht: `buch2/LEKTORAT.md`, Kosten 0,37 USD.
+
+**Was der Lauf bestätigt hat:**
+
+- **Kapitel 38.** Gemini stolpert genau über die hängende Zeile, die ich
+  beim Lesen gefunden hatte: *„Hier stolpere ich über den
+  Sprecherwechsel und weiß nicht, wer gerade spricht."* Unabhängige
+  Bestätigung.
+- **Kapitel 5**, *„und er der Bauherr"* — zum zweiten Mal in zwei
+  Läufen gemeldet. Beim ersten Mal hatte ich es als idiomatisch
+  durchgehen lassen. Zweimal ist ein Befund.
+- **Kapitel 27** ist zu dicht: Gemini weiß bei *„Paragraf
+  einundzwanzig"* nicht, was gemeint ist.
+- **Kapitel 3** ist unübersichtlich: *„wer nun wo offiziell gemeldet
+  ist"*.
+
+**Was der Lauf NICHT bestätigt hat — und was ich deshalb zurücknehme:**
+
+- **Kapitel 61** („zu kühl, zu administrativ"): kein einziger Stolperer,
+  von keinem der beiden Modelle. Der Verfahrensschnitt entfällt.
+- **Kapitel 22** („deutlich kürzen"): ebenfalls kein Befund. Die Kürzung
+  bleibt eine Vermutung und wird nicht ausgeführt.
+
+**Was der Lauf gefunden hat, das ich nicht hatte** — sechs Stellen, alle
+behoben:
+
+| Kapitel | Befund | behoben |
+|---|---|---|
+| 62 | *„Sie hat sich hingesetzt und mir gegenüber"* — echter Satzbaufehler, den LanguageTool nicht sieht | Komma statt „und" |
+| 20 | *„in welcher Reihenfolge sie es erfährt"* — welche Reihenfolge? | ausformuliert |
+| 20 | *„Es ist derselbe Ordner"* — welcher Ordner? | 1997 benannt |
+| 27 | *„Paragraf einundzwanzig"* nie übersetzt | in einem Halbsatz erklärt |
+| 28 | Wendland taucht „aus dem Nichts" auf | einmal wieder verankert |
+| 47 | *„Was ist Kehrwieder vierzehn?"* | einmal benannt |
+
+## Kontinuität: von Band 1 entschieden, nicht von mir
+
+Band 1 (`buch/kapitel-14.md`, `buch/kapitel-50.md`) legt fest: Wendland
+sitzt **seit 2007** im Beirat und war **1997 bei der Bank**. Damit war
+Band 2 an sechs Stellen falsch und Band 1 an keiner. Alle sechs
+korrigiert; die sechzehn Jahre unter dem Vater bleiben und liegen jetzt
+vor dem Beirat.
+
+Dazu die stehende Uhr „achtundzwanzig Jahre": richtig 2026, falsch 2027
+und 2029. Und Jonas' „vierzehn Jahre ohne Sonntag" → sechzehn.
+
+## Ausgeführt
+
+| Punkt | Ergebnis |
+|---|---|
+| M1 Leseprobe | Kapitel 3 und 6 hatten null körperliche Nähe, jetzt je einen Beat. **1,59 → 1,83** je 1000 Wörter. |
+| M4 vier Fehler | alle behoben, K38 unabhängig bestätigt |
+| M5 Kapitel 5 | heißt jetzt *„Die Frau mit der Schüssel"* |
+| S3 Niklas | zwei Halbsätze in K20 und K47 — ein Riss, kein Konflikt, kein Band-3-Hinweis |
+| S6 Amiras Beinahe-Fund | Kapitel 13: Perlbach fragt nach der Nordseite, Amira weicht aus. Ihr Wendepunkt in K40 gehört jetzt ihr. |
+
+## Zurückgenommen — mit Begründung
+
+**M1 hat mein eigenes Ziel verfehlt.** Ich hatte „auf etwa 2,6"
+vorhergesagt; erreicht sind 1,83. Zwei Kapitel, die null hatten, haben
+jetzt eins. Mehr geht nicht, ohne den Stoff zu verfälschen: In den
+ersten sieben Kapiteln verstecken sich die beiden — das ist die
+Prämisse, nicht ein Mangel. Die Lücke zum Buchschnitt (2,91) bleibt
+bestehen und ist keine Schwäche, sondern die Form.
+
+**M2 (Kapitel 27 um ein Drittel kürzen) ist gestrichen.** Beim Lesen
+zeigt sich, dass die Szene mit dem Prokuristen ihre Dichte verdient —
+sie ist der Moment, in dem Amiras Angst eintritt (*„Genau das Szenario.
+Wortwörtlich das, wovor ich Angst hatte."*). Stattdessen ein Absatz am
+Kapitelanfang, der die neue Uhr benennt: die dreihundertfünfzig Tage,
+in denen sie so leben müssen, dass man es sehen kann. Das behebt
+Schwäche 2 (die Uhr hört bei 37,5 % auf), nicht die Dichte — K27 liegt
+weiter bei 29,5. Das ist ehrlicher als ein Schnitt, der eine gute Szene
+kostet, um eine Zahl zu bewegen.
+
+**M3 (letztes Fünftel) ist nach dem Lauf gegenstandslos**, siehe oben.
+
+## Noch offen aus Phase 2
+
+- **S1** — Aphorismen bei Nebenfiguren ausdünnen (rund zwölf Stellen)
+- **S2** — Schlusssatz-Reflex bei rund zwölf Szenen brechen
+- **S4** — den anonymen Brief einmal zu Ende denken
+- **KANN** — Kapitel 2 (Liste auf fünf), Kürzungen in 11, 12, 30, 34
+
+Das sind die beiden größten verbliebenen Punkte (S1, S2), und sie sind
+die heikelsten, weil sie die Stimme betreffen. Sie gehören in einen
+eigenen Durchgang.
+
+## Stand nach diesem Durchgang
+
+64 Kapitel, 68.955 Wörter gemessen. `kalender.py`, `namen.py`,
+`dopplung.py`, `romantik.py`, `vale.sh`, `epubcheck.py` ohne
+Beanstandung. LanguageTool 54 Treffer — unverändert, also keine neuen
+Fehler eingebaut. **epubcheck 5.2.1 (W3C): 0 fatals / 0 errors /
+0 warnings / 0 infos.**

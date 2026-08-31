@@ -78,6 +78,20 @@ Gerätenummer und Kalibrierdatum.“
 „Weil Sie darin etwas finden, das ich nicht hätte schreiben dürfen,
 wenn ich meinem Mann helfen wollte.“
 
+Frau Dr. Perlbach hat geblättert und bei den Einschränkungen angehalten.
+
+„Sechs Messpunkte. Warum keiner an der Nordseite?“
+
+„Weil man dort nicht hinkommt“, sagte ich. „Anderthalb Meter zum
+Nachbarhaus, und das Nachbargrundstück gehört einer Erbengemeinschaft,
+die auf nichts antwortet.“
+
+„Haben Sie es versucht?“
+
+„Es steht dreimal im Protokoll, unter Einschränkungen“, sagte ich, und
+das war eine Antwort auf eine andere Frage, und wir haben es beide
+gemerkt und beide nichts dazu gesagt.
+
 Ich habe auf Blatt zweihundertsechs aufgeschlagen.
 
 „Neunzehnter November, letztes Jahr. Da war ich acht Monate

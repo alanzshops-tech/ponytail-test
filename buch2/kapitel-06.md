@@ -13,6 +13,14 @@ jedes Blatt liegt, ohne nachzudenken.
 
 „Ja.“
 
+Sie hat den Ordner auf die Knie gedrückt und mir die andere Hand
+hingehalten, mit der Handfläche nach oben, auf der Sitzfläche zwischen
+uns, und nicht dazu gesagt, was ich damit machen soll.
+
+Ich habe sie genommen. Sie war kalt, und meine war es auch, und wir
+haben so dagesessen, bis der Lautsprecher etwas gesagt hat, das uns
+nicht meinte.
+
 „Hör auf damit. Es macht mich nervös, dass du nervös bist.“
 
 „Ich bin nicht nervös.“

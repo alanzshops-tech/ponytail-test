@@ -1,5 +1,20 @@
 # Was im Oktober aufgehoben wurde — Amira
 
+Frau Sarrazin hat mir ein Jahr gegeben und dazu einen Satz, den ich
+seitdem jeden Morgen im Kopf habe, wenn ich die Tür hinter mir zumache:
+*Ein Jahr lang leben Sie jetzt so, dass man es sehen kann.*
+
+Ich habe im September gedacht, das sei eine Erleichterung. Es sind
+dreihundertfünfzig Tage, an denen alles, was zwischen uns passiert,
+auch danach beurteilt wird, wie es in einer Akte aussieht — und wir
+haben in diesem Jahr genau eine Aufgabe: nicht mehr zu üben, sondern es
+zu sein.
+
+Ich habe elf Tage gebraucht, um zu merken, dass das schwerer ist als
+die Frist im Mai.
+
+---
+
 Der Widerspruchsbescheid kam am sechsten Oktober, und er war acht
 Seiten lang, und auf Seite sechs stand der Satz, der alles Weitere
 ausgelöst hat.
@@ -70,8 +85,9 @@ haben.
 Viertens: Die Firma hat gegen diesen Punkt geklagt, statt ihn
 einzuräumen.
 
-Fünftens: Es gibt eine Behördenakte mit einem Vermerk nach Paragraf
-einundzwanzig über die Gutachterin.
+Fünftens: Es gibt eine Behördenakte, in der unter Paragraf
+einundzwanzig steht, dass jemand meine Unparteilichkeit für prüfbar
+gehalten hat.
 
 Sechstens: Es gibt einen Aktenvermerk eines Wettbewerbers über einen
 Anruf des Ehemanns.

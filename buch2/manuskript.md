@@ -514,6 +514,13 @@ Theo hat gefragt: „Und wenn wir uns widersprechen?“
 
 „Dann sind Sie ein Ehepaar“, sagte Dr. Brandt.
 
+Theo hat unter dem Tisch die Hand auf mein Knie gelegt, und ich habe
+sie liegen lassen und nicht hingesehen, weil eine Kamera lief.
+
+Es ist das erste Mal seit vierzehn Monaten gewesen, dass uns jemand
+dabei zusehen konnte. Ich habe hinterher zwei Tage gebraucht, um zu
+merken, dass mir das aufgefallen ist.
+
 ---
 
 Er sah auf seine Uhr.
@@ -731,7 +738,7 @@ und ich bin ausgestiegen und zurück zur Tür gegangen.
 
 ---
 
-# Kopenhagen, vierzehn Monate vorher — Amira
+# Die Frau mit der Schüssel — Amira
 
 Sabine Reinhardt kam um achtzehn Uhr dreißig durch meine Tür, mit einer
 Schüssel in der Hand, die sie nicht angekündigt hatte, und dem Satz:
@@ -871,7 +878,8 @@ Ich habe zu Theo gesehen, und er hat auf seine Hände gesehen, und ich
 habe es für ihn gesagt, weil ich wusste, dass er es sonst schöner
 formuliert, als es war.
 
-„Weil ich die Gutachterin war und er der Bauherr“, sagte ich. „Er hat
+„Weil ich die Gutachterin war und er für den Bauherrn saß“, sagte
+ich. „Er hat
 mir das im Juni 2024 erklärt, und es war der Satz, an dem ich gemerkt
 habe, dass ich ihn will: *Wenn ich anfange, kannst du nicht mehr nein
 sagen, ohne dass es dich etwas kostet.*“
@@ -968,6 +976,14 @@ jedes Blatt liegt, ohne nachzudenken.
 „Du zählst die Lüftung“, sagte sie, ohne mich anzusehen.
 
 „Ja.“
+
+Sie hat den Ordner auf die Knie gedrückt und mir die andere Hand
+hingehalten, mit der Handfläche nach oben, auf der Sitzfläche zwischen
+uns, und nicht dazu gesagt, was ich damit machen soll.
+
+Ich habe sie genommen. Sie war kalt, und meine war es auch, und wir
+haben so dagesessen, bis der Lautsprecher etwas gesagt hat, das uns
+nicht meinte.
 
 „Hör auf damit. Es macht mich nervös, dass du nervös bist.“
 
@@ -2297,6 +2313,20 @@ Gerätenummer und Kalibrierdatum.“
 „Weil Sie darin etwas finden, das ich nicht hätte schreiben dürfen,
 wenn ich meinem Mann helfen wollte.“
 
+Frau Dr. Perlbach hat geblättert und bei den Einschränkungen angehalten.
+
+„Sechs Messpunkte. Warum keiner an der Nordseite?“
+
+„Weil man dort nicht hinkommt“, sagte ich. „Anderthalb Meter zum
+Nachbarhaus, und das Nachbargrundstück gehört einer Erbengemeinschaft,
+die auf nichts antwortet.“
+
+„Haben Sie es versucht?“
+
+„Es steht dreimal im Protokoll, unter Einschränkungen“, sagte ich, und
+das war eine Antwort auf eine andere Frage, und wir haben es beide
+gemerkt und beide nichts dazu gesagt.
+
 Ich habe auf Blatt zweihundertsechs aufgeschlagen.
 
 „Neunzehnter November, letztes Jahr. Da war ich acht Monate
@@ -2406,7 +2436,7 @@ Backsteinbau vor 1920 Risse hat.“
 
 # Sonntag am Kehrwieder — Theo
 
-Mein Bruder hat vierzehn Jahre lang keinen Sonntag gehabt, und jetzt hat
+Mein Bruder hat sechzehn Jahre lang keinen Sonntag gehabt, und jetzt hat
 er einen, an dem man bei ihm klingelt und er in Socken aufmacht. Ich
 gewöhne mich nicht daran.
 
@@ -3555,9 +3585,15 @@ Niklas hat mich lange angesehen.
 „Was heißt nein?“
 
 „Nein heißt nein, Theo. Ich mache das nicht.“ Er hat die Blätter wieder
-eingesammelt. „Du bist mein Bruder und ich arbeite für diese Firma, und
-in beiden Eigenschaften sage ich dir: Das ist der dümmste Auftrag, den
-du mir je gegeben hast.“
+eingesammelt. „Du bist mein Bruder und ich arbeite für diese Firma, und in beiden
+Eigenschaften sage ich dir: Das ist der dümmste Auftrag, den du mir je
+gegeben hast.“
+
+Er hat die Aktentasche in der Hand gehabt und nicht zugemacht.
+
+„Und weißt du, was daran das Ärgerliche ist? Ich weiß seit heute
+Morgen nicht mehr, in welcher der beiden Eigenschaften ich das sage.
+Das ist mir in vierzehn Jahren noch nicht passiert.“
 
 „Dann mache ich es selbst.“
 
@@ -3649,8 +3685,8 @@ Gespräch mitgehört, weil ich es auf Lautsprecher hatte, weil wir seit
 Mai alles auf Lautsprecher haben, weil wir uns das im Mai vorgenommen
 hatten.
 
-Ich habe zugesehen, wie sie begreift, in welcher Reihenfolge sie es
-erfährt.
+Ich habe zugesehen, wie sie begreift, dass ihr Anwalt es vor ihr
+wusste.
 
 Sie hat nichts gesagt, bis Dr. Brandt aufgelegt hatte.
 
@@ -3671,7 +3707,8 @@ meine Bücher zwischen ihren stehen, und ich habe gedacht:
 
 Vier Tage. Mein Vater hat vier Tage gebraucht. Ich habe einen.
 
-Es ist derselbe Ordner. Er ist nur dünner.
+Es ist derselbe Ordner, den meine Mutter 1997 auf dem Küchentisch
+liegen hatte. Er ist nur dünner.
 
 ---
 
@@ -4991,6 +5028,21 @@ sieht.*
 
 # Was im Oktober aufgehoben wurde — Amira
 
+Frau Sarrazin hat mir ein Jahr gegeben und dazu einen Satz, den ich
+seitdem jeden Morgen im Kopf habe, wenn ich die Tür hinter mir zumache:
+*Ein Jahr lang leben Sie jetzt so, dass man es sehen kann.*
+
+Ich habe im September gedacht, das sei eine Erleichterung. Es sind
+dreihundertfünfzig Tage, an denen alles, was zwischen uns passiert,
+auch danach beurteilt wird, wie es in einer Akte aussieht — und wir
+haben in diesem Jahr genau eine Aufgabe: nicht mehr zu üben, sondern es
+zu sein.
+
+Ich habe elf Tage gebraucht, um zu merken, dass das schwerer ist als
+die Frist im Mai.
+
+---
+
 Der Widerspruchsbescheid kam am sechsten Oktober, und er war acht
 Seiten lang, und auf Seite sechs stand der Satz, der alles Weitere
 ausgelöst hat.
@@ -5061,8 +5113,9 @@ haben.
 Viertens: Die Firma hat gegen diesen Punkt geklagt, statt ihn
 einzuräumen.
 
-Fünftens: Es gibt eine Behördenakte mit einem Vermerk nach Paragraf
-einundzwanzig über die Gutachterin.
+Fünftens: Es gibt eine Behördenakte, in der unter Paragraf
+einundzwanzig steht, dass jemand meine Unparteilichkeit für prüfbar
+gehalten hat.
 
 Sechstens: Es gibt einen Aktenvermerk eines Wettbewerbers über einen
 Anruf des Ehemanns.
@@ -5361,7 +5414,9 @@ Sitzung als Erstes sagen, vor allem anderen.“
 Ich habe es am Dienstag als Erstes gesagt.
 
 Der Beirat hat das Notdach am selben Tag beschlossen, einstimmig,
-hundertzwölftausend Euro, ohne Diskussion, weil Wendland gesagt hat:
+hundertzwölftausend Euro, ohne Diskussion, weil Wendland gesagt hat —
+der Mann aus dem Beirat, den mein Vater dorthin gesetzt hat, damit einer
+da drin sitzt, der nichts erbt:
 „Wenn die Gutachterin, die uns im November vierhunderttausend gekostet
 hat, sagt, wir sollen ein Dach bauen, dann bauen wir ein Dach.“
 
@@ -6431,7 +6486,7 @@ bekommen, mit vierundzwanzig und mit sechsundzwanzig, und beide Male
 abgelehnt, und über den zweiten redet sie nicht.
 
 Fünfter Freitag: Sie hasst es, wenn man ihr beim Essen zusieht.
-Fünfundzwanzig Monate. Ich habe das nicht gewusst.
+Dreiundzwanzig Monate. Ich habe das nicht gewusst.
 
 ---
 
@@ -6440,8 +6495,7 @@ erfährt, und die Antwort war deprimierend.
 
 Sie wusste alles.
 
-Nicht weil ich offener bin — weil ich seit fünfundzwanzig Monaten
-über nichts anderes rede als über Arbeit, und weil in dieser Arbeit
+Nicht weil ich offener bin — weil ich seit dreiundzwanzig Monaten über nichts anderes rede als über Arbeit, und weil in dieser Arbeit
 alles über mich drinsteht, wenn man zuhören kann.
 
 Am vierten Freitag habe ich sie gefragt, ob es etwas gibt, das sie
@@ -7349,7 +7403,9 @@ ist er erledigt.“ Er hat aufgesehen. „Mich stört, dass ich seither vier
 Leute in meinem eigenen Büro anders ansehe. Das ist der Schaden. Den
 hat der Brief angerichtet und nicht Sie.“
 
-„Ich auch nicht.“ Er hat aufgesehen. „Ich habe damals einen Aktenvermerk
+„Vier Leute“, sagte ich.
+
+„Vier Leute“, sagte Kubiak. „Ich habe damals einen Aktenvermerk
 geschrieben, und ich habe ihn Ihrem Anwalt geschickt, und ich habe zwei
 Wochen überlegt, ob ich ihn auch der Behörde schicke.“
 
@@ -8333,7 +8389,8 @@ den ich vermessen und für harmlos erklärt habe.
 
 Der Beirat der Reinhardt Immobilien GmbH besteht aus fünf Personen: den
 vier Gesellschaftern und Wendland, der kein Anteilseigner ist und
-dessen Stimme mein Vater 1998 in die Satzung geschrieben hat, weil er
+dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und
+den Wendland seit 2007 innehat, weil er
 wollte, dass „einer da drin sitzt, der nichts erbt“.
 
 Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
@@ -8542,8 +8599,7 @@ er es ihr vorher sagen soll.“
 
 Ich habe nichts gesagt.
 
-„Er hat es nicht gemacht“, sagte Wendland. „Und ich habe achtundzwanzig
-Jahre lang nicht darüber gesprochen, weil es nicht meine Ehe war.“ Er
+„Er hat es nicht gemacht“, sagte Wendland. „Und ich habe dreißig Jahre lang nicht darüber gesprochen, weil es nicht meine Ehe war.“ Er
 hat die Mappe unter den Arm genommen. „Heute haben Sie in einem Raum
 mit vier Leuten gesagt, dass die Idee von Ihrer Frau kommt. Ich habe
 gegen Ihre Vorlage gestimmt, Herr Reinhardt, und ich habe mich dabei
@@ -8995,8 +9051,9 @@ Es war ein Schlüssel.
 
 Ich habe ihn in der Hand gehalten und angesehen und nicht verstanden.
 
-„Kehrwieder vierzehn“, sagte Theo. „Erdgeschoss hinten links. Der
-Raum mit den vier Haken.“
+„Kehrwieder vierzehn“, sagte Theo. „Das Haus neben dem Kontorhaus.
+Das, das stehen bleibt. Erdgeschoss hinten links, der Raum mit den vier
+Haken.“
 
 Ich habe aufgesehen.
 
@@ -9074,6 +9131,18 @@ Bauabschnitt Sandtorkai bist du bei der Stadt.“
 gestrichen. Du zahlst, was jeder zahlt. Es steht im Vertrag, den du
 lesen wirst, und du wirst ihn zerpflücken, und Niklas hat gesagt, er
 freut sich darauf.“
+
+Er hat den Kragen hochgeschlagen, weil es sechs Grad hatte.
+
+„Er hat noch etwas gesagt. Ich gebe es dir weiter, weil ich es nicht
+verstanden habe.“
+
+„Was?“
+
+„*Schreib rein, was du willst, und lass mich den Satz finden, der es
+verhindert. So machen wir das seit vierzehn Jahren.*“ Theo hat auf den
+Schlüssel gesehen. „Und dann hat er aufgelegt, bevor ich fragen konnte,
+ob das ein Vorwurf war.“
 
 ---
 
@@ -9662,8 +9731,7 @@ sie waren alle gut und keines war der Grund.“
 „Was ist der Grund?“
 
 „Dass ich Architekt bin“, sagte ich. „Ich habe mit neunzehn aufgehört
-zu studieren und bin trotzdem einer geworden, und ich zeichne seit
-vierzehn Jahren Häuser, und ich bin gut darin, und wenn ich die
+zu studieren und bin trotzdem einer geworden, und ich zeichne seit sechzehn Jahren Häuser, und ich bin gut darin, und wenn ich die
 Geschäftsführung übernehme, mache ich es nie wieder.“
 
 Ich habe auf den Dielenboden gesehen.
@@ -10389,7 +10457,7 @@ gehört.*“
 
 ---
 
-Ich habe in vierzehn Jahren siebenundzwanzig Gebäude entworfen und bei
+Ich habe in sechzehn Jahren siebenundzwanzig Gebäude entworfen und bei
 keinem davon durfte ich am Ende entscheiden.
 
 Das ist normal. Ein Entwurf geht durch Kalkulation, durch Ausführung,
@@ -11289,8 +11357,7 @@ schreiben können.“
 
 ---
 
-Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit
-zweiundsiebzig, nach vierunddreißig Jahren.
+Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit zweiundsiebzig, nach zweiundzwanzig Jahren.
 
 Er hat sich das nicht ausgesucht; es steht in der Satzung, die mein
 Vater 1998 geschrieben hat, und mein Vater hat hineingeschrieben, dass
@@ -11312,8 +11379,9 @@ im Voraus“, sagte er.
 
 Niemand hat etwas gesagt.
 
-„Ich sitze seit vierunddreißig Jahren in diesem Beirat. Ich habe unter
-Ihrem Vater sechzehn Jahre gearbeitet und unter Ihnen achtzehn.“ Er hat
+„Ich sitze seit zweiundzwanzig Jahren in diesem Beirat, und vorher
+habe ich sechzehn Jahre lang in einer Bank die Zahlen Ihres Vaters
+geprüft.“ Er hat
 zu Jonas gesehen. „Ihr Vater war ein sehr guter Kaufmann und ein Mann,
 der mir zweimal im Leben etwas mitgeteilt hat, das ich vorher hätte
 wissen müssen.“
@@ -11322,8 +11390,9 @@ Er hat die Brille auf den Tisch gelegt.
 
 „Ich habe 1997 in einem Flur gestanden und ihm gesagt, er soll seiner
 Frau vorher sagen, dass er ihr Elternhaus verkauft. Er hat es nicht
-gemacht. Ich habe achtundzwanzig Jahre mit diesem Wissen in Sitzungen
-gesessen, in denen seine Söhne saßen, und ich habe geschwiegen, weil ich
+gemacht. Ich habe zweiunddreißig Jahre mit diesem Wissen gelebt und die
+letzten neunzehn davon in Sitzungen gesessen, in denen seine Söhne
+saßen, und ich habe geschwiegen, weil ich
 mir eingeredet habe, dass es nicht meine Ehe ist.“
 
 Er hat sich zu mir gedreht.
@@ -11402,8 +11471,7 @@ ihrem Mann wisse es niemand.“
 Er hat die Mappe umgefasst.
 
 „Ich habe im Februar mit ihr darüber gesprochen. Zum ersten Mal. Ich
-bin hingefahren, ich habe ihr gesagt, dass ich es seit
-achtundzwanzig Jahren weiß, und ich habe mich entschuldigt.“
+bin hingefahren, ich habe ihr gesagt, dass ich es seit zweiunddreißig Jahren weiß, und ich habe mich entschuldigt.“
 
 „Das wusste ich nicht.“
 
@@ -12164,7 +12232,7 @@ Amira hat die Liste hingelegt.
 
 ---
 
-Sie hat sich hingesetzt und mir gegenüber, was sie bei wichtigen
+Sie hat sich hingesetzt, mir gegenüber, was sie bei wichtigen
 Gesprächen inzwischen nicht mehr macht, und deshalb wusste ich, dass es
 ihr ernst ist.
 
@@ -12490,8 +12558,7 @@ ich noch tun kann.“
 
 Sie hat unterschrieben, mit Datum.
 
-„Ich hätte das mit sechzig machen sollen“, sagte sie dann. „Ich habe
-achtundzwanzig Jahre gewartet, bis mich jemand fragt, und dann hat mich
+„Ich hätte das mit sechzig machen sollen“, sagte sie dann. „Ich habe zweiunddreißig Jahre gewartet, bis mich jemand fragt, und dann hat mich
 niemand gefragt, und jetzt bin ich siebenundsechzig und mache es
 selbst.“
 

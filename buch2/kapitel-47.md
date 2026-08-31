@@ -29,8 +29,9 @@ Es war ein Schlüssel.
 
 Ich habe ihn in der Hand gehalten und angesehen und nicht verstanden.
 
-„Kehrwieder vierzehn“, sagte Theo. „Erdgeschoss hinten links. Der
-Raum mit den vier Haken.“
+„Kehrwieder vierzehn“, sagte Theo. „Das Haus neben dem Kontorhaus.
+Das, das stehen bleibt. Erdgeschoss hinten links, der Raum mit den vier
+Haken.“
 
 Ich habe aufgesehen.
 
@@ -108,6 +109,18 @@ Bauabschnitt Sandtorkai bist du bei der Stadt.“
 gestrichen. Du zahlst, was jeder zahlt. Es steht im Vertrag, den du
 lesen wirst, und du wirst ihn zerpflücken, und Niklas hat gesagt, er
 freut sich darauf.“
+
+Er hat den Kragen hochgeschlagen, weil es sechs Grad hatte.
+
+„Er hat noch etwas gesagt. Ich gebe es dir weiter, weil ich es nicht
+verstanden habe.“
+
+„Was?“
+
+„*Schreib rein, was du willst, und lass mich den Satz finden, der es
+verhindert. So machen wir das seit vierzehn Jahren.*“ Theo hat auf den
+Schlüssel gesehen. „Und dann hat er aufgelegt, bevor ich fragen konnte,
+ob das ein Vorwurf war.“
 
 ---
 

@@ -50,9 +50,15 @@ Niklas hat mich lange angesehen.
 „Was heißt nein?“
 
 „Nein heißt nein, Theo. Ich mache das nicht.“ Er hat die Blätter wieder
-eingesammelt. „Du bist mein Bruder und ich arbeite für diese Firma, und
-in beiden Eigenschaften sage ich dir: Das ist der dümmste Auftrag, den
-du mir je gegeben hast.“
+eingesammelt. „Du bist mein Bruder und ich arbeite für diese Firma, und in beiden
+Eigenschaften sage ich dir: Das ist der dümmste Auftrag, den du mir je
+gegeben hast.“
+
+Er hat die Aktentasche in der Hand gehabt und nicht zugemacht.
+
+„Und weißt du, was daran das Ärgerliche ist? Ich weiß seit heute
+Morgen nicht mehr, in welcher der beiden Eigenschaften ich das sage.
+Das ist mir in vierzehn Jahren noch nicht passiert.“
 
 „Dann mache ich es selbst.“
 
@@ -144,8 +150,8 @@ Gespräch mitgehört, weil ich es auf Lautsprecher hatte, weil wir seit
 Mai alles auf Lautsprecher haben, weil wir uns das im Mai vorgenommen
 hatten.
 
-Ich habe zugesehen, wie sie begreift, in welcher Reihenfolge sie es
-erfährt.
+Ich habe zugesehen, wie sie begreift, dass ihr Anwalt es vor ihr
+wusste.
 
 Sie hat nichts gesagt, bis Dr. Brandt aufgelegt hatte.
 
@@ -166,4 +172,5 @@ meine Bücher zwischen ihren stehen, und ich habe gedacht:
 
 Vier Tage. Mein Vater hat vier Tage gebraucht. Ich habe einen.
 
-Es ist derselbe Ordner. Er ist nur dünner.
+Es ist derselbe Ordner, den meine Mutter 1997 auf dem Küchentisch
+liegen hatte. Er ist nur dünner.

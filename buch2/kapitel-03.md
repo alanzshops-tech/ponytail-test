@@ -119,6 +119,13 @@ Theo hat gefragt: „Und wenn wir uns widersprechen?“
 
 „Dann sind Sie ein Ehepaar“, sagte Dr. Brandt.
 
+Theo hat unter dem Tisch die Hand auf mein Knie gelegt, und ich habe
+sie liegen lassen und nicht hingesehen, weil eine Kamera lief.
+
+Es ist das erste Mal seit vierzehn Monaten gewesen, dass uns jemand
+dabei zusehen konnte. Ich habe hinterher zwei Tage gebraucht, um zu
+merken, dass mir das aufgefallen ist.
+
 ---
 
 Er sah auf seine Uhr.

@@ -150,7 +150,9 @@ Sitzung als Erstes sagen, vor allem anderen.“
 Ich habe es am Dienstag als Erstes gesagt.
 
 Der Beirat hat das Notdach am selben Tag beschlossen, einstimmig,
-hundertzwölftausend Euro, ohne Diskussion, weil Wendland gesagt hat:
+hundertzwölftausend Euro, ohne Diskussion, weil Wendland gesagt hat —
+der Mann aus dem Beirat, den mein Vater dorthin gesetzt hat, damit einer
+da drin sitzt, der nichts erbt:
 „Wenn die Gutachterin, die uns im November vierhunderttausend gekostet
 hat, sagt, wir sollen ein Dach bauen, dann bauen wir ein Dach.“
 

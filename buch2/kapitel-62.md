@@ -62,7 +62,7 @@ Amira hat die Liste hingelegt.
 
 ---
 
-Sie hat sich hingesetzt und mir gegenüber, was sie bei wichtigen
+Sie hat sich hingesetzt, mir gegenüber, was sie bei wichtigen
 Gesprächen inzwischen nicht mehr macht, und deshalb wusste ich, dass es
 ihr ernst ist.
 
