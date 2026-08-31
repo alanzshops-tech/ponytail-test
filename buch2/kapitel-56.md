@@ -160,7 +160,7 @@ Amira: „Ich habe Angst, dass ich es nicht kann.“
 
 Ich: „Was?“
 
-Amira: „Aufhören. Ich arbeite seit elf Jahren so, als könnte morgen
+Amira: „Aufhören. Ich habe elf Jahre so gearbeitet, als könnte morgen
 alles weg sein. Ich habe im März gemerkt, dass ich das ablegen kann,
 und ich habe seitdem sieben Monate geübt, und ich bin nicht sicher, ob
 sieben Monate reichen, um ein Kind großzuziehen, ohne dass es das

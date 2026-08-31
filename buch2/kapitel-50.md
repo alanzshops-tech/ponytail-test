@@ -55,7 +55,7 @@ ich seit vier Wochen geahnt und nicht gefragt hatte.
 
 „Warum?“
 
-„Weil ich zum ersten Mal seit elf Jahren rechnen konnte, wie viel Arbeit
+„Weil ich zum ersten Mal nach elf Jahren rechnen konnte, wie viel Arbeit
 ich haben will, statt wie viel ich brauche.“ Sie hat den Teller
 abgestellt. „Ich habe im Januar mit meinem Steuerberater gesessen, und
 er hat gesagt, ich hätte letztes Jahr das beste Jahr meines Lebens
@@ -63,8 +63,8 @@ gehabt, und ich habe ihn gefragt, ob er sicher ist.“
 
 „Und?“
 
-„Und dann habe ich gemerkt, dass ich seit elf Jahren jeden Auftrag
-annehme, den ich kriege, weil ich denke, es könnte der letzte sein.“
+„Und dann habe ich gemerkt, dass ich elf Jahre lang jeden Auftrag
+angenommen habe, den ich kriege, weil ich denke, es könnte der letzte sein.“
 
 Sie hat die Beine ausgestreckt.
 

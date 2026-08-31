@@ -128,13 +128,13 @@ geschrieben, dass ich in der Zwischenzeit nicht warte.“
 
 Sie hat gelacht.
 
-„Ich habe achtzehn Jahre lang gewartet, ob ich bleiben darf. Ich warte
+„Ich habe elf Jahre lang gewartet, ob ich bleiben darf. Ich warte
 nicht sieben Wochen auf ein Organigramm.“
 
 ---
 
-Wir sind um Viertel nach neun hoch in ihr Büro, weil Nadia gegessen
-werden wollte, und ich habe in der Zwischenzeit am Fenster gestanden
+Wir sind um Viertel nach neun hoch in ihr Büro, weil Nadia Hunger
+hatte, und ich habe in der Zwischenzeit am Fenster gestanden
 und in den Hof gesehen.
 
 Von hier oben sieht man den Baum und die Durchfahrt und die Nordwand

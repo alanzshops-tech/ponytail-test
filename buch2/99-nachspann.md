@@ -58,7 +58,7 @@ dass es jemand gemerkt hat.
 > habe sechs Kollegen gefragt, und keiner konnte mir sagen, warum ein
 > Anwalt so etwas hineinschreibt, wenn er für den Käufer arbeitet.“
 >
-> Ich habe auf das Blatt gesehen, das ich vor sechs Jahren
+> Ich habe auf das Blatt gesehen, das ich vor acht Jahren
 > geschrieben habe, und mir ist zum ersten Mal aufgefallen, dass in
 > vierzehn Jahren niemand danach gefragt hat.
 

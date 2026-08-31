@@ -42,8 +42,8 @@ Wendland kennt.“
 
 „Wofür?“
 
-„Für dein Büro“, sagte er. „Du sitzt seit elf Jahren in einer
-Zweizimmerwohnung und legst deine Messreihen auf den Küchentisch. Du
+„Für dein Büro“, sagte er. „Du hast elf Jahre lang deine Messreihen
+auf einen Küchentisch gelegt. Du
 hast vierhundertelf Blätter über ein Haus geführt und keinen Ort, an
 dem sie stehen.“
 

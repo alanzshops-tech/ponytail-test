@@ -106,7 +106,7 @@ getroffen hatte.
 Und ich habe an demselben Abend am selben Tisch gesessen und meiner
 Mutter nicht gesagt, dass ich verheiratet bin.
 
-Zweiter Januar 2026: Ich habe Theo — nein. Ich habe Jonas am Telefon
+Zweiter Januar 2026: Ich habe Jonas am Telefon
 gehabt, und er hat mich angeschrien, und ich habe ihm dabei gesagt,
 dass ich wollte, dass wenigstens eine Sache in dieser Familie ohne
 Heimlichkeit ausgeht.

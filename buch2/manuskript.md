@@ -32,9 +32,9 @@ Recherche und Überarbeitung stammen vom Herausgeber.
 **Inhaltshinweise.** Dieses Buch enthält: ein aufenthaltsrechtliches
 Verfahren mit drohender Ausreisepflicht, eine anonyme Anzeige, den Tod
 eines Elternteils in der Rückblende, einen Oberschenkelhalsbruch und
-eine Klinikzeit, sowie die Erwähnung einer frühen Fehlgeburt, die
-zwölf Jahre zurückliegt. Eine Liebesszene, nicht explizit dargestellt.
-Keine Gewalt.
+eine Klinikzeit, sowie die Erwähnung einer frühen Fehlgeburt in der
+Vergangenheit der Erzählerin. Eine Liebesszene, nicht explizit
+dargestellt. Keine Gewalt.
 
 **Band 2 ist in sich abgeschlossen** und lässt sich ohne Band 1 lesen.
 Wer *Was ich dir nie gesagt habe* kennt, findet hier die Auflösung
@@ -125,8 +125,9 @@ wollte am Dienstag noch in diesem Land sein.
 Das ist kein kleiner Unterschied. Ich habe elf Jahre gebraucht, um das
 so klar zu formulieren, und ich habe es an diesem Abend zum ersten Mal
 laut gedacht, während Theo im Bad war und ich sein Telefon nicht nahm,
-sondern meins, und in seiner Kontaktliste den einzigen Eintrag suchte,
-der „Bruder“ hieß, ohne Vornamen, weil er auch das nie geändert hat.
+sondern meins, und darin die Nummer suchte, die ich mir vor einem Jahr
+aus seinem abgeschrieben hatte, aus dem einzigen Eintrag, der „Bruder“
+hieß, ohne Vornamen, weil er auch das nie geändert hat.
 
 ---
 
@@ -306,7 +307,7 @@ getroffen hatte.
 Und ich habe an demselben Abend am selben Tisch gesessen und meiner
 Mutter nicht gesagt, dass ich verheiratet bin.
 
-Zweiter Januar 2026: Ich habe Theo — nein. Ich habe Jonas am Telefon
+Zweiter Januar 2026: Ich habe Jonas am Telefon
 gehabt, und er hat mich angeschrien, und ich habe ihm dabei gesagt,
 dass ich wollte, dass wenigstens eine Sache in dieser Familie ohne
 Heimlichkeit ausgeht.
@@ -881,7 +882,7 @@ Sabine hat die Tasse abgestellt.
 
 „Das hat er gesagt?“
 
-„Wörtlich“, sagte ich. „Vor drei Jahren, auf einem Parkplatz in
+„Wörtlich“, sagte ich. „Vor zwei Jahren, auf einem Parkplatz in
 Eppendorf, um halb zwölf nachts.“
 
 „Und dann?“
@@ -7074,7 +7075,7 @@ Selin hat es gelesen, weil sie alles liest, was ich schreibe.
 
 „Was?“
 
-„Dein Absatz“, sagte Selin. „Du hast seit elf Jahren auf Seite eins
+„Dein Absatz“, sagte Selin. „Du hattest elf Jahre lang auf Seite eins
 einen Absatz, in dem du erklärst, dass die Messungen von dir sind. In
 jedem Bericht. Der ist weg.“
 
@@ -7634,7 +7635,7 @@ schreiben können.“
 Punkt. Ich habe in drei Jahren nicht ein einziges Mal versucht, an die
 Nordseite zu kommen. Ich habe es in mein Protokoll geschrieben, unter
 Einschränkungen, und damit war es aus meiner Verantwortung heraus und
-in der Akte drin, und das ist genau das, was ich seit elf Jahren mache.“
+in der Akte drin, und das ist genau das, was ich elf Jahre lang gemacht habe.“
 
 Sie hat aufgehört und angefangen und wieder aufgehört.
 
@@ -8702,7 +8703,7 @@ auf zu fragen.“
 Meine Mutter hat gelacht, und es hat sich alt angehört, älter als im
 Sommer.
 
-„Amira, ich habe das Längere in den letzten elf Jahren ungefähr
+„Amira, ich habe das Längere in elf Jahren ungefähr
 vierhundertmal gesagt“, sagte sie. „Jedes Mal, wenn du gesagt hast, du
 weißt es noch nicht. Ich habe erklärt, wie das Wetter im April ist und
 wer gestorben ist und dass Nadia die Wohnung im Erdgeschoss bekommen
@@ -8718,7 +8719,7 @@ nur noch nicht.“
 
 „Bist du traurig?“
 
-„Ja“, sagte meine Mutter. „Und ich habe seit elf Jahren darauf
+„Ja“, sagte meine Mutter. „Und ich habe elf Jahre darauf
 gewartet, dass du es einmal sagst, statt jedes Jahr zu sagen, dass du es
 noch nicht weißt.“ Ich habe gehört, wie sie sich hingesetzt hat. „Weißt
 du, was mich all die Jahre wütend gemacht hat? Nicht dass du weg bist.
@@ -9009,8 +9010,8 @@ Wendland kennt.“
 
 „Wofür?“
 
-„Für dein Büro“, sagte er. „Du sitzt seit elf Jahren in einer
-Zweizimmerwohnung und legst deine Messreihen auf den Küchentisch. Du
+„Für dein Büro“, sagte er. „Du hast elf Jahre lang deine Messreihen
+auf einen Küchentisch gelegt. Du
 hast vierhundertelf Blätter über ein Haus geführt und keinen Ort, an
 dem sie stehen.“
 
@@ -9610,7 +9611,7 @@ ich seit vier Wochen geahnt und nicht gefragt hatte.
 
 „Warum?“
 
-„Weil ich zum ersten Mal seit elf Jahren rechnen konnte, wie viel Arbeit
+„Weil ich zum ersten Mal nach elf Jahren rechnen konnte, wie viel Arbeit
 ich haben will, statt wie viel ich brauche.“ Sie hat den Teller
 abgestellt. „Ich habe im Januar mit meinem Steuerberater gesessen, und
 er hat gesagt, ich hätte letztes Jahr das beste Jahr meines Lebens
@@ -9618,8 +9619,8 @@ gehabt, und ich habe ihn gefragt, ob er sicher ist.“
 
 „Und?“
 
-„Und dann habe ich gemerkt, dass ich seit elf Jahren jeden Auftrag
-annehme, den ich kriege, weil ich denke, es könnte der letzte sein.“
+„Und dann habe ich gemerkt, dass ich elf Jahre lang jeden Auftrag
+angenommen habe, den ich kriege, weil ich denke, es könnte der letzte sein.“
 
 Sie hat die Beine ausgestreckt.
 
@@ -10975,7 +10976,7 @@ Amira: „Ich habe Angst, dass ich es nicht kann.“
 
 Ich: „Was?“
 
-Amira: „Aufhören. Ich arbeite seit elf Jahren so, als könnte morgen
+Amira: „Aufhören. Ich habe elf Jahre so gearbeitet, als könnte morgen
 alles weg sein. Ich habe im März gemerkt, dass ich das ablegen kann,
 und ich habe seitdem sieben Monate geübt, und ich bin nicht sicher, ob
 sieben Monate reichen, um ein Kind großzuziehen, ohne dass es das
@@ -12671,13 +12672,13 @@ geschrieben, dass ich in der Zwischenzeit nicht warte.“
 
 Sie hat gelacht.
 
-„Ich habe achtzehn Jahre lang gewartet, ob ich bleiben darf. Ich warte
+„Ich habe elf Jahre lang gewartet, ob ich bleiben darf. Ich warte
 nicht sieben Wochen auf ein Organigramm.“
 
 ---
 
-Wir sind um Viertel nach neun hoch in ihr Büro, weil Nadia gegessen
-werden wollte, und ich habe in der Zwischenzeit am Fenster gestanden
+Wir sind um Viertel nach neun hoch in ihr Büro, weil Nadia Hunger
+hatte, und ich habe in der Zwischenzeit am Fenster gestanden
 und in den Hof gesehen.
 
 Von hier oben sieht man den Baum und die Durchfahrt und die Nordwand
@@ -12827,7 +12828,7 @@ dass es jemand gemerkt hat.
 > habe sechs Kollegen gefragt, und keiner konnte mir sagen, warum ein
 > Anwalt so etwas hineinschreibt, wenn er für den Käufer arbeitet.“
 >
-> Ich habe auf das Blatt gesehen, das ich vor sechs Jahren
+> Ich habe auf das Blatt gesehen, das ich vor acht Jahren
 > geschrieben habe, und mir ist zum ersten Mal aufgefallen, dass in
 > vierzehn Jahren niemand danach gefragt hat.
 

@@ -63,7 +63,7 @@ schreiben können.“
 Punkt. Ich habe in drei Jahren nicht ein einziges Mal versucht, an die
 Nordseite zu kommen. Ich habe es in mein Protokoll geschrieben, unter
 Einschränkungen, und damit war es aus meiner Verantwortung heraus und
-in der Akte drin, und das ist genau das, was ich seit elf Jahren mache.“
+in der Akte drin, und das ist genau das, was ich elf Jahre lang gemacht habe.“
 
 Sie hat aufgehört und angefangen und wieder aufgehört.
 

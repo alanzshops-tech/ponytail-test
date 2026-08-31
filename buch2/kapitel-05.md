@@ -147,7 +147,7 @@ Sabine hat die Tasse abgestellt.
 
 „Das hat er gesagt?“
 
-„Wörtlich“, sagte ich. „Vor drei Jahren, auf einem Parkplatz in
+„Wörtlich“, sagte ich. „Vor zwei Jahren, auf einem Parkplatz in
 Eppendorf, um halb zwölf nachts.“
 
 „Und dann?“

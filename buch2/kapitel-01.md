@@ -74,8 +74,9 @@ wollte am Dienstag noch in diesem Land sein.
 Das ist kein kleiner Unterschied. Ich habe elf Jahre gebraucht, um das
 so klar zu formulieren, und ich habe es an diesem Abend zum ersten Mal
 laut gedacht, während Theo im Bad war und ich sein Telefon nicht nahm,
-sondern meins, und in seiner Kontaktliste den einzigen Eintrag suchte,
-der „Bruder“ hieß, ohne Vornamen, weil er auch das nie geändert hat.
+sondern meins, und darin die Nummer suchte, die ich mir vor einem Jahr
+aus seinem abgeschrieben hatte, aus dem einzigen Eintrag, der „Bruder“
+hieß, ohne Vornamen, weil er auch das nie geändert hat.
 
 ---
 

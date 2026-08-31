@@ -40,7 +40,7 @@ Selin hat es gelesen, weil sie alles liest, was ich schreibe.
 
 „Was?“
 
-„Dein Absatz“, sagte Selin. „Du hast seit elf Jahren auf Seite eins
+„Dein Absatz“, sagte Selin. „Du hattest elf Jahre lang auf Seite eins
 einen Absatz, in dem du erklärst, dass die Messungen von dir sind. In
 jedem Bericht. Der ist weg.“
 

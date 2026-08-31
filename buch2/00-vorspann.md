@@ -36,9 +36,9 @@ Recherche und Überarbeitung stammen vom Herausgeber.
 **Inhaltshinweise.** Dieses Buch enthält: ein aufenthaltsrechtliches
 Verfahren mit drohender Ausreisepflicht, eine anonyme Anzeige, den Tod
 eines Elternteils in der Rückblende, einen Oberschenkelhalsbruch und
-eine Klinikzeit, sowie die Erwähnung einer frühen Fehlgeburt, die
-zwölf Jahre zurückliegt. Eine Liebesszene, nicht explizit dargestellt.
-Keine Gewalt.
+eine Klinikzeit, sowie die Erwähnung einer frühen Fehlgeburt in der
+Vergangenheit der Erzählerin. Eine Liebesszene, nicht explizit
+dargestellt. Keine Gewalt.
 
 **Band 2 ist in sich abgeschlossen** und lässt sich ohne Band 1 lesen.
 Wer *Was ich dir nie gesagt habe* kennt, findet hier die Auflösung

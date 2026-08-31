@@ -123,7 +123,7 @@ auf zu fragen.“
 Meine Mutter hat gelacht, und es hat sich alt angehört, älter als im
 Sommer.
 
-„Amira, ich habe das Längere in den letzten elf Jahren ungefähr
+„Amira, ich habe das Längere in elf Jahren ungefähr
 vierhundertmal gesagt“, sagte sie. „Jedes Mal, wenn du gesagt hast, du
 weißt es noch nicht. Ich habe erklärt, wie das Wetter im April ist und
 wer gestorben ist und dass Nadia die Wohnung im Erdgeschoss bekommen
@@ -139,7 +139,7 @@ nur noch nicht.“
 
 „Bist du traurig?“
 
-„Ja“, sagte meine Mutter. „Und ich habe seit elf Jahren darauf
+„Ja“, sagte meine Mutter. „Und ich habe elf Jahre darauf
 gewartet, dass du es einmal sagst, statt jedes Jahr zu sagen, dass du es
 noch nicht weißt.“ Ich habe gehört, wie sie sich hingesetzt hat. „Weißt
 du, was mich all die Jahre wütend gemacht hat? Nicht dass du weg bist.

@@ -30,6 +30,7 @@ Alle Werkzeuge laufen mit `--buch buch2`:
 | `kalender.py` | 12 Datumsangaben mit Wochentag geprüft, keine Beanstandungen (nach 9 Korrekturen) |
 | `namen.py` | 32 Eigennamen, 3 Verdachtsfälle, alle drei falsch — keine Schreibvariante im Buch |
 | `vale.sh buch2` | 0 Fehler, 0 Warnungen, 10 Hinweise (Füllwörter in wörtlicher Rede) |
+| `lektorat.py` | 10 Kapitel, zwei fremde Modelle, Belegquote 96,4 %, 0 Abbruchstellen |
 
 Band 1 nach allen Änderungen an den gemeinsamen Werkzeugen
 gegengeprüft: unverändert ohne Beanstandung, Kennung weiterhin
@@ -143,6 +144,71 @@ mit.
 - Die Messreihe begann im **April 2023**, der Auftrag kam im **August
   2023**. Sie hat gemessen, bevor sie beauftragt war. Jetzt September,
   und damit 72 statt 78 Messtermine.
+
+### Zwei fremde Modelle haben zehn Kapitel gelesen
+
+Das ist die eine Prüfung, die ich selbst nicht sein kann: Mein Urteil
+über meine eigene Prosa ist als Messung wertlos. `lektorat.py` schickt
+die Kapitel an zwei fremde Modelle und **prüft jedes Zitat gegen den
+Kapiteltext** — ein erfundenes Zitat heißt, das Modell hat nicht
+gelesen, sondern etwas Plausibles gesagt.
+
+Gelesen wurden die Kapitel 1, 2, 3, 5, 12, 19, 23, 36, 53 und 64.
+Bericht: `buch2/LEKTORAT.md`. Kosten: 0,29 USD.
+
+- **Belegquote 27 von 28 Zitaten (96,4 %)** — beide Modelle haben
+  tatsächlich gelesen.
+- **Die Gegenprobe hat gegriffen.** Der absichtlich schlechte
+  Kontrolltext läuft bei jedem Lauf mit; beide Modelle haben dort eine
+  Abbruchstelle genannt. Ohne das wäre jedes „kein Abbruch" bei den
+  echten Kapiteln nur Höflichkeit.
+- **0 von 20 Leseproben mit einer Abbruchstelle.** Keins der zehn
+  Kapitel legt ein fremder Leser weg.
+
+Vier der acht Unklarheiten waren echte Fehler, und drei davon hätte
+kein Suchmuster gefunden:
+
+1. **Kapitel 1.** Sie nimmt *ihr* Telefon und sucht in *seiner*
+   Kontaktliste. Umgeschrieben: Sie sucht die Nummer, die sie sich vor
+   einem Jahr aus seinem Telefon abgeschrieben hat.
+2. **Kapitel 2** — von *beiden* Modellen genannt. „Ich habe Theo —
+   nein. Ich habe Jonas am Telefon gehabt": Theo erzählt das Kapitel
+   selbst, er kann sich nicht mit seinem eigenen Namen verhaspeln. Ein
+   Rest aus einer früheren Fassung, gestrichen.
+3. **Kapitel 5.** Der Satz auf dem Parkplatz in Eppendorf fiel „im Juni
+   2024" und lag laut demselben Absatz „vor drei Jahren" — das Kapitel
+   spielt im Mai 2026. Auf *vor zwei Jahren* korrigiert.
+4. **Kapitel 64.** „Weil Nadia gegessen werden wollte." Gemeint war das
+   Baby, das Hunger hat; dasteht, dass es verspeist werden möchte.
+
+Beim Nachsehen dazu gefunden: Amira sagt im letzten Kapitel, sie habe
+*achtzehn Jahre* gewartet, ob sie bleiben darf. Es sind elf — die Zahl,
+die das ganze Buch trägt.
+
+**Zwei Meldungen waren keine Fehler**, und das ist genauso ein
+Ergebnis: Frau Sarrazin sei „aus dem Nichts" erwähnt (sie steht in
+Kapitel 1, das Modell liest jedes Kapitel einzeln), und Theo sei mal
+„der Bauherr" und mal der Bruder des Auftraggebers (beides stimmt — er
+hält neunzehn Prozent der Firma).
+
+### Elf Jahre sind eine Zahl, keine laufende Uhr
+
+`elf Jahre` ist das Leitmotiv des Buches: Amiras Zeit auf Zeit. An
+zehn Stellen in den Kapiteln 37 bis 64 stand sie in der Verlaufsform —
+*„seit elf Jahren"*, *„in den letzten elf Jahren"* —, obwohl diese
+Kapitel 2027 bis 2029 spielen, wo es zwölf, dreizehn, vierzehn wären.
+Alle zehn auf die abgeschlossene Form gebracht (*„elf Jahre lang"*,
+*„nach elf Jahren"*). Die Zahl bleibt, die Uhr steht still, und das ist
+inhaltlich genau richtig: Die elf Jahre enden mit dem Titel im
+November 2026.
+
+### Vorspann und Nachspann
+
+- Der Inhaltshinweis nannte eine Fehlgeburt, „die zwölf Jahre
+  zurückliegt". Im Text (Kapitel 35) war Amira dabei neunundzwanzig,
+  also vor rund fünf Jahren. Die Jahreszahl ist raus.
+- In der Leseprobe auf Band 3 ist ein Vertrag von 2019 „vor sechs
+  Jahren" geschrieben worden. Auf *acht* korrigiert.
 
 ### Ein Werkzeug, das man richtig aufrufen muss, ist falsch gebaut
 
