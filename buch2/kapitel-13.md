@@ -58,7 +58,7 @@ Frau Dr. Perlbach hat es gelesen und weitergeschoben.
 
 „Das entlastet die Vergabe“, sagte sie. „Es entlastet nicht die
 Ausführung. Die Frage ist nicht, wie Sie an den Auftrag gekommen sind.
-Die Frage ist, ob Sie ihn in den letzten fünfzehn Monaten so bearbeitet
+Die Frage ist, ob Sie ihn in den letzten vierzehn Monaten so bearbeitet
 haben, wie Sie ihn ohne diese Ehe bearbeitet hätten.“
 
 Und da habe ich den zweiten Ordner hingelegt.
@@ -69,8 +69,8 @@ Es ist ein grauer Ordner mit einem Rückenschild, auf dem *KWK
 Messreihe Setzung, lfd.* steht, und er enthält vierhundertelf Blätter.
 
 „Das ist meine Messreihe“, sagte ich. „Vier Punkte an der Ostwand,
-zwei am Giebel, gemessen alle vierzehn Tage seit April vor drei Jahren.
-Achtundsiebzig Messtermine. Jeder mit Datum, Uhrzeit, Temperatur,
+zwei am Giebel, gemessen alle vierzehn Tage seit September vor drei
+Jahren. Zweiundsiebzig Messtermine. Jeder mit Datum, Uhrzeit, Temperatur,
 Gerätenummer und Kalibrierdatum.“
 
 „Warum zeigen Sie mir das?“

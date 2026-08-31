@@ -155,7 +155,7 @@ Nach einer Weile hat er die Hände vom Lenkrad genommen.
 
 „Wenn Sie im November den Titel bekommen“, sagte er, „bleiben Sie dann
 in Hamburg? Ich frage nicht als Auftraggeber. Ich frage, weil mein
-Bruder seit fünfzehn Monaten der erste Reinhardt ist, der sich etwas
+Bruder seit sechzehn Monaten der erste Reinhardt ist, der sich etwas
 ausgesucht hat, und ich möchte wissen, ob ich mich daran gewöhnen
 darf.“
 

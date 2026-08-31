@@ -1,6 +1,6 @@
 # Epilog: Der vierundzwanzigste März — Theo
 
-Die Winterlinde ist am vierundzwanzigsten März 2030 gepflanzt worden,
+Die Winterlinde ist am zwanzigsten März 2030 gepflanzt worden,
 einem Mittwoch, um Viertel nach acht morgens, und sie hat vier Meter
 zwanzig und einen Stammumfang von siebzehn Zentimetern.
 
@@ -193,7 +193,7 @@ Am Abend hat Amira in ihr Heft geschrieben. Eintrag zweihundertsechs.
 
 Sie hat ihn mir gezeigt, was sie sonst nicht macht.
 
-*24.03. Der Baum steht. Grube war zu flach, R. hat sie nachgemacht,
+*20.03. Der Baum steht. Grube war zu flach, R. hat sie nachgemacht,
 ohne zu diskutieren. N. hat durchgeschlafen.*
 
 Und darunter:

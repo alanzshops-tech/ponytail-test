@@ -101,7 +101,7 @@ ein Wegerecht liegt, für das mein Bruder
 zweihundertachtundsechzigtausend Euro bezahlt hat.
 
 „Es ist leiser, als ich dachte“, sagte ich. „Das ist das Merkwürdige.
-Ich habe fünfzehn Monate lang gedacht, wenn das rauskommt, gibt es
+Ich habe vierzehn Monate lang gedacht, wenn das rauskommt, gibt es
 Sitzungen und Meinungen und Weihnachten wird furchtbar. Und dann
 kommt es raus, und Mama kocht Kartoffelsalat, und Bastian kommt zum
 ersten Mal seit sieben Jahren durch eine Tür, und der Einzige, der
@@ -153,7 +153,7 @@ An der Ampel Millerntorplatz sagte sie: „Sie sind laut.“
 sich nicht sagt, dein Bruder hat sich in einer Durchfahrt bei dir
 entschuldigt, und keiner von ihnen hat einen Moment lang so getan, als
 wäre alles in Ordnung.“ Sie hat sich zu mir gedreht. „Und du hast
-fünfzehn Monate lang geglaubt, das hält meine Ehe nicht aus.“
+vierzehn Monate lang geglaubt, das hält meine Ehe nicht aus.“
 
 „Ja.“
 

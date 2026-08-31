@@ -52,7 +52,7 @@ Und da bin ich zum ersten Mal hängen geblieben.
 
 Weil die Antwort lautet: mir. Alle. Zweihundertirgendwas. Theo hat
 keine dreißig Bücher in diese Wohnung gebracht, und zwar deshalb, weil
-er in fünfzehn Monaten nie etwas hergebracht hat, was schwer wieder
+er in siebzehn Monaten nie etwas hergebracht hat, was schwer wieder
 wegzuschaffen gewesen wäre.
 
 „Mir“, sagte ich. „Die Bücher gehören mir.“
@@ -67,7 +67,7 @@ Plotter, die im Flur steht, weil sie nirgends hinpasst. Und einen
 Anspitzer aus Messing, der auf dem Fensterbrett liegt und den sein Vater
 1994 in Mailand gekauft hat.
 
-Vier Dinge in fünfzehn Monaten.
+Vier Dinge in siebzehn Monaten.
 
 Ich habe sie genannt, alle vier, und ich habe die Stimme nicht
 verloren, und Frau Kolb hat das erste Mal an diesem Vormittag etwas
@@ -141,7 +141,7 @@ stellen, die nicht auf dem Bogen steht?“
 
 „Sie dürfen sie stellen.“
 
-„Warum hat Ihr Mann in fünfzehn Monaten nichts hergebracht?“
+„Warum hat Ihr Mann in siebzehn Monaten nichts hergebracht?“
 
 Ich habe eine Weile gebraucht.
 
@@ -192,11 +192,11 @@ Es geht nicht darum, dass es zu wenig ist. Es ist nicht zu wenig, um
 eine Ehe zu beweisen — Herr Adamczyk hat mir am Türrahmen das Gegenteil
 gesagt, und er hätte es nicht sagen müssen.
 
-Es geht darum, dass ich es fünfzehn Monate lang nicht gesehen habe.
+Es geht darum, dass ich es siebzehn Monate lang nicht gesehen habe.
 
 Ich messe seit elf Jahren, wie viel sich in einer Wand bewegt. Ich
 merke, wenn ein Riss in sechs Wochen 1,1 Millimeter wandert. Und ich
-habe fünfzehn Monate lang mit einem Mann zusammengelebt, der in meiner
+habe siebzehn Monate lang mit einem Mann zusammengelebt, der in meiner
 Wohnung vier Gegenstände hat, und es ist mir nie aufgefallen, weil ich
 nie hingesehen habe, weil Hinsehen bedeutet hätte, es aufzuschreiben,
 und Aufschreiben bedeutet hätte, dass es das gibt.

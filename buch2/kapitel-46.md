@@ -125,7 +125,7 @@ Ich habe nichts gesagt, weil mir die Stimme nicht getraut hat.
 „Sag was“, sagte Amira.
 
 „Ich habe seit Juli einen Termin reserviert“, sagte ich. „Im
-Wintergarten meiner Mutter. Zwölfter Juni, weil das der einzige Samstag
+Wintergarten meiner Mutter. Zehnter Juni, weil das der einzige Samstag
 ist, an dem ihr Flieder blüht.“
 
 Sie hat mich sehr lange angesehen.
@@ -144,7 +144,7 @@ als hätte ich dich hineingedrängt.“
 
 „Und wenn ich nein gesagt hätte?“
 
-„Dann hätte ich am elften Juni abgesagt und es dir nie erzählt.“
+„Dann hätte ich am neunten Juni abgesagt und es dir nie erzählt.“
 
 ---
 

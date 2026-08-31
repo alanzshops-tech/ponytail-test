@@ -162,7 +162,7 @@ Dann hat er aufgelegt, ohne sich zu verabschieden.
 
 ---
 
-Am achtundzwanzigsten November, einem Freitag, ist Amira um sechs nach
+Am siebenundzwanzigsten November, einem Freitag, ist Amira um sechs nach
 Hause gekommen und hat gesagt: „Ich habe heute mit Kubiak telefoniert.“
 
 Ich habe zwei Sekunden gebraucht.

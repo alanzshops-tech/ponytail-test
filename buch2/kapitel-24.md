@@ -193,7 +193,7 @@ vorschlagen, befristet auf ein Jahr statt der üblichen drei, mit
 erneuter Prüfung im September nächsten Jahres. Die Vorgänge Kubiak und
 der Anruf Ihres Mannes werden in der Akte vermerkt und bleiben dort.“
 Sie hat aufgesehen. „Das ist keine Strafe, Herr Reinhardt. Es ist der
-Preis dafür, dass fünfzehn Monate nichts dokumentiert wurde. Ein Jahr
+Preis dafür, dass vierzehn Monate nichts dokumentiert wurde. Ein Jahr
 lang leben Sie jetzt so, dass man es sehen kann. Dann sehen wir es uns
 wieder an.“
 

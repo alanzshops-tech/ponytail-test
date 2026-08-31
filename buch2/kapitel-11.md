@@ -172,8 +172,9 @@ siebzig Jahren nichts mehr gehoben hat. Ich kenne dieses Gebäude
 besser als meine eigene Wohnung: Ich weiß, wo im zweiten Obergeschoss
 der Boden vier Zentimeter abfällt, ich weiß, welcher der elf Anker im
 Giebel 1954 ersetzt wurde und welcher original ist, ich weiß, dass die
-Setzung an der Ostseite abgeschlossen ist, weil ich sie über vierzehn
-Monate gemessen habe, mit demselben Gerät, an denselben vier Punkten.
+Setzung an der Ostseite abgeschlossen ist, weil sich die vier Punkte
+seit vierzehn Monaten nicht mehr bewegt haben, gemessen alle vierzehn
+Tage, mit demselben Gerät, an denselben vier Punkten.
 
 Vierzehn Monate. Dieselben vierzehn Monate.
 

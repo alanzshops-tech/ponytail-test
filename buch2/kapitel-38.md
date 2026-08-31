@@ -155,7 +155,7 @@ passiert ist.“
 
 Es hat sechs Wochen gedauert.
 
-Am achtundzwanzigsten August, einem Freitag, hat Kubiak mich angerufen
+Am siebenundzwanzigsten August, einem Freitag, hat Kubiak mich angerufen
 und gefragt, ob ich am Montag Zeit habe.
 
 „Ist es schlimm?“

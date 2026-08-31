@@ -159,7 +159,7 @@ geprüft, ein Jahr lang, unter Aufsicht.“
 ---
 
 Wir sind am Sonntag zurückgefahren, und im Zug hat er auf dem Tisch
-zwischen uns angefangen, den zwölften Juni zu planen.
+zwischen uns angefangen, den zehnten Juni zu planen.
 
 Ich habe ihm nach vierzig Minuten den Stift weggenommen.
 

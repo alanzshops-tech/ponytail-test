@@ -206,7 +206,7 @@ mitnehmen.“
 
 „Warum nicht?“
 
-„Weil es meins ist“, sagte sie. „Ich habe fünfzehn Monate lang alles,
+„Weil es meins ist“, sagte sie. „Ich habe siebzehn Monate lang alles,
 was zwischen uns war, danach beurteilt, ob es mir irgendwann schaden
 könnte. Das hier ist die erste Sache seit drei Jahren, die ich
 aufschreibe, ohne zu überlegen, wer sie liest.“

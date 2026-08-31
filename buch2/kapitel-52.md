@@ -1,4 +1,4 @@
-# Der zwölfte Juni — Theo
+# Der zehnte Juni — Theo
 
 Der Flieder meiner Mutter hat 2028 vier Tage zu früh geblüht, und sie
 hat das genommen wie eine persönliche Beleidigung.

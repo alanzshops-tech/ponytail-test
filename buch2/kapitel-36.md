@@ -41,7 +41,7 @@ gesagt hat: Man vermisst jemanden nicht in großen Stücken. Man vermisst
 ihn morgens um zehn nach sechs, weil das Bad leer ist, und abends um
 halb acht, wenn man aus Gewohnheit für zwei kocht.
 
-Am zwanzigsten Mai habe ich ihr geschrieben: *Ich habe wieder für zwei
+Am neunzehnten Mai habe ich ihr geschrieben: *Ich habe wieder für zwei
 gekocht.*
 
 Sie hat geantwortet: *Friert es ein. Ich bin Donnerstag da.*
@@ -54,7 +54,7 @@ Ich habe dieses zweite Bild aufgehoben. Ich habe es immer noch.
 
 ---
 
-Am Donnerstag, dem einundzwanzigsten Mai, ist sie um Viertel nach sechs
+Am Donnerstag, dem zwanzigsten Mai, ist sie um Viertel nach sechs
 gekommen, und ich war noch im Büro, und als ich um acht nach Hause kam,
 saß sie in der Küche mit nassen Haaren.
 

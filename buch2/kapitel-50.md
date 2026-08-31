@@ -1,6 +1,6 @@
 # Achtundfünfzig Quadratmeter — Theo
 
-Sie hat das Büro am zwanzigsten März bezogen, an einem Freitag, und ich
+Sie hat das Büro am siebzehnten März bezogen, an einem Freitag, und ich
 durfte nicht helfen.
 
 „Warum nicht?“

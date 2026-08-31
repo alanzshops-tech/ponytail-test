@@ -4,7 +4,7 @@ Sie hatte gesagt, sie brauche ungefähr eine Woche, und sie hat sich an
 ihr Wort gehalten, und ich habe in dieser Woche gelernt, dass es einen
 Unterschied gibt zwischen Schweigen und Stillsein.
 
-Vom einunddreißigsten August bis zum sechsten September hat Amira
+Vom einunddreißigsten August bis zum fünften September hat Amira
 gearbeitet, gegessen, geschlafen und ungefähr vierzig Sätze am Tag
 gesagt, und keiner davon war unfreundlich.
 
@@ -32,7 +32,7 @@ dem Tisch, ohne aufzusehen, und sie eine Stunde dort gelassen.
 
 ---
 
-Am Sonntag, dem sechsten September, hat sie mich um halb acht morgens
+Am Sonntag, dem fünften September, hat sie mich um halb acht morgens
 geweckt.
 
 „Ich bin fertig“, sagte sie.
@@ -113,7 +113,7 @@ aufschreibe.“
 
 ---
 
-Am siebten September ist sie hingefahren, und sie ist um halb sieben
+Am sechsten September ist sie hingefahren, und sie ist um halb sieben
 zurückgekommen, mit einem Umschlag voller Fotos, die eine
 neunundsiebzigjährige Frau ihr mitgegeben hat, und mit roten Augen.
 

@@ -15,7 +15,7 @@ hinein; was, steht noch nicht fest.
 Die vier Haken an der Wand hinten links bleiben, wo sie sind. Das habe
 ich mir schriftlich geben lassen.
 Ihre Fotos habe ich abfotografiert und schicke Ihnen die Originale
-zurück. Was Sie mir am siebten September erzählt haben, steht jetzt in
+zurück. Was Sie mir am sechsten September erzählt haben, steht jetzt in
 einer Chronik, die eine Frau namens Sabine Reinhardt 1989 angefangen
 hat.
 Ich würde gern noch einmal kommen, wenn es Ihnen recht ist.*

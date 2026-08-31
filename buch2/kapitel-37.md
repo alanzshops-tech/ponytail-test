@@ -49,7 +49,7 @@ weggelassen.
 
 ---
 
-Theo ist am zwölften Juni gekommen, ohne sich anzukündigen, an einem
+Theo ist am elften Juni gekommen, ohne sich anzukündigen, an einem
 Freitagnachmittag, weil eine Sitzung ausgefallen war.
 
 Ich stand auf dem dritten Boden, allein, mit dem Klemmbrett, und habe
@@ -175,7 +175,7 @@ recht gehabt, und sie wäre allein nach Hause gefahren.
 
 Ich habe in dieser Nacht Eintrag zweiundachtzig geschrieben.
 
-*12.06. Er hat gezaehlt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
+*11.06. Er hat gezaehlt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
 wusste es selbst nicht.*
 
 Und darunter:

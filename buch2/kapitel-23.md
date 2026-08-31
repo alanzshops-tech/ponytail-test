@@ -53,7 +53,7 @@ Frau Domnick hat zum ersten Mal etwas notiert.
 
 „Weil ich am Sonntag gemerkt habe, dass er das Schreiben an Sie
 aufgesetzt hat, bevor er wusste, ob ich bleibe“, sagte ich. „Es ist das
-Einzige in fünfzehn Monaten, was er gegen sein eigenes Interesse getan
+Einzige in siebzehn Monaten, was er gegen sein eigenes Interesse getan
 hat, ohne dass jemand dabei war, der es ihm anrechnet. Ich weiß nicht,
 ob das reicht. Ich weiß, dass es zählt.“
 
@@ -85,7 +85,7 @@ gehören.“
 
 „Ja.“
 
-„Nach fünfzehn Monaten Ehe.“
+„Nach siebzehn Monaten Ehe.“
 
 „Ja.“
 
@@ -104,7 +104,7 @@ beide, und deshalb ist es zu bequem.“
 gesehen, der sofort etwas sagen wollte, und Dr. Brandt hat ihm ganz
 kurz die Hand auf den Unterarm gelegt.
 
-„Mein Mann hat in fünfzehn Monaten nichts hergebracht, weil er gemerkt
+„Mein Mann hat in siebzehn Monaten nichts hergebracht, weil er gemerkt
 hat, dass ich es nicht will“, sagte ich. „Ich habe ihm das nie gesagt.
 Ich habe es ihm auch nie verboten. Ich habe nur jedes Mal, wenn er
 etwas dagelassen hat, am nächsten Tag gefragt, ob er es noch braucht.“

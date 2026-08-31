@@ -22,7 +22,7 @@ steht daneben, warum.
 | Trope | Befund | Belege |
 |---|---|---|
 | **Secret Marriage** | **TRÄGT DAS BUCH** | Die Ehe besteht bei Beginn seit vierzehn Monaten und ist niemandem bekannt. Das Geheimnis ist bei Kapitel 5 vollständig ausgesprochen — es ist nicht die Spannung, es ist die Ausgangslage. |
-| **Marriage in Trouble** | **STARK VORHANDEN** | Der eigentliche Stoff: zwei Menschen, die juristisch verheiratet sind und die Ehe nie geführt haben. Vier Gegenstände von ihm in ihrer Wohnung nach fünfzehn Monaten (Kapitel 19). |
+| **Marriage in Trouble** | **STARK VORHANDEN** | Der eigentliche Stoff: zwei Menschen, die juristisch verheiratet sind und die Ehe nie geführt haben. Vier Gegenstände von ihm in ihrer Wohnung nach siebzehn Monaten (Kapitel 19). |
 | **Family Saga** | **STARK VORHANDEN** | Vier Brüder, eine Mutter, ein toter Vater, eine Chronik über einhundertdreiundneunzig Objekte mit einer Spalte, die es vorher nicht gab. |
 | **Slow Burn** | **VORHANDEN, umgedreht** | *Die Wortsuche hilft hier nicht.* Gemessen an den Beats: erster Kuss vor Zeugen bei 50 %, erste Verabredung bei 51 %, das erste Mal ohne Termin bei 56 %. Sie sind von Anfang an ein Paar — verbrannt wird trotzdem langsam, nur in der falschen Reihenfolge. |
 | **Grumpy/Sunshine** | **NICHT VORHANDEN** | Beide sind eher verschlossen. Wer das sucht, findet es nicht. |

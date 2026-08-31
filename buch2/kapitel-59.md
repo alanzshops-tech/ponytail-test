@@ -149,7 +149,7 @@ hat.
 
 Eintrag einhundertvierundsiebzig.
 
-*12.04. Ich habe es Sabine gesagt, ohne es vorher mit ihm abzusprechen.
+*08.04. Ich habe es Sabine gesagt, ohne es vorher mit ihm abzusprechen.
 Er hat nichts gemacht.*
 
 Und darunter:
@@ -163,7 +163,7 @@ gemacht.“
 
 ---
 
-Wir haben es Sabine am zwölften April gesagt, an einem Sonntag, und sie
+Wir haben es Sabine am achten April gesagt, an einem Sonntag, und sie
 hat die Kaffeekanne abgestellt und ist aus der Küche gegangen, ohne ein
 Wort, und ist vier Minuten weggeblieben.
 

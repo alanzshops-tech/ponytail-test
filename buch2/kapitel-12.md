@@ -27,7 +27,7 @@ sie es anders gesagt hätte, und ich habe zum ersten Mal seit Wochen
 nicht sofort nachgebessert, sondern gewartet.
 
 „Das ist die eine Hälfte“, sagte sie dann. „Die andere ist, dass wir
-seit fünfzehn Monaten verheiratet sind und ich nicht weiß, was
+seit vierzehn Monaten verheiratet sind und ich nicht weiß, was
 passiert, wenn er morgen von einem Gerüst fällt.“
 
 Ohlrogge hat genickt, ohne zu lächeln.
@@ -38,7 +38,7 @@ regelt sich dabei von allein.“
 ---
 
 Es hat zwei Stunden gedauert, und ich habe in diesen zwei Stunden mehr
-über meine eigene Lage gelernt als in den fünfzehn Monaten davor.
+über meine eigene Lage gelernt als in den vierzehn Monaten davor.
 
 Ich besitze neunzehn Prozent der Reinhardt Immobilien GmbH. Das ist
 weniger als Jonas mit neunundvierzig, mehr als Niklas und Bastian mit
@@ -151,7 +151,7 @@ trotzdem etwas verraten.“
 „Es tut mir leid, dass Sie es so erfahren.“
 
 „Mir auch“, sagte Wendland. „Aber das ist nicht mein Punkt.“ Er hat
-die Hände gefaltet. „Mein Punkt ist: Sie sind seit fünfzehn Monaten
+die Hände gefaltet. „Mein Punkt ist: Sie sind seit vierzehn Monaten
 mit einer Frau verheiratet, die für diese Gesellschaft ein Gutachten
 über ein Objekt erstellt, in das wir vierundzwanzig Millionen stecken.
 Und niemand in diesem Haus wusste davon.“

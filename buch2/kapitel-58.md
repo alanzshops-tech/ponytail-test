@@ -183,7 +183,7 @@ Ich habe sie angesehen.
 
 „Wie viele wissen es?“
 
-„Deine Mutter seit dem zwölften April“, sagte Amira. „Selin seit
+„Deine Mutter seit dem achten April“, sagte Amira. „Selin seit
 Februar, weil sie es an meinem Gesicht gesehen hat. Meine Mutter seit
 Ostern. Marlene seit vorgestern, weil sie mir eine Tasse Kaffee
 hingestellt hat und ich zwei Sekunden zu lange gezögert habe.“

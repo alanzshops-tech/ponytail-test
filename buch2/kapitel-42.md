@@ -85,7 +85,7 @@ Wand bleiben.
 
 ---
 
-Ich habe das am zwanzigsten September, einem Sonntag, auf den
+Ich habe das am neunzehnten September, einem Sonntag, auf den
 Küchentisch gelegt.
 
 „Was ist das?“, sagte Amira.

@@ -171,7 +171,7 @@ es reicht. Er hat es geschrieben und mir hingeschoben und dann gesagt,
 was er damit macht, und er hätte es auch abgeschickt, wenn ich mit der
 Tasche zur Tür gegangen wäre.
 
-Das ist das erste Mal in fünfzehn Monaten, dass dieser Mann etwas gegen
+Das ist das erste Mal in siebzehn Monaten, dass dieser Mann etwas gegen
 sein eigenes Interesse getan hat, ohne dass jemand dabei zusah, der es
 ihm anrechnet.
 

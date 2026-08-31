@@ -62,7 +62,7 @@ Sekunden eines Vortrags zu sagen, wessen Arbeit das ist, und heute
 werde ich in dieser Stadt angerufen, wenn ein Backsteinbau vor 1920
 Risse hat.
 
-Es hat funktioniert, und es hat mir fünfzehn Monate Ehe gekostet, und
+Es hat funktioniert, und es hat mir vierzehn Monate Ehe gekostet, und
 beides ist wahr.
 
 ---
