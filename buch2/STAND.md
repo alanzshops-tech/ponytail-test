@@ -10,8 +10,8 @@
 | Autorin | Jule Norden (Pseudonym, wie Band 1) |
 | Umfang | **64 Kapitel, 69.297 Wörter Fließtext, 70.243 Wörter gesamt** |
 | Erzählform | Ich-Perspektive, wechselnd Amira / Theo, Präteritum |
-| Datei | `buch2/reinhardt-2_KDP.epub` (1.143 kB, 66 Abschnitte) |
-| Lesefassung | `buch2/Was-er-nie-gefragt-hat.epub` |
+| Datei | `buch2/Was-er-nie-gefragt-hat_v2.epub` (1.144 kB, 66 Abschnitte, Kennung `reinhardt-2-501975846db6`) |
+| Ältere Fassungen | `reinhardt-2_KDP.epub` und `Was-er-nie-gefragt-hat.epub` — **nicht hochladen**, sie tragen noch den RSC-011-Fehler |
 | Umschlag | `cover/band2/cover.jpg`, 1600 × 2560 |
 
 ---
@@ -27,7 +27,8 @@ Alle Werkzeuge laufen mit `--buch buch2`:
 | `prosa.py --sprache` | LanguageTool: 110 Treffer, 8 echte Fehler behoben, 47 als Stil gefiltert |
 | `dopplung.py` | Ein Treffer, absichtlich — siehe `PROJEKT.md` 7c |
 | `romantik.py` | 0 von 64 Kapiteln ohne gemeinsame Szene |
-| `epubcheck.py` | Keine Beanstandungen |
+| `epubcheck.py` | Keine Beanstandungen (neu: Nav-Ziele gegen den spine) |
+| **epubcheck 5.2.1 (W3C)** | **0 fatals / 0 errors / 0 warnings / 0 infos** |
 | `kalender.py` | 12 Datumsangaben mit Wochentag geprüft, keine Beanstandungen (nach 9 Korrekturen) |
 | `namen.py` | 32 Eigennamen, 3 Verdachtsfälle, alle drei falsch — keine Schreibvariante im Buch |
 | `vale.sh buch2` | 0 Fehler, 0 Warnungen, 10 Hinweise (Füllwörter in wörtlicher Rede) |

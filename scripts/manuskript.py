@@ -170,6 +170,79 @@ blockquote p { text-indent: 0; }
 """
 
 
+REIHE = "Die Reinhardt-Brüder"
+
+# Namen, die im Impressum stehen muessen und sonst nirgends. dc:creator
+# ist der Name, der im Laden steht; am 31.08.2026 stand dort der
+# Klarname, weil ein Bau mit --autor "Alan Lorenz" aufgerufen worden
+# war. Der Vorgabewert war richtig, der Aufruf nicht -- und ein
+# Werkzeug, bei dem ein falscher Aufruf den Klarname in tausend
+# verkaufte Dateien schreibt, ist falsch gebaut. Jetzt bricht es ab.
+KLARNAMEN = {"Alan Lorenz", "Alan Lorenz GbR"}
+
+# Der Klappentext in dc:description ist nicht dasselbe Feld wie die
+# Produktbeschreibung bei KDP -- die wird im Formular eingegeben. Hier
+# steht er fuer Lesegeraete, Kataloge und jeden Haendler, der die Datei
+# selbst ausliest. Beide sollten denselben Text tragen; die abgenommene
+# Fassung steht in buch2/KDP-LAUNCH-2.md.
+KLAPPENTEXT = {
+    "2": """Sie sind verheiratet. Sie waren noch nie miteinander aus.
+
+Kopenhagen, März 2025: eine Standesbeamtin, ein Zeuge, den sie sich von
+der Straße geholt haben, und zwei Menschen, die beschließen, es
+niemandem zu erzählen. Amira Haddad begutachtet historische
+Bausubstanz und schreibt gerade für die Firma seiner Familie — eine Ehe
+darin wäre ein Angriffspunkt. Theo Reinhardt will zum ersten Mal etwas
+haben, das niemand besichtigt.
+
+Vierzehn Monate später steht die Ausländerbehörde vor der Tür. Keine
+gemeinsame Adresse, kein gemeinsames Konto, sieben Fotos. Am Montag um
+elf sitzen die beiden in getrennten Räumen und sollen beweisen, dass
+ihre Ehe echt ist.
+
+Sie ist echt. Sie ist nur nie gelebt worden.
+
+Was jetzt kommt, machen sie zum ersten Mal: zusammenwohnen. Sich
+streiten, wo jemand zusieht. Seine Bücher zwischen ihre stellen. Und
+irgendwann klingelt er unten an einer Haustür, an der sein eigener Name
+steht, weil sie einmal im Leben hören will, dass jemand für sie
+klingelt.
+
+Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit
+Happy End — kein Cliffhanger für dieses Paar. Emotional und sinnlich,
+ohne explizite Szenen.""",
+}
+
+# Fuenf bis sieben Schlagworte, aus den gemessenen Nischen und nicht
+# geraten (buch2/KDP-LAUNCH-2.md, Lauf vom 31.08.2026). dc:subject ist
+# nicht das KDP-Keyword-Feld -- die sieben Keywords stehen dort und
+# duerfen sich mit Titel und Untertitel nicht doppeln; hier gilt diese
+# Regel nicht.
+SCHLAGWORTE = [
+    "Liebesroman",
+    "Familiengeheimnis",
+    "Geheime Ehe",
+    "Zeitgenössischer Liebesroman",
+    "Familiensaga",
+    "Hamburg",
+    "Deutschsprachige Gegenwartsliteratur",
+]
+
+
+def sortiername(name: str) -> str:
+    """"Jule Norden" -> "Norden, Jule". Fuer dc:creator/file-as."""
+    teile = name.split()
+    return f"{teile[-1]}, {' '.join(teile[:-1])}" if len(teile) > 1 else name
+
+
+def metadaten(band: str) -> list[tuple[str, str]]:
+    m = [("publisher", "Alan Lorenz GbR"), ("date", "2026")]
+    if band in KLAPPENTEXT:
+        m.append(("description", KLAPPENTEXT[band]))
+    m += [("subject", s) for s in SCHLAGWORTE]
+    return m
+
+
 def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
                autor: str, ziel: Path, coverbild: Path | None) -> None:
     """KDP nimmt DOCX, EPUB oder KPF — kein Markdown. Ohne diesen
@@ -197,6 +270,9 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     #               getauscht, der Text blieb gleich -- gleiche Kennung,
     #               also fuer das Lesegeraet dasselbe Buch, also der
     #               alte Umschlag.
+    #   31.08.2026  Klappentext, Verlag, Schlagworte und die
+    #               Reihenangabe kamen dazu -- alle vier stehen in
+    #               content.opf, also gehoeren sie in die Kennung.
     #   19.08.2026  Das Stylesheet fehlte im Hash. Behoben wurde eine
     #               kaputte Zeile CSS, Text und Bild blieben gleich --
     #               wieder gleiche Kennung, wieder die alte Fassung.
@@ -205,7 +281,9 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     # Nachwort --, traegt sie in diese Liste ein.
     import hashlib
     h = hashlib.sha256()
-    for teil in ([titel, autor, vorspann, nachspann, CSS]
+    band = "2" if BUCH.name.endswith("2") else "1"
+    for teil in ([titel, autor, vorspann, nachspann, CSS, REIHE]
+                 + [w for _, w in metadaten(band)]
                  + [t for _, _, t in kapitel]):
         h.update(teil.encode("utf-8"))
     if coverbild and coverbild.exists():
@@ -217,11 +295,31 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     # Buecher waren trotzdem unterscheidbar, weil der Hash sich
     # unterscheidet -- aufgefallen ist es erst, als beide Kennungen
     # nebeneinander ausgegeben wurden.
-    band = "2" if BUCH.name.endswith("2") else "1"
     buch.set_identifier(f"reinhardt-{band}-{kennung}")
     buch.set_title(titel)
     buch.set_language("de")
-    buch.add_author(autor)
+    # file_as und role sind nicht Zierrat: Ohne file-as sortieren
+    # Lesegeraete und Bibliothekskataloge nach dem Vornamen, ohne role
+    # steht nicht in der Datei, dass diese Person die Verfasserin ist
+    # und nicht Herausgeberin oder Uebersetzerin.
+    if autor in KLARNAMEN:
+        raise SystemExit(
+            f"dc:creator waere '{autor}' -- ein Klarname aus dem "
+            f"Impressum. Er gehoert nicht in die Metadaten. Pseudonym "
+            f"verwenden (Vorgabewert: Jule Norden).")
+    buch.add_author(autor, file_as=sortiername(autor), role="aut")
+
+    for name, wert in metadaten(band):
+        buch.add_metadata("DC", name, wert)
+
+    # Reihen-Metadaten nach EPUB 3.2. Amazon und Kobo bauen daraus die
+    # Serienseite; ohne sie stehen die Baende als Einzeltitel da.
+    buch.add_metadata(None, "meta", REIHE,
+                      {"property": "belongs-to-collection", "id": "serie"})
+    buch.add_metadata(None, "meta", "series",
+                      {"refines": "#serie", "property": "collection-type"})
+    buch.add_metadata(None, "meta", band,
+                      {"refines": "#serie", "property": "group-position"})
 
     stil = epub.EpubItem(uid="stil", file_name="style.css",
                          media_type="text/css", content=CSS)
@@ -266,7 +364,17 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
 
     buch.add_item(epub.EpubNcx())
     buch.add_item(epub.EpubNav())
-    buch.spine = ["nav"] + seiten
+    # Die Umschlagseite gehoert in den spine, auch wenn sie nicht
+    # mitgelesen wird (is_linear=False). Bis zum 31.08.2026 stand sie
+    # nur im Manifest, waehrend die Landmarks in nav.xhtml auf sie
+    # zeigten -- und EPUB 3.3 verlangt, dass jedes Nav-Ziel ein
+    # spine-Eintrag ist. Der offizielle epubcheck von W3C meldet das als
+    # RSC-011; der hauseigene epubcheck.py hat es nicht gesehen, weil er
+    # auf tote Verweise prueft und cover.xhtml ja existiert. Der Fehler
+    # steckte in jeder bisher gebauten Datei, in beiden Baenden.
+    umschlagseite = [buch.get_item_with_id("cover")] if coverbild \
+        and coverbild.exists() else []
+    buch.spine = umschlagseite + ["nav"] + seiten
     # ebooklib stempelt sonst die aktuelle Uhrzeit in content.opf. Dann
     # unterscheidet sich jede neu gebaute EPUB von der alten, obwohl kein
     # Wort anders ist, und `git status` meldet eine Aenderung, die keine

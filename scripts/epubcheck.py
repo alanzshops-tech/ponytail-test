@@ -208,6 +208,24 @@ def pruefe(pfad: Path) -> list[str]:
                           f"das Buch hat {len(im_buch)}")
         elif im_nav != im_buch:
             klagen.append("Verzeichnis und Buch haben andere Reihenfolgen")
+
+        # Jedes Ziel in nav.xhtml muss ein spine-Eintrag sein, nicht nur
+        # eine vorhandene Datei. Das ist der Unterschied, an dem dieses
+        # Geraet am 31.08.2026 vorbeigesehen hat: cover.xhtml lag im
+        # Manifest, existierte also, und stand in den Landmarks -- aber
+        # nicht im spine. Der offizielle epubcheck von W3C meldet dafuer
+        # RSC-011. Der Fehler steckte in jeder bisher gebauten Datei,
+        # beide Baende, und ist hier nie aufgefallen, weil "Datei da"
+        # geprueft wurde statt "im spine".
+        spine_dateien = {s.rsplit("/", 1)[-1] for s in spine}
+        alle_ziele = {t.rsplit("/", 1)[-1]
+                      for t in re.findall(r'href="([^"#]+)', roh)}
+        ausserhalb = sorted(z for z in alle_ziele
+                            if z.endswith((".xhtml", ".html"))
+                            and z not in spine_dateien)
+        for z_ in ausserhalb:
+            klagen.append(f"nav.xhtml verweist auf {z_}, "
+                          f"das nicht im spine steht")
     return klagen
 
 
