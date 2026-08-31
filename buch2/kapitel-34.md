@@ -24,7 +24,7 @@ bekommen, mit vierundzwanzig und mit sechsundzwanzig, und beide Male
 abgelehnt, und über den zweiten redet sie nicht.
 
 Fünfter Freitag: Sie hasst es, wenn man ihr beim Essen zusieht.
-Fünfundzwanzig Monate. Ich habe das nicht gewusst.
+Dreiundzwanzig Monate. Ich habe das nicht gewusst.
 
 ---
 
@@ -33,8 +33,7 @@ erfährt, und die Antwort war deprimierend.
 
 Sie wusste alles.
 
-Nicht weil ich offener bin — weil ich seit fünfundzwanzig Monaten
-über nichts anderes rede als über Arbeit, und weil in dieser Arbeit
+Nicht weil ich offener bin — weil ich seit dreiundzwanzig Monaten über nichts anderes rede als über Arbeit, und weil in dieser Arbeit
 alles über mich drinsteht, wenn man zuhören kann.
 
 Am vierten Freitag habe ich sie gefragt, ob es etwas gibt, das sie

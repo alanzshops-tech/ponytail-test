@@ -160,8 +160,7 @@ ich noch tun kann.“
 
 Sie hat unterschrieben, mit Datum.
 
-„Ich hätte das mit sechzig machen sollen“, sagte sie dann. „Ich habe
-achtundzwanzig Jahre gewartet, bis mich jemand fragt, und dann hat mich
+„Ich hätte das mit sechzig machen sollen“, sagte sie dann. „Ich habe zweiunddreißig Jahre gewartet, bis mich jemand fragt, und dann hat mich
 niemand gefragt, und jetzt bin ich siebenundsechzig und mache es
 selbst.“
 

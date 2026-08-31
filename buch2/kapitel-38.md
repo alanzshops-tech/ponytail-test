@@ -129,7 +129,9 @@ ist er erledigt.“ Er hat aufgesehen. „Mich stört, dass ich seither vier
 Leute in meinem eigenen Büro anders ansehe. Das ist der Schaden. Den
 hat der Brief angerichtet und nicht Sie.“
 
-„Ich auch nicht.“ Er hat aufgesehen. „Ich habe damals einen Aktenvermerk
+„Vier Leute“, sagte ich.
+
+„Vier Leute“, sagte Kubiak. „Ich habe damals einen Aktenvermerk
 geschrieben, und ich habe ihn Ihrem Anwalt geschickt, und ich habe zwei
 Wochen überlegt, ob ich ihn auch der Behörde schicke.“
 

@@ -23,8 +23,7 @@ schreiben können.“
 
 ---
 
-Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit
-zweiundsiebzig, nach vierunddreißig Jahren.
+Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit zweiundsiebzig, nach zweiundzwanzig Jahren.
 
 Er hat sich das nicht ausgesucht; es steht in der Satzung, die mein
 Vater 1998 geschrieben hat, und mein Vater hat hineingeschrieben, dass
@@ -46,8 +45,9 @@ im Voraus“, sagte er.
 
 Niemand hat etwas gesagt.
 
-„Ich sitze seit vierunddreißig Jahren in diesem Beirat. Ich habe unter
-Ihrem Vater sechzehn Jahre gearbeitet und unter Ihnen achtzehn.“ Er hat
+„Ich sitze seit zweiundzwanzig Jahren in diesem Beirat, und vorher
+habe ich sechzehn Jahre lang in einer Bank die Zahlen Ihres Vaters
+geprüft.“ Er hat
 zu Jonas gesehen. „Ihr Vater war ein sehr guter Kaufmann und ein Mann,
 der mir zweimal im Leben etwas mitgeteilt hat, das ich vorher hätte
 wissen müssen.“
@@ -56,8 +56,9 @@ Er hat die Brille auf den Tisch gelegt.
 
 „Ich habe 1997 in einem Flur gestanden und ihm gesagt, er soll seiner
 Frau vorher sagen, dass er ihr Elternhaus verkauft. Er hat es nicht
-gemacht. Ich habe achtundzwanzig Jahre mit diesem Wissen in Sitzungen
-gesessen, in denen seine Söhne saßen, und ich habe geschwiegen, weil ich
+gemacht. Ich habe zweiunddreißig Jahre mit diesem Wissen gelebt und die
+letzten neunzehn davon in Sitzungen gesessen, in denen seine Söhne
+saßen, und ich habe geschwiegen, weil ich
 mir eingeredet habe, dass es nicht meine Ehe ist.“
 
 Er hat sich zu mir gedreht.
@@ -136,8 +137,7 @@ ihrem Mann wisse es niemand.“
 Er hat die Mappe umgefasst.
 
 „Ich habe im Februar mit ihr darüber gesprochen. Zum ersten Mal. Ich
-bin hingefahren, ich habe ihr gesagt, dass ich es seit
-achtundzwanzig Jahren weiß, und ich habe mich entschuldigt.“
+bin hingefahren, ich habe ihr gesagt, dass ich es seit zweiunddreißig Jahren weiß, und ich habe mich entschuldigt.“
 
 „Das wusste ich nicht.“
 

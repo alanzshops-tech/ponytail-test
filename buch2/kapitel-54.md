@@ -21,7 +21,7 @@ gehört.*“
 
 ---
 
-Ich habe in vierzehn Jahren siebenundzwanzig Gebäude entworfen und bei
+Ich habe in sechzehn Jahren siebenundzwanzig Gebäude entworfen und bei
 keinem davon durfte ich am Ende entscheiden.
 
 Das ist normal. Ein Entwurf geht durch Kalkulation, durch Ausführung,

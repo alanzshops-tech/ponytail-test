@@ -2,7 +2,8 @@
 
 Der Beirat der Reinhardt Immobilien GmbH besteht aus fünf Personen: den
 vier Gesellschaftern und Wendland, der kein Anteilseigner ist und
-dessen Stimme mein Vater 1998 in die Satzung geschrieben hat, weil er
+dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und
+den Wendland seit 2007 innehat, weil er
 wollte, dass „einer da drin sitzt, der nichts erbt“.
 
 Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
@@ -211,8 +212,7 @@ er es ihr vorher sagen soll.“
 
 Ich habe nichts gesagt.
 
-„Er hat es nicht gemacht“, sagte Wendland. „Und ich habe achtundzwanzig
-Jahre lang nicht darüber gesprochen, weil es nicht meine Ehe war.“ Er
+„Er hat es nicht gemacht“, sagte Wendland. „Und ich habe dreißig Jahre lang nicht darüber gesprochen, weil es nicht meine Ehe war.“ Er
 hat die Mappe unter den Arm genommen. „Heute haben Sie in einem Raum
 mit vier Leuten gesagt, dass die Idee von Ihrer Frau kommt. Ich habe
 gegen Ihre Vorlage gestimmt, Herr Reinhardt, und ich habe mich dabei

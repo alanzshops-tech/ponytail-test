@@ -1,6 +1,6 @@
 # Sonntag am Kehrwieder — Theo
 
-Mein Bruder hat vierzehn Jahre lang keinen Sonntag gehabt, und jetzt hat
+Mein Bruder hat sechzehn Jahre lang keinen Sonntag gehabt, und jetzt hat
 er einen, an dem man bei ihm klingelt und er in Socken aufmacht. Ich
 gewöhne mich nicht daran.
 

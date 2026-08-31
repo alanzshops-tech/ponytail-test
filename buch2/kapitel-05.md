@@ -1,4 +1,4 @@
-# Kopenhagen, vierzehn Monate vorher — Amira
+# Die Frau mit der Schüssel — Amira
 
 Sabine Reinhardt kam um achtzehn Uhr dreißig durch meine Tür, mit einer
 Schüssel in der Hand, die sie nicht angekündigt hatte, und dem Satz:

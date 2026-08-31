@@ -108,8 +108,7 @@ sie waren alle gut und keines war der Grund.“
 „Was ist der Grund?“
 
 „Dass ich Architekt bin“, sagte ich. „Ich habe mit neunzehn aufgehört
-zu studieren und bin trotzdem einer geworden, und ich zeichne seit
-vierzehn Jahren Häuser, und ich bin gut darin, und wenn ich die
+zu studieren und bin trotzdem einer geworden, und ich zeichne seit sechzehn Jahren Häuser, und ich bin gut darin, und wenn ich die
 Geschäftsführung übernehme, mache ich es nie wieder.“
 
 Ich habe auf den Dielenboden gesehen.
