@@ -451,7 +451,13 @@ def main() -> None:
     p.add_argument("--selbsttest", action="store_true")
     p.add_argument("--epub", default=None,
                    help="Zieldatei für die EPUB (leer = überspringen)")
-    p.add_argument("--cover", default="cover/fertig/cover.jpg")
+    # Auch das Cover richtet sich nach --buch. Diese Vorgabe ist beim
+    # Umbau am 01.09.2026 uebersehen worden: --ziel, --epub und --titel
+    # sind mitgezogen, --cover blieb auf Band 1 stehen. Ergebnis war,
+    # dass die fertige Band-2-EPUB das Cover von Band 1 getragen hat --
+    # im Paket nachgewiesen, gleiche Pruefsumme. Vierte Stelle dieser
+    # Bauart nach prosa.py, --ziel/--epub/--titel.
+    p.add_argument("--cover", default=None)
     p.add_argument("--titel", default=None)
     args = p.parse_args()
 
@@ -467,6 +473,9 @@ def main() -> None:
     if args.titel is None:
         args.titel = ("Was er nie gefragt hat" if zweiter
                       else "Was ich dir nie gesagt habe")
+    if args.cover is None:
+        args.cover = ("cover/band2/cover.jpg" if zweiter
+                      else "cover/fertig/cover.jpg")
 
     print("Kalibrierung der Pruefungen:")
     if not selbsttest():

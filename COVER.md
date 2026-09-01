@@ -212,3 +212,88 @@ kommt es auf dem Handy in der Trefferliste an. Wenn Titel oder Gesicht
 dann nicht mehr lesbar sind, ist das Cover falsch — egal wie gut es in
 Originalgröße aussieht. Alle 36 gemessenen Cover bestehen diesen Test;
 das ist der Grund für die riesigen Versalien und die zwei Farben.
+
+---
+
+## Band 2: der Bruder (Stand 01.09.2026)
+
+Das vorhandene Band-2-Cover (`cover/band2/cover.jpg`) hat den richtigen
+Aufbau — Speicherstadt, Reihenzeile, Typografie sitzt —, aber der Mann
+darauf ist blond und hell, während Jonas auf Band 1 dunkel, gebräunt
+und bärtig ist. **Es gibt keine familiäre Ähnlichkeit.** In einer Reihe
+ist das ein Fehler: Der Wiedererkennungswert der Reihe hängt in der
+Miniatur an genau zwei Dingen — der Typografie und dem Gesicht.
+
+Ziel für Band 2: **derselbe Mann-Typ wie Band 1, erkennbar als Bruder,
+mit leichten Abweichungen.** Theo ist der jüngere (geboren August 1990,
+Architekt), also etwas jünger und eine Spur weniger hart als Jonas.
+
+### Prompt (ohne Text, wie immer)
+
+```
+Vertical book cover artwork, aspect ratio 10:16, no text, no lettering,
+no logo, no watermark.
+
+Subject: a man in his mid-thirties, unmistakably the younger brother of
+a slightly older man with the same family face — dark brown hair combed
+back off the forehead, strong straight eyebrows, deep-set grey-blue
+eyes, straight nose, defined square jaw, short dark stubble beard along
+the jawline. Slightly younger and a shade less hard than his elder
+brother: the hair a little less severely slicked, a few strands loose at
+the temple. He wears a charcoal wool overcoat over a white shirt, collar
+open, no tie. Chest-up portrait, his head in the upper third of the
+frame, shoulders squared to camera, looking directly into the lens.
+Serious, tired, not smiling — a man who has worked too long and is
+holding something back.
+
+Setting: the Hamburg Speicherstadt at blue hour just after rain. Far
+behind him and thrown well out of focus: red-brick warehouse facades, a
+green steel bridge, warm window light reflecting in a narrow canal,
+scattered bokeh street lamps.
+
+Light: a cool teal rim light along the right side of his face and hair,
+one warm practical light low from the left, deep shadow filling the
+right third and the entire bottom of the frame.
+
+Colour palette: near-black #0d0d0f dominant, deep warm brick #3a2018,
+muted teal-blue #1c2b33, one warm gold highlight #c8a06a. Cinematic
+night-city colour grade.
+
+Style: photorealistic, 85mm portrait lens, shallow depth of field,
+natural skin texture and pores, no HDR, no glossy retouching, no beauty
+filter.
+
+Composition requirement: the bottom 40 percent of the frame must stay
+dark, calm and empty — it is reserved for typography.
+```
+
+**Besser noch, wenn das Werkzeug Referenzbilder kann** (Nano Banana,
+GPT-Image, Flux Kontext): `cover/roh/newyork2.jpg` als Referenz
+mitgeben und dazuschreiben *„the younger brother of the man in the
+reference image, same face family, same colour grade"*. Das trifft die
+Ähnlichkeit zuverlässiger als jede Beschreibung.
+
+### Danach
+
+Bild als `cover/roh/theo.jpg` ablegen, dann:
+
+```
+python3 scripts/coverbau.py --bild cover/roh/theo.jpg \
+    --titel-script "Was er nie" --titel-caps "GEFRAGT HAT" \
+    --genre "Geheime Ehe · Familiengeheimnis" --band "BAND 2" \
+    --autor "Jule Norden" --ordner cover/band2
+```
+
+`coverbau.py` setzt die Typografie, misst den Titelkontrast gegen das
+Ziel von 7,0 und legt die Miniaturprobe daneben. **Die Miniaturprobe
+ist der eigentliche Test** — in der Trefferliste ist das Cover 160
+Pixel hoch.
+
+### Warum das hier steht und nicht erledigt ist
+
+Diese Arbeitsumgebung erreicht nur GitHub, PyPI und npm. Der
+Cloudinary-Zugang hat für Bilderzeugung keine Freigabe
+(`invalid scope`, auch beim Standardmodell), Canva ist nicht
+autorisiert. **Das Bild kann in einer Sitzung hier nicht erzeugt
+werden.** Der Prompt steht deshalb hier, damit er nicht in einem
+Chatverlauf verlorengeht.
