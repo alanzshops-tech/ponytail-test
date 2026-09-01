@@ -1,8 +1,10 @@
 # Die Ausschreibung, an der sie nicht teilnehmen darf — Theo
 
+Den Absatz unter Ziffer 4.3, auf Seite vier, habe ich selbst
+mitformuliert.
+
 Die Bekanntmachung ist am zweiten April herausgegangen, elf Seiten,
-Frist bis zum fünfzehnten Mai, und auf Seite vier steht unter Ziffer
-4.3 ein Absatz, den ich selbst mitformuliert habe.
+Frist bis zum fünfzehnten Mai.
 
 *Ausgeschlossen sind Bieter, bei denen ein Interessenkonflikt im Sinne
 des § 21 VwVfG vorliegt oder vorliegen könnte, insbesondere durch

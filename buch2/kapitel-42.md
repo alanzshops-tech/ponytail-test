@@ -1,8 +1,10 @@
 # Die Vorlage, die ich nicht geschrieben habe — Theo
 
+Sechs Seiten, Nummer 2027-114, und ich habe keine einzige davon
+geschrieben.
+
 Die Beschlussvorlage für das Nachbargrundstück Kehrwieder vierzehn
-liegt seit dem elften August im System, sie hat die Nummer 2027-114,
-sie ist sechs Seiten lang, und unter Ziffer 5 steht:
+liegt seit dem elften August im System, und unter Ziffer 5 steht:
 
 *Empfehlung: Rückbau des Bestandsgebäudes im ersten Quartal, Herstellung
 des Arbeitsraums für die Instandsetzung der Nordfassade KWK, danach

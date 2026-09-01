@@ -1,8 +1,10 @@
 # Wer die Gegenzeichnung bekommen hat — Theo
 
+Ich saß nicht im Vergabeausschuss, weil ich mich für befangen erklärt
+hatte.
+
 Die Angebote wurden am fünfzehnten Mai geöffnet, vier Stück, und am
-zweiten Juli hat der Vergabeausschuss entschieden, und ich saß nicht
-darin, weil ich mich für befangen erklärt hatte.
+zweiten Juli hat der Ausschuss entschieden.
 
 Niklas hat mich angerufen, um zwanzig nach vier.
 

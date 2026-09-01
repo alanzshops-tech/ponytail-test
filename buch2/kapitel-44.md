@@ -1,12 +1,12 @@
 # Der siebenundzwanzigste September — Theo
 
+Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
+
 Der Beirat der Reinhardt Immobilien GmbH besteht aus fünf Personen: den
 vier Gesellschaftern und Wendland, der kein Anteilseigner ist und
-dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und
-den Wendland seit 2007 innehat, weil er
-wollte, dass „einer da drin sitzt, der nichts erbt“.
-
-Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
+dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und den
+Wendland seit 2007 innehat, weil er wollte, dass „einer da drin sitzt,
+der nichts erbt“.
 
 ---
 

@@ -6894,9 +6894,11 @@ passiert, was man jemandem erzählen könnte.*
 
 # Die Ausschreibung, an der sie nicht teilnehmen darf — Theo
 
+Den Absatz unter Ziffer 4.3, auf Seite vier, habe ich selbst
+mitformuliert.
+
 Die Bekanntmachung ist am zweiten April herausgegangen, elf Seiten,
-Frist bis zum fünfzehnten Mai, und auf Seite vier steht unter Ziffer
-4.3 ein Absatz, den ich selbst mitformuliert habe.
+Frist bis zum fünfzehnten Mai.
 
 *Ausgeschlossen sind Bieter, bei denen ein Interessenkonflikt im Sinne
 des § 21 VwVfG vorliegt oder vorliegen könnte, insbesondere durch
@@ -7273,9 +7275,11 @@ wissen. Zwei Maenner, dreissig Jahre auseinander, dieselbe Hand.*
 
 # Wer die Gegenzeichnung bekommen hat — Theo
 
+Ich saß nicht im Vergabeausschuss, weil ich mich für befangen erklärt
+hatte.
+
 Die Angebote wurden am fünfzehnten Mai geöffnet, vier Stück, und am
-zweiten Juli hat der Vergabeausschuss entschieden, und ich saß nicht
-darin, weil ich mich für befangen erklärt hatte.
+zweiten Juli hat der Ausschuss entschieden.
 
 Niklas hat mich angerufen, um zwanzig nach vier.
 
@@ -8029,9 +8033,11 @@ sagte ich.
 
 # Die Vorlage, die ich nicht geschrieben habe — Theo
 
+Sechs Seiten, Nummer 2027-114, und ich habe keine einzige davon
+geschrieben.
+
 Die Beschlussvorlage für das Nachbargrundstück Kehrwieder vierzehn
-liegt seit dem elften August im System, sie hat die Nummer 2027-114,
-sie ist sechs Seiten lang, und unter Ziffer 5 steht:
+liegt seit dem elften August im System, und unter Ziffer 5 steht:
 
 *Empfehlung: Rückbau des Bestandsgebäudes im ersten Quartal, Herstellung
 des Arbeitsraums für die Instandsetzung der Nordfassade KWK, danach
@@ -8386,13 +8392,13 @@ den ich vermessen und für harmlos erklärt habe.
 
 # Der siebenundzwanzigste September — Theo
 
+Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
+
 Der Beirat der Reinhardt Immobilien GmbH besteht aus fünf Personen: den
 vier Gesellschaftern und Wendland, der kein Anteilseigner ist und
-dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und
-den Wendland seit 2007 innehat, weil er
-wollte, dass „einer da drin sitzt, der nichts erbt“.
-
-Sitzungen dauern bei uns zwei Stunden. Diese hat vier gedauert.
+dessen Stimme mein Vater 1998 in die Satzung geschrieben hat und den
+Wendland seit 2007 innehat, weil er wollte, dass „einer da drin sitzt,
+der nichts erbt“.
 
 ---
 
