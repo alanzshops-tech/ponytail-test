@@ -4,7 +4,7 @@
 
 # Was er nie gefragt hat
 
-### Eine geheime Ehe, eine Frist und eine Familie, die alles regelt
+### Sie sind längst verheiratet. Jetzt müssen sie lernen, eine Ehe zu sein.
 
 **Die Reinhardt-Brüder — Band 2**
 

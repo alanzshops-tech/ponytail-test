@@ -39,12 +39,35 @@ auch nicht, weil sie in Band 1 funktioniert haben.
 
 ## 2. Untertitel
 
-**Auf dem Cover:** Geheime Ehe · Familiengeheimnis (Band 2)
+**Auf dem Cover:** Verheiratet. Und nie zusammen aus. (Band 2)
 
 **Im KDP-Feld [E]:**
-> Eine geheime Ehe, eine Frist und eine Familie, die alles regelt – Liebesroman (Die Reinhardt-Brüder 2)
+> Sie sind längst verheiratet. Jetzt müssen sie lernen, eine Ehe zu sein – Liebesroman (Die Reinhardt-Brüder 2)
 
-Begründung: Dieselbe gemessene Konstruktion wie bei Band 1
+**Geändert am 01.09.2026.** Vorher stand hier die Aufzählung *„Eine
+geheime Ehe, eine Frist und eine Familie, die alles regelt"*. Sie folgte
+der gemessenen Nischenkonstruktion, benannte aber die Prämisse nicht.
+`schaufenster.py` hat es sichtbar gemacht: Die Prämisse — beide sind
+schon verheiratet und müssen erst lernen, eine Ehe zu sein — stand
+**ausschließlich im Klappentext** (Wort 2 und 5) und fehlte in Titel,
+Untertitel und Cover-Genrezeile vollständig. Alles, was ein stöbernder
+Leser zuerst sieht, sprach von Behörde, Frist und Familie.
+
+Drei Fassungen durchgerechnet:
+
+| Fassung | Prämisse | Kollisionen |
+|---|---|---:|
+| „Sie sind längst verheiratet. Jetzt müssen sie lernen…" | Wort 3 und 8 | 0 |
+| „Verheiratet – und noch nie zusammen aus" | nur erste Hälfte | 0 |
+| „Eine heimliche Ehe, entdeckt – jetzt müssen sie beweisen…" | nur zweite Hälfte | **1** (*heimliche* sperrt Feld 5) |
+
+Die gewählte Fassung behält von der gemessenen Konstruktion das
+Genrewort und die Reihe in Klammern (23 bzw. 21 von 30 Spitzentiteln)
+und ersetzt nur die Dreier-Aufzählung durch den Satz, der sagt, was das
+Buch von den anderen unterscheidet. 114 Zeichen gegen vorher 103.
+
+Begründung der alten Fassung, zur Nachvollziehbarkeit: Dieselbe
+gemessene Konstruktion wie bei Band 1
 (`../KDP-NISCHEN.md`: Dreier-Aufzählung, dann das Genrewort, dann die
 Reihe in Klammern — 24 von 30 Spitzentiteln haben einen Untertitel nach
 Trennzeichen, 23 von 30 tragen *Liebesroman* oder *Romance*, 21 von 30
