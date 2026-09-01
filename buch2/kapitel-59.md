@@ -175,7 +175,7 @@ Als sie wiederkam, hatte sie sich das Gesicht gewaschen.
 
 Sabine hat sich hingesetzt.
 
-„Weil ich seit sechs Jahren nicht mehr weine, wo jemand dabei ist“,
+„Weil ich seit zehn Jahren nicht mehr weine, wo jemand dabei ist“,
 sagte sie. „Ich habe das 2019 aufgehört, als Bastian gegangen ist.“
 
 Sie hat meine Hand genommen.

@@ -128,7 +128,7 @@ weiterbauen?“
 
 „Sie fragen mich das, weil ich befangen bin“, sagte ich.
 
-„Ich frage Sie das, weil Sie die Einzige sind, die das Haus seit drei
+„Ich frage Sie das, weil Sie die Einzige sind, die das Haus seit vier
 Jahren kennt“, sagte Wendland. „Ihre Befangenheit interessiert mich in
 diesem Telefonat nicht. Sie steht in der Akte, damit ist sie erledigt.
 Antworten Sie.“

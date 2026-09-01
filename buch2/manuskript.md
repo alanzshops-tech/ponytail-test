@@ -7595,7 +7595,7 @@ weiterbauen?“
 
 „Sie fragen mich das, weil ich befangen bin“, sagte ich.
 
-„Ich frage Sie das, weil Sie die Einzige sind, die das Haus seit drei
+„Ich frage Sie das, weil Sie die Einzige sind, die das Haus seit vier
 Jahren kennt“, sagte Wendland. „Ihre Befangenheit interessiert mich in
 diesem Telefonat nicht. Sie steht in der Akte, damit ist sie erledigt.
 Antworten Sie.“
@@ -11357,7 +11357,8 @@ schreiben können.“
 
 ---
 
-Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit zweiundsiebzig, nach zweiundzwanzig Jahren.
+Wendland ist am zwölften Mai aus dem Beirat ausgeschieden, mit
+zweiundsiebzig, nach zweiundzwanzig Jahren.
 
 Er hat sich das nicht ausgesucht; es steht in der Satzung, die mein
 Vater 1998 geschrieben hat, und mein Vater hat hineingeschrieben, dass
@@ -11381,8 +11382,7 @@ Niemand hat etwas gesagt.
 
 „Ich sitze seit zweiundzwanzig Jahren in diesem Beirat, und vorher
 habe ich sechzehn Jahre lang in einer Bank die Zahlen Ihres Vaters
-geprüft.“ Er hat
-zu Jonas gesehen. „Ihr Vater war ein sehr guter Kaufmann und ein Mann,
+geprüft.“ Er hat zu Jonas gesehen. „Ihr Vater war ein sehr guter Kaufmann und ein Mann,
 der mir zweimal im Leben etwas mitgeteilt hat, das ich vorher hätte
 wissen müssen.“
 
@@ -11392,8 +11392,8 @@ Er hat die Brille auf den Tisch gelegt.
 Frau vorher sagen, dass er ihr Elternhaus verkauft. Er hat es nicht
 gemacht. Ich habe zweiunddreißig Jahre mit diesem Wissen gelebt und die
 letzten neunzehn davon in Sitzungen gesessen, in denen seine Söhne
-saßen, und ich habe geschwiegen, weil ich
-mir eingeredet habe, dass es nicht meine Ehe ist.“
+saßen, und ich habe geschwiegen, weil ich mir eingeredet habe, dass es
+nicht meine Ehe ist.“
 
 Er hat sich zu mir gedreht.
 
@@ -11404,7 +11404,7 @@ dass ich sachlich recht hatte.“
 Er hat die Mappe geschlossen.
 
 „Und ich sage Ihnen heute, dass es der beste Tag meiner
-vierunddreißig Jahre war.“
+achtunddreißig Jahre war.“
 
 ---
 
@@ -11471,7 +11471,8 @@ ihrem Mann wisse es niemand.“
 Er hat die Mappe umgefasst.
 
 „Ich habe im Februar mit ihr darüber gesprochen. Zum ersten Mal. Ich
-bin hingefahren, ich habe ihr gesagt, dass ich es seit zweiunddreißig Jahren weiß, und ich habe mich entschuldigt.“
+bin hingefahren, ich habe ihr gesagt, dass ich es seit zweiunddreißig
+Jahren weiß, und ich habe mich entschuldigt.“
 
 „Das wusste ich nicht.“
 
@@ -11503,8 +11504,9 @@ Amira hat den Kopf geschüttelt und gelächelt.
 „Was?“
 
 „*Wenn Sie irgendwann Ihren Kindern von ihm erzählen*“, sagte sie.
-„Zweiundsiebzig Jahre alt, dreißig Jahre Beirat, und er verabschiedet
-sich mit einem Nebensatz, in dem er dir sagt, dass er es weiß.“
+„Zweiundsiebzig Jahre alt, zweiundzwanzig Jahre Beirat, und er
+verabschiedet sich mit einem Nebensatz, in dem er dir sagt, dass er es
+weiß.“
 
 „Er weiß gar nichts. Wir haben es niemandem gesagt.“
 
@@ -11717,7 +11719,7 @@ Als sie wiederkam, hatte sie sich das Gesicht gewaschen.
 
 Sabine hat sich hingesetzt.
 
-„Weil ich seit sechs Jahren nicht mehr weine, wo jemand dabei ist“,
+„Weil ich seit zehn Jahren nicht mehr weine, wo jemand dabei ist“,
 sagte sie. „Ich habe das 2019 aufgehört, als Bastian gegangen ist.“
 
 Sie hat meine Hand genommen.
@@ -12342,7 +12344,7 @@ Ich habe eine Weile nichts gesagt.
 
 „Ich komme als Letzter, damit ich niemandem im Weg stehe, und ich gehe
 als Erster, damit niemand entscheiden muss, ob er mich zum Essen
-einlädt.“ Er hat kurz gelacht, ohne Freude. „Das mache ich seit sieben
+einlädt.“ Er hat kurz gelacht, ohne Freude. „Das mache ich seit zehn
 Jahren, und ich habe geglaubt, es merkt keiner.“
 
 „Mama merkt es.“

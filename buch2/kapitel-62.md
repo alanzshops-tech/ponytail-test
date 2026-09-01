@@ -172,7 +172,7 @@ Ich habe eine Weile nichts gesagt.
 
 „Ich komme als Letzter, damit ich niemandem im Weg stehe, und ich gehe
 als Erster, damit niemand entscheiden muss, ob er mich zum Essen
-einlädt.“ Er hat kurz gelacht, ohne Freude. „Das mache ich seit sieben
+einlädt.“ Er hat kurz gelacht, ohne Freude. „Das mache ich seit zehn
 Jahren, und ich habe geglaubt, es merkt keiner.“
 
 „Mama merkt es.“

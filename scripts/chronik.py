@@ -299,16 +299,33 @@ def main() -> None:
               f"stand schon bei {vor_d}, also {tage} Tage zurück")
     print("  keine" if not klagen else "")
 
-    print(f"\n=== Zeitspannen ({len(alle_spannen)} Angaben) ===")
-    nach_text = {}
+    # Eine Jahresangabe zeigt auf ein Ankerjahr: Kapiteljahr minus n.
+    # Meint dieselbe Angabe in zwei Kapiteln dieselbe Sache, muss das
+    # Ankerjahr gleich bleiben -- waechst das Kapiteljahr und die Zahl
+    # nicht mit, wandert der Anker, und das ist der Fehler. So sind
+    # gefunden worden: K39 ("das Haus seit drei Jahren", Auftrag aber
+    # August 2023) und K62 (Bastian "seit sieben Jahren", gegangen aber
+    # 2019 -- im selben Kapitel dreimal gesagt).
+    #
+    # Automatisch entscheiden laesst sich das nicht: Dieselbe Zahl
+    # meint oft verschiedene Dinge (Amiras Wohnung seit 2019 und Theos
+    # Wohnung seit 2020 sind beide "sieben Jahre", nur in
+    # verschiedenen Kapiteln). Das Geraet legt die Ankerjahre
+    # nebeneinander; welche zusammengehoeren, sieht ein Mensch.
+    print(f"\n=== Zeitspannen: Ankerjahre ({len(alle_spannen)} Angaben) ===")
+    nach_zahl = {}
     for nr, n, e, z in alle_spannen:
-        nach_text.setdefault((n, e), []).append(nr)
-    for (n, e), nrs in sorted(nach_text.items(), key=lambda x: -len(x[1])):
-        if len(nrs) > 1:
-            spanne = max(nrs) - min(nrs)
-            merk = "  <-- steht still über " + str(spanne) + " Kapitel" \
-                if spanne >= 8 else ""
-            print(f"  {n:2d} {e:8s} in K{nrs}{merk}")
+        if not e.startswith("jahr"):
+            continue
+        anker = jahr_fuer(ordner.name, nr) - n
+        nach_zahl.setdefault(n, []).append((nr, anker))
+    for n, paare in sorted(nach_zahl.items()):
+        anker = sorted({a for _, a in paare})
+        if len(paare) < 2:
+            continue
+        streit = "  <-- Anker wandert" if len(anker) > 1 else ""
+        orte = " ".join(f"K{nr}->{a}" for nr, a in sorted(paare))
+        print(f"  {n:2d} Jahre: {orte}{streit}")
 
     print(f"\n{len(klagen) + len(ungueltig)} Beanstandungen.")
 
