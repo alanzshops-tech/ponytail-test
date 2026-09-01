@@ -39,13 +39,13 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 | 33 | 966 | 13.0 | 15.5 | 22.2 % | 33.4 % | 12.4 | – |
 | 34 | 1420 | 12.5 | 14.7 | 23.8 % | 44.0 % | 5.6 | – |
 | 35 | 980 | 17.5 | 15.4 | 27.1 % | 32.5 % | 9.2 | – |
-| 36 | 1027 | 14 | 14.0 | 15.8 % | 38.3 % | 3.9 | – |
+| 36 | 1024 | 13.5 | 13.9 | 15.5 % | 38.3 % | 3.9 | – |
 | 37 | 941 | 11 | 13.8 | 15.8 % | 26.7 % | 6.4 | – |
-| 38 | 1015 | 13.0 | 10.6 | 10.9 % | 67.3 % | 4.9 | – |
+| 38 | 1015 | 13 | 10.4 | 10.8 % | 67.2 % | 4.9 | – |
 | 39 | 893 | 12.5 | 13.1 | 11.1 % | 52.6 % | 3.4 | – |
 | 40 | 1127 | 13.0 | 11.8 | 14.7 % | 56.3 % | 10.6 | – |
 | 41 | 967 | 13 | 13.0 | 18.2 % | 48.3 % | 5.2 | – |
-| 42 | 898 | 14 | 11.8 | 9.1 % | 36.8 % | 4.5 | – |
+| 42 | 899 | 13.0 | 11.2 | 8.9 % | 36.7 % | 4.4 | – |
 | 43 | 983 | 22.5 | 15.6 | 26.2 % | 49.2 % | 3.1 | – |
 | 44 | 1336 | 13 | 12.0 | 11.8 % | 54.0 % | 4.5 | – |
 | 45 | 1080 | 11 | 11.9 | 11.3 % | 42.8 % | 9.3 | – |
@@ -149,6 +149,7 @@ Geprüft mit LanguageTool, gefiltert um 6 Regeln, die bei Belletristik nur Rausc
 | 64 | `OLD_SPELLING_RULE` | Diese Schreibweise war nur in der alten Rechtschreibung korrekt. Das W | …... 16 Jahre. Wer das findet, soll wissen, daß wir es gut gemeint habe… |
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
 
 
 
