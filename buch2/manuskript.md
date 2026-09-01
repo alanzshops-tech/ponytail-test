@@ -12945,15 +12945,15 @@ Welperstraße 3 G
 44879 Bochum
 Deutschland
 
-Vertreten durch: Alan Lorenz, XXX
+Vertretungsberechtigter Gesellschafter: Alan Lorenz
 
-Inhaltlich verantwortlich nach § 18 Abs. 2 MStV: XXX,
+Inhaltlich verantwortlich nach § 18 Abs. 2 MStV: Alan Lorenz,
 Welperstraße 3 G, 44879 Bochum
 
 Dieser Roman erscheint unter dem Pseudonym **Jule Norden**.
 
 Telefon: 0152 31840613
-E-Mail: XXX
+E-Mail: alanz.shops@gmail.com
 
 Umsatzsteuer-Identifikationsnummer: DE353917356
 Umsatzsteuerbefreit nach der Kleinunternehmerregelung (§ 19 UStG)
