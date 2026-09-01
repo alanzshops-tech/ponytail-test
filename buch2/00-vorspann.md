@@ -42,8 +42,7 @@ Grund weh.
 **Und es geht gut aus.** Das steht hier, weil man das wissen darf,
 bevor man mitgeht.
 
-*Gewidmet allen, die einmal im Jahr zu einer Behörde gehen und dort
-nachweisen müssen, dass ihr Leben ihres ist.*
+*Für alle, die auf eine Frage gewartet haben, die nie gekommen ist.*
 
 ---
 
