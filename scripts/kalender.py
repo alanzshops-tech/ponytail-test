@@ -76,8 +76,19 @@ JAHR = {
         # haette ihn also nie gemeldet. Gefunden wurde er beim
         # Nachrechnen der Ehedauer ("einundzwanzig Monate" = Dezember
         # 2026, nicht 2027).
+        # Kapitel 45-47 standen bis zum 01.09.2026 auf 2028 und gehoeren
+        # nach 2027. Belegt durch drei Stellen: K54 nennt ausdruecklich
+        # "Am neunten Juli 2028" und liegt *nach* ihnen; K45 sagt "seit
+        # zweieinhalb Jahren die Buecher eines Mannes zwischen meinen"
+        # (Hochzeit 14.03.2025 + 2,5 = September 2027); K46 sagt "seit
+        # anderthalb Jahren in dieser Familie" (Geheimnis raus Mai 2026
+        # + 1,5 = November 2027). In K45-47 steht kein Wochentag, also
+        # hat kalender.py den Fehler nie melden koennen -- derselbe
+        # blinde Fleck wie bei Heiligabend in K32. Gefunden hat ihn
+        # chronik.py ueber die Reihenfolge.
         (1, 10, 2026), (11, 32, 2026), (33, 35, 2027), (36, 44, 2027),
-        (45, 49, 2028), (50, 56, 2028), (57, 63, 2029), (64, 64, 2030),
+        (45, 47, 2027), (48, 49, 2028), (50, 56, 2028),
+        (57, 63, 2029), (64, 64, 2030),
     ],
 }
 
