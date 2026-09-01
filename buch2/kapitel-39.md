@@ -114,7 +114,7 @@ Er hat die Hand gehoben und mit dem Daumen über meine Wange gestrichen,
 in einer Durchfahrt, in der jeden Moment ein Polier vorbeikommen kann,
 und er hat sich nicht umgesehen, ob jemand kommt.
 
-Ich habe das gemerkt. Ich merke so etwas inzwischen sofort.
+Ich merke so etwas inzwischen sofort.
 
 ---
 

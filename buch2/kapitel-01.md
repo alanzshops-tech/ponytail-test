@@ -46,7 +46,7 @@ wir keinen mitgebracht hatten.“ Ich hörte mir selbst zu und mochte den
 Klang meiner Stimme nicht. „Das ist keine Hochzeit. Das ist eine
 Unterschrift mit Musik.“
 
-Er hat nicht widersprochen. Das war das Schlimmste daran.
+Er hat nicht widersprochen.
 
 ---
 

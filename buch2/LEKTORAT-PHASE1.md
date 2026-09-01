@@ -89,6 +89,27 @@ Jeder einzelne Satz ist gut. Zusammen ergeben sie eine Welt, in der
 zwölf Menschen dieselbe Begabung haben. Das kostet Glaubwürdigkeit und —
 wichtiger — es entwertet die Sätze der Hauptfiguren.
 
+> **Korrektur, 01.09.2026 — nachgemessen mit `manier.py`.** Zwei
+> Zuschreibungen oben sind falsch, und die Diagnose ist zu stark.
+>
+> *„Es ist eure Aufgabe. Das E davor ist der ganze Unterschied"* sagt
+> **Marlene** (K04, *„sagte meine Mutter"*), nicht Sabine.
+>
+> *„Das ist die Erklärung. Ich habe nach dem Grund gefragt"* gehört
+> **nicht Selin, sondern Theo** — es ist sein eigener Satz aus K24
+> (*„Das ist die Erklärung. Der Grund ist, dass ich es immer noch
+> tue"*), den Amira ihm in K45 zurückgibt, und das Buch sagt es selbst
+> dazu: *„weil er meinen eigenen Satz benutzt hat"*. Das ist ein
+> gewollter Rückruf, kein Manierismus — hier ist ausgerechnet ein
+> Motiv als Beleg für Eintönigkeit angeführt worden.
+>
+> Über fünf Gussformen gemessen verteilen sich 30 Treffer ganz
+> überwiegend auf Theo, Amira und die drei als Deutende angelegten
+> Figuren. Bei echten Nebenfiguren bleiben **zwei** Sätze übrig
+> (Adamczyk K19, Marlene K04). Die Bauart gibt es; die Dichte, die
+> dieser Abschnitt behauptet, gibt es nicht. Siehe den Abschnitt
+> „S1, S2, S4 — gemessen statt geschätzt" am Ende.
+
 ### 4. Der Schlusssatz-Reflex
 
 Fast jede Szene endet mit einem deutenden Satz. Gezählt an einer
@@ -668,6 +689,170 @@ Das sind die beiden größten verbliebenen Punkte (S1, S2), und sie sind
 die heikelsten, weil sie die Stimme betreffen. Sie gehören in einen
 eigenen Durchgang.
 
+# S1, S2, S4 — gemessen statt geschätzt (Stand 01.09.2026)
+
+Die drei Punkte oben stehen auf Zahlen, die ich beim Lesen geschätzt
+habe: „rund zwölf", „rund zwölf". Für einen Eingriff in die Stimme des
+Buches ist eine Schätzung zu wenig, also erst ein Messgerät:
+`scripts/manier.py`. Das Ergebnis widerlegt zwei der drei Punkte.
+
+## Das Gerät hat sich zweimal selbst widerlegt
+
+**Erster Fehlgriff.** Muster 1 war als Wortliste gebaut — „das ist|das
+war|beides|…" — und fand den eigenen Positivfall nicht: *„Das andere
+ist eine Zeichnung"* enthält keine dieser Zeichenketten. Eine Wortliste
+aus der Erinnerung misst die Erinnerung. Ersetzt durch zwei
+Bedingungen: Demonstrativpronomen am Satzanfang, und kurz. Pronomen von
+Artikel trennt dabei die Rechtschreibung — *„Das Fenster war offen"*
+(danach groß) ist kein Deutungssatz, *„Das andere ist eine Zeichnung"*
+(danach klein) ist einer.
+
+**Zweiter Fehlgriff.** Auch die zweite Fassung fing zu viel: 8 Treffer,
+davon zwei (K29, K56) innerhalb wörtlicher Rede, weil der Satztrenner
+im Zitat geschnitten hat. Behoben, im Selbsttest festgehalten.
+
+**Dritter Fehlgriff, andere Richtung.** Muster 2 suchte *„ist ein X,
+kein Y"* — nicht aber dieselbe Gussform andersherum. Marlenes Satz in
+K48 (*„Das ist keine Entschuldigung, das ist ein Auftrag"*) ist so
+gebaut und fehlte. Gefunden nur, weil ich die Redebeiträge der
+Nebenfiguren danach von Hand durchgesehen habe — leeres Ergebnis ist
+kein Ergebnis. Nach der Erweiterung: 19 statt 15 Treffer.
+
+## S1 ist zurückgenommen — die Prämisse war falsch
+
+Der Plan sagte: Selin, Frau Kolb, Frau Domnick, Marlene, Ruszczyk und
+Amiras Mutter geben je einen Aphorismus ab. Gemessen über alle 64
+Kapitel, 19 Treffer:
+
+| Sprecher | Treffer |
+|---|---|
+| Theo | 8 (K26, 28, 29, 32, 37, 44, 51, 63) |
+| Amira | 6 (K11, 13, 30, 45, 54) |
+| Jonas | 2 (K14, 61) |
+| Wendland | 1 (K12) — als Deutender angelegt |
+| Bastian | 1 (K62) |
+| **Marlene** | **1 (K48)** |
+
+**Von den sechs Figuren, die der Plan nennt, hat in diesen vier
+Gussformen genau eine überhaupt einen Treffer.** Kolb und Domnick
+sprechen — neun bzw. zwölf Nennungen, Redebeiträge in K19, K23, K24 —
+aber durchweg im Sachregister (*„Dann fangen wir im Bad an"*, *„Sie
+führen ein Journal?"*). Selin hat eine Zeile, Ruszczyk eine, auf Platt.
+
+### Vierter Fehlgriff — und der schwerste
+
+An dieser Stelle stand zuerst der Satz „Es gibt nichts auszudünnen, S1
+entfällt". Er war falsch, und aufgefallen ist es nur, weil Abschnitt B.3
+dieses Berichts neun Aphorismen von genau den Figuren zitiert, für die
+das Gerät null gefunden hatte. Ein Befund, der den eigenen Bericht
+widerlegt, ist zuerst ein Verdacht gegen das Gerät.
+
+Nachgesehen: Alle neun Sätze stehen im Buch. Sie stehen nur in einer
+**fünften Gussform**, die das Gerät nicht kannte — der gnomische Satz,
+*„Wer X, tut Y"* / *„Leute, die X, tun Y"*. (Beim Nachschlagen ist
+`grep` zunächst leer ausgegangen, weil *„Wer lügt, bereitet sich vor"*
+im Quelltext über einen Zeilenumbruch läuft. Auch das war ein leeres
+Ergebnis, das nichts bedeutet hat.)
+
+Die Form nachgerüstet — und dabei gleich der nächste Fehlgriff: Die
+erste Fassung fing 15 Treffer, davon zehn gewöhnliche Fragen (*„Wer
+kauft ein?"*, *„Wer steht morgens zuerst auf?"*). Erst mit Komma-Pflicht
+und Fragezeichen-Verbot trennt sie sauber; drei Positiv- und sechs
+Negativfälle stehen jetzt im Selbsttest.
+
+### Was nach fünf Gussformen übrig bleibt
+
+30 Treffer über alle fünf Formen. Von den elf gnomischen sind drei
+falsch (*„Leute, die im selben Büro arbeiten"* — Relativsatz, keine
+Sentenz), zwei sind der Zettel aus der Blechdose (K48/K64, ein
+Fundstück, keine Figurenrede), und der Rest verteilt sich so:
+
+- **Dr. Brandt** (K03, K07) — im Plan ausdrücklich als Deutender
+  zugelassen.
+- **Amira** (K18, K24) — beides ihre eigene Erzählstimme, kein Dialog.
+- **Adamczyk** (K19) — *„Leute, die etwas vorspielen, legen die Dinge
+  des anderen in die Mitte."*
+- **Marlene** (K04) — *„Das E davor ist der ganze Unterschied."* Diese
+  sitzt in einer sechsten Form, die auch jetzt kein Muster erfasst.
+
+**Der Befund ist also nicht „S1 entfällt", sondern: S1 ist echt, aber
+viel dünner als der Plan behauptet.** B.3 hat recht, dass es die
+Bauart gibt; B.3 hat unrecht in der Dichte („zwölf Menschen mit
+derselben Begabung"). Übrig bleiben zwei Sätze bei echten Nebenfiguren —
+Adamczyks in K19 und Marlenes in K04 —, und beide sind der beste Satz,
+den diese Figur im ganzen Buch hat. Adamczyks Satz ist außerdem der
+einzige Moment, in dem der stille Sachbearbeiter der
+Wohnungsbesichtigung eine eigene Kontur bekommt.
+
+**Zwei Sätze sind keine Manier. Gestrichen wird keiner.** Das ist eine
+Entscheidung, keine Messung — aber sie steht jetzt auf einer.
+
+## S2 schrumpft von zwölf auf zwei
+
+Bezugsrahmen zuerst, sonst ist die Zahl keine: **59 von 399 Szenen
+(15 %) enden auf einem kurzen Absatz ohne Dialog.** Die meisten davon
+enden auf einer *Handlung* — *„Er hat aufgelegt."*, *„Ich bin
+hingefahren."*, *„Meine Mutter hat den Essig geholt."* — und die sind
+genau richtig. Der Reflex, den S2 meint, ist enger: Ereignissatz, dann
+ein kurzer Satz, der auf das Ereignis zurückzeigt und es deutet. Nur bei
+dieser Form ist der Eingriff überhaupt definiert (letzten Satz
+streichen, vorletzten behalten). Davon: **6 von 399 Szenen, 2 %.**
+
+Von den sechs bleiben nach dem Lesen zwei:
+
+- **K01 gestrichen.** *„Er hat nicht widersprochen. Das war das
+  Schlimmste daran."* → *„Er hat nicht widersprochen."* Amira hat
+  gerade *„Das ist keine Hochzeit. Das ist eine Unterschrift mit
+  Musik"* gesagt, und er widerspricht nicht. Der Leser braucht keine
+  Fußnote dazu. Diese Stelle wiegt am meisten, weil sie in der
+  Leseprobe steht: Sie bringt dem Leser auf Seite eins bei, dass das
+  Buch sich immer selbst erklären wird.
+- **K39 umgedreht.** *„Ich habe das gemerkt. Ich merke so etwas
+  inzwischen sofort."* → nur der zweite Satz. Hier ist der überflüssige
+  Satz der **erste**, nicht der letzte: „inzwischen" trägt neue
+  Information über sie, der Rest steht schon im Absatz davor. Der in S2
+  definierte Eingriff wäre hier der falsche gewesen.
+
+Vier bleiben stehen:
+
+- **K02** *„Das war Weihnachten."* — keine Deutung, sondern die
+  Pointe: Die eine Gelegenheit, bei der niemand im Weg war, war
+  Weihnachten, und sie haben trotzdem nichts getan. Streichen zerstört
+  den Sinn.
+- **K36** *„Ich habe es immer noch."* — kein Kommentar, sondern die
+  einzige Stelle im Kapitel, an der die rückblickende Erzählhaltung
+  sichtbar wird.
+- **K44** *„Ich habe es trotzdem gemerkt."* — Information, nicht
+  Deutung, und die Auszahlung des Wendland-Echos aus K12.
+- **K59** steht auf NICHT ANFASSEN und bleibt es.
+
+## S4 war schon erledigt
+
+Der Plan verlangte 10–15 Zeilen in K44 oder K45: der Brief soll einmal
+zu Ende gedacht werden, ohne Auflösung, ohne Verdacht. **Das steht
+bereits in K38** — und besser, als der Plan es beschrieben hat. Theo
+entschuldigt sich bei Kubiak, fragt *„Wissen Sie, wer es geschrieben
+hat?"*, bekommt *„Nein. Ich glaube nicht, dass wir das je erfahren"*,
+und Kubiak benennt den eigentlichen Schaden: *„Mich stört, dass ich
+seither vier Leute in meinem eigenen Büro anders ansehe. Das ist der
+Schaden. Den hat der Brief angerichtet und nicht Sie."* Genau die
+Beobachtung, die S4 verlangt hat. Das Motiv endet dort und wird danach
+nicht mehr erwähnt — das ist eine Entscheidung, keine Lücke. Weitere
+Zeilen in K44 würden K38 wiederholen.
+
+S4 entfällt.
+
+## Was das über den Plan sagt
+
+Von zwölf Punkten aus Phase 2 haben sechs die Messung nicht
+überlebt — M2, M3, K61, K22 im ersten Durchgang, jetzt S4 ganz, S2 zu
+fünf Sechsteln und S1 bis auf zwei Sätze, die stehen bleiben. Das ist keine gute Quote für einen Plan, der aus dem
+Lesen entstanden ist, und es ist der Grund, warum die Geräte vor den
+Eingriffen kommen und nicht danach. Der Fehler ging dabei durchweg in
+dieselbe Richtung: Ich habe beim Lesen mehr Manierismus gesehen, als
+im Text steht. Wer 64 Kapitel in einem Zug liest, gewöhnt sich an die
+Bauweise und hält Wiederholung für ein Muster.
+
 ## Stand nach diesem Durchgang
 
 64 Kapitel, 68.955 Wörter gemessen. `kalender.py`, `namen.py`,
@@ -675,3 +860,46 @@ eigenen Durchgang.
 Beanstandung. LanguageTool 54 Treffer — unverändert, also keine neuen
 Fehler eingebaut. **epubcheck 5.2.1 (W3C): 0 fatals / 0 errors /
 0 warnings / 0 infos.**
+
+## Ein Werkzeug hat sich dabei als gefährlich erwiesen
+
+Beim Neubau der EPUB hat `manuskript.py --buch buch2` den Text von
+Band 2 nach `buch/manuskript.md` und `buch/reinhardt-1.epub`
+geschrieben — unter dem Titel von Band 1. `--ziel`, `--epub` und
+`--titel` hatten feste Band-1-Vorgaben, die `--buch` nicht gefolgt
+sind. Band 1 ist aus Git wiederhergestellt, der Schaden war
+vollständig rückgängig zu machen.
+
+Das ist derselbe Fehler, den `prosa.py` am 31.08. hatte, in derselben
+Bauart, mit demselben Ergebnis. Beide Male ist er nur aufgefallen,
+weil danach jemand `git status` gelesen hat. Behoben: die drei
+Vorgabewerte richten sich jetzt nach `--buch`, geprüft an beiden
+Bänden (Positiv- und Negativfall).
+
+Die Lehre ist nicht „aufpassen", sondern: In diesem Repository gibt es
+zwei Bücher und mehrere Werkzeuge, die noch aus der Zeit stammen, als
+es eines gab. Jedes Werkzeug mit einem festen Pfad zu `buch/` ist ein
+gestellter Fuß.
+
+## Stand nach S1/S2/S4
+
+64 Kapitel, **68.946 Wörter** (vorher 68.955 — genau die neun Wörter
+der zwei gestrichenen Sätze). Zwei Eingriffe, beide in der Erzählstimme,
+keiner in der Handlung.
+
+| Prüfung | Ergebnis |
+|---|---|
+| `kalender.py` | 12 Datumsangaben geprüft, keine Beanstandung |
+| `namen.py` | 3 bekannte Fehltreffer (Erst/Ernst, Krise/Kruse, Sein/Selin) |
+| `dopplung.py` | 1 bekanntes Paar (K6/K7, gewollte Spiegelung) |
+| `romantik.py` | 0 von 64 Kapiteln ohne gemeinsame Szene |
+| `vale.sh` | 0 errors, 0 warnings, 10 Vorschläge |
+| `prosa.py --sprache` | 54 Treffer — **unverändert**, keine neuen Fehler |
+| `manier.py` | Selbsttest bestanden (5 Positiv-, 10 Negativfälle); 6 Muster-1-, 30 Muster-2-Treffer |
+| `epubcheck.py` | keine Beanstandung |
+| **epubcheck 5.2.1 (W3C)** | **0 fatals / 0 errors / 0 warnings / 0 infos** |
+
+Damit ist Phase 3 abgeschlossen. Offen bleiben nur die KANN-Punkte
+(K2-Liste, Verfahrensdetail in K11/K12/K30/K34, K34 fünfter/siebter
+Freitag) — alles Feinschliff, nichts, was der Veröffentlichung im Weg
+steht.

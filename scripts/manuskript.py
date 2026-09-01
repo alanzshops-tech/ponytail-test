@@ -439,16 +439,34 @@ def main() -> None:
     p.add_argument("--buch", default="buch",
                    help="Ordner mit Kapiteln, Vor- und Nachspann "
                         "(zweiter Band: --buch buch2)")
-    p.add_argument("--ziel", default="buch/manuskript.md")
+    # Ohne Angabe richten sich Ziel, EPUB und Titel nach --buch. Vorher
+    # standen hier feste Band-1-Werte: Ein Lauf mit --buch buch2 und
+    # ohne die anderen drei Schalter hat am 01.09.2026 den Text von
+    # Band 2 in buch/manuskript.md und buch/reinhardt-1.epub
+    # geschrieben, unter dem Titel von Band 1. Dieselbe Bauart hatte
+    # prosa.py schon einmal, mit demselben Ergebnis. Ein Werkzeug, das
+    # man vollstaendig aufrufen muss, damit es nichts kaputtmacht, ist
+    # falsch gebaut -- der Vorgabewert muss dem Buch folgen.
+    p.add_argument("--ziel", default=None)
     p.add_argument("--selbsttest", action="store_true")
-    p.add_argument("--epub", default="buch/reinhardt-1.epub",
+    p.add_argument("--epub", default=None,
                    help="Zieldatei für die EPUB (leer = überspringen)")
     p.add_argument("--cover", default="cover/fertig/cover.jpg")
-    p.add_argument("--titel", default="Was ich dir nie gesagt habe")
+    p.add_argument("--titel", default=None)
     args = p.parse_args()
 
     global BUCH
     BUCH = Path(args.buch)
+
+    zweiter = BUCH.name.endswith("2")
+    if args.ziel is None:
+        args.ziel = str(BUCH / "manuskript.md")
+    if args.epub is None:
+        args.epub = str(BUCH / ("Was-er-nie-gefragt-hat_v2.epub" if zweiter
+                                else "reinhardt-1.epub"))
+    if args.titel is None:
+        args.titel = ("Was er nie gefragt hat" if zweiter
+                      else "Was ich dir nie gesagt habe")
 
     print("Kalibrierung der Pruefungen:")
     if not selbsttest():

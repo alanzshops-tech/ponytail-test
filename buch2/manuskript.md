@@ -95,7 +95,7 @@ wir keinen mitgebracht hatten.“ Ich hörte mir selbst zu und mochte den
 Klang meiner Stimme nicht. „Das ist keine Hochzeit. Das ist eine
 Unterschrift mit Musik.“
 
-Er hat nicht widersprochen. Das war das Schlimmste daran.
+Er hat nicht widersprochen.
 
 ---
 
@@ -7581,7 +7581,7 @@ Er hat die Hand gehoben und mit dem Daumen über meine Wange gestrichen,
 in einer Durchfahrt, in der jeden Moment ein Polier vorbeikommen kann,
 und er hat sich nicht umgesehen, ob jemand kommt.
 
-Ich habe das gemerkt. Ich merke so etwas inzwischen sofort.
+Ich merke so etwas inzwischen sofort.
 
 ---
 
