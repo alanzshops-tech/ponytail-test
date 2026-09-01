@@ -903,3 +903,112 @@ Damit ist Phase 3 abgeschlossen. Offen bleiben nur die KANN-Punkte
 (K2-Liste, Verfahrensdetail in K11/K12/K30/K34, K34 fünfter/siebter
 Freitag) — alles Feinschliff, nichts, was der Veröffentlichung im Weg
 steht.
+
+# Inhaltliche Prüfung (01.09.2026)
+
+Die Frage war: Ist das Buch wirklich gut, und stimmt es inhaltlich?
+Das sind zwei Fragen, und nur eine davon lässt sich messen.
+
+## Was messbar war — und was dabei herauskam
+
+Bis heute konnte `kalender.py` **12 von 142 Datumsangaben** prüfen: nur
+die mit Wochentag. Die anderen 130 hat es ehrlich als „nicht prüfbar"
+gemeldet — und genau darin saß der Heiligabend-Fehler ein halbes Jahr
+lang. Diese Lücke war die größte im ganzen Projekt.
+
+Neues Gerät `chronik.py`. Es prüft nicht den Wochentag, sondern die
+**Reihenfolge**: Die Kapitel laufen in der Zeit vorwärts, ein Datum in
+K30 darf nicht vor einem in K20 liegen. Damit sind alle erfassten
+Datumsangaben prüfbar. Zweitens die **Ankerjahre**: Eine Jahresangabe
+zeigt auf ein Anfangsjahr (Kapiteljahr minus n). Meint dieselbe Angabe
+in zwei Kapiteln dieselbe Sache, muss der Anker gleich bleiben. Wandert
+er, ist eine Zahl stehengeblieben, während der Kalender lief.
+
+### Fünf Zahlen, die stehengeblieben sind
+
+| Ort | Stand | Richtig | Beleg |
+|---|---|---|---|
+| K39 (2027) | „das Haus seit **drei** Jahren" | vier | Auftrag August 2023, siebenmal bestätigt |
+| K59 (2029) | Sabine „seit **sechs** Jahren" | zehn | „Ich habe das 2019 aufgehört" — nächster Satz |
+| K62 (2029) | Bastian „seit **sieben** Jahren" | zehn | 2019 dreimal im selben Kapitel |
+| K58 (2029) | Amira „**dreißig** Jahre Beirat" | zweiundzwanzig | Wendland sagt 100 Zeilen vorher selbst 22 |
+| K58 (2029) | „meiner **vierunddreißig** Jahre" | achtunddreißig | 22 Beirat + 16 Bank, im selben Absatz |
+
+Die letzten beiden stehen **im selben Kapitel wie ihr eigener
+Gegenbeweis**. Das ist die Sorte Fehler, die kein Lesen findet und
+jede Rezension findet.
+
+### Die Jahrestafel war falsch, nicht das Buch
+
+K45–K47 standen auf 2028 und gehören nach 2027. Dreifach belegt: K54
+nennt ausdrücklich „Am neunten Juli 2028" und liegt *nach* ihnen; K45
+sagt „seit zweieinhalb Jahren" (Hochzeit 14.03.2025 + 2,5 = September
+2027); K46 sagt „seit anderthalb Jahren in dieser Familie" (Geheimnis
+raus Mai 2026 + 1,5 = November 2027). In K45–47 steht kein Wochentag,
+`kalender.py` hätte das nie melden können.
+
+**Wichtig: Der Buchtext war hier richtig, das Werkzeug war falsch.**
+
+### Was geprüft wurde und in Ordnung ist
+
+- **Vier Rückschritte** in der Zeitachse (2 bis 30 Tage), alle zwischen
+  Kapiteln mit Perspektivwechsel. K59 kündigt seinen selbst an: *„Ich
+  schreibe das hier nach, weil es zwei Monate vorher passiert ist."*
+  Das ist Bauart, kein Fehler.
+- **Zwei Wohnungsuhren**, die zufällig dieselbe Zahl haben: Amiras
+  Wohnung (sieben Jahre, K19/K25, seit 2019) und Theos Wohnung (sieben
+  Jahre, K33/K36, seit 2020). Kein Widerspruch.
+- **Bastians Beiratssitz** (K44, sieben Jahre) wird von einer zweiten
+  Zahl im selben Satz bestätigt: „achtundzwanzig Mal abgestimmt" bei
+  vier Sitzungen im Jahr.
+- **Alter**: Amira 33 (K33, 2027) und 35 (K59, 2029) passt zu einem
+  Geburtstag zwischen Mai und Oktober. Wendland 71 (K44) und 72 (K58)
+  ebenso. Kein Widerspruch.
+- Kein einziges **ungültiges Kalenderdatum** in 88 Angaben.
+
+## Was ich nicht messen kann: das Recht
+
+Der Roman trägt seine Handlung auf zwei echten Verfahren. Die
+Zitate sind überwiegend stimmig:
+
+- **§ 28 Abs. 1 AufenthG** für die Ehefrau eines Deutschen — richtige
+  Norm. Ein zunächst auf ein Jahr befristeter Titel bei Zweifeln an der
+  ehelichen Lebensgemeinschaft, später drei Jahre (K41): plausibel und
+  in sich schlüssig (K24 → K25 → K41 rechnen zusammen).
+- **§ 21 VwVfG** für Amiras eigene Befangenheit als Person, die für die
+  Behörde tätig wird (K13, K27, K29) — richtig eingesetzt.
+- **Eheschließung in Kopenhagen**, in Deutschland wirksam — richtig.
+- **§ 11 der Satzung** (Einziehung zum Buchwert, K12) — kein Gesetz,
+  sondern Gesellschaftsvertrag; übliche Klausel.
+
+**Eine Stelle, die ein Fachanwalt ansehen sollte.** In K36 schließt die
+Ausschreibung *Bieter* aus, „bei denen ein Interessenkonflikt im Sinne
+des **§ 21 VwVfG** vorliegt". § 21 VwVfG regelt die Befangenheit von
+Personen auf der *Behördenseite*. Für den Ausschluss von *Bietern* wäre
+§ 124 Abs. 1 Nr. 5 GWB die naheliegende Norm (bzw. § 6 VgV für
+Interessenkonflikte auf Auftraggeberseite). Zwei Einschränkungen: Den
+Satz schreibt Theo, ein Architekt, kein Jurist — es kann Absicht sein.
+Und ich kann deutsches Vergaberecht aus dieser Umgebung nicht
+nachschlagen, also ist das ein **Verdacht, keine Feststellung**.
+
+## Ist es gut? Das ist ein Urteil, keine Messung
+
+Gemessen ist Folgendes: 64 Kapitel, Median 1.071 Wörter, Streuung 124 —
+eine ungewöhnlich gleichmäßige Bauart. Dialoganteil im Median 48 %,
+Spanne 21 bis 74 %. Kein Kapitel ohne gemeinsame Szene der beiden.
+0 Typografiefehler, 0 harte Grammatikfehler, epubcheck sauber.
+
+Mein Urteil, unverändert seit Phase 1 und jetzt besser belegt: **Das
+Buch ist handwerklich deutlich über Marktniveau und kommerziell leise.**
+Die Figuren tragen, die Dialoge tragen, die Prämisse wird durchgespielt
+statt behauptet. Die Schwächen sind die von Phase 1 und sie sind
+strukturell, nicht sprachlich: Die Leseprobe ist der schwächste Teil
+(K1–7, ein Drittel der Nähe, doppeltes Amtsdeutsch), die tickende Uhr
+läuft bei 37,5 % aus, und der Schluss endet administrativ.
+
+Was sich seit Phase 1 geändert hat: Ich habe damals mehr Manierismus
+behauptet, als im Text steht — die Messung hat sechs von zwölf
+Planpunkten kassiert. Und ich habe damals von „null harten Fehlern"
+gesprochen, während fünf Zahlen falsch waren, die kein Werkzeug
+prüfen konnte. Beides sagt dasselbe: Der Eindruck beim Lesen ist in
+beide Richtungen unzuverlässig.
