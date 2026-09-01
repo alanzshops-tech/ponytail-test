@@ -289,11 +289,59 @@ Ziel von 7,0 und legt die Miniaturprobe daneben. **Die Miniaturprobe
 ist der eigentliche Test** — in der Trefferliste ist das Cover 160
 Pixel hoch.
 
-### Warum das hier steht und nicht erledigt ist
+### Erledigt am 01.09.2026
 
-Diese Arbeitsumgebung erreicht nur GitHub, PyPI und npm. Der
-Cloudinary-Zugang hat für Bilderzeugung keine Freigabe
-(`invalid scope`, auch beim Standardmodell), Canva ist nicht
-autorisiert. **Das Bild kann in einer Sitzung hier nicht erzeugt
-werden.** Der Prompt steht deshalb hier, damit er nicht in einem
-Chatverlauf verlorengeht.
+Bild extern erzeugt und als `cover/roh/theo.jpg` abgelegt. Die
+Ähnlichkeit sitzt: In der Miniatur nebeneinander lesen sich die beiden
+Männer als Brüder.
+
+**Gebaut mit `--helligkeit 1.75`.** Ohne das lag die Helligkeit bei
+37,0 gegen 55,8 (Band 1) und 58,7 (altes Band 2) — ein Drittel dunkler
+als der eigene Reihenpartner, in der Trefferliste ein dunkler Fleck.
+Der Faktor ist gesucht, nicht geraten: 1,75 trifft 57,3 und liegt damit
+zwischen beiden.
+
+| | Band 1 | Band 2 neu | Nische |
+|---|---:|---:|---|
+| Helligkeit | 55,8 | **57,3** | 55,8–64,5 |
+| Sättigung | 110,9 | **98,1** | 94,5–119,7 |
+| Verhältnis | 1,60 | **1,60** | 1,45–1,61 |
+| Textzone | 4 | **2** | 4 |
+
+**Textzone 2 statt 4** ist die oben schon notierte Schwäche dieser
+Messung: Das Gesicht mit dem Kantenlicht erzeugt mehr Kanten als der
+Titel darunter. Kein Mangel des Covers.
+
+### Was dabei am Werkzeug repariert wurde
+
+Der Titel läuft bei diesem Bild teilweise über ein offenes weißes Hemd.
+`coverbau.py` hat das nicht gemeldet, weil es den **Mittelwert** unter
+dem Titelkasten misst: (67,64,65), also 10,25:1 — bestanden. An der
+Stelle des Hemdes standen aber (254,254,254), das sind 1,01:1 gegen
+weiße Schrift.
+
+Der erste Reparaturversuch war falsch: die *hellste Kachel* im ganzen
+Titelband als Steuergröße. Damit fiel auch **Band 1 durch** — ein
+veröffentlichtes Cover, das nachweislich funktioniert. Ein Selektor,
+der den bekannten Positivfall verwirft, ist kein Messgerät. Grund: Die
+Schrift bedeckt das Band nur zu einem Bruchteil, ein heller Fleck
+zwischen den Buchstaben stört niemanden.
+
+Die richtige Messung nimmt die **Glyphenmaske** aus der Schrift-Ebene
+und misst nur dort, wo Buchstaben wirklich stehen. Bezugsrahmen:
+
+| | Anteil der Glyphenfläche unter 4,5:1 |
+|---|---:|
+| Band 1 (veröffentlicht) | 14,5 % |
+| Band 2 neu | **11,4 %** |
+
+Das neue Cover ist an dieser Stelle also **besser** als Band 1. Der
+Verlauf wird weiter vom Mittelwert gesteuert; die Glyphenmessung steht
+als Warnung daneben und schlägt ab 20 Prozent an.
+
+Auch geprüft und verworfen: **enger schneiden** (`--zoom`, neu). Bei
+1,10 bis 1,40 wandern Stadtlichter und Haut ins Titelband, das Beste
+waren 2,36:1. Und **den Verlauf hochdrehen**: Das Hemd müsste um 65
+Prozent abgedunkelt werden, der Verlauf schafft an der Titelstelle 12
+Prozent — er ist für einen dunklen Grund gebaut, nicht für eine weiße
+Fläche mitten im Titel.

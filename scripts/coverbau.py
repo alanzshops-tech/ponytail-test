@@ -36,7 +36,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from kontrast import kontrast  # noqa: E402
@@ -96,11 +96,19 @@ def passend(zeichnung, text: str, datei: str, zielbreite: int,
     return schrift(datei, klein)
 
 
-def einpassen(bild: Image.Image) -> Image.Image:
+def einpassen(bild: Image.Image, zoom: float = 1.0) -> Image.Image:
     """Auf 1600x2560 bringen, oben verankert — das Gesicht sitzt oben,
-    beschnitten wird unten."""
+    beschnitten wird unten.
+
+    `zoom` > 1 schneidet enger. Das ist kein Schoenheitsregler: Wenn ein
+    heller Bildteil genau im Titelband liegt (bei Band 2 ein offenes
+    weisses Hemd), rutscht er durch engeren Schnitt darunter, und der
+    Titel steht wieder auf dunklem Grund. Ein Verlauf kann das nicht --
+    er muesste die Stelle um 65 Prozent abdunkeln und wuerde damit die
+    halbe untere Bildhaelfte flachdruecken. Nachgerechnet am 01.09.2026.
+    """
     bild = bild.convert("RGB")
-    faktor = max(BREITE / bild.width, HOEHE / bild.height)
+    faktor = max(BREITE / bild.width, HOEHE / bild.height) * zoom
     neu = bild.resize((max(BREITE, int(bild.width * faktor)),
                        max(HOEHE, int(bild.height * faktor))),
                       Image.LANCZOS)
@@ -125,6 +133,76 @@ def mittlere_farbe(bild: Image.Image, kasten) -> tuple[int, int, int]:
     return aus.getpixel((0, 0))
 
 
+# Kachelgroesse fuer die Suche nach der hellsten Stelle. 80x40 ist grob
+# eine Buchstabenflaeche der Versalzeile -- kleiner misst Rauschen,
+# groesser verwischt wieder zum Mittelwert.
+KACHEL = (80, 40)
+
+
+def hellste_farbe(bild: Image.Image, kasten) -> tuple[int, int, int]:
+    """Die hellste Kachel im Titelkasten, nicht sein Mittelwert.
+
+    Warum: Am 01.09.2026 lief der Titel von Band 2 ueber ein weisses
+    Hemd. Der Mittelwert unter dem Titel war (67,64,65) und meldete
+    10,25:1 -- bestanden. An der Stelle, wo das Hemd sass, standen aber
+    (254,254,254), also 1,01:1 gegen weisse Schrift: weiss auf weiss,
+    unlesbar. Der Verlauf blieb deshalb bei Deckkraft 0,00 stehen.
+
+    Ein Mittelwert kann einen hellen Fleck nicht sehen, und genau der
+    macht Schrift unlesbar. Gemessen wird deshalb der schlechteste
+    Fall, nicht der durchschnittliche.
+    """
+    aus = bild.crop(kasten).convert("RGB")
+    kb, kh = KACHEL
+    # Maximumsuche: Startwert muss unter jeder echten Helligkeit liegen.
+    # Stand hier zuerst auf 1e9 -- dann greift die Bedingung nie und die
+    # Funktion gab immer (0,0,0) zurueck, also den bestmoeglichen Wert.
+    # Ein Messgeraet, das im Fehlerfall "alles in Ordnung" sagt, ist das
+    # gefaehrlichste von allen. Gefunden hat es der Kalibrierlauf.
+    schlimmst, hellste = -1.0, (0, 0, 0)
+    for x in range(0, max(1, aus.width - kb + 1), kb):
+        for y in range(0, max(1, aus.height - kh + 1), kh):
+            f = aus.crop((x, y, x + kb, y + kh)).resize((1, 1),
+                                                        Image.BOX)
+            f = f.getpixel((0, 0))
+            helligkeit = 0.2126 * f[0] + 0.7152 * f[1] + 0.0722 * f[2]
+            if helligkeit < schlimmst:
+                continue
+            schlimmst, hellste = helligkeit, f
+    return hellste
+
+
+def unter_der_schrift(hintergrund: Image.Image, ebene: Image.Image,
+                      schwelle: float = 4.5) -> tuple[float, float]:
+    """Kontrast dort, wo die Buchstaben wirklich stehen.
+
+    Der Mittelwert unter dem Titelkasten sagt nichts darueber, ob ein
+    einzelner Buchstabe auf einem hellen Fleck sitzt; die hellste Kachel
+    im ganzen Band sagt zu viel, weil die Schrift das Band nur zu einem
+    Bruchteil bedeckt. Gemessen wird deshalb die Deckungsflaeche der
+    Glyphen selbst, leicht aufgeweitet, damit auch der Rand zaehlt.
+
+    Rueckgabe: (Anteil der Schriftflaeche unter `schwelle`, schlechtester
+    Einzelwert). Das ist eine Warnung, keine Abnahme -- der bekannte
+    Positivfall Band 1 liegt bei rund 15 Prozent und funktioniert.
+    """
+    a = ebene.getchannel("A").filter(ImageFilter.MaxFilter(9))
+    hg = hintergrund.convert("RGB")
+    pa, ph = a.load(), hg.load()
+    schlecht = gesamt = 0
+    schlimmst = 99.0
+    for y in range(0, a.height, 3):
+        for x in range(0, a.width, 3):
+            if pa[x, y] < 128:
+                continue
+            gesamt += 1
+            k = kontrast(WEISS, ph[x, y])
+            schlimmst = min(schlimmst, k)
+            if k < schwelle:
+                schlecht += 1
+    return schlecht / max(1, gesamt), schlimmst
+
+
 def platzhalterbild() -> Image.Image:
     """Ein neutraler Stellvertreter, damit man die Schrift beurteilen
     kann, wenn noch kein Bild da ist. Das ist ausdrücklich KEIN
@@ -144,8 +222,8 @@ def platzhalterbild() -> Image.Image:
     return b
 
 
-def bauen(bild: Image.Image, texte: dict) -> tuple[Image.Image, Image.Image, dict]:
-    grund = einpassen(bild)
+def bauen(bild: Image.Image, texte: dict, zoom: float = 1.0) -> tuple[Image.Image, Image.Image, dict]:
+    grund = einpassen(bild, zoom)
     mess = ImageDraw.Draw(Image.new("RGB", (10, 10)))
 
     # --- Schriftgrößen, alle von der Bildbreite abgeleitet -----------
@@ -182,6 +260,14 @@ def bauen(bild: Image.Image, texte: dict) -> tuple[Image.Image, Image.Image, dic
         d = schritt * 0.05
         probe = Image.composite(Image.new("RGB", (BREITE, HOEHE), (0, 0, 0)),
                                 grund, verlauf(d))
+        # Der Verlauf laeuft weiterhin nach dem Mittelwert. Die
+        # Kachelsuche als Steuergroesse war falsch: Sie verlangt, dass
+        # das ganze Titelband dunkel ist, aber die Schrift bedeckt es
+        # nur zu einem Bruchteil. Damit ist auch Band 1 durchgefallen --
+        # ein veroeffentlichtes Cover, das nachweislich funktioniert.
+        # Ein Selektor, der den bekannten Positivfall verwirft, ist kein
+        # Messgeraet. Die strenge Messung steht jetzt als Warnung unter
+        # dem Ergebnis, siehe unter_der_schrift().
         hg = mittlere_farbe(probe, titelkasten)
         k = kontrast(WEISS, hg)
         diagnose.append({"deckkraft": round(d, 2), "kontrast": round(k, 2)})
@@ -236,6 +322,7 @@ def bauen(bild: Image.Image, texte: dict) -> tuple[Image.Image, Image.Image, dic
         "verlauf_diagnose": diagnose,
         "gold_auf_grund": round(kontrast(GOLD, hintergrund), 2),
     }
+    werte["ohne_text"] = leinwand
     return fertig.convert("RGB"), ebene, werte
 
 
@@ -283,6 +370,9 @@ def main() -> None:
     # stand danach nirgends und war beim naechsten Band nicht wiederholbar.
     # Seit dem 24.08.2026 stehen beide hier, damit der Wert im Aufruf steht
     # und die Messung darunter zeigt, ob er gereicht hat.
+    p.add_argument("--zoom", type=float, default=1.0,
+                   help="enger schneiden; >1 vergroessert das Gesicht und "
+                        "schiebt helle Bildteile unter das Titelband")
     p.add_argument("--helligkeit", type=float, default=1.0,
                    help="Faktor auf die Helligkeit des Hintergrundbildes "
                         "(1.0 = unveraendert)")
@@ -313,7 +403,7 @@ def main() -> None:
              "titel_caps": args.titel_caps, "genre": args.genre,
              "band": args.band, "autor": args.autor}
 
-    cover, ebene, werte = bauen(bild, texte)
+    cover, ebene, werte = bauen(bild, texte, args.zoom)
 
     ziel = Path(args.ordner)
     ziel.mkdir(parents=True, exist_ok=True)
@@ -335,6 +425,16 @@ def main() -> None:
           f"{'bestanden' if werte['bestanden'] else 'DURCHGEFALLEN'}")
     print(f"Gold auf Grund: {werte['gold_auf_grund']}:1  "
           f"(AA für große Schrift: 3.0)")
+
+    # Zusaetzlich dort messen, wo die Buchstaben wirklich stehen. Der
+    # Mittelwert oben kann einen hellen Fleck unter einem einzelnen
+    # Wort nicht sehen. Bezugsgroesse: Band 1 liegt bei rund 15 %.
+    anteil, mini = unter_der_schrift(werte["ohne_text"], ebene)
+    print(f"Unter der Schrift: {100*anteil:.1f} % der Glyphenfläche "
+          f"unter 4.5:1, schlechteste Stelle {mini:.2f}:1")
+    if anteil > 0.20:
+        print("  WARNUNG: deutlich mehr als bei Band 1 (rund 15 %). "
+              "Ein heller Bildteil liegt unter dem Titel.")
 
     # Gegen die Nische halten -- mit demselben Messgerät wie die 36.
     try:
