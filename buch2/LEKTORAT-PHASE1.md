@@ -1012,3 +1012,19 @@ Planpunkten kassiert. Und ich habe damals von „null harten Fehlern"
 gesprochen, während fünf Zahlen falsch waren, die kein Werkzeug
 prüfen konnte. Beides sagt dasselbe: Der Eindruck beim Lesen ist in
 beide Richtungen unzuverlässig.
+
+## Prüflauf nach den fünf Korrekturen
+
+| Prüfung | Ergebnis |
+|---|---|
+| `chronik.py` (neu) | 88 Datumsangaben, 0 ungültig, 4 Perspektivwechsel |
+| `kalender.py` | 12 mit Wochentag geprüft, keine Beanstandung |
+| `namen.py` | 3 bekannte Fehltreffer |
+| `dopplung.py` | 1 bekanntes Paar (K6/K7, gewollte Spiegelung) |
+| `romantik.py` | 0 von 64 Kapiteln ohne gemeinsame Szene |
+| `manier.py` | Selbsttest bestanden |
+| `vale.sh` | 0 errors, 0 warnings, 10 Vorschläge |
+| `prosa.py --sprache` | **54 Treffer — unverändert**, keine neuen Fehler |
+| Wortzahl | 68.946 — unverändert (fünf Eins-zu-eins-Ersetzungen) |
+| `epubcheck.py` | keine Beanstandung |
+| **epubcheck 5.2.1 (W3C)** | **0 fatals / 0 errors / 0 warnings / 0 infos** |
