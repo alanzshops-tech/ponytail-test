@@ -89,66 +89,11 @@ Gemessen mit `scripts/prosa.py`. **Absolut** messbar ist nur die Typografie — 
 
 ## Rechtschreibung und Grammatik
 
-Geprüft mit LanguageTool, gefiltert um 6 Regeln, die bei Belletristik nur Rauschen liefern (jede in `prosa.py` begründet). **54 Treffer.**
-
-| Kap. | Regel | Meldung | Stelle |
-|---:|---|---|---|
-| 2 | `FRAGEZEICHEN_NACH_DIREKTER_REDE` | Eine Frage bitte mit einem ‚?‘ abschließen, eine Aufforderung mit eine | ….... Das war Weihnachten. „Was brauchst du“, sagte Jonas. Keine Frage,… |
-| 2 | `FRAGEZEICHEN_STATT_PUNKT` | Eine Frage bitte mit einem ‚?‘ abschließen, eine Aufforderung mit eine | …...e sie gefragt. „Was brauchst du von mir. Nicht was ich glaube, dass… |
-| 7 | `COMPOUND_INFINITIV_RULE` | Wenn der erweiterte Infinitiv von dem Verb ‚vorhersagen‘ abgeleitet is | …...en Sie geheiratet, ohne es Ihrer Mutter vorher zu sagen?“ Die Frage… |
-| 7 | `COMPOUND_INFINITIV_RULE` | Wenn der erweiterte Infinitiv von dem Verb ‚kleinhalten‘ abgeleitet is | ….... Und ich habe mich entschieden, sie so klein zu halten, dass sie n… |
-| 10 | `VERDOPPELUNG` | Diese Formulierung ist möglicherweise redundant. | …...e und trotzdem nicht wissen, ob wir das freiwillig gewollt hätten.“… |
-| 10 | `DER_ERSTE` | Bitte prüfen Sie, ob „Erste“ hier als Nomen gebraucht wird und daher g | …...ntwort“, sagte sie. „Keine Fassung. Die erste.“ „Ich übe“, sagte ic… |
-| 11 | `EMPFOHLENE_ZUSAMMENSCHREIBUNG` | Empfehlung: Möchten Sie die Schreibweise „sodass“ verwenden? | …... genickt, einmal, und dann, sehr leise, so dass es der Mann hinter … |
-| 13 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …...ntplatte gesehen, an dem Tag, an dem du unrecht hattest.“ Er hat au… |
-| 14 | `SUBJUNKTION_KOMMA` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... Anfang zu allem nein gesagt habe. Nicht dass du Druck hast.“ Amira… |
-| 16 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...irma zu neunundvierzig Prozent gehört: Dass sie entscheidet. „Das w… |
-| 21 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...m Montagmorgen wieder ausgepackt. Nicht weil das Blatt es wiedergut… |
-| 24 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …..., sagte ich. „Ich habe vor sechs Leuten unrecht gehabt. Das ist das… |
-| 25 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...shalb bin ich hier und nicht dort. Nicht weil Hamburg besser ist. W… |
-| 25 | `SO_LANG` | Meinten Sie „so lange“ oder fehlt vielleicht ein Komma vor der Konjunk | …...ehen?“ „Nein“, sagte ich. „Irgendwann. Nicht solange eine Behörde e… |
-| 27 | `KOMMA_ZWISCHEN_HAUPT_UND_NEBENSATZ_2` | Hier sollte ein Komma eingefügt werden, wenn es sich um einen Haupt- u | …...eschlagen, mein Gutachten wegzuwerfen — nicht weil es falsch ist, s… |
-| 28 | `COMPOUND_INFINITIV_RULE` | Wenn der erweiterte Infinitiv von dem Verb ‚richtigmachen‘ abgeleitet  | …...hen uns. Ich hatte mir vorgenommen, es richtig zu machen, und ich h… |
-| 28 | `WEGEN_DIR` | ‚wegen dir‘ ist möglicherweise umgangssprachlich. | …...„Ich will anfechten“, sagte ich. „Nicht wegen dir. Weil ich glaube,… |
-| 31 | `DOPPELPUNKT_GROSS` | Folgt nach dem Doppelpunkt ein vollständiger Hauptsatz, schreibt man d | …... etwas, das in keiner Firmenakte steht: wer vorher darin gewohnt ha… |
-| 32 | `DE_SUBJECT_VERB_AGREEMENT` | Bitte prüfen, ob hier „war“ stehen sollte. | …...edes Jahr ein Gedeck leer. Dieses Jahr waren es acht, und keines bl… |
-| 33 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... nicht, worüber wir reden sollen. Nicht weil es nichts gab. Weil al… |
-| 33 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …...“, sagte er. „Ich möchte fragen, ob wir das nächsten Freitag wieder… |
-| 35 | `DER_ERSTE` | Bitte prüfen Sie, ob „Zweite“ hier als Nomen gebraucht wird und daher  | …...eredet. Es war unser Hochzeitstag. Der zweite. Der erste, 2026, war… |
-| 35 | `COMMA_IN_FRONT_RELATIVE_CLAUSE` | Sowohl angehängte als auch eingeschobene Relativsätze werden durch Kom | …...en, und irgendwann hat er gesagt: „Ich hätte das früher wissen woll… |
-| 37 | `DE_COMPOUNDS` | Dieses Wort wird zusammengeschrieben. | …...t“, habe ich gesagt. „Er macht die Ösen anders herum als alle ander… |
-| 42 | `KOMMA_VOR_UND_ZWAR` | Wird eine nachgestellte Erläuterung mit ‚und zwar‘ eingeleitet, so ist | …...Problem ist, dass ich nicht neutral bin — und zwar deinetwegen.“ Ic… |
-| 43 | `EMPFOHLENE_ZUSAMMENSCHREIBUNG` | Empfehlung: Möchten Sie die Schreibweise „sodass“ verwenden? | …...ann hat er angefangen zu lachen, leise, so dass ich es unter meinem… |
-| 44 | `ACHTMALVIER` | Bitte prüfen Sie die Getrenntschreibung: Außer man möchte „Mal“ besond | …...sieben Jahren in diesem Beirat und habe achtundzwanzig Mal abgestim… |
-| 44 | `ACHTMALVIER` | Bitte prüfen Sie die Getrenntschreibung: Außer man möchte „Mal“ besond | …...be achtundzwanzig Mal abgestimmt, davon sechsundzwanzig Mal wie Jon… |
-| 44 | `DOPPELPUNKT_GROSS` | Folgt nach dem Doppelpunkt ein vollständiger Hauptsatz, schreibt man d | …...erte Spalte, die es bei Mama nicht gab: wer vorher darin gewohnt ha… |
-| 45 | `SUBJUNKTION_KOMMA` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... all die Jahre wütend gemacht hat? Nicht dass du weg bist. Dass du … |
-| 48 | `OLD_SPELLING_RULE` | Diese Schreibweise war nur in der alten Rechtschreibung korrekt. Das W | …...28.7.1943. Wer das findet, soll wissen, daß wir es gut gemeint habe… |
-| 49 | `WAR_WAHR` | Meinten Sie „wahr“ (=wahrhaftig, authentisch) statt ‚war‘ (Vergangenhe | …... Eigentümer bekannt ist beziehungsweise war.“ Er hat aufgesehen. „U… |
-| 52 | `EMPFOHLENE_ZUSAMMENSCHREIBUNG` | Empfehlung: Möchten Sie die Schreibweise „sodass“ verwenden? | …...eblieben und hat gesagt, ziemlich laut, so dass es die erste Reihe … |
-| 52 | `VOR_ALLEN` | Meinten Sie „vor allem“ (= besonders, hauptsächlich)? | …...gen gesessen und gewusst, dass ich dich vor allen verstecken werde“… |
-| 52 | `DE_PHRASE_REPETITION` | Hier werden zwei Wörter wiederholt. Meinten Sie „Sie auf“? | …..., sagte er. „Über sie an keiner. Passen Sie auf sie auf, und zwar s… |
-| 53 | `KOMMA_INFINITIVGRUPPEN` | Wenn eine Infinitivgruppe (‚zu‘ + Grundform) mit ‚außer‘ eingeleitet w | …...ass er die ganze Zeit nichts gemacht hat außer dazustehen und mich … |
-| 53 | `SUBJUNKTION_KOMMA_2` | Der von ‚dass‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …...ch es gut habe. Nicht: dass es gut ist. Dass ich es gut habe. Wie j… |
-| 53 | `DER_ERSTE` | Bitte prüfen Sie, ob „Erste“ hier als Nomen gebraucht wird und daher g | …...deine Hochzeitsnacht?“ „Welche?“ „Die erste.“ Ich habe eine Weile g… |
-| 55 | `ACHTMALVIER` | Bitte prüfen Sie die Getrenntschreibung: Außer man möchte „Mal“ besond | …...die Physik ist einfach und ich habe sie zwanzig Mal gerechnet. Ich … |
-| 55 | `SUBJUNKTION_KOMMA` | Der von ‚weil‘ eingeleitete Nebensatz muss in der Regel mit einem Komm | …... Ich habe es Theo nicht gezeigt. Nicht weil ich es verstecke. Weil … |
-| 55 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …... du hättest recht gehabt, und ich hätte unrecht gehabt.“ „Das weiß … |
-| 55 | `DOPPELTES_VERB` | Das Hilfsverb „hat“ kommt versehentlich doppelt vor. Oder fehlt vielle | …... und dann hingelegt. „Er hat Ihre Frau hat recht geschrieben.“ „Ja.… |
-| 56 | `ART_ADJ_SOL` | Nach einem Artikel steht in der Regel kein stark oder gemischt flektie | …...agt, wir reden im Oktober.“ „Wir haben das voriges Jahr gesagt.“ „J… |
-| 56 | `DE_COMPOUNDS` | Dieses Wort wird zusammengeschrieben. | …..., dass ich denselben Satz hatte und ihn anders herum sagen würde. „… |
-| 56 | `GERMAN_WORD_REPEAT_RULE` | Möglicher Tippfehler: ein Wort wird wiederholt | …... es einen Onkel am Ärmel fest, als wäre das das Selbstverständlichs… |
-| 57 | `KOMMA_VOR_UND_ODER` | Wenn es sich nachfolgend um einen Teilsatz ohne Subjekt handelt, wird  | …...funktioniert hat. Das ist nicht dasselbe, und meine ist die schlech… |
-| 58 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …... und mit einer Kostenüberschreitung von einer Komma eins Millionen.… |
-| 58 | `VIELZAHL_PLUS_SINGULAR` | Möglicher Tippfehler: Müsste dieses Wort im Plural stehen? | …...eingeschrieben, dass mit zweiundsiebzig Schluss ist, und Wendland h… |
-| 60 | `DE_AGREEMENT` | Möglicherweise passen das Nomen und die Wörter, die das Nomen beschrei | …...Monate länger gebraucht als geplant und eine Komma eins Millionen m… |
-| 60 | `ZU_UNRECHT` | „Unrecht“ scheint wird als Nomen benutzt zu werden und wird dann großg | …...wiedergelesen.“ „Und?“ „Und ich hatte unrecht“, sagte Amira. „Ich b… |
-| 60 | `FLEKTIERTES_ADJEKTIV_AM_SATZENDE` | Meinten Sie die Form „neu“? | …...agte sie. „Nein“, sagte ich. „Das sind neue. Die im Büro bleiben, w… |
-| 63 | `COMMA_IN_FRONT_RELATIVE_CLAUSE` | Sowohl angehängte als auch eingeschobene Relativsätze werden durch Kom | …...ie hat unterschrieben, mit Datum. „Ich hätte das mit sechzig machen… |
-| 64 | `NIX` | Das Wort „nix“ ist umgangssprachlich. | …...richtig gemacht?“ „Wieso? Denn harr se nix to doon hatt“, sagte Rus… |
-| 64 | `OLD_SPELLING_RULE` | Diese Schreibweise war nur in der alten Rechtschreibung korrekt. Das W | …... 16 Jahre. Wer das findet, soll wissen, daß wir es gut gemeint habe… |
+*Nicht geprüft.* Mit `--sprache` laufen lassen — braucht Java und einen 259-MB-Download.
 
 <!-- HANDNOTIZEN - alles darunter bleibt beim naechsten Lauf erhalten -->
+
+
 
 
 

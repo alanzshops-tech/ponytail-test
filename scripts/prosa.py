@@ -46,6 +46,7 @@ from __future__ import annotations
 
 import argparse
 import collections
+import itertools
 import re
 import statistics
 import sys
@@ -256,6 +257,80 @@ def wiederholungen(lemmas: list[tuple[str, int]], fenster: int = 220,
 
 # ------------------------------------------------------------- Sprache
 
+
+# --- Umlautverlust ---------------------------------------------------
+#
+# Am 01.09.2026 stand in Kapitel 37 "Zwei Maenner, dreissig Jahre
+# auseinander" und "Er hat gezaehlt". Kein Werkzeug hat das gemeldet,
+# und der Grund steht oben in LT_AUS: GERMAN_SPELLER_RULE ist
+# abgeschaltet, weil sonst jeder erfundene Eigenname als Tippfehler
+# durchschlaegt. Damit lief ueberhaupt keine Rechtschreibpruefung mehr,
+# und eine ASCII-Umschrift faellt durch jedes andere Raster -- prosa.py
+# prueft Typografie, nicht Orthografie.
+#
+# Der Ersatz braucht kein Woerterbuch: **Das Buch ist sein eigenes.**
+# Wenn "Maenner" im Text steht und "Männer" ebenfalls, ist eines von
+# beiden falsch. Das trifft nur dort, wo das Buch die richtige Form
+# selbst schon benutzt, und liefert deshalb fast keine Fehlalarme.
+#
+# Der eine bekannte Fehlalarm ist aufschlussreich und bleibt bewusst
+# stehen: "dass" und "daß" kommen beide vor, weil der Zettel aus der
+# Blechdose von 1954 in alter Rechtschreibung gesetzt ist. Er steht
+# deshalb in AUSNAHMEN.
+ERSATZ = [("ae", "ä"), ("oe", "ö"), ("ue", "ü"), ("ss", "ß")]
+AUSNAHMEN = {"dass", "das"}
+
+
+def umlautvarianten(wort: str):
+    stellen = [(i, b) for i in range(len(wort) - 1)
+               for a, b in ERSATZ if wort[i:i + 2].lower() == a]
+    for n in range(1, len(stellen) + 1):
+        for komb in itertools.combinations(stellen, n):
+            neu, off = wort, 0
+            for i, b in komb:
+                neu = neu[:i - off] + b + neu[i - off + 2:]
+                off += 1
+            yield neu
+
+
+def umlautverlust(texte: dict) -> list:
+    """(Wort, richtige Form, Dateien) fuer jede ASCII-Umschrift."""
+    inventar = {}
+    for name, t in texte.items():
+        for w in re.findall(r"\b\w+\b", t):
+            inventar.setdefault(w.lower(), set()).add(name)
+    aus = []
+    for w, dateien in inventar.items():
+        if w in AUSNAHMEN or not re.search(r"ae|oe|ue|ss", w):
+            continue
+        for v in umlautvarianten(w):
+            if v.lower() != w and v.lower() in inventar:
+                aus.append((w, v.lower(), sorted(dateien)))
+                break
+    return sorted(aus)
+
+
+def umlaut_kalibrieren() -> bool:
+    """Positiv- und Negativfall, beide aus dem echten Buch."""
+    ok = True
+    # Positivfall: der Fund vom 01.09.2026.
+    proben = {"a": "Zwei Maenner standen da.", "b": "Zwei Männer gingen."}
+    if not any(w == "maenner" for w, _, _ in umlautverlust(proben)):
+        print("  FEHLGESCHLAGEN: Umlautverlust findet 'Maenner' nicht.")
+        ok = False
+    # Negativfall 1: korrektes Deutsch, das ss enthaelt.
+    sauber = {"a": "Er misst die Wand.", "b": "Sie muss gehen."}
+    if umlautverlust(sauber):
+        print(f"  FEHLGESCHLAGEN: Fehlalarm bei {umlautverlust(sauber)}")
+        ok = False
+    # Negativfall 2: die gewollte alte Schreibung von 1954.
+    alt = {"a": "damit ihr wisst, daß es so war", "b": "Ich weiß, dass es so ist."}
+    if umlautverlust(alt):
+        print(f"  FEHLGESCHLAGEN: 'daß' als Fehler gemeldet")
+        ok = False
+    return ok
+
+
 def sprachwerkzeug():
     """LanguageTool starten. Gibt None zurueck, wenn es nicht geht --
     und der Bericht sagt das dann ausdruecklich, statt zu schweigen."""
@@ -386,6 +461,12 @@ def selbsttest() -> bool:
     if not (voll["dialog_anteil"] > 80 and leer["dialog_anteil"] == 0):
         print("  FEHLGESCHLAGEN: Dialogmessung unbrauchbar.")
         ok = False
+
+    if not umlaut_kalibrieren():
+        ok = False
+    else:
+        print("  Umlautverlust: Positivfall gefunden, 'misst'/'muss' und "
+              "die alte Schreibung 'daß' nicht gemeldet.")
 
     print("  Selbsttest bestanden." if ok else "  Selbsttest FEHLGESCHLAGEN.")
     return ok
@@ -581,6 +662,23 @@ def main() -> None:
     print(f"Typografie: {t['zitat_zu_falsch']} falsche schließende "
           f"Anführungszeichen, {t['apostroph_falsch']} falsche Apostrophe, "
           f"{t['auslassung_falsch']} falsche Auslassungspunkte.")
+
+    # Nur der Buchtext. Berichte und die generierte manuskript.md
+    # gehoeren nicht dazu -- in den Berichten steht ASCII mit Absicht,
+    # und manuskript.md ist eine Kopie, die beim naechsten Bau ohnehin
+    # neu entsteht. Beides waere Rauschen im Fund.
+    quellen = sorted(BUCH.glob("kapitel-*.md"))
+    for extra in ("00-vorspann.md", "99-nachspann.md"):
+        if (BUCH / extra).exists():
+            quellen.append(BUCH / extra)
+    verlust = umlautverlust({p.name: text_von(p) for p in quellen})
+    if verlust:
+        print(f"\nUmlautverlust: {len(verlust)} Wort(e) in ASCII-Umschrift, "
+              f"obwohl das Buch die richtige Form selbst benutzt:")
+        for w, richtig, dateien in verlust:
+            print(f"  {w} -> {richtig}   ({', '.join(dateien)})")
+    else:
+        print("Umlautverlust: keiner.")
     print(f"Geschrieben: {ziel}")
 
 

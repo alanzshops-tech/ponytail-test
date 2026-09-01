@@ -175,10 +175,10 @@ recht gehabt, und sie wäre allein nach Hause gefahren.
 
 Ich habe in dieser Nacht Eintrag zweiundachtzig geschrieben.
 
-*11.06. Er hat gezaehlt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
+*11.06. Er hat gezählt, wie oft ich die Wand anfasse. Siebzehnmal. Ich
 wusste es selbst nicht.*
 
 Und darunter:
 
 *Mein Vater hat mir das beigebracht. Theo hat es gesehen, ohne es zu
-wissen. Zwei Maenner, dreissig Jahre auseinander, dieselbe Hand.*
+wissen. Zwei Männer, dreißig Jahre auseinander, dieselbe Hand.*
