@@ -280,7 +280,7 @@ Bild als `cover/roh/theo.jpg` ablegen, dann:
 ```
 python3 scripts/coverbau.py --bild cover/roh/theo.jpg \
     --titel-script "Was er nie" --titel-caps "GEFRAGT HAT" \
-    --genre "Verheiratet. Und nie zusammen aus." --band "BAND 2" \
+    --genre "Verheiratet. Und noch nie miteinander aus." --band "BAND 2" \
     --autor "Jule Norden" --ordner cover/band2
 ```
 

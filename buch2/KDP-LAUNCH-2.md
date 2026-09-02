@@ -39,7 +39,7 @@ auch nicht, weil sie in Band 1 funktioniert haben.
 
 ## 2. Untertitel
 
-**Auf dem Cover:** Verheiratet. Und nie zusammen aus. (Band 2)
+**Auf dem Cover:** Verheiratet. Und noch nie miteinander aus. (Band 2)
 
 **Im KDP-Feld [E]:**
 > Sie sind längst verheiratet. Jetzt müssen sie lernen, eine Ehe zu sein – Liebesroman (Die Reinhardt-Brüder 2)
