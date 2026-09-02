@@ -267,7 +267,7 @@ Liebesroman, Reinhardt, Brüder.*
 | 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989) |
 | 2 | `scheinehe roman` | 15 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
 | 3 | `hamburg speicherstadt roman` | 27 | Schauplatz, Alleinstellung, ungemessen |
-| 4 | `alleinerziehend zweite chance` | 29 | Anschluss an Band 1s Leserschaft, ungemessen |
+| 4 | `geheime hochzeit roman` | 22 | die Prämisse selbst; durch den neuen Untertitel erst frei geworden |
 | 5 | `heimliche hochzeit kopenhagen` | 29 | Suchintention statt Etikett, ungemessen |
 | 6 | `verschwiegene beziehung roman` | 29 | dieselbe Suchintention ohne das Wort *Ehe*, ungemessen |
 | 7 | `emotionale liebesgeschichte ohne spice` | 38 | fängt die Erwartungsfrage ab, die bei Falle 2 zum Problem würde |
@@ -280,6 +280,23 @@ steht im Untertitel. Zwei von sieben Feldern wären verschenkt gewesen.
 
 Feld 2 heißt jetzt `scheinehe roman` — das ist ohnehin der gemessene
 Suchbegriff. Feld 7 sagt *Liebesgeschichte* statt *Liebesroman*.
+
+**Feld 4 ausgetauscht am 01.09.2026.** Dort stand `alleinerziehend
+zweite chance`. Beides beschreibt **Band 1, nicht Band 2**: Amira ist
+nicht alleinerziehend, und der Bericht lehnt zwei Abschnitte weiter die
+Kategorie *Zweite Chancen* mit genau dem Satz ab, der auch für das
+Keyword gilt — *„Die beiden bekommen keine zweite Chance, sie führen
+eine erste zu Ende."* Ein Keyword, das ein anderes Buch beschreibt,
+holt Leserinnen, die etwas anderes wollten. Dazu ist *zweite chance*
+gemessen die schwächste Nachfrage im ganzen Lauf.
+
+Ersetzt durch `geheime hochzeit roman`. Der Begriff war unter dem
+**alten** Untertitel gesperrt (*„Eine **geheime** Ehe …"*) und ist erst
+durch dessen Neufassung frei geworden — nachgerechnet mit
+`schaufenster.py` gegen beide Fassungen. Er benennt die Prämisse
+und zielt in die einzige gemessene Nische, in der Geld im Markt ist:
+*geheime ehe liebesroman* ist als Einzige beworben, 4 von 10
+Spitzentiteln gesponsert.
 
 Ein früherer Entwurf für Feld 6 lautete `brüder saga deutsch`. Gestrichen:
 *Brüder* steht im Untertitel in der Reihenklammer, und ob Amazon die
