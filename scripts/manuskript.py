@@ -318,7 +318,28 @@ def epub_bauen(kapitel, vorspann: str, nachspann: str, titel: str,
     buch.add_item(stil)
 
     if coverbild and coverbild.exists():
-        buch.set_cover("cover.jpg", coverbild.read_bytes())
+        # create_page=False: Die von ebooklib erzeugte Cover-Seite
+        # schreibt alt="Cover" fest ein und baut ihren Inhalt beim
+        # Schreiben neu auf -- ein nachtraeglich gesetztes .content wird
+        # dabei verworfen. Das ist kein Beschreibungstext, sondern eine
+        # Wiederholung des Dateinamens, und KDP fragt beim Hochladen
+        # ausdruecklich danach. Deshalb eine eigene Seite.
+        buch.set_cover("cover.jpg", coverbild.read_bytes(),
+                       create_page=False)
+        beschreibung = (
+            f"Buchcover von {titel} — ein Mann Mitte dreißig im dunklen "
+            f"Mantel vor einer nächtlichen Stadtsilhouette am Wasser. "
+            f"Darunter die Reihe {REIHE}, Band {band}, und der Name der "
+            f"Autorin {autor}.")
+        deckblatt = epub.EpubHtml(title="Cover", file_name="cover.xhtml",
+                                  uid="cover", lang="de")
+        deckblatt.content = (
+            # role="doc-cover" ist an <section> nicht zulaessig --
+            # epubcheck 5.2.1 meldet RSC-005. epub:type allein genuegt.
+            '<section epub:type="cover">'
+            f'<img src="cover.jpg" alt="{beschreibung}"/>'
+            '</section>')
+        buch.add_item(deckblatt)
 
     def seite(name: str, kopf: str, text: str):
         k = epub.EpubHtml(title=kopf, file_name=name, lang="de")
