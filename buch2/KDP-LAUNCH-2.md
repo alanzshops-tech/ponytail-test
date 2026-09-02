@@ -264,12 +264,12 @@ Liebesroman, Reinhardt, Brüder.*
 
 | Feld | Keyword | Zeichen | Grundlage |
 |---:|---|---:|---|
-| 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989) |
-| 2 | `scheinehe roman` | 15 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
-| 3 | `speicherstadt roman` | 19 | Schauplatz, Alleinstellung, ungemessen; *hamburg* steht in Feld 6 |
-| 4 | `geheime hochzeit roman` | 22 | die Prämisse selbst; durch den neuen Untertitel erst frei geworden |
-| 5 | `heimlich geheiratet kopenhagen` | 30 | Suchintention statt Etikett, ungemessen; *hochzeit* steht in Feld 4 |
-| 6 | `familiensaga hamburg roman` | 26 | Trope-Befund *Family Saga: STARK VORHANDEN*; ersetzt eine reine Wette |
+| 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989, nur 60 Bewertungen) |
+| 2 | `geheime hochzeit` | 16 | die Prämisse; Nische *geheime ehe* ist als Einzige beworben (4/10 gesponsert) |
+| 3 | `scheinehe` | 9 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
+| 4 | `familiensaga deutsche autorin` | 29 | Trope *Family Saga: STARK VORHANDEN*; an der Nischenspitze stehen deutsche Autorinnennamen |
+| 5 | `gefühlvoller frauenroman` | 24 | breiter Kategoriebegriff statt Spezialphrase |
+| 6 | `romance deutsch gefühlvoll` | 26 | breiter Kategoriebegriff, deutsch-englische Mischform ist in der Nische üblich |
 | 7 | `emotionale liebesgeschichte ohne spice` | 38 | fängt die Erwartungsfrage ab, die bei Falle 2 zum Problem würde |
 
 **Nachgerechnet, nicht behauptet.** Ein Prüfskript hat jedes Feld gegen
@@ -329,7 +329,28 @@ Die stärkste ehrlich bedienbare Nische liegt auf Platz fünf. Das ist
 kein Versäumnis der Keywords, sondern die Folge davon, was im Buch
 steht.
 
-**Feld 3 und Feld 5 entdoppelt.** Feld 3 gab *hamburg* an Feld 6 ab,
+**Vollständig neu gefasst am 01.09.2026, zweiter Durchgang.** Der
+vorherige Satz war auf Passgenauigkeit und Kollisionsfreiheit
+optimiert, aber nicht darauf, ob die Begriffe überhaupt jemand
+eintippt. `speicherstadt roman` und `heimlich geheiratet kopenhagen`
+sind Formulierungen, die außerhalb dieses Projekts niemand sucht — fünf
+von sieben Feldern waren enge Long-Tail-Wetten.
+
+Jetzt drei gemessene Träger (Felder 1–3) und drei breite
+Kategoriebegriffe (4–6), die Amazon mit Titel und Untertitel
+kombiniert. Feld 7 bleibt.
+
+Auch entfernt: *roman* stand dreimal. Amazon kombiniert die Felder
+untereinander; dreimal dasselbe Wort ist zweimal verschenkter Platz.
+
+⚠️ **Suchvolumen ist weiterhin nicht gemessen.** Ahrefs ist auf diesem
+Zugang gesperrt (`Insufficient plan`), für Amazons interne Suche gibt
+es kein öffentliches Volumen. Die beste verfügbare Quelle ist Amazons
+eigene Autovervollständigung — in der App `liebesroman ` eintippen und
+die Vorschläge lesen. Das sind echte, häufige Kundenanfragen und
+schlägt jede Ableitung von außen.
+
+**Frühere Fassung, zur Nachvollziehbarkeit — Feld 3 und Feld 5 entdoppelt.** Feld 3 gab *hamburg* an Feld 6 ab,
 Feld 5 gab *hochzeit* an Feld 4 ab. Beide Dopplungen sind erst beim
 Nachzählen aufgefallen, nachdem die neuen Felder drin waren — ein
 Austausch kann eine Kollision erzeugen, die vorher nicht da war. Amazon kombiniert
