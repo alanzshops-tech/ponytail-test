@@ -135,33 +135,46 @@ Drei Fassungen. Keine verrät die Anhörung, das Kind oder Band 3.
 
 ### Version C — die falsche Reihenfolge
 
-> **Sie sind verheiratet.
-> Sie waren noch nie miteinander aus.**
+> Sie sind verheiratet. Sie waren noch nie miteinander aus.
 >
-> Kopenhagen, März 2025: eine Standesbeamtin, ein Zeuge, den sie sich von
-> der Straße geholt haben, und zwei Menschen, die beschließen, es
-> niemandem zu erzählen. Sie, weil ihr Gutachten für seine Familie sonst
-> angreifbar wird. Er, weil er eine Sache haben will, die keiner
-> besichtigt.
+> Vierzehn Monate lang wusste es niemand. Dann stand die Ausländerbehörde vor der Tür.
 >
-> Vierzehn Monate später steht die Behörde vor der Tür.
+> Kopenhagen, März 2025: eine Standesbeamtin und ein Zeuge, den sie sich von der Straße geholt haben. Sie schweigen darüber — sie, weil ihr Gutachten für seine Familie sonst angreifbar wird. Er, weil er zum ersten Mal etwas haben will, das keiner besichtigt.
 >
-> Was dann passiert, machen die beiden zum ersten Mal: zusammenwohnen.
-> Sich streiten, wo jemand zusehen kann. Seine Bücher zwischen ihre
-> stellen. Und an einem Freitag im Dezember klingelt er unten an ihrer
-> Haustür, an der sein eigener Name steht, weil sie einmal im Leben
-> hören will, dass jemand für sie klingelt.
+> Jetzt sitzen die beiden in getrennten Räumen und sollen beweisen, dass ihre Ehe echt ist.
 >
-> **Sie haben alles in der falschen Reihenfolge gemacht. Jetzt holen sie
-> es nach — mit einer Frist im Nacken.**
+> Sie ist echt. Sie ist nur nie gelebt worden.
 >
-> *Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen; wer
-> Band 1 gelesen hat, erkennt einen Anruf vom achten Mai wieder.
-> Sinnlich, ohne explizite Szenen.*
+> Was dann kommt, machen sie zum ersten Mal: zusammenwohnen. Sich streiten, wo jemand zusieht. Seine Bücher zwischen ihre stellen.
+>
+> Und irgendwann klingelt er unten an ihrer Haustür, an der sein eigener Name steht — weil sie einmal im Leben hören will, dass jemand für sie klingelt.
+>
+> Sie haben alles in der falschen Reihenfolge gemacht. Jetzt holen sie es nach.
+>
+> Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit Happy End — kein Cliffhanger für dieses Paar. Sinnlich, ohne explizite Szenen.
 
 ### Empfehlung [E]
 
-> **Version C.**
+> **Version C**, überarbeitet am 01.09.2026.
+
+**Was geändert wurde und warum.** `schaufenster.py` misst, was auf dem
+Handy vor „mehr lesen" überhaupt ankommt — rund 200 Zeichen. Die alte
+Fassung hatte dort die Prämisse, aber **nichts, was auf dem Spiel
+steht**: Die Behörde tauchte erst bei Zeichen 370 auf, also hinter dem
+Schnitt. Jetzt steht sie in Zeile drei.
+
+| | alt | neu |
+|---|---:|---:|
+| Einsatz in der Vorschau sichtbar | nein | **ja** |
+| längster Absatz (Wörter) | 55 | **42** |
+| Absätze | 6 | **9** |
+| Zeichen | 1.146 | 1.048 |
+
+Dabei ist ein **Sachfehler** aufgefallen: Die alte Fassung setzte die
+Klingel-Szene auf „einen Freitag im Dezember". Sie steht in Kapitel 33,
+und Kapitel 33 spielt 2027 — der Dezember gehört zu Kapitel 32, wo
+Amira den Wunsch erst ausspricht. Für „Freitag" gibt es keinen Beleg.
+Beides ist raus.
 
 Begründung: A verkauft die Frist, und die Frist ist die schwächste
 Hälfte des Buches — sie ist bei 40 % entschieden. B verkauft Theo, aber

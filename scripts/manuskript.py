@@ -188,29 +188,21 @@ KLARNAMEN = {"Alan Lorenz", "Alan Lorenz GbR"}
 KLAPPENTEXT = {
     "2": """Sie sind verheiratet. Sie waren noch nie miteinander aus.
 
-Kopenhagen, März 2025: eine Standesbeamtin, ein Zeuge, den sie sich von
-der Straße geholt haben, und zwei Menschen, die beschließen, es
-niemandem zu erzählen. Amira Haddad begutachtet historische
-Bausubstanz und schreibt gerade für die Firma seiner Familie — eine Ehe
-darin wäre ein Angriffspunkt. Theo Reinhardt will zum ersten Mal etwas
-haben, das niemand besichtigt.
+Vierzehn Monate lang wusste es niemand. Dann stand die Ausländerbehörde vor der Tür.
 
-Vierzehn Monate später steht die Ausländerbehörde vor der Tür. Keine
-gemeinsame Adresse, kein gemeinsames Konto, sieben Fotos. Am Montag um
-elf sitzen die beiden in getrennten Räumen und sollen beweisen, dass
-ihre Ehe echt ist.
+Kopenhagen, März 2025: eine Standesbeamtin und ein Zeuge, den sie sich von der Straße geholt haben. Sie schweigen darüber — sie, weil ihr Gutachten für seine Familie sonst angreifbar wird. Er, weil er zum ersten Mal etwas haben will, das keiner besichtigt.
+
+Jetzt sitzen die beiden in getrennten Räumen und sollen beweisen, dass ihre Ehe echt ist.
 
 Sie ist echt. Sie ist nur nie gelebt worden.
 
-Was jetzt kommt, machen sie zum ersten Mal: zusammenwohnen. Sich
-streiten, wo jemand zusieht. Seine Bücher zwischen ihre stellen. Und
-irgendwann klingelt er unten an einer Haustür, an der sein eigener Name
-steht, weil sie einmal im Leben hören will, dass jemand für sie
-klingelt.
+Was dann kommt, machen sie zum ersten Mal: zusammenwohnen. Sich streiten, wo jemand zusieht. Seine Bücher zwischen ihre stellen.
 
-Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit
-Happy End — kein Cliffhanger für dieses Paar. Emotional und sinnlich,
-ohne explizite Szenen.""",
+Und irgendwann klingelt er unten an ihrer Haustür, an der sein eigener Name steht — weil sie einmal im Leben hören will, dass jemand für sie klingelt.
+
+Sie haben alles in der falschen Reihenfolge gemacht. Jetzt holen sie es nach.
+
+Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit Happy End — kein Cliffhanger für dieses Paar. Sinnlich, ohne explizite Szenen.""",
 }
 
 # Fuenf bis sieben Schlagworte, aus den gemessenen Nischen und nicht

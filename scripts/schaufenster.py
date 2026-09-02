@@ -86,6 +86,37 @@ def kollisionen(keywords: list[str], titel: str, untertitel: str) -> dict:
     return aus
 
 
+def beschreibung_messen(text: str) -> dict:
+    """Struktur einer Amazon-Beschreibung.
+
+    Was hier gemessen wird, entscheidet nicht ueber Qualitaet -- ob eine
+    Beschreibung Lust macht, ist keine Zahl. Messbar ist nur, was auf
+    dem Handy ueberhaupt ankommt, bevor "mehr lesen" den Rest abschneidet,
+    und wie schwer die ersten Saetze zu lesen sind.
+
+    **Kein Bezugsrahmen aus der Nische.** Fuer Cover und Titel liegen 36
+    bzw. 30 gemessene Konkurrenztitel vor, fuer Beschreibungen nicht.
+    Die Werte hier sind deshalb nur untereinander vergleichbar --
+    Fassung A gegen Fassung B --, nicht gegen den Markt.
+    """
+    absaetze = [" ".join(a.split()) for a in text.split("\n\n") if a.strip()]
+    sichtbar = text[:VORSCHAU_ZEICHEN]
+    erster = absaetze[0] if absaetze else ""
+    saetze = [s for s in re.split(r"(?<=[.!?])\s+", erster) if s.strip()]
+    return {
+        "zeichen": len(text),
+        "absaetze": len(absaetze),
+        "laengster_absatz": max((len(a.split()) for a in absaetze), default=0),
+        "erster_satz_woerter": len(saetze[0].split()) if saetze else 0,
+        "in_vorschau": sichtbar,
+        "stake_in_vorschau": bool(re.search(
+            r"Behörde|Frist|beweisen|Montag|ausreisen|prüft", sichtbar, re.I)),
+        "zusage": bool(re.search(
+            r"Happy End|abgeschlossen|kein Cliffhanger|ohne explizite",
+            text, re.I)),
+    }
+
+
 def selbsttest() -> None:
     fehler = []
 
