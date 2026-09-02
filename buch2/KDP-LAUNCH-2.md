@@ -266,10 +266,10 @@ Liebesroman, Reinhardt, Brüder.*
 |---:|---|---:|---|
 | 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989) |
 | 2 | `scheinehe roman` | 15 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
-| 3 | `hamburg speicherstadt roman` | 27 | Schauplatz, Alleinstellung, ungemessen |
+| 3 | `speicherstadt roman` | 19 | Schauplatz, Alleinstellung, ungemessen; *hamburg* steht in Feld 6 |
 | 4 | `geheime hochzeit roman` | 22 | die Prämisse selbst; durch den neuen Untertitel erst frei geworden |
-| 5 | `heimliche hochzeit kopenhagen` | 29 | Suchintention statt Etikett, ungemessen |
-| 6 | `verschwiegene beziehung roman` | 29 | dieselbe Suchintention ohne das Wort *Ehe*, ungemessen |
+| 5 | `heimlich geheiratet kopenhagen` | 30 | Suchintention statt Etikett, ungemessen; *hochzeit* steht in Feld 4 |
+| 6 | `familiensaga hamburg roman` | 26 | Trope-Befund *Family Saga: STARK VORHANDEN*; ersetzt eine reine Wette |
 | 7 | `emotionale liebesgeschichte ohne spice` | 38 | fängt die Erwartungsfrage ab, die bei Falle 2 zum Problem würde |
 
 **Nachgerechnet, nicht behauptet.** Ein Prüfskript hat jedes Feld gegen
@@ -303,6 +303,39 @@ Ein früherer Entwurf für Feld 6 lautete `brüder saga deutsch`. Gestrichen:
 Teile eines Bindestrich-Kompositums mitindiziert, lässt sich von außen
 nicht messen. Ein Feld, das vielleicht verschenkt ist, ist ein
 verschenktes Feld.
+
+**Feld 6 ausgetauscht am 01.09.2026.** Dort stand `verschwiegene
+beziehung roman` — eine Phrase, die niemand so eintippt, und im Bericht
+selbst als *ungemessen* markiert. Ersetzt durch `familiensaga hamburg
+roman`. Begründung aus der eigenen Trope-Messung in Abschnitt 1:
+*Family Saga — **STARK VORHANDEN**: Vier Brüder, eine Mutter, ein toter
+Vater, eine Chronik über einhundertdreiundneunzig Objekte.* Das ist
+neben dem Familiengeheimnis der zweitstärkste Stoff im Buch und war in
+den Keywords überhaupt nicht vertreten.
+
+**Was bewusst liegen bleibt.** Nach Nachfrage mal Besetzung sortiert
+liegen vier gemessene Nischen vor der besten, die dieses Buch bedienen
+kann:
+
+| Nische | Score | Warum nicht |
+|---|---:|---|
+| geheimes baby liebesroman | 29k | Band 1s Trope |
+| milliardär liebesroman | 51k | 1 Reichtumsmarker auf 70.000 Wörter |
+| ehe roman deutsch | 152k | dort werden Psychothriller gesucht |
+| billionaire romance deutsch | 172k | besetzt (403 Bewertungen) und falsch |
+| **familiengeheimnis liebesroman** | **179k** | **trägt das Buch — Feld 1** |
+
+Die stärkste ehrlich bedienbare Nische liegt auf Platz fünf. Das ist
+kein Versäumnis der Keywords, sondern die Folge davon, was im Buch
+steht.
+
+**Feld 3 und Feld 5 entdoppelt.** Feld 3 gab *hamburg* an Feld 6 ab,
+Feld 5 gab *hochzeit* an Feld 4 ab. Beide Dopplungen sind erst beim
+Nachzählen aufgefallen, nachdem die neuen Felder drin waren — ein
+Austausch kann eine Kollision erzeugen, die vorher nicht da war. Amazon kombiniert
+die Felder untereinander und mit Titel und Untertitel — ein Wort
+doppelt einzutragen verschenkt Platz. *speicherstadt* und *hamburg*
+stehen jetzt je einmal und ergeben die Kombination trotzdem.
 
 **Stand nach Prüfung:** 7 Felder, alle ≤ 50 Zeichen (Maximum 38), keine
 Kommas, keine Kollision mit Titel oder Untertitel — auch nicht mit den
