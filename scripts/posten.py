@@ -378,8 +378,20 @@ def zugang_pruefen(kanal: str) -> str:
 
         if kanal == "instagram":
             token, nutzer = hole("INSTAGRAM_TOKEN"), hole("INSTAGRAM_USER_ID")
-            if not (token and nutzer):
-                return "— Token oder Konto-ID fehlt"
+            if not token:
+                return "— Token fehlt"
+            if not nutzer:
+                # In Metas Konsole stehen mehrere lange Zahlen
+                # nebeneinander -- App-ID, Seiten-ID, Konto-ID -- und die
+                # falsche davon gibt spaeter eine 404, die nach kaputtem
+                # Token aussieht. Das Token weiss selbst, zu welchem
+                # Konto es gehoert; also fragen wir es, statt den
+                # Menschen raten zu lassen.
+                a = anfrage(f"{GRAPH_IG}/me?fields=user_id,username&"
+                            f"access_token={token}", methode="GET")
+                return (f"Token gilt für @{a.get('username')} — jetzt noch "
+                        f"INSTAGRAM_USER_ID = {a.get('user_id')} als Secret "
+                        f"eintragen")
             allein = bool(hole("INSTAGRAM_STANDALONE"))
             basis = GRAPH_IG if allein else GRAPH
             a = anfrage(f"{basis}/{nutzer}?fields=username&"
@@ -573,6 +585,24 @@ def selbsttest() -> None:
                   or "unverified" in meldung.lower())
         if trifft != weicht_aus:
             fehler.append(f"Ausweichregel falsch bei {meldung!r}")
+
+    # Die Zugangsprobe darf ohne Zugangsdaten nichts ins Netz schicken.
+    # Sie ruft sonst genau dann eine Adresse auf, wenn am wenigsten
+    # feststeht -- und die Fehlermeldung sagt dann nichts ueber das
+    # fehlende Secret, sondern ueber den Aufruf.
+    #
+    # Der erste Anlauf hat hier auf die Woerter "fehlt" und "keine"
+    # geprueft -- eine aus dem Kopf geschriebene Liste, die an "kein
+    # Token gesetzt" scheiterte und drei gesunde Kanaele anschwaerzte.
+    # Geprueft wird deshalb die Konvention, die im Code wirklich gilt:
+    # "— …" heisst nicht eingerichtet, "OK — …" heisst steht,
+    # "FEHLER — …" heisst, es wurde etwas aufgerufen.
+    with umgebung(**{k: None for k in GEHEIM}):
+        for kanal in KANAELE:
+            antwort = zugang_pruefen(kanal)
+            if not antwort.startswith("—") or "FEHLER" in antwort:
+                fehler.append(f"Zugangsprobe {kanal}: ohne Zugangsdaten "
+                              f"keine klare Fehlanzeige ({antwort})")
 
     # Die Probe darf unter keinen Umstaenden senden. Ein Kanal mit
     # Zugangsdaten muss im Probelauf trotzdem nur beschreiben.
