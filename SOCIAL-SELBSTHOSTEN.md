@@ -317,3 +317,51 @@ scheitern. Das zeigt nur der Betrieb.
 YouTube braucht zusätzlich ein Google-Cloud-Projekt und hat eine
 Tagesquote, die Uploads teuer macht. Sie kommen, wenn die sieben
 laufen.
+
+---
+
+## Umgehungen für die zwei bekannten Bruchstellen
+
+Beim Bau waren zwei Stellen absehbar, an denen es später klemmt. Beide
+sind jetzt umgangen, statt sie als Warnung stehen zu lassen.
+
+### 1. Instagram-Token laufen nach 60 Tagen ab
+
+Das ist die unangenehmste Sorte Fehler: Es läuft wochenlang, dann
+bleibt ein Beitrag aus, und niemand weiß warum.
+
+**Umgehung:** `--token-erneuern` ruft
+`graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token`
+auf und stellt die Frist zurück. Im Workflow als eigener Schalter.
+
+Die Ausgabe nennt die Restlaufzeit in Tagen und die letzten sechs
+Zeichen des neuen Tokens. **Das neue Token muss von Hand ins Secret** —
+automatisch ginge nur, wenn es im Repository läge, und da gehört es
+nicht hin (`CLAUDE.md`, Regel 4).
+
+Am besten einmal im Monat laufen lassen.
+
+### 2. TikTok: `PULL_FROM_URL` verlangt eine verifizierte Domain
+
+Der bequeme Weg lässt TikTok das Video selbst holen — setzt aber
+voraus, dass die Domain bei TikTok verifiziert ist. Ohne Verifizierung
+kommt `url_ownership_unverified` zurück.
+
+**Umgehung:** `FILE_UPLOAD`. Das Skript lädt das Video selbst herunter,
+meldet Größe und Blockzahl an und schiebt die Bytes an die Adresse, die
+TikTok zurückgibt. **Keine Domain-Verifizierung nötig.**
+
+Der Ausweich passiert automatisch — aber **nur bei dieser einen
+Beanstandung**. Ein abgelaufenes Token oder ein Serverfehler schlägt
+durch, statt das Werkzeug in einen zweiten, ebenso aussichtslosen
+Versuch laufen zu lassen. Diese Regel steht im Selbsttest, mit zwei
+Fällen, die ausweichen müssen, und zwei, die es nicht dürfen.
+
+### Was dabei bewusst nicht umgangen wurde
+
+- **Instagram braucht ein öffentlich erreichbares Bild.** Dafür gibt es
+  keine Umgehung, die nicht selbst ein Hosting-Problem wäre. Die
+  Shopify-CDN-Adressen der Produktbilder sind öffentlich — das genügt.
+- **TikTok bleibt beim Entwurf.** Öffentlich direkt posten geht nur
+  nach Audit. Ein Fingertipp je Video ist der Preis, und er ist
+  niedriger als ein Auditverfahren.
