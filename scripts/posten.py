@@ -166,6 +166,28 @@ GRAPH = "https://graph.facebook.com/v21.0"
 GRAPH_IG = "https://graph.instagram.com/v21.0"
 
 
+def ueber_instagram_login() -> bool:
+    """Welcher der beiden Meta-Wege gilt. Standard: Instagram-Login.
+
+    Frueher war es andersherum -- der Instagram-Login musste mit dem
+    Secret INSTAGRAM_STANDALONE=1 eingeschaltet werden. Das hat sich im
+    ersten echten Lauf geraecht, und zwar an einer Stelle, die man nicht
+    erwartet: GitHub ersetzt JEDES Vorkommen eines Secret-Wertes im
+    Protokoll durch ***. Ein Secret mit dem Wert "1" schwaerzt damit
+    jede 1 im ganzen Protokoll. Aus der Fehlermeldung wurde
+    '"code":***9', aus einem Datum '2025-09-***9'. Das Protokoll ist
+    aber genau das Werkzeug, mit dem man den Fehler sucht.
+
+    Deshalb ist der Instagram-Login jetzt der Standard und braucht gar
+    kein Secret mehr. Wer ueber eine Facebook-Seite geht, setzt
+    INSTAGRAM_UEBER_FACEBOOK. Das alte Secret wird weiter anerkannt,
+    damit eine bestehende Einrichtung nicht bricht.
+    """
+    if hole("INSTAGRAM_UEBER_FACEBOOK"):
+        return False
+    return True
+
+
 def instagram_token_erneuern() -> str:
     """Umgehung fuer die 60-Tage-Frist.
 
@@ -190,8 +212,8 @@ def instagram_token_erneuern() -> str:
     # nicht ab. Frueher rief diese Funktion in beiden Faellen
     # ig_refresh_token auf und lieferte auf dem Seiten-Weg eine
     # OAuthException, die aussah, als sei das Token kaputt.
-    if not hole("INSTAGRAM_STANDALONE"):
-        return ("übersprungen — ohne INSTAGRAM_STANDALONE ist das ein "
+    if not ueber_instagram_login():
+        return ("übersprungen — mit INSTAGRAM_UEBER_FACEBOOK ist das ein "
                 "Seiten-Token vom Facebook-Login. Das laeuft nicht nach "
                 "60 Tagen ab, wenn es aus einem langlebigen Nutzertoken "
                 "erzeugt wurde. Zum Pruefen: --zugang.")
@@ -214,7 +236,7 @@ def instagram(text: str, probe: bool, bild: str = "") -> str:
         return "übersprungen (Instagram braucht ein Bild: --bild URL)"
     if not bild.startswith("https://"):
         return f"ÜBERSPRUNGEN — Bild muss öffentlich per https erreichbar sein"
-    basis = GRAPH_IG if hole("INSTAGRAM_STANDALONE") else GRAPH
+    basis = GRAPH_IG if ueber_instagram_login() else GRAPH
     if probe:
         return (f"Probe: {basis}/{nutzer}/media (Container) "
                 f"+ /media_publish, {len(text)} Zeichen, Bild gesetzt")
@@ -392,7 +414,7 @@ def zugang_pruefen(kanal: str) -> str:
                 return (f"Token gilt für @{a.get('username')} — jetzt noch "
                         f"INSTAGRAM_USER_ID = {a.get('user_id')} als Secret "
                         f"eintragen")
-            allein = bool(hole("INSTAGRAM_STANDALONE"))
+            allein = ueber_instagram_login()
             basis = GRAPH_IG if allein else GRAPH
             a = anfrage(f"{basis}/{nutzer}?fields=username&"
                         f"access_token={token}", methode="GET")
@@ -432,6 +454,18 @@ def deuten(kanal: str, meldung: str) -> str:
     Dienste tatsaechlich schicken.
     """
     m = meldung.lower()
+    # Zuerst der Fall, der sich als Ablauf tarnt und keiner ist.
+    # "Cannot parse access token" heisst: Die Zeichenkette ist gar kein
+    # Token. Abgelaufen waere sie lesbar. Das kommt fast immer davon,
+    # dass beim Kopieren etwas anderes erwischt wurde -- App-ID oder
+    # App-Geheimnis -- oder dass das Token unvollstaendig ist. Wer hier
+    # "abgelaufen" liest, erneuert stundenlang etwas, das nie galt.
+    if "cannot parse access token" in m or "malformed" in m:
+        return (f"{meldung[:90]}\n              -> Das ist kein gültiges "
+                f"Token, sondern eine unlesbare Zeichenkette. NICHT "
+                f"erneuern, sondern neu kopieren: vollständig, ohne "
+                f"Leerzeichen, und nicht die App-ID oder das "
+                f"App-Geheimnis")
     if "401" in m or "invalid_token" in m or "access_token_invalid" in m:
         return (f"{meldung[:90]}\n              -> Token ungültig oder "
                 f"abgelaufen. Bei Instagram: --token-erneuern")
@@ -470,7 +504,8 @@ def zu_lang(text: str, kanal: str) -> bool:
 GEHEIM = ("MASTODON_SERVER", "MASTODON_TOKEN",
           "BLUESKY_HANDLE", "BLUESKY_APP_PASSWORD",
           "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "DISCORD_WEBHOOK",
-          "INSTAGRAM_TOKEN", "INSTAGRAM_USER_ID", "INSTAGRAM_STANDALONE",
+          "INSTAGRAM_TOKEN", "INSTAGRAM_USER_ID",
+          "INSTAGRAM_STANDALONE", "INSTAGRAM_UEBER_FACEBOOK",
           "FACEBOOK_PAGE_TOKEN", "FACEBOOK_PAGE_ID",
           "TIKTOK_ACCESS_TOKEN")
 
@@ -550,17 +585,17 @@ def selbsttest() -> None:
         # Die beiden Meta-Wege muessen auf verschiedene Adressen zeigen.
         # Das ist keine Kosmetik: Ein Token vom Instagram-Login gilt an
         # graph.facebook.com nicht und umgekehrt.
-        with umgebung(INSTAGRAM_STANDALONE="1"):
+        with umgebung(INSTAGRAM_UEBER_FACEBOOK=None):
             if GRAPH_IG not in instagram("Test", True, "https://x/b.jpg"):
                 fehler.append("Instagram-Login nutzt nicht graph.instagram.com")
-        with umgebung(INSTAGRAM_STANDALONE=None):
+        with umgebung(INSTAGRAM_UEBER_FACEBOOK="ja"):
             if GRAPH not in instagram("Test", True, "https://x/b.jpg"):
                 fehler.append("Facebook-Login nutzt nicht graph.facebook.com")
 
         # --token-erneuern gilt nur fuer den Instagram-Login. Auf dem
         # Seiten-Weg muss es sauber ueberspringen statt eine
         # OAuthException zu werfen, die nach kaputtem Token aussieht.
-        with umgebung(INSTAGRAM_STANDALONE=None):
+        with umgebung(INSTAGRAM_UEBER_FACEBOOK="ja"):
             if "übersprungen" not in instagram_token_erneuern():
                 fehler.append("Token-Erneuerung läuft auf dem Seiten-Weg an")
 

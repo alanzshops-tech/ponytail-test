@@ -73,7 +73,7 @@ passt.
 | Adresse | `graph.instagram.com` | `graph.facebook.com` |
 | Facebook-Seite nötig? | **nein** | ja, verknüpft |
 | Token | 60 Tage, verlängerbar | Seiten-Token, läuft nicht ab |
-| Secret `INSTAGRAM_STANDALONE` | **setzen** | leer lassen |
+| Secret nötig? | **keins** (Standard) | `INSTAGRAM_UEBER_FACEBOOK` setzen |
 | `token_erneuern` zuständig? | ja | nein (braucht es nicht) |
 
 Für Homeeins ist der **Instagram-Login** der richtige: weniger
@@ -110,9 +110,16 @@ der App ein Recht. Umstellen in der Instagram-App:
 9. Direkt neben dem Token steht die **Instagram-Konto-ID** — eine lange
    Zahl, die mit `1784…` beginnt. Das ist `INSTAGRAM_USER_ID`, **nicht**
    der @-Name.
-10. Drei Secrets eintragen:
-    `INSTAGRAM_TOKEN`, `INSTAGRAM_USER_ID`, und
-    `INSTAGRAM_STANDALONE` = `1`
+10. Ein Secret eintragen: **`INSTAGRAM_TOKEN`**. Die Konto-ID holt
+    die Zugangsprobe selbst und nennt sie zum Nachtragen.
+
+    > **Kein Secret mit dem Wert `1` oder einer anderen kurzen Zahl
+    > anlegen.** GitHub ersetzt jedes Vorkommen eines Secret-Wertes im
+    > Protokoll durch `***`. Ein Secret `1` schwärzt jede `1` im ganzen
+    > Protokoll — aus `"code":190` wird `"code":***9`, aus einem Datum
+    > `2025-09-***9`. Genau das ist am 03.09.2026 passiert und hat die
+    > Fehlersuche behindert. Deshalb ist der Instagram-Login jetzt der
+    > Standard und braucht gar kein Schaltsecret mehr.
 11. **Actions → Posten → Run workflow**, `kanaele` = `instagram`,
     Haken bei **`zugang`**
 
@@ -122,8 +129,9 @@ Bei Schritt 11 muss dort stehen:
   instagram  OK — Konto @deinname (Instagram-Login)
 ```
 
-Steht in der Klammer **Facebook-Login**, fehlt `INSTAGRAM_STANDALONE`.
-Steht dort ein `FEHLER`, nennt die Meldung den Grund.
+Steht in der Klammer **Facebook-Login**, ist versehentlich
+`INSTAGRAM_UEBER_FACEBOOK` gesetzt. Steht dort ein `FEHLER`, nennt die
+Meldung den Grund.
 
 > Die Menübezeichnungen in Metas Konsole ändern sich mehrmals im Jahr,
 > und diese Arbeitsumgebung erreicht `developers.facebook.com` nicht —
@@ -136,7 +144,7 @@ Steht dort ein `FEHLER`, nennt die Meldung den Grund.
 
 Zusätzlich `FACEBOOK_PAGE_TOKEN` (das **Seiten**-Token, nicht das
 Nutzertoken) und `FACEBOOK_PAGE_ID`. Facebook läuft immer über
-`graph.facebook.com` und ist von `INSTAGRAM_STANDALONE` unberührt.
+`graph.facebook.com` und ist vom Instagram-Weg unberührt.
 
 ### Danach: alle zwei Monate das Token verlängern
 
@@ -190,7 +198,8 @@ schiebt die Bytes selbst hoch. **Keine Domain-Verifizierung nötig.**
 | `url_ownership_unverified` | passiert automatisch — das Werkzeug weicht auf FILE_UPLOAD aus |
 | `übersprungen (Instagram braucht ein Bild)` | `bild` mit einer öffentlichen `https`-Adresse füllen |
 | `ÜBERSPRUNGEN — Bild muss öffentlich per https` | `http` reicht nicht, Instagram holt es selbst ab |
-| Zugangsprobe sagt `(Facebook-Login)`, obwohl Instagram-Login eingerichtet ist | Secret `INSTAGRAM_STANDALONE` fehlt |
+| Zugangsprobe sagt `(Facebook-Login)`, obwohl Instagram-Login eingerichtet ist | Secret `INSTAGRAM_UEBER_FACEBOOK` ist gesetzt und gehört weg |
+| `Cannot parse access token` | **Nicht abgelaufen** — die Zeichenkette ist gar kein Token. Vollständig neu kopieren; nicht App-ID oder App-Geheimnis erwischen |
 
 Die Zugangsprobe (`zugang: true`) übersetzt die API-Meldungen in diese
 Sätze. Sie lässt sich beliebig oft laufen, weil sie nichts postet.
