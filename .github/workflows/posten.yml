@@ -46,6 +46,10 @@ on:
         description: "Probelauf — nichts senden, nur zeigen"
         type: boolean
         default: true
+      zugang:
+        description: "Nur prüfen, ob die Zugangsdaten stimmen (nichts posten)"
+        type: boolean
+        default: false
       token_erneuern:
         description: "Nur das Instagram-Token um 60 Tage verlängern"
         type: boolean
@@ -84,6 +88,7 @@ jobs:
           TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
         run: |
           python3 scripts/posten.py \
+            ${{ inputs.zugang && '--zugang' || '' }} \
             ${{ inputs.token_erneuern && '--token-erneuern' || '' }} \
             --text "${{ inputs.text }}" \
             --kanaele "${{ inputs.kanaele }}" \

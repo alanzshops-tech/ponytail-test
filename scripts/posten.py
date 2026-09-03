@@ -314,6 +314,110 @@ KANAELE = {"mastodon": mastodon, "bluesky": bluesky,
 
 # ---------------------------------------------------------- Pruefungen
 
+# ------------------------------------------------------- Zugangsprobe
+#
+# Der eigentliche Engpass beim Aufsetzen ist nicht das Posten, sondern
+# die Frage "stimmt mein Token ueberhaupt?". Wer das erst beim ersten
+# echten Beitrag erfaehrt, bekommt eine kryptische Meldung und weiss
+# nicht, ob Token, Konto-ID oder Berechtigung schuld ist.
+#
+# Diese Probe ruft je Kanal einen LESENDEN Endpunkt auf. Sie
+# veroeffentlicht nichts und kann deshalb beliebig oft laufen.
+
+def zugang_pruefen(kanal: str) -> str:
+    try:
+        if kanal == "mastodon":
+            token = hole("MASTODON_TOKEN")
+            if not token:
+                return "— kein Token gesetzt"
+            server = hole("MASTODON_SERVER") or "https://mastodon.social"
+            a = anfrage(f"{server.rstrip('/')}/api/v1/accounts/"
+                        f"verify_credentials",
+                        kopf={"Authorization": f"Bearer {token}"},
+                        methode="GET")
+            return f"OK — angemeldet als @{a.get('username')}"
+
+        if kanal == "bluesky":
+            k, pw = hole("BLUESKY_HANDLE"), hole("BLUESKY_APP_PASSWORD")
+            if not (k and pw):
+                return "— Handle oder App-Passwort fehlt"
+            a = anfrage("https://bsky.social/xrpc/"
+                        "com.atproto.server.createSession",
+                        {"identifier": k, "password": pw})
+            return f"OK — angemeldet als {a.get('handle')}"
+
+        if kanal == "telegram":
+            token, chat = hole("TELEGRAM_BOT_TOKEN"), hole("TELEGRAM_CHAT_ID")
+            if not token:
+                return "— kein Bot-Token gesetzt"
+            a = anfrage(f"https://api.telegram.org/bot{token}/getMe",
+                        methode="GET")
+            name = (a.get("result") or {}).get("username")
+            fehlt = "" if chat else "  ACHTUNG: TELEGRAM_CHAT_ID fehlt noch"
+            return f"OK — Bot @{name}{fehlt}"
+
+        if kanal == "discord":
+            haken = hole("DISCORD_WEBHOOK")
+            if not haken:
+                return "— keine Webhook-URL gesetzt"
+            a = anfrage(haken, methode="GET")
+            return f"OK — Webhook „{a.get('name')}“ in Kanal {a.get('channel_id')}"
+
+        if kanal == "instagram":
+            token, nutzer = hole("INSTAGRAM_TOKEN"), hole("INSTAGRAM_USER_ID")
+            if not (token and nutzer):
+                return "— Token oder Konto-ID fehlt"
+            basis = GRAPH_IG if hole("INSTAGRAM_STANDALONE") else GRAPH
+            a = anfrage(f"{basis}/{nutzer}?fields=username&"
+                        f"access_token={token}", methode="GET")
+            return f"OK — Konto @{a.get('username')}"
+
+        if kanal == "facebook":
+            token, seite = hole("FACEBOOK_PAGE_TOKEN"), hole("FACEBOOK_PAGE_ID")
+            if not (token and seite):
+                return "— Token oder Seiten-ID fehlt"
+            a = anfrage(f"{GRAPH}/{seite}?fields=name&access_token={token}",
+                        methode="GET")
+            return f"OK — Seite „{a.get('name')}“"
+
+        if kanal == "tiktok":
+            token = hole("TIKTOK_ACCESS_TOKEN")
+            if not token:
+                return "— kein Token gesetzt"
+            a = anfrage("https://open.tiktokapis.com/v2/user/info/"
+                        "?fields=display_name",
+                        kopf={"Authorization": f"Bearer {token}"},
+                        methode="GET")
+            name = ((a.get("data") or {}).get("user") or {}).get("display_name")
+            return f"OK — Konto {name}"
+    except Exception as e:                              # noqa: BLE001
+        return f"FEHLER — {deuten(kanal, str(e))}"
+    return "— unbekannter Kanal"
+
+
+def deuten(kanal: str, meldung: str) -> str:
+    """Aus einer API-Meldung eine Handlungsanweisung machen.
+
+    Ohne das steht da "HTTP 400: OAuthException" und man sitzt eine
+    Stunde daran. Die Zuordnungen stammen aus den Meldungen, die die
+    Dienste tatsaechlich schicken.
+    """
+    m = meldung.lower()
+    if "401" in m or "invalid_token" in m or "access_token_invalid" in m:
+        return (f"{meldung[:90]}\n              -> Token ungültig oder "
+                f"abgelaufen. Bei Instagram: --token-erneuern")
+    if "190" in m and "expired" in m:
+        return f"{meldung[:90]}\n              -> Token abgelaufen"
+    if "permission" in m or "scope" in m or "#200" in m:
+        return (f"{meldung[:90]}\n              -> Berechtigung fehlt. "
+                f"Prüfen, ob die App das Recht hat und das Konto ein "
+                f"Business-/Creator-Konto ist")
+    if "404" in m:
+        return (f"{meldung[:90]}\n              -> ID stimmt nicht "
+                f"(Konto-, Seiten- oder Kanal-ID prüfen)")
+    return meldung[:120]
+
+
 def senden(kanal: str, text: str, probe: bool, bild: str,
            video: str) -> str:
     """Ruft den Kanal mit dem Medium auf, das er braucht.
@@ -449,12 +553,20 @@ def main() -> None:
     p.add_argument("--probe", action="store_true",
                    help="nichts senden, nur zeigen was passieren würde")
     p.add_argument("--selbsttest", action="store_true")
+    p.add_argument("--zugang", action="store_true",
+                   help="nur prüfen, ob die Zugangsdaten stimmen — "
+                        "veröffentlicht nichts")
     p.add_argument("--token-erneuern", action="store_true",
                    help="Instagram-Token um 60 Tage verlängern")
     a = p.parse_args()
 
     selbsttest()
     if a.selbsttest:
+        return
+    if a.zugang:
+        print("\nZugangsprobe — es wird nichts veröffentlicht.\n")
+        for k in sorted(KANAELE):
+            print(f"  {k:10s} {zugang_pruefen(k)}")
         return
     if a.token_erneuern:
         print("\n" + instagram_token_erneuern())
