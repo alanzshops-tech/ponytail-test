@@ -200,6 +200,27 @@ schiebt die Bytes selbst hoch. **Keine Domain-Verifizierung nötig.**
 | `ÜBERSPRUNGEN — Bild muss öffentlich per https` | `http` reicht nicht, Instagram holt es selbst ab |
 | Zugangsprobe sagt `(Facebook-Login)`, obwohl Instagram-Login eingerichtet ist | Secret `INSTAGRAM_UEBER_FACEBOOK` ist gesetzt und gehört weg |
 | `Cannot parse access token` | **Nicht abgelaufen** — die Zeichenkette ist gar kein Token. Vollständig neu kopieren; nicht App-ID oder App-Geheimnis erwischen |
+| `das eingetragene Token …` | Die Zugangsprobe hat schon an der Gestalt gesehen, was eingetragen wurde — Ziffernfolge, App-Geheimnis, Facebook-Token, abgeschnitten oder mit Leerzeichen. Der Satz nennt den Fall |
+
+### Woran man das Richtige erkennt
+
+Auf der Einrichtungsseite stehen mehrere Werte untereinander. Nur einer
+davon ist das Token:
+
+| | sieht so aus | |
+|---|---|---|
+| App-ID | 15–16 **Ziffern** | ❌ |
+| App-Geheimnis | 32 Zeichen | ❌ |
+| Konto-ID | 17 Ziffern, ab `1784…` | ❌ (holt die Zugangsprobe selbst) |
+| **Zugriffstoken** | **~200 Zeichen, beginnt mit `IGAA` oder `IGQ`** | ✅ |
+
+Ein Token, das mit `EAA` anfängt, ist ein **Facebook**-Token — richtig
+für die Seite, falsch für diesen Weg.
+
+**Nimm das Kopiersymbol, nicht die Maus.** Bei 200 Zeichen markiert ein
+Doppelklick nur einen Teil, und ein halbes Token meldet Meta als
+„Cannot parse access token" — dieselbe Meldung wie bei einem völlig
+falschen Wert.
 
 Die Zugangsprobe (`zugang: true`) übersetzt die API-Meldungen in diese
 Sätze. Sie lässt sich beliebig oft laufen, weil sie nichts postet.

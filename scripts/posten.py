@@ -359,6 +359,50 @@ KANAELE = {"mastodon": mastodon, "bluesky": bluesky,
 # Diese Probe ruft je Kanal einen LESENDEN Endpunkt auf. Sie
 # veroeffentlicht nichts und kann deshalb beliebig oft laufen.
 
+def token_form(token: str) -> str | None:
+    """Sagt VOR dem Aufruf, ob das ueberhaupt ein Token sein kann.
+
+    Anlass ist der Lauf vom 03.09.2026: Meta antwortete mit "Cannot
+    parse access token", und diese Meldung sagt nur, dass die
+    Zeichenkette unlesbar war -- nicht, was stattdessen dort stand. Auf
+    derselben Seite der Konsole stehen App-ID, App-Geheimnis und Token
+    untereinander, und auf einem Telefon markiert man leicht das
+    Falsche oder nur die Haelfte.
+
+    Diese Pruefung braucht kein Netz und nennt den Verdacht. Sie gibt
+    None zurueck, wenn nichts auffaellt -- ein Urteil "Token gueltig"
+    faellt sie NICHT, das kann nur Meta.
+
+    Der Token-Wert selbst wird nie ausgegeben, nur seine Gestalt.
+    """
+    roh = token.strip()
+    if any(z.isspace() for z in roh):
+        return ("enthält ein Leerzeichen oder einen Zeilenumbruch — beim "
+                "Kopieren ist etwas mitgekommen")
+    if roh.isdigit():
+        return (f"besteht nur aus {len(roh)} Ziffern — das ist eine ID "
+                f"(App-ID oder Konto-ID), kein Token")
+    if len(roh) <= 40:
+        # Die Reihenfolge zaehlt: Was richtig mit IG anfaengt und zu kurz
+        # ist, wurde beim Kopieren abgeschnitten -- ein anderer Fehler
+        # mit einer anderen Abhilfe als "das Falsche erwischt".
+        if roh.startswith("IG"):
+            return (f"fängt richtig mit „IG“ an, ist aber nur {len(roh)} "
+                    f"Zeichen lang — beim Kopieren abgeschnitten. Ein "
+                    f"Token hat um die 200")
+        return (f"ist nur {len(roh)} Zeichen lang — ein Token hat um die "
+                f"200. So kurz ist das App-Geheimnis")
+    if roh.startswith("EAA"):
+        return ("beginnt mit EAA — das ist ein Facebook-Token, kein "
+                "Instagram-Token. Entweder das aus dem "
+                "Instagram-Business-Login holen oder "
+                "INSTAGRAM_UEBER_FACEBOOK setzen")
+    if not roh.startswith("IG"):
+        return (f"beginnt mit {roh[:2]!r} statt mit „IG“ — Instagram-Token "
+                f"fangen mit IGAA oder IGQ an")
+    return None
+
+
 def zugang_pruefen(kanal: str) -> str:
     try:
         if kanal == "mastodon":
@@ -402,6 +446,12 @@ def zugang_pruefen(kanal: str) -> str:
             token, nutzer = hole("INSTAGRAM_TOKEN"), hole("INSTAGRAM_USER_ID")
             if not token:
                 return "— Token fehlt"
+            # Erst die Gestalt, dann das Netz. Meta sagt bei einer
+            # unlesbaren Zeichenkette nur "Cannot parse access token";
+            # was stattdessen dort steht, sagt es nicht.
+            verdacht = token_form(token)
+            if verdacht:
+                return f"— das eingetragene Token {verdacht}"
             if not nutzer:
                 # In Metas Konsole stehen mehrere lange Zahlen
                 # nebeneinander -- App-ID, Seiten-ID, Konto-ID -- und die
@@ -620,6 +670,36 @@ def selbsttest() -> None:
                   or "unverified" in meldung.lower())
         if trifft != weicht_aus:
             fehler.append(f"Ausweichregel falsch bei {meldung!r}")
+
+    # Die Gestaltpruefung des Tokens, gegen echte Faelle. Der Positivfall
+    # gehoert zwingend dazu: Eine Pruefung, die alles beanstandet, haelt
+    # auch das richtige Token auf -- und dann sucht man den Fehler dort,
+    # wo keiner ist. Die Laengen und Praefixe stammen aus dem, was Meta
+    # auf der Einrichtungsseite nebeneinander anzeigt.
+    echt_ig = "IGAA" + "x" * 190
+    for wert, soll, was in (
+            (echt_ig,                        None,          "echtes IG-Token"),
+            ("IGQVJ" + "y" * 160,            None,          "älteres IG-Token"),
+            ("17841400000000000",            "Ziffern",     "Konto-ID"),
+            ("1234567890123456",             "Ziffern",     "App-ID"),
+            ("a3f" + "b" * 29,               "Zeichen lang", "App-Geheimnis"),
+            ("EAA" + "z" * 190,              "EAA",         "Facebook-Token"),
+            ("IGAA" + "x" * 100 + " " + "x" * 90, "Leerzeichen", "mit Umbruch"),
+            ("IGAA" + "x" * 20,              "abgeschnitten", "halb kopiert"),
+    ):
+        ergebnis = token_form(wert)
+        if soll is None and ergebnis is not None:
+            fehler.append(f"Tokenform: {was} fälschlich beanstandet "
+                          f"({ergebnis})")
+        if soll is not None and (ergebnis is None or soll not in ergebnis):
+            fehler.append(f"Tokenform: {was} nicht erkannt ({ergebnis})")
+
+    # Und die Regel, die ueber allem steht: Das Token darf nie in der
+    # Ausgabe landen, auch nicht in Bruchstuecken.
+    for wert in (echt_ig, "EAA" + "z" * 190):
+        meldung = token_form(wert) or ""
+        if wert[:12] in meldung:
+            fehler.append("Tokenform gibt Teile des Tokens aus")
 
     # Die Zugangsprobe darf ohne Zugangsdaten nichts ins Netz schicken.
     # Sie ruft sonst genau dann eine Adresse auf, wenn am wenigsten
