@@ -1,0 +1,1971 @@
+{
+  "summary": {
+    "score": 0.78,
+    "categories": {
+      "performance": {
+        "score": 0.62,
+        "scores": [
+          0.65,
+          0.6,
+          0.6,
+          0.63,
+          0.61,
+          0.62,
+          0.6,
+          0.6,
+          0.63,
+          0.66,
+          0.63,
+          0.63,
+          0.62,
+          0.62,
+          0.57,
+          0.6,
+          0.62,
+          0.61,
+          0.62,
+          0.63,
+          0.62,
+          0.63,
+          0.63,
+          0.63,
+          0.62,
+          0.63,
+          0.62,
+          0.64,
+          0.64,
+          0.64,
+          0.62,
+          0.68,
+          0.59,
+          0.62
+        ],
+        "averageScore": 0.62
+      },
+      "accessibility": {
+        "score": 0.89,
+        "scores": [
+          0.94,
+          0.92,
+          0.94,
+          0.94,
+          0.9,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.9,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.94,
+          0.89,
+          0.89,
+          0.89,
+          0.89,
+          0.89,
+          0.89,
+          0.89,
+          0.89
+        ],
+        "averageScore": 0.93
+      },
+      "best-practices": {
+        "score": 0.54,
+        "scores": [
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.54,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.58,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54,
+          0.54
+        ],
+        "averageScore": 0.57
+      },
+      "seo": {
+        "score": 0.92,
+        "scores": [
+          1,
+          0.92,
+          1,
+          1,
+          0.92,
+          1,
+          1,
+          1,
+          1,
+          0.92,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0.92,
+          0.92,
+          0.92,
+          1,
+          1,
+          0.92,
+          1,
+          0.92,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0.92
+        ],
+        "averageScore": 0.98
+      }
+    },
+    "metrics": {
+      "largest-contentful-paint": {
+        "numericValue": 7857.0199999999995,
+        "displayValue": "7.9 s",
+        "numericValues": [
+          4969.648,
+          22691.573,
+          22396.823549999986,
+          20069.020549999987,
+          24209.581799999993,
+          24091.865499999978,
+          22853.20264999999,
+          20901.456000000013,
+          19845.41480000002,
+          6419.523550000001,
+          23961.919199999993,
+          24024.512150000017,
+          23828.724000000002,
+          23491.538149999982,
+          21267.158550000022,
+          24770.180699999994,
+          23553.52670000001,
+          24239.235449999986,
+          22930.952536317352,
+          22958.489913397643,
+          22932.456800000004,
+          23189.05045000001,
+          28229.806500000013,
+          24082.361749999996,
+          23005.953700000013,
+          20772.487499999996,
+          6976.990449999998,
+          7805.36103,
+          5398.042599999999,
+          6556.937389999998,
+          7470.037445000002,
+          5154.2599500000015,
+          7660.2633200000055,
+          7857.0199999999995
+        ],
+        "averageNumericValue": 18251.92
+      },
+      "cumulative-layout-shift": {
+        "numericValue": 0,
+        "displayValue": "0",
+        "numericValues": [
+          0.0001773814956512436,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.0001020964887393855,
+          0,
+          0,
+          0,
+          0.002606029806942854,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "averageNumericValue": 0
+      },
+      "first-contentful-paint": {
+        "numericValue": 2731.919,
+        "displayValue": "2.7 s",
+        "numericValues": [
+          2251.4875,
+          2038.683,
+          2291.1285499999994,
+          2097.6044,
+          2352.3999999999996,
+          2376.6394999999998,
+          2224.7514,
+          2113.6043,
+          2093.8048,
+          2088.3174,
+          2169.4291388635056,
+          2301.8752999999997,
+          2299.2324499999995,
+          2482.1921500000003,
+          2091.3101,
+          2389.4010500000004,
+          2462.4816000000005,
+          2370.5123,
+          2216.9258485830537,
+          2228.3785514940714,
+          2307.4568,
+          2223.1114,
+          2253.6444,
+          2306.8852500000003,
+          2250.3471,
+          2034.7826499999996,
+          2745.73885,
+          2164.7268999999997,
+          2978.3774000000003,
+          2577.07055,
+          2489.8557,
+          2557.625525,
+          2292.4083,
+          2731.919
+        ],
+        "averageNumericValue": 2319.24
+      },
+      "total-blocking-time": {
+        "numericValue": 6.5,
+        "displayValue": "10 ms",
+        "numericValues": [
+          251,
+          224,
+          174,
+          97,
+          144,
+          109,
+          171,
+          210.9999999999991,
+          94,
+          34,
+          58,
+          62,
+          72,
+          41,
+          295,
+          160,
+          88,
+          129,
+          117,
+          89,
+          95,
+          25,
+          29,
+          35.99999999999909,
+          93.99999999999818,
+          51,
+          97,
+          45.5,
+          115,
+          32.49999999999818,
+          119,
+          101.5,
+          236,
+          6.5
+        ],
+        "averageNumericValue": 108.91
+      },
+      "max-potential-fid": {
+        "numericValue": 58,
+        "displayValue": "60 ms",
+        "numericValues": [
+          152,
+          121,
+          180,
+          100,
+          121,
+          96,
+          133,
+          104.99999999999909,
+          92,
+          66,
+          84,
+          107,
+          75,
+          69,
+          151,
+          98,
+          107,
+          103,
+          110,
+          82,
+          106,
+          74,
+          65,
+          81.99999999999909,
+          92,
+          71,
+          103,
+          109,
+          148,
+          89,
+          113,
+          113,
+          181,
+          58
+        ],
+        "averageNumericValue": 104.59
+      },
+      "interactive": {
+        "numericValue": 17059.631635000005,
+        "displayValue": "17.1 s",
+        "numericValues": [
+          20980.855400000004,
+          22691.573,
+          22404.325674999985,
+          20076.521754999987,
+          24218.086539999993,
+          24091.865499999978,
+          22853.20264999999,
+          20916.457390000018,
+          19845.41480000002,
+          14428.968050000009,
+          24000.718769999992,
+          24032.056315000016,
+          23843.72713,
+          23529.06912499998,
+          21334.66417500002,
+          24800.348079999996,
+          23583.54954000001,
+          24298.547934999988,
+          22939.52360397322,
+          22958.489913397643,
+          22932.456800000007,
+          23211.963895000008,
+          28229.806500000013,
+          24089.870535000002,
+          23013.454280000013,
+          20772.4875,
+          20541.9401355,
+          17524.70821239747,
+          17341.83818191608,
+          15635.418858499994,
+          23614.763318702397,
+          15449.88940000001,
+          16583.280385000002,
+          17059.631635000005
+        ],
+        "averageNumericValue": 21583.22
+      }
+    }
+  },
+  "routes": [
+    {
+      "path": "/",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.65
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 4969.648,
+          "displayValue": "5.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0001773814956512436,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2251.4875,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 251,
+          "displayValue": "250 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 152,
+          "displayValue": "150 ms"
+        },
+        "interactive": {
+          "numericValue": 20980.855400000004,
+          "displayValue": "21.0 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
+          "score": 0.92
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22691.573,
+          "displayValue": "22.7 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2038.683,
+          "displayValue": "2.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 224,
+          "displayValue": "220 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 121,
+          "displayValue": "120 ms"
+        },
+        "interactive": {
+          "numericValue": 22691.573,
+          "displayValue": "22.7 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/balkon-terrasse-gemuetlich-einrichten",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22396.823549999986,
+          "displayValue": "22.4 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2291.1285499999994,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 174,
+          "displayValue": "170 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 180,
+          "displayValue": "180 ms"
+        },
+        "interactive": {
+          "numericValue": 22404.325674999985,
+          "displayValue": "22.4 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/buerostuhl-ergonomie-worauf-es-ankommt",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 20069.020549999987,
+          "displayValue": "20.1 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2097.6044,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 97,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 100,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 20076.521754999987,
+          "displayValue": "20.1 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/digitale-thermosflasche-test-innovation-fur-unterwegs",
+      "score": 0.74,
+      "categories": {
+        "performance": {
+          "score": 0.61
+        },
+        "accessibility": {
+          "score": 0.9
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24209.581799999993,
+          "displayValue": "24.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2352.3999999999996,
+          "displayValue": "2.4 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 144,
+          "displayValue": "140 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 121,
+          "displayValue": "120 ms"
+        },
+        "interactive": {
+          "numericValue": 24218.086539999993,
+          "displayValue": "24.2 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/erhoehtes-hundebett-gelenke-aeltere-hunde",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24091.865499999978,
+          "displayValue": "24.1 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2376.6394999999998,
+          "displayValue": "2.4 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 109,
+          "displayValue": "110 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 96,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 24091.865499999978,
+          "displayValue": "24.1 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/hundebett-groesse-welche-laenge-passt",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22853.20264999999,
+          "displayValue": "22.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2224.7514,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 171,
+          "displayValue": "170 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 133,
+          "displayValue": "130 ms"
+        },
+        "interactive": {
+          "numericValue": 22853.20264999999,
+          "displayValue": "22.9 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/hundefreundliches-wohnzimmer-einrichten",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 20901.456000000013,
+          "displayValue": "20.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2113.6043,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 210.9999999999991,
+          "displayValue": "210 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 104.99999999999909,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 20916.457390000018,
+          "displayValue": "20.9 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/kratzbaum-groesse-material-standort",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 19845.41480000002,
+          "displayValue": "19.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2093.8048,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 94,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 92,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 19845.41480000002,
+          "displayValue": "19.8 s"
+        }
+      }
+    },
+    {
+      "path": "/blogs/news/nachhaltige-buroausstattung-umweltfreundlich-arbeiten",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.66
+        },
+        "accessibility": {
+          "score": 0.9
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 6419.523550000001,
+          "displayValue": "6.4 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2088.3174,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 34,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 66,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 14428.968050000009,
+          "displayValue": "14.4 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/bad-organisation",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23961.919199999993,
+          "displayValue": "24.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2169.4291388635056,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 58,
+          "displayValue": "60 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 84,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 24000.718769999992,
+          "displayValue": "24.0 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/bestesell-startbutton",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24024.512150000017,
+          "displayValue": "24.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2301.8752999999997,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 62,
+          "displayValue": "60 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 107,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 24032.056315000016,
+          "displayValue": "24.0 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/bollerwagen-transport",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23828.724000000002,
+          "displayValue": "23.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2299.2324499999995,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 72,
+          "displayValue": "70 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 75,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 23843.72713,
+          "displayValue": "23.8 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/mobel-1",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23491.538149999982,
+          "displayValue": "23.5 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2482.1921500000003,
+          "displayValue": "2.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 41,
+          "displayValue": "40 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 69,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 23529.06912499998,
+          "displayValue": "23.5 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/ordnung-aufbewahrung",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.57
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 21267.158550000022,
+          "displayValue": "21.3 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2091.3101,
+          "displayValue": "2.1 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 295,
+          "displayValue": "300 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 151,
+          "displayValue": "150 ms"
+        },
+        "interactive": {
+          "numericValue": 21334.66417500002,
+          "displayValue": "21.3 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/reisen-unterwegs",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.6
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24770.180699999994,
+          "displayValue": "24.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2389.4010500000004,
+          "displayValue": "2.4 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 160,
+          "displayValue": "160 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 98,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 24800.348079999996,
+          "displayValue": "24.8 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/schlafzimmer",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23553.52670000001,
+          "displayValue": "23.6 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2462.4816000000005,
+          "displayValue": "2.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 88,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 107,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 23583.54954000001,
+          "displayValue": "23.6 s"
+        }
+      }
+    },
+    {
+      "path": "/collections/wohnen-deko",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.61
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24239.235449999986,
+          "displayValue": "24.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2370.5123,
+          "displayValue": "2.4 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 129,
+          "displayValue": "130 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 103,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 24298.547934999988,
+          "displayValue": "24.3 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-collections",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22930.952536317352,
+          "displayValue": "22.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2216.9258485830537,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 117,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 110,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 22939.52360397322,
+          "displayValue": "22.9 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-pages",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22958.489913397643,
+          "displayValue": "23.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2228.3785514940714,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 89,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 82,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 22958.489913397643,
+          "displayValue": "23.0 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/avada-sitemap-products",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 22932.456800000004,
+          "displayValue": "22.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2307.4568,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 95,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 106,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 22932.456800000007,
+          "displayValue": "22.9 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/contact",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23189.05045000001,
+          "displayValue": "23.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0001020964887393855,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2223.1114,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 25,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 74,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 23211.963895000008,
+          "displayValue": "23.2 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/data-sharing-opt-out",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 28229.806500000013,
+          "displayValue": "28.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2253.6444,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 29,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 65,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 28229.806500000013,
+          "displayValue": "28.2 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/eu-widerrufsformular",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 24082.361749999996,
+          "displayValue": "24.1 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2306.8852500000003,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 35.99999999999909,
+          "displayValue": "40 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 81.99999999999909,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 24089.870535000002,
+          "displayValue": "24.1 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/gdpr-compliance",
+      "score": 0.79,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 23005.953700000013,
+          "displayValue": "23.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2250.3471,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 93.99999999999818,
+          "displayValue": "90 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 92,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 23013.454280000013,
+          "displayValue": "23.0 s"
+        }
+      }
+    },
+    {
+      "path": "/pages/produkte",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.63
+        },
+        "accessibility": {
+          "score": 0.94
+        },
+        "best-practices": {
+          "score": 0.58
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 20772.487499999996,
+          "displayValue": "20.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.002606029806942854,
+          "displayValue": "0.003"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2034.7826499999996,
+          "displayValue": "2.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 51,
+          "displayValue": "50 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 71,
+          "displayValue": "70 ms"
+        },
+        "interactive": {
+          "numericValue": 20772.4875,
+          "displayValue": "20.8 s"
+        }
+      }
+    },
+    {
+      "path": "/products/aufbewahrungskorb-deckel-37cm-gross",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 6976.990449999998,
+          "displayValue": "7.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2745.73885,
+          "displayValue": "2.7 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 97,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 103,
+          "displayValue": "100 ms"
+        },
+        "interactive": {
+          "numericValue": 20541.9401355,
+          "displayValue": "20.5 s"
+        }
+      }
+    },
+    {
+      "path": "/products/garden-trolley-garden-trolley-garden-trolley-garden-trolley",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7805.36103,
+          "displayValue": "7.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2164.7268999999997,
+          "displayValue": "2.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 45.5,
+          "displayValue": "50 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 109,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 17524.70821239747,
+          "displayValue": "17.5 s"
+        }
+      }
+    },
+    {
+      "path": "/products/hard-shell-trolley-set-3-pcs-abs-hard-shell-trolley-set-3",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 5398.042599999999,
+          "displayValue": "5.4 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2978.3774000000003,
+          "displayValue": "3.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 115,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 148,
+          "displayValue": "150 ms"
+        },
+        "interactive": {
+          "numericValue": 17341.83818191608,
+          "displayValue": "17.3 s"
+        }
+      }
+    },
+    {
+      "path": "/products/plant-pots-2-pcs-blue-grey-30x-polypropylene",
+      "score": 0.77,
+      "categories": {
+        "performance": {
+          "score": 0.64
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 6556.937389999998,
+          "displayValue": "6.6 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2577.07055,
+          "displayValue": "2.6 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 32.49999999999818,
+          "displayValue": "30 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 89,
+          "displayValue": "90 ms"
+        },
+        "interactive": {
+          "numericValue": 15635.418858499994,
+          "displayValue": "15.6 s"
+        }
+      }
+    },
+    {
+      "path": "/products/planter-80x30x27-5-cm-solid-acacia-wood-and",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7470.037445000002,
+          "displayValue": "7.5 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2489.8557,
+          "displayValue": "2.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 119,
+          "displayValue": "120 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 113,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 23614.763318702397,
+          "displayValue": "23.6 s"
+        }
+      }
+    },
+    {
+      "path": "/products/samt-sessel-design-armlehnen-holzbeine",
+      "score": 0.78,
+      "categories": {
+        "performance": {
+          "score": 0.68
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 5154.2599500000015,
+          "displayValue": "5.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2557.625525,
+          "displayValue": "2.6 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 101.5,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 113,
+          "displayValue": "110 ms"
+        },
+        "interactive": {
+          "numericValue": 15449.88940000001,
+          "displayValue": "15.4 s"
+        }
+      }
+    },
+    {
+      "path": "/products/upgrade-version-lash-lift-kit-iconsign-lifting-perm-eyelash-eyes-makeup-tools",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.59
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 1
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7660.2633200000055,
+          "displayValue": "7.7 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2292.4083,
+          "displayValue": "2.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 236,
+          "displayValue": "240 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 181,
+          "displayValue": "180 ms"
+        },
+        "interactive": {
+          "numericValue": 16583.280385000002,
+          "displayValue": "16.6 s"
+        }
+      }
+    },
+    {
+      "path": "/products/wooden-ladder-golf",
+      "score": 0.74,
+      "categories": {
+        "performance": {
+          "score": 0.62
+        },
+        "accessibility": {
+          "score": 0.89
+        },
+        "best-practices": {
+          "score": 0.54
+        },
+        "seo": {
+          "score": 0.92
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 7857.0199999999995,
+          "displayValue": "7.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 2731.919,
+          "displayValue": "2.7 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 6.5,
+          "displayValue": "10 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 58,
+          "displayValue": "60 ms"
+        },
+        "interactive": {
+          "numericValue": 17059.631635000005,
+          "displayValue": "17.1 s"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "metrics": {
+      "largest-contentful-paint": {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more about the Largest Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint/)",
+        "numericUnit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "description": "Cumulative Layout Shift measures the movement of visible elements within the viewport. [Learn more about the Cumulative Layout Shift metric](https://web.dev/articles/cls).",
+        "numericUnit": "unitless"
+      },
+      "first-contentful-paint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more about the First Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/).",
+        "numericUnit": "millisecond"
+      },
+      "total-blocking-time": {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more about the Total Blocking Time metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time/).",
+        "numericUnit": "millisecond"
+      },
+      "max-potential-fid": {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more about the Maximum Potential First Input Delay metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-max-potential-fid/).",
+        "numericUnit": "millisecond"
+      },
+      "interactive": {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "description": "Time to Interactive is the amount of time it takes for the page to become fully interactive. [Learn more about the Time to Interactive metric](https://developer.chrome.com/docs/lighthouse/performance/interactive/).",
+        "numericUnit": "millisecond"
+      }
+    },
+    "categories": {
+      "performance": {
+        "id": "performance",
+        "title": "Performance"
+      },
+      "accessibility": {
+        "id": "accessibility",
+        "title": "Accessibility"
+      },
+      "best-practices": {
+        "id": "best-practices",
+        "title": "Best Practices"
+      },
+      "seo": {
+        "id": "seo",
+        "title": "SEO"
+      }
+    }
+  }
+}

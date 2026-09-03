@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+dist/
+.reel-tmp/
+
+# Theme-Kopien: nur theme/live wird gepflegt (von theme.yml) und
+# gebraucht (von themecheck.py). Die anderen Kopien waren bis auf eine
+# Datei identisch damit, wurden nie gelesen und machten 80 Prozent des
+# Repositorys aus. Falls wieder eine gebraucht wird: als Artefakt des
+# Laufs, nicht als Commit.
+theme/sandbox-voll/
+theme/sandbox-neu/
+# `arbeitskopie/` ohne fuehrenden Schraegstrich griff auf jeder Ebene und
+# hat damit auch `theme/arbeitskopie/` verschluckt -- der Pull vom
+# 14.08.2026 lief durch, committete aber nichts. Jetzt nur noch die
+# Kopie an der Wurzel, nicht die im theme-Ordner.
+/arbeitskopie/
+
+# Vale-Binary wird von scripts/vale.sh geholt, nicht versioniert (11 MB)
+/.vale-bin/

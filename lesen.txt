@@ -1,0 +1,10 @@
+# Adressen, die der Runner lesen und nach gelesen/ ablegen soll.
+# Eine je Zeile. Zeilen mit # werden übersprungen.
+#
+# Für einen einmaligen Blick lieber "Run workflow" mit dem Feld urls
+# benutzen — diese Datei ist für das, was dauerhaft interessiert.
+
+https://www.homeeins.de/
+https://www.homeeins.de/collections/gartenmobel
+https://www.homeeins.de/collections/hunde
+https://www.homeeins.de/blogs/news/hundesofa-kaufberatung-worauf-achten

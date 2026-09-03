@@ -1,0 +1,256 @@
+[
+  {
+    "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad",
+    "anzahl_bloecke": 3,
+    "bloecke": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Homeeins",
+        "logo": "https://www.homeeins.de/cdn/shop/files/homeeins_gold8_7177c9fe-9f23-4e29-b8a1-637e5ffc4dbc.jpg?v=1706441587&width=500",
+        "sameAs": [
+          "https://x.com/homeeins?s=21",
+          "https://www.facebook.com/profile.php?id=100095079212499",
+          "https://pin.it/17AmzoHpU",
+          "https://www.instagram.com/homeeins.de?igsh=MXV6Z2kyanl1ZzVjMw%3D%3D&utm_source=qr",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.homeeins.de"
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen",
+        "description": "🪑 Nach Feierabend noch verspannt? Liegt oft am StuhlWer viele Stunden sitzt, merkt es abends im Rücken und Nacken. Dieser ergonomische Premium-Bürostuhl mit Liegefunktion, Fußstütze und Lendenkissen macht lange Arbeitstage spürbar angenehmer.⭐ Die Vorteile im ÜberblickArretierbare Liegefunktion (90–135°): Zurücklehnen für Pausen oder kurze ErholungNetz-Rückenlehne mit Lendenkissen: Atmungsaktiv, entlastet den unteren RückenAusziehbare Fußstütze &amp; verstellbare Kopfstütze: Perfekt für kurze Powernaps10,5 cm dickes Sitzpolster: Auch nach Stunden noch bequemBelastbar bis 125 kg: Stabiles 5-Stern-Fußkreuz mit leisen Rollen🔄 Passt sich dir anHöhenverstellung per Gasdruckfeder und 360° Drehfunktion sorgen dafür, dass der Stuhl zu unterschiedlichen Körpergrößen und Arbeitsplätzen passt.📋 ProduktdetailsRückenlehne: Netzstoff, atmungsaktivNeigung: 90–135°, arretierbarBelastbarkeit: bis 125 kgFarben: Blau, Grau, GrünEinsatzbereich: Büro, Homeoffice, Gaming✅ Dein Vorteil bei HomeeinsSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.      ",
+        "sku": "CJJT238883003CX",
+        "mpn": "CJJT238883003CX",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
+        },
+        "image": "//www.homeeins.de/cdn/shop/files/4461f4b5-b93a-4a99-93e8-f900864b7831.jpg?v=1767652269&width=1200",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad",
+          "priceCurrency": "EUR",
+          "price": 12999,
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
+      },
+      {
+        "@context": "http://schema.org/",
+        "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad#product",
+        "@type": "ProductGroup",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
+        },
+        "category": "Büro",
+        "description": "🪑 Nach Feierabend noch verspannt? Liegt oft am Stuhl\nWer viele Stunden sitzt, merkt es abends im Rücken und Nacken. Dieser ergonomische Premium-Bürostuhl mit Liegefunktion, Fußstütze und Lendenkissen macht lange Arbeitstage spürbar angenehmer.\n\n⭐ Die Vorteile im Überblick\n\n\nArretierbare Liegefunktion (90–135°): Zurücklehnen für Pausen oder kurze Erholung\n\nNetz-Rückenlehne mit Lendenkissen: Atmungsaktiv, entlastet den unteren Rücken\n\nAusziehbare Fußstütze &amp; verstellbare Kopfstütze: Perfekt für kurze Powernaps\n\n10,5 cm dickes Sitzpolster: Auch nach Stunden noch bequem\n\nBelastbar bis 125 kg: Stabiles 5-Stern-Fußkreuz mit leisen Rollen\n\n\n🔄 Passt sich dir an\nHöhenverstellung per Gasdruckfeder und 360° Drehfunktion sorgen dafür, dass der Stuhl zu unterschiedlichen Körpergrößen und Arbeitsplätzen passt.\n\n📋 Produktdetails\n\n\nRückenlehne: Netzstoff, atmungsaktiv\n\nNeigung: 90–135°, arretierbar\n\nBelastbarkeit: bis 125 kg\n\nFarben: Blau, Grau, Grün\n\nEinsatzbereich: Büro, Homeoffice, Gaming\n\n\n✅ Dein Vorteil bei Homeeins\nSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.\n\n\n  \n  \n  \n",
+        "hasVariant": [
+          {
+            "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096473923#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/e2385857-7abc-4a4d-993c-41b1765d2c5b.jpg?v=1774979490&width=1920",
+            "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen - Blau",
+            "offers": {
+              "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096473923#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/InStock",
+              "price": "129.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096473923"
+            },
+            "sku": "CJJT238883003CX"
+          },
+          {
+            "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096506691#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/30498a5e-d0d1-4fa9-b220-7f6faf775b03.jpg?v=1774979490&width=1920",
+            "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen - Grau",
+            "offers": {
+              "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096506691#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/OutOfStock",
+              "price": "129.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096506691"
+            },
+            "sku": "CJJT238883002BY"
+          },
+          {
+            "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096539459#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/408d72bf-4877-45e1-9c2d-a877c569f30f.jpg?v=1774979490&width=1920",
+            "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen - Grün",
+            "offers": {
+              "@id": "/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096539459#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/InStock",
+              "price": "129.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad?variant=54059096539459"
+            },
+            "sku": "CJJT238883004DW"
+          }
+        ],
+        "name": "Schreibtischstuhl mit Fußstütze – Bürostuhl mit 135° Relaxfunktion zum Zurücklehnen",
+        "productGroupID": "15233229128003",
+        "url": "https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad"
+      }
+    ],
+    "product_bloecke": 4,
+    "product_felder": {
+      "gtin": false,
+      "gtin8": false,
+      "gtin12": false,
+      "gtin13": false,
+      "gtin14": false,
+      "mpn": true,
+      "brand": true,
+      "sku": true,
+      "aggregateRating": false,
+      "review": false,
+      "offers": true,
+      "image": true,
+      "description": true
+    },
+    "offers_felder": {
+      "price": true,
+      "availability": true,
+      "priceCurrency": true
+    }
+  },
+  {
+    "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch",
+    "anzahl_bloecke": 3,
+    "bloecke": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Homeeins",
+        "logo": "https://www.homeeins.de/cdn/shop/files/homeeins_gold8_7177c9fe-9f23-4e29-b8a1-637e5ffc4dbc.jpg?v=1706441587&width=500",
+        "sameAs": [
+          "https://x.com/homeeins?s=21",
+          "https://www.facebook.com/profile.php?id=100095079212499",
+          "https://pin.it/17AmzoHpU",
+          "https://www.instagram.com/homeeins.de?igsh=MXV6Z2kyanl1ZzVjMw%3D%3D&utm_source=qr",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.homeeins.de"
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾",
+        "description": "🐱 Schluss mit zerkratzten Möbeln: der Kratzbaum, den deine Katze wirklich nutztSofa statt Kratzbaum? Viele Katzen ignorieren unattraktive Kratzsäulen und wählen stattdessen deine Möbel. Dieser kompakte Kratzbaum kombiniert Sisal-Kratzflächen, weichen Plüsch und Spielelemente – attraktiv genug, damit deine Katze ihn dem Sofa vorzieht.⭐ Die Vorteile im ÜberblickSisal-Kratzsäulen: Fördern natürliches Kratzverhalten und schonen deine MöbelWeicher Plüschbezug: Lädt zum Liegen und Dösen einIntegriertes Hängespielzeug: Extra Beschäftigung für neugierige KatzenKompakte Größe: Passt auch in kleine Wohnungen, mehrere Ebenen für BewegungFür Mehrkatzenhaushalte geeignet🏡 Design, das zu deinem Zuhause passtIn Blau, Grau oder Grau mit Pfotenmuster fügt sich der Kratzbaum unauffällig in dein Wohnzimmer, Schlafzimmer oder deinen Flur ein.📋 ProduktdetailsMaterial: Stabile Spanplatte, Plüschbezug (100% Polyester), SisalseilFarben: Blau, Grau, Grau mit PfotenmusterMaße: 30 × 30 × 65 cmSäulendurchmesser: ca. 5 cmMontage: Schnell und einfach✅ Dein Vorteil bei HomeeinsSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.      ",
+        "sku": "CJTC25964060001",
+        "mpn": "CJTC25964060001",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
+        },
+        "image": "//www.homeeins.de/cdn/shop/files/8a6dfd31-7926-4802-9ab2-74da24b208a9.jpg?v=1767652872&width=1200",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch",
+          "priceCurrency": "EUR",
+          "price": 4499,
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
+      },
+      {
+        "@context": "http://schema.org/",
+        "@id": "/products/kratzbaum-katzen-kompakt-plusch#product",
+        "@type": "ProductGroup",
+        "brand": {
+          "@type": "Brand",
+          "name": "Homeeins"
+        },
+        "category": "Haustiere",
+        "description": "🐱 Schluss mit zerkratzten Möbeln: der Kratzbaum, den deine Katze wirklich nutzt\nSofa statt Kratzbaum? Viele Katzen ignorieren unattraktive Kratzsäulen und wählen stattdessen deine Möbel. Dieser kompakte Kratzbaum kombiniert Sisal-Kratzflächen, weichen Plüsch und Spielelemente – attraktiv genug, damit deine Katze ihn dem Sofa vorzieht.\n\n⭐ Die Vorteile im Überblick\n\n\nSisal-Kratzsäulen: Fördern natürliches Kratzverhalten und schonen deine Möbel\n\nWeicher Plüschbezug: Lädt zum Liegen und Dösen ein\n\nIntegriertes Hängespielzeug: Extra Beschäftigung für neugierige Katzen\n\nKompakte Größe: Passt auch in kleine Wohnungen, mehrere Ebenen für Bewegung\nFür Mehrkatzenhaushalte geeignet\n\n\n🏡 Design, das zu deinem Zuhause passt\nIn Blau, Grau oder Grau mit Pfotenmuster fügt sich der Kratzbaum unauffällig in dein Wohnzimmer, Schlafzimmer oder deinen Flur ein.\n\n📋 Produktdetails\n\n\nMaterial: Stabile Spanplatte, Plüschbezug (100% Polyester), Sisalseil\n\nFarben: Blau, Grau, Grau mit Pfotenmuster\n\nMaße: 30 × 30 × 65 cm\n\nSäulendurchmesser: ca. 5 cm\n\nMontage: Schnell und einfach\n\n\n✅ Dein Vorteil bei Homeeins\nSchneller Versand, einfache Rückgabe und persönlicher Support bei Fragen.\n\n\n  \n  \n  \n",
+        "hasVariant": [
+          {
+            "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059110957379#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/4a037660-bfb2-482d-a1e5-cb5292723021.jpg?v=1767652879&width=1920",
+            "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾 - Blau",
+            "offers": {
+              "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059110957379#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/OutOfStock",
+              "price": "44.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch?variant=54059110957379"
+            },
+            "sku": "CJTC25964060003"
+          },
+          {
+            "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059110990147#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/d89ce4ec-e816-4136-8971-6640bb59dd1e.jpg?v=1767652879&width=1920",
+            "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾 - Grau",
+            "offers": {
+              "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059110990147#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/InStock",
+              "price": "44.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch?variant=54059110990147"
+            },
+            "sku": "CJTC25964060001"
+          },
+          {
+            "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059111022915#variant",
+            "@type": "Product",
+            "image": "https://www.homeeins.de/cdn/shop/files/e8ed1d90-9117-41f0-bb6a-63f902c22bbd.jpg?v=1767652879&width=1920",
+            "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾 - Grau mit Pfotenmuster",
+            "offers": {
+              "@id": "/products/kratzbaum-katzen-kompakt-plusch?variant=54059111022915#offer",
+              "@type": "Offer",
+              "availability": "http://schema.org/InStock",
+              "price": "44.99",
+              "priceCurrency": "EUR",
+              "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch?variant=54059111022915"
+            },
+            "sku": "CJTC25964060002"
+          }
+        ],
+        "name": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾",
+        "productGroupID": "15233231716675",
+        "url": "https://www.homeeins.de/products/kratzbaum-katzen-kompakt-plusch"
+      }
+    ],
+    "product_bloecke": 4,
+    "product_felder": {
+      "gtin": false,
+      "gtin8": false,
+      "gtin12": false,
+      "gtin13": false,
+      "gtin14": false,
+      "mpn": true,
+      "brand": true,
+      "sku": true,
+      "aggregateRating": false,
+      "review": false,
+      "offers": true,
+      "image": true,
+      "description": true
+    },
+    "offers_felder": {
+      "price": true,
+      "availability": true,
+      "priceCurrency": true
+    }
+  }
+]

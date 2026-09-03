@@ -1,0 +1,1114 @@
+{
+  "sitemap": [],
+  "stand": "2026-08-14",
+  "property": "sc-domain:homeeins.de",
+  "start": "2026-07-15",
+  "ende": "2026-08-11",
+  "aktuell": {
+    "klicks": 0,
+    "impressionen": 57,
+    "ctr": 0.0,
+    "position": 52.2
+  },
+  "vorher": {
+    "klicks": 0,
+    "impressionen": 80,
+    "ctr": 0.0,
+    "position": 54.4
+  },
+  "anfragen": [
+    {
+      "query": "auto hundebox alu",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "bad organizer holz",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 48.3
+    },
+    {
+      "query": "balkonset 3 teilig modern",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "bürostuhl mit fussablage",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "cortenstahl baum",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "couchtisch hochglanz schwarz",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "couchtisch schwarz hochglanz",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 42.5
+    },
+    {
+      "query": "dartscheibe garten",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "query": "dartspiel outdoor",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "fußball goal net rebounder",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "hundesofa erhöht",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "hundesofa luxus",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "kicker klappbar",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 46.5
+    },
+    {
+      "query": "klappbarer tischkicker",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "luxus hundesofa",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "moebel-eins",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "möbel eins",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "möbel eins unterneukirchen",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "möbel-eins online shop",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "möbel-eins unterneukirchen",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "ordnungssystem waschtischunterschrank",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 95.7
+    },
+    {
+      "query": "pflanzkübel industrial",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 16.5
+    },
+    {
+      "query": "rattanliege xxl",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "rollbrett action",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "query": "schreibtisch organiser holz",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "schwerlast rollbrett",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "seedüne handtücher",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "tierwagen",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 50.2
+    },
+    {
+      "query": "tischfussball klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "tischfußball klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "tischkicker klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "tischkicker klappbar kaufen",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "transportroller schwerlast",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 60
+    }
+  ],
+  "seiten": [
+    {
+      "page": "https://www.homeeins.de/",
+      "klicks": 3,
+      "impressionen": 23,
+      "ctr": 13.04,
+      "position": 29.1
+    },
+    {
+      "page": "https://www.homeeins.de/cart",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://www.homeeins.de/collections/aufbewahrung",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.homeeins.de/collections/bad-organisation",
+      "klicks": 0,
+      "impressionen": 15,
+      "ctr": 0,
+      "position": 35.5
+    },
+    {
+      "page": "https://www.homeeins.de/collections/bad-wellness",
+      "klicks": 0,
+      "impressionen": 7,
+      "ctr": 0,
+      "position": 3.4
+    },
+    {
+      "page": "https://www.homeeins.de/collections/bestesell-startbutton",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/collections/deko",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/collections/dekoration",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "page": "https://www.homeeins.de/collections/dekoration?page=3",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 3.7
+    },
+    {
+      "page": "https://www.homeeins.de/collections/foyer",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.homeeins.de/collections/garten-outdoor",
+      "klicks": 0,
+      "impressionen": 39,
+      "ctr": 0,
+      "position": 2.8
+    },
+    {
+      "page": "https://www.homeeins.de/collections/gartenmobel",
+      "klicks": 0,
+      "impressionen": 34,
+      "ctr": 0,
+      "position": 2.1
+    },
+    {
+      "page": "https://www.homeeins.de/collections/handtucher-textilien",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.homeeins.de/collections/hunde",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.homeeins.de/collections/mobel-1",
+      "klicks": 0,
+      "impressionen": 12,
+      "ctr": 0,
+      "position": 2.3
+    },
+    {
+      "page": "https://www.homeeins.de/collections/neuheitenentdecken",
+      "klicks": 0,
+      "impressionen": 4,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.homeeins.de/collections/ordnung-aufbewahrung",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 4.8
+    },
+    {
+      "page": "https://www.homeeins.de/collections/outdoor-spiele",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 51.5
+    },
+    {
+      "page": "https://www.homeeins.de/collections/reisen-unterwegs",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "page": "https://www.homeeins.de/collections/wohnzimmer",
+      "klicks": 0,
+      "impressionen": 4,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/en",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 4.7
+    },
+    {
+      "page": "https://www.homeeins.de/en/collections/bollerwagen-transport",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/en/collections/dekoration?page=3",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.homeeins.de/en/collections/gartenmobel",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 2.8
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/adjustable-football-kickback-rebounder-100x100-cm",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/balkonmoebel-set-modern-drei-farben",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/foldable-dog-stroller-76x-oxford-fabric",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 50.2
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 55.8
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz",
+      "klicks": 0,
+      "impressionen": 25,
+      "ctr": 0,
+      "position": 1.0
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/outdoor-loungemoebel-aluminium-modular",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/sun-lounger-with-folding-canopy-200x-poly-rattan",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/transport-trolley-2-pcs-rectangular-50x35x11-5-cm",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 53.3
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet?variant=54073054298435&country=AT&currency=EUR",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 1.1
+    },
+    {
+      "page": "https://www.homeeins.de/pages/contact",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://www.homeeins.de/pages/uber-uns",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/products/4-piece-balcony-furniture-set-with-cushions-garden-bench",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.homeeins.de/products/balkonmoebel-set-lounge-komfort-sessel",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.homeeins.de/products/desk-organizer-34-5x15-5x35-5-cm-wood-based-material-desk-organizer",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 47.5
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-bed-80x-velvet-dog-bed-80x-velvet",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-bed-with-extension-100x-velvet",
+      "klicks": 0,
+      "impressionen": 5,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-transport-box-with-single-door-65-x-91-x",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "page": "https://www.homeeins.de/products/freestanding-newspaper-rack",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-flower-pot-32-x-weatherproof-garden-flower-pot-50",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 16.5
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-furniture-with-cushions-garden-furniture",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 1.3
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-trolley-garden-trolley-garden-trolley-garden-trolley",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-wall-decoration-55x55-cm-corten-steel-tree-design",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "page": "https://www.homeeins.de/products/gartentisch-pe-rattan-akazienholz",
+      "klicks": 0,
+      "impressionen": 5,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.homeeins.de/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "page": "https://www.homeeins.de/products/outdoor-loungemoebel-aluminium-modular",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.homeeins.de/products/retractable-footrest-ergonomic-swivel-office-chair-with-lumbar-support-pillow-and-padded-armrests",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "page": "https://www.homeeins.de/products/schuhbank-sitzpolster-102cm-massiv?variant=54068804026691&country=DE&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "seiten_anfragen": [
+    {
+      "page": "https://www.homeeins.de/",
+      "query": "moebel-eins",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "page": "https://www.homeeins.de/",
+      "query": "möbel eins",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "page": "https://www.homeeins.de/",
+      "query": "möbel eins unterneukirchen",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "page": "https://www.homeeins.de/",
+      "query": "möbel-eins online shop",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.homeeins.de/",
+      "query": "möbel-eins unterneukirchen",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "page": "https://www.homeeins.de/collections/bad-organisation",
+      "query": "bad organizer holz",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 48.3
+    },
+    {
+      "page": "https://www.homeeins.de/collections/bad-organisation",
+      "query": "ordnungssystem waschtischunterschrank",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 95.7
+    },
+    {
+      "page": "https://www.homeeins.de/collections/handtucher-textilien",
+      "query": "seedüne handtücher",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.homeeins.de/collections/outdoor-spiele",
+      "query": "dartscheibe garten",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://www.homeeins.de/collections/outdoor-spiele",
+      "query": "dartspiel outdoor",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/adjustable-football-kickback-rebounder-100x100-cm",
+      "query": "fußball goal net rebounder",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/balkonmoebel-set-modern-drei-farben",
+      "query": "balkonset 3 teilig modern",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/foldable-dog-stroller-76x-oxford-fabric",
+      "query": "tierwagen",
+      "klicks": 0,
+      "impressionen": 8,
+      "ctr": 0,
+      "position": 50.2
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "kicker klappbar",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 46.5
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "klappbarer tischkicker",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "tischfussball klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "tischfußball klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "tischkicker klappbar",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/folding-foosball-table-121-x-folding-foosball-table",
+      "query": "tischkicker klappbar kaufen",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "query": "couchtisch hochglanz schwarz",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 61.5
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "query": "couchtisch schwarz hochglanz",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/sun-lounger-with-folding-canopy-200x-poly-rattan",
+      "query": "rattanliege xxl",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/transport-trolley-2-pcs-rectangular-50x35x11-5-cm",
+      "query": "rollbrett action",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/transport-trolley-2-pcs-rectangular-50x35x11-5-cm",
+      "query": "schwerlast rollbrett",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "page": "https://www.homeeins.de/en/products/transport-trolley-2-pcs-rectangular-50x35x11-5-cm",
+      "query": "transportroller schwerlast",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "page": "https://www.homeeins.de/products/desk-organizer-34-5x15-5x35-5-cm-wood-based-material-desk-organizer",
+      "query": "schreibtisch organiser holz",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-bed-with-extension-100x-velvet",
+      "query": "hundesofa erhöht",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-bed-with-extension-100x-velvet",
+      "query": "hundesofa luxus",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-bed-with-extension-100x-velvet",
+      "query": "luxus hundesofa",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "page": "https://www.homeeins.de/products/dog-transport-box-with-single-door-65-x-91-x",
+      "query": "auto hundebox alu",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-flower-pot-32-x-weatherproof-garden-flower-pot-50",
+      "query": "pflanzkübel industrial",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 16.5
+    },
+    {
+      "page": "https://www.homeeins.de/products/garden-wall-decoration-55x55-cm-corten-steel-tree-design",
+      "query": "cortenstahl baum",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "page": "https://www.homeeins.de/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "query": "couchtisch hochglanz schwarz",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.homeeins.de/products/high-gloss-coffee-table-high-gloss-coffee-table-coffee-table",
+      "query": "couchtisch schwarz hochglanz",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "page": "https://www.homeeins.de/products/retractable-footrest-ergonomic-swivel-office-chair-with-lumbar-support-pillow-and-padded-armrests",
+      "query": "bürostuhl mit fussablage",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 63
+    }
+  ],
+  "geraete": [
+    {
+      "device": "MOBILE",
+      "klicks": 3,
+      "impressionen": 29,
+      "ctr": 10.34,
+      "position": 37.4
+    },
+    {
+      "device": "DESKTOP",
+      "klicks": 0,
+      "impressionen": 99,
+      "ctr": 0,
+      "position": 24.1
+    }
+  ],
+  "verlauf": [
+    {
+      "date": "2026-07-15",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 61.5
+    },
+    {
+      "date": "2026-07-16",
+      "klicks": 0,
+      "impressionen": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-07-17",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "date": "2026-07-18",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "date": "2026-07-19",
+      "klicks": 0,
+      "impressionen": 4,
+      "ctr": 0,
+      "position": 38.2
+    },
+    {
+      "date": "2026-07-20",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "date": "2026-07-21",
+      "klicks": 0,
+      "impressionen": 4,
+      "ctr": 0,
+      "position": 40.2
+    },
+    {
+      "date": "2026-07-22",
+      "klicks": 1,
+      "impressionen": 5,
+      "ctr": 20.0,
+      "position": 18.6
+    },
+    {
+      "date": "2026-07-23",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "date": "2026-07-24",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 47.5
+    },
+    {
+      "date": "2026-07-25",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 32.8
+    },
+    {
+      "date": "2026-07-26",
+      "klicks": 0,
+      "impressionen": 4,
+      "ctr": 0,
+      "position": 45.2
+    },
+    {
+      "date": "2026-07-27",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "date": "2026-07-28",
+      "klicks": 0,
+      "impressionen": 3,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "date": "2026-07-29",
+      "klicks": 0,
+      "impressionen": 12,
+      "ctr": 0,
+      "position": 50.5
+    },
+    {
+      "date": "2026-07-30",
+      "klicks": 0,
+      "impressionen": 6,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "date": "2026-07-31",
+      "klicks": 0,
+      "impressionen": 11,
+      "ctr": 0,
+      "position": 1.1
+    },
+    {
+      "date": "2026-08-01",
+      "klicks": 0,
+      "impressionen": 12,
+      "ctr": 0,
+      "position": 18.6
+    },
+    {
+      "date": "2026-08-02",
+      "klicks": 0,
+      "impressionen": 15,
+      "ctr": 0,
+      "position": 1.1
+    },
+    {
+      "date": "2026-08-03",
+      "klicks": 0,
+      "impressionen": 7,
+      "ctr": 0,
+      "position": 26.6
+    },
+    {
+      "date": "2026-08-04",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "date": "2026-08-05",
+      "klicks": 0,
+      "impressionen": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-08-06",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "date": "2026-08-07",
+      "klicks": 0,
+      "impressionen": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "date": "2026-08-08",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "date": "2026-08-09",
+      "klicks": 0,
+      "impressionen": 2,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "date": "2026-08-10",
+      "klicks": 2,
+      "impressionen": 10,
+      "ctr": 20.0,
+      "position": 20.1
+    },
+    {
+      "date": "2026-08-11",
+      "klicks": 0,
+      "impressionen": 10,
+      "ctr": 0,
+      "position": 35.3
+    }
+  ]
+}

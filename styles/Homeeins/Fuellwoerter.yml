@@ -1,0 +1,15 @@
+extends: existence
+message: "Füllwort: '%s'"
+link: PROSA.md
+level: suggestion
+ignorecase: true
+tokens:
+  - eigentlich
+  - irgendwie
+  - ziemlich
+  - quasi
+  - sozusagen
+  - gewissermaßen
+  - letztendlich
+  - im Grunde genommen
+  - nichtsdestotrotz
