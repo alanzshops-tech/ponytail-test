@@ -232,13 +232,36 @@ def meta_seite(token: str) -> tuple[str, str, str]:
         seiten = None
 
     if seiten is not None:
+        # Zwei sehr verschiedene Faelle, die sich nur durch die Laenge
+        # der Liste unterscheiden -- und eine gemeinsame Meldung waere
+        # in einem der beiden Faelle ein falscher Rat:
+        #
+        #   leere Liste  -> Das Token DARF keine Seite sehen. Meta gibt
+        #                   dann keinen Fehler zurueck, sondern eine
+        #                   leere Liste. Ursache ist die fehlende
+        #                   Berechtigung pages_show_list oder eine im
+        #                   Anmeldefenster nicht angehakte Seite. Der Rat
+        #                   "Instagram verknuepfen" ginge hier ins Leere.
+        #   Seiten da    -> Das Token sieht Seiten, aber an keiner haengt
+        #                   ein Instagram-Konto. Dann stimmt der Rat.
+        #
+        # Genau die Unterscheidung, die CLAUDE.md meint: Ein leeres
+        # Ergebnis ist kein "nichts gefunden", sondern ein eigener Fall.
+        if not seiten:
+            raise RuntimeError(
+                "Nutzer-Token erkannt, aber es sieht keine einzige "
+                "Facebook-Seite. Das ist eine Berechtigungsfrage, keine "
+                "fehlende Seite: im Graph API Explorer pages_show_list "
+                "hinzufügen UND im Anmeldefenster die Seite ausdrücklich "
+                "anhaken — ohne den Haken bleibt die Liste leer")
         mit_ig = [s for s in seiten if s.get("instagram_business_account")]
         if not mit_ig:
             namen = ", ".join(s.get("name") or "?" for s in seiten)
             raise RuntimeError(
-                f"Nutzer-Token erkannt, aber an keiner Seite hängt ein "
-                f"Instagram-Konto (gefundene Seiten: {namen or 'keine'}). "
-                f"In den Seiteneinstellungen verknüpfen")
+                f"Nutzer-Token sieht die Seiten ({namen}), aber an keiner "
+                f"hängt ein Instagram-Konto. Entweder in den "
+                f"Seiteneinstellungen verknüpfen, oder es fehlt die "
+                f"Berechtigung instagram_basic")
         s = mit_ig[0]
         return (s.get("access_token") or token,
                 s["instagram_business_account"]["id"],
@@ -824,6 +847,21 @@ def selbsttest() -> None:
         except RuntimeError as e:
             if "Nur Facebook" not in str(e):
                 fehler.append(f"meta_seite nennt die Seite nicht: {e}")
+
+        # 4. Leere Seitenliste ist ein EIGENER Fall: nicht "keine Seite
+        #    vorhanden", sondern "das Token darf keine sehen". Ein
+        #    gemeinsamer Text mit Fall 3 gaebe hier den falschen Rat.
+        globals()["anfrage"] = stellen([{"data": []}])
+        try:
+            meta_seite("EAAnutzer")
+            fehler.append("meta_seite meldet die leere Seitenliste nicht")
+        except RuntimeError as e:
+            if "pages_show_list" not in str(e):
+                fehler.append(f"leere Liste ohne Hinweis auf die "
+                              f"Berechtigung: {e}")
+            if "verknüpfen" in str(e):
+                fehler.append("leere Liste bekommt den Rat für den "
+                              "anderen Fall")
     finally:
         globals()["anfrage"] = echte_anfrage
 
