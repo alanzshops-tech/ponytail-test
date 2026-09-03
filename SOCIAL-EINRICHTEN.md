@@ -140,6 +140,41 @@ Meldung den Grund.
 > die Zugangsprobe. Wenn ein Menü anders heißt, such nach dem Recht
 > `instagram_business_content_publish` — daran hängt alles.
 
+### Der kürzere Weg, wenn die Konsole nervt: Graph API Explorer
+
+Metas Anwendungsfall-Menüs sind ein Irrgarten. Es geht auch auf **einer
+einzigen Seite** — vorausgesetzt, das Instagram-Konto ist mit einer
+Facebook-Seite verknüpft (Instagram-App → Einstellungen → Verknüpfte
+Konten).
+
+`developers.facebook.com/tools/explorer`
+
+1. Oben rechts die eigene App auswählen
+2. Bei **Meta App** auf **User Token** stellen
+3. Unter **Berechtigungen hinzufügen** diese vier eintragen:
+   `instagram_basic`, `instagram_content_publish`,
+   `pages_show_list`, `pages_read_engagement`
+4. **Generate Access Token** → einmal anmelden, Seite und
+   Instagram-Konto anhaken
+5. Im selben Auswahlfeld von **User Token** auf **Page Token**
+   umstellen und die Seite wählen — jetzt steht dort das Seiten-Token
+6. Mit dem Kopiersymbol kopieren
+
+Dann zwei Secrets:
+
+| Name | Wert |
+|---|---|
+| `INSTAGRAM_TOKEN` | das Seiten-Token (beginnt mit `EAA`) |
+| `INSTAGRAM_UEBER_FACEBOOK` | `ja` — ein **Wort**, keine Ziffer |
+
+Die Konto-ID holt die Zugangsprobe auch auf diesem Weg selbst; sie
+fragt die Seite nach dem verknüpften Instagram-Konto.
+
+> Das Seiten-Token aus dem Explorer ist zunächst kurzlebig. Läuft es
+> nach ein paar Stunden ab, meldet die Zugangsprobe das als
+> „Token abgelaufen" — dann im Explorer neu erzeugen. Ein Seiten-Token
+> aus einem **langlebigen** Nutzertoken läuft dagegen nicht ab.
+
 ### Für die Facebook-Seite (später, optional)
 
 Zusätzlich `FACEBOOK_PAGE_TOKEN` (das **Seiten**-Token, nicht das

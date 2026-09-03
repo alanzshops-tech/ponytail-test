@@ -359,7 +359,7 @@ KANAELE = {"mastodon": mastodon, "bluesky": bluesky,
 # Diese Probe ruft je Kanal einen LESENDEN Endpunkt auf. Sie
 # veroeffentlicht nichts und kann deshalb beliebig oft laufen.
 
-def token_form(token: str) -> str | None:
+def token_form(token: str, instagram_login: bool = True) -> str | None:
     """Sagt VOR dem Aufruf, ob das ueberhaupt ein Token sein kann.
 
     Anlass ist der Lauf vom 03.09.2026: Meta antwortete mit "Cannot
@@ -392,14 +392,24 @@ def token_form(token: str) -> str | None:
                     f"Token hat um die 200")
         return (f"ist nur {len(roh)} Zeichen lang — ein Token hat um die "
                 f"200. So kurz ist das App-Geheimnis")
-    if roh.startswith("EAA"):
-        return ("beginnt mit EAA — das ist ein Facebook-Token, kein "
-                "Instagram-Token. Entweder das aus dem "
-                "Instagram-Business-Login holen oder "
-                "INSTAGRAM_UEBER_FACEBOOK setzen")
-    if not roh.startswith("IG"):
-        return (f"beginnt mit {roh[:2]!r} statt mit „IG“ — Instagram-Token "
-                f"fangen mit IGAA oder IGQ an")
+    # Welches Praefix richtig ist, haengt am gewaehlten Weg. Ein
+    # EAA-Token ist auf dem Facebook-Weg genau das Richtige und auf dem
+    # Instagram-Weg genau das Falsche -- eine Pruefung ohne diese
+    # Unterscheidung wuerde den halben Nutzerkreis grundlos aufhalten.
+    if instagram_login:
+        if roh.startswith("EAA"):
+            return ("beginnt mit EAA — das ist ein Facebook-Token. Für "
+                    "diesen Weg brauchst du das aus dem "
+                    "Instagram-Business-Login, oder setze das Secret "
+                    "INSTAGRAM_UEBER_FACEBOOK")
+        if not roh.startswith("IG"):
+            return (f"beginnt mit {roh[:2]!r} statt mit „IG“ — "
+                    f"Instagram-Token fangen mit IGAA oder IGQ an")
+    else:
+        if roh.startswith("IG"):
+            return ("beginnt mit IG — das ist ein Instagram-Token, aber "
+                    "INSTAGRAM_UEBER_FACEBOOK ist gesetzt. Entweder das "
+                    "Secret löschen oder das Seiten-Token eintragen")
     return None
 
 
@@ -449,7 +459,7 @@ def zugang_pruefen(kanal: str) -> str:
             # Erst die Gestalt, dann das Netz. Meta sagt bei einer
             # unlesbaren Zeichenkette nur "Cannot parse access token";
             # was stattdessen dort steht, sagt es nicht.
-            verdacht = token_form(token)
+            verdacht = token_form(token, ueber_instagram_login())
             if verdacht:
                 return f"— das eingetragene Token {verdacht}"
             if not nutzer:
@@ -459,10 +469,31 @@ def zugang_pruefen(kanal: str) -> str:
                 # Token aussieht. Das Token weiss selbst, zu welchem
                 # Konto es gehoert; also fragen wir es, statt den
                 # Menschen raten zu lassen.
-                a = anfrage(f"{GRAPH_IG}/me?fields=user_id,username&"
-                            f"access_token={token}", methode="GET")
-                return (f"Token gilt für @{a.get('username')} — jetzt noch "
-                        f"INSTAGRAM_USER_ID = {a.get('user_id')} als Secret "
+                #
+                # Die beiden Wege fragen verschieden: Beim
+                # Instagram-Login gehoert das Token dem Konto selbst,
+                # beim Facebook-Login gehoert es der SEITE, und das
+                # Instagram-Konto haengt als Feld daran. Ein Aufruf fuer
+                # beide Faelle gaebe auf einem der Wege eine
+                # Fehlermeldung, die nach kaputtem Token aussieht.
+                if ueber_instagram_login():
+                    a = anfrage(f"{GRAPH_IG}/me?fields=user_id,username&"
+                                f"access_token={token}", methode="GET")
+                    kennung, name = a.get("user_id"), a.get("username")
+                else:
+                    a = anfrage(f"{GRAPH}/me?fields=name,"
+                                f"instagram_business_account"
+                                f"&access_token={token}", methode="GET")
+                    verknuepft = a.get("instagram_business_account") or {}
+                    if not verknuepft:
+                        return (f"— Token gilt für die Seite "
+                                f"„{a.get('name')}“, aber dort hängt kein "
+                                f"Instagram-Konto. In den Seiten-"
+                                f"einstellungen verknüpfen, dann erneut "
+                                f"prüfen")
+                    kennung, name = verknuepft.get("id"), a.get("name")
+                return (f"Token gilt für {name} — jetzt noch "
+                        f"INSTAGRAM_USER_ID = {kennung} als Secret "
                         f"eintragen")
             allein = ueber_instagram_login()
             basis = GRAPH_IG if allein else GRAPH
@@ -677,17 +708,25 @@ def selbsttest() -> None:
     # wo keiner ist. Die Laengen und Praefixe stammen aus dem, was Meta
     # auf der Einrichtungsseite nebeneinander anzeigt.
     echt_ig = "IGAA" + "x" * 190
-    for wert, soll, was in (
-            (echt_ig,                        None,          "echtes IG-Token"),
-            ("IGQVJ" + "y" * 160,            None,          "älteres IG-Token"),
-            ("17841400000000000",            "Ziffern",     "Konto-ID"),
-            ("1234567890123456",             "Ziffern",     "App-ID"),
-            ("a3f" + "b" * 29,               "Zeichen lang", "App-Geheimnis"),
-            ("EAA" + "z" * 190,              "EAA",         "Facebook-Token"),
-            ("IGAA" + "x" * 100 + " " + "x" * 90, "Leerzeichen", "mit Umbruch"),
-            ("IGAA" + "x" * 20,              "abgeschnitten", "halb kopiert"),
+    echt_fb = "EAA" + "z" * 190
+    for wert, ig_login, soll, was in (
+            # Instagram-Login: IG richtig, EAA falsch
+            (echt_ig,               True,  None,           "IG-Token"),
+            ("IGQVJ" + "y" * 160,   True,  None,           "älteres IG-Token"),
+            (echt_fb,               True,  "EAA",          "FB-Token am IG-Weg"),
+            # Facebook-Login: genau umgekehrt. Ohne diesen Block wuerde
+            # die Pruefung jeden aufhalten, der ueber die Seite geht.
+            (echt_fb,               False, None,           "FB-Token am FB-Weg"),
+            (echt_ig,               False, "beginnt mit IG", "IG-Token am FB-Weg"),
+            # Verwechslungen, die auf beiden Wegen falsch sind
+            ("17841400000000000",   True,  "Ziffern",      "Konto-ID"),
+            ("1234567890123456",    False, "Ziffern",      "App-ID"),
+            ("a3f" + "b" * 29,      True,  "Zeichen lang", "App-Geheimnis"),
+            ("IGAA" + "x" * 100 + " " + "x" * 90, True, "Leerzeichen",
+             "mit Umbruch"),
+            ("IGAA" + "x" * 20,     True,  "abgeschnitten", "halb kopiert"),
     ):
-        ergebnis = token_form(wert)
+        ergebnis = token_form(wert, ig_login)
         if soll is None and ergebnis is not None:
             fehler.append(f"Tokenform: {was} fälschlich beanstandet "
                           f"({ergebnis})")
