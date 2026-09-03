@@ -52,18 +52,53 @@ postet. Du brauchst es nicht.
 
 | Kanal | Voraussetzung | Praktische Grenze |
 |---|---|---|
-| **Instagram** | Business- oder Creator-Konto, verknüpft mit einer Facebook-Seite; eigene Meta-App im Entwicklungsmodus | Content-Publishing-Limit je Konto und Tag |
+| **Instagram** | eigene Meta-App im Entwicklungsmodus. **Zwei Wege** — siehe unten | Content-Publishing-Limit je Konto und Tag |
 | **Facebook-Seite** | dieselbe Meta-App, Seiten-Token | großzügig |
 | **Threads** | eigene Threads-App, eigenes Konto | Tageslimit je Konto |
 | **YouTube** | Google-Cloud-Projekt, OAuth auf den eigenen Kanal | Tagesquote; ein Upload kostet viel davon |
 
-**Echte Mauern — hier gibt es keinen kostenlosen Weg:**
+**Auch kostenlos — mit einem Zugeständnis:**
 
-| Kanal | Warum |
-|---|---|
-| **TikTok** | Die Content-Posting-API lässt nicht geprüfte Apps nur **privat** veröffentlichen. Öffentlich posten geht erst nach Audit. |
-| **X** | Schreibzugriff ist seit 2023 kostenpflichtig bzw. im Gratis-Kontingent sehr eng. |
-| **Pinterest** | Nur eingeschränkter Testzugang, mehr erst nach Prüfung. |
+| Kanal | Weg | Zugeständnis |
+|---|---|---|
+| **TikTok** | Scope `video.upload` statt `video.publish`. Das Video landet als **Entwurf** im TikTok-Postfach. | ein Fingertipp je Video in der App |
+| **X** | Free-Tier-Schreibzugriff über `api.x.com/2/tweets` | Monatskontingent |
+| **Pinterest** | Testzugang | eingeschränkt |
+
+**Der TikTok-Fund im Beleg.** In `gerardosilva/TiktokBot-Draft-Updater`
+steht der Endpunkt im Klartext:
+
+```
+https://open.tiktokapis.com/v2/post/publish/inbox/video/init/
+scope: video.upload
+```
+
+`inbox` statt `direct` und `video.upload` statt `video.publish` — das
+ist der Weg, den nicht geprüfte Apps offiziell gehen dürfen. Kein
+Audit, keine Kosten, keine Regelverletzung. Nur der letzte Tipp auf
+„Posten" bleibt von Hand.
+
+### Instagram geht auch ohne Facebook-Seite
+
+Postiz hat für Instagram **zwei** Anbieter im Code, und der zweite ist
+der bequemere:
+
+| | Endpunkt | Voraussetzung |
+|---|---|---|
+| `instagram.provider.ts` | `graph.facebook.com` | Instagram-Konto **muss** mit einer Facebook-Seite verknüpft sein |
+| `instagram.standalone.provider.ts` | `graph.instagram.com`, Login über `instagram.com/oauth/authorize?enable_fb_login=0` | **keine Facebook-Seite nötig** |
+
+Die Rechte des Standalone-Wegs, aus dem Quelltext:
+
+```
+instagram_business_basic
+instagram_business_content_publish
+instagram_business_manage_comments
+instagram_business_manage_insights
+```
+
+Das heißt: Business- oder Creator-Konto genügt, die Facebook-Seite
+entfällt. Ein Einrichtungsschritt weniger.
 
 ---
 
@@ -91,6 +126,24 @@ Wegwerf-Account mag das anders aussehen — für Homeeins nicht.
 
 ---
 
+## Ergebnis: Für jeden Kanal gibt es einen kostenlosen Weg
+
+| Kanal | kostenlos? | Aufwand |
+|---|---|---|
+| Mastodon, Bluesky, Telegram, Discord, WordPress, Nostr, Medium, Dev.to | **ja** | Token einfügen, fertig |
+| Instagram | **ja** | eigene Meta-App, Entwicklungsmodus |
+| Facebook-Seite | **ja** | dieselbe App |
+| Threads | **ja** | eigene App |
+| YouTube | **ja** | Google-Cloud-Projekt |
+| **TikTok** | **ja** | ein Fingertipp je Video |
+| **X** | **ja** | Monatskontingent |
+
+**Es muss nichts bezahlt werden.** Der einzige laufende Posten ist ein
+kleiner Server für Postiz — und selbst der entfällt, wenn du es auf
+einem Rechner laufen lässt, der ohnehin läuft.
+
+---
+
 ## Die Empfehlung
 
 **Postiz selbst hosten** (AGPL-3.0, 35.410 ⭐, Commit von gestern, 36
@@ -105,8 +158,8 @@ Reihenfolge nach Aufwand:
 2. **Dann Meta** — Instagram und Facebook, eine App für beide. Das ist
    der Kanal, der für Möbel zählt.
 3. **Dann YouTube**, eigenes Google-Cloud-Projekt.
-4. **TikTok und X bleiben bei Metricool** oder werden von Hand
-   gepostet — dort ist der kostenlose Weg tatsächlich zu.
+4. **TikTok** über den Entwurfs-Weg, **X** über das Free-Tier. Beides
+   kostet nichts; TikTok kostet einen Fingertipp je Video.
 
 **Metricool währenddessen laufen lassen.** Erst kündigen, wenn Postiz
 für die wichtigsten Kanäle nachweislich postet.
