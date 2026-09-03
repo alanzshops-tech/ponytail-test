@@ -191,3 +191,69 @@ erreicht — das sind die Stellen, an denen konkrete Zahlen stehen:
 
 Der erste Schritt sollte deshalb ein **Testlauf mit einem Kanal** sein,
 nicht der Umbau aller Kanäle auf einmal.
+
+---
+
+# Umgesetzt am 03.09.2026 — die vier Kanäle ohne Genehmigung
+
+Gebaut, nicht geplant: `scripts/posten.py` und
+`.github/workflows/posten.yml`.
+
+**Was es kann.** Mastodon, Bluesky, Telegram und Discord — die vier
+Kanäle, die mit einem einzigen Token auskommen. Kein App-Review, keine
+Kosten, kein Beitragslimit.
+
+**Warum als Workflow und nicht als Skript hier.** Die Arbeitsumgebung
+erreicht nur GitHub, PyPI und npm; alle vier Dienste sind gesperrt. Der
+Runner ist Augen und Netz — dasselbe Muster wie `openrouter.py` und
+`trends.py`.
+
+**Keine Abhängigkeiten.** `posten.py` benutzt ausschließlich die
+Standardbibliothek. Ein Postwerkzeug, das von PyPI abhängt, fällt aus,
+wenn dort etwas kaputt ist.
+
+## Was der Selbsttest prüft — und was nicht
+
+Geprüft, ohne Netz:
+
+- **Längengrenzen je Kanal**, mit Positiv- *und* Negativfall: ein
+  Zeichen unter der Grenze darf nicht melden, eines darüber muss.
+  Mastodon 500, Bluesky 300, Telegram 4096, Discord 2000.
+- **Überspringen ohne Zugangsdaten.** Ein fehlendes Secret darf den
+  Lauf nicht abreißen, sondern nur diesen einen Kanal auslassen.
+- **Der Probelauf sendet nicht.** Auch mit gesetzten Zugangsdaten
+  beschreibt `--probe` nur, was passieren würde.
+
+**Nicht geprüft, und das steht auch in der Ausgabe:** ob ein Beitrag
+wirklich erscheint. Das zeigt erst der erste Lauf im Workflow mit
+ausgeschalteter Probe. Ein grüner Selbsttest ist hier ausdrücklich
+*kein* Beleg für Zustellung.
+
+## Die Secrets, die eingetragen werden müssen
+
+| Secret | Woher |
+|---|---|
+| `MASTODON_SERVER` | z. B. `https://mastodon.social` (optional) |
+| `MASTODON_TOKEN` | Einstellungen → Entwicklung → Neue Anwendung, Recht `write:statuses` |
+| `BLUESKY_HANDLE` | der eigene Handle, z. B. `homeeins.bsky.social` |
+| `BLUESKY_APP_PASSWORD` | Einstellungen → App-Passwörter. **Nicht** das Kontopasswort |
+| `TELEGRAM_BOT_TOKEN` | BotFather → `/newbot` |
+| `TELEGRAM_CHAT_ID` | Bot als Administrator in den Kanal, dann `@channelusername` oder die numerische ID |
+| `DISCORD_WEBHOOK` | Kanal → Bearbeiten → Integrationen → Webhooks |
+
+Einzutragen unter **Settings → Secrets and variables → Actions**. Es
+müssen nicht alle gesetzt sein — was fehlt, wird übersprungen.
+
+## Der erste Lauf
+
+**Actions → Posten → Run workflow**, `probe` auf **true** lassen.
+
+Die Ausgabe zeigt dann kanalweise, welche Zugangsdaten ankommen. Erst
+wenn das stimmt, denselben Lauf mit `probe: false` wiederholen.
+
+## Was als Nächstes dazukommt
+
+Instagram, Facebook, Threads, YouTube und TikTok sind ebenfalls
+kostenlos, brauchen aber je eine eigene App und einen OAuth-Ablauf. Sie
+gehören in einen zweiten Schritt — sinnvollerweise erst, wenn diese
+vier nachweislich laufen.

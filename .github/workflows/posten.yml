@@ -1,0 +1,62 @@
+name: Posten
+
+# Veröffentlicht auf den Kanälen, die keine Genehmigung brauchen:
+# Mastodon, Bluesky, Telegram, Discord.
+#
+# Läuft hier und nicht in der Arbeitsumgebung, weil die nur GitHub, PyPI
+# und npm erreicht — mastodon.social, bsky.social, api.telegram.org und
+# discord.com sind gesperrt. Der Runner ist Augen und Netz.
+#
+# Die Zugangsdaten liegen in den Repository-Secrets und werden nur als
+# Umgebungsvariablen durchgereicht. Sie stehen in keinem Befehl und
+# damit in keinem Protokoll (CLAUDE.md, Regel 4).
+#
+# **Der erste Lauf sollte "probe: true" sein.** Dann sendet nichts, und
+# man sieht in der Ausgabe, welche Secrets ankommen und welche fehlen.
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: "Der Beitragstext"
+        type: string
+        required: true
+      kanaele:
+        description: "Komma-Liste; leer = alle vier"
+        type: string
+        default: "mastodon,bluesky,telegram,discord"
+      probe:
+        description: "Probelauf — nichts senden, nur zeigen"
+        type: boolean
+        default: true
+
+jobs:
+  posten:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Kein pip install: posten.py benutzt nur die Standardbibliothek.
+      # Das ist Absicht -- ein Postwerkzeug, das von PyPI abhaengt, faellt
+      # aus, wenn dort etwas kaputt ist.
+      - name: Selbsttest
+        run: python3 scripts/posten.py --selbsttest
+
+      - name: Veröffentlichen
+        env:
+          MASTODON_SERVER: ${{ secrets.MASTODON_SERVER }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python3 scripts/posten.py \
+            --text "${{ inputs.text }}" \
+            --kanaele "${{ inputs.kanaele }}" \
+            ${{ inputs.probe && '--probe' || '' }}
