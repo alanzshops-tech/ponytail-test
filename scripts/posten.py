@@ -32,6 +32,7 @@ Aufruf:
 from __future__ import annotations
 
 import argparse
+import contextlib
 import json
 import os
 import sys
@@ -182,6 +183,18 @@ def instagram_token_erneuern() -> str:
     token = hole("INSTAGRAM_TOKEN")
     if not token:
         return "übersprungen (INSTAGRAM_TOKEN fehlt)"
+    # Der Erneuerungsaufruf unten gilt NUR fuer Token aus dem
+    # Instagram-Login (graph.instagram.com, ig_refresh_token). Wer den
+    # Weg ueber eine Facebook-Seite geht, hat ein Seiten-Token -- das
+    # laeuft, wenn es aus einem langlebigen Nutzertoken stammt, gar
+    # nicht ab. Frueher rief diese Funktion in beiden Faellen
+    # ig_refresh_token auf und lieferte auf dem Seiten-Weg eine
+    # OAuthException, die aussah, als sei das Token kaputt.
+    if not hole("INSTAGRAM_STANDALONE"):
+        return ("übersprungen — ohne INSTAGRAM_STANDALONE ist das ein "
+                "Seiten-Token vom Facebook-Login. Das laeuft nicht nach "
+                "60 Tagen ab, wenn es aus einem langlebigen Nutzertoken "
+                "erzeugt wurde. Zum Pruefen: --zugang.")
     a = anfrage(
         "https://graph.instagram.com/refresh_access_token"
         f"?grant_type=ig_refresh_token&access_token={token}",
@@ -367,10 +380,14 @@ def zugang_pruefen(kanal: str) -> str:
             token, nutzer = hole("INSTAGRAM_TOKEN"), hole("INSTAGRAM_USER_ID")
             if not (token and nutzer):
                 return "— Token oder Konto-ID fehlt"
-            basis = GRAPH_IG if hole("INSTAGRAM_STANDALONE") else GRAPH
+            allein = bool(hole("INSTAGRAM_STANDALONE"))
+            basis = GRAPH_IG if allein else GRAPH
             a = anfrage(f"{basis}/{nutzer}?fields=username&"
                         f"access_token={token}", methode="GET")
-            return f"OK — Konto @{a.get('username')}"
+            # Welcher der beiden Meta-Wege laeuft, ist nicht zu erraten
+            # und entscheidet, ob --token-erneuern zustaendig ist.
+            weg = "Instagram-Login" if allein else "Facebook-Login"
+            return f"OK — Konto @{a.get('username')} ({weg})"
 
         if kanal == "facebook":
             token, seite = hole("FACEBOOK_PAGE_TOKEN"), hole("FACEBOOK_PAGE_ID")
@@ -438,6 +455,43 @@ def zu_lang(text: str, kanal: str) -> bool:
     return len(text) > GRENZE[kanal]
 
 
+GEHEIM = ("MASTODON_SERVER", "MASTODON_TOKEN",
+          "BLUESKY_HANDLE", "BLUESKY_APP_PASSWORD",
+          "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "DISCORD_WEBHOOK",
+          "INSTAGRAM_TOKEN", "INSTAGRAM_USER_ID", "INSTAGRAM_STANDALONE",
+          "FACEBOOK_PAGE_TOKEN", "FACEBOOK_PAGE_ID",
+          "TIKTOK_ACCESS_TOKEN")
+
+
+@contextlib.contextmanager
+def umgebung(**werte):
+    """Umgebungsvariablen setzen und den Zustand davor zurueckgeben.
+
+    Der Selbsttest muss so tun, als sei ein Token gesetzt oder nicht
+    gesetzt. Frueher hat er dafuer os.environ direkt beschrieben und
+    danach `pop` gerufen -- was den ECHTEN Wert aus den Secrets loeschte,
+    weil selbsttest() vor jedem Lauf ausgefuehrt wird. Der erste echte
+    Instagram-Beitrag waere mit "übersprungen (INSTAGRAM_TOKEN fehlt)"
+    ausgefallen, obwohl das Secret sauber gesetzt war. Ein Werkzeug, das
+    sich beim Selbsttest die eigenen Zugangsdaten wegnimmt, meldet
+    hinterher genau den Fehler, den es selbst verursacht hat.
+    """
+    vorher = {k: os.environ.get(k) for k in werte}
+    try:
+        for k, v in werte.items():
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+        yield
+    finally:
+        for k, v in vorher.items():
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+
+
 def selbsttest() -> None:
     """Was hier prueft, ist der Aufbau -- nicht die Zustellung.
 
@@ -448,6 +502,9 @@ def selbsttest() -> None:
     erscheint, zeigt erst der erste Lauf im Workflow mit --probe aus.
     """
     fehler = []
+    # Bezugswert fuer die Probe ganz unten: Der Selbsttest darf die
+    # Umgebung, in der er laeuft, nicht veraendern.
+    vorzustand = {k: os.environ.get(k) for k in GEHEIM}
 
     # Laengenpruefung, Positiv- und Negativfall je Kanal.
     for kanal, grenze in GRENZE.items():
@@ -459,49 +516,48 @@ def selbsttest() -> None:
 
     # Ohne Zugangsdaten muss jeder Kanal sauber ueberspringen statt zu
     # stuerzen -- sonst reisst ein fehlendes Secret den ganzen Lauf ab.
-    sicherung = {k: os.environ.pop(k, None) for k in
-                 ("MASTODON_TOKEN", "BLUESKY_HANDLE", "BLUESKY_APP_PASSWORD",
-                  "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "DISCORD_WEBHOOK",
-                  "INSTAGRAM_TOKEN", "INSTAGRAM_USER_ID",
-                  "FACEBOOK_PAGE_TOKEN", "FACEBOOK_PAGE_ID",
-                  "TIKTOK_ACCESS_TOKEN")}
-    try:
+    with umgebung(**{k: None for k in GEHEIM}):
         for name in KANAELE:
             antwort = senden(name, "Test", True, "https://x.invalid/b.jpg",
                              "https://x.invalid/v.mp4")
             if "übersprungen" not in antwort:
                 fehler.append(f"{name}: ohne Zugangsdaten nicht übersprungen "
                               f"({antwort})")
-    finally:
-        for k, v in sicherung.items():
-            if v is not None:
-                os.environ[k] = v
 
     # Instagram ohne Bild muss ueberspringen, nicht stuerzen -- und ein
     # Bild ohne https muss auffallen, weil Instagram es sonst selbst
     # ablehnt und man den Grund im Protokoll suchen darf.
-    os.environ["INSTAGRAM_TOKEN"] = "x"
-    os.environ["INSTAGRAM_USER_ID"] = "1"
-    try:
+    with umgebung(INSTAGRAM_TOKEN="x", INSTAGRAM_USER_ID="1"):
         if "übersprungen" not in instagram("Test", True, ""):
             fehler.append("Instagram ohne Bild wird nicht übersprungen")
         if "ÜBERSPRUNGEN" not in instagram("Test", True, "http://x/b.jpg"):
             fehler.append("Instagram nimmt eine http-URL an")
         if not instagram("Test", True, "https://x/b.jpg").startswith("Probe:"):
             fehler.append("Instagram mit gültigem Bild läuft nicht an")
-    finally:
-        os.environ.pop("INSTAGRAM_TOKEN", None)
-        os.environ.pop("INSTAGRAM_USER_ID", None)
+
+        # Die beiden Meta-Wege muessen auf verschiedene Adressen zeigen.
+        # Das ist keine Kosmetik: Ein Token vom Instagram-Login gilt an
+        # graph.facebook.com nicht und umgekehrt.
+        with umgebung(INSTAGRAM_STANDALONE="1"):
+            if GRAPH_IG not in instagram("Test", True, "https://x/b.jpg"):
+                fehler.append("Instagram-Login nutzt nicht graph.instagram.com")
+        with umgebung(INSTAGRAM_STANDALONE=None):
+            if GRAPH not in instagram("Test", True, "https://x/b.jpg"):
+                fehler.append("Facebook-Login nutzt nicht graph.facebook.com")
+
+        # --token-erneuern gilt nur fuer den Instagram-Login. Auf dem
+        # Seiten-Weg muss es sauber ueberspringen statt eine
+        # OAuthException zu werfen, die nach kaputtem Token aussieht.
+        with umgebung(INSTAGRAM_STANDALONE=None):
+            if "übersprungen" not in instagram_token_erneuern():
+                fehler.append("Token-Erneuerung läuft auf dem Seiten-Weg an")
 
     # TikTok ohne Video ebenso.
-    os.environ["TIKTOK_ACCESS_TOKEN"] = "x"
-    try:
+    with umgebung(TIKTOK_ACCESS_TOKEN="x"):
         if "übersprungen" not in tiktok("Test", True, ""):
             fehler.append("TikTok ohne Video wird nicht übersprungen")
         if "inbox" not in tiktok("Test", True, "https://x/v.mp4"):
             fehler.append("TikTok nimmt nicht den Entwurfs-Endpunkt")
-    finally:
-        os.environ.pop("TIKTOK_ACCESS_TOKEN", None)
 
     # Die Ausweichlogik von TikTok: Nur eine Domain-Beanstandung darf
     # auf FILE_UPLOAD umschalten. Jeder andere Fehler -- abgelaufenes
@@ -520,12 +576,20 @@ def selbsttest() -> None:
 
     # Die Probe darf unter keinen Umstaenden senden. Ein Kanal mit
     # Zugangsdaten muss im Probelauf trotzdem nur beschreiben.
-    os.environ["DISCORD_WEBHOOK"] = "https://example.invalid/haken"
-    try:
+    with umgebung(DISCORD_WEBHOOK="https://example.invalid/haken"):
         if not discord("Test", probe=True).startswith("Probe:"):
             fehler.append("Probe sendet, statt nur zu beschreiben")
-    finally:
-        os.environ.pop("DISCORD_WEBHOOK", None)
+
+    # Die Gegenprobe zum gefaehrlichsten Fehler dieses Skripts: Der
+    # Selbsttest laeuft vor JEDEM Aufruf. Nimmt er der Umgebung dabei
+    # ein Secret weg, meldet der eigentliche Lauf danach "Token fehlt"
+    # -- und der Verdacht faellt auf das Secret statt auf den Test.
+    # Deshalb wird hier nicht die Absicht geprueft, sondern der
+    # Zustand: Ist die Umgebung nach dem Test noch dieselbe?
+    verloren = [k for k in GEHEIM if os.environ.get(k) != vorzustand[k]]
+    if verloren:
+        fehler.append(f"Der Selbsttest hat die Umgebung verändert: "
+                      f"{sorted(verloren)}")
 
     print("Selbsttest:")
     for f in fehler:
@@ -544,7 +608,11 @@ def selbsttest() -> None:
 def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--text", default="")
-    p.add_argument("--kanaele", default="mastodon,bluesky,telegram,discord")
+    # Leer statt Vorgabe, damit "--zugang" unterscheiden kann zwischen
+    # "keine Auswahl getroffen" (alle pruefen) und "genau diesen einen".
+    # Vorher hat --zugang die Auswahl ignoriert und immer alle sieben
+    # gemeldet -- wer nur Instagram einrichtet, las sechs Fehlzeilen mit.
+    p.add_argument("--kanaele", default="")
     p.add_argument("--bild", default="",
                    help="öffentliche https-URL; Instagram verlangt sie, "
                         "Facebook nutzt sie wenn vorhanden")
@@ -563,9 +631,15 @@ def main() -> None:
     selbsttest()
     if a.selbsttest:
         return
+    auswahl = [k.strip() for k in a.kanaele.split(",") if k.strip()]
+    unbekannt = [k for k in auswahl if k not in KANAELE]
+    if unbekannt:
+        raise SystemExit(f"Unbekannte Kanäle: {unbekannt}. "
+                         f"Möglich: {sorted(KANAELE)}")
+
     if a.zugang:
         print("\nZugangsprobe — es wird nichts veröffentlicht.\n")
-        for k in sorted(KANAELE):
+        for k in sorted(auswahl or KANAELE):
             print(f"  {k:10s} {zugang_pruefen(k)}")
         return
     if a.token_erneuern:
@@ -575,11 +649,7 @@ def main() -> None:
         print("\nKein Text. Nichts zu tun.")
         return
 
-    gewaehlt = [k.strip() for k in a.kanaele.split(",") if k.strip()]
-    unbekannt = [k for k in gewaehlt if k not in KANAELE]
-    if unbekannt:
-        raise SystemExit(f"Unbekannte Kanäle: {unbekannt}. "
-                         f"Möglich: {sorted(KANAELE)}")
+    gewaehlt = auswahl or ["mastodon", "bluesky", "telegram", "discord"]
 
     print(f"\nText: {len(a.text)} Zeichen"
           f"{'  (PROBELAUF, es wird nichts gesendet)' if a.probe else ''}\n")

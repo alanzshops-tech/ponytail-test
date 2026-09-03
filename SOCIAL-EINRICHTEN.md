@@ -4,9 +4,13 @@ Begleitpapier zu `scripts/posten.py` und `.github/workflows/posten.yml`.
 Die Herleitung, **warum** das kostenlos geht, steht in
 `SOCIAL-SELBSTHOSTEN.md`. Hier steht nur, **was zu tun ist**.
 
-Reihenfolge ist Absicht: erst die Kanäle, bei denen nichts schiefgehen
-kann, dann die mit eigener App. Wer bei Instagram anfängt, sitzt am
-ersten Abend in Metas Entwicklerkonsole und hat nichts vorzuweisen.
+Die Stufen sind nach Aufwand sortiert, nicht nach Wichtigkeit. Stufe 1
+ist der bequeme Einstieg — aber für Homeeins liegt die Reichweite bei
+Instagram, und wer die will, fängt bei **Stufe 2** an. Das kostet einen
+Abend in Metas Entwicklerkonsole statt zwanzig Minuten. Die Stufen sind
+voneinander unabhängig; man kann jede einzeln machen.
+
+**Für den Instagram-Start direkt zu [Stufe 2](#stufe-2--meta-instagram-und-facebook).**
 
 ---
 
@@ -56,34 +60,97 @@ verschiedene Meldungen.
 
 ## Stufe 2 — Meta: Instagram und Facebook
 
-**Voraussetzung:** Das Instagram-Konto muss ein **Business- oder
-Creator-Konto** sein. Ein privates Konto kann über die API nicht
-veröffentlichen — das ist die häufigste Fehlerquelle und kein Fehler im
-Werkzeug.
+### Es gibt zwei Wege. Nimm den ersten.
 
-1. `developers.facebook.com` → **Meine Apps → App erstellen**
-2. Typ: **Business**
-3. Produkt hinzufügen: **Instagram** (bzw. **Facebook-Login**)
-4. Die App bleibt im **Entwicklungsmodus** — das ist gewollt. Solange
-   du nur auf eigene Konten postest, ist kein App-Review nötig.
-5. Dich selbst als **Administrator** der App eintragen (das ist der
-   Punkt, an dem der Entwicklungsmodus greift)
-6. Zugriffstoken erzeugen, Rechte:
-   `instagram_business_basic`, `instagram_business_content_publish`
-7. Secrets: `INSTAGRAM_TOKEN`, `INSTAGRAM_USER_ID`
-8. Für den Weg **ohne Facebook-Seite**: Secret `INSTAGRAM_STANDALONE`
-   auf irgendeinen Wert setzen
-9. Für die Facebook-Seite zusätzlich: `FACEBOOK_PAGE_TOKEN` (das
-   **Seiten**-Token, nicht das Nutzertoken) und `FACEBOOK_PAGE_ID`
+Meta bietet für Instagram zwei getrennte Verfahren an. Sie sehen
+ähnlich aus, haben aber verschiedene Adressen, verschiedene Rechte und
+verschiedene Ablauffristen. Wer sie vermischt, bekommt Token-Fehler,
+die nach kaputten Zugangsdaten aussehen, obwohl nur die Adresse nicht
+passt.
 
-### Danach: einmal im Monat das Token verlängern
+| | **Instagram-Login** *(empfohlen)* | Facebook-Login |
+|---|---|---|
+| Adresse | `graph.instagram.com` | `graph.facebook.com` |
+| Facebook-Seite nötig? | **nein** | ja, verknüpft |
+| Token | 60 Tage, verlängerbar | Seiten-Token, läuft nicht ab |
+| Secret `INSTAGRAM_STANDALONE` | **setzen** | leer lassen |
+| `token_erneuern` zuständig? | ja | nein (braucht es nicht) |
 
-Instagram-Token laufen nach rund 60 Tagen ab. **Actions → Posten →
-Run workflow**, Haken bei **`token_erneuern`**. Die Ausgabe nennt die
-neue Restlaufzeit; das neue Token von Hand ins Secret übertragen.
+Für Homeeins ist der **Instagram-Login** der richtige: weniger
+Schritte, keine Facebook-Seite als Zwischenglied, und der
+Verlängerungsbefehl im Werkzeug bedient genau diesen Weg.
 
-> Automatisch ginge das nur, wenn das Token im Repository läge — und
-> Zugangsdaten gehören nicht dorthin (`CLAUDE.md`, Regel 4).
+### Voraussetzung, an der die meisten scheitern
+
+Das Instagram-Konto muss ein **Business- oder Creator-Konto** sein. Ein
+privates Konto kann über die API nicht veröffentlichen — die API
+antwortet dann mit einem Berechtigungsfehler, der aussieht, als fehle
+der App ein Recht. Umstellen in der Instagram-App:
+**Einstellungen → Konto → Kontotyp**.
+
+### Die Schritte
+
+1. Instagram-Konto auf **Business** oder **Creator** umstellen (siehe
+   oben)
+2. `developers.facebook.com` → **Meine Apps → App erstellen**
+3. Als App-Typ **Business** wählen
+4. Produkt hinzufügen: **Instagram**, darin der Einrichtungsweg mit
+   **Instagram-Business-Login**
+5. Die App bleibt im **Entwicklungsmodus** — das ist gewollt und der
+   ganze Grund, warum das kostenlos und ohne App-Review geht. Solange
+   nur auf eigene Konten gepostet wird, ist kein Review nötig.
+6. Dich selbst als **Administrator** der App eintragen. Das ist der
+   Punkt, an dem der Entwicklungsmodus greift — ohne diesen Eintrag
+   gilt dein Konto der App als fremd.
+7. Rechte: **`instagram_business_basic`** und
+   **`instagram_business_content_publish`**. Ohne das zweite kann die
+   App lesen, aber nicht posten.
+8. Zugriffstoken erzeugen. **Es muss das langlebige sein** (60 Tage),
+   nicht das kurzlebige (1 Stunde). Die Konsole zeigt die Laufzeit an.
+9. Direkt neben dem Token steht die **Instagram-Konto-ID** — eine lange
+   Zahl, die mit `1784…` beginnt. Das ist `INSTAGRAM_USER_ID`, **nicht**
+   der @-Name.
+10. Drei Secrets eintragen:
+    `INSTAGRAM_TOKEN`, `INSTAGRAM_USER_ID`, und
+    `INSTAGRAM_STANDALONE` = `1`
+11. **Actions → Posten → Run workflow**, `kanaele` = `instagram`,
+    Haken bei **`zugang`**
+
+Bei Schritt 11 muss dort stehen:
+
+```
+  instagram  OK — Konto @deinname (Instagram-Login)
+```
+
+Steht in der Klammer **Facebook-Login**, fehlt `INSTAGRAM_STANDALONE`.
+Steht dort ein `FEHLER`, nennt die Meldung den Grund.
+
+> Die Menübezeichnungen in Metas Konsole ändern sich mehrmals im Jahr,
+> und diese Arbeitsumgebung erreicht `developers.facebook.com` nicht —
+> die Schrittnamen oben sind also nicht nachgemessen. Was nachgemessen
+> ist, sind die Rechte, die Adressen und die Secret-Namen; die prüft
+> die Zugangsprobe. Wenn ein Menü anders heißt, such nach dem Recht
+> `instagram_business_content_publish` — daran hängt alles.
+
+### Für die Facebook-Seite (später, optional)
+
+Zusätzlich `FACEBOOK_PAGE_TOKEN` (das **Seiten**-Token, nicht das
+Nutzertoken) und `FACEBOOK_PAGE_ID`. Facebook läuft immer über
+`graph.facebook.com` und ist von `INSTAGRAM_STANDALONE` unberührt.
+
+### Danach: alle zwei Monate das Token verlängern
+
+Token aus dem Instagram-Login laufen nach rund 60 Tagen ab.
+**Actions → Posten → Run workflow**, Haken bei **`token_erneuern`**.
+Die Ausgabe nennt die neue Restlaufzeit; das neue Token von Hand ins
+Secret `INSTAGRAM_TOKEN` übertragen.
+
+Auf dem Facebook-Login-Weg ist das nicht nötig — ein Seiten-Token aus
+einem langlebigen Nutzertoken läuft nicht ab. Der Befehl überspringt
+dort und sagt das auch.
+
+> Automatisch ginge die Verlängerung nur, wenn das Token im Repository
+> läge — und Zugangsdaten gehören nicht dorthin (`CLAUDE.md`, Regel 4).
 
 ### Bilder müssen öffentlich erreichbar sein
 
@@ -121,6 +188,9 @@ schiebt die Bytes selbst hoch. **Keine Domain-Verifizierung nötig.**
 | `Berechtigung fehlt` | App hat das Recht nicht, **oder** das Instagram-Konto ist privat statt Business |
 | `ID stimmt nicht` | Konto-, Seiten- oder Kanal-ID prüfen |
 | `url_ownership_unverified` | passiert automatisch — das Werkzeug weicht auf FILE_UPLOAD aus |
+| `übersprungen (Instagram braucht ein Bild)` | `bild` mit einer öffentlichen `https`-Adresse füllen |
+| `ÜBERSPRUNGEN — Bild muss öffentlich per https` | `http` reicht nicht, Instagram holt es selbst ab |
+| Zugangsprobe sagt `(Facebook-Login)`, obwohl Instagram-Login eingerichtet ist | Secret `INSTAGRAM_STANDALONE` fehlt |
 
 Die Zugangsprobe (`zugang: true`) übersetzt die API-Meldungen in diese
 Sätze. Sie lässt sich beliebig oft laufen, weil sie nichts postet.

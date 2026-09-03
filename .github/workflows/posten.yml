@@ -31,9 +31,9 @@ on:
         required: false
         default: ""
       kanaele:
-        description: "Komma-Liste der Kanäle"
+        description: "Komma-Liste der Kanäle (leer = bei zugang alle prüfen)"
         type: string
-        default: "instagram,facebook,tiktok"
+        default: "instagram"
       bild:
         description: "Öffentliche https-URL des Bildes (Instagram verlangt sie)"
         type: string
