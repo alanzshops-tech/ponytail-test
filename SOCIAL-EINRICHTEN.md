@@ -204,6 +204,33 @@ das Bild öffnen und die Adresse kopieren.
 
 ---
 
+## Was schon feststeht (aus Metricool ausgelesen, 03.09.2026)
+
+Die Metricool-Verbindung des Kontos `alanz.shops@gmail.com` nennt für
+die Marke **Homeeins** diese Kennungen. Sie sind gemessen, nicht
+geraten — und ersparen das Suchen in den jeweiligen Konsolen:
+
+| Kanal | Kennung | wofür |
+|---|---|---|
+| Facebook-Seite | `114802748346176` | `FACEBOOK_PAGE_ID` |
+| Instagram | `homeeins.de` | der Kontoname |
+| Bluesky | `homeeins.bsky.social` | `BLUESKY_HANDLE` |
+| TikTok | `homeeins.de` | |
+| YouTube | `UCfj7YreSwaqWj_whl0ivQRw` | Kanal-ID |
+| Pinterest | `homeeins` | |
+
+Keine davon ist ein Geheimnis — es sind öffentliche Kennungen, keine
+Zugangsdaten. Deshalb dürfen sie hier stehen (`CLAUDE.md`, Regel 4
+betrifft Schlüssel, nicht Namen).
+
+**Der wichtigste Schluss daraus:** Metricool veröffentlicht auf
+Instagram. Das geht nur mit einem **Business- oder Creator-Konto, das
+mit einer Facebook-Seite verknüpft ist**. Beides ist also bereits
+erfüllt — die häufigste Fehlerquelle der ganzen Einrichtung fällt
+damit weg, ohne dass wir sie prüfen müssen.
+
+---
+
 ## Stufe 3 — TikTok
 
 1. `developers.tiktok.com` → App anlegen
