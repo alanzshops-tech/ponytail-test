@@ -22,7 +22,25 @@ name: Posten
 # **Der erste Lauf sollte "probe: true" sein.** Dann sendet nichts, und
 # man sieht in der Ausgabe, welche Secrets ankommen und welche fehlen.
 
+# Der push-Ausloeser ist NICHT zum Posten da, sondern zur Registrierung.
+#
+# Gemessen am 03.09.2026: Ein Workflow, der nur workflow_dispatch kennt
+# und noch nie gelaufen ist, steht nicht in der Workflow-Liste des
+# Repositories -- POST .../workflows/posten.yml/dispatches antwortet mit
+# 404. Alle 16 registrierten Workflows dieses Repositories tragen als
+# head_branch diesen Entwicklungsbranch, main hat genau einen Commit mit
+# einer README. Sie laufen also vom Branch; ihnen fehlte nur nie die
+# Erstregistrierung, weil sie einen push-Ausloeser haben.
+#
+# Derselbe Kniff steht in aufraeumen.yml unter "nur zur Registrierung".
+# Beim push wird deshalb ausschliesslich der Selbsttest ausgefuehrt und
+# nichts veroeffentlicht -- die Eingaben sind bei einem push ohnehin
+# leer.
 on:
+  push:
+    paths:
+      - ".github/workflows/posten.yml"
+      - "scripts/posten.py"
   workflow_dispatch:
     inputs:
       text:
@@ -71,7 +89,18 @@ jobs:
       - name: Selbsttest
         run: python3 scripts/posten.py --selbsttest
 
+      # Beim push ist hier Schluss. Kein Zugriff auf inputs, kein
+      # Sendeversuch -- ein Werkzeug, das durch einen Commit
+      # veroeffentlicht, waere eine Falle.
+      - name: Nur registrieren
+        if: github.event_name == 'push'
+        run: |
+          echo "Push-Lauf: nur Selbsttest, es wird nichts veröffentlicht."
+          echo "Der Workflow ist damit registriert und lässt sich ab jetzt"
+          echo "über Actions → Posten → Run workflow starten."
+
       - name: Veröffentlichen
+        if: github.event_name == 'workflow_dispatch'
         env:
           MASTODON_SERVER: ${{ secrets.MASTODON_SERVER }}
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
