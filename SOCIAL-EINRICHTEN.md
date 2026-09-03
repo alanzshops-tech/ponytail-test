@@ -73,7 +73,7 @@ passt.
 | Adresse | `graph.instagram.com` | `graph.facebook.com` |
 | Facebook-Seite nötig? | **nein** | ja, verknüpft |
 | Token | 60 Tage, verlängerbar | Seiten-Token, läuft nicht ab |
-| Secret nötig? | **keins** (Standard) | `INSTAGRAM_UEBER_FACEBOOK` setzen |
+| Secret nötig? | **keins** | **keins** — am Token erkannt |
 | `token_erneuern` zuständig? | ja | nein (braucht es nicht) |
 
 Für Homeeins ist der **Instagram-Login** der richtige: weniger
@@ -160,15 +160,20 @@ Konten).
    umstellen und die Seite wählen — jetzt steht dort das Seiten-Token
 6. Mit dem Kopiersymbol kopieren
 
-Dann zwei Secrets:
+Dann **ein** Secret:
 
 | Name | Wert |
 |---|---|
 | `INSTAGRAM_TOKEN` | das Seiten-Token (beginnt mit `EAA`) |
-| `INSTAGRAM_UEBER_FACEBOOK` | `ja` — ein **Wort**, keine Ziffer |
 
-Die Konto-ID holt die Zugangsprobe auch auf diesem Weg selbst; sie
-fragt die Seite nach dem verknüpften Instagram-Konto.
+Mehr nicht. Welcher der beiden Meta-Wege gilt, erkennt das Werkzeug am
+Präfix des Tokens (`EAA` → Facebook, `IGAA`/`IGQ` → Instagram-Login),
+und die Konto-ID holt die Zugangsprobe selbst — auf diesem Weg fragt
+sie die Seite nach dem verknüpften Instagram-Konto.
+
+> `INSTAGRAM_UEBER_FACEBOOK` gibt es weiterhin als Notüberschreibung,
+> falls Meta die Präfixe eines Tages ändert. Gesetzt gewinnt es gegen
+> die Erkennung. Im Normalfall braucht es das nicht.
 
 > Das Seiten-Token aus dem Explorer ist zunächst kurzlebig. Läuft es
 > nach ein paar Stunden ab, meldet die Zugangsprobe das als

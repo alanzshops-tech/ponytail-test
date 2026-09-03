@@ -178,12 +178,21 @@ def ueber_instagram_login() -> bool:
     '"code":***9', aus einem Datum '2025-09-***9'. Das Protokoll ist
     aber genau das Werkzeug, mit dem man den Fehler sucht.
 
-    Deshalb ist der Instagram-Login jetzt der Standard und braucht gar
-    kein Secret mehr. Wer ueber eine Facebook-Seite geht, setzt
-    INSTAGRAM_UEBER_FACEBOOK. Das alte Secret wird weiter anerkannt,
-    damit eine bestehende Einrichtung nicht bricht.
+    Der zweite Schritt geht weiter: Auch ein Schaltsecret ist zu viel
+    verlangt. Welcher Weg gilt, steht naemlich im Token selbst --
+    Facebook-Token beginnen mit EAA, Instagram-Token mit IGAA oder IGQ.
+    Das Werkzeug hat also die ganze Zeit nach einer Auskunft gefragt,
+    die ihm schon vorlag. Es erkennt den Weg jetzt selbst.
+
+    INSTAGRAM_UEBER_FACEBOOK bleibt als Notueberschreibung bestehen,
+    falls Meta die Praefixe eines Tages aendert. Gesetzt gewinnt es
+    gegen die Erkennung -- eine ausdrueckliche Ansage schlaegt eine
+    Vermutung, auch wenn die Vermutung meistens recht hat.
     """
     if hole("INSTAGRAM_UEBER_FACEBOOK"):
+        return False
+    token = hole("INSTAGRAM_TOKEN") or ""
+    if token.startswith("EAA"):
         return False
     return True
 
@@ -701,6 +710,23 @@ def selbsttest() -> None:
                   or "unverified" in meldung.lower())
         if trifft != weicht_aus:
             fehler.append(f"Ausweichregel falsch bei {meldung!r}")
+
+    # Die Wegerkennung. Sie ersetzt eine Frage an den Menschen durch
+    # eine Beobachtung am Token -- und muss deshalb belegen, dass sie
+    # beide Praefixe auseinanderhaelt und die Notueberschreibung
+    # weiterhin gewinnt.
+    for token, ueberschreibung, soll, was in (
+            ("EAA" + "z" * 190,  None,  False, "EAA erkennt Facebook-Weg"),
+            ("IGAA" + "x" * 190, None,  True,  "IGAA erkennt Instagram-Weg"),
+            ("IGQVJ" + "y" * 160, None, True,  "IGQ erkennt Instagram-Weg"),
+            ("IGAA" + "x" * 190, "ja",  False, "Ansage schlägt Erkennung"),
+            ("EAA" + "z" * 190,  "ja",  False, "Ansage und Erkennung einig"),
+            ("",                 None,  True,  "ohne Token bleibt Standard"),
+    ):
+        with umgebung(INSTAGRAM_TOKEN=token or None,
+                      INSTAGRAM_UEBER_FACEBOOK=ueberschreibung):
+            if ueber_instagram_login() is not soll:
+                fehler.append(f"Wegerkennung falsch: {was}")
 
     # Die Gestaltpruefung des Tokens, gegen echte Faelle. Der Positivfall
     # gehoert zwingend dazu: Eine Pruefung, die alles beanstandet, haelt
