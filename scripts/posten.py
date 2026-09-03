@@ -197,6 +197,63 @@ def ueber_instagram_login() -> bool:
     return True
 
 
+def meta_seite(token: str) -> tuple[str, str, str]:
+    """Auf dem Facebook-Weg: (Sende-Token, Instagram-Konto-ID, Name).
+
+    Der Graph API Explorer liefert ZWEI Tokenarten, und man verwechselt
+    sie leicht, weil beide mit EAA anfangen und gleich aussehen:
+
+      * **Nutzer-Token** -- gehoert dem Menschen. /me ist dann die
+        Person, und eine Person hat kein Feld
+        instagram_business_account. Meta antwortet mit
+        "(#100) Tried accessing nonexisting field", was klingt, als
+        fehle eine Berechtigung. Es fehlt aber nichts; es ist die
+        falsche Tokenart.
+      * **Seiten-Token** -- gehoert der Facebook-Seite. /me IST die
+        Seite, und daran haengt das Instagram-Konto.
+
+    Der Umschalter dafuer sitzt im Explorer in einem Auswahlfeld, das
+    man leicht uebersieht. Statt den Menschen ein zweites Mal durch
+    dieselbe Oberflaeche zu schicken, holt sich das Werkzeug das
+    Seiten-Token selbst: /me/accounts listet die Seiten der Person --
+    jede mit ihrem EIGENEN Zugriffstoken. Beide Tokenarten fuehren
+    damit zum Ziel.
+    """
+    seiten = None
+    try:
+        a = anfrage(f"{GRAPH}/me/accounts?fields=name,access_token,"
+                    f"instagram_business_account&access_token={token}",
+                    methode="GET")
+        seiten = a.get("data")
+    except RuntimeError:
+        # Ein Seiten-Token darf /me/accounts nicht aufrufen. Der Fehler
+        # ist hier also kein Fehler, sondern die Auskunft, dass schon
+        # ein Seiten-Token vorliegt.
+        seiten = None
+
+    if seiten is not None:
+        mit_ig = [s for s in seiten if s.get("instagram_business_account")]
+        if not mit_ig:
+            namen = ", ".join(s.get("name") or "?" for s in seiten)
+            raise RuntimeError(
+                f"Nutzer-Token erkannt, aber an keiner Seite hängt ein "
+                f"Instagram-Konto (gefundene Seiten: {namen or 'keine'}). "
+                f"In den Seiteneinstellungen verknüpfen")
+        s = mit_ig[0]
+        return (s.get("access_token") or token,
+                s["instagram_business_account"]["id"],
+                s.get("name") or "Seite")
+
+    a = anfrage(f"{GRAPH}/me?fields=name,instagram_business_account"
+                f"&access_token={token}", methode="GET")
+    verknuepft = a.get("instagram_business_account") or {}
+    if not verknuepft:
+        raise RuntimeError(
+            f"Token gilt für die Seite „{a.get('name')}“, aber dort hängt "
+            f"kein Instagram-Konto. In den Seiteneinstellungen verknüpfen")
+    return token, verknuepft["id"], a.get("name") or "Seite"
+
+
 def instagram_token_erneuern() -> str:
     """Umgehung fuer die 60-Tage-Frist.
 
@@ -239,16 +296,30 @@ def instagram_token_erneuern() -> str:
 def instagram(text: str, probe: bool, bild: str = "") -> str:
     token = hole("INSTAGRAM_TOKEN")
     nutzer = hole("INSTAGRAM_USER_ID")
-    if not (token and nutzer):
-        return "übersprungen (INSTAGRAM_TOKEN/USER_ID fehlt)"
+    if not token:
+        return "übersprungen (INSTAGRAM_TOKEN fehlt)"
     if not bild:
         return "übersprungen (Instagram braucht ein Bild: --bild URL)"
     if not bild.startswith("https://"):
         return f"ÜBERSPRUNGEN — Bild muss öffentlich per https erreichbar sein"
     basis = GRAPH_IG if ueber_instagram_login() else GRAPH
     if probe:
-        return (f"Probe: {basis}/{nutzer}/media (Container) "
-                f"+ /media_publish, {len(text)} Zeichen, Bild gesetzt")
+        return (f"Probe: {basis}/…/media (Container) + /media_publish, "
+                f"{len(text)} Zeichen, Bild gesetzt")
+    # Konto-ID und -- auf dem Facebook-Weg -- das Seiten-Token werden
+    # beim Senden aufgeloest, nicht vorher abgefragt. Ein Seiten-Token
+    # ist naemlich ein anderes als das eingetragene Nutzer-Token, und
+    # mit dem falschen scheitert erst der zweite von zwei Schritten --
+    # also nachdem der Bild-Container schon angelegt ist.
+    if not ueber_instagram_login():
+        token, ermittelt, _ = meta_seite(token)
+        nutzer = nutzer or ermittelt
+    elif not nutzer:
+        a = anfrage(f"{GRAPH_IG}/me?fields=user_id&access_token={token}",
+                    methode="GET")
+        nutzer = a.get("user_id")
+    if not nutzer:
+        return "übersprungen (Instagram-Konto nicht ermittelbar)"
     a = anfrage(f"{basis}/{nutzer}/media", {
         "image_url": bild, "caption": text, "access_token": token})
     behaelter = a.get("id")
@@ -490,17 +561,7 @@ def zugang_pruefen(kanal: str) -> str:
                                 f"access_token={token}", methode="GET")
                     kennung, name = a.get("user_id"), a.get("username")
                 else:
-                    a = anfrage(f"{GRAPH}/me?fields=name,"
-                                f"instagram_business_account"
-                                f"&access_token={token}", methode="GET")
-                    verknuepft = a.get("instagram_business_account") or {}
-                    if not verknuepft:
-                        return (f"— Token gilt für die Seite "
-                                f"„{a.get('name')}“, aber dort hängt kein "
-                                f"Instagram-Konto. In den Seiten-"
-                                f"einstellungen verknüpfen, dann erneut "
-                                f"prüfen")
-                    kennung, name = verknuepft.get("id"), a.get("name")
+                    _, kennung, name = meta_seite(token)
                 return (f"Token gilt für {name} — jetzt noch "
                         f"INSTAGRAM_USER_ID = {kennung} als Secret "
                         f"eintragen")
@@ -710,6 +771,61 @@ def selbsttest() -> None:
                   or "unverified" in meldung.lower())
         if trifft != weicht_aus:
             fehler.append(f"Ausweichregel falsch bei {meldung!r}")
+
+    # meta_seite() unterscheidet Nutzer- von Seiten-Token. Beide sehen
+    # gleich aus (EAA...), fuehren aber zu verschiedenen Aufrufen. Ohne
+    # Netz laesst sich das pruefen, indem anfrage() ersetzt wird -- der
+    # Punkt ist die Verzweigung, nicht die Zustellung.
+    echte_anfrage = globals()["anfrage"]
+    seiten_antwort = {"data": [
+        {"name": "Andere Seite", "access_token": "EAAseite1"},
+        {"name": "Homeeins", "access_token": "EAAseite2",
+         "instagram_business_account": {"id": "17841400000000000"}},
+    ]}
+
+    def stellen(antworten):
+        """Gibt eine anfrage()-Attrappe, die der Reihe nach antwortet."""
+        rest = list(antworten)
+
+        def gestellt(url, daten=None, kopf=None, methode="POST"):
+            wert = rest.pop(0)
+            if isinstance(wert, Exception):
+                raise wert
+            return wert
+        return gestellt
+
+    try:
+        # 1. Nutzer-Token: /me/accounts liefert Seiten, die MIT
+        #    Instagram-Konto muss gewaehlt werden -- nicht die erste.
+        globals()["anfrage"] = stellen([seiten_antwort])
+        sende, kennung, name = meta_seite("EAAnutzer")
+        if sende != "EAAseite2":
+            fehler.append("meta_seite nimmt nicht das Token der Seite")
+        if kennung != "17841400000000000":
+            fehler.append("meta_seite findet die Instagram-Konto-ID nicht")
+        if name != "Homeeins":
+            fehler.append("meta_seite waehlt die falsche Seite")
+
+        # 2. Seiten-Token: /me/accounts scheitert, /me IST die Seite.
+        globals()["anfrage"] = stellen([
+            RuntimeError("HTTP 400: nur mit Nutzer-Token"),
+            {"name": "Homeeins",
+             "instagram_business_account": {"id": "1784999"}}])
+        sende, kennung, _ = meta_seite("EAAseite")
+        if (sende, kennung) != ("EAAseite", "1784999"):
+            fehler.append("meta_seite kommt mit einem Seiten-Token nicht klar")
+
+        # 3. Seiten ohne verknuepftes Instagram-Konto: klare Ansage
+        #    statt einer Meta-Fehlernummer.
+        globals()["anfrage"] = stellen([{"data": [{"name": "Nur Facebook"}]}])
+        try:
+            meta_seite("EAAnutzer")
+            fehler.append("meta_seite meldet fehlende Verknüpfung nicht")
+        except RuntimeError as e:
+            if "Nur Facebook" not in str(e):
+                fehler.append(f"meta_seite nennt die Seite nicht: {e}")
+    finally:
+        globals()["anfrage"] = echte_anfrage
 
     # Die Wegerkennung. Sie ersetzt eine Frage an den Menschen durch
     # eine Beobachtung am Token -- und muss deshalb belegen, dass sie

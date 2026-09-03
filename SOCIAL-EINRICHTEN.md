@@ -156,9 +156,16 @@ Konten).
    `pages_show_list`, `pages_read_engagement`
 4. **Generate Access Token** → einmal anmelden, Seite und
    Instagram-Konto anhaken
-5. Im selben Auswahlfeld von **User Token** auf **Page Token**
-   umstellen und die Seite wählen — jetzt steht dort das Seiten-Token
-6. Mit dem Kopiersymbol kopieren
+5. Mit dem Kopiersymbol kopieren
+
+> Das Umschalten von **User Token** auf **Page Token** ist **nicht**
+> nötig. Beide Tokenarten funktionieren: Bei einem Nutzer-Token holt
+> sich das Werkzeug über `/me/accounts` die Seite samt ihrem eigenen
+> Token. Der Umschalter sitzt in einem leicht übersehenen Auswahlfeld,
+> und ein Nutzer-Token an der falschen Stelle meldet Meta als
+> „(#100) Tried accessing nonexisting field
+> (instagram_business_account)" — was klingt, als fehle eine
+> Berechtigung. Es fehlt aber nichts.
 
 Dann **ein** Secret:
 
