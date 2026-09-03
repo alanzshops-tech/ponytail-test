@@ -1,150 +1,140 @@
-# Metricool ersetzen? Selbst hosten oder selbst bauen
+# Metricool ersetzen — der kostenlose Weg
 
-Stand 03.09.2026. Anlass: Metricool begrenzt die Zahl der geplanten
-Beiträge. Frage war, ob es eine quelloffene Alternative gibt, mit der
-sich alle Kanäle bespielen lassen — oder ob man das selbst baut.
+Stand 03.09.2026, **zweiter Durchgang mit Korrektur**. Anlass:
+Metricool begrenzt die Zahl der geplanten Beiträge.
 
-**Gemessen, nicht erinnert.** Diese Arbeitsumgebung erreicht GitHub,
-PyPI und npm. Genau dort liegen solche Werkzeuge, also ist die
-Recherche hier ausnahmsweise direkt möglich: Repositories gesucht,
-geklont, Lizenzdateien gelesen, Anbieterverzeichnisse und
-`.env.example` ausgewertet. Was **nicht** von hier aus prüfbar ist,
-steht unten unter „Die Grenze dieser Recherche".
+> ## Korrektur des ersten Berichts
+>
+> Der erste Durchgang endete mit dem Satz, jeder Kanal brauche ein
+> Genehmigungsverfahren („Geld gegen Zeit und Genehmigungen"). **Das
+> war zu pauschal und in der Sache falsch.**
+>
+> Übersehen hatte ich den **Entwicklungsmodus** von Meta-Apps. Wer nur
+> auf **eigene** Konten postet und selbst Administrator der App ist,
+> darf die Veröffentlichungsrechte **ohne App-Review** benutzen. Genau
+> das ist der Fall bei Homeeins — es wird auf die eigenen Kanäle
+> gepostet, nicht im Auftrag Dritter.
+>
+> Damit ist der kostenlose Weg für die wichtigsten Kanäle offen, und
+> die Antwort im ersten Bericht war unnötig entmutigend.
 
 ---
 
-## Das Ergebnis in einem Satz
+## Die Trennlinie, auf die es ankommt
 
-**Die Software ist kostenlos zu haben und ausgereift. Der Zugang zu den
-Plattformen ist es nicht** — und der ist das eigentliche Hindernis, bei
-jeder Lösung gleich, ob gekauft, selbst gehostet oder selbst gebaut.
+Nicht „welche Software", sondern **wem gehört das Konto, auf das
+gepostet wird**:
+
+| | App-Review nötig? |
+|---|---|
+| Du postest auf **fremde** Konten (wie Metricool es tut) | **ja**, immer |
+| Du postest auf **deine eigenen** Konten | **nein**, Entwicklungsmodus reicht |
+
+Metricool braucht das Review, weil es für tausende fremde Kunden
+postet. Du brauchst es nicht.
 
 ---
 
-## Die Kandidaten, gemessen am 03.09.2026
+## Kanal für Kanal
 
-| | Postiz | Mixpost |
+**Kostenlos und ohne Genehmigung — sofort nutzbar:**
+
+| Kanal | Weg | Praktische Grenze |
 |---|---|---|
-| Sterne | **35.410** | 3.654 |
-| Lizenz | **AGPL-3.0** | **MIT** |
-| Letzter Commit | **vor 14 Stunden** | vor **6 Monaten** |
-| Sprache | TypeScript (Next.js/NestJS) | PHP (Laravel/Vue) |
-| Anbieter im Code | **36** | 3 Familien (Meta, Twitter, Mastodon) |
+| **Mastodon** | Zugangstoken in den Kontoeinstellungen | keine nennenswerte |
+| **Bluesky** | App-Passwort, AT-Protokoll | keine nennenswerte |
+| **Telegram** | Bot-Token vom BotFather | 30 Nachrichten/Sekunde |
+| **Discord** | Webhook-URL, ein Klick | 5 pro Sekunde |
+| **WordPress** | Anwendungspasswort | keine |
+| **Reddit** | eigene App, Skript-Typ | 100 Anfragen/Minute |
 
-**Postiz** ist der klare Marktführer und lebendig. Im Verzeichnis
-`libraries/nestjs-libraries/src/integrations/social/` liegen 36
-Anbieter, darunter alle für Homeeins relevanten:
+**Kostenlos, aber einmalige Einrichtung — kein Review, wenn eigenes Konto:**
 
-> `instagram` · `instagram.standalone` · `facebook` · `tiktok` ·
-> `tiktok.business` · `youtube` · `pinterest` · `x` · `threads` ·
-> `linkedin` · `linkedin.page`
-
-Dazu Bluesky, Mastodon, Reddit, Discord, Telegram, WordPress, Medium,
-Dev.to, Tumblr, Twitch, Nostr, Farcaster und weitere.
-
-**Mixpost** ist zwar MIT-lizenziert — juristisch bequemer als AGPL —,
-aber seit sechs Monaten ohne Commit und deckt im quelloffenen Teil nur
-drei Anbieterfamilien ab. Für „alle Kanäle bespielen" reicht das nicht.
-
-**Ein Nebenfund, der zu diesem Projekt passt:** `gitroomhq/postiz-agent`
-(440 Sterne) ist eine CLI, die sich als Claude-Code-Plugin einbinden
-lässt — `/plugin install postiz@postiz-agent`. Damit ließe sich das
-Planen direkt aus einer Sitzung heraus steuern, statt über eine
-Weboberfläche.
-
----
-
-## Warum „selbst bauen" keinen Vorteil bringt
-
-Der Reflex ist verständlich: ein Scheduler ist technisch simpel — eine
-Tabelle mit Terminen, ein Cronjob, pro Plattform ein HTTP-Aufruf. Das
-ist an einem Wochenende gebaut.
-
-**Nur ist das nicht die Arbeit.** Postiz' `.env.example` zeigt, was
-jeder Kanal tatsächlich verlangt — eigene App-Zugangsdaten, die man bei
-der jeweiligen Plattform beantragen muss:
-
-```
-FACEBOOK_APP_ID / FACEBOOK_APP_SECRET
-THREADS_APP_ID / THREADS_APP_SECRET
-TIKTOK_CLIENT_ID / TIKTOK_CLIENT_SECRET
-TIKTOK_BUSINESS_CLIENT_ID / TIKTOK_BUSINESS_CLIENT_SECRET
-YOUTUBE_CLIENT_ID / YOUTUBE_CLIENT_SECRET
-X_API_KEY / X_API_SECRET
-PINTEREST_CLIENT_ID / PINTEREST_CLIENT_SECRET
-LINKEDIN_CLIENT_ID / LINKEDIN_CLIENT_SECRET
-```
-
-Diese Liste ist identisch, ob man Postiz nimmt oder selbst schreibt.
-**Selbst bauen erspart keinen einzigen dieser Anträge** und kostet
-zusätzlich die Wartung, wenn eine Plattform ihre API ändert — was
-laufend passiert. Postiz hat dafür eine Gemeinschaft; ein Eigenbau hat
-niemanden.
-
-**Fazit:** Selbst bauen lohnt nur als Lernprojekt, nicht als Lösung.
-
----
-
-## Was die Entscheidung wirklich kostet
-
-| | Metricool bezahlen | Postiz selbst hosten |
+| Kanal | Voraussetzung | Praktische Grenze |
 |---|---|---|
-| Geld | Abo | Server (~5–10 €/Monat) |
-| Einrichtung | keine | Docker, Domain, HTTPS |
-| Plattform-Anträge | **keine** | **für jeden Kanal einzeln** |
-| Wartung bei API-Änderungen | Metricool | du |
-| Beitragslimit | ja, das ist dein Problem | **keins** |
-| Zugangsdaten | bei Metricool | bei dir |
+| **Instagram** | Business- oder Creator-Konto, verknüpft mit einer Facebook-Seite; eigene Meta-App im Entwicklungsmodus | Content-Publishing-Limit je Konto und Tag |
+| **Facebook-Seite** | dieselbe Meta-App, Seiten-Token | großzügig |
+| **Threads** | eigene Threads-App, eigenes Konto | Tageslimit je Konto |
+| **YouTube** | Google-Cloud-Projekt, OAuth auf den eigenen Kanal | Tagesquote; ein Upload kostet viel davon |
 
-**Der ehrliche Vergleich ist nicht „kostenlos gegen Abo", sondern
-„Geld gegen Zeit und Genehmigungen".** Metricool verkauft im Kern
-genau das, was Postiz nicht mitliefert: fertige, genehmigte
-Plattform-Zugänge.
+**Echte Mauern — hier gibt es keinen kostenlosen Weg:**
+
+| Kanal | Warum |
+|---|---|
+| **TikTok** | Die Content-Posting-API lässt nicht geprüfte Apps nur **privat** veröffentlichen. Öffentlich posten geht erst nach Audit. |
+| **X** | Schreibzugriff ist seit 2023 kostenpflichtig bzw. im Gratis-Kontingent sehr eng. |
+| **Pinterest** | Nur eingeschränkter Testzugang, mehr erst nach Prüfung. |
 
 ---
 
-## Empfehlung
+## Und der Weg, den „andere im Internet" gehen
 
-**Postiz, selbst gehostet — aber schrittweise, nicht auf einmal.**
+Bei der Suche kamen sofort die meistgesternten Treffer hoch:
+`instagrapi` (6.738 ⭐), `instagram-private-api` (6.472 ⭐),
+`instagram4j`, `InstagramApiSharp`. Das sind **rückentwickelte private
+APIs** — sie melden sich an wie die Handy-App und umgehen die
+offizielle Schnittstelle vollständig.
 
-Die Reihenfolge folgt der Schwierigkeit der Genehmigung, nicht der
-Wichtigkeit des Kanals:
+**Sie sind kostenlos, unbegrenzt und funktionieren.** Deshalb findet
+man sie überall.
 
-1. **Zuerst die offenen Kanäle.** Mastodon, Bluesky, Telegram,
-   Discord und WordPress brauchen keine Freigabe — nur einen Token.
-   Damit steht das System und man sieht, ob es trägt.
-2. **Dann Meta** (Instagram, Facebook, Threads). Ein App-Review ist
-   nötig, aber es ist der Kanal, der für Homeeins zählt.
-3. **Dann TikTok und YouTube**, beide mit eigenem Antrag.
-4. **X zuletzt oder gar nicht** — die API ist kostenpflichtig, und für
-   einen Möbelshop ist der Kanal ohnehin zweitrangig.
+**Und sie sind der Grund, warum Konten gesperrt werden.** Sie
+verstoßen gegen die Nutzungsbedingungen; Meta erkennt automatisierte
+Anmeldungen an Gerätekennungen und Verhaltensmustern. Der Verlust
+trifft nicht die App, sondern **das Konto des Ladens**.
 
-**Metricool währenddessen weiterlaufen lassen.** Erst abschalten, wenn
-Postiz nachweislich für die wichtigsten Kanäle postet — nicht vorher.
+Für einen Shop mit echten Kunden ist dieser Handel schlecht: unbegrenzt
+posten gegen das Risiko, den Kanal ganz zu verlieren. Für einen
+Wegwerf-Account mag das anders aussehen — für Homeeins nicht.
 
-**Und die Regel aus `CLAUDE.md` gilt hier besonders:** Alle diese
-Schlüssel gehören in GitHub Secrets oder in die Serverumgebung, nicht
-ins Repository und nicht in den Chat.
+**Das ist kein moralischer Einwand, sondern eine Risikorechnung.**
+
+---
+
+## Die Empfehlung
+
+**Postiz selbst hosten** (AGPL-3.0, 35.410 ⭐, Commit von gestern, 36
+Anbieter) und die eigenen App-Zugangsdaten im Entwicklungsmodus
+eintragen. Kosten: ein kleiner Server, sonst nichts. Kein Beitragslimit.
+
+Reihenfolge nach Aufwand:
+
+1. **Sofort, ohne Einrichtungsaufwand:** Mastodon, Bluesky, Telegram,
+   Discord. Damit steht das System an einem Abend, und du siehst, ob
+   der Betrieb trägt.
+2. **Dann Meta** — Instagram und Facebook, eine App für beide. Das ist
+   der Kanal, der für Möbel zählt.
+3. **Dann YouTube**, eigenes Google-Cloud-Projekt.
+4. **TikTok und X bleiben bei Metricool** oder werden von Hand
+   gepostet — dort ist der kostenlose Weg tatsächlich zu.
+
+**Metricool währenddessen laufen lassen.** Erst kündigen, wenn Postiz
+für die wichtigsten Kanäle nachweislich postet.
+
+`gitroomhq/postiz-agent` (440 ⭐) ist eine CLI, die sich als
+Claude-Code-Plugin einbinden lässt — damit ließe sich das Planen direkt
+aus einer Sitzung steuern.
+
+**Zugangsdaten gehören in GitHub Secrets oder die Serverumgebung**, nie
+ins Repository und nie in den Chat (`CLAUDE.md`, Regel 4).
 
 ---
 
 ## Die Grenze dieser Recherche
 
-Von hier aus **gemessen**: Sternzahlen, Lizenzen, Commit-Daten,
-Anbieterverzeichnisse, benötigte Umgebungsvariablen — alles aus den
-geklonten Repositories selbst.
+**Gemessen** — aus geklonten Repositories: Sternzahlen, Lizenzen,
+Commit-Daten, die 36 Anbieter in Postiz, die benötigten Rechte
+(`instagram_content_publish`, `instagram_basic`,
+`instagram_business_account`), n8ns Knotenliste.
 
-Von hier aus **nicht prüfbar**, weil die Umgebung nur GitHub, PyPI und
-npm erreicht:
+**Nicht von hier prüfbar**, weil die Umgebung nur GitHub, PyPI und npm
+erreicht — das sind die Stellen, an denen konkrete Zahlen stehen:
 
-- **Wie schwer die Genehmigungen tatsächlich sind.** Meta, TikTok und
-  X ändern ihre Bedingungen laufend. Ob ein kleiner Händler ohne
-  Reichweite die Instagram-Veröffentlichungsrechte bekommt, steht in
-  Metas eigenen Unterlagen, nicht auf GitHub.
-- **Was die X-API heute kostet.** Preise ändern sich; jede Zahl aus
-  meinem Gedächtnis wäre geraten.
-- **Ob Postiz im Betrieb hält.** 35.410 Sterne sind ein Signal, kein
-  Beweis. Das zeigt erst ein Testlauf.
+- **Die genauen Tageslimits** für Instagram, Threads und YouTube.
+  Sie stehen in Metas und Googles eigenen Unterlagen und ändern sich.
+- **Ob der Entwicklungsmodus weiterhin ohne Review veröffentlicht.**
+  Das Verfahren gilt seit Jahren, aber Meta ändert Bedingungen.
+- **Was X' Schreibzugriff heute kostet.**
 
-Diese drei Punkte gehören auf die Plattformseiten selbst nachgesehen,
-bevor Geld oder Zeit fließt.
+Der erste Schritt sollte deshalb ein **Testlauf mit einem Kanal** sein,
+nicht der Umbau aller Kanäle auf einmal.
