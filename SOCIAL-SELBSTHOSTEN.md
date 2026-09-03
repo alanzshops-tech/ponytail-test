@@ -251,9 +251,69 @@ müssen nicht alle gesetzt sein — was fehlt, wird übersprungen.
 Die Ausgabe zeigt dann kanalweise, welche Zugangsdaten ankommen. Erst
 wenn das stimmt, denselben Lauf mit `probe: false` wiederholen.
 
-## Was als Nächstes dazukommt
+## Zweiter Schritt, ebenfalls am 03.09.2026: Instagram, Facebook, TikTok
 
-Instagram, Facebook, Threads, YouTube und TikTok sind ebenfalls
-kostenlos, brauchen aber je eine eigene App und einen OAuth-Ablauf. Sie
-gehören in einen zweiten Schritt — sinnvollerweise erst, wenn diese
-vier nachweislich laufen.
+Dazugebaut, weil das die Kanäle sind, die für Möbel zählen. Damit
+kennt `posten.py` **sieben** Kanäle.
+
+**Instagram** veröffentlicht in zwei Schritten, und das ist keine
+Marotte: `/media` legt einen Container an und lädt das Bild, erst
+`/media_publish` veröffentlicht ihn. Dazwischen kann Instagram das Bild
+ablehnen — deshalb wird der zweite Schritt nur nach erfolgreichem
+ersten gemacht.
+
+**Das Bild muss öffentlich per https erreichbar sein.** Instagram holt
+es selbst ab; ein Pfad im Repository oder eine private Adresse geht
+nicht. Für Homeeins heißt das: die Shopify-CDN-Adresse des
+Produktbildes. Eine `http`-URL wird abgelehnt, bevor der Aufruf
+rausgeht — sonst sucht man den Grund später im Protokoll.
+
+Über `INSTAGRAM_STANDALONE` lässt sich zwischen den beiden Wegen
+umschalten: gesetzt = `graph.instagram.com` (**ohne Facebook-Seite**),
+leer = `graph.facebook.com` (klassisch, Seite nötig).
+
+**Facebook** braucht nur einen Aufruf. Mit Bild geht `/photos`, ohne
+Bild `/feed` — zwei Wege, eine Entscheidung im Code.
+
+**TikTok** nimmt den Entwurfs-Weg:
+
+```
+https://open.tiktokapis.com/v2/post/publish/inbox/video/init/
+Scope: video.upload      (nicht video.publish)
+```
+
+Das Video landet im TikTok-Postfach, veröffentlicht wird mit einem Tipp
+in der App. Kein Audit, keine Kosten. Als Quelle steht `PULL_FROM_URL`
+im Code — das verlangt eine bei TikTok verifizierte Domain. Ist sie
+nicht verifiziert, schlägt der Aufruf mit einer klaren Meldung fehl,
+statt still nichts zu tun.
+
+### Zusätzliche Secrets
+
+| Secret | Woher |
+|---|---|
+| `INSTAGRAM_TOKEN` | Meta-App → Zugriffstoken des Instagram-Kontos |
+| `INSTAGRAM_USER_ID` | die Instagram-Business-Konto-ID |
+| `INSTAGRAM_STANDALONE` | irgendein Wert = Weg ohne Facebook-Seite |
+| `FACEBOOK_PAGE_TOKEN` | Seiten-Zugriffstoken (nicht das Nutzertoken) |
+| `FACEBOOK_PAGE_ID` | die Seiten-ID |
+| `TIKTOK_ACCESS_TOKEN` | aus dem Login-Kit-Ablauf, Scope `video.upload` |
+
+### Was der Selbsttest zusätzlich prüft
+
+- **Instagram ohne Bild** überspringt, statt zu stürzen.
+- **Instagram mit `http://`** wird abgelehnt, `https://` läuft an.
+- **TikTok ohne Video** überspringt.
+- **TikTok nimmt den `inbox`-Endpunkt**, nicht den Audit-Weg.
+
+Weiterhin **nicht geprüft**: ob ein Beitrag wirklich erscheint. Bei
+Instagram kommt hinzu, dass die Zugriffstoken ablaufen — ein Lauf, der
+heute klappt, kann in zwei Monaten an einem abgelaufenen Token
+scheitern. Das zeigt nur der Betrieb.
+
+## Was noch fehlt
+
+**Threads** und **YouTube**. Beide kostenlos, beide mit eigener App.
+YouTube braucht zusätzlich ein Google-Cloud-Projekt und hat eine
+Tagesquote, die Uploads teuer macht. Sie kommen, wenn die sieben
+laufen.

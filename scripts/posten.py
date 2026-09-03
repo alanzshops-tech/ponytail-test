@@ -47,7 +47,15 @@ GRENZE = {
     "bluesky": 300,
     "telegram": 4096,
     "discord": 2000,
+    "instagram": 2200,
+    "facebook": 63206,
+    "tiktok": 150,          # Titel des Entwurfs
 }
+
+# Kanaele, die ohne Medium nicht koennen. Instagram veroeffentlicht
+# grundsaetzlich kein reines Textformat, TikTok schon gar nicht.
+BRAUCHT_BILD = {"instagram"}
+BRAUCHT_VIDEO = {"tiktok"}
 
 
 def hole(name: str) -> str | None:
@@ -136,11 +144,128 @@ def discord(text: str, probe: bool) -> str:
     return "gesendet"
 
 
+
+# ---------------------------------------------- Meta: Instagram, Facebook
+#
+# Beide brauchen eine eigene App, aber KEIN App-Review, solange nur auf
+# eigene Konten gepostet wird (Entwicklungsmodus). Belege und Herleitung
+# in ../SOCIAL-SELBSTHOSTEN.md.
+#
+# Instagram veroeffentlicht in ZWEI Schritten, und das ist keine Marotte:
+#   1. /media          legt einen Container an und laedt das Bild
+#   2. /media_publish  veroeffentlicht ihn
+# Zwischen beiden kann Instagram das Bild ablehnen -- deshalb wird der
+# zweite Schritt nur nach erfolgreichem ersten gemacht.
+#
+# **Das Bild muss oeffentlich erreichbar sein.** Instagram holt es selbst
+# ab; ein Pfad im Repository oder eine private URL geht nicht. Fuer
+# Homeeins heisst das: die Shopify-CDN-Adresse des Produktbildes.
+
+GRAPH = "https://graph.facebook.com/v21.0"
+GRAPH_IG = "https://graph.instagram.com/v21.0"
+
+
+def instagram(text: str, probe: bool, bild: str = "") -> str:
+    token = hole("INSTAGRAM_TOKEN")
+    nutzer = hole("INSTAGRAM_USER_ID")
+    if not (token and nutzer):
+        return "übersprungen (INSTAGRAM_TOKEN/USER_ID fehlt)"
+    if not bild:
+        return "übersprungen (Instagram braucht ein Bild: --bild URL)"
+    if not bild.startswith("https://"):
+        return f"ÜBERSPRUNGEN — Bild muss öffentlich per https erreichbar sein"
+    basis = GRAPH_IG if hole("INSTAGRAM_STANDALONE") else GRAPH
+    if probe:
+        return (f"Probe: {basis}/{nutzer}/media (Container) "
+                f"+ /media_publish, {len(text)} Zeichen, Bild gesetzt")
+    a = anfrage(f"{basis}/{nutzer}/media", {
+        "image_url": bild, "caption": text, "access_token": token})
+    behaelter = a.get("id")
+    if not behaelter:
+        raise RuntimeError(f"kein Container zurückbekommen: {a}")
+    b = anfrage(f"{basis}/{nutzer}/media_publish", {
+        "creation_id": behaelter, "access_token": token})
+    return f"gesendet: Beitrag {b.get('id')}"
+
+
+def facebook(text: str, probe: bool, bild: str = "") -> str:
+    token = hole("FACEBOOK_PAGE_TOKEN")
+    seite = hole("FACEBOOK_PAGE_ID")
+    if not (token and seite):
+        return "übersprungen (FACEBOOK_PAGE_TOKEN/PAGE_ID fehlt)"
+    # Mit Bild geht /photos, ohne Bild /feed. Zwei Wege, ein Aufruf.
+    weg = "photos" if bild else "feed"
+    if probe:
+        return (f"Probe: {GRAPH}/{seite}/{weg}, {len(text)} Zeichen"
+                f"{', mit Bild' if bild else ''}")
+    nutzlast = {"access_token": token}
+    if bild:
+        nutzlast |= {"url": bild, "caption": text}
+    else:
+        nutzlast |= {"message": text}
+    a = anfrage(f"{GRAPH}/{seite}/{weg}", nutzlast)
+    return f"gesendet: {a.get('post_id') or a.get('id')}"
+
+
+# ------------------------------------------------------------- TikTok
+#
+# Der Weg ohne Audit: Scope `video.upload` und der Endpunkt
+# .../post/publish/inbox/video/init/ -- das Video landet als ENTWURF im
+# TikTok-Postfach, veroeffentlicht wird mit einem Fingertipp in der App.
+# Der Weg mit Audit waere /post/publish/video/init/ und `video.publish`.
+#
+# Zwei Quellen sind moeglich. PULL_FROM_URL verlangt eine bei TikTok
+# verifizierte Domain -- also wieder ein Antrag. FILE_UPLOAD nicht, ist
+# aber zweistufig: erst Anmeldung, dann die Bytes an die zurueckgegebene
+# Adresse. Hier steht PULL_FROM_URL, weil die Produktvideos ohnehin auf
+# einer eigenen Domain liegen; ohne verifizierte Domain schlaegt es mit
+# einer klaren Meldung fehl statt still zu tun.
+
+def tiktok(text: str, probe: bool, video: str = "") -> str:
+    token = hole("TIKTOK_ACCESS_TOKEN")
+    if not token:
+        return "übersprungen (TIKTOK_ACCESS_TOKEN fehlt)"
+    if not video:
+        return "übersprungen (TikTok braucht ein Video: --video URL)"
+    ziel = ("https://open.tiktokapis.com/v2/post/publish/"
+            "inbox/video/init/")
+    if probe:
+        return (f"Probe: {ziel} (Entwurf, Scope video.upload), "
+                f"Titel {len(text)} Zeichen")
+    a = anfrage(ziel, {
+        "source_info": {"source": "PULL_FROM_URL", "video_url": video},
+        "post_info": {"title": text[:150]},
+    }, {"Authorization": f"Bearer {token}"})
+    kennung = (a.get("data") or {}).get("publish_id")
+    if not kennung:
+        raise RuntimeError(f"keine publish_id: {a}")
+    return (f"als Entwurf hochgeladen ({kennung}) — "
+            f"in der TikTok-App auf „Posten“ tippen")
+
+
 KANAELE = {"mastodon": mastodon, "bluesky": bluesky,
-           "telegram": telegram, "discord": discord}
+           "telegram": telegram, "discord": discord,
+           "instagram": instagram, "facebook": facebook,
+           "tiktok": tiktok}
 
 
 # ---------------------------------------------------------- Pruefungen
+
+def senden(kanal: str, text: str, probe: bool, bild: str,
+           video: str) -> str:
+    """Ruft den Kanal mit dem Medium auf, das er braucht.
+
+    Nicht jeder Kanal nimmt dasselbe: Instagram will ein Bild, TikTok
+    ein Video, die vier Textkanaele gar nichts. Die Fallunterscheidung
+    steht hier an einer Stelle statt in sieben Funktionen.
+    """
+    fn = KANAELE[kanal]
+    if kanal in BRAUCHT_VIDEO:
+        return fn(text, probe, video)
+    if kanal in ("instagram", "facebook"):
+        return fn(text, probe, bild)
+    return fn(text, probe)
+
 
 def zu_lang(text: str, kanal: str) -> bool:
     return len(text) > GRENZE[kanal]
@@ -169,10 +294,14 @@ def selbsttest() -> None:
     # stuerzen -- sonst reisst ein fehlendes Secret den ganzen Lauf ab.
     sicherung = {k: os.environ.pop(k, None) for k in
                  ("MASTODON_TOKEN", "BLUESKY_HANDLE", "BLUESKY_APP_PASSWORD",
-                  "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "DISCORD_WEBHOOK")}
+                  "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "DISCORD_WEBHOOK",
+                  "INSTAGRAM_TOKEN", "INSTAGRAM_USER_ID",
+                  "FACEBOOK_PAGE_TOKEN", "FACEBOOK_PAGE_ID",
+                  "TIKTOK_ACCESS_TOKEN")}
     try:
-        for name, fn in KANAELE.items():
-            antwort = fn("Test", probe=True)
+        for name in KANAELE:
+            antwort = senden(name, "Test", True, "https://x.invalid/b.jpg",
+                             "https://x.invalid/v.mp4")
             if "übersprungen" not in antwort:
                 fehler.append(f"{name}: ohne Zugangsdaten nicht übersprungen "
                               f"({antwort})")
@@ -180,6 +309,32 @@ def selbsttest() -> None:
         for k, v in sicherung.items():
             if v is not None:
                 os.environ[k] = v
+
+    # Instagram ohne Bild muss ueberspringen, nicht stuerzen -- und ein
+    # Bild ohne https muss auffallen, weil Instagram es sonst selbst
+    # ablehnt und man den Grund im Protokoll suchen darf.
+    os.environ["INSTAGRAM_TOKEN"] = "x"
+    os.environ["INSTAGRAM_USER_ID"] = "1"
+    try:
+        if "übersprungen" not in instagram("Test", True, ""):
+            fehler.append("Instagram ohne Bild wird nicht übersprungen")
+        if "ÜBERSPRUNGEN" not in instagram("Test", True, "http://x/b.jpg"):
+            fehler.append("Instagram nimmt eine http-URL an")
+        if not instagram("Test", True, "https://x/b.jpg").startswith("Probe:"):
+            fehler.append("Instagram mit gültigem Bild läuft nicht an")
+    finally:
+        os.environ.pop("INSTAGRAM_TOKEN", None)
+        os.environ.pop("INSTAGRAM_USER_ID", None)
+
+    # TikTok ohne Video ebenso.
+    os.environ["TIKTOK_ACCESS_TOKEN"] = "x"
+    try:
+        if "übersprungen" not in tiktok("Test", True, ""):
+            fehler.append("TikTok ohne Video wird nicht übersprungen")
+        if "inbox" not in tiktok("Test", True, "https://x/v.mp4"):
+            fehler.append("TikTok nimmt nicht den Entwurfs-Endpunkt")
+    finally:
+        os.environ.pop("TIKTOK_ACCESS_TOKEN", None)
 
     # Die Probe darf unter keinen Umstaenden senden. Ein Kanal mit
     # Zugangsdaten muss im Probelauf trotzdem nur beschreiben.
@@ -195,8 +350,10 @@ def selbsttest() -> None:
         print("  FEHLER:", f)
     if fehler:
         sys.exit(1)
-    print("  bestanden (Längengrenzen je Kanal positiv und negativ, "
-          "Überspringen ohne Zugangsdaten, Probe sendet nicht).")
+    print("  bestanden (Längengrenzen je Kanal positiv und negativ; "
+          "Überspringen ohne Zugangsdaten und ohne Medium; Instagram "
+          "lehnt http ab; TikTok nimmt den Entwurfs-Endpunkt; "
+          "Probe sendet nicht).")
     print("  NICHT geprüft: ob ein Beitrag wirklich erscheint — dafür "
           "fehlt hier das Netz.")
 
@@ -205,6 +362,11 @@ def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--text", default="")
     p.add_argument("--kanaele", default="mastodon,bluesky,telegram,discord")
+    p.add_argument("--bild", default="",
+                   help="öffentliche https-URL; Instagram verlangt sie, "
+                        "Facebook nutzt sie wenn vorhanden")
+    p.add_argument("--video", default="",
+                   help="öffentliche https-URL für TikTok")
     p.add_argument("--probe", action="store_true",
                    help="nichts senden, nur zeigen was passieren würde")
     p.add_argument("--selbsttest", action="store_true")
@@ -232,7 +394,7 @@ def main() -> None:
                   f"Grenze {GRENZE[k]}")
             continue
         try:
-            print(f"  {k:9s} {KANAELE[k](a.text, a.probe)}")
+            print(f"  {k:9s} {senden(k, a.text, a.probe, a.bild, a.video)}")
         except Exception as e:                          # noqa: BLE001
             fehlgeschlagen += 1
             print(f"  {k:9s} FEHLER: {e}")

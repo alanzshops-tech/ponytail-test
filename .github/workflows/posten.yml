@@ -1,7 +1,15 @@
 name: Posten
 
-# Veröffentlicht auf den Kanälen, die keine Genehmigung brauchen:
-# Mastodon, Bluesky, Telegram, Discord.
+# Veröffentlicht auf sieben Kanälen.
+#
+#   ohne jede Einrichtung: Mastodon, Bluesky, Telegram, Discord
+#   eigene App, kein Review: Instagram, Facebook, TikTok
+#
+# Instagram und Facebook laufen im Entwicklungsmodus der eigenen
+# Meta-App -- solange nur auf eigene Konten gepostet wird, ist kein
+# App-Review nötig. TikTok lädt als ENTWURF ins Postfach (Scope
+# video.upload); veröffentlicht wird mit einem Tipp in der App.
+# Herleitung und Belege in SOCIAL-SELBSTHOSTEN.md.
 #
 # Läuft hier und nicht in der Arbeitsumgebung, weil die nur GitHub, PyPI
 # und npm erreicht — mastodon.social, bsky.social, api.telegram.org und
@@ -22,9 +30,17 @@ on:
         type: string
         required: true
       kanaele:
-        description: "Komma-Liste; leer = alle vier"
+        description: "Komma-Liste der Kanäle"
         type: string
-        default: "mastodon,bluesky,telegram,discord"
+        default: "instagram,facebook,tiktok"
+      bild:
+        description: "Öffentliche https-URL des Bildes (Instagram verlangt sie)"
+        type: string
+        default: ""
+      video:
+        description: "Öffentliche https-URL des Videos (TikTok)"
+        type: string
+        default: ""
       probe:
         description: "Probelauf — nichts senden, nur zeigen"
         type: boolean
@@ -55,8 +71,16 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_STANDALONE: ${{ secrets.INSTAGRAM_STANDALONE }}
+          FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
         run: |
           python3 scripts/posten.py \
             --text "${{ inputs.text }}" \
             --kanaele "${{ inputs.kanaele }}" \
+            --bild "${{ inputs.bild }}" \
+            --video "${{ inputs.video }}" \
             ${{ inputs.probe && '--probe' || '' }}
