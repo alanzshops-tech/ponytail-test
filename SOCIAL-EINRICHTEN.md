@@ -245,11 +245,31 @@ damit weg, ohne dass wir sie prüfen müssen.
 
 ## Stufe 3 — TikTok
 
+**Aufwand ehrlich eingeschätzt:** Das ist die aufwendigste der drei
+Stufen, nicht die einfachste. Eigene App, eigenes Produkt, eigener
+OAuth-Durchlauf — dieselbe Art Konsole wie bei Meta, mit mehr
+Schritten. Am Telefon ist es kaum zu machen.
+
 1. `developers.tiktok.com` → App anlegen
 2. Produkt **Content Posting API** hinzufügen
 3. Scope **`video.upload`** — *nicht* `video.publish`. Der erste
    braucht kein Audit, der zweite schon.
 4. Login-Kit durchlaufen, Zugriffstoken → Secret `TIKTOK_ACCESS_TOKEN`
+
+**Aus dem Instagram-Weg gelernt und hier vorweggenommen:** Das Werkzeug
+prüft vor dem ersten Aufruf, ob überhaupt ein Token eingetragen ist
+oder aus Versehen der **Client Key** bzw. das **Client Secret** — die
+stehen in TikToks Konsole direkt daneben und sind deutlich kürzer.
+Ebenso, ob die Videoadresse `https` ist. Beides hat bei Instagram je
+eine Runde gekostet.
+
+> **Was hier nicht nachgemessen ist:** die Menüführung von TikToks
+> Konsole und das Format des Tokens. Diese Arbeitsumgebung erreicht
+> `developers.tiktok.com` nicht. Deshalb prüft das Werkzeug bei TikTok
+> ausdrücklich **kein** Präfix — nur was formatunabhängig feststeht
+> (Leerzeichen, reine Ziffernfolge, zu kurz). Eine aus der Erinnerung
+> geschriebene Musterliste hat in diesem Repository schon dreimal
+> gesunde Fälle beanstandet.
 
 **Das Video landet als Entwurf im TikTok-Postfach.** Veröffentlicht
 wird mit einem Fingertipp in der App. Das ist der Preis dafür, kein

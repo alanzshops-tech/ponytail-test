@@ -392,11 +392,21 @@ def tiktok(text: str, probe: bool, video: str = "") -> str:
         return "übersprungen (TIKTOK_ACCESS_TOKEN fehlt)"
     if not video:
         return "übersprungen (TikTok braucht ein Video: --video URL)"
+    # Dieselbe Falle wie bei Instagram: Beide Wege -- PULL_FROM_URL und
+    # der Rueckfall FILE_UPLOAD -- holen das Video ueber diese Adresse.
+    # Ein Pfad im Repository oder http scheitert erst im Aufruf.
+    if not video.startswith("https://"):
+        return "ÜBERSPRUNGEN — Video muss öffentlich per https erreichbar sein"
     ziel = ("https://open.tiktokapis.com/v2/post/publish/"
             "inbox/video/init/")
     if probe:
         return (f"Probe: {ziel} (Entwurf, Scope video.upload), "
                 f"Titel {len(text)} Zeichen")
+    # Erst hier, nicht frueher: Der Probelauf soll beschreiben, was
+    # passieren wuerde, und nicht an der Konfiguration haengenbleiben.
+    verdacht = token_form_allgemein(token)
+    if verdacht:
+        return f"ÜBERSPRUNGEN — das eingetragene Token {verdacht}"
     kopf = {"Authorization": f"Bearer {token}"}
     # Erst der bequeme Weg. PULL_FROM_URL laesst TikTok das Video selbst
     # holen -- verlangt aber eine bei TikTok verifizierte Domain.
@@ -461,6 +471,32 @@ KANAELE = {"mastodon": mastodon, "bluesky": bluesky,
 #
 # Diese Probe ruft je Kanal einen LESENDEN Endpunkt auf. Sie
 # veroeffentlicht nichts und kann deshalb beliebig oft laufen.
+
+def token_form_allgemein(token: str) -> str | None:
+    """Formfehler, die bei JEDEM Dienst dieselben sind.
+
+    Bewusst ohne Aussage ueber Praefixe: Bei Meta sind IGAA/IGQ/EAA
+    nachgemessen, bei TikTok ist mir kein Praefix bekannt, das ich
+    belegen koennte -- und eine aus der Erinnerung geschriebene
+    Musterliste hat in diesem Repository schon dreimal gesunde Faelle
+    beanstandet. Geprueft wird deshalb nur, was ohne Kenntnis des
+    Formats feststeht: Leerzeichen gehoeren nicht hinein, eine reine
+    Ziffernfolge ist eine ID, und zwanzig Zeichen sind kein Token,
+    sondern ein Schluessel oder ein Geheimnis.
+    """
+    roh = token.strip()
+    if any(z.isspace() for z in roh):
+        return ("enthält ein Leerzeichen oder einen Zeilenumbruch — beim "
+                "Kopieren ist etwas mitgekommen")
+    if roh.isdigit():
+        return (f"besteht nur aus {len(roh)} Ziffern — das ist eine ID, "
+                f"kein Token")
+    if len(roh) <= 40:
+        return (f"ist nur {len(roh)} Zeichen lang — bei TikTok sind der "
+                f"Client Key und das Client Secret so kurz, das Token "
+                f"nicht")
+    return None
+
 
 def token_form(token: str, instagram_login: bool = True) -> str | None:
     """Sagt VOR dem Aufruf, ob das ueberhaupt ein Token sein kann.
@@ -864,6 +900,33 @@ def selbsttest() -> None:
                               "anderen Fall")
     finally:
         globals()["anfrage"] = echte_anfrage
+
+    # TikTok: Video-Adresse und Tokenform. Beide Faelle haben bei
+    # Instagram je eine Runde gekostet, bevor sie gefangen wurden.
+    with umgebung(TIKTOK_ACCESS_TOKEN="t" * 60):
+        if "https" not in tiktok("Test", False, "http://x/v.mp4"):
+            fehler.append("TikTok nimmt eine http-Videoadresse an")
+        if "übersprungen" not in tiktok("Test", False, ""):
+            fehler.append("TikTok ohne Video wird nicht übersprungen")
+    # Ein zu kurzes Token darf den PROBELAUF nicht aufhalten -- sonst
+    # beschreibt die Probe nicht mehr, was passieren wuerde.
+    with umgebung(TIKTOK_ACCESS_TOKEN="kurz"):
+        if not tiktok("Test", True, "https://x/v.mp4").startswith("Probe:"):
+            fehler.append("TikTok-Probe hängt an der Tokenform")
+
+    for wert, soll, was in (
+            ("t" * 60,            None,           "brauchbares Token"),
+            ("aw1234567890abcdef", "Zeichen lang", "Client Key"),
+            ("1234567890123456",  "Ziffern",      "reine ID"),
+            ("t" * 30 + " " + "t" * 30, "Leerzeichen", "mit Umbruch"),
+    ):
+        ergebnis = token_form_allgemein(wert)
+        if soll is None and ergebnis is not None:
+            fehler.append(f"Tokenform allgemein: {was} fälschlich "
+                          f"beanstandet ({ergebnis})")
+        if soll is not None and (ergebnis is None or soll not in ergebnis):
+            fehler.append(f"Tokenform allgemein: {was} nicht erkannt "
+                          f"({ergebnis})")
 
     # Die Wegerkennung. Sie ersetzt eine Frage an den Menschen durch
     # eine Beobachtung am Token -- und muss deshalb belegen, dass sie
