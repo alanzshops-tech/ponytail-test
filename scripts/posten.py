@@ -354,15 +354,36 @@ def instagram(text: str, probe: bool, bild: str = "") -> str:
 
 
 def facebook(text: str, probe: bool, bild: str = "") -> str:
+    """Veroeffentlicht auf der Facebook-Seite.
+
+    Eigene Secrets braucht das nicht mehr. Facebook und Instagram
+    haengen an DEMSELBEN Seiten-Token -- und das loest meta_seite()
+    ohnehin schon aus INSTAGRAM_TOKEN auf. Zwei getrennte Secrets
+    hiessen: zweimal dieselbe Anmeldung, zweimal dieselben Haken,
+    zweimal dieselben Verwechslungen.
+
+    FACEBOOK_PAGE_TOKEN und FACEBOOK_PAGE_ID gelten weiter und gewinnen,
+    falls einmal auf eine andere Seite gepostet werden soll als die, an
+    der das Instagram-Konto haengt.
+    """
     token = hole("FACEBOOK_PAGE_TOKEN")
     seite = hole("FACEBOOK_PAGE_ID")
-    if not (token and seite):
-        return "übersprungen (FACEBOOK_PAGE_TOKEN/PAGE_ID fehlt)"
+    ersatzweise = not (token and seite)
+    if ersatzweise and not hole("INSTAGRAM_TOKEN"):
+        return ("übersprungen (weder FACEBOOK_PAGE_TOKEN/PAGE_ID noch "
+                "INSTAGRAM_TOKEN gesetzt)")
     # Mit Bild geht /photos, ohne Bild /feed. Zwei Wege, ein Aufruf.
     weg = "photos" if bild else "feed"
     if probe:
-        return (f"Probe: {GRAPH}/{seite}/{weg}, {len(text)} Zeichen"
+        woher = "aus INSTAGRAM_TOKEN abgeleitet" if ersatzweise \
+            else "eigenes Seiten-Token"
+        return (f"Probe: {GRAPH}/…/{weg} ({woher}), {len(text)} Zeichen"
                 f"{', mit Bild' if bild else ''}")
+    if ersatzweise:
+        token, _, name = meta_seite(hole("INSTAGRAM_TOKEN"))
+        # Die Seiten-ID braucht es dann gar nicht: Ein Seiten-Token
+        # spricht ueber /me immer die eigene Seite an.
+        seite = "me"
     nutzlast = {"access_token": token}
     if bild:
         nutzlast |= {"url": bild, "caption": text}
@@ -635,11 +656,18 @@ def zugang_pruefen(kanal: str) -> str:
 
         if kanal == "facebook":
             token, seite = hole("FACEBOOK_PAGE_TOKEN"), hole("FACEBOOK_PAGE_ID")
-            if not (token and seite):
-                return "— Token oder Seiten-ID fehlt"
-            a = anfrage(f"{GRAPH}/{seite}?fields=name&access_token={token}",
-                        methode="GET")
-            return f"OK — Seite „{a.get('name')}“"
+            if token and seite:
+                a = anfrage(f"{GRAPH}/{seite}?fields=name&"
+                            f"access_token={token}", methode="GET")
+                return f"OK — Seite „{a.get('name')}“"
+            # Kein eigenes Seiten-Token? Dann derselbe Weg wie beim
+            # Senden. Eine Probe, die "fehlt" meldet, wo in Wahrheit
+            # gepostet werden koennte, ist kein Messgeraet.
+            ig = hole("INSTAGRAM_TOKEN")
+            if not ig:
+                return "— weder Seiten-Token noch INSTAGRAM_TOKEN gesetzt"
+            _, _, name = meta_seite(ig)
+            return f"OK — Seite „{name}“ (aus INSTAGRAM_TOKEN abgeleitet)"
 
         if kanal == "tiktok":
             token = hole("TIKTOK_ACCESS_TOKEN")
@@ -900,6 +928,24 @@ def selbsttest() -> None:
                               "anderen Fall")
     finally:
         globals()["anfrage"] = echte_anfrage
+
+    # Facebook ohne eigene Secrets: Der Rueckfall auf INSTAGRAM_TOKEN
+    # muss im Probelauf benannt werden -- sonst weiss niemand, welches
+    # Token gleich verwendet wird, und im Fehlerfall sucht man am
+    # falschen Secret.
+    with umgebung(FACEBOOK_PAGE_TOKEN=None, FACEBOOK_PAGE_ID=None,
+                  INSTAGRAM_TOKEN="EAA" + "z" * 190):
+        antwort = facebook("Test", True, "")
+        if "INSTAGRAM_TOKEN" not in antwort:
+            fehler.append(f"Facebook nennt den Rückfall nicht ({antwort})")
+    with umgebung(FACEBOOK_PAGE_TOKEN="EAAeigen", FACEBOOK_PAGE_ID="1",
+                  INSTAGRAM_TOKEN="EAA" + "z" * 190):
+        if "eigenes Seiten-Token" not in facebook("Test", True, ""):
+            fehler.append("eigenes Seiten-Token verliert gegen den Rückfall")
+    with umgebung(FACEBOOK_PAGE_TOKEN=None, FACEBOOK_PAGE_ID=None,
+                  INSTAGRAM_TOKEN=None):
+        if "übersprungen" not in facebook("Test", True, ""):
+            fehler.append("Facebook ohne jedes Token nicht übersprungen")
 
     # TikTok: Video-Adresse und Tokenform. Beide Faelle haben bei
     # Instagram je eine Runde gekostet, bevor sie gefangen wurden.

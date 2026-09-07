@@ -151,12 +151,24 @@ Konten).
 
 1. Oben rechts die eigene App auswählen
 2. Bei **Meta App** auf **User Token** stellen
-3. Unter **Berechtigungen hinzufügen** diese vier eintragen:
+3. Unter **Berechtigungen hinzufügen** diese **fünf** eintragen:
    `instagram_basic`, `instagram_content_publish`,
-   `pages_show_list`, `pages_read_engagement`
+   `pages_show_list`, `pages_read_engagement`,
+   **`pages_manage_posts`**
 4. **Generate Access Token** → einmal anmelden, Seite und
-   Instagram-Konto anhaken
+   Instagram-Konto **ausdrücklich anhaken**
 5. Mit dem Kopiersymbol kopieren
+
+> **Der Haken bei Schritt 4 ist die häufigste Fehlerquelle.** Facebook
+> fragt „Welche Seiten möchtest du verwenden?" und wählt **nichts**
+> vor. Wer durchklickt, bekommt ein gültiges Token, das keine einzige
+> Seite sieht. Meta meldet das nicht als Fehler, sondern gibt eine
+> leere Liste zurück — die Zugangsprobe übersetzt es.
+
+**Die fünfte Berechtigung schaltet Facebook mit frei.** Ohne
+`pages_manage_posts` funktioniert Instagram, Facebook aber nicht.
+Nachträglich hinzuzufügen hieße: dasselbe Anmeldefenster ein zweites
+Mal.
 
 > Das Umschalten von **User Token** auf **Page Token** ist **nicht**
 > nötig. Beide Tokenarten funktionieren: Bei einem Nutzer-Token holt
@@ -187,11 +199,22 @@ sie die Seite nach dem verknüpften Instagram-Konto.
 > „Token abgelaufen" — dann im Explorer neu erzeugen. Ein Seiten-Token
 > aus einem **langlebigen** Nutzertoken läuft dagegen nicht ab.
 
-### Für die Facebook-Seite (später, optional)
+### Facebook braucht keine eigenen Secrets
 
-Zusätzlich `FACEBOOK_PAGE_TOKEN` (das **Seiten**-Token, nicht das
-Nutzertoken) und `FACEBOOK_PAGE_ID`. Facebook läuft immer über
-`graph.facebook.com` und ist vom Instagram-Weg unberührt.
+Instagram und Facebook hängen an **demselben Seiten-Token**, und das
+löst das Werkzeug ohnehin aus `INSTAGRAM_TOKEN` auf. Der Kanal
+`facebook` läuft also mit, sobald Instagram läuft — vorausgesetzt,
+`pages_manage_posts` war bei den Berechtigungen dabei.
+
+Der Probelauf sagt, welches Token er nehmen würde:
+
+```
+facebook  Probe: …/photos (aus INSTAGRAM_TOKEN abgeleitet), mit Bild
+```
+
+`FACEBOOK_PAGE_TOKEN` und `FACEBOOK_PAGE_ID` gelten weiterhin und
+gewinnen gegen den Rückfall — nötig nur, wenn auf eine **andere** Seite
+gepostet werden soll als die, an der das Instagram-Konto hängt.
 
 ### Danach: alle zwei Monate das Token verlängern
 
