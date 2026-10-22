@@ -732,6 +732,25 @@ def zugang_pruefen(kanal: str) -> str:
     return "— unbekannter Kanal"
 
 
+def ablaufdatum(meldung: str) -> str:
+    """Das Ablaufdatum aus Metas Meldung herausschneiden, falls eines dasteht.
+
+    Meta schreibt "Session has expired on Thursday, 09-Oct-26 11:00:00
+    PDT." Genau diese Angabe beantwortet die Frage, die sonst offen
+    bleibt: ob das geprueffte Token das eben erzeugte ist oder noch das
+    alte. Sie steht hinter dem Punkt, an dem die Meldung gekuerzt wird,
+    und geht deshalb ohne diesen Griff verloren.
+    """
+    marke = "expired on "
+    i = meldung.lower().find(marke)
+    if i < 0:
+        return ""
+    rest = meldung[i + len(marke):]
+    ende = rest.find(".")
+    datum = (rest if ende < 0 else rest[:ende]).strip()
+    return datum if 3 <= len(datum) <= 60 else ""
+
+
 def deuten(kanal: str, meldung: str) -> str:
     """Aus einer API-Meldung eine Handlungsanweisung machen.
 
@@ -756,7 +775,11 @@ def deuten(kanal: str, meldung: str) -> str:
         return (f"{meldung[:90]}\n              -> Token ungültig oder "
                 f"abgelaufen. Bei Instagram: --token-erneuern")
     if "190" in m and "expired" in m:
-        return f"{meldung[:90]}\n              -> Token abgelaufen"
+        datum = ablaufdatum(meldung)
+        wann = f" am {datum}" if datum else ""
+        return (f"{meldung[:90]}\n              -> Token abgelaufen{wann}. "
+                f"Ein abgelaufenes Token sagt nichts über die "
+                f"Berechtigungen — die sind erst am neuen messbar")
     if "permission" in m or "scope" in m or "#200" in m:
         return (f"{meldung[:90]}\n              -> Berechtigung fehlt. "
                 f"Prüfen, ob die App das Recht hat und das Konto ein "
@@ -1094,6 +1117,33 @@ def selbsttest() -> None:
         meldung = token_form(wert) or ""
         if wert[:12] in meldung:
             fehler.append("Tokenform gibt Teile des Tokens aus")
+
+    # Die Deutung der Fehlermeldungen, gegen eine echte Antwort von Meta
+    # vom 22.10.2026. Sie war bis hierher ungeprueft -- und sie ist das
+    # Stueck, das der Mensch am Ende liest. Der Fall ohne Datum muss
+    # ausdruecklich mit: Ein Geraet, das ein Datum erfindet, wenn keines
+    # dasteht, ist schlimmer als eines, das keines nennt.
+    echt_ablauf = ('HTTP 400: {"error":{"message":"Error validating '
+                   'access token: Session has expired on Thursday, '
+                   '09-Oct-26 11:00:00 PDT. The current time is '
+                   'Thursday, 22-Oct-26 07:09:36 PDT.","code":190}}')
+    for meldung, muss, darf_nicht, was in (
+            (echt_ablauf, "09-Oct-26 11:00:00 PDT", None, "Ablaufdatum"),
+            (echt_ablauf, "abgelaufen", None, "Ablauf erkannt"),
+            (echt_ablauf, "Berechtigungen", None, "Rechte bleiben offen"),
+            ('HTTP 400: {"error":{"message":"Session has expired",'
+             '"code":190}}', "abgelaufen", "abgelaufen am",
+             "Ablauf ohne Datum"),
+            ('HTTP 400: {"error":{"message":"Cannot parse access token. '
+             'Session has expired on Monday","code":190}}',
+             "NICHT erneuern", "abgelaufen am", "unlesbares Token"),
+    ):
+        ergebnis = deuten("instagram", meldung)
+        if muss not in ergebnis:
+            fehler.append(f"Deutung: {was} fehlt ({ergebnis})")
+        if darf_nicht and darf_nicht in ergebnis.split("->", 1)[-1]:
+            fehler.append(f"Deutung: {was} nennt ein Datum, das nicht "
+                          f"dasteht ({ergebnis})")
 
     # Die Zugangsprobe darf ohne Zugangsdaten nichts ins Netz schicken.
     # Sie ruft sonst genau dann eine Adresse auf, wenn am wenigsten

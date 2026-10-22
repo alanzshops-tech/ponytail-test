@@ -237,6 +237,17 @@ dort und sagt das auch.
 > Automatisch ginge die Verlängerung nur, wenn das Token im Repository
 > läge — und Zugangsdaten gehören nicht dorthin (`CLAUDE.md`, Regel 4).
 
+**Gemessen am 22.10.2026:** Das im Secret `INSTAGRAM_TOKEN` liegende
+Token ist **am 09.10.2026 abgelaufen** — Metas Antwort nennt das Datum
+selbst. Die Zugangsprobe schneidet es jetzt heraus und zeigt es an,
+weil es die einzige Angabe ist, an der sich ein frisch erzeugtes Token
+von dem alten unterscheiden lässt.
+
+Was daraus **nicht** folgt: welche Berechtigungen fehlen. Ein
+abgelaufenes Token beantwortet die Frage nicht, Meta prüft die Rechte
+gar nicht erst. `meta_rechte()` steht bereit, kommt aber erst am neuen
+Token zum Zug.
+
 ### Bilder müssen öffentlich erreichbar sein
 
 Instagram holt das Bild selbst ab. Ein Pfad im Repository geht nicht,
