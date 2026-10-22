@@ -123,11 +123,26 @@ def schema_pruefen(browser, url: str) -> dict:
             return raus;
         }""")
     ergebnis["sterne_sichtbar"] = len(gefunden)
-    # Ein Element ohne jeden Text ist eine leere Huelle, keine
-    # angezeigte Bewertung. Die Unterscheidung ist der eigentliche
-    # Befund.
-    ergebnis["sterne_mit_text"] = sum(1 for g in gefunden if g["text"])
     ergebnis["sterne_treffer"] = gefunden[:12]
+    # "Mit Text" war als Mass untauglich. Der erste Lauf meldete sieben
+    # Treffer mit Text und loeste die Warnung aus -- der Text lautete
+    # "Be the first to write a review". Ein ehrlich leeres Widget ist
+    # das Gegenteil eines Verstosses, und die Warnung stand trotzdem
+    # da. Ein Messgeraet, das den sauberen Fall anschwaerzt, ist so
+    # schaedlich wie eines, das den schmutzigen durchlaesst.
+    #
+    # Gezaehlt wird jetzt, was eine BEWERTUNG belegt: ein Sternzeichen
+    # oder eine Zahl in der Form 4,8 bzw. 4.8 -- und ausdruecklich
+    # nicht, wenn der Text sagt, dass es keine Bewertungen gibt.
+    leer = re.compile(
+        r"be the first|no reviews|noch keine|keine bewertungen|"
+        r"schreibe die erste|write a review", re.I)
+    bewertet = re.compile(r"[★⭐]|\b\d[.,]\d\b")
+    ergebnis["bewertungen_angezeigt"] = sum(
+        1 for g in gefunden
+        if bewertet.search(g["text"]) and not leer.search(g["text"]))
+    ergebnis["leer_gemeldet"] = sum(
+        1 for g in gefunden if leer.search(g["text"]))
     ctx.close()
 
     ergebnis["anzahl_bloecke"] = len(bloecke)
@@ -213,9 +228,11 @@ def bericht(ergebnisse: list[dict]) -> str:
                      "Daten geloescht waren (CLAUDE.md). Eine davon "
                      "gehoert deinstalliert, nicht nur deaktiviert.")
         z.append("")
-        mit_text = e.get("sterne_mit_text", 0)
-        z.append(f"**Sichtbare Bewertungs-Elemente:** {sterne}, "
-                 f"davon mit Text: {mit_text}")
+        angezeigt = e.get("bewertungen_angezeigt", 0)
+        leer_n = e.get("leer_gemeldet", 0)
+        z.append(f"**Sichtbare Bewertungs-Elemente:** {sterne} · "
+                 f"davon mit angezeigter Bewertung: {angezeigt} · "
+                 f"ausdrücklich \"noch keine\": {leer_n}")
         treffer = e.get("sterne_treffer") or []
         if treffer:
             z.append("")
@@ -225,15 +242,19 @@ def bericht(ergebnisse: list[dict]) -> str:
                 txt = (g["text"] or "—").replace("|", "/").replace("\n", " ")
                 z.append(f"| `{g['klasse']}` | {txt} | "
                          f"{g['breite']}×{g['hoehe']} |")
-        if mit_text:
+        if angezeigt:
             z.append("")
-            z.append("> Sterne sind sichtbar. Das ist nur dann in "
-                     "Ordnung, wenn echte Kaeuferbewertungen dahinter "
-                     "stehen. Bewertungen ohne Kaeufer sind nach Anhang "
-                     "zu Paragraf 3 Abs. 3 Nr. 23b/23c UWG verboten "
-                     "(CLAUDE.md, Regel 3). Dieses Geraet zaehlt nur "
-                     "Elemente -- ob die Bewertungen echt sind, kann es "
+            z.append("> **Es werden Bewertungen angezeigt.** Das ist nur "
+                     "dann in Ordnung, wenn echte Kaeufer dahinterstehen. "
+                     "Bewertungen ohne Kaeufer sind nach Anhang zu "
+                     "Paragraf 3 Abs. 3 Nr. 23b/23c UWG verboten "
+                     "(CLAUDE.md, Regel 3). Dieses Geraet sieht nur die "
+                     "Anzeige -- ob die Bewertungen echt sind, kann es "
                      "nicht sagen.")
+        elif leer_n:
+            z.append("")
+            z.append("> Das Widget meldet ausdruecklich, dass es noch "
+                     "keine Bewertungen gibt. Das ist der saubere Fall.")
         fremd = e.get("fremde_skripte", [])
         if fremd:
             z.append("")
