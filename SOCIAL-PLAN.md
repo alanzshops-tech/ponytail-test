@@ -36,14 +36,14 @@ https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl
 
 **233 Zeichen** · passt auf: bluesky, mastodon, telegram, discord, instagram
 
-### 2. Sitzbank · wohnen
+### 2. Schuhbank · wohnen
 
 ```
 Sitzen und verstauen an derselben Stelle. Die Bank klappt auf, innen ist Platz für Schuhe, Decken oder was sonst im Flur herumliegt.
 
 Gepolsterte Sitzbank mit Stauraum.
 
-https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar
+https://www.homeeins.de/products/schuhbank-sitzpolster-102cm-massiv
 ```
 
 **240 Zeichen** · passt auf: bluesky, mastodon, telegram, discord, instagram
@@ -78,12 +78,12 @@ https://www.homeeins.de/products/buerostuhl-premium-relaxfunktion-135-grad
 
 **214 Zeichen** · passt auf: bluesky, mastodon, telegram, discord, instagram
 
-### 6. Taschenlampe · praktisch
+### 6. Magazinhalter · wohnen
 
 ```
 Aufladbar, Zoom, zusätzliches Warnlicht. Liegt im Auto, bis man sie braucht.
 
-https://www.homeeins.de/products/led-taschenlampe-aufladbar-zoom-warnlicht
+https://www.homeeins.de/products/magazinhalter-holz-zeitungsstaender
 ```
 
 **152 Zeichen** · passt auf: bluesky, mastodon, telegram, discord, instagram
@@ -105,7 +105,7 @@ https://www.homeeins.de/collections/hunde
 ```
 Der Flur ist der Raum, den alle sehen und niemand einrichtet. Eine Bank mit Stauraum erledigt beides auf einem Quadratmeter.
 
-https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar
+https://www.homeeins.de/products/schuhbank-sitzpolster-102cm-massiv
 ```
 
 **196 Zeichen** · passt auf: bluesky, mastodon, telegram, discord, instagram
@@ -161,6 +161,16 @@ Actions → Posten → Run workflow
 
 Für Instagram zusätzlich `bild` mit einer öffentlichen
 `https`-Adresse — die Shopify-CDN-Adresse des Produktbilds.
+
+## Geprüft am 22.10.2026
+
+Drei Beiträge zeigten auf Produkte im **Entwurfsstatus** — für
+Besucher eine tote Seite. Gegen den Shop abgeglichen und durch aktive
+Produkte ersetzt (Schuhbank, Magazinhalter).
+
+**Lehre:** Ein Produkt, das im Repository steht, ist deshalb noch
+nicht im Laden sichtbar. Vor jedem Beitrag der Abgleich mit
+`status:active`.
 
 ## Was fehlt
 
