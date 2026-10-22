@@ -93,20 +93,41 @@ def schema_pruefen(browser, url: str) -> dict:
 
     # Sichtbare Sterne. Ein Widget, das bei null Bewertungen trotzdem
     # Sterne malt, ist genau der Fall, der hier schon einmal auftrat.
-    ergebnis["sterne_sichtbar"] = seite.evaluate(
+    #
+    # Die Zahl allein genuegt nicht. '[class*="loox"]' faengt auch
+    # leere Platzhalter-Container, und beide Produktseiten meldeten
+    # exakt 7 -- ein gleichfoermiger Wert ueber alle Faelle war hier
+    # schon dreimal ein defekter Selektor. Deshalb kommt zu jedem
+    # Treffer die Klasse und der sichtbare Text mit; erst daran laesst
+    # sich entscheiden, ob dort eine Bewertung steht oder eine leere
+    # Huelle.
+    gefunden = seite.evaluate(
         """() => {
-            const sel = ['.loox-rating', '[class*="loox"]',
-                         '.jdgm-star', '[class*="jdgm"]',
-                         '[class*="star-rating"]'];
-            let n = 0;
+            const sel = ['[class*="loox"]', '[class*="jdgm"]',
+                         '[class*="star-rating"]', '[class*="rating"]'];
+            const raus = [];
+            const gesehen = new Set();
             for (const s of sel) {
                 for (const el of document.querySelectorAll(s)) {
+                    if (gesehen.has(el)) continue;
+                    gesehen.add(el);
                     const r = el.getBoundingClientRect();
-                    if (r.width > 0 && r.height > 0) n++;
+                    if (r.width <= 0 || r.height <= 0) continue;
+                    raus.push({
+                        klasse: (el.className || '').toString().slice(0, 70),
+                        text: (el.innerText || '').trim().slice(0, 40),
+                        breite: Math.round(r.width),
+                        hoehe: Math.round(r.height)});
                 }
             }
-            return n;
+            return raus;
         }""")
+    ergebnis["sterne_sichtbar"] = len(gefunden)
+    # Ein Element ohne jeden Text ist eine leere Huelle, keine
+    # angezeigte Bewertung. Die Unterscheidung ist der eigentliche
+    # Befund.
+    ergebnis["sterne_mit_text"] = sum(1 for g in gefunden if g["text"])
+    ergebnis["sterne_treffer"] = gefunden[:12]
     ctx.close()
 
     ergebnis["anzahl_bloecke"] = len(bloecke)
@@ -192,8 +213,19 @@ def bericht(ergebnisse: list[dict]) -> str:
                      "Daten geloescht waren (CLAUDE.md). Eine davon "
                      "gehoert deinstalliert, nicht nur deaktiviert.")
         z.append("")
-        z.append(f"**Sichtbare Sterne-Elemente:** {sterne}")
-        if sterne:
+        mit_text = e.get("sterne_mit_text", 0)
+        z.append(f"**Sichtbare Bewertungs-Elemente:** {sterne}, "
+                 f"davon mit Text: {mit_text}")
+        treffer = e.get("sterne_treffer") or []
+        if treffer:
+            z.append("")
+            z.append("| Klasse | Text | Größe |")
+            z.append("|---|---|---|")
+            for g in treffer:
+                txt = (g["text"] or "—").replace("|", "/").replace("\n", " ")
+                z.append(f"| `{g['klasse']}` | {txt} | "
+                         f"{g['breite']}×{g['hoehe']} |")
+        if mit_text:
             z.append("")
             z.append("> Sterne sind sichtbar. Das ist nur dann in "
                      "Ordnung, wenn echte Kaeuferbewertungen dahinter "
