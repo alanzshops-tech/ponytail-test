@@ -91,7 +91,37 @@ Ein Rabatt ist erlaubt. Eine erfundene Frist nicht.
 
 ## Weitere Funde, nach Hebel sortiert
 
-### 15 von 50 Titeln beginnen mit einem Emoji
+### ✅ Erledigt: 26 Titel entanglisiert und ohne Emoji
+
+Über alle 96 Produkte gezählt waren es **26**, nicht 15 — die
+Stichprobe von 50 hatte nur die Hälfte erfasst.
+
+```
+vorher:   🌲 PINE CUBE PLANTER – Massiver Holz-Pflanzkasten für Garten…
+nachher:  Pflanzkasten aus Kiefernholz – Massiver Blumenkasten für Garten…
+
+vorher:   ✈️ TRAVEL ELITE TROLLEY SET – Stilvoll reisen. Perfekt organisiert.
+nachher:  Kofferset 4-teilig – Hartschalen-Trolleys für Reise und Urlaub
+```
+
+Grundsatz dabei: **Der Titel nennt, was es ist, in deutschen
+Suchbegriffen.** „PINE CUBE PLANTER" sucht niemand; „Pflanzkasten
+Kiefernholz" schon.
+
+Alle Angaben in den neuen Titeln stammen aus den vorhandenen Daten —
+`4-teilig` und `2er-Set` aus den Adressen, `bis 350 kg` aus den
+Varianten, `230–250 cm` aus der Produktkennung, `10-teilig` aus der
+Beschreibung. Nichts dazuerfunden.
+
+Ein Nebenbefund: Zwei Produkte hießen **wortgleich**
+„FOLD & GO HANDWAGEN". Sie unterscheiden sich durch das Sonnendach —
+das steht jetzt im Titel, sonst konkurrieren sie in der Suche
+gegeneinander.
+
+Keine Adressen geändert, also **keine Links gebrochen**. Die alten
+Titel liegen in `daten/titel-rueckbau-2026-10-22.json`.
+
+### Noch offen: englische Adressen
 
 `🌲 PINE CUBE PLANTER`, `✈️ TRAVEL ELITE TROLLEY SET`,
 `😻 XXL KRATZBAUM`, `🛠️ HEAVY DUTY GARTENWAGEN`.
