@@ -39,16 +39,74 @@ def schema_pruefen(browser, url: str) -> dict:
     seite = ctx.new_page()
     ergebnis: dict = {"url": url}
     try:
-        seite.goto(url, wait_until="load", timeout=60000)
+        antwort = seite.goto(url, wait_until="load", timeout=60000)
         seite.wait_for_timeout(1500)
     except PWError as e:
         ergebnis["fehler"] = str(e)[:200]
         ctx.close()
         return ergebnis
 
+    # Ohne diese drei Angaben sieht eine 404-Seite im Bericht genauso
+    # aus wie eine Produktseite ohne Schema: beides "0 Bloecke". Am
+    # 22.10.2026 fiel die Messung von 3 Bloecken auf 0, und ohne
+    # Statuscode und Titel liess sich nicht entscheiden, ob der Shop
+    # sich geaendert hat oder die Messung. CLAUDE.md: Leeres Ergebnis
+    # ist kein bestaetigtes Nichts.
+    ergebnis["status"] = antwort.status if antwort else None
+    ergebnis["titel"] = (seite.title() or "")[:120]
+    ergebnis["textanfang"] = (seite.inner_text("body") or "")[:200].replace(
+        "\n", " ")
+
     bloecke = seite.eval_on_selector_all(
         'script[type="application/ld+json"]',
         "els => els.map(e => e.textContent)")
+
+    # Welche Bewertungs-App laedt hier, und zeigt sie Sterne?
+    #
+    # Der Anlass steht in CLAUDE.md: Judge.me lieferte aggregateRating
+    # weiter, nachdem die Sterne-Metafelder geloescht waren. Das JSON-LD
+    # allein beantwortet die Frage also nicht -- es sagt, was Google
+    # sieht, nicht, welche App es hineingeschrieben hat und was der
+    # Besucher sieht. Bei einem Laden mit sieben Bestellungen in drei
+    # Jahren ist beides zu pruefen: Bewertungen ohne Kaeufer sind nicht
+    # nur unschoen, sondern nach Anhang zu Paragraf 3 Abs. 3 Nr. 23b/23c
+    # UWG verboten.
+    #
+    # Gemessen wird die Herkunft der Skripte, nicht geraten: jede
+    # fremde Skriptadresse auf der Seite, gefiltert auf die bekannten
+    # Anbieter.
+    apps = seite.eval_on_selector_all(
+        "script[src]",
+        "els => els.map(e => e.src)")
+    ergebnis["bewertungs_apps"] = sorted({
+        name for name, marke in (("Loox", "loox.io"),
+                                 ("Judge.me", "judge.me"),
+                                 ("Yotpo", "yotpo.com"),
+                                 ("Stamped", "stamped.io"),
+                                 ("Okendo", "okendo.io"))
+        if any(marke in (s or "") for s in apps)})
+    ergebnis["fremde_skripte"] = sorted({
+        urlsplit(s).netloc for s in apps if s
+        and urlsplit(s).netloc
+        and "homeeins.de" not in urlsplit(s).netloc
+        and "shopify" not in urlsplit(s).netloc})
+
+    # Sichtbare Sterne. Ein Widget, das bei null Bewertungen trotzdem
+    # Sterne malt, ist genau der Fall, der hier schon einmal auftrat.
+    ergebnis["sterne_sichtbar"] = seite.evaluate(
+        """() => {
+            const sel = ['.loox-rating', '[class*="loox"]',
+                         '.jdgm-star', '[class*="jdgm"]',
+                         '[class*="star-rating"]'];
+            let n = 0;
+            for (const s of sel) {
+                for (const el of document.querySelectorAll(s)) {
+                    const r = el.getBoundingClientRect();
+                    if (r.width > 0 && r.height > 0) n++;
+                }
+            }
+            return n;
+        }""")
     ctx.close()
 
     ergebnis["anzahl_bloecke"] = len(bloecke)
@@ -110,6 +168,9 @@ def bericht(ergebnisse: list[dict]) -> str:
     for e in ergebnisse:
         z.append(f"## {e['url']}")
         z.append("")
+        if e.get("status") is not None:
+            z.append(f"HTTP {e['status']} · Titel: „{e.get('titel')}“")
+            z.append("")
         if e.get("fehler"):
             z.append(f"Seite nicht ladbar: {e['fehler']}")
             z.append("")
@@ -118,6 +179,35 @@ def bericht(ergebnisse: list[dict]) -> str:
                  f"gefunden, davon {e['product_bloecke']} mit "
                  f"`@type: Product`.")
         z.append("")
+
+        apps = e.get("bewertungs_apps", [])
+        sterne = e.get("sterne_sichtbar")
+        z.append("**Bewertungs-Apps auf der Seite:** "
+                 + (", ".join(apps) if apps else "keine erkannt"))
+        if len(apps) > 1:
+            z.append("")
+            z.append("> **Zwei Bewertungs-Apps gleichzeitig.** Doppeltes "
+                     "Markup, und bei Judge.me ist belegt, dass sie "
+                     "`aggregateRating` weitergeliefert hat, nachdem die "
+                     "Daten geloescht waren (CLAUDE.md). Eine davon "
+                     "gehoert deinstalliert, nicht nur deaktiviert.")
+        z.append("")
+        z.append(f"**Sichtbare Sterne-Elemente:** {sterne}")
+        if sterne:
+            z.append("")
+            z.append("> Sterne sind sichtbar. Das ist nur dann in "
+                     "Ordnung, wenn echte Kaeuferbewertungen dahinter "
+                     "stehen. Bewertungen ohne Kaeufer sind nach Anhang "
+                     "zu Paragraf 3 Abs. 3 Nr. 23b/23c UWG verboten "
+                     "(CLAUDE.md, Regel 3). Dieses Geraet zaehlt nur "
+                     "Elemente -- ob die Bewertungen echt sind, kann es "
+                     "nicht sagen.")
+        fremd = e.get("fremde_skripte", [])
+        if fremd:
+            z.append("")
+            z.append(f"Fremde Skript-Hosts ({len(fremd)}): "
+                     + ", ".join(f"`{h}`" for h in fremd))
+        z.append("")
         if e["product_bloecke"] == 0:
             z.append("**Kein Product-Schema gefunden.** Das ist ein "
                      "leeres Ergebnis, kein bestätigtes \"nichts da\" — "
@@ -125,6 +215,9 @@ def bericht(ergebnisse: list[dict]) -> str:
                      "Zeitpunkt nachlädt. Mit einer Seite gegenprüfen, "
                      "die sicher ein Schema haben sollte, bevor das als "
                      "Befund gilt.")
+            z.append("")
+            z.append(f"Seitenanfang zur Einordnung: "
+                     f"„{e.get('textanfang', '')}“")
             z.append("")
             continue
         felder = e.get("product_felder", {})
