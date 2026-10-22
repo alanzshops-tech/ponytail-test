@@ -21,6 +21,51 @@
       "www.googletagmanager.com"
     ],
     "sterne_sichtbar": 7,
+    "sterne_mit_text": 7,
+    "sterne_treffer": [
+      {
+        "klasse": "jdgm-widget jdgm-review-widget",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-legacy-widget-content",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-rev-widg",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-rev-widg__header",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 316,
+        "hoehe": 70
+      },
+      {
+        "klasse": "jdgm-rev-widg__title",
+        "text": "Customer Reviews",
+        "breite": 316,
+        "hoehe": 31
+      },
+      {
+        "klasse": "jdgm-rev-widg__summary",
+        "text": "Be the first to write a review",
+        "breite": 238,
+        "hoehe": 30
+      },
+      {
+        "klasse": "jdgm-rev-widg__summary-text",
+        "text": "Be the first to write a review",
+        "breite": 226,
+        "hoehe": 30
+      }
+    ],
     "anzahl_bloecke": 3,
     "bloecke": [
       {
@@ -168,6 +213,51 @@
       "www.googletagmanager.com"
     ],
     "sterne_sichtbar": 7,
+    "sterne_mit_text": 7,
+    "sterne_treffer": [
+      {
+        "klasse": "jdgm-widget jdgm-review-widget",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-legacy-widget-content",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-rev-widg",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 366,
+        "hoehe": 139
+      },
+      {
+        "klasse": "jdgm-rev-widg__header",
+        "text": "Customer Reviews\n Be the first to write ",
+        "breite": 316,
+        "hoehe": 70
+      },
+      {
+        "klasse": "jdgm-rev-widg__title",
+        "text": "Customer Reviews",
+        "breite": 316,
+        "hoehe": 31
+      },
+      {
+        "klasse": "jdgm-rev-widg__summary",
+        "text": "Be the first to write a review",
+        "breite": 238,
+        "hoehe": 30
+      },
+      {
+        "klasse": "jdgm-rev-widg__summary-text",
+        "text": "Be the first to write a review",
+        "breite": 226,
+        "hoehe": 30
+      }
+    ],
     "anzahl_bloecke": 3,
     "bloecke": [
       {
@@ -292,59 +382,5 @@
       "availability": true,
       "priceCurrency": true
     }
-  },
-  {
-    "url": "https://www.homeeins.de/",
-    "status": 200,
-    "titel": "www.Homeeins.de",
-    "textanfang": "Direkt zum Inhalt  🏡 ALLES FÜR IHR ZUHAUSE - Einfach. Schnell. Online.  📦 KOSTENLOSER VERSAND  Möbel Wohnen & Deko Ordnung & Aufbewahrung Küche & Haushalt Bad & Wellness Haustiere Garten & Outdoor Neu",
-    "bewertungs_apps": [
-      "Loox"
-    ],
-    "fremde_skripte": [
-      "app.cjdropshipping.com",
-      "bundler.nice-team.net",
-      "cdn-bundler.nice-team.net",
-      "cdn.trustedsite.com",
-      "cdn.ywxi.net",
-      "connect.facebook.net",
-      "loox.io",
-      "shop.app",
-      "www.googletagmanager.com"
-    ],
-    "sterne_sichtbar": 0,
-    "anzahl_bloecke": 2,
-    "bloecke": [
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "Homeeins",
-        "logo": "https://www.homeeins.de/cdn/shop/files/homeeins_gold8_7177c9fe-9f23-4e29-b8a1-637e5ffc4dbc.jpg?v=1706441587&width=500",
-        "sameAs": [
-          "https://x.com/homeeins?s=21",
-          "https://www.facebook.com/profile.php?id=100095079212499",
-          "https://pin.it/17AmzoHpU",
-          "https://www.instagram.com/homeeins.de?igsh=MXV6Z2kyanl1ZzVjMw%3D%3D&utm_source=qr",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "https://www.homeeins.de"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "name": "Homeeins",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://www.homeeins.de/search?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        },
-        "url": "https://www.homeeins.de"
-      }
-    ],
-    "product_bloecke": 0
   }
 ]
