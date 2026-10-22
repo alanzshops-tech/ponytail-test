@@ -33,7 +33,36 @@ Magazinhalter, Pflanzkübel, Schuhbänke, Hundemöbel — passen zum Muster
 „verschenkbare Wohn-Deko". Das Sortiment zeigt in die richtige
 Richtung.
 
-## 🔴 Dringend: Die Rabatt-Texte verstoßen gegen Regel 3
+## ✅ Erledigt am 22.10.2026: Die Rabatt-Texte sind bereinigt
+
+**Es waren sechs Produkte, nicht vier.** Erst beim Durchsuchen aller 96
+aktiven Beschreibungen kamen die letzten beiden dazu.
+
+Geändert wurde das Minimum: der Zusatz `, zeitlich begrenzt.` ist raus,
+der Rabattcode bleibt stehen.
+
+```
+vorher:   15% Rabatt auf Hundemöbel, zeitlich begrenzt.
+nachher:  15% Rabatt auf Hundemöbel.
+```
+
+| Produkt | Code |
+|---|---|
+| Erhöhtes Hundebett 95 cm | MEHRHUNDE15 |
+| Erhöhtes Hundebett 90 cm | MEHRHUNDE15 |
+| Erhöhtes Hundebett 80 cm | MEHRHUNDE15 |
+| Hundebett & Katzenbett Kunstleder | MEHRHUNDE15 |
+| Erhöhtes Hundebett XXL mit Erweiterung | MEHRHUNDE15 |
+| Selbstreinigende Katzentoilette 65L | WILLKOMMEN10 |
+
+Mit frischen Daten gegengeprüft: alle sechs Beschreibungen enthalten
+den Zusatz nicht mehr, die Rabattcodes stehen unverändert da.
+
+**Rückbau:** Die Originaltexte liegen vollständig in
+`daten/rabatt-rueckbau-2026-10-22.json`. Wer die Frist zurückhaben
+will, braucht dann aber ein echtes Enddatum.
+
+### Warum das nötig war
 
 Drei Produktbeschreibungen beginnen mit:
 
