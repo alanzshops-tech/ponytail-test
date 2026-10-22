@@ -14,10 +14,17 @@ Alan Lorenz GbR, Bochum. **Kleinunternehmer nach § 19 UStG** — es fällt
 keine Umsatzsteuer an. Es gibt kein Netto und kein Brutto, nur einen
 Preis.
 
-Stand August 2026: 146 Produkte, **sieben Bestellungen in drei Jahren**,
-**null im Jahr 2026**, null abgebrochene Warenkörbe. Die Kasse
-funktioniert (nachgemessen). Das Problem ist nicht, dass niemand kaufen
-kann — es kommt niemand.
+Stand **22.10.2026**, über die Shopify-Anbindung ausgelesen: **96 aktive
+Produkte**, **sieben Bestellungen in drei Jahren**, **null im Jahr
+2026**, null abgebrochene Warenkörbe. Die Kasse funktioniert
+(nachgemessen). Das Problem ist nicht, dass niemand kaufen kann — es
+kommt niemand.
+
+Die frühere Angabe „146 Produkte" stammte vom August und wurde seither
+mehrfach nachgesprochen, ohne sie nachzusehen. **74 der 96 Produkte
+liegen inzwischen im Preisband 30–130 €** — also dort, wo alle sieben
+echten Verkäufe stattfanden. Das Sortiment zeigt damit in die richtige
+Richtung; Einzelheiten und die offenen Funde in `SORTIMENT.md`.
 
 ## Nicht verhandelbar
 
