@@ -5,7 +5,6 @@
     "titel": "Schreibtischstuhl mit Fußstütze | Bürostuhl 135° Relax – Homeeins",
     "textanfang": "Direkt zum Inhalt  🏡 ALLES FÜR IHR ZUHAUSE - Einfach. Schnell. Online.  📦 KOSTENLOSER VERSAND  Möbel Wohnen & Deko Ordnung & Aufbewahrung Küche & Haushalt Bad & Wellness Haustiere Garten & Outdoor Neu",
     "bewertungs_apps": [
-      "Judge.me",
       "Loox"
     ],
     "fremde_skripte": [
@@ -14,58 +13,15 @@
       "cdn-bundler.nice-team.net",
       "cdn.trustedsite.com",
       "cdn.ywxi.net",
-      "cdnwidget.judge.me",
       "connect.facebook.net",
       "loox.io",
       "shop.app",
       "www.googletagmanager.com"
     ],
-    "sterne_sichtbar": 7,
-    "sterne_mit_text": 7,
-    "sterne_treffer": [
-      {
-        "klasse": "jdgm-widget jdgm-review-widget",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-legacy-widget-content",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-rev-widg",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-rev-widg__header",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 316,
-        "hoehe": 70
-      },
-      {
-        "klasse": "jdgm-rev-widg__title",
-        "text": "Customer Reviews",
-        "breite": 316,
-        "hoehe": 31
-      },
-      {
-        "klasse": "jdgm-rev-widg__summary",
-        "text": "Be the first to write a review",
-        "breite": 238,
-        "hoehe": 30
-      },
-      {
-        "klasse": "jdgm-rev-widg__summary-text",
-        "text": "Be the first to write a review",
-        "breite": 226,
-        "hoehe": 30
-      }
-    ],
+    "sterne_sichtbar": 0,
+    "sterne_treffer": [],
+    "bewertungen_angezeigt": 0,
+    "leer_gemeldet": 0,
     "anzahl_bloecke": 3,
     "bloecke": [
       {
@@ -197,7 +153,6 @@
     "titel": "Kratzbaum für Katzen kompakt – Homeeins",
     "textanfang": "Direkt zum Inhalt  🏡 ALLES FÜR IHR ZUHAUSE - Einfach. Schnell. Online.  📦 KOSTENLOSER VERSAND  Möbel Wohnen & Deko Ordnung & Aufbewahrung Küche & Haushalt Bad & Wellness Haustiere Garten & Outdoor Neu",
     "bewertungs_apps": [
-      "Judge.me",
       "Loox"
     ],
     "fremde_skripte": [
@@ -206,58 +161,15 @@
       "cdn-bundler.nice-team.net",
       "cdn.trustedsite.com",
       "cdn.ywxi.net",
-      "cdnwidget.judge.me",
       "connect.facebook.net",
       "loox.io",
       "shop.app",
       "www.googletagmanager.com"
     ],
-    "sterne_sichtbar": 7,
-    "sterne_mit_text": 7,
-    "sterne_treffer": [
-      {
-        "klasse": "jdgm-widget jdgm-review-widget",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-legacy-widget-content",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-rev-widg",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 366,
-        "hoehe": 139
-      },
-      {
-        "klasse": "jdgm-rev-widg__header",
-        "text": "Customer Reviews\n Be the first to write ",
-        "breite": 316,
-        "hoehe": 70
-      },
-      {
-        "klasse": "jdgm-rev-widg__title",
-        "text": "Customer Reviews",
-        "breite": 316,
-        "hoehe": 31
-      },
-      {
-        "klasse": "jdgm-rev-widg__summary",
-        "text": "Be the first to write a review",
-        "breite": 238,
-        "hoehe": 30
-      },
-      {
-        "klasse": "jdgm-rev-widg__summary-text",
-        "text": "Be the first to write a review",
-        "breite": 226,
-        "hoehe": 30
-      }
-    ],
+    "sterne_sichtbar": 0,
+    "sterne_treffer": [],
+    "bewertungen_angezeigt": 0,
+    "leer_gemeldet": 0,
     "anzahl_bloecke": 3,
     "bloecke": [
       {
