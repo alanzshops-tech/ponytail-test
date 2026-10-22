@@ -205,6 +205,33 @@ def ueber_instagram_login() -> bool:
     return True
 
 
+ERFORDERLICH = ("pages_show_list", "pages_read_engagement",
+                "pages_manage_posts", "instagram_basic",
+                "instagram_content_publish")
+
+
+def meta_rechte(token: str) -> tuple[list[str], list[str]]:
+    """Welche Berechtigungen hat das Token -- und welche fehlen?
+
+    Der Lauf vom 22.10.2026 zeigte eine leere Seitenliste. Das kann
+    zwei Ursachen haben: die Berechtigung pages_show_list fehlt, oder
+    die Seite wurde im Anmeldefenster nicht angehakt. Beide sehen in
+    der Antwort gleich aus -- eine leere Liste.
+
+    /me/permissions loest das auf: Meta sagt dort je Recht, ob es
+    granted oder declined ist. Damit steht im Bericht nicht mehr
+    "irgendetwas fehlt", sondern welches Haekchen. Ohne diese Abfrage
+    ist jeder weitere Versuch Raten, und Raten hat diesen Weg schon
+    vier Runden gekostet.
+    """
+    a = anfrage(f"{GRAPH}/me/permissions?access_token={token}",
+                methode="GET")
+    hat = {x.get("permission") for x in (a.get("data") or [])
+           if x.get("status") == "granted"}
+    fehlt = [r for r in ERFORDERLICH if r not in hat]
+    return sorted(hat), fehlt
+
+
 def meta_seite(token: str) -> tuple[str, str, str]:
     """Auf dem Facebook-Weg: (Sende-Token, Instagram-Konto-ID, Name).
 
@@ -256,12 +283,24 @@ def meta_seite(token: str) -> tuple[str, str, str]:
         # Genau die Unterscheidung, die CLAUDE.md meint: Ein leeres
         # Ergebnis ist kein "nichts gefunden", sondern ein eigener Fall.
         if not seiten:
+            # Nicht raten, nachfragen: Meta sagt selbst, welche Rechte
+            # das Token hat.
+            try:
+                hat, fehlt = meta_rechte(token)
+            except RuntimeError:
+                hat, fehlt = [], []
+            if fehlt:
+                raise RuntimeError(
+                    f"Nutzer-Token sieht keine Facebook-Seite, weil diese "
+                    f"Berechtigungen FEHLEN: {', '.join(fehlt)}. "
+                    f"Vorhanden sind: {', '.join(hat) or 'keine'}. "
+                    f"Im Graph API Explorer nachtragen und ein neues "
+                    f"Token erzeugen")
             raise RuntimeError(
-                "Nutzer-Token erkannt, aber es sieht keine einzige "
-                "Facebook-Seite. Das ist eine Berechtigungsfrage, keine "
-                "fehlende Seite: im Graph API Explorer pages_show_list "
-                "hinzufügen UND im Anmeldefenster die Seite ausdrücklich "
-                "anhaken — ohne den Haken bleibt die Liste leer")
+                f"Nutzer-Token hat alle nötigen Rechte "
+                f"({', '.join(hat)}), sieht aber keine Seite. Dann wurde "
+                f"die Seite im Anmeldefenster nicht angehakt — Token neu "
+                f"erzeugen und die Seite ausdrücklich auswählen")
         mit_ig = [s for s in seiten if s.get("instagram_business_account")]
         if not mit_ig:
             namen = ", ".join(s.get("name") or "?" for s in seiten)
@@ -924,17 +963,35 @@ def selbsttest() -> None:
         # 4. Leere Seitenliste ist ein EIGENER Fall: nicht "keine Seite
         #    vorhanden", sondern "das Token darf keine sehen". Ein
         #    gemeinsamer Text mit Fall 3 gaebe hier den falschen Rat.
-        globals()["anfrage"] = stellen([{"data": []}])
+        # Leere Liste UND fehlendes Recht: Die Meldung muss das fehlende
+        # Recht beim Namen nennen, nicht nur "irgendetwas fehlt".
+        globals()["anfrage"] = stellen([
+            {"data": []},
+            {"data": [{"permission": "instagram_basic",
+                       "status": "granted"}]}])
         try:
             meta_seite("EAAnutzer")
             fehler.append("meta_seite meldet die leere Seitenliste nicht")
         except RuntimeError as e:
             if "pages_show_list" not in str(e):
-                fehler.append(f"leere Liste ohne Hinweis auf die "
-                              f"Berechtigung: {e}")
+                fehler.append(f"fehlendes Recht wird nicht benannt: {e}")
             if "verknüpfen" in str(e):
                 fehler.append("leere Liste bekommt den Rat für den "
                               "anderen Fall")
+
+        # 5. Leere Liste, aber ALLE Rechte vorhanden: Dann liegt es am
+        #    nicht angehakten Haken im Anmeldefenster -- ein anderer
+        #    Fall mit einer anderen Abhilfe.
+        globals()["anfrage"] = stellen([
+            {"data": []},
+            {"data": [{"permission": r, "status": "granted"}
+                      for r in ERFORDERLICH]}])
+        try:
+            meta_seite("EAAnutzer")
+            fehler.append("meta_seite meldet den Haken-Fall nicht")
+        except RuntimeError as e:
+            if "angehakt" not in str(e):
+                fehler.append(f"alle Rechte da, aber falscher Rat: {e}")
     finally:
         globals()["anfrage"] = echte_anfrage
 
