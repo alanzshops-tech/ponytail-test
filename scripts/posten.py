@@ -419,6 +419,16 @@ def facebook(text: str, probe: bool, bild: str = "") -> str:
     if ersatzweise and not hole("INSTAGRAM_TOKEN"):
         return ("übersprungen (weder FACEBOOK_PAGE_TOKEN/PAGE_ID noch "
                 "INSTAGRAM_TOKEN gesetzt)")
+    # Die Ableitung aus INSTAGRAM_TOKEN gilt nur fuer den
+    # Facebook-Login. Ein Token aus dem Instagram-Login gehoert dem
+    # Instagram-Konto und kennt gar keine Seite -- /me/accounts
+    # antwortet darauf mit einer OAuthException, die wie ein kaputtes
+    # Token aussieht. Der Unterschied steht im Praefix, also wird er
+    # hier gelesen statt spaeter erraten.
+    if ersatzweise and ueber_instagram_login():
+        return ("übersprungen — INSTAGRAM_TOKEN stammt aus dem "
+                "Instagram-Login und gilt nur für Instagram. Für "
+                "Facebook braucht es FACEBOOK_PAGE_TOKEN")
     # Mit Bild geht /photos, ohne Bild /feed. Zwei Wege, ein Aufruf.
     weg = "photos" if bild else "feed"
     if probe:
@@ -684,15 +694,26 @@ def zugang_pruefen(kanal: str) -> str:
                 # Instagram-Konto haengt als Feld daran. Ein Aufruf fuer
                 # beide Faelle gaebe auf einem der Wege eine
                 # Fehlermeldung, die nach kaputtem Token aussieht.
+                #
+                # Und daraus folgt KEINE Hausaufgabe. Diese Probe hat
+                # bis zum 22.10.2026 verlangt, die ermittelte Kennung
+                # noch als Secret INSTAGRAM_USER_ID einzutragen -- das
+                # Senden ermittelt sie seit jeher selbst (siehe
+                # instagram()). Ein Messgeraet, das nach einem Secret
+                # verlangt, das niemand braucht, schickt den Menschen
+                # genau dorthin, wo nichts zu holen ist. Derselbe
+                # Fehler wie beim Bluesky-Handle.
                 if ueber_instagram_login():
                     a = anfrage(f"{GRAPH_IG}/me?fields=user_id,username&"
                                 f"access_token={token}", methode="GET")
                     kennung, name = a.get("user_id"), a.get("username")
                 else:
                     _, kennung, name = meta_seite(token)
-                return (f"Token gilt für {name} — jetzt noch "
-                        f"INSTAGRAM_USER_ID = {kennung} als Secret "
-                        f"eintragen")
+                weg = ("Instagram-Login" if ueber_instagram_login()
+                       else "Facebook-Login")
+                return (f"OK — Konto {name} ({weg}), Konto-ID {kennung} "
+                        f"beim Senden selbst ermittelt. INSTAGRAM_USER_ID "
+                        f"ist nicht nötig")
             allein = ueber_instagram_login()
             basis = GRAPH_IG if allein else GRAPH
             a = anfrage(f"{basis}/{nutzer}?fields=username&"
@@ -714,6 +735,10 @@ def zugang_pruefen(kanal: str) -> str:
             ig = hole("INSTAGRAM_TOKEN")
             if not ig:
                 return "— weder Seiten-Token noch INSTAGRAM_TOKEN gesetzt"
+            if ueber_instagram_login():
+                return ("— INSTAGRAM_TOKEN stammt aus dem Instagram-Login "
+                        "und kennt keine Seite. Für Facebook braucht es "
+                        "FACEBOOK_PAGE_TOKEN")
             _, _, name = meta_seite(ig)
             return f"OK — Seite „{name}“ (aus INSTAGRAM_TOKEN abgeleitet)"
 
@@ -1144,6 +1169,25 @@ def selbsttest() -> None:
         if darf_nicht and darf_nicht in ergebnis.split("->", 1)[-1]:
             fehler.append(f"Deutung: {was} nennt ein Datum, das nicht "
                           f"dasteht ({ergebnis})")
+
+    # Facebook am Instagram-Token: Das muss sauber uebersprungen
+    # werden, nicht ins Netz gehen. Und der Gegenfall gehoert zwingend
+    # dazu -- eine Sperre, die auch das Facebook-Token aufhaelt, nimmt
+    # den einzigen Weg weg, auf dem Facebook ueberhaupt laeuft.
+    with umgebung(FACEBOOK_PAGE_TOKEN=None, FACEBOOK_PAGE_ID=None,
+                  INSTAGRAM_UEBER_FACEBOOK=None, INSTAGRAM_TOKEN=echt_ig):
+        antwort = facebook("Test", probe=True, bild="https://x/b.jpg")
+        if "übersprungen" not in antwort or "Instagram-Login" not in antwort:
+            fehler.append(f"Facebook am IG-Token nicht übersprungen "
+                          f"({antwort})")
+        if not zugang_pruefen("facebook").startswith("—"):
+            fehler.append("Zugangsprobe Facebook ruft am IG-Token das Netz")
+    with umgebung(FACEBOOK_PAGE_TOKEN=None, FACEBOOK_PAGE_ID=None,
+                  INSTAGRAM_UEBER_FACEBOOK=None, INSTAGRAM_TOKEN=echt_fb):
+        antwort = facebook("Test", probe=True, bild="https://x/b.jpg")
+        if "photos" not in antwort or "übersprungen" in antwort:
+            fehler.append(f"Facebook am Seiten-Token fälschlich "
+                          f"übersprungen ({antwort})")
 
     # Die Zugangsprobe darf ohne Zugangsdaten nichts ins Netz schicken.
     # Sie ruft sonst genau dann eine Adresse auf, wenn am wenigsten

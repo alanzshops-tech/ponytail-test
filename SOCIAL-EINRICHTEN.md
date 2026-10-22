@@ -95,14 +95,22 @@ antwortet dann mit einem Berechtigungsfehler, der aussieht, als fehle
 der App ein Recht. Umstellen in der Instagram-App:
 **Einstellungen → Konto → Kontotyp**.
 
+Zweitens, und in mehreren fremden Anleitungen als der meistübersehene
+Punkt genannt: Das Konto muss der App **bekannt** sein — entweder als
+Administrator, oder unter **App-Rollen → Instagram-Tester**, und die
+Einladung muss in der Instagram-App unter **Einstellungen → Apps und
+Websites** angenommen werden. Nicht nachgemessen (diese
+Arbeitsumgebung erreicht Meta nicht); wenn das Token erzeugt wird und
+trotzdem nichts geht, ist das die erste Stelle zum Nachsehen.
+
 ### Die Schritte
 
 1. Instagram-Konto auf **Business** oder **Creator** umstellen (siehe
    oben)
 2. `developers.facebook.com` → **Meine Apps → App erstellen**
 3. Als App-Typ **Business** wählen
-4. Produkt hinzufügen: **Instagram**, darin der Einrichtungsweg mit
-   **Instagram-Business-Login**
+4. Produkt hinzufügen: **Instagram** → **„API setup with Instagram
+   business login"** (NICHT „API setup with Facebook login")
 5. Die App bleibt im **Entwicklungsmodus** — das ist gewollt und der
    ganze Grund, warum das kostenlos und ohne App-Review geht. Solange
    nur auf eigene Konten gepostet wird, ist kein Review nötig.
@@ -112,13 +120,19 @@ der App ein Recht. Umstellen in der Instagram-App:
 7. Rechte: **`instagram_business_basic`** und
    **`instagram_business_content_publish`**. Ohne das zweite kann die
    App lesen, aber nicht posten.
-8. Zugriffstoken erzeugen. **Es muss das langlebige sein** (60 Tage),
-   nicht das kurzlebige (1 Stunde). Die Konsole zeigt die Laufzeit an.
-9. Direkt neben dem Token steht die **Instagram-Konto-ID** — eine lange
-   Zahl, die mit `1784…` beginnt. Das ist `INSTAGRAM_USER_ID`, **nicht**
-   der @-Name.
-10. Ein Secret eintragen: **`INSTAGRAM_TOKEN`**. Die Konto-ID holt
-    die Zugangsprobe selbst und nennt sie zum Nachtragen.
+8. Auf derselben Seite, Abschnitt **„2. Generate access tokens"**:
+   Dort steht dein Instagram-Konto mit einem Knopf **„Generate
+   token"**. Das Token aus **diesem Knopf ist langlebig (60 Tage)**.
+   Token aus dem Login-Fluss gelten nur **eine Stunde** — die sind
+   hier falsch.
+9. Ein Secret eintragen: **`INSTAGRAM_TOKEN`**. Mehr nicht.
+
+    > **`INSTAGRAM_USER_ID` wird nicht gebraucht.** Hier stand bis zum
+    > 22.10.2026, die Konto-ID müsse nachgetragen werden. Das war
+    > falsch: `instagram()` holt sie beim Senden selbst über
+    > `/me?fields=user_id`. Die Zugangsprobe hat trotzdem danach
+    > verlangt — ein Messgerät, das nach einem Secret schickt, das
+    > niemand braucht. Behoben und in beide Richtungen geprüft.
 
     > **Kein Secret mit dem Wert `1` oder einer anderen kurzen Zahl
     > anlegen.** GitHub ersetzt jedes Vorkommen eines Secret-Wertes im
@@ -127,18 +141,20 @@ der App ein Recht. Umstellen in der Instagram-App:
     > `2025-09-***9`. Genau das ist am 03.09.2026 passiert und hat die
     > Fehlersuche behindert. Deshalb ist der Instagram-Login jetzt der
     > Standard und braucht gar kein Schaltsecret mehr.
-11. **Actions → Posten → Run workflow**, `kanaele` = `instagram`,
+10. **Actions → Posten → Run workflow**, `kanaele` = `instagram`,
     Haken bei **`zugang`**
 
-Bei Schritt 11 muss dort stehen:
+Bei Schritt 10 muss dort stehen:
 
 ```
-  instagram  OK — Konto @deinname (Instagram-Login)
+  instagram  OK — Konto homeeins (Instagram-Login), Konto-ID 1784…
+             beim Senden selbst ermittelt. INSTAGRAM_USER_ID ist
+             nicht nötig
 ```
 
 Steht in der Klammer **Facebook-Login**, ist versehentlich
 `INSTAGRAM_UEBER_FACEBOOK` gesetzt. Steht dort ein `FEHLER`, nennt die
-Meldung den Grund.
+Meldung den Grund — bei einem abgelaufenen Token auch das Datum.
 
 > Die Menübezeichnungen in Metas Konsole ändern sich mehrmals im Jahr,
 > und diese Arbeitsumgebung erreicht `developers.facebook.com` nicht —
@@ -147,12 +163,19 @@ Meldung den Grund.
 > die Zugangsprobe. Wenn ein Menü anders heißt, such nach dem Recht
 > `instagram_business_content_publish` — daran hängt alles.
 
-### Der kürzere Weg, wenn die Konsole nervt: Graph API Explorer
+### Der Graph API Explorer — der Umweg, der vier Runden gekostet hat
 
-Metas Anwendungsfall-Menüs sind ein Irrgarten. Es geht auch auf **einer
-einzigen Seite** — vorausgesetzt, das Instagram-Konto ist mit einer
-Facebook-Seite verknüpft (Instagram-App → Einstellungen → Verknüpfte
-Konten).
+**Nimm ihn nur, wenn der Weg oben nicht geht.** Er führt über eine
+Facebook-Seite, und genau dort ist die Einrichtung am 22.10.2026
+hängengeblieben: Die Seitenliste kam leer zurück, und eine leere Liste
+heißt bei Meta entweder „Recht fehlt" oder „Seite im Anmeldefenster
+nicht angehakt" — beides sieht in der Antwort gleich aus. Der Weg über
+**„API setup with Instagram business login"** hat diese Stelle gar
+nicht.
+
+Es geht hier auf **einer einzigen Seite** — vorausgesetzt, das
+Instagram-Konto ist mit einer Facebook-Seite verknüpft
+(Instagram-App → Einstellungen → Verknüpfte Konten).
 
 `developers.facebook.com/tools/explorer`
 
@@ -206,12 +229,26 @@ sie die Seite nach dem verknüpften Instagram-Konto.
 > „Token abgelaufen" — dann im Explorer neu erzeugen. Ein Seiten-Token
 > aus einem **langlebigen** Nutzertoken läuft dagegen nicht ab.
 
-### Facebook braucht keine eigenen Secrets
+### Facebook braucht keine eigenen Secrets — aber nur auf dem Seitenweg
 
-Instagram und Facebook hängen an **demselben Seiten-Token**, und das
-löst das Werkzeug ohnehin aus `INSTAGRAM_TOKEN` auf. Der Kanal
-`facebook` läuft also mit, sobald Instagram läuft — vorausgesetzt,
-`pages_manage_posts` war bei den Berechtigungen dabei.
+**Das gilt nur für den Facebook-Login.** Ein Token aus dem
+Instagram-Login gehört dem Instagram-Konto und kennt überhaupt keine
+Facebook-Seite; `/me/accounts` antwortet darauf mit einer
+OAuthException, die wie ein kaputtes Token aussieht. Das Werkzeug
+liest jetzt den Präfix und überspringt Facebook mit einer klaren
+Ansage, statt in diesen Fehler zu laufen:
+
+```
+facebook  übersprungen — INSTAGRAM_TOKEN stammt aus dem
+          Instagram-Login und gilt nur für Instagram. Für Facebook
+          braucht es FACEBOOK_PAGE_TOKEN
+```
+
+Auf dem **Facebook-Login** dagegen hängen Instagram und Facebook an
+**demselben Seiten-Token**, und das löst das Werkzeug aus
+`INSTAGRAM_TOKEN` auf. Der Kanal `facebook` läuft dann mit, sobald
+Instagram läuft — vorausgesetzt, `pages_manage_posts` war bei den
+Berechtigungen dabei.
 
 Der Probelauf sagt, welches Token er nehmen würde:
 
