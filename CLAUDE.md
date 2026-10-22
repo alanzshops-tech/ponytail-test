@@ -230,11 +230,29 @@ Beide sind lesend und brauchen keine Ladenzugangsdaten.
   `scripts/bestandsautomatik.py` (täglich 06:00 UTC) nicht — schreibt
   nur eine Erklärung in `BESTANDSAUTOMATIK.md`, statt rot zu werden.
   Anleitung in `WERKZEUGE.md`.
-- **Judge.me war die Quelle erfundener Bewertungen** (Sterne-Metafelder
-  gelöscht, App lieferte weiter `aggregateRating`) — am 13.08.2026
-  deaktiviert, live geprüft: keine Sterne mehr. Offener Rest: Der
-  Bewertungsblock zeigt seitdem Englisch statt Deutsch (⚪ P3 in
-  `AUDIT.md`).
+- **Judge.me ist seit dem 22.10.2026 deinstalliert — erledigt.** Die
+  App war die Quelle erfundener Bewertungen (Sterne-Metafelder
+  gelöscht, App lieferte weiter `aggregateRating`) und galt hier seit
+  dem 13.08.2026 als „deaktiviert, live geprüft". **Das war zu früh
+  abgehakt:** Die Schemaprobe fand am 22.10.2026 weiterhin
+  `cdnwidget.judge.me` auf jeder Produktseite und sieben sichtbare
+  `jdgm-*`-Elemente. Deaktiviert heißt bei Shopify-Apps nicht, dass
+  das Skript nicht mehr lädt.
+
+  Nach dem Deinstallieren nachgemessen: Skript-Hosts von 10 auf 9,
+  Bewertungs-Elemente von 7 auf 0, `aggregateRating` und `review`
+  weiterhin ❌, Product-Schema unverändert vollständig. Damit ist auch
+  der englische Bewertungsblock (⚪ P3 in `AUDIT.md`) weg.
+
+  **Die Lehre, die bleibt:** Bei einer App genügt „deaktiviert" nicht
+  als Nachweis. Gemessen wird am geladenen Skript, nicht an der
+  Einstellung.
+
+- **Loox ist seit dem 22.10.2026 installiert und gemessen unauffällig:**
+  schreibt kein `aggregateRating`, rendert auf den Produktseiten
+  nichts. Bei sieben Bestellungen in drei Jahren gibt es auch nichts
+  anzuzeigen. **Der Bewertungs-Import (AliExpress, CSV) bleibt aus** —
+  das wären Bewertungen ohne Käufer, Regel 3.
 - **Währungsformat** steht auf `€{{amount}}`; deutsche Schreibweise wäre
   `{{amount}} €`. Shop-Einstellung, nicht Theme.
 - **Praxis-Note 58 auf 34 von 34 Seiten — Ursache jetzt belegt**
