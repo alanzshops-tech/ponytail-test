@@ -1,0 +1,38 @@
+interactions:
+- request:
+    body: '{"apiKey": "GESCHWAERZT"}'
+    headers:
+      Connection:
+      - close
+      Content-Length:
+      - '60'
+      Content-Type:
+      - application/json
+      Host:
+      - developers.cjdropshipping.com
+      User-Agent:
+      - Python-urllib/3.12
+    method: POST
+    uri: https://developers.cjdropshipping.com/api2.0/v1/authentication/getAccessToken
+  response:
+    body:
+      string: '{"code":200,"result":true,"message":"Success","data":{"openId":45658,"accessToken":"GESCHWAERZT","accessTokenExpiryDate":"2027-02-05T19:03:35+08:00","refreshToken":"GESCHWAERZT","refreshTokenExpiryDate":"2027-02-05T19:03:35+08:00","createDate":"2026-08-09T19:03:35+08:00"},"requestId":"990cfa29805b4c90904287d7e991562a","pointsInfo":{"total":0,"usedToday":0,"remaining":0},"success":true}'
+    headers:
+      Connection:
+      - close
+      Content-Type:
+      - application/json;charset=UTF-8
+      Date:
+      - Sun, 09 Aug 2026 19:52:50 GMT
+      Server:
+      - nginx
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin
+      - Access-Control-Request-Method
+      - Access-Control-Request-Headers
+    status:
+      code: 200
+      message: ''
+version: 1

@@ -1,0 +1,158 @@
+name: Theme holen und prüfen
+
+# Erst mit dem Theme-Access-Token möglich. Der Runner lädt das Theme als
+# Dateien herunter und lässt Shopifys eigenen Linter darüber laufen.
+# Damit liegt das Theme im Git: mit Verlauf, mit Diff, mit Rückweg.
+#
+# Der Token liegt in GitHub Secrets als SHOPIFY_CLI_THEME_TOKEN und wird
+# nur als Umgebungsvariable durchgereicht — er steht in keinem Befehl
+# und damit in keinem Protokoll.
+on:
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme-ID; leer = das veröffentlichte"
+        type: string
+        default: ""
+      ziel:
+        description: "Zielordner im Repository"
+        type: string
+        default: "theme/live"
+      modus:
+        description: "holen = Theme herunterladen; hochladen = Ordner ins Theme zurueckschreiben"
+        type: choice
+        options: ["holen", "hochladen"]
+        default: "holen"
+permissions:
+  contents: write
+
+jobs:
+  holen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Node 22, nicht 20: Shopify CLI 4 benutzt enableCompileCache aus
+      # node:module, das es erst ab 22.1 gibt. Mit 20 bricht schon
+      # `shopify version` mit einem SyntaxError ab.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Shopify CLI einrichten
+        run: |
+          npm install -g --silent @shopify/cli@latest
+          shopify version
+
+      - name: Token vorhanden?
+        env:
+          TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::SHOPIFY_CLI_THEME_TOKEN fehlt in den Repository-Secrets."
+            exit 1
+          fi
+          echo "Token vorhanden, ${#TOKEN} Zeichen."
+
+      - name: Theme herunterladen
+        if: inputs.modus != 'hochladen'
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+          ZIEL: ${{ inputs.ziel || 'theme/live' }}
+        run: |
+          mkdir -p "$ZIEL"
+          if [ -n "$THEME" ]; then
+            shopify theme pull --path "$ZIEL" --theme "$THEME" --no-color
+          else
+            shopify theme pull --path "$ZIEL" --live --no-color
+          fi
+          echo "--- heruntergeladen ---"
+          find "$ZIEL" -type f | wc -l
+
+      # Hochladen ist der gefaehrliche Weg, deshalb drei Sperren:
+      #   1. Eine Theme-ID ist Pflicht. Ohne sie wuerde die CLI aufs
+      #      veroeffentlichte Theme zielen -- genau das, was Regel 1 in
+      #      CLAUDE.md verbietet.
+      #   2. Kein --allow-live. Ohne dieses Flag verweigert die CLI den
+      #      Push auf ein veroeffentlichtes Theme von sich aus.
+      #   3. Der Zielordner muss existieren und Dateien enthalten, sonst
+      #      wuerde ein leerer Ordner das Theme leerraeumen.
+      - name: Theme hochladen
+        if: inputs.modus == 'hochladen'
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+          ZIEL: ${{ inputs.ziel }}
+        run: |
+          if [ -z "$THEME" ]; then
+            echo "::error::Zum Hochladen ist eine Theme-ID Pflicht. Leer wuerde aufs Live-Theme zielen."
+            exit 1
+          fi
+          ANZAHL=$(find "$ZIEL" -type f 2>/dev/null | wc -l)
+          if [ "$ANZAHL" -lt 50 ]; then
+            echo "::error::$ZIEL enthaelt nur $ANZAHL Dateien. Das sieht nach einem leeren oder halben Ordner aus - Abbruch, statt das Theme leerzuraeumen."
+            exit 1
+          fi
+          echo "Lade $ANZAHL Dateien nach Theme $THEME ..."
+          shopify theme push --path "$ZIEL" --theme "$THEME" --no-color
+
+      - name: Theme Check
+        continue-on-error: true
+        env:
+          ZIEL: ${{ inputs.ziel || 'theme/live' }}
+        run: |
+          mkdir -p daten
+          # fail-level crash: Der Schritt soll nur bei echten Abstürzen
+          # rot werden. Die Befunde wertet das Skript aus.
+          shopify theme check --path "$ZIEL" --output json --no-color \
+            --fail-level crash > daten/themecheck.json || true
+          head -c 300 daten/themecheck.json || true
+
+      - name: Auswerten
+        if: always()
+        env:
+          ZIEL: ${{ inputs.ziel || 'theme/live' }}
+        run: python3 scripts/themecheck.py --json daten/themecheck.json --pfad "$ZIEL"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f THEMECHECK.md ] && cat THEMECHECK.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        env:
+          ZIEL: ${{ inputs.ziel || 'theme/live' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$ZIEL" THEMECHECK.md daten/themecheck.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Theme-Stand vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

@@ -1,0 +1,94 @@
+name: Prüfstand
+
+# Barrierefreiheit, Lesbarkeit und Pixelvergleich. Alles quelloffen,
+# alles ohne Konto, alles gegen die echte Seite — die abgeschottete
+# Arbeitsumgebung erreicht homeeins.de nicht.
+on:
+  workflow_dispatch:
+    inputs:
+      grundlinie:
+        description: "Aufnahmen als neue Vergleichsbasis ablegen"
+        type: boolean
+        default: false
+      urls:
+        description: "Adressliste (urls-shop.txt oder urls-sandbox.txt)"
+        type: string
+        default: "urls-shop.txt"
+      bilder:
+        description: "Zielordner für die Aufnahmen"
+        type: string
+        default: "bilder/pruefstand"
+      frisch:
+        description: "Cache umgehen — nötig direkt nach einer Änderung"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Werkzeuge einrichten
+        run: |
+          pip install --quiet playwright pillow
+          python3 -m playwright install --with-deps chromium
+          # axe-core wird als Datei eingebunden, nicht aus einem CDN.
+          npm install --no-save --silent axe-core
+          node -e "console.log('axe-core', require('axe-core/package.json').version)"
+
+      - name: Messen
+        env:
+          GRUNDLINIE: ${{ inputs.grundlinie }}
+          URLS: ${{ inputs.urls || 'urls-shop.txt' }}
+          BILDER: ${{ inputs.bilder || 'bilder/pruefstand' }}
+          FRISCH: ${{ inputs.frisch }}
+        run: |
+          ZUSATZ=""
+          [ "$GRUNDLINIE" = "true" ] && ZUSATZ="--grundlinie"
+          [ "$FRISCH" = "true" ] && ZUSATZ="$ZUSATZ --frisch"
+          python3 scripts/pruefstand.py --urls "$URLS" --bilder "$BILDER" $ZUSATZ
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f PRUEFSTAND.md ] && cat PRUEFSTAND.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bilder PRUEFSTAND.md daten/pruefstand.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Prüfstand vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

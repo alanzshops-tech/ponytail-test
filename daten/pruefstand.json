@@ -1,0 +1,865 @@
+{
+  "stand": "2026-08-10",
+  "seiten": [
+    {
+      "url": "https://www.homeeins.de/?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 24,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 0,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/startseite-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 51,
+        "schriftgroesse_median": 15.4,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/startseite-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 0,
+        "zeilenlaenge_median": 21,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/collections-hunde-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/collections/hunde?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 62,
+        "schriftgroesse_median": 17.6,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 8
+      },
+      "bild": "bilder/pruefstand/collections-hunde-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 1,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 24,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 1,
+        "zeilenlaenge_median": 41,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 1,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 51,
+        "schriftgroesse_median": 15.4,
+        "zu_klein": 28,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-hundesofa-samt-erhoeht-xxl-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 0,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 18,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 1,
+        "zeilenlaenge_median": 41,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 2,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\nSchreiben Sie die erste Bewertung",
+        "sterne_symbole": 0,
+        "wort_bewertung": 1,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 45,
+        "schriftgroesse_median": 15.4,
+        "zu_klein": 28,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-sitzbank-stauraum-gepolstert-klappbar-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 8,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 0,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/cart?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 1,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": false,
+        "widget_text": null,
+        "sterne_symbole": 0,
+        "wort_bewertung": 0,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 0
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 35,
+        "schriftgroesse_median": 15.4,
+        "zu_klein": 27,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/cart-desktop.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?frisch=1786390422",
+      "geraet": "mobil",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 3,
+          "beispiel": "<select class=\"jdgm-sort-dropdown\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 5,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 1 Bewertung\n \n 1\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/29/2026\nAnna M.\nAbsolut top!\n\nAbsolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – supe",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 1
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 758,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 208,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 298,
+            "oben": 819,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 17,
+        "schriftgroesse_median": 16.5,
+        "zu_klein": 1,
+        "zeilenlaenge_median": 38,
+        "zu_breit": 0
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-mobil.png",
+      "vergleich": null
+    },
+    {
+      "url": "https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?frisch=1786390422",
+      "geraet": "desktop",
+      "verstoesse": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "anzahl": 3,
+          "beispiel": "<select class=\"jdgm-sort-dropdown\">"
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "anzahl": 1,
+          "beispiel": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--25601110737219__main\" data-cart-quantity=\"0\" data-min=\"1\" min=\"1\" step=\"1\" v"
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "anzahl": 1,
+          "beispiel": "<div class=\"grid grid--1-col slider slider--everywhere\" id=\"Slider-sections--25601111064899__announcement-bar\" aria-live=\"off\" aria-atomic=\"true\" data-autoplay="
+        }
+      ],
+      "schwer": 5,
+      "leicht": 0,
+      "bewertungen": {
+        "widget_da": true,
+        "widget_text": "Kundenbewertungen\n 5.00 von 5\nBasierend auf 1 Bewertung\n \n 1\n \n 0\n \n 0\n \n 0\n \n 0\nSort by\nNeueste\nHöchste Bewertung\nNiedrigste Bewertung\nNur Bilder\nBilder zuerst\nVideos zuerst\nHilfreichste\n03/29/2026\nAnna M.\nAbsolut top!\n\nAbsolut top! Der Design-Samt-Sessel ist genau so schön wie auf den Fotos – supe",
+        "sterne_symbole": 1,
+        "wort_bewertung": 3,
+        "wort_rezension": 0,
+        "wort_sterne": 0,
+        "preise_mit_eur": 0,
+        "preise_gesamt": 0,
+        "aggregate_rating": 1
+      },
+      "widerruf": {
+        "elemente": 3,
+        "sichtbar": 3,
+        "schwebend_mit_text": 1,
+        "beispiel": "<div class=\"widerruf-popup-source widerruf-popup-source--embed\" data-widerruf-popup-source=\"\" data-widerruf-popup-source-kind=\"embed\" data-widerruf-popup-css-url=\"https://cdn.shopi",
+        "skripte": [
+          "https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal-button-135/assets/popup-block.js"
+        ],
+        "schweber": [
+          {
+            "kennung": "widerruf-trigger-button widerruf-trigger-button--floating wi",
+            "text": "Vertrag widerrufen",
+            "links": 20,
+            "oben": 814,
+            "breite": 162,
+            "hoehe": 42,
+            "von_rechts": 1258,
+            "von_unten": 44
+          },
+          {
+            "kennung": "trustedsite-tm-image",
+            "text": "",
+            "links": 1348,
+            "oben": 875,
+            "breite": 92,
+            "hoehe": 38,
+            "von_rechts": 0,
+            "von_unten": -13
+          }
+        ],
+        "ueberlappungen": []
+      },
+      "text": {
+        "absaetze": 44,
+        "schriftgroesse_median": 15.4,
+        "zu_klein": 28,
+        "zeilenlaenge_median": 0,
+        "zu_breit": 1
+      },
+      "bild": "bilder/pruefstand/products-samt-sessel-design-armlehnen-holzbeine-desktop.png",
+      "vergleich": null
+    }
+  ]
+}

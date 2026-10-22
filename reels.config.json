@@ -1,0 +1,274 @@
+{
+  "_hinweis": "Jedes Produkt ergibt ein Reel. 'sprecher' wird per Piper vertont und bestimmt das Tempo der Bildfolge — je länger der Text, desto länger stehen die Bilder. 'hook' und 'preis' sind Textebenen im Bild. 'stimmung' steuert das Musikbett: ruhig oder hell.",
+  "produkte": [
+    {
+      "name": "samt-sessel",
+      "hook": "Die Ecke, um die\ngestritten wird",
+      "preis": "124 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Jedes Wohnzimmer hat eine Ecke, die niemand nutzt. Ein Sessel ändert das. Samtbezug mit Steppung, massive Holzbeine, belastbar bis hundertzehn Kilo. Plötzlich ist es der Platz, um den gestritten wird.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/892ae31c-9e6c-4154-8a64-c9f8bb2f6c2e.jpg?v=1767905836",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2cdf505b-657f-4f40-a67d-0442ca2dc18d.jpg?v=1767905834",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/886e43be-aabd-45b0-a73b-218e27e5923c.jpg?v=1767905835",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dda10fcf-e8ee-483a-9afa-02790e956263.jpg?v=1767905837",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/52bf35bc-38ca-41ed-928b-013b44111e8b.jpg?v=1767905838"
+      ]
+    },
+    {
+      "name": "rattan-sonnenliege",
+      "hook": "Der Platz, von dem du\nnicht mehr aufstehst",
+      "preis": "399 EUR",
+      "stimmung": "hell",
+      "sprecher": "Der beste Platz im Garten ist der, von dem man nicht mehr aufstehen will. Extra groß gebaut, mit ausklappbarem Sonnendach und wetterfestem Rattan. Sie darf das ganze Jahr draußen bleiben.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/22518de9-7042-42cf-a097-43a5e9ea9847.jpg?v=1767908816",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/26b9d07f-b50c-47a8-8840-ef83f3669fd2.jpg?v=1767908816",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2f555755-ec1b-44af-8e4d-75c53998049c.jpg?v=1767908818",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/51cbe1fb-b1d6-4f0d-9dd6-53beaff00f8f.jpg?v=1767908819",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1524c4d0-a9aa-428d-861d-6118aeb0724d.jpg?v=1767908820"
+      ]
+    },
+    {
+      "name": "waschmaschinenschrank",
+      "hook": "Ein Meter Luft,\nwortwoertlich verschenkt",
+      "preis": "ab 69,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Über deiner Waschmaschine ist ein Meter Luft. Wortwörtlich verschenkt. Dieser Schrank wird einfach darüber gestellt. Die Stellfläche bleibt gleich, der Stauraum verdreifacht sich.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/17277e9d-60da-41cd-9c66-583e64861b77.jpg?v=1768041101",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3086bf18-5131-4825-8b79-574a7b368df8.jpg?v=1768041102",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6b15b5d5-f083-44fd-8792-bc43a2e66352.jpg?v=1768041103",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3a566ad0-596b-4084-91a5-f57b0a9c0028.jpg?v=1768041105",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8d438026-4be9-4f13-a80b-322dae323623.jpg?v=1768041106"
+      ]
+    },
+    {
+      "name": "hundesofa",
+      "hook": "Dein Hund hat laengst\nein Lieblingsmoebel",
+      "preis": "94,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Dein Hund hat längst ein Lieblingsmöbel. Es ist deins. Dieses Hundesofa sieht aus wie ein Möbelstück, nicht wie ein Körbchen. Erhöhter Schlafplatz, Samtbezug, stabil bis fünfzig Kilo. Und es darf im Wohnzimmer stehen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/d82cd27c-81d6-43da-b55c-c5ada4a75f2d.jpg?v=1767654251",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/338c69e4-0f43-4fac-8990-6a6b1e594be1.jpg?v=1767654253",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e86d63cf-894d-48cc-82b1-1d6366c2e8a6.jpg?v=1767654252",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0fa3a529-553b-4fc4-924c-d87dcf2b1690.jpg?v=1767654253",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1e9f6cd9-1ca8-473f-996b-597edbc26bda.jpg?v=1767654254"
+      ]
+    },
+    {
+      "name": "couchtisch",
+      "hook": "Das erste Moebel,\ndas Besuch sieht",
+      "preis": "149,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Der Couchtisch ist das erste Möbel, auf das der Blick fällt, wenn jemand dein Wohnzimmer betritt. Hochglanz in Schwarz oder Weiß, klare Linien, keine Schnörkel. Und er reflektiert Licht: In dunklen Wohnzimmern bringt das mehr als eine zusätzliche Lampe.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/147cec92-3d83-4e0e-a4a2-861c188b3905.jpg?v=1767653777",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ec55eccb-ae50-4e66-9adc-06e7b6e9f324.jpg?v=1767653779",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6918cb72-472e-4230-9c46-009b09255286.jpg?v=1767653780",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/04217c20-7c40-4b1d-8922-1aa51f1fbcd7.jpg?v=1767653780",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/df881cdf-308b-4509-8100-dc5808ef9557.jpg?v=1767653781"
+      ]
+    },
+    {
+      "name": "schuhbank",
+      "hook": "Der Raum, den alle sehen\nund niemand plant",
+      "preis": "89 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Im Eingangsbereich sieht es bei den meisten gleich aus: Schuhe stehen quer, und zum Schuhebinden gibt es keinen Sitzplatz. Diese Bank löst beides auf zweiundsechzig Zentimeter Breite: Sitzpolster oben, Stauraum unten, belastbar bis hundertzehn Kilo.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/f0f86e47-cb5d-44ad-93f5-a31fa8d668bd.jpg?v=1767907216",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/750c08cb-4819-4dc5-be05-dcd1a98a3e05.jpg?v=1767907218",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dc28c386-2e73-4e23-bc47-d7e5c2024026.jpg?v=1767907218",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ad0ace95-537f-4881-b874-10125a83afcc.jpg?v=1767907219",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ad613e1e-f49d-4e59-a150-39c1f32ecc98.jpg?v=1767907220"
+      ]
+    },
+    {
+      "name": "weinregal",
+      "hook": "72 Flaschen.\nKein Keller noetig.",
+      "preis": "89 EUR",
+      "stimmung": "hell",
+      "sprecher": "Wer Wein sammelt, kennt das Problem: Irgendwann stehen die Flaschen in Kisten in der Abstellkammer. Dieses Regal aus Bambus und Metall ist stapelbar. Du fängst mit einer Ebene an und baust nach oben, wenn die Sammlung wächst. Platz für zweiundsiebzig Flaschen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/042b9519-a671-4517-9f02-b633a3386ceb.jpg?v=1767972446",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/99a73c14-ac4e-4f39-b266-83621b778d2e.jpg?v=1767972447",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ef2b8afe-495a-49af-8ce8-c9fcd0a106aa.jpg?v=1767972448",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/fd43002c-cd67-448c-a126-26ebf689d9cc.jpg?v=1767972449",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e5ba809e-b501-4a0e-818e-74c991329ccb.jpg?v=1767972450"
+      ]
+    },
+    {
+      "name": "gewichtsdecke",
+      "hook": "Gegen das\nGedankenkarussell",
+      "preis": "74 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Wer abends nicht abschalten kann, kennt das Gedankenkarussell. Eine Gewichtsdecke arbeitet mit sanftem, gleichmäßigem Druck über den ganzen Körper, ähnlich wie eine feste Umarmung. Kein Wundermittel, aber für viele der Unterschied zwischen wälzen und wegdriften.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8d528448-f8a5-4e64-b5e3-cda882a29eff.jpg?v=1767781028",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c91f1e27-9ca0-4b75-9148-562c8844ed17.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6a23f825-5cf7-426d-ae96-ece52024f021.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/266fc98b-c556-4ad4-b0b6-8a238e350c49.jpg?v=1774979649",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1b1b2464-0b0d-429d-b2b1-c62d7c121b9a.jpg?v=1774979649"
+      ]
+    },
+    {
+      "name": "feuerschale",
+      "hook": "Zwei Stunden mehr\ndraussen sitzen",
+      "preis": "99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Die letzten warmen Abende verbringt man draußen, bis es zu kühl wird. Diese Feuerschale aus Stahl verlängert den Abend um zwei Stunden. Eckig statt rund, fünfzig mal fünfzig Zentimeter, wetterfest.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/50b11eb2-4a2d-4ad1-8328-9f7a7365e1f9.jpg?v=1767907035",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/995053ee-6d29-4d07-bdf9-9ba6c209663d.jpg?v=1767907035",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2171487b-e370-4804-96cd-2b7684214912.jpg?v=1767907036",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/abac1ef9-738c-45bf-9ccd-14bd978e9320.jpg?v=1767907037",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/04ea6aab-2efd-45c4-9566-8bc97df121cb.jpg?v=1767907038"
+      ]
+    },
+    {
+      "name": "buerostuhl",
+      "hook": "Dein Ruecken weiss es\nnach zwei Stunden",
+      "preis": "129,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Der Küchenstuhl im Homeoffice ist eine Übergangslösung, die bei den meisten drei Jahre hält. Dieser Stuhl hat eine Fußablage, eine Rückenlehne, die wirklich stützt, und hundertfünfunddreißig Grad Relaxfunktion. Das heißt: in der Mittagspause fast flach liegen, ohne aufzustehen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4461f4b5-b93a-4a99-93e8-f900864b7831.jpg?v=1767652269",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/472a134e-f89a-4d54-857e-e527afe0b6f1.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/b492adf7-d5f1-4cf4-af9a-a036acf8d698.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/cf398dbc-4a56-4500-af77-bc36f496d8a0.jpg?v=1774979490",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4cc857e8-648c-4b3d-95c3-28d65742b428.jpg?v=1774979490"
+      ]
+    },
+    {
+      "name": "kratzbaum",
+      "hook": "Sonst nimmt die Katze\ndeinen Sessel",
+      "preis": "44,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Wenn es keinen Kratzbaum gibt, nimmt die Katze den Sessel. Dieser hier ist kompakt gebaut und passt auch in kleine Wohnungen: kratzen, klettern und schlafen auf einer Grundfläche. Plüschbezug, stabile Säulen aus Sisal.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8a6dfd31-7926-4802-9ab2-74da24b208a9.jpg?v=1767652872",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/eda40b57-c618-4541-bb1a-86f0ff625915.jpg?v=1767652872",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/fcc5c00e-64be-4cbe-bde5-473e11e05add.jpg?v=1767652874",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4da563a1-c1b8-41a2-9b44-b0d4317baafe.jpg?v=1767652874",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dae97249-33e0-40d9-8577-920bca6760f7.jpg?v=1767652875"
+      ]
+    },
+    {
+      "name": "rattan-ecksofa",
+      "hook": "Ecke oder zwei Sitzer.\nDu entscheidest.",
+      "preis": "249 EUR",
+      "stimmung": "hell",
+      "sprecher": "Ein Gartensofa, das sich umbauen lässt: einmal als Ecke, einmal als zwei getrennte Sitzer. Wetterfestes Rattan, extra dicke Kissen. Du entscheidest je nachdem, wie viele Leute kommen.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0ca4603a-0696-4909-90ba-54c03b5eb172.jpg?v=1767907935",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8f8fe6b5-a882-448d-8761-16ad7f4f83ef.jpg?v=1767907935",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e23dca7d-6c0a-4f7a-a16c-d9c06df16e03.jpg?v=1767907936",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/da63a5b4-816a-4c7a-a405-033e54c95b33.jpg?v=1767907937",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c6988de8-28b4-4355-8d49-990cef7b9032.jpg?v=1767907938"
+      ]
+    },
+    {
+      "name": "hundebett-95",
+      "hook": "Er passt rein.\nAusgestreckt aber nicht",
+      "preis": "94,00 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Die meisten Hundebetten sind zu klein gekauft. Nicht weil der Hund nicht hineinpasst, sondern weil er sich im Tiefschlaf ausstreckt. Fünfundneunzig Zentimeter Liegefläche, Kunstleder an den Seiten, Samt obenauf. Stabil bis fünfzig Kilo.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/298bb92f-d2d6-48d6-ae49-83aad9c711a0.jpg?v=1771154951",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e20f3af9-4f98-46d7-9889-2379307826ce_33b6b115-1fdd-45b0-924e-a98de0eb7292.jpg?v=1771155198",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e20f3af9-4f98-46d7-9889-2379307826ce.jpg?v=1771155188",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/059c4c90-767c-4c9e-969c-1a202eb4fe22.jpg?v=1771155188",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ac37e716-6127-4e01-8b27-9407ce120e95.jpg?v=1771155188"
+      ]
+    },
+    {
+      "name": "hundebett-xxl",
+      "hook": "Für Hunde, die\nnirgends reinpassen",
+      "preis": "199,00 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Manche Hunde liegen nirgends richtig. Dieses Bett hat eine Erweiterung: Streckt er sich aus, wird die Liegefläche länger. Samt, erhöht auf Beinen, belastbar bis fünfzig Kilo. Reicht auch für zwei Hunde nebeneinander.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/dc799c1a-d7c1-47d6-b52d-7dc9f814a1c2.jpg?v=1767908071",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/361ba502-1fc2-4dae-bcb0-843d2895d119.jpg?v=1767908072",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2a7bda57-a6da-43b7-9859-63c1e6d9fc89.jpg?v=1767908074",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/987e1be7-31b8-48e9-ae46-e5f08bcc6a28.jpg?v=1767908075",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4ea0f63e-399d-4ed1-b2fb-340bbab771a9.jpg?v=1767908075",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ece0209a-9fe2-4621-ae66-946dfcedb53e.jpg?v=1767908076"
+      ]
+    },
+    {
+      "name": "haustiertreppe",
+      "hook": "Jeder Sprung\nkostet Gelenke",
+      "preis": "74,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Bei älteren Hunden und langen Rücken ist das Springen das Problem, nicht das Steigen. Diese Treppe zerlegt den Weg aufs Sofa in kleine Schritte. Faltbar, weich bezogen, in Sekunden weggeräumt. Katzen nehmen sie auch an.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1447f2e3-cb38-4031-bbef-a82245e05192.jpg?v=1769075202",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ChatGPT_Image_7._Feb._2026_17_54_23.png?v=1770483308",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ChatGPT_Image_7._Feb._2026_17_42_10.png?v=1770483291",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ChatGPT_Image_7._Feb._2026_17_43_56.png?v=1770483291",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ChatGPT_Image_7._Feb._2026_17_50_22.png?v=1770483291",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/ChatGPT_Image_7._Feb._2026_17_51_58.png?v=1770483291"
+      ]
+    },
+    {
+      "name": "hundebett-klein",
+      "hook": "Waschbar.\nWeil es nötig ist",
+      "preis": "99,00 EUR",
+      "stimmung": "hell",
+      "sprecher": "Bei kleinen Hunden und Katzen geht öfter mal etwas daneben. Dieses Bett hat ein Kissen, das in die Maschine darf, und eine Unterseite, die nicht verrutscht. Außen Kunstleder, einfach abwischbar.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e460f875-e896-4901-938e-0d52782d6faf.jpg?v=1767907752",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/a1869c29-926e-42c7-8083-5fa93874f5b6.jpg?v=1767907753",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2d826b81-72a8-4c2e-9bb4-42c0a6308721.jpg?v=1767907754",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c1cded6c-eca0-44f1-9d82-7833c8a6a8cb.jpg?v=1767907755",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/3958c139-0adc-4eae-84db-61a4c31d528e.jpg?v=1767907756",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/0fa87acd-8b59-4463-a471-1cf3ee62af89.jpg?v=1767907757"
+      ]
+    },
+    {
+      "name": "sitzbank-stauraum",
+      "hook": "Sitzen oder verstauen?\nBeides",
+      "preis": "79,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Im Flur fehlt immer zweierlei: ein Platz zum Hinsetzen und ein Platz für die Sachen, die dort landen. Diese Bank ist beides. Deckel auf, alles verschwindet. Zugeklappt sieht man ein Möbelstück, keine Kiste. In sechsundsiebzig oder hundertzehn Zentimetern.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/70c5b579-c98f-4cd8-974e-02f423a9dfcc.png?v=1786306685",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/2df2036a-15e1-463c-99af-f7e9089e077d.png?v=1786306683",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/211ed9f0-f864-4519-bb81-62c02b629079.jpg?v=1786306684",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/6668702c-648c-45dc-9a95-79dd49065cf7.png?v=1786306683",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/bda55ad4-efea-42ef-a730-359c9760a268.png?v=1786306685"
+      ]
+    },
+    {
+      "name": "sitzhocker-38",
+      "hook": "Achtunddreißig\nZentimeter Ordnung",
+      "preis": "69,99 EUR",
+      "stimmung": "hell",
+      "sprecher": "Für die Diele, in der keine Bank Platz hat. Achtunddreißig Zentimeter im Quadrat: hinsetzen zum Schuheanziehen, Fußbank vor dem Sessel, und innen der Stauraum für alles, was sonst herumliegt. Zusammengeklappt passt er hinter den Schrank.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/8e2812e8-290c-45f4-aa45-f3da92f558a8.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/cb290299-60e7-4ed1-be7c-97a4d7369c1f.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/f5de2452-643c-4a3c-8d7d-428a5efefc7f.jpg?v=1786306769",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/11696cb2-de37-49ed-981f-6f7a38507141.jpg?v=1786306770",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/4914bd55-3468-4805-b9bd-ee0f7ea9e77f.jpg?v=1786306770"
+      ]
+    },
+    {
+      "name": "taschenlampe",
+      "hook": "Die Taschenlampe\nist immer leer",
+      "preis": "29,99 EUR",
+      "stimmung": "ruhig",
+      "sprecher": "Die Lampe in der Schublade hat leere Batterien. Jedes Mal. Diese hängt am USB-C-Kabel wie das Handy und zeigt den Ladestand an. Sieben Modi, dazu rotes Warnlicht für die Panne am Straßenrand. Spritzwassergeschützt, hundertzweiundsiebzig Gramm.",
+      "bilder": [
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/12f5574b-b77b-410a-9c89-0991259decbe.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e7ecc910-2159-4735-a8fe-5ba717c4b410.jpg?v=1786306828",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/c957eab6-5b6c-4f4f-a4fe-95e5c3c3fc23.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/746c740b-bf29-4a1b-a690-7820d409bb72.jpg?v=1786306829",
+        "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1bae49eb-1656-490b-aff5-c8ff8cc2ddd3.jpg?v=1786306829"
+      ]
+    }
+  ]
+}

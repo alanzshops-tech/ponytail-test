@@ -1,0 +1,167 @@
+{
+  "_hinweis": "Suchbegriffe für das Google-Trends-Tracking. Google vergleicht maximal fünf Begriffe pro Abfrage, deshalb sind sie in Gruppen geteilt. Innerhalb einer Gruppe sind die Werte relativ zueinander (100 = Höchstwert der Gruppe im Zeitraum) — Begriffe aus verschiedenen Gruppen lassen sich deshalb nicht direkt vergleichen. Gruppen daher thematisch bilden.",
+  "region": "DE",
+  "zeitraum": "today 12-m",
+  "gruppen": [
+    {
+      "name": "stauraum",
+      "begriffe": [
+        "waschmaschinenschrank",
+        "schuhbank",
+        "weinregal",
+        "wäschekorb",
+        "raumteiler"
+      ]
+    },
+    {
+      "name": "wohnen",
+      "begriffe": [
+        "couchtisch",
+        "samtsessel",
+        "nachttisch",
+        "kunstpflanze",
+        "gewichtsdecke"
+      ]
+    },
+    {
+      "name": "garten",
+      "begriffe": [
+        "sonnenliege",
+        "feuerschale",
+        "gartenstuhl",
+        "gartenmöbel",
+        "rattan lounge"
+      ]
+    },
+    {
+      "name": "haustier-buero",
+      "begriffe": [
+        "hundesofa",
+        "hundebett",
+        "kratzbaum",
+        "bürostuhl",
+        "schreibtischstuhl"
+      ]
+    },
+    {
+      "name": "hund-oberbegriffe",
+      "begriffe": [
+        "hundezubehör",
+        "hundebett",
+        "hundegeschirr",
+        "hundespielzeug",
+        "hundenapf"
+      ]
+    },
+    {
+      "name": "hund-kandidaten",
+      "begriffe": [
+        "futterautomat hund",
+        "schnüffelteppich",
+        "hundebademantel",
+        "gps tracker hund",
+        "napf erhöht hund"
+      ]
+    },
+    {
+      "name": "katze-kandidaten",
+      "begriffe": [
+        "katzenschrank",
+        "katzentoilette schrank",
+        "katzenklo möbel",
+        "katzenhaus draußen",
+        "beheiztes katzenhaus"
+      ]
+    },
+    {
+      "name": "stauraum-kandidaten",
+      "begriffe": [
+        "sitzhocker mit stauraum",
+        "hocker mit stauraum",
+        "stoffkommode",
+        "kommode schmal",
+        "wäschesortierer"
+      ]
+    },
+    {
+      "name": "reinigung",
+      "begriffe": [
+        "dampfreiniger",
+        "nass trockensauger",
+        "polsterreiniger",
+        "akkustaubsauger",
+        "hochdruckreiniger"
+      ]
+    },
+    {
+      "name": "werkzeug-auto",
+      "begriffe": [
+        "akkuschrauber",
+        "werkzeugkoffer",
+        "batterietester",
+        "anhängerkupplung",
+        "drehmomentschlüssel"
+      ]
+    },
+    {
+      "name": "licht-energie",
+      "begriffe": [
+        "stirnlampe",
+        "taschenlampe",
+        "arbeitsleuchte",
+        "solar halterung",
+        "akku ladegerät"
+      ]
+    },
+    {
+      "name": "haus-technik",
+      "begriffe": [
+        "heißluftfritteuse",
+        "duschhocker",
+        "atemschutzmaske",
+        "kettensäge akku",
+        "wäschespinne"
+      ]
+    },
+    {
+      "name": "kueche",
+      "begriffe": [
+        "küchenwagen",
+        "gewürzregal",
+        "mülleimer sensor",
+        "wasserfilter kanne",
+        "brotkasten"
+      ]
+    },
+    {
+      "name": "schlafzimmer",
+      "begriffe": [
+        "matratzentopper",
+        "verdunkelungsvorhang",
+        "leselampe bett",
+        "bettwäsche waffel",
+        "unterbett box"
+      ]
+    },
+    {
+      "name": "buero-technik",
+      "begriffe": [
+        "monitorarm",
+        "schreibtisch höhenverstellbar",
+        "kabelbox schreibtisch",
+        "aktenschrank",
+        "laptop ständer"
+      ]
+    },
+    {
+      "name": "fitness-zuhause",
+      "begriffe": [
+        "yogamatte dick",
+        "klimmzugstange tür",
+        "hantelset verstellbar",
+        "faszienrolle",
+        "widerstandsband set"
+      ]
+    }
+  ]
+}

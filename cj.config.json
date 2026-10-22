@@ -1,0 +1,30 @@
+{
+  "_hinweis": "Suchbegriffe fuer den CJ-Katalog. '*' bedeutet: kein Suchbegriff, also alles was im deutschen Lager liegt. Die Gesamtzahl dahinter zeigt, wie gross das Lager ueberhaupt ist.",
+  "mindestbestand": 1,
+  "treffer": 40,
+  "begriffe": [
+    "*",
+    "kitchen cart",
+    "spice rack",
+    "sensor trash can",
+    "water filter pitcher",
+    "bread box",
+    "mattress topper",
+    "blackout curtain",
+    "bed reading light",
+    "waffle blanket",
+    "under bed storage box",
+    "monitor arm",
+    "standing desk",
+    "cable organizer box",
+    "filing cabinet",
+    "laptop stand",
+    "yoga mat",
+    "pull up bar doorway",
+    "adjustable dumbbell",
+    "foam roller",
+    "fascia roller",
+    "resistance band set"
+  ],
+  "seiten": 5
+}

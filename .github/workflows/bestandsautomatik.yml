@@ -1,0 +1,68 @@
+name: Bestandsautomatik
+
+# Prüft jeden Morgen den Lagerbestand und räumt danach auf:
+#   - alle Varianten eines aktiven Produkts bei 0  -> Entwurf
+#   - ein von dieser Automatik gedrafteter Entwurf hat wieder Bestand
+#     -> zurück auf aktiv
+# Ein Produkt mit nur EINER leeren Variante bleibt unangetastet -- das
+# ist Absicht (Nutzer-Vorgabe, 14.08.2026), nicht jede Farbe muss immer
+# lieferbar sein.
+#
+# Fremde Entwürfe (die 45 aus AUDIT.md, aus anderen Gründen nie aktiv)
+# werden NICHT reaktiviert, nur weil zufällig Bestand da ist -- siehe
+# Begründung im Skript-Kommentar.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 6 * * *"
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: pip install --quiet requests
+
+      - name: Bestand prüfen und aufräumen
+        env:
+          SHOPIFY_ADMIN_API_TOKEN: ${{ secrets.SHOPIFY_ADMIN_API_TOKEN }}
+        run: python3 scripts/bestandsautomatik.py --store 7a0a31.myshopify.com
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f BESTANDSAUTOMATIK.md ] && cat BESTANDSAUTOMATIK.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          if [ ! -f BESTANDSAUTOMATIK.md ]; then
+            echo "Nichts geprüft, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add BESTANDSAUTOMATIK.md daten/bestandsautomatik-aktuell.json
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "Bestandsautomatik vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

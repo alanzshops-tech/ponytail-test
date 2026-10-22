@@ -1,0 +1,182 @@
+[
+  {
+    "kapitel": 1,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Die Immobilie ist in ihrer aktuellen Nutzung nicht\" — Was bedeutet \"nicht ausreichend werthaltig\"?\n\nSTARK: \"Man kann sehr viel nicht denken, während man Blätterteig tourniert.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Die Immobilie ist in ihrer aktuellen Nutzung nicht",
+            "grund": "Was bedeutet \"nicht ausreichend werthaltig\"?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Man kann sehr viel nicht denken, während man Blätterteig tourniert.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Das Ergebnis war jedes Mal dasselbe, egal wie oft\" — unklar ob sie tatsächlich keine Option sieht oder einfach aufgehört hat, kreativ zu rechnen\nSTARK: \"Und dann sah ich hin.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Das Ergebnis war jedes Mal dasselbe, egal wie oft",
+            "grund": "unklar ob sie tatsächlich keine Option sieht oder einfach aufgehört hat, kreativ zu rechnen",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Und dann sah ich hin.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 12,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Ich bin nicht wütend“, sagte ich. „Ich werde es vielleicht morgen sein\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich bin nicht wütend",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"das ist der Teil, bei dem ich schlecht dastehe\" — kurz unklar, ob sie die eigene Feigheit meint oder etwas Konkretes, das noch kommt\nSTARK: \"solange ich nicht gefragt habe, konnte ich mir vorstellen, dass du ihn gewollt hättest\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "das ist der Teil, bei dem ich schlecht dastehe",
+            "grund": "kurz unklar, ob sie die eigene Feigheit meint oder etwas Konkretes, das noch kommt",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "solange ich nicht gefragt habe, konnte ich mir vorstellen, dass du ihn gewollt hättest",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 21,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Es war die schönste halbe Stunde des ganzen Dezembers.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Es war die schönste halbe Stunde des ganzen Dezembers.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"wählen müssen. Merkst du was? Er merkte es nicht sofort\" — unklar, was genau Jonas \"merkt\"; der gedankliche Sprung von Beirat zu Symmetrie passiert ohne Brücke\nSTARK: \"Das ist das Traurigste an dem ganzen Abend.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "wählen müssen. Merkst du was? Er merkte es nicht sofort",
+            "grund": "unklar, was genau Jonas \"merkt\"; der gedankliche Sprung von Beirat zu Symmetrie passiert ohne Brücke",
+            "belegt": false
+          },
+          "STARK": {
+            "zitat": "Das ist das Traurigste an dem ganzen Abend.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 28,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich zähle den zwanzigsten Januar mit.\" — Was ist am zwanzigsten Januar passiert?\n\nSTARK: \"Man kann sehr viel nicht sagen, während man jemanden festhält.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich zähle den zwanzigsten Januar mit.",
+            "grund": "Was ist am zwanzigsten Januar passiert?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Man kann sehr viel nicht sagen, während man jemanden festhält.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "anthropic/claude-sonnet-4.6": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"die von ihr kam und die albern klingt\" — unklar ist, ob er \"albern\" ironisch meint oder wirklich kritisch, was seinen Ton zur Verabredung kurz verfälscht\nSTARK: \"Eine echte Frage ist eine, bei der die andere Person nein sagen kann\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "die von ihr kam und die albern klingt",
+            "grund": "unklar ist, ob er \"albern\" ironisch meint oder wirklich kritisch, was seinen Ton zur Verabredung kurz verfälscht",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Eine echte Frage ist eine, bei der die andere Person nein sagen kann",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  }
+]

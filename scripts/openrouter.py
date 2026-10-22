@@ -1,0 +1,637 @@
+"""OpenRouter: Zugang pruefen und eine echte Antwort holen.
+
+OpenRouter ist ein Vermittler. Eine Adresse, ein Schluessel, dahinter die
+Modelle vieler Anbieter. Die Schnittstelle ist OpenAI-kompatibel.
+
+Alles hier ist am Paket @openrouter/sdk 1.2.18 (Apache-2.0) nachgesehen,
+nicht aus einer Anleitung uebernommen:
+
+    Basis            https://openrouter.ai/api/v1
+    Anmeldung        Authorization: Bearer <Schluessel>
+    Endpunkte        /key /credits /models /chat/completions /generation
+
+Kein SDK noetig, urllib reicht -- eine Abhaengigkeit weniger, die altern
+kann.
+
+DER SCHLUESSEL steht in der Umgebungsvariablen OPENROUTER_API_KEY und
+nirgends sonst. Nicht im Repository, nicht in einem Befehl, nicht in der
+Ausgabe. Das Skript zeigt nur seine Laenge.
+
+DIE ARBEITSUMGEBUNG ERREICHT OPENROUTER NICHT. Nur GitHub, PyPI und npm.
+Dieses Skript laeuft auf dem Runner, das Ergebnis kommt als Commit
+zurueck -- so wie jedes andere Werkzeug hier.
+
+    python3 scripts/openrouter.py --pruefen
+    python3 scripts/openrouter.py --fragen "Ein Satz ueber Hundesofas."
+"""
+from __future__ import annotations
+
+import argparse
+import base64
+import json
+import os
+import sys
+import urllib.error
+import urllib.request
+from datetime import date
+from pathlib import Path
+
+BASIS = "https://openrouter.ai/api/v1"
+# OpenRouter bittet um diese beiden Kopfzeilen, damit Aufrufe zuordenbar
+# sind. Sie sind freiwillig und enthalten nichts Geheimes.
+HERKUNFT = "https://www.homeeins.de"
+TITEL = "Homeeins Werkzeuge"
+
+
+def schluessel() -> str:
+    s = os.environ.get("OPENROUTER_API_KEY", "").strip()
+    if not s:
+        sys.exit("OPENROUTER_API_KEY fehlt. Gehoert in die GitHub Secrets, "
+                 "nicht in eine Datei.")
+    return s
+
+
+def rufen(pfad: str, last: dict | None = None, zeit: int = 90) -> dict:
+    """Ein Aufruf. Gibt bei einem Fehler den Text des Dienstes zurueck --
+    „HTTP 401" allein sagt nicht, ob der Schluessel falsch ist oder das
+    Guthaben leer."""
+    kopf = {
+        "Authorization": f"Bearer {schluessel()}",
+        "Content-Type": "application/json",
+        "HTTP-Referer": HERKUNFT,
+        "X-Title": TITEL,
+    }
+    daten = json.dumps(last).encode() if last is not None else None
+    anfrage = urllib.request.Request(f"{BASIS}{pfad}", data=daten,
+                                     headers=kopf,
+                                     method="POST" if daten else "GET")
+    try:
+        with urllib.request.urlopen(anfrage, timeout=zeit) as a:
+            return json.loads(a.read().decode())
+    except urllib.error.HTTPError as e:
+        text = e.read().decode(errors="replace")[:400]
+        return {"fehler": f"HTTP {e.code}", "text": text}
+    except Exception as e:                                       # noqa: BLE001
+        return {"fehler": str(e)[:200]}
+
+
+# Am 10.08.2026 stand nach dem ersten Lauf „sk-or-v1-cc8...4b5" im
+# Bericht — und damit im öffentlichen Repository. OpenRouters `label` ist
+# nicht ein selbstgewählter Name, sondern der maskierte Schlüssel. Ich
+# hatte das Feld durchgereicht, ohne nachzusehen, was drinsteht.
+# Deshalb jetzt eine Positivliste: nur was hier steht, kommt in den
+# Bericht. Ein neues Feld der Gegenseite landet nie ungeprüft im Repo.
+ERLAUBT = {
+    "limit", "limit_remaining", "limit_reset", "usage", "usage_daily",
+    "usage_weekly", "usage_monthly", "is_free_tier", "is_management_key",
+    "is_provisioning_key", "expires_at", "rate_limit",
+}
+
+
+def ohne_geheimnis(antwort: dict) -> dict:
+    """Behält nur die freigegebenen Felder. `label` und `creator_user_id`
+    fallen dabei weg — das eine ist der maskierte Schlüssel, das andere
+    eine Kontokennung, und beides geht ein öffentliches Repository nichts
+    an."""
+    if not isinstance(antwort, dict) or "data" not in antwort:
+        return antwort
+    d = antwort.get("data")
+    if not isinstance(d, dict):
+        return antwort
+    return {**antwort, "data": {k: v for k, v in d.items() if k in ERLAUBT}}
+
+
+def preis(m: dict) -> tuple[float, float]:
+    """Preise kommen als Zeichenkette in Dollar je Token. Umgerechnet auf
+    eine Million Token, sonst liest man Nullen."""
+    p = m.get("pricing") or {}
+    def z(w: str) -> float:
+        try:
+            return float(p.get(w) or 0) * 1_000_000
+        except (TypeError, ValueError):
+            return 0.0
+    return z("prompt"), z("completion")
+
+
+def guenstigstes(modelle: list[dict]) -> dict | None:
+    """Das billigste Modell, das ueberhaupt etwas kostet."""
+    mit = [(sum(preis(m)), m) for m in modelle if sum(preis(m)) > 0]
+    return min(mit, key=lambda x: x[0])[1] if mit else None
+
+
+def anwaerter(modelle: list[dict], guthaben: bool, anzahl: int = 5) -> list[str]:
+    """Modelle fuer den Rundlauf, in der Reihenfolge des Versuchs.
+
+    Mit Guthaben das billigste bezahlte -- verlaesslich und fast umsonst.
+    Ohne Guthaben bleibt nur die Gratisstufe: bezahlte Modelle antworten
+    dann mit HTTP 402, und ein Fehlschlag saehe aus wie ein kaputter
+    Zugang, obwohl nur das Konto leer ist.
+
+    Mehrere Anwaerter, weil kostenlose Modelle gedrosselt sind. Ein
+    einzelner Fehlschlag wuerde sonst dem Zugang angelastet, statt der
+    Ueberlastung eines fremden Servers.
+    """
+    if guthaben:
+        bezahlt = sorted((m for m in modelle if sum(preis(m)) > 0),
+                         key=lambda m: sum(preis(m)))
+        return [m.get("id") for m in bezahlt[:anzahl] if m.get("id")]
+    frei = [m for m in modelle if sum(preis(m)) == 0 and schreibt_text(m)]
+    frei.sort(key=lambda m: -(m.get("context_length") or 0))
+    return [m.get("id") for m in frei[:anzahl] if m.get("id")]
+
+
+def modalitaeten(m: dict) -> tuple[list, list]:
+    """(rein, raus) aus architecture.input_modalities/.output_modalities.
+    Leere Liste, wenn das Feld fehlt oder kein dict ist -- kein Raten."""
+    a = m.get("architecture")
+    if not isinstance(a, dict):
+        return [], []
+    rein = a.get("input_modalities")
+    raus = a.get("output_modalities")
+    return (rein if isinstance(rein, list) else [],
+            raus if isinstance(raus, list) else [])
+
+
+def gibt_bild_aus(m: dict) -> bool:
+    """Modelle, die Bilder ausgeben oder bearbeiten koennen -- Kandidaten
+    fuer Higsfield-artige Produktbild-Aufgaben ueber OpenRouter statt
+    ueber ein separat zu installierendes Tool."""
+    _, raus = modalitaeten(m)
+    return "image" in raus
+
+
+def schreibt_text(m: dict) -> bool:
+    """Nimmt nur Modelle, die Text hineinnehmen und Text herausgeben.
+
+    Am 10.08.2026 standen zwei Musikmodelle (`google/lyria-3-*`) vorn,
+    weil nur nach Kontextfenster sortiert wurde, und antworteten mit
+    HTTP 502. Damals war der Feldname nicht belegt, deshalb wurde nicht
+    gefiltert. Der Lauf danach hat ihn geliefert:
+    architecture.input_modalities / .output_modalities.
+
+    Fehlt die Angabe, wird das Modell zugelassen -- lieber ein Fehlversuch
+    zu viel als ein brauchbares Modell stillschweigend aussortiert.
+    """
+    a = m.get("architecture")
+    if not isinstance(a, dict):
+        return True
+    rein = a.get("input_modalities")
+    raus = a.get("output_modalities")
+    if isinstance(rein, list) and rein and "text" not in rein:
+        return False
+    if isinstance(raus, list) and raus and "text" not in raus:
+        return False
+    return True
+
+
+def pruefen() -> dict:
+    d: dict = {"stand": str(date.today())}
+    s = schluessel()
+    print(f"Schluessel vorhanden, {len(s)} Zeichen.")
+
+    d["schluessel"] = ohne_geheimnis(rufen("/key"))
+    d["guthaben"] = rufen("/credits")
+
+    modelle = rufen("/models")
+    liste = modelle.get("data") if isinstance(modelle, dict) else None
+    if not isinstance(liste, list):
+        d["modelle_fehler"] = modelle
+        d["modelle"] = []
+    else:
+        d["modelle"] = [
+            {"id": m.get("id"), "name": m.get("name"),
+             "kontext": m.get("context_length"),
+             "preis_eingabe": round(preis(m)[0], 4),
+             "preis_ausgabe": round(preis(m)[1], 4)}
+            for m in liste
+        ]
+        d["kostenlos"] = [m["id"] for m in d["modelle"]
+                          if m["preis_eingabe"] == 0 and m["preis_ausgabe"] == 0]
+        # Welche Felder ein Modelleintrag ueberhaupt hat. Nur Namen, keine
+        # Werte -- damit die Frage "gibt es ein Feld fuer Modalitaeten"
+        # beim naechsten Lauf gemessen statt geraten wird.
+        d["modell_felder"] = sorted(liste[0]) if liste else []
+        arch = liste[0].get("architecture") if liste else None
+        if isinstance(arch, dict):
+            d["architektur_felder"] = sorted(arch)
+        g = guenstigstes(liste)
+        d["guenstigstes"] = g.get("id") if g else None
+
+        # Anlass: statt eines separat zu installierenden Bildwerkzeugs
+        # (kein GPU hier, Modellgewichte ausserhalb GitHub/PyPI/npm nicht
+        # erreichbar) erst pruefen, ob OpenRouter selbst Bilder ausgeben
+        # kann. Nur Modelle mit "image" in output_modalities zaehlen --
+        # das Feld kommt von OpenRouter selbst, nicht aus dem Gedaechtnis.
+        #
+        # Lauf vom 12.08.2026: "openrouter/auto" und "auto-beta" (Router,
+        # der selbst ein Modell waehlt) haben Preis "-1" je Token -- ihr
+        # Tarif ist variabel, kein echter Preis. Hochgerechnet auf eine
+        # Million Token wurde daraus -1.000.000 $ und die beiden standen
+        # als "guenstigste" ganz oben. guenstigstes()/anwaerter() filtern
+        # das schon (sum > 0), diese Liste bislang nicht.
+        bild = [m for m in liste if gibt_bild_aus(m) and sum(preis(m)) >= 0]
+        d["bild_modelle"] = [
+            {"id": m.get("id"), "name": m.get("name"),
+             "rein": modalitaeten(m)[0], "raus": modalitaeten(m)[1],
+             "preis_eingabe": round(preis(m)[0], 4),
+             "preis_ausgabe": round(preis(m)[1], 4)}
+            for m in bild
+        ]
+    return d
+
+
+# Websuche laeuft ueber denselben /chat/completions-Aufruf wie ein
+# normaler Rundlauf, nicht ueber einen eigenen Endpunkt. Am Paket
+# @openrouter/sdk 1.2.18 nachgesehen (WebSearchPlugin in chatrequest.d.ts,
+# Feld "plugins"), nicht geraten: die Anfrage bekommt zusaetzlich
+#   "plugins": [{"id": "web", "max_results": N}]
+# Dahinter steckt laut OpenRouters eigener Doku Exa als Suchmaschine, die
+# echte Treffer vor die Antwort haengt -- Marktrecherche, keine
+# Facebook-Anzeigen (Exa erreicht die Ad Library ohnehin nicht, die ist
+# fuer Crawler gesperrt).
+def web_plugin(max_ergebnisse: int = 5) -> dict:
+    """Reiner Aufbau des Plugin-Eintrags -- ohne Netzwerk testbar."""
+    return {"id": "web", "max_results": max_ergebnisse}
+
+
+def fragen(text: str, modell: str | None = None,
+          websuche: bool = False, suchtreffer: int = 5) -> dict:
+    """Ein echter Rundlauf. Ohne den ist „Zugang funktioniert" nur eine
+    Behauptung ueber /key -- lesen darf ein Schluessel oft auch dann, wenn
+    das Guthaben fuer eine Antwort nicht reicht."""
+    if modell:
+        kandidaten, hinweis = [modell], "von Hand gewaehlt"
+    else:
+        m = rufen("/models")
+        liste = m.get("data") if isinstance(m, dict) else None
+        if not isinstance(liste, list):
+            return {"fehler": "Modelliste nicht lesbar", "roh": m}
+        g = rufen("/credits")
+        gd = g.get("data") if isinstance(g, dict) else None
+        offen = 0.0
+        if isinstance(gd, dict):
+            try:
+                offen = float(gd.get("total_credits") or 0) \
+                        - float(gd.get("total_usage") or 0)
+            except (TypeError, ValueError):
+                offen = 0.0
+        kandidaten = anwaerter(liste, offen > 0)
+        hinweis = ("guenstigste bezahlte" if offen > 0
+                   else "Gratisstufe, weil kein Guthaben vorhanden ist")
+        if not kandidaten:
+            return {"fehler": "Kein brauchbares Modell in der Liste"}
+
+    versuche = []
+    for kandidat in kandidaten:
+        print(f"Versuch: {kandidat}")
+        last = {
+            "model": kandidat,
+            "messages": [{"role": "user", "content": text}],
+            # Websuche haengt echte Treffer vor die Antwort -- die faellt
+            # dadurch laenger aus als eine blosse Behauptung aus dem
+            # Modellwissen. 200 Token wuerden mitten im Satz abschneiden.
+            "max_tokens": 500 if websuche else 200,
+        }
+        if websuche:
+            last["plugins"] = [web_plugin(suchtreffer)]
+        a = rufen("/chat/completions", last, zeit=150 if websuche else 90)
+        if "fehler" in a:
+            versuche.append({"modell": kandidat, "fehler": a["fehler"],
+                             "text": a.get("text", "")[:200]})
+            continue
+        wahl = (a.get("choices") or [{}])[0]
+        inhalt = ((wahl.get("message") or {}).get("content") or "").strip()
+        if not inhalt:
+            # Eine leere Antwort ist kein Beweis. Schon zweimal in diesem
+            # Projekt hat ein leeres Ergebnis als „kein Problem" gegolten.
+            versuche.append({"modell": kandidat, "fehler": "leere Antwort"})
+            continue
+        return {"modell": kandidat, "auswahl": hinweis, "antwort": inhalt,
+                "websuche": websuche, "verbrauch": a.get("usage"),
+                "versuche": versuche}
+
+    return {"fehler": f"Alle {len(kandidaten)} Modelle abgelehnt",
+            "auswahl": hinweis, "versuche": versuche}
+
+
+# Bildbearbeitung laeuft ueber einen eigenen Endpunkt, nicht ueber
+# /chat/completions. Am Paket @openrouter/sdk 1.2.18 nachgesehen
+# (imagesGenerate, ImageGenerationRequest, ContentPartImage,
+# ImageGenerationResponse) statt geraten:
+#
+#   POST /images
+#   {"model": ..., "prompt": ..., "input_references": [
+#       {"type": "image_url", "image_url": {"url": "https://..." oder
+#                                            "data:image/png;base64,..."}}
+#   ]}
+#   -> {"created": ..., "data": [{"b64_json": ..., "media_type": ...}],
+#       "usage": {...}}
+#
+# input_references ohne Eintrag = reine Erzeugung aus Text. Mit Eintrag =
+# Bearbeitung/Bild-zu-Bild -- genau das, was Higsfield im Video macht.
+
+
+def bild_referenz(quelle: str, form: str = "png") -> dict:
+    """Ein Eingabebild fuer input_references. Eine echte URL wird
+    unveraendert durchgereicht -- OpenRouter holt sie selbst, das spart
+    hier eine Downloadstufe. Ein lokaler Pfad wird zu einer data:-URL
+    kodiert. Eine fehlende lokale Datei fliegt als Ausnahme, nicht als
+    stiller leerer Wert -- sonst wuerde ein Tippfehler im Pfad zu einer
+    stummen Text-zu-Bild-Erzeugung statt einer Bearbeitung."""
+    if quelle.startswith(("http://", "https://")):
+        url = quelle
+    else:
+        pfad = Path(quelle)
+        if not pfad.exists():
+            raise FileNotFoundError(f"Eingabebild nicht gefunden: {quelle}")
+        url = (f"data:image/{form};base64,"
+              + base64.b64encode(pfad.read_bytes()).decode())
+    return {"type": "image_url", "image_url": {"url": url}}
+
+
+def bild_anfrage(prompt: str, modell: str, referenzen: list[dict] | None = None,
+                 form: str = "png") -> dict:
+    """Reiner Aufbau des Anfragekoerpers -- ohne Netzwerk testbar."""
+    koerper = {"model": modell, "prompt": prompt, "n": 1, "output_format": form}
+    if referenzen:
+        koerper["input_references"] = referenzen
+    return koerper
+
+
+def bild_aus_antwort(antwort: dict) -> tuple[bytes, str] | None:
+    """Erstes Bild aus der Antwort als (Rohbytes, Medientyp). None bei
+    fehlender oder kaputter Bilddaten -- ein anderer Fall als ein
+    Fehlerfeld, und der Aufrufer muss beides unterscheiden koennen."""
+    daten = antwort.get("data")
+    if not isinstance(daten, list) or not daten:
+        return None
+    erster = daten[0]
+    b64 = erster.get("b64_json") if isinstance(erster, dict) else None
+    if not b64:
+        return None
+    try:
+        roh = base64.b64decode(b64)
+    except (ValueError, TypeError):
+        return None
+    return roh, erster.get("media_type") or "image/png"
+
+
+# Lauf vom 12.08.2026: --output-format png angefragt, das Modell hat
+# trotzdem JPEG geliefert (media_type "image/jpeg") -- die Datei hiess
+# aber weiter *.png. Das output_format-Feld ist laut SDK ein Wunsch, kein
+# Vertrag: "Most models produce raster formats". Deshalb entscheidet die
+# tatsaechliche Antwort ueber die Endung, nicht die Anfrage.
+ENDUNG_JE_MEDIENTYP = {
+    "image/png": ".png", "image/jpeg": ".jpg", "image/jpg": ".jpg",
+    "image/webp": ".webp", "image/svg+xml": ".svg",
+}
+
+
+def passende_endung(ausgabe: Path, medientyp: str) -> Path:
+    """Haengt die zum echten Medientyp passende Endung an -- oder laesst
+    ausgabe unveraendert, wenn der Medientyp unbekannt ist oder schon
+    passt. .jpg und .jpeg zaehlen beide als Treffer fuer image/jpeg."""
+    richtig = ENDUNG_JE_MEDIENTYP.get(medientyp)
+    if not richtig:
+        return ausgabe
+    vorhanden = ausgabe.suffix.lower()
+    aequivalent = {".jpg", ".jpeg"} if richtig == ".jpg" else {richtig}
+    if vorhanden in aequivalent:
+        return ausgabe
+    return ausgabe.with_suffix(richtig)
+
+
+def bild_erzeugen(prompt: str, modell: str, eingabe_quellen: list[str] | None,
+                  ausgabe: Path, form: str = "png") -> dict:
+    """Ein echter Bild-Rundlauf: Text-Anweisung, optional mit
+    Referenzbild(ern), Bild raus, auf die Platte geschrieben."""
+    try:
+        referenzen = [bild_referenz(q, form) for q in (eingabe_quellen or [])]
+    except FileNotFoundError as e:
+        return {"fehler": str(e)}
+    koerper = bild_anfrage(prompt, modell, referenzen, form)
+    # Bilderzeugung dauert laenger als ein Textaufruf -- 90s reichen oft
+    # nicht, gerade bei mehreren Referenzbildern.
+    antwort = rufen("/images", koerper, zeit=180)
+    if "fehler" in antwort:
+        return antwort
+    ergebnis = bild_aus_antwort(antwort)
+    if ergebnis is None:
+        return {"fehler": "keine Bilddaten in der Antwort", "roh": antwort}
+    roh, medientyp = ergebnis
+    ausgabe = passende_endung(ausgabe, medientyp)
+    ausgabe.parent.mkdir(parents=True, exist_ok=True)
+    ausgabe.write_bytes(roh)
+    return {"modell": modell, "datei": str(ausgabe), "medientyp": medientyp,
+            "groesse": len(roh), "verbrauch": antwort.get("usage")}
+
+
+def bericht(d: dict) -> str:
+    z = [f"# OpenRouter — Stand {d.get('stand', '')}", "",
+         "Zugang zu vielen Modellen über eine Adresse. Erhoben auf dem",
+         "Runner; die Arbeitsumgebung erreicht openrouter.ai nicht.", ""]
+
+    k = d.get("schluessel") or {}
+    kd = k.get("data") if isinstance(k, dict) else None
+    z += ["## Schlüssel", ""]
+    if "fehler" in k:
+        z += [f"**Fehlgeschlagen: {k['fehler']}**", "", "```", k.get("text", ""),
+              "```", "",
+              "HTTP 401 heißt falscher oder fehlender Schlüssel, 402 heißt",
+              "Guthaben leer. Der Text oben sagt, welches von beidem.", ""]
+    elif isinstance(kd, dict):
+        z += ["| Angabe | Wert |", "|---|---|"]
+        for feld, name in (("limit", "Grenze"),
+                           ("usage", "verbraucht"),
+                           ("limit_remaining", "verbleibend"),
+                           ("is_free_tier", "Gratisstufe")):
+            if feld in kd:
+                z.append(f"| {name} | {kd[feld]} |")
+        z.append("")
+
+    g = d.get("guthaben") or {}
+    gd = g.get("data") if isinstance(g, dict) else None
+    if isinstance(gd, dict):
+        z += ["## Guthaben", "", "| Angabe | Wert |", "|---|---|"]
+        for feld, name in (("total_credits", "eingezahlt"),
+                           ("total_usage", "verbraucht")):
+            if feld in gd:
+                z.append(f"| {name} | {gd[feld]} |")
+        z.append("")
+
+    mod = d.get("modelle") or []
+    z += ["## Modelle", ""]
+    if not mod:
+        z += ["Keine Liste erhalten.", ""]
+    else:
+        frei = d.get("kostenlos") or []
+        z += [f"**{len(mod)} Modelle erreichbar**, davon {len(frei)} ohne "
+              "Kosten.", "",
+              "Die zehn günstigsten mit Preis. Beträge in US-Dollar je",
+              "Million Token — Eingabe ist, was hingeschickt wird, Ausgabe,",
+              "was zurückkommt.", "",
+              "| Modell | Kontext | Eingabe | Ausgabe |", "|---|---:|---:|---:|"]
+        bezahlt = sorted(
+            (m for m in mod if m["preis_eingabe"] + m["preis_ausgabe"] > 0),
+            key=lambda m: m["preis_eingabe"] + m["preis_ausgabe"])
+        for m in bezahlt[:10]:
+            z.append(f"| `{m['id']}` | {m['kontext'] or '–'} "
+                     f"| {m['preis_eingabe']:.4f} $ | {m['preis_ausgabe']:.4f} $ |")
+        z.append("")
+        if frei:
+            z += ["Ohne Kosten, die ersten zehn:", "",
+                  ", ".join(f"`{i}`" for i in frei[:10]), "",
+                  "Kostenlose Modelle sind gedrosselt und oft überlastet. Für",
+                  "eine Messung taugen sie nicht — ein Fehlschlag sagt dann",
+                  "nichts über den Zugang.", ""]
+
+    bm = d.get("bild_modelle") or []
+    z += ["## Bildfähige Modelle", "",
+          "Modelle, deren `output_modalities` „image“ enthält — Kandidaten,",
+          "um Produktbilder über die bestehende OpenRouter-Anbindung zu",
+          "erzeugen oder zu bearbeiten, ohne ein separates Tool zu",
+          "installieren.", ""]
+    if bm:
+        z += [f"**{len(bm)} von {len(mod)} Modellen** können Bilder ausgeben.",
+              "",
+              "| Modell | nimmt herein | Eingabe | Ausgabe |",
+              "|---|---|---:|---:|"]
+        for m in sorted(bm, key=lambda x: x["preis_eingabe"] + x["preis_ausgabe"]):
+            z.append(f"| `{m['id']}` | {', '.join(m['rein']) or '–'} "
+                     f"| {m['preis_eingabe']:.4f} $ | {m['preis_ausgabe']:.4f} $ |")
+        z.append("")
+    else:
+        z += ["Keins gefunden. Entweder liefert OpenRouter das Feld für",
+              "kein Modell, oder aktuell kein Modell mit Bild-Ausgabe.",
+              "Steht so, auch wenn es enttäuschend ist — besser als eine",
+              "Vermutung.", ""]
+
+    p = d.get("probe")
+    if p:
+        z += ["## Rundlauf", ""]
+        if "fehler" in p:
+            z += [f"**Fehlgeschlagen: {p['fehler']}**", "",
+                  "```", str(p.get("text") or p.get("roh") or "")[:500], "```", ""]
+        else:
+            quelle = ("mit Websuche (Exa) — echte Treffer, kein reines Modellwissen"
+                      if p.get("websuche") else
+                      "ohne Websuche — reines Modellwissen, ungeprüft gegen die Gegenwart")
+            z += [f"Modell `{p.get('modell')}` ({p.get('auswahl', '')}), "
+                  f"{quelle}.", "",
+                  f"Verbrauch `{p.get('verbrauch')}`.", "",
+                  "```", p.get("antwort", ""), "```", "",
+                  "Erst das beweist den Zugang. `/key` zu lesen gelingt auch",
+                  "einem Schlüssel, dessen Guthaben für keine Antwort reicht.",
+                  ""]
+        # Auch bei Erfolg: die Fehlversuche davor gehören in den Bericht.
+        # „Hat geantwortet" und „hat beim ersten Versuch geantwortet" sind
+        # zwei verschiedene Aussagen über die Verlässlichkeit.
+        v = p.get("versuche") or []
+        if v:
+            z += [f"Davor abgelehnt ({len(v)}):", "",
+                  "| Modell | Grund |", "|---|---|"]
+            for x in v:
+                z.append(f"| `{x.get('modell')}` | {x.get('fehler')} "
+                         f"{(x.get('text') or '')[:80]} |")
+            z.append("")
+    return "\n".join(z) + "\n"
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--pruefen", action="store_true",
+                    help="Schlüssel, Guthaben und Modellliste abfragen")
+    ap.add_argument("--fragen", metavar="TEXT",
+                    help="einen echten Rundlauf machen")
+    ap.add_argument("--modell", help="Modell für --fragen; sonst das günstigste")
+    ap.add_argument("--websuche", action="store_true",
+                    help="bei --fragen: echte Websuche (Exa) vor die Antwort "
+                         "hängen, statt nur auf Modellwissen zu bauen")
+    ap.add_argument("--suchtreffer", type=int, default=5,
+                    help="Anzahl Suchergebnisse bei --websuche (Standard 5)")
+    ap.add_argument("--info", metavar="TEIL",
+                    help="Steckbrief aller Modelle, deren ID TEIL enthält")
+    ap.add_argument("--bild-prompt", metavar="TEXT",
+                    help="Bild erzeugen oder bearbeiten: Text-Anweisung")
+    ap.add_argument("--bild-eingabe", nargs="*", default=None, metavar="QUELLE",
+                    help="ein oder mehrere Referenzbilder (URL oder lokaler "
+                         "Pfad) für Bearbeitung/Bild-zu-Bild; ohne Angabe "
+                         "wird das Bild aus Text allein erzeugt")
+    ap.add_argument("--bild-modell", default="google/gemini-3.1-flash-lite-image",
+                    help="Bildmodell; Standard ist das günstigste bekannte "
+                         "(siehe OPENROUTER.md, Abschnitt Bildfähige Modelle)")
+    ap.add_argument("--bild-ausgabe", default="bilder/openrouter/ausgabe.png",
+                    help="Zieldatei für --bild-prompt")
+    ap.add_argument("--bericht", default="OPENROUTER.md")
+    ap.add_argument("--json", default="daten/openrouter.json")
+    a = ap.parse_args()
+
+    if not a.pruefen and not a.fragen and not a.info and not a.bild_prompt:
+        ap.error("Nichts zu tun: --pruefen, --fragen, --info oder "
+                 "--bild-prompt angeben.")
+
+    if a.bild_prompt:
+        ergebnis = bild_erzeugen(a.bild_prompt, a.bild_modell, a.bild_eingabe,
+                                 Path(a.bild_ausgabe))
+        if "fehler" in ergebnis:
+            sys.exit(f"Bild fehlgeschlagen: {ergebnis['fehler']}")
+        print(f"Bild geschrieben: {ergebnis['datei']} "
+              f"({ergebnis['medientyp']}, {ergebnis['groesse']} Bytes). "
+              f"Verbrauch: {ergebnis.get('verbrauch')}")
+        return
+
+    if a.info:
+        # Der Steckbrief kommt vom Dienst, nicht aus meinem Gedaechtnis.
+        # Bei einem Modell, das juenger sein kann als mein Wissensstand,
+        # ist das der einzige belastbare Weg.
+        roh = rufen("/models")
+        liste = roh.get("data") if isinstance(roh, dict) else None
+        if not isinstance(liste, list):
+            sys.exit(f"Modelliste nicht lesbar: {roh}")
+        treffer = [m for m in liste if a.info.lower() in (m.get("id") or "").lower()]
+        if not treffer:
+            sys.exit(f"Kein Modell mit '{a.info}' in der ID.")
+        z = [f"# Modell-Steckbriefe: {a.info} — Stand {date.today()}", "",
+             "Angaben von OpenRouter selbst, nicht aus dem Gedächtnis.", ""]
+        for m in treffer:
+            arch = m.get("architecture") or {}
+            e, aus = preis(m)
+            z += [f"## `{m.get('id')}`", "",
+                  f"**{m.get('name')}**", "",
+                  "| Angabe | Wert |", "|---|---|",
+                  f"| Kontext | {m.get('context_length')} Token |",
+                  f"| Preis Eingabe | {e:.4f} $ je Mio. |",
+                  f"| Preis Ausgabe | {aus:.4f} $ je Mio. |",
+                  f"| nimmt herein | {', '.join(arch.get('input_modalities') or []) or '–'} |",
+                  f"| gibt heraus | {', '.join(arch.get('output_modalities') or []) or '–'} |",
+                  f"| Wissensstand | {m.get('knowledge_cutoff') or '–'} |",
+                  f"| Reasoning | {m.get('reasoning')} |",
+                  f"| Parameter | {', '.join(sorted(m.get('supported_parameters') or [])) or '–'} |",
+                  f"| Hugging Face | {m.get('hugging_face_id') or '–'} |",
+                  "", "**Beschreibung des Anbieters**", "",
+                  (m.get("description") or "–").strip(), ""]
+        Path("MODELLINFO.md").write_text("\n".join(z) + "\n", encoding="utf-8")
+        print(f"Geschrieben: MODELLINFO.md ({len(treffer)} Modelle)")
+        return
+
+    d = pruefen() if a.pruefen else {"stand": str(date.today())}
+    if a.fragen:
+        d["probe"] = fragen(a.fragen, a.modell, websuche=a.websuche,
+                            suchtreffer=a.suchtreffer)
+
+    Path(a.json).parent.mkdir(parents=True, exist_ok=True)
+    Path(a.json).write_text(json.dumps(d, ensure_ascii=False, indent=2),
+                            encoding="utf-8")
+    Path(a.bericht).write_text(bericht(d), encoding="utf-8")
+    print(f"Geschrieben: {a.bericht}, {a.json}")
+
+    # Rot werden, wenn der Zugang nicht steht -- ein gruener Lauf mit
+    # „HTTP 401" im Bericht waere die schlechteste aller Rueckmeldungen.
+    schlecht = [x for x in (d.get("schluessel"), d.get("probe"))
+                if isinstance(x, dict) and "fehler" in x]
+    if schlecht:
+        sys.exit(f"Zugang steht nicht: {schlecht[0]['fehler']}")
+
+
+if __name__ == "__main__":
+    main()

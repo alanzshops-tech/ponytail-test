@@ -1,0 +1,153 @@
+{
+  "stand": "2026-08-10T19:33:33+00:00",
+  "vorschau": {
+    "url": "https://www.homeeins.de/?preview_theme_id=182664790339",
+    "theme_id": "182664790339",
+    "mobil_bild": "bilder/vorschau-mobil.jpg",
+    "mobil_bild_kb": 548,
+    "mobil_hoehe": 4215,
+    "mobil_querscroll": false,
+    "mobil_fehlerhafte_anfragen": [
+      "403 https://shop.app/pay/hop?analytics_trace_id=4bcb81fc-6a99-4a70-85e7-6dacd86152e6&target_origin=https%3A%2F%2Fw"
+    ],
+    "gefundene_faelschungen": [],
+    "bilder_kaputt": [],
+    "bilder_gesamt": 19,
+    "hat_banner": true,
+    "hat_vertrauenszeile": true,
+    "hat_bestseller": true,
+    "hat_zahlungslogos": true,
+    "hat_kategorien": true,
+    "hat_faq": true,
+    "hat_zahlarten_korrigiert": false,
+    "hat_sepa_raus": false,
+    "produktkacheln": 16,
+    "karussell": null,
+    "kategoriekacheln": [
+      "Haustiere",
+      "Möbel",
+      "Ordnung & Aufbewahrung",
+      "Wohnen & Deko",
+      "Garten & Outdoor",
+      "Bad & Wellness"
+    ],
+    "leere_abschnitte": [],
+    "desktop_bild": "bilder/vorschau-desktop.jpg",
+    "desktop_bild_kb": 477,
+    "desktop_hoehe": 4047,
+    "desktop_querscroll": false,
+    "desktop_fehlerhafte_anfragen": [
+      "403 https://shop.app/pay/hop?analytics_trace_id=c6ae82fd-f18d-4510-86b5-d18c0fdb8616&target_origin=https%3A%2F%2Fw"
+    ]
+  },
+  "produkte": [
+    {
+      "pfad": "/products/vorratsbehaelter-luftdicht-schwarz",
+      "herkunft": "bestand",
+      "status": 200,
+      "ausverkauft_sichtbar": false,
+      "preis_sichtbar": true,
+      "mwst_hinweis": false,
+      "bild_produktseite": "bilder/kauf-1-produkt-bestand.jpg",
+      "geklickt": true,
+      "knopf": "product-form button[name='add']",
+      "korb_nach_klick": {
+        "anzahl": 1,
+        "summe": 2499,
+        "waehrung": "EUR",
+        "posten": [
+          "Vorratsbehälter mit Deckel – Luftdicht für Küche &amp; Speisekammer - BLACK ×1"
+        ]
+      },
+      "bild_warenkorb": "bilder/kauf-2-korb-bestand.jpg",
+      "korb_leer_text": false,
+      "kasse_knopf": 2,
+      "konsole": [
+        "error: Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.c",
+        "error: Failed to load resource: the server responded with a status of 403 ()",
+        "error: Error producing monorail event MonorailRequestError: Error completing request. A network failure may have prevented the request from completing. Error",
+        "error: TypeError: Cannot read properties of null (reading 'flags')\n    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c",
+        "error: TypeError: Cannot read properties of null (reading 'cart-notification-product')\n    at https://www.homeeins.de/cdn/shop/t/22/assets/cart-notification.",
+        "pageerror: Cannot read properties of null (reading 'cart-notification-product')"
+      ],
+      "fehlende_dateien": []
+    },
+    {
+      "pfad": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+      "herkunft": "selbst",
+      "status": 200,
+      "ausverkauft_sichtbar": false,
+      "preis_sichtbar": true,
+      "mwst_hinweis": false,
+      "bild_produktseite": "bilder/kauf-1-produkt-selbst.jpg",
+      "geklickt": true,
+      "knopf": "product-form button[name='add']",
+      "korb_nach_klick": {
+        "anzahl": 1,
+        "summe": 2999,
+        "waehrung": "EUR",
+        "posten": [
+          "LED-Taschenlampe aufladbar – 7 Leuchtmodi, Zoom &amp; Warnlicht, USB-C - 1 Stück ×1"
+        ]
+      },
+      "bild_warenkorb": "bilder/kauf-2-korb-selbst.jpg",
+      "korb_leer_text": false,
+      "kasse_knopf": 2,
+      "konsole": [
+        "error: Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.c",
+        "error: Failed to load resource: the server responded with a status of 403 ()",
+        "error: Error producing monorail event MonorailRequestError: Error completing request. A network failure may have prevented the request from completing. Error",
+        "error: TypeError: Cannot read properties of null (reading 'flags')\n    at https://www.homeeins.de/web-pixels/strict/app/web-pixel-2008940867@b3ceb6b433982c0c"
+      ],
+      "fehlende_dateien": []
+    }
+  ],
+  "kasse": {
+    "korb": {
+      "anzahl": 1,
+      "summe": 2499,
+      "waehrung": "EUR",
+      "posten": [
+        "Vorratsbehälter mit Deckel – Luftdicht für Küche &amp; Speisekammer - BLACK ×1"
+      ]
+    },
+    "status": 200,
+    "url": "https://www.homeeins.de/checkouts/cn/hWNFVLHjDSDTbAa6uWpLCBcI/de-us?_r=AQABQsaLb2olQ72r1uuWj5uCPjMH1hUxtL2PeuxUDRO0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true&_su_rec=KBHtbKpe_gNlaE8dy18stlc8hiY4GtxuoHFo4oYGh-vKtSI88RmI20d5sxrxNT00PZEPsE1SRk6WD6stivX_H6kTOqwK0-BqlcQYpu62hi25RzklRzxyWt8TnY7HEK3fiYpq87JGfZs6uC1WUHsthOcVnhBNsCkXD7AKP-p9nD6n1idKpKaPbPabh5v3XlaKpjf6HTYW0KCqYsrAIALkrQ",
+    "bild_kasse_leer": "bilder/kauf-3-kasse.jpg",
+    "zahlarten_vor_adresse": [
+      "PayPal",
+      "Kreditkarte",
+      "Banküberweisung"
+    ],
+    "erreichbar": true,
+    "land_vorher": "US",
+    "land_gesetzt": "DE",
+    "felder_gefuellt": [
+      "email",
+      "firstName",
+      "lastName",
+      "address1",
+      "postalCode",
+      "city"
+    ],
+    "zahlarten_nach_adresse": [
+      "PayPal",
+      "Klarna",
+      "Kreditkarte",
+      "Banküberweisung"
+    ],
+    "zahlungsabschnitt": "Zahlung",
+    "gesamt": "24,99 €",
+    "versandhinweis": [
+      "Lieferung",
+      "Versand",
+      "Wähle eine Versandart aus",
+      "Kostenloser Versand",
+      "Versand",
+      "Aktualisierte Versandart: Kostenloser Versand"
+    ],
+    "fehlermeldungen": [],
+    "bezahlknopf": 4,
+    "bild_kasse_gefuellt": "bilder/kauf-4-kasse-adresse.jpg"
+  }
+}

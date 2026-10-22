@@ -1,0 +1,542 @@
+[
+  {
+    "kapitel": 3,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Hier bin ich die Wand.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Hier bin ich die Wand.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Meldeadresse Ottensen, seine: Elbchaussee, bei seiner Mutter im System\" — Es ist beim ersten Lesen verwirrend, wer nun wo offiziell gemeldet ist.\nSTARK: \"Hier bin ich die Wand.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Meldeadresse Ottensen, seine: Elbchaussee, bei seiner Mutter im System",
+            "grund": "Es ist beim ersten Lesen verwirrend, wer nun wo offiziell gemeldet ist.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Hier bin ich die Wand.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 5,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: \"Ich trinke ihn seitdem, wie er ihn macht.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich trinke ihn seitdem, wie er ihn macht.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Weil ich die Gutachterin war und er der Bauherr\" — Erst ist Theo der Bauherr, später ist er plötzlich der Bruder des Auftraggebers.\nSTARK: \"dass die Wahrheit die einzige Version ist, die hält.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Weil ich die Gutachterin war und er der Bauherr",
+            "grund": "Erst ist Theo der Bauherr, später ist er plötzlich der Bruder des Auftraggebers.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "dass die Wahrheit die einzige Version ist, die hält.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 6,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Das ist die ehrlichste Antwort, die ich in diesem Raum seit Monaten gehört habe, Herr Reinhardt.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist die ehrlichste Antwort, die ich in diesem Raum seit Monaten gehört habe, Herr Reinhardt.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"einmal vor mir selbst, an einem Grab, mit neunzehn.\" — Es verwirrt mich, wie das logisch in den Zeitrahmen der letzten vierzehn Monate passen soll.\nSTARK: \"Sie sah mich an, wie ich manchmal eine Fassade ansehe\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "einmal vor mir selbst, an einem Grab, mit neunzehn.",
+            "grund": "Es verwirrt mich, wie das logisch in den Zeitrahmen der letzten vierzehn Monate passen soll.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Sie sah mich an, wie ich manchmal eine Fassade ansehe",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 20,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich habe zugesehen, wie sie begreift, in welcher Reihenfolge sie es erfährt.\" — Welche Reihenfolge ist gemeint?\n\nSTARK: „Nein heißt nein, Theo. Ich mache das nicht.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich habe zugesehen, wie sie begreift, in welcher Reihenfolge sie es erfährt.",
+            "grund": "Welche Reihenfolge ist gemeint?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Nein heißt nein, Theo. Ich mache das nicht.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Es ist derselbe Ordner. Er ist nur dünner.\" — Es ist nicht sofort klar, auf welchen Ordner des Vaters er sich hier bezieht.\nSTARK: \"ohne sie zuzuwerfen, und das war schlimmer.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Es ist derselbe Ordner. Er ist nur dünner.",
+            "grund": "Es ist nicht sofort klar, auf welchen Ordner des Vaters er sich hier bezieht.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "ohne sie zuzuwerfen, und das war schlimmer.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 22,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Das ist der erwachsenste Satz, den du seit Mai gesagt hast.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist der erwachsenste Satz, den du seit Mai gesagt hast.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Ich habe Angst vor jemandem, der seine Arbeit richtig macht.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Ich habe Angst vor jemandem, der seine Arbeit richtig macht.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 27,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Das ist der beste Satz, den du seit Jahren“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Das ist der beste Satz, den du seit Jahren",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"einem Vermerk nach Paragraf einundzwanzig über die Gutachterin.\" — Als Leserin weiß ich hier überhaupt nicht, was dieser Paragraf bedeutet.\nSTARK: \"wie ein Gutachter rechnet, nicht wie eine Ehefrau.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "einem Vermerk nach Paragraf einundzwanzig über die Gutachterin.",
+            "grund": "Als Leserin weiß ich hier überhaupt nicht, was dieser Paragraf bedeutet.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "wie ein Gutachter rechnet, nicht wie eine Ehefrau.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 28,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Das ist eine Sache, die mir niemand\" — Was genau ist damit gemeint?\n\nSTARK: \"Danke, dass du es zuerst gesagt hast\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Das ist eine Sache, die mir niemand",
+            "grund": "Was genau ist damit gemeint?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Danke, dass du es zuerst gesagt hast",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"weil Wendland gesagt hat: „Wenn die Gutachterin, die uns\" — Hier stolpere ich, weil diese Figur im Beirat völlig aus dem Nichts auftaucht.\nSTARK: \"alles richtig gemacht hatte und es trotzdem falsch ausgegangen war.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "weil Wendland gesagt hat: „Wenn die Gutachterin, die uns",
+            "grund": "Hier stolpere ich, weil diese Figur im Beirat völlig aus dem Nichts auftaucht.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "alles richtig gemacht hatte und es trotzdem falsch ausgegangen war.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 34,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Ich habe die Serviette hingelegt.\" — Kontext und Bedeutung sind nicht klar.\n\nSTARK: \"Ich habe die Serviette hingelegt.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Ich habe die Serviette hingelegt.",
+            "grund": "Kontext und Bedeutung sind nicht klar.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Ich habe die Serviette hingelegt.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"und meine Füße lägen jetzt nicht da, wo sie liegen.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "und meine Füße lägen jetzt nicht da, wo sie liegen.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 38,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Es ist nicht mal in der Nähe von knapp.“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Es ist nicht mal in der Nähe von knapp.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"„Ich auch nicht.“ Er hat aufgesehen.\" — Hier stolpere ich über den Sprecherwechsel und weiß nicht, wer gerade redet.\nSTARK: \"„Es ist unheimlich, mit erwachsenen Menschen zu reden, Theo.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "„Ich auch nicht.",
+            "grund": "Hier stolpere ich über den Sprecherwechsel und weiß nicht, wer gerade redet.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "„Es ist unheimlich, mit erwachsenen Menschen zu reden, Theo.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 47,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Kehrwieder vierzehn\", sagte Theo. \"Erdgeschoss hinten links.\" — Was ist Kehrwieder vierzehn?\n\nSTARK: \"Es ist der erste Ort in elf Jahren, der über zwölf Monate hinausgeht\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Kehrwieder vierzehn",
+            "grund": "Was ist Kehrwieder vierzehn?",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Es ist der erste Ort in elf Jahren, der über zwölf Monate hinausgeht",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"warum ich am vierzehnten März 2025 auf einer Treppe\" — Der plötzliche Zeitsprung ins Jahr 2025 verwirrt kurz die zeitliche Einordnung des Antrags.\nSTARK: \"Es war die schönste Zugfahrt meines Lebens\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "warum ich am vierzehnten März 2025 auf einer Treppe",
+            "grund": "Der plötzliche Zeitsprung ins Jahr 2025 verwirrt kurz die zeitliche Einordnung des Antrags.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Es war die schönste Zugfahrt meines Lebens",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 61,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: keine\n\nSTARK: „Weil dieser Baum das Erste ist, was ich in diesem Land haben will“",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Weil dieser Baum das Erste ist, was ich in diesem Land haben will",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: keine\nSTARK: \"Es ging um Existenz, und Existenz ist übersichtlich.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "STARK": {
+            "zitat": "Es ging um Existenz, und Existenz ist übersichtlich.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "kapitel": 62,
+    "antworten": {
+      "openai/gpt-4o-2024-05-13": {
+        "text": "ABBRUCH: keine\n\nUNKLAR: \"Das ist mein ganzer Beruf.\" — Was genau ihr Beruf ist, bleibt vage.\n\nSTARK: \"Willst du deinen Bruder zurück?\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Das ist mein ganzer Beruf.",
+            "grund": "Was genau ihr Beruf ist, bleibt vage.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Willst du deinen Bruder zurück?",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      },
+      "~google/gemini-pro-latest": {
+        "text": "ABBRUCH: keine\nUNKLAR: \"Sie hat sich hingesetzt und mir gegenüber, was sie\" — Hier fehlt beim Lesen gefühlt ein Wort, der Satzbau stolpert.\nSTARK: \"Das ist kein Platz, Theo. Das ist ein Aktenzeichen.\"",
+        "gelesen": {
+          "ABBRUCH": {
+            "zitat": null,
+            "grund": null,
+            "belegt": null
+          },
+          "UNKLAR": {
+            "zitat": "Sie hat sich hingesetzt und mir gegenüber, was sie",
+            "grund": "Hier fehlt beim Lesen gefühlt ein Wort, der Satzbau stolpert.",
+            "belegt": true
+          },
+          "STARK": {
+            "zitat": "Das ist kein Platz, Theo. Das ist ein Aktenzeichen.",
+            "grund": null,
+            "belegt": true
+          }
+        }
+      }
+    }
+  }
+]
