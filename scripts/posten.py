@@ -102,11 +102,19 @@ def mastodon(text: str, probe: bool) -> str:
     return f"gesendet: {a.get('url') or a.get('id')}"
 
 
+# Das Handle ist oeffentlich -- es steht auf dem Profil. Es gehoert
+# deshalb nicht in die Secrets, sondern hierhin. Gemessen am 03.09.2026
+# aus der bestehenden Metricool-Verbindung der Marke Homeeins, nicht
+# geraten. Damit bleibt fuer Bluesky genau EIN Secret zu setzen, und
+# "ein Secret" ist dann auch wahr.
+BLUESKY_STANDARD = "homeeins.bsky.social"
+
+
 def bluesky(text: str, probe: bool) -> str:
-    kennung = hole("BLUESKY_HANDLE")
+    kennung = hole("BLUESKY_HANDLE") or BLUESKY_STANDARD
     passwort = hole("BLUESKY_APP_PASSWORD")
-    if not (kennung and passwort):
-        return "übersprungen (BLUESKY_HANDLE/APP_PASSWORD fehlt)"
+    if not passwort:
+        return "übersprungen (BLUESKY_APP_PASSWORD fehlt)"
     if probe:
         return f"Probe: bsky.social als {kennung}, {len(text)} Zeichen"
     # Zwei Schritte: Sitzung eroeffnen, dann Datensatz anlegen.
@@ -587,9 +595,10 @@ def zugang_pruefen(kanal: str) -> str:
             return f"OK — angemeldet als @{a.get('username')}"
 
         if kanal == "bluesky":
-            k, pw = hole("BLUESKY_HANDLE"), hole("BLUESKY_APP_PASSWORD")
-            if not (k and pw):
-                return "— Handle oder App-Passwort fehlt"
+            k = hole("BLUESKY_HANDLE") or BLUESKY_STANDARD
+            pw = hole("BLUESKY_APP_PASSWORD")
+            if not pw:
+                return "— App-Passwort fehlt"
             a = anfrage("https://bsky.social/xrpc/"
                         "com.atproto.server.createSession",
                         {"identifier": k, "password": pw})

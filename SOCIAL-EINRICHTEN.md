@@ -48,10 +48,17 @@ verschiedene Meldungen.
 3. „Zugriffsschlüssel" kopieren → Secret `MASTODON_TOKEN`
 4. Bei anderem Server als mastodon.social: `MASTODON_SERVER` setzen
 
-### Bluesky
+### Bluesky — der kürzeste Weg von allen, geht vom Handy
+
 1. **Einstellungen → Datenschutz und Sicherheit → App-Passwörter**
-2. Neues App-Passwort → Secret `BLUESKY_APP_PASSWORD`
-3. Secret `BLUESKY_HANDLE` = z. B. `homeeins.bsky.social`
+2. **App-Passwort hinzufügen**, Namen vergeben (z. B. `homeeins-posten`)
+3. Kopieren — es sieht aus wie `abcd-efgh-ijkl-mnop`
+4. Als Secret **`BLUESKY_APP_PASSWORD`** eintragen
+
+**Das ist alles.** Das Handle steht fest im Skript
+(`homeeins.bsky.social`) — es ist öffentlich und gehört nicht in die
+Secrets. `BLUESKY_HANDLE` gibt es weiterhin und gewinnt, falls einmal
+ein anderes Konto bespielt werden soll.
 
 > **Nicht das Kontopasswort verwenden.** App-Passwörter lassen sich
 > einzeln zurückziehen, das Kontopasswort nicht.
