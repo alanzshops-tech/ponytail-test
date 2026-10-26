@@ -193,10 +193,37 @@ Suchergebnis mit.
 Eine Adresse zu ändern verlangt eine Weiterleitung von der alten —
 sonst entstehen 404er. Shopify legt die beim Umbenennen automatisch an.
 
-### Ausverkaufte Varianten stehen weiter im Laden
+### ✅ Erledigt am 26.10.2026: 44 unverkäufliche Varianten entfernt
 
-Beim Hundesofa XXL sind 2 von 5 Varianten auf 0, beim Rattan-Ecksofa 2
-von 3. Wer die auswählt, läuft in eine Sackgasse.
+Hier stand: „Beim Hundesofa XXL sind 2 von 5 Varianten auf 0, beim
+Rattan-Ecksofa 2 von 3." Das war richtig gezählt — aber nur über die
+Stichprobe von 50. **Über alle 96 aktiven Produkte gezählt waren es
+29 Produkte mit 44 unverkäuflichen Varianten.** Wieder eine Messung
+ohne Bezugsrahmen, und wieder zu niedrig.
+
+Die schlimmsten Fälle waren nicht die genannten:
+
+| Produkt | tot / gesamt |
+|---|---|
+| Aufbewahrungskorb aus Stoff | **4 von 6** |
+| Mobiles Tennisnetz | **3 von 4** |
+| Metall-Pflanzkübel schlank | **3 von 4** |
+| Ergonomischer Hochstuhl | **3 von 4** |
+| Trekking-Rucksack | 2 von 3 |
+| Kofferset 4-teilig | 2 von 3 |
+
+Alle 44 hatten Bestand 0 bei `inventoryPolicy DENY` — sie standen als
+Auswahl da, waren aber nicht bestellbar. Kein Produkt hat dadurch
+seine letzte Variante verloren; jedes ist weiter kaufbar.
+
+Mit frischen Daten gegengeprüft: **null `availableForSale: false`
+über alle 96 Produkte.**
+
+Rückbau mit Preis, SKU und Gewicht je Variante:
+`daten/varianten-rueckbau-2026-10-26.json` (die ersten beiden
+Produkte) und `daten/varianten-rueckbau-2026-10-26-alle.json` (die
+übrigen 27). **Nicht gemessen:** ob die CJ-Anbindung bei Nachschub
+selbst wieder anlegt.
 
 ## Was das für die Prioritäten heißt
 

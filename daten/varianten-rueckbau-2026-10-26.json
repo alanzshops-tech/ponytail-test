@@ -1,0 +1,82 @@
+{
+  "_zweck": "Vollstaendige Definition der vier ausverkauften Varianten, geloescht am 26.10.2026, damit sie bei Nachschub wieder angelegt werden koennen.",
+  "_grund": "Alle vier hatten Bestand 0 bei inventoryPolicy DENY und waren damit unverkaeuflich. Sie standen trotzdem als Auswahl in der Variantenliste.",
+  "_nicht_gemessen": "Ob die CJ-Anbindung die Varianten bei Nachschub selbst wieder anlegt. Falls nicht, von Hand aus dieser Datei.",
+  "produkte": [
+    {
+      "handle": "hundesofa-samt-erhoeht-xxl",
+      "produkt_id": "gid://shopify/Product/15233237811523",
+      "optionen_vorher": [
+        {"name": "Farbe", "values": ["Schwarz", "Dunkelgrau", "Hellgrau"]},
+        {"name": "Größe", "values": ["100 x 54 x 33 cm", "70 x 45 x 33 cm"]}
+      ],
+      "geloeschte_varianten": [
+        {
+          "id": "gid://shopify/ProductVariant/54059125801283",
+          "titel": "Schwarz / 100 x 54 x 33 cm",
+          "preis": "124.99",
+          "vergleichspreis": null,
+          "sku": "CJFU25964470003",
+          "barcode": null,
+          "bestand": 0,
+          "optionen": [{"Farbe": "Schwarz"}, {"Größe": "100 x 54 x 33 cm"}],
+          "gewicht_gramm": 3901,
+          "bild": "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/7e34d0b1-9b0a-43f9-abb8-393cb8e3e209.jpg?v=1767654260"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/54059125899587",
+          "titel": "Hellgrau / 100 x 54 x 33 cm",
+          "preis": "129.99",
+          "vergleichspreis": null,
+          "sku": "CJFU25964470001",
+          "barcode": null,
+          "bestand": 0,
+          "optionen": [{"Farbe": "Hellgrau"}, {"Größe": "100 x 54 x 33 cm"}],
+          "gewicht_gramm": 3901,
+          "bild": "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/e6ecc301-f536-418d-b53a-948f0c851780.jpg?v=1767654260"
+        }
+      ],
+      "bleiben": [
+        "Dunkelgrau / 100 x 54 x 33 cm (116 Stueck, 149.99)",
+        "Dunkelgrau / 70 x 45 x 33 cm (143 Stueck, 94.99)",
+        "Hellgrau / 70 x 45 x 33 cm (90 Stueck, 94.99)"
+      ]
+    },
+    {
+      "handle": "outdoor-rattan-ecksofa-2sitzer",
+      "produkt_id": "gid://shopify/Product/15235644457283",
+      "optionen_vorher": [
+        {"name": "Farbe", "values": ["Schwarz", "Braun", "Schwarz-Weiß"]}
+      ],
+      "geloeschte_varianten": [
+        {
+          "id": "gid://shopify/ProductVariant/54068895940931",
+          "titel": "Braun",
+          "preis": "249.00",
+          "vergleichspreis": null,
+          "sku": "CJFU25989530002",
+          "barcode": null,
+          "bestand": 0,
+          "optionen": [{"Farbe": "Braun"}],
+          "gewicht_gramm": 8800,
+          "bild": "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/1b5131a1-85cb-41cd-bd4f-4a694e06c365.jpg?v=1767907945"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/54068895973699",
+          "titel": "Schwarz-Weiß",
+          "preis": "249.00",
+          "vergleichspreis": null,
+          "sku": "CJFU25989530001",
+          "barcode": null,
+          "bestand": 0,
+          "optionen": [{"Farbe": "Schwarz-Weiß"}],
+          "gewicht_gramm": 8913,
+          "bild": "https://cdn.shopify.com/s/files/1/0758/8852/5635/files/d9796df2-b5a9-4288-834c-d41d06277058.jpg?v=1767907944"
+        }
+      ],
+      "bleiben": [
+        "Schwarz (190 Stueck, 249.00)"
+      ]
+    }
+  ]
+}
