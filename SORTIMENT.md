@@ -89,6 +89,45 @@ entfernt. Sie sind zurück.
 
 Ein Rabatt ist erlaubt. Eine erfundene Frist nicht.
 
+## ✅ Erledigt am 26.10.2026: neun leere SEO-Felder geschlossen
+
+Über alle 96 aktiven Produkte ausgelesen, nicht gestichprobt:
+
+| | vorher | nachher |
+|---|---|---|
+| ohne `seo.title` | **6** | 0 |
+| ohne `seo.description` | **3** | 0 |
+
+Ein fehlender `seo.title` heißt: Google nimmt den Produkttitel, und der
+ist bei diesen sechs 70–90 Zeichen lang und wird im Treffer
+abgeschnitten. Eine fehlende `seo.description` heißt: Google schreibt
+den Textausschnitt selbst, aus irgendeinem Satz der Seite. Genau das
+ist der „rankt, wird aber nicht geklickt"-Fall aus `AUDIT.md`.
+
+**Die sechs ohne Titel waren alle Hundemöbel** — also die Warengruppe
+im nachgewiesenen Preisband. Die drei ohne Beschreibung: Bürostuhl,
+Rattan-Sonnenliege, Gartenstuhl.
+
+Alle neun Texte stammen aus vorhandenen Daten — Maße, Material,
+Belastbarkeit aus den Varianten und Beschreibungen. Nichts
+dazuerfunden, keine Versandaussage, kein Preisversprechen.
+
+Bei jeder Mutation wurden **beide** `seo`-Unterfelder mitgeschickt, auch
+wo nur eines fehlte — das Feld ersetzt, statt zu ergänzen
+(`CLAUDE.md`). Rückbau: `daten/seo-rueckbau-2026-10-26.json`.
+
+### Nebenbefund: ein Emoji-Titel war übrig
+
+```
+vorher:   Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾
+nachher:  Kompakter Kratzbaum für Katzen – Sisal-Säulen und Plüsch-Liegefläche
+```
+
+Oben steht, 26 Titel seien entanglisiert und emoji-frei. Das war über
+die damals geprüften Produkte richtig, über alle 96 nicht — dieser hier
+stand noch. Der neue Titel nennt außerdem Material und Bauform, also
+das, wonach gesucht wird.
+
 ## Weitere Funde, nach Hebel sortiert
 
 ### ✅ Erledigt: 26 Titel entanglisiert und ohne Emoji

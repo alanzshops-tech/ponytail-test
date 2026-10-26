@@ -1,0 +1,67 @@
+{
+  "_zweck": "Zustand VOR dem Schliessen der SEO-Luecken am 26.10.2026.",
+  "_hinweis": "Shopifys seo-Feld ERSETZT. Beim Zurueckschreiben immer beide Unterfelder mitschicken. null bedeutet: Feld war leer.",
+  "produkte": [
+    {
+      "handle": "hundesofa-samt-erhoeht-xxl",
+      "id": "gid://shopify/Product/15233237811523",
+      "seo_title": null,
+      "seo_description": "Luxus Hundesofa aus Samt, erhöht auf Holzbeinen, belastbar bis 50 kg. Sieht aus wie ein Möbelstück statt wie ein Hundebett – und hält deinen Hund vom Sofa fern."
+    },
+    {
+      "handle": "hundesofa-samt-kunstleder-95cm",
+      "id": "gid://shopify/Product/15235572400451",
+      "seo_title": null,
+      "seo_description": "Erhöhtes Hundebett 95 cm: Kunstleder an den Seiten, Samt auf der Liegefläche – abwischbar und kratzfest, bis 50 kg. Für große Hunde mit Platzbedarf."
+    },
+    {
+      "handle": "hundesofa-samt-kunstleder-90cm",
+      "id": "gid://shopify/Product/15235575087427",
+      "seo_title": null,
+      "seo_description": "Erhöhtes Hundebett 90 cm für mittelgroße Hunde: Kunstleder und Samt, stabil bis 50 kg, auf Beinen. Passt neben das Sofa, ohne den Raum zu füllen."
+    },
+    {
+      "handle": "hundesofa-samt-80cm-gepolstert",
+      "id": "gid://shopify/Product/15235600384323",
+      "seo_title": null,
+      "seo_description": "Erhöhtes Hundebett 80 cm aus Samt: weich gepolstert, bis 50 kg belastbar, auf Beinen. Dein Hund liegt zugfrei und hat seinen eigenen Platz neben dem Sofa."
+    },
+    {
+      "handle": "haustier-sofa-kunstleder-waschbar",
+      "id": "gid://shopify/Product/15235638821187",
+      "seo_title": null,
+      "seo_description": "Hundebett aus Kunstleder mit waschbarem Kuschelkissen und rutschfester Unterseite. Auch für Katzen geeignet – für kleine Tiere, bei denen mal etwas danebengeht."
+    },
+    {
+      "handle": "hundesofa-mit-erweiterung-xxl-samt",
+      "id": "gid://shopify/Product/15235648684355",
+      "seo_title": null,
+      "seo_description": "Hundebett XXL mit Erweiterung: extra große Liegefläche für Hunde, die sich ausstrecken wollen. Samt, erhöht auf Beinen, belastbar bis 50 kg."
+    },
+    {
+      "handle": "buerostuhl-premium-relaxfunktion-135-grad",
+      "id": "gid://shopify/Product/15233229128003",
+      "seo_title": "Schreibtischstuhl mit Fußstütze | Bürostuhl 135° Relax – Homeeins",
+      "seo_description": null
+    },
+    {
+      "handle": "rattan-sonnenliege-sonnendach-xxl",
+      "id": "gid://shopify/Product/15235655631171",
+      "seo_title": "Sonnenliege mit Sonnendach für 2 Personen | XXL Rattan – Homeeins",
+      "seo_description": null
+    },
+    {
+      "handle": "gartenstuhl-verstellbar-pe-rattan",
+      "id": "gid://shopify/Product/15236120838467",
+      "seo_title": "Gartenstuhl verstellbare Rückenlehne | PE-Rattan – Homeeins",
+      "seo_description": null
+    },
+    {
+      "handle": "kratzbaum-katzen-kompakt-plusch",
+      "id": "gid://shopify/Product/15233231716675",
+      "titel": "Kompakter Kratzbaum für Katzen – Spielen, Kratzen & Entspannen in einem 🐾",
+      "seo_title": "Kratzbaum für Katzen kompakt – Homeeins",
+      "seo_description": "Kompakter Kratzbaum mit Sisal-Säulen, weichem Plüschbezug & Hängespielzeug. Ideal für kleine Wohnungen & Mehrkatzenhaushalte. Jetzt bei Homeeins entdecken."
+    }
+  ]
+}
