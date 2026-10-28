@@ -178,3 +178,53 @@ Fälschung.
 Lieferzeit, sichtbares Widerrufsrecht, Impressum, Zahlungsarten, echte
 Produktmasse — und der Satz, der hier wirklich stimmt:
 *Versand innerhalb Deutschlands kostenlos.*
+
+## Reels — die Produktion stand seit August still
+
+**Gemessen am 28.10.2026.** Die komplette Video-Pipeline existiert
+schon und war nie benutzt worden.
+
+| | |
+|---|---|
+| Werkzeug | `.github/workflows/reels.yml` + `reels.config.json` |
+| Rendern | FFmpeg auf dem GitHub-Runner, ein Job je Produkt, parallel |
+| Vertonung | Piper, deutscher Sprechertext je Produkt |
+| Bildebenen | Hook und Preis |
+| Ablage | GitHub-Release-Assets → **dauerhafte öffentliche URL** |
+| Konfiguriert | **19 Produkte** |
+| Gerendert | **19 MP4** im Release `reels-20260809-205221` |
+
+### Der Befund
+
+**`download_count` lag bei allen 19 Dateien auf 0.** Die Videos sind
+seit dem 9. August öffentlich abrufbar und wurden **kein einziges Mal
+abgerufen** — von niemandem, auch nicht von Metricool.
+
+`SOCIAL.md` hielt am 13.08. fest, ein Großteil der Reels sei „längst
+auf TikTok/YouTube Shorts eingeplant oder veröffentlicht". Der
+Zählerstand 0 widerspricht dem: Hätte Metricool sie eingeplant, hätte
+es sie heruntergeladen (es kopiert jedes Medium auf den eigenen CDN).
+**Die Reels waren nie draußen.**
+
+### Die Kette ist jetzt nachgewiesen
+
+GitHub-Release-URL → Metricool → Instagram Reel + TikTok. Belegt, weil
+Metricool die MP4 geholt und auf `static.metricool.com` kopiert hat.
+
+| Datum | Reel | Kanäle |
+|---|---|---|
+| 02.11., 19:00 | Hundebett 95 cm | Instagram Reel + TikTok |
+| 05.11., 19:00 | Hundebett XXL mit Erweiterung | Instagram Reel + TikTok |
+
+Preise vorher gegen den Shop geprüft: alle fünf Hunde-Reels stimmen
+noch (94,99 / 94,00 / 199,00 / 99,00 / 44,99 €).
+
+### Zwei Dinge, die vor dem Rest zu klären sind
+
+1. **Zwei der 19 Reels zeigen auf Entwurfsprodukte** —
+   `sitzbank-stauraum` und `taschenlampe`. Die dürfen nicht raus,
+   solange die Produkte auf Entwurf stehen.
+2. **Es sind Bildfolgen mit Sprecherstimme, kein gefilmtes Material.**
+   Das ist für Produktvideos üblich und erlaubt; eine
+   KI-Kennzeichnung nach EU-AI-Act ist zu prüfen, sobald Bilder
+   KI-erzeugt sind (hier sind es Produktfotos des Lieferanten).
