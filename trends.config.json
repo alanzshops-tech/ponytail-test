@@ -54,6 +54,17 @@
       ]
     },
     {
+      "_zweck": "Entscheidet die Nischenfrage vom 28.10.2026: Hat 'Hundemöbel' als Schwerpunkt genug Nachfrage? 'hundebett' steht als Maßstab dabei — ohne einen bekannt großen Begriff in der Gruppe sagen die Relativwerte nichts.",
+      "name": "hundemoebel-nische",
+      "begriffe": [
+        "hundebett",
+        "hundebett erhöht",
+        "hundesofa",
+        "hundebett xxl",
+        "orthopädisches hundebett"
+      ]
+    },
+    {
       "name": "hund-kandidaten",
       "begriffe": [
         "futterautomat hund",
