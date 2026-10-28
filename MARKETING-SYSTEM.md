@@ -88,16 +88,34 @@ etwas vorschlägt, das hier nicht geht, wird es gemeldet statt ausgeführt.
 
 Die 24 Agenten des Plugins sind Unter-Agenten *innerhalb* einer
 Sitzung, keine laufenden Prozesse. Was dauerhaft arbeitet, sind
-**Routines** — jede mit genau einem Zuständigkeitsgebiet.
+**Routines** — jede mit genau einem Zuständigkeitsgebiet und einer
+eigenen Messlatte.
 
-| Routine | Takt | Gebiet | Connectors |
-|---|---|---|---|
-| Homeeins: posten und Shop verbessern | Mo/Mi/Fr 08:00 | Social + Sortiment | **fehlen** |
-| Homeeins SEO-Agent (Sichtbarkeit) | Di 07:41 | nur organische Suche | **fehlen** |
-| Homeeins Wochen-Check | Mo 08:50 | Bericht an den Inhaber | alle 17 |
-| Wöchentliche GSC-Erinnerung | Mo 08:00 | Nachfrage GSC-Lauf | — |
+| Agent | Takt | Gebiet | Messlatte | Connectors |
+|---|---|---|---|---|
+| **Social-Agent** | Mo/Mi/Fr 08:00 | Beiträge, Pinterest zuerst | Sitzungen je Kanal | **fehlen** |
+| **SEO-Agent** | Di 07:41 | nur organische Suche | 17 Sitzungen/Jahr | **fehlen** |
+| **Laden-Wache** | Do 07:23 | Rückfälle im Shop | 7 Prüfungen, alle 96 Produkte | **fehlen** |
+| Wochen-Check | Mo 08:50 | Bericht an den Inhaber | — | alle 17 |
+| GSC-Erinnerung | Mo 08:00 | fragt nach dem GSC-Lauf | — | — |
 
-### ⚠️ Der Grund, warum zwei davon nichts bewirken
+Jeder der drei neuen Agenten trägt seine Engpass-Kennzahl im Auftrag
+und die ausdrückliche Warnung, die Gesamtsitzungen **nicht** als
+Erfolg zu lesen — 94 % davon sind die eigenen Messwerkzeuge.
+
+Die **Laden-Wache** prüft sieben Dinge, die hier alle schon einmal
+zurückgekommen sind: erfundene Knappheit, Bewertungen ohne Käufer,
+ausverkaufte Varianten, leere SEO-Felder, englische Titel und Emojis,
+Entwurfsprodukte, falsche Versandaussagen. Mit Pflicht-Positivprobe:
+Ein leeres Ergebnis gilt erst als Entwarnung, wenn eine Suche nach
+einem Begriff, der treffen *muss*, auch wirklich trifft.
+
+Der **Social-Agent** hat bis Ende Dezember einen festen Schwerpunkt:
+Hundemöbel und verschenkbare Deko zwischen 30 und 130 €. Grundlage ist
+die Trends-Messung vom 28.10. — „hundebett" steht im November und
+Dezember bei 92 gegen 75 im Jahresschnitt.
+
+### ⚠️ Der Grund, warum drei davon nichts bewirken
 
 `create_trigger` antwortet auf den Parameter `connectors`:
 
@@ -106,16 +124,40 @@ the connectors parameter is not available for this organization
 ```
 
 Zweimal versucht, am 22.10. und am 28.10. **Ein Agent ohne Connectors
-sieht weder Shopify noch Metricool.** Die Routine „posten und Shop
-verbessern" ist am 28.10. um 08:17 gelaufen und hat nichts tun können;
-sie steht seit dem 22.10. so da.
+sieht weder Shopify noch Metricool.** Der Social-Agent ist am 28.10.
+um 08:17 gelaufen und konnte nichts tun; so steht er seit dem 22.10.
 
 **Nur ein Mensch kann das beheben:** claude.ai → Routines → Routine
-öffnen → Connectors → **Shopify** und **Metricool** anhaken.
+öffnen → Connectors → **Shopify** und **Metricool** anhaken. Drei
+Routinen, je zwei Haken.
 
-Beide Routine-Texte fangen den Fall ab: Fehlen die Connectors, melden
-sie das in einem Satz und beenden — statt eine Ersatzhandlung zu
-erfinden.
+Alle drei Texte fangen den Fall ab: Fehlen die Connectors, melden sie
+das in einem Satz und beenden — statt eine Ersatzhandlung zu erfinden.
+
+## Weitere Skills — ausgewählt, nicht alle genommen
+
+Der Katalog hat mehr; genommen wurden drei, die auf den gemessenen
+Engpass zahlen. Sie liegen im claude.ai-Konto und werden über die
+Oberfläche installiert, nicht über die CLI (dort sind sie nicht
+auffindbar — am 28.10. geprüft).
+
+| Plugin | Warum |
+|---|---|
+| **SEO Audit** (5 Skills) | `search-console-data-review` passt exakt zum anstehenden GSC-Lauf; nennt Shopify ausdrücklich |
+| **Website Copywriting & Positioning** (5) | gegen das ungelöste USP-Problem; erfindet laut eigener Beschreibung nie Testimonials oder Dringlichkeit |
+| **Social Media Skills** (106) | `pinterest-seo`, `pinterest-growth`, `pinterest-pin-design`, `tiktok-photo-mode`, `seasonal-and-moment-marketing` |
+
+**Bewusst nicht genommen:**
+
+- *SEO-AEO-GEO Ultimate* (27 Skills) — überschneidet sich fast
+  vollständig mit den 164 aus `digital-marketing-pro`. Zwei Bibliotheken
+  für dieselbe Aufgabe machen die Auswahl schlechter, nicht besser.
+- *Ayrshare* — Social-API, kostet Geld.
+- *shopify-ai-toolkit* — sendet laut eigener Beschreibung
+  Nutzungsdaten (Abfragen, Code) an shopify.dev, sofern man nicht
+  `OPT_OUT_INSTRUMENTATION=true` setzt. Ausserdem auf
+  Theme-Entwicklung ausgelegt, und ins veröffentlichte Theme wird hier
+  ohnehin nicht geschrieben.
 
 ## Bewertungen — was geht und was nicht
 
