@@ -1,0 +1,148 @@
+name: Search Console erfassen
+
+# Holt wöchentlich die Suchleistung von homeeins.de aus der Google Search
+# Console und schreibt sie versioniert ins Repo. Die API ist kostenlos und
+# verlangt kein Abrechnungskonto — es braucht nur ein Dienstkonto.
+#
+# Montags 06:00 UTC. Reels und Trends laufen inzwischen nicht mehr
+# automatisch (12.08.2026 auf manuell umgestellt) -- der ursprüngliche
+# Anschluss "nach Reels (04:00), nach Trends (05:00)" gilt nicht mehr,
+# 06:00 bleibt trotzdem ein sinnvoller Zeitpunkt: die 3 Tage Verzug der
+# Search-Console-Daten (VERZUG_TAGE in gsc.py) sind dann durch, der
+# Bericht zum Wochenstart ist frisch.
+#
+# WICHTIG: ein schedule-Trigger feuert nur, wenn diese Datei auf dem
+# Standardbranch (main) liegt -- GitHub wertet dafür nicht den Branch
+# aus, von dem der Lauf sonst gestartet würde. Auf einem Feature-Branch
+# allein bewirkt dieser Eintrag nichts. Siehe Bericht dazu.
+#
+# Ohne das Secret GSC_SERVICE_ACCOUNT_JSON läuft der Job trotzdem durch und
+# gibt die Einrichtungsanleitung aus, statt rot zu werden.
+on:
+  workflow_dispatch:
+    inputs:
+      tage:
+        description: "Zeitraum in Tagen (Standard 28)"
+        required: false
+        default: "28"
+      sitemap_einreichen:
+        description: "Sitemap-URL einreichen (leer = nichts tun), z.B. https://www.homeeins.de/sitemap.xml"
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 6 * * 1"
+# id-token: write erlaubt GitHub, ein kurzlebiges OIDC-Token auszustellen.
+# Damit weist sich der Lauf direkt bei Google aus — es gibt keinen
+# Dienstkontoschlüssel, der gestohlen werden könnte. Die Organisation
+# alanz-shops-org verbietet solche Schlüssel ohnehin per Richtlinie
+# (iam.disableServiceAccountKeyCreation), und das zu Recht.
+permissions:
+  contents: write
+  id-token: write
+
+# Keine Geheimnisse: Projektnummer, Pool und Dienstkonto-Adresse sind
+# öffentlich unkritisch. Der Zugriff entsteht erst durch die Vertrauens-
+# beziehung, die nur für dieses eine Repository gilt.
+env:
+  WIF_PROVIDER: "projects/306156937924/locations/global/workloadIdentityPools/github/providers/github-provider"
+  WIF_DIENSTKONTO: "gsc-reader@marketing-505012.iam.gserviceaccount.com"
+
+jobs:
+  gsc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: |
+          pip install --quiet google-api-python-client google-auth
+          python3 -c "import googleapiclient, google.oauth2; print('Google-Client bereit')"
+
+      # continue-on-error, damit ein noch nicht eingerichteter Verbund den
+      # Lauf nicht rot macht. Das Skript erklärt dann die Einrichtung.
+      - name: Bei Google anmelden
+        id: auth
+        continue-on-error: true
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ env.WIF_PROVIDER }}
+          service_account: ${{ env.WIF_DIENSTKONTO }}
+
+      - name: Search Console abfragen
+        env:
+          # Rückfallebene, falls doch mit Schlüsseldatei gearbeitet wird.
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: |
+          python3 scripts/gsc.py \
+            --property "sc-domain:homeeins.de" \
+            --out daten \
+            --tage "${{ inputs.tage || '28' }}" \
+            --sitemap-einreichen "${{ inputs.sitemap_einreichen || '' }}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: |
+          if [ -f GSC.md ]; then
+            cat GSC.md >> $GITHUB_STEP_SUMMARY
+          else
+            {
+              echo "### Keine Daten abgerufen"
+              echo ""
+              echo "Entweder ist der Zugang noch nicht eingerichtet oder"
+              echo "die Abfrage ist fehlgeschlagen. Der Grund steht im Log"
+              echo "des Schritts \"Search Console abfragen\"."
+            } >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Ergebnis committen
+        run: |
+          if [ ! -f GSC.md ]; then
+            echo "Nichts abgefragt, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten GSC.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "Search-Console-Daten vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gsc
+          path: |
+            daten/gsc-*.json
+            GSC.md
+          retention-days: 90
+          if-no-files-found: warn

@@ -1,0 +1,478 @@
+#!/usr/bin/env python3
+"""
+pruefstand.py — misst, was gutes Design ausmacht, statt darüber zu reden.
+
+Drei Werkzeuge, alle quelloffen, alle ohne Konto:
+
+  axe-core       Deque Systems, MPL-2.0. Der Prüfer, den auch Lighthouse
+                 und Google benutzen. Findet Kontraste unter dem Grenzwert,
+                 Knöpfe ohne Beschriftung, kaputte Überschriftenfolgen —
+                 also genau die Dinge, die eine Seite billig wirken lassen,
+                 lange bevor jemand sagen kann warum.
+
+  Pixelvergleich Pillow. Vor jeder Änderung ein Foto, nach jeder Änderung
+                 ein Foto, Differenz in Prozent. Wer eine Zeile CSS ändert
+                 und drei Seiten weiter etwas zerschießt, merkt das sonst
+                 erst durch einen Kunden, den es nie gab.
+
+  Textmaß       Zeilenlänge, Schriftgröße, Kontrast der Fließtexte. Die
+                 drei Zahlen, an denen Lesbarkeit hängt.
+
+Barrierefreiheit ist für Homeeins keine Pflicht — das BFSG nimmt
+Kleinstunternehmen (unter 10 Beschäftigte UND unter 2 Mio. Umsatz) für
+Dienstleistungen ausdrücklich aus. Es bleibt trotzdem sinnvoll: Dieselben
+Befunde sind Bedienbarkeitsfehler, und Google bewertet sie mit.
+
+Aufruf:
+    python3 scripts/pruefstand.py --urls urls-shop.txt
+    python3 scripts/pruefstand.py --urls urls-shop.txt --grundlinie
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import time
+from datetime import date
+from pathlib import Path
+from urllib.parse import urlsplit
+
+GERAETE = {
+    "mobil":   {"viewport": {"width": 390, "height": 844},
+                "device_scale_factor": 2, "is_mobile": True,
+                "has_touch": True},
+    "desktop": {"viewport": {"width": 1440, "height": 900},
+                "device_scale_factor": 1, "is_mobile": False},
+}
+
+# axe kennt vier Schweregrade. Nur die oberen zwei sind es wert, dass
+# jemand seine Zeit darauf verwendet.
+SCHWER = ("critical", "serious")
+
+
+def name_aus(url: str) -> str:
+    import re
+    pfad = urlsplit(url).path.strip("/") or "startseite"
+    return re.sub(r"[^A-Za-z0-9]+", "-", pfad)[:60].strip("-")
+
+
+def axe_quelle() -> str:
+    """axe-core als Datei, nicht aus einem CDN — sonst hängt die Messung
+    an einem fremden Server und liefert bei Ausfall stillschweigend
+    weniger Befunde."""
+    for p in (Path("node_modules/axe-core/axe.min.js"),
+              Path("/usr/lib/node_modules/axe-core/axe.min.js")):
+        if p.exists():
+            return p.read_text(encoding="utf-8")
+    raise SystemExit("axe-core fehlt. Vorher: npm install axe-core")
+
+
+def eine_seite(browser, url: str, geraet: str, axe_js: str,
+               bilder: Path) -> dict:
+    ctx = browser.new_context(locale="de-DE", **GERAETE[geraet])
+    seite = ctx.new_page()
+    m: dict = {"url": url, "geraet": geraet}
+    try:
+        seite.goto(url, wait_until="load", timeout=60000)
+        seite.wait_for_timeout(3000)
+        # Die App-Knöpfe werden nachgeladen. Mit festen 3 s hing es vom
+        # Zufall ab, ob sie schon dastanden: derselbe Lauf meldete auf der
+        # einen Seite den Revoq-Knopf und auf der nächsten nichts. Deshalb
+        # auf Netzruhe warten, statt zu raten — und wenn sie nicht eintritt,
+        # nach 8 s trotzdem messen.
+        try:
+            seite.wait_for_load_state("networkidle", timeout=8000)
+        except Exception:                                        # noqa: BLE001
+            pass
+    except Exception as e:                                       # noqa: BLE001
+        m["fehler"] = str(e)[:200]
+        ctx.close()
+        return m
+
+    seite.add_script_tag(content=axe_js)
+    bericht = seite.evaluate("""async () => {
+      const r = await axe.run(document, {
+        resultTypes: ['violations'],
+        runOnly: {type: 'tag', values: ['wcag2a', 'wcag2aa', 'wcag21aa']}
+      });
+      return r.violations.map(v => ({
+        id: v.id, impact: v.impact, help: v.help, anzahl: v.nodes.length,
+        beispiel: (v.nodes[0] && v.nodes[0].html || '').slice(0, 160)
+      }));
+    }""")
+    m["verstoesse"] = bericht
+    m["schwer"] = sum(v["anzahl"] for v in bericht
+                      if v.get("impact") in SCHWER)
+    m["leicht"] = sum(v["anzahl"] for v in bericht
+                      if v.get("impact") not in SCHWER)
+
+    # Bewertungen. Am 9.8.2026 standen elf erfundene auf der Startseite
+    # und 26 als Sterne-Metafelder auf fünf Produkten. Die Metafelder
+    # sind gelöscht — ob das Judge.me-Widget noch etwas anzeigt, sieht
+    # man nur im Browser, weil es seine Daten aus der App holt und
+    # nicht aus Shopify.
+    m["bewertungen"] = seite.evaluate("""() => {
+      const txt = document.body.innerText || '';
+      // Nur sichtbare Widgets, keine Script-Tags. Der erste Lauf griff
+      // sich Judge.mes Einstellungs-Script und zitierte JSON statt
+      // Bewertungen — ein Selektor, der zu viel fängt, ist kein Messgerät.
+      const widget = [...document.querySelectorAll(
+        '.jdgm-widget, .jdgm-rev-widget, .jdgm-widget-actions-wrapper')]
+        .find(e => e.tagName !== 'SCRIPT' && e.offsetParent !== null) || null;
+      const treffer = (r) => (txt.match(r) || []).length;
+      return {
+        widget_da: !!widget,
+        widget_text: widget ? (widget.innerText || '').trim().slice(0, 300) : null,
+        sterne_symbole: treffer(/★|⭐/g),
+        wort_bewertung: treffer(/\\bBewertung(en)?\\b/g),
+        wort_rezension: treffer(/\\bRezension(en)?\\b/g),
+        wort_sterne: treffer(/\\bSterne?\\b/g),
+        // Strukturdaten sind die Stelle, an der Google Sterne abgreift.
+        preise_mit_eur: (txt.match(/\d,\d{2}\s*EUR/g) || []).length,
+        preise_gesamt: (txt.match(/\d,\d{2}\s*(?:€|EUR)/g) || []).length,
+        aggregate_rating: [...document.querySelectorAll(
+            'script[type="application/ld+json"]')]
+          .map(s => s.textContent || '')
+          .filter(t => t.includes('aggregateRating')).length
+      };
+    }""")
+
+    # Widerrufsbutton der App „Revoq EU Widerrufsbutton". Breit gesucht,
+    # weil ich den Selektor der App nicht kenne — dafür wird derselbe
+    # Detektor gegen das Live-Theme gehalten, wo der Knopf aus ist.
+    # Ein Fund ohne Gegentest wäre kein Beweis.
+    m["widerruf"] = seite.evaluate("""() => {
+      // querySelectorAll('*') hört am Schatten-Wurzelrand auf. Genau dort
+      // sitzen die App-Knöpfe: der Lauf vom 10.08. meldete „kein
+      // schwebendes Element mit Text", während auf dem Foto derselben
+      // Seite drei davon übereinander in der Ecke lagen. Also selbst
+      // absteigen, durch jede shadowRoot hindurch.
+      const alle = [];
+      (function tief(wurzel, tiefe) {
+        if (tiefe > 8) return;
+        for (const e of wurzel.querySelectorAll('*')) {
+          alle.push(e);
+          if (e.shadowRoot) tief(e.shadowRoot, tiefe + 1);
+        }
+      })(document, 0);
+      const passt = (e) => {
+        const s = ((e.className && e.className.baseVal !== undefined
+                    ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
+        return /revoq|widerruf/i.test(s);
+      };
+      const treffer = alle.filter(passt);
+      const sichtbar = treffer.filter(e => e.offsetParent !== null
+        || getComputedStyle(e).position === 'fixed');
+      const fest = alle.filter(e => {
+        const c = getComputedStyle(e);
+        return c.position === 'fixed' && (e.innerText || '').match(/Widerruf/i);
+      });
+      // Lage und Größe aller schwebenden Elemente. Erst damit lässt
+      // sich sagen, ob zwei sich überlappen — „sieht eng aus" ist keine
+      // Aussage, „18 px Abstand" ist eine.
+      const vw = window.innerWidth, vh = window.innerHeight;
+      const knoten = alle.filter(e => {
+        const c = getComputedStyle(e);
+        if (c.position !== 'fixed' || c.display === 'none'
+            || c.visibility === 'hidden') return false;
+        const r = e.getBoundingClientRect();
+        return r.width > 20 && r.height > 20 && r.width < vw * 0.8;
+      });
+      // Nur die äußersten behalten, sonst zählt jedes Kind mit. Über die
+      // Verwandtschaft im DOM, nicht über die Geometrie: der frühere
+      // Geometrietest hat verdeckte Elemente als „Kinder" weggeworfen —
+      // ein breiter Knopf verschluckte das Siegel, das auf ihm lag, und
+      // damit genau die Überlappung, die gefunden werden soll.
+      // contains() greift nicht über Schattengrenzen, deshalb zusätzlich
+      // am Wirt entlang nach oben.
+      const drin = (b, a) => {
+        for (let k = a; k; k = k.parentNode instanceof ShadowRoot
+                             ? k.parentNode.host : k.parentElement) {
+          if (k === b) return true;
+        }
+        return false;
+      };
+      const schweber = knoten.filter(
+        (a) => !knoten.some((b) => b !== a && drin(b, a))
+      ).map(e => {
+        const r = e.getBoundingClientRect();
+        const s = ((e.className && e.className.baseVal !== undefined
+                    ? e.className.baseVal : e.className) || '') + ' ' + (e.id || '');
+        // Ohne Klasse und ohne Id bliebe die Zeile namenlos — dann sagt
+        // wenigstens der Tag-Name, worum es geht (iframe, custom-element).
+        return {kennung: (s.trim() || e.tagName.toLowerCase()).slice(0, 60),
+                text: (e.innerText || '').trim().slice(0, 40),
+                links: Math.round(r.left), oben: Math.round(r.top),
+                breite: Math.round(r.width), hoehe: Math.round(r.height),
+                von_rechts: Math.round(vw - r.right),
+                von_unten: Math.round(vh - r.bottom)};
+      });
+      const aussen = schweber;
+      const ueberlappt = [];
+      for (let i = 0; i < aussen.length; i++)
+        for (let j = i + 1; j < aussen.length; j++) {
+          const a = aussen[i], b = aussen[j];
+          const dx = Math.max(a.links, b.links)
+                   - Math.min(a.links + a.breite, b.links + b.breite);
+          const dy = Math.max(a.oben, b.oben)
+                   - Math.min(a.oben + a.hoehe, b.oben + b.hoehe);
+          // dx/dy sind negativ, wenn sich die Kästen schneiden. Der Betrag
+          // ist die Überdeckung in Pixeln — die Zahl, nach der sich der
+          // Abstand einstellen lässt.
+          if (dx < 0 && dy < 0)
+            ueberlappt.push(`${a.kennung || a.text} × ${b.kennung || b.text}`
+              + ` (${-dx} × ${-dy} px)`);
+        }
+      return {
+        elemente: treffer.length,
+        sichtbar: sichtbar.length,
+        schwebend_mit_text: fest.length,
+        beispiel: treffer.length
+          ? (treffer[0].outerHTML || '').slice(0, 180) : null,
+        skripte: [...document.querySelectorAll('script[src]')]
+          .map(s => s.src).filter(u => /revoq/i.test(u)).slice(0, 3),
+        schweber: aussen,
+        ueberlappungen: ueberlappt
+      };
+    }""")
+
+    # Lesbarkeit: die drei Zahlen, an denen Fließtext steht oder fällt.
+    m["text"] = seite.evaluate("""() => {
+      const abs = [...document.querySelectorAll('p, li')]
+        .filter(e => (e.innerText || '').trim().length > 60);
+      if (!abs.length) return null;
+      const px = e => parseFloat(getComputedStyle(e).fontSize);
+      const zeichen = e => {
+        const b = e.getBoundingClientRect().width;
+        return Math.round(b / (px(e) * 0.5));   // ~0,5 em je Zeichen
+      };
+      const groessen = abs.map(px).sort((a, b) => a - b);
+      const laengen = abs.map(zeichen).sort((a, b) => a - b);
+      const med = a => a[Math.floor(a.length / 2)];
+      return {absaetze: abs.length,
+              schriftgroesse_median: med(groessen),
+              zu_klein: groessen.filter(g => g < 16).length,
+              zeilenlaenge_median: med(laengen),
+              zu_breit: laengen.filter(l => l > 80).length};
+    }""")
+
+    bilder.mkdir(parents=True, exist_ok=True)
+    ziel = bilder / f"{name_aus(url)}-{geraet}.png"
+    seite.screenshot(path=str(ziel), full_page=True)
+    m["bild"] = str(ziel)
+    ctx.close()
+    return m
+
+
+def vergleichen(neu: Path, alt: Path) -> dict | None:
+    """Zwei Aufnahmen derselben Seite. Gibt den Anteil geänderter Pixel."""
+    if not alt.exists():
+        return None
+    from PIL import Image, ImageChops
+    a, b = Image.open(alt).convert("RGB"), Image.open(neu).convert("RGB")
+    if a.size != b.size:
+        # Andere Höhe heißt: Es ist etwas dazugekommen oder weggefallen.
+        # Das ist ein Befund, kein Fehler der Messung.
+        return {"groesse_alt": a.size, "groesse_neu": b.size,
+                "anteil": None, "hinweis": "Seitenhöhe hat sich geändert"}
+    diff = ImageChops.difference(a, b).convert("L")
+    geaendert = sum(1 for p in diff.getdata() if p > 12)
+    return {"groesse_alt": a.size, "groesse_neu": b.size,
+            "anteil": round(100 * geaendert / (a.size[0] * a.size[1]), 3)}
+
+
+def bericht(d: dict) -> str:
+    z = ["# Prüfstand", "", f"Stand: {d['stand']}", "",
+         "Gemessen mit **axe-core** (Deque, MPL-2.0) gegen WCAG 2.1 AA, "
+         "dazu Lesbarkeitsmaße und ein Pixelvergleich gegen die letzte "
+         "Grundlinie.", "",
+         "> Barrierefreiheit ist für Homeeins keine gesetzliche Pflicht — "
+         "das BFSG nimmt Kleinstunternehmen für Dienstleistungen aus. "
+         "Die Befunde sind trotzdem echte Bedienfehler.", "",
+         "| Seite | Gerät | schwer | leicht | Schrift | Zeilenlänge | "
+         "Pixel geändert |", "|---|---|---:|---:|---:|---:|---:|"]
+    for m in d["seiten"]:
+        p = urlsplit(m["url"]).path or "/"
+        if m.get("fehler"):
+            z.append(f"| {p} | {m['geraet']} | FEHLER | – | – | – | – |")
+            continue
+        t = m.get("text") or {}
+        v = m.get("vergleich")
+        pix = ("–" if not v else
+               (v.get("hinweis") or f"{v.get('anteil')} %"))
+        z.append(f"| {p} | {m['geraet']} | **{m.get('schwer', 0)}** "
+                 f"| {m.get('leicht', 0)} "
+                 f"| {t.get('schriftgroesse_median', '–')} px "
+                 f"| {t.get('zeilenlaenge_median', '–')} Z. | {pix} |")
+    z += ["", "Richtwerte: Fließtext ab **16 px**, Zeilen **45–80 Zeichen**. "
+          "Längere Zeilen verliert das Auge beim Rücksprung.", ""]
+
+    z += ["## Widerrufsbutton", "",
+          "| Seite | Elemente | sichtbar | schwebend m. Text | Skripte |",
+          "|---|---:|---:|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        w = m.get("widerruf") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} | {w.get('elemente', 0)} "
+                 f"| {w.get('sichtbar', 0)} | {w.get('schwebend_mit_text', 0)} "
+                 f"| {len(w.get('skripte') or [])} |")
+    # Jede Zeile nennt ihre Seite. Vorher nahm die Tabelle die Lagen von
+    # der ersten Seite und die Überlappungen von einer anderen — zwei
+    # Seiten in einem Block, ohne dass es dranstand. Am 10.08. hing genau
+    # daran die Frage, ob eine Einstellung wirkt: vier Seiten zeigten die
+    # neue Lage, eine noch die alte aus dem Cache.
+    reihen, ueber = [], []
+    for m in d["seiten"]:
+        if m.get("fehler") or m.get("geraet") != "mobil":
+            continue
+        p = urlsplit(m["url"]).path or "/"
+        w = m.get("widerruf") or {}
+        for s in w.get("schweber") or []:
+            reihen.append(
+                f"| {p} | `{(s['kennung'] or '(ohne Klasse)')[:32]}` "
+                f"| {s['text'] or '–'} | {s['breite']}×{s['hoehe']} "
+                f"| {s['links']} px | {s['von_rechts']} px "
+                f"| {s['von_unten']} px |")
+        for u in w.get("ueberlappungen") or []:
+            ueber.append(f"- {p}: {u}")
+    if reihen:
+        z += ["", "**Schwebende Elemente auf dem Handy** (390 × 844 px). "
+              "„von links\" ist die linke Kante, die beiden anderen sind "
+              "Abstände zum Rand:", "",
+              "| Seite | Element | Text | Größe | von links | von rechts "
+              "| von unten |",
+              "|---|---|---|---|---:|---:|---:|"] + reihen
+        z += ["", "**Überlappungen**", ""]
+        z += ueber if ueber else ["- keine"]
+        z += [""]
+    bsp = next((m["widerruf"]["beispiel"] for m in d["seiten"]
+                if (m.get("widerruf") or {}).get("beispiel")), None)
+    if bsp:
+        z += ["", "Erstes gefundenes Element:", "", "```", bsp, "```"]
+    z += ["", "Der Knopf ist seit dem 10.08.2026 im veröffentlichten Theme "
+          "eingeschaltet; der Detektor hat ihn davor auf denselben Seiten "
+          "**null**-mal gefunden. Wer hier eine Änderung nachmisst, nimmt "
+          "`--frisch` dazu — sonst kann die Seite aus dem Cache kommen und "
+          "die alte Lage zeigen.", "",
+          "## Preisschreibweise", "",
+          "| Seite | Preise | davon mit „EUR\" |", "|---|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        b = m.get("bewertungen") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} "
+                 f"| {b.get('preise_gesamt', 0)} | {b.get('preise_mit_eur', 0)} |")
+    z += ["", "Deutsche Schreibweise ist „124,99 €\" — Zahl vorn, Zeichen "
+          "hinten, ohne Währungskürzel. Das Kürzel schaltet ein Haken im "
+          "Theme ab; die Stellung des Zeichens ist eine Shop-Einstellung.",
+          "", "## Bewertungen auf der Live-Seite", "",
+          "| Seite | Judge.me-Widget | ★-Symbole | „Bewertung\" | "
+          "„Sterne\" | aggregateRating |", "|---|:-:|---:|---:|---:|---:|"]
+    for m in d["seiten"]:
+        if m.get("fehler") or m["geraet"] != "mobil":
+            continue
+        b = m.get("bewertungen") or {}
+        z.append(f"| {urlsplit(m['url']).path or '/'} "
+                 f"| {'ja' if b.get('widget_da') else '–'} "
+                 f"| {b.get('sterne_symbole', 0)} "
+                 f"| {b.get('wort_bewertung', 0)} "
+                 f"| {b.get('wort_sterne', 0)} "
+                 f"| {b.get('aggregate_rating', 0)} |")
+    for m in d["seiten"]:
+        b = m.get("bewertungen") or {}
+        if m["geraet"] == "mobil" and b.get("widget_text"):
+            z += ["", f"Widget-Inhalt auf `{urlsplit(m['url']).path}`:", "",
+                  "```", b["widget_text"], "```"]
+    z += ["", "**aggregateRating** ist die Stelle, an der Google Sterne für "
+          "die Trefferliste abgreift. Steht dort etwas ohne echte Käufe, "
+          "wirbt der Shop auch außerhalb der eigenen Seite mit Erfundenem.",
+          ""]
+
+    # Verstöße zusammenfassen, nicht je Seite wiederholen.
+    gesamt: dict[str, dict] = {}
+    for m in d["seiten"]:
+        for v in m.get("verstoesse", []):
+            e = gesamt.setdefault(v["id"], {**v, "anzahl": 0, "seiten": set()})
+            e["anzahl"] += v["anzahl"]
+            e["seiten"].add(urlsplit(m["url"]).path or "/")
+    if gesamt:
+        z += ["## Befunde, nach Häufigkeit", "",
+              "| Regel | Schwere | Fälle | betroffen |", "|---|---|---:|---|"]
+        for v in sorted(gesamt.values(),
+                        key=lambda x: (x.get("impact") not in SCHWER,
+                                       -x["anzahl"])):
+            z.append(f"| {v['help']} | {v.get('impact')} | {v['anzahl']} "
+                     f"| {', '.join(sorted(v['seiten']))} |")
+        z += ["", "Beispiele:", ""]
+        for v in list(sorted(gesamt.values(), key=lambda x: -x["anzahl"]))[:5]:
+            z.append(f"- `{v['id']}` — `{v['beispiel']}`")
+        z.append("")
+    return "\n".join(z) + "\n"
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--urls", default="urls-shop.txt")
+    ap.add_argument("--bilder", default="bilder/pruefstand")
+    ap.add_argument("--grundlinie", action="store_true",
+                    help="aktuelle Aufnahmen als neue Vergleichsbasis "
+                         "ablegen statt zu vergleichen")
+    ap.add_argument("--frisch", action="store_true",
+                    help="Cache umgehen: an jede Adresse einen einmaligen "
+                         "Parameter hängen")
+    a = ap.parse_args()
+
+    adressen = [z.strip() for z in Path(a.urls).read_text(encoding="utf-8")
+                .splitlines() if z.strip() and not z.startswith("#")]
+    if a.frisch:
+        # Am 10.08. maß der Prüfstand den Knopf noch an der alten Stelle,
+        # obwohl im Theme längst die neue stand. Ohne Cache-Sperre lässt
+        # sich nicht sagen, ob eine Einstellung nicht wirkt oder nur eine
+        # alte Seite ausgeliefert wurde. Shopifys CDN hält den
+        # Abfrageteil im Schlüssel, ein einmaliger Wert erzwingt frisch.
+        stempel = int(time.time())
+        adressen = [f"{u}{'&' if '?' in u else '?'}frisch={stempel}"
+                    for u in adressen]
+        print(f"Cache-Sperre aktiv: frisch={stempel}")
+    axe_js = axe_quelle()
+    from playwright.sync_api import sync_playwright
+
+    bilder, basis = Path(a.bilder), Path(a.bilder) / "grundlinie"
+    d = {"stand": str(date.today()), "seiten": []}
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch(args=["--no-sandbox"])
+        for url in adressen:
+            for geraet in GERAETE:
+                print(f"  {geraet:8s} {url}")
+                m = eine_seite(browser, url, geraet, axe_js, bilder)
+                if not m.get("fehler"):
+                    alt = basis / Path(m["bild"]).name
+                    m["vergleich"] = vergleichen(Path(m["bild"]), alt)
+                    print(f"           {m['schwer']} schwer, "
+                          f"{m['leicht']} leicht"
+                          + (f", {m['vergleich']['anteil']} % Pixel anders"
+                             if m.get("vergleich")
+                             and m["vergleich"].get("anteil") is not None
+                             else ""))
+                d["seiten"].append(m)
+        browser.close()
+
+    if a.grundlinie:
+        import shutil
+        basis.mkdir(parents=True, exist_ok=True)
+        for m in d["seiten"]:
+            if m.get("bild"):
+                shutil.copy(m["bild"], basis / Path(m["bild"]).name)
+        print(f"\nGrundlinie erneuert: {len(list(basis.glob('*.png')))} Bilder")
+
+    Path("daten").mkdir(exist_ok=True)
+    Path("daten/pruefstand.json").write_text(
+        json.dumps(d, ensure_ascii=False, indent=2, default=str),
+        encoding="utf-8")
+    Path("PRUEFSTAND.md").write_text(bericht(d), encoding="utf-8")
+    print("\nBericht in PRUEFSTAND.md")
+
+
+if __name__ == "__main__":
+    main()

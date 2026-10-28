@@ -1,0 +1,190 @@
+name: Reels rendern
+
+# Drei Wege, den Lauf auszulösen:
+#   push              — sobald sich Skript oder Konfiguration ändern
+#   workflow_dispatch — Knopf in der Actions-Oberfläche (erst ab main verfügbar)
+#   schedule          — wöchentlich
+#
+# Der Runner hat freien Netzzugang. Deshalb läuft hier, was in einer
+# abgeschotteten Umgebung nicht geht: Bilder von der Shopify-CDN holen,
+# mit FFmpeg rendern, Ergebnis öffentlich bereitstellen.
+#
+# Gerendert wird ein Produkt pro Job, parallel. Nacheinander dauerte ein Lauf
+# rund siebeneinhalb Minuten je Produkt — bei zwölf Produkten wäre das über
+# eineinhalb Stunden und mehr als die Zeitgrenze eines Jobs.
+on:
+  workflow_dispatch:
+    inputs:
+      nur:
+        description: "Nur ein Produkt rendern (name aus reels.config.json), leer = alle"
+        required: false
+        default: ""
+# contents: write wird gebraucht, um die fertigen MP4s als Release-Assets
+# zu veröffentlichen. Das gibt jedem Video eine dauerhafte öffentliche URL,
+# ohne die Videos ins Git zu committen.
+permissions:
+  contents: write
+
+jobs:
+  # Liest die Produktnamen aus der Konfiguration und gibt sie als Matrix aus.
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      namen: ${{ steps.lesen.outputs.namen }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: lesen
+        env:
+          NUR: ${{ inputs.nur }}
+        run: |
+          python3 - >> "$GITHUB_OUTPUT" <<'PY'
+          import json, os
+          cfg = json.load(open("reels.config.json", encoding="utf-8"))
+          namen = [p["name"] for p in cfg["produkte"]]
+          nur = os.environ.get("NUR", "").strip()
+          if nur:
+              namen = [n for n in namen if n == nur]
+              if not namen:
+                  raise SystemExit(f"Kein Produkt mit name={nur}")
+          print("namen=" + json.dumps(namen))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      # Ein fehlgeschlagenes Produkt soll die anderen elf nicht abbrechen.
+      fail-fast: false
+      max-parallel: 12
+      matrix:
+        name: ${{ fromJson(needs.plan.outputs.namen) }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # apt-get bleibt auf Runnern gelegentlich an einem langsamen Spiegel
+      # haengen. Deshalb harte Zeitgrenze und Wiederholung statt endlos warten.
+      - name: FFmpeg und Schriften installieren
+        timeout-minutes: 8
+        run: |
+          set -e
+          for v in 1 2 3; do
+            echo "Versuch $v ..."
+            if timeout 120 sudo apt-get update -qq -o Acquire::Retries=3 \
+               && timeout 180 sudo apt-get install -y -qq --no-install-recommends \
+                  ffmpeg fonts-dejavu-core; then
+              echo "Installation erfolgreich"
+              break
+            fi
+            [ "$v" = "3" ] && { echo "apt-get dreimal fehlgeschlagen"; exit 1; }
+            sleep 15
+          done
+          ffmpeg -version | head -1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: pip install --quiet requests piper-tts
+
+      - name: ${{ matrix.name }} rendern
+        run: |
+          python3 scripts/make_reels.py \
+            --config reels.config.json --out dist --nur "${{ matrix.name }}"
+          ffprobe -v error -show_entries format=duration \
+            -of default=noprint_wrappers=1:nokey=1 "dist/${{ matrix.name }}.mp4"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ matrix.name }}
+          path: dist/${{ matrix.name }}.mp4
+          retention-days: 30
+
+  # Sammelt alle Einzelergebnisse, prüft den Ton und veröffentlicht erst dann.
+  veroeffentlichen:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: FFmpeg installieren
+        timeout-minutes: 8
+        run: |
+          set -e
+          for v in 1 2 3; do
+            if timeout 120 sudo apt-get update -qq -o Acquire::Retries=3 \
+               && timeout 180 sudo apt-get install -y -qq --no-install-recommends \
+                  ffmpeg; then break; fi
+            [ "$v" = "3" ] && { echo "apt-get dreimal fehlgeschlagen"; exit 1; }
+            sleep 15
+          done
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten
+        run: pip install --quiet faster-whisper
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: reel-*
+          merge-multiple: true
+          path: dist
+
+      - name: Was ist angekommen
+        run: ls -la dist/
+
+      # Der Ton laesst sich hier niemand anhoeren. Also wird er messbar
+      # gemacht: Spektrogramm und Wellenform als Bild, Spracherkennung als
+      # Test auf Verstaendlichkeit, Pegelgrenzen als harte Schranke. Laeuft
+      # VOR der Veroeffentlichung, damit ein defektes Reel nicht online geht.
+      - name: Tonspur prüfen
+        run: |
+          # Ohne pipefail wuerde tee den Fehlercode schlucken und ein
+          # durchgefallener Test den Lauf trotzdem gruen lassen.
+          set -o pipefail
+          python3 scripts/audio_check.py \
+            --dist dist --config reels.config.json --modell small \
+            | tee ton-bericht.txt
+          {
+            echo "### Tonprüfung"
+            echo ""
+            echo '```'
+            cat ton-bericht.txt
+            echo '```'
+          } >> $GITHUB_STEP_SUMMARY
+
+      - name: Tonbilder ablegen
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ton-qa
+          path: |
+            dist/qa/
+            ton-bericht.txt
+          retention-days: 30
+          if-no-files-found: warn
+
+      # Öffentliche URLs ohne Cloudinary: Release-Assets eines öffentlichen
+      # Repos sind ohne Anmeldung abrufbar. Metricool kann sie damit laden.
+      - name: Als Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="reels-$(date +%Y%m%d-%H%M%S)"
+          gh release create "$TAG" dist/*.mp4 \
+            --title "Reels $TAG" \
+            --notes "Automatisch gerendert aus reels.config.json" \
+            --target "${{ github.sha }}"
+          echo "### Öffentliche Reel-URLs" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          for f in dist/*.mp4; do
+            n=$(basename "$f")
+            echo "- \`$n\` → https://github.com/${{ github.repository }}/releases/download/$TAG/$n" \
+              >> $GITHUB_STEP_SUMMARY
+          done

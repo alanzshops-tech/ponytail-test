@@ -1,0 +1,248 @@
+/* ==========================================================================
+   homeeins-design.css — Designsystem fuer Homeeins
+   Angelegt 14.08.2026. Grundlagen und Quellen stehen in DESIGN.md.
+
+   Diese Datei liegt bewusst NEBEN Dawns Dateien, nicht darin. Der Nutzer
+   hat erlaubt, Dawn in dieser Kopie umzuschreiben — trotzdem ist ein
+   eigenes Blatt, das nach base.css laedt, der bessere Weg: Es laesst sich
+   in einem Zug wieder entfernen, und ein Dawn-Update kollidiert nicht
+   damit.
+
+   Reihenfolge unten: Farben, Typografie, Hero, Kacheln, Raum.
+   ========================================================================== */
+
+:root {
+  /* Farbe — hoechstens vier tragende Toene, siehe DESIGN.md Abschnitt 4.
+     Kein Reinweiss: warmes Off-White blendet weniger und wirkt
+     hochwertiger. Kein Reinschwarz fuer Text: #2E2E2E liest sich
+     weicher. Der warme Graubraun-Ton war schon im FAQ-Baustein in
+     Gebrauch — uebernommen statt einen zweiten danebenzustellen. */
+  --he-grund:      #faf8f4;   /* warmes Off-White, Seitengrund       */
+  --he-flaeche:    #ffffff;   /* Karten heben sich davon ab          */
+  --he-text:       #2e2e2e;   /* Fliesstext                          */
+  --he-gedaempft:  #6f6355;   /* Sekundaertext, warmes Graubraun     */
+  --he-linie:      rgba(17, 17, 17, 0.07);
+  --he-akzent:     #c69b3c;   /* gedaempftes Gold, sparsam einsetzen */
+
+  /* Raum — eine Skala statt zufaelliger Werte. */
+  --he-raum-1: 8px;
+  --he-raum-2: 16px;
+  --he-raum-3: 24px;
+  --he-raum-4: 40px;
+  --he-raum-5: 64px;
+  --he-raum-6: 96px;
+
+  /* Schrift — Georgia-Stapel statt Webfont.
+     Begruendung: Der Shop hat ein gemessenes Tempoproblem
+     (Praxis-Note 58 auf 30 von 34 Seiten, siehe GESAMTSCAN.md). Eine
+     zusaetzliche Schriftdatei kostet genau dort. Georgia ist auf
+     praktisch jedem Geraet vorhanden, laedt in null Millisekunden und
+     ist als Bildschirmserife ausgewachsen. Ein eigener Webfont bleibt
+     moeglich — dann aber als bewusste Tempo-Entscheidung, nicht
+     nebenbei. */
+  --he-serife: Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino,
+               'Times New Roman', serif;
+}
+
+/* --------------------------------------------------------------------------
+   1. Grundflaeche
+   -------------------------------------------------------------------------- */
+
+body {
+  background-color: var(--he-grund);
+  color: var(--he-text);
+}
+
+/* Die Farbschemata selbst stehen in config/settings_data.json — dort
+   gehoeren sie hin, damit der Theme-Editor sie anzeigt. Hier stand
+   kurzzeitig eine zweite Definition; zwei Quellen fuer dieselbe Wahrheit
+   sind ein Fehler, deshalb ist sie wieder raus. */
+
+/* --------------------------------------------------------------------------
+   2. Typografie
+   -------------------------------------------------------------------------- */
+
+/* KEINE Farbe hier setzen. Erster Versuch hatte `color: var(--he-text)`
+   in dieser Regel — damit wurde auch die Hero-Ueberschrift dunkelgrau,
+   obwohl sie auf einem dunklen Scrim steht. Gemessen: Median 3,99:1,
+   71,8 % der Flaeche unter AA. Dawns Farbschemata (hier `inverse`)
+   setzen die Textfarbe je nach Untergrund bereits richtig; eine
+   pauschale Farbregel darueber macht genau das kaputt.
+   Hier also nur Schriftschnitt und Rhythmus, nie die Farbe. */
+h1, h2, h3,
+.h0, .h1, .h2, .h3,
+.banner__heading,
+.title,
+.collection-hero__title {
+  font-family: var(--he-serife);
+  font-weight: 400;          /* Serifen wirken fett schnell plump      */
+  letter-spacing: -0.01em;   /* Grosse Serifen brauchen etwas Enge     */
+  line-height: 1.15;
+}
+
+/* Die Kleinschrift ueber Ueberschriften bleibt serifenlos — der
+   Wechsel ist die halbe Wirkung. */
+.he-eyebrow,
+.he-faq__eyebrow {
+  font-family: inherit;
+  color: var(--he-gedaempft);
+}
+
+/* --------------------------------------------------------------------------
+   3. Hero — Verlaufs-Scrim statt pauschaler Abdunklung
+   --------------------------------------------------------------------------
+   Gemessen am Ausgangszustand (scripts/kontrast.py, siehe UMBAU.md):
+   Ueberschrift 92,2 % der Flaeche unter 4,5:1, Median 1,8:1. Ursache:
+   weisser Text auf weisser Marmorwand.
+
+   Ein flaches Overlay muesste auf 55 % hoch, damit auch normaler Text
+   ueber 4,5:1 kommt — dann versinkt das Foto im Grau. Ein Verlauf
+   dunkelt nur dort ab, wo der Text steht (unten, weil
+   desktop_content_position auf bottom-center steht) und laesst das Bild
+   oben frei.
+
+   Rechnung: alpha 0.72 ueber Weiss ergibt Hintergrund #474747,
+   Kontrast gegen Weiss 9,0:1. Auch der schlechteste Fall — reines Weiss
+   im Foto — liegt damit deutlich ueber AA.
+
+   !important ist noetig, weil image-banner.liquid die Deckkraft per
+   ID-Selektor (#Banner-<id>::after) inline setzt. Nebenwirkung, bewusst
+   in Kauf genommen: Der Deckkraft-Regler im Theme-Editor wirkt fuer
+   diesen Abschnitt nicht mehr — die Abstufung steckt jetzt im Verlauf.
+   -------------------------------------------------------------------------- */
+
+.banner::after,
+.banner__media::after {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.10) 0%,
+    rgba(0, 0, 0, 0.18) 100%
+  ) !important;
+  opacity: 1 !important;
+}
+
+/* KORREKTUR 14.08.2026, nach der ersten Nachher-Aufnahme:
+   Der Verlauf allein reicht nicht. Ich hatte aus
+   `desktop_content_position: bottom-center` geschlossen, der Text stehe
+   ganz unten, und die Abdunklung dort konzentriert. Tatsaechlich sitzt
+   er in der MITTE des Banners -- dort, wo der Verlauf noch hell war.
+   Die Annahme war falsch, die Rechnung darauf wertlos.
+
+   Deshalb jetzt ein Scrim direkt hinter dem Textblock statt an einer
+   vermuteten Stelle im Bild. Das haelt unabhaengig davon, wo der Text
+   steht, welches Bild dahinter liegt und wie das Banner sich auf dem
+   Handy umbricht.
+
+   alpha 0.58 ueber Weiss ergibt Hintergrund #6B6B6B, Kontrast gegen
+   Weiss 5,2:1 -- ueber AA auch fuer normalen Text, und das ohne den
+   Verlauf darunter mitzurechnen. */
+/* NACHGEMESSEN 14.08.2026, dritte Runde: alpha 0.58 kam oben im Banner
+   nicht an — Median blieb bei 3,4:1, und zwar stabil ueber alle
+   Ausschluss-Schwellen von 0 bis 150 (11–13 % Buchstabenpixel). Es lag
+   also nicht an der Kantenglaettung, wie zuerst vermutet, sondern der
+   Hintergrund war wirklich zu hell.
+   Zeilen-Scan: oben ~155 Helligkeit, unten ~85. Dawns eigene Klassen
+   auf demselben Element (`color-…` und `gradient`) setzen ebenfalls
+   einen Hintergrund; deshalb hier `!important` und ein hoeherer Wert.
+   backdrop-filter ist raus — es war eine Stoergroesse, die sich nicht
+   nachrechnen laesst, und kostet auf schwachen Geraeten Leistung.
+   alpha 0.72 ueber Weiss ergibt #474747, Kontrast 9,0:1. */
+.banner__box {
+  background-color: rgba(18, 16, 14, 0.72) !important;
+  padding: var(--he-raum-4) var(--he-raum-3);
+  border-radius: 2px;
+}
+
+@media screen and (min-width: 750px) {
+  .banner__box {
+    padding: var(--he-raum-5) var(--he-raum-4);
+    max-width: 46rem;
+  }
+}
+
+/* Der Text bekommt zusaetzlich einen weichen Schatten. Das faengt den
+   Fall ab, dass ein kuenftiges Hero-Bild oben hell und unten dunkel
+   ist — dann traegt der Verlauf allein nicht. */
+.banner__heading,
+.banner__text {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+/* Haupt-CTA gefuellt, zweiter Knopf als Umriss. Zwei gleichrangige
+   Umriss-Knoepfe waren der Ausgangszustand — beide unsichtbar. */
+.banner__buttons .button--secondary {
+  border-color: rgba(255, 255, 255, 0.85);
+  color: #ffffff;
+  backdrop-filter: blur(2px);
+  background-color: rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   4. Produktkacheln
+   --------------------------------------------------------------------------
+   Befund 4 aus DESIGN.md: Titel wie "Schuhbank mit Sitzpolster & Stauraum
+   – Massive Optik, 110 kg belastbar, perfekt fuer Flur & Diele" sprengen
+   die Kachel und lassen das Raster unruhig wirken.
+
+   Der Titel wird auf zwei Zeilen begrenzt statt gekuerzt — der
+   vollstaendige Text bleibt auf der Produktseite und fuer Vorleseprogramme
+   erhalten, weil line-clamp nur optisch abschneidet.
+   -------------------------------------------------------------------------- */
+
+.card__heading,
+.card__heading a {
+  font-family: var(--he-serife);
+  font-weight: 400;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.card__heading {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-information {
+  padding-top: var(--he-raum-2);
+}
+
+/* Preis darf nicht im Titel untergehen. */
+.card-information .price {
+  font-weight: 600;
+  color: var(--he-text);
+}
+
+/* Karten heben sich vom warmen Grund ab. */
+.card--standard .card__inner,
+.card--card {
+  background-color: var(--he-flaeche);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+/* --------------------------------------------------------------------------
+   5. Raum
+   --------------------------------------------------------------------------
+   Grosszuegiger Weissraum ist laut Recherche der staerkste einzelne
+   Hebel fuer "hochwertig". Der Shop war durchgehend eng und dadurch
+   gleichfoermig.
+   -------------------------------------------------------------------------- */
+
+.shopify-section + .shopify-section {
+  margin-top: var(--he-raum-5);
+}
+
+@media screen and (max-width: 749px) {
+  .shopify-section + .shopify-section {
+    margin-top: var(--he-raum-4);
+  }
+}
+
+/* Abschnittsueberschriften bekommen Luft nach unten. */
+.collection__title,
+.title-wrapper-with-link {
+  margin-bottom: var(--he-raum-3);
+}

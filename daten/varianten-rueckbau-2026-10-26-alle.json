@@ -1,0 +1,102 @@
+{
+  "_zweck": "Alle am 26.10.2026 geloeschten ausverkauften Varianten, mit allem, was zum Wiederanlegen noetig ist.",
+  "_grund": "Bestand 0 bei inventoryPolicy DENY. Sie standen als Auswahl in der Variantenliste, waren aber nicht bestellbar.",
+  "_frame": "Gezaehlt ueber ALLE 96 aktiven Produkte, nicht ueber eine Stichprobe. 27 Produkte betroffen, 40 Varianten.",
+  "_nicht_gemessen": "Ob die CJ-Anbindung bei Nachschub selbst wieder anlegt.",
+  "produkte": [
+    {"handle":"hochstuhl-ergonomisch-fussstuetze-stehtisch","produkt":"gid://shopify/Product/15233220313411","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059056365891","titel":"Grau / Feste Armlehne","preis":"64.99","sku":"CJJT238885703CX","gewicht_g":11340},
+      {"id":"gid://shopify/ProductVariant/54059056398659","titel":"Grau / Verstellbare Armlehne","preis":"64.99","sku":"CJJT238885704DW","gewicht_g":10200},
+      {"id":"gid://shopify/ProductVariant/54059056431427","titel":"Pink / Feste Armlehne","preis":"64.99","sku":"CJJT238885705EV","gewicht_g":11340}],
+      "bleibt":["Schwarz / Verstellbare Armlehne"]},
+    {"handle":"aufbewahrungskorb-stoff-design","produkt":"gid://shopify/Product/15234158297411","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54063160131907","titel":"Beige / 43 x 38 cm","preis":"49.00","sku":"CJZS25977200004","gewicht_g":816},
+      {"id":"gid://shopify/ProductVariant/54063160197443","titel":"Braun / 43 x 38 cm","preis":"49.00","sku":"CJZS25977200005","gewicht_g":816},
+      {"id":"gid://shopify/ProductVariant/54063160262979","titel":"Grau-Weiss / 43 x 38 cm","preis":"49.00","sku":"CJZS25977200003","gewicht_g":816},
+      {"id":"gid://shopify/ProductVariant/54063160295747","titel":"Grau-Weiss / 51 x 33 cm","preis":"49.00","sku":"CJZS25977200006","gewicht_g":930}],
+      "bleibt":["Braun / 38 x 46 cm","Grau-Weiss / 38 x 46 cm"]},
+    {"handle":"tennisnetz-mobil-301x90-wetterfest","produkt":"gid://shopify/Product/15236166844739","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54071981670723","titel":"301 x 90.5 x 87 cm","preis":"64.99","sku":"CJJM25987540001","gewicht_g":1796},
+      {"id":"gid://shopify/ProductVariant/54071981703491","titel":"396 x 92 x 87 cm","preis":"69.99","sku":"CJJM25987540002","gewicht_g":1969},
+      {"id":"gid://shopify/ProductVariant/54071981769027","titel":"595 x 90.5 x 87 cm","preis":"89.99","sku":"CJJM25987540004","gewicht_g":2404}],
+      "bleibt":["494.5 x 90 x 87 cm"]},
+    {"handle":"metall-pflanzkuebel-modern","produkt":"gid://shopify/Product/15236443144515","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54073022906691","titel":"Schwarz / 105 x 30 x 170 cm","preis":"114.99","sku":"CJYL25979620003","gewicht_g":4082},
+      {"id":"gid://shopify/ProductVariant/54073022939459","titel":"Schwarz / 35 x 30 x 135 cm","preis":"54.99","sku":"CJYL25979620001","gewicht_g":1814},
+      {"id":"gid://shopify/ProductVariant/54073023004995","titel":"Grau / 105 x 30 x 170 cm","preis":"114.99","sku":"CJYL25979620004","gewicht_g":4445}],
+      "bleibt":["Schwarz / 70 x 30 x 135 cm"]},
+    {"handle":"trekking-rucksack-60-100-liter","produkt":"gid://shopify/Product/15236167467331","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54071991533891","titel":"Braun / 100 l","preis":"69.99","sku":"CJNS25982360005","gewicht_g":1120},
+      {"id":"gid://shopify/ProductVariant/54071991566659","titel":"Braun / 80 l","preis":"64.99","sku":"CJNS25982360003","gewicht_g":989}],
+      "bleibt":["Camouflage / 80 l"]},
+    {"handle":"hartschalen-kofferset-4-teilig","produkt":"gid://shopify/Product/15236170678595","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54072002740547","titel":"Anthrazit / 4","preis":"169.99","sku":"CJNS26001740003","gewicht_g":5307},
+      {"id":"gid://shopify/ProductVariant/54072002707779","titel":"Kaffeebraun / 4","preis":"169.99","sku":"CJNS26001740002","gewicht_g":5307}],
+      "bleibt":["Champagner / 4"]},
+    {"handle":"buerostuhl-premium-relaxfunktion-135-grad","produkt":"gid://shopify/Product/15233229128003","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059096506691","titel":"Grau","preis":"129.99","sku":"CJJT238883002BY","gewicht_g":18600}],
+      "bleibt":["Blau","Gruen"]},
+    {"handle":"outdoor-loungemoebel-aluminium-modular","produkt":"gid://shopify/Product/15233230831939","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059109351747","titel":"2x Mitte + Ecke","preis":"494.99","sku":"CJFU25987130005","gewicht_g":13494},
+      {"id":"gid://shopify/ProductVariant/54059109417283","titel":"Mittelsofa","preis":"169.99","sku":"CJFU25987130001","gewicht_g":4264}],
+      "bleibt":["2x Mittelsofa","2x Ecke + Mittelsitz","2x Ecksofa","Ecksofa","Tisch"]},
+    {"handle":"kratzbaum-katzen-kompakt-plusch","produkt":"gid://shopify/Product/15233231716675","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059110957379","titel":"Blau","preis":"44.99","sku":"CJTC25964060003","gewicht_g":1656}],
+      "bleibt":["Grau","Grau mit Pfotenmuster"]},
+    {"handle":"hundebett-xxl-kuschelig-grosse-hunde","produkt":"gid://shopify/Product/15233235222851","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059120492867","titel":"XL / Beige","preis":"69.99","sku":"CJFU25958130002","gewicht_g":1197}],
+      "bleibt":["XXL / Beige"]},
+    {"handle":"couchtisch-hochglanz-design-wohnzimmer","produkt":"gid://shopify/Product/15233235812675","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54059122000195","titel":"Weiss / 85 cm","preis":"149.99","sku":"CJFU25966140002","gewicht_g":7076}],
+      "bleibt":["Schwarz / 115 cm","Schwarz / 85 cm","Weiss / 115 cm"]},
+    {"handle":"aufbewahrungskorb-deckel-37cm-gross","produkt":"gid://shopify/Product/15234152071491","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54063140831555","titel":"Schwarz","preis":"59.00","sku":"CJZS25977190001","gewicht_g":1043}],
+      "bleibt":["Braun"]},
+    {"handle":"aufbewahrungskoerbe-modern-stoffkoerbe","produkt":"gid://shopify/Product/15234153840963","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54063146336579","titel":"Braun-Weiss","preis":"34.00","sku":"CJZS25977160002","gewicht_g":386}],
+      "bleibt":["Grau"]},
+    {"handle":"hundesofa-samt-kunstleder-95cm","produkt":"gid://shopify/Product/15235572400451","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068753891651","titel":"Blau / 95 x 55 x 30 cm / Samt","preis":"119.00","sku":"CJFU25964400001","gewicht_g":4491}],
+      "bleibt":["Dunkelgrau / 70 x 45 x 30 cm / Samt","Hellgrau / 95 x 55 x 30 cm / Samt"]},
+    {"handle":"hundesofa-samt-kunstleder-90cm","produkt":"gid://shopify/Product/15235575087427","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068758511939","titel":"Dunkelgrau / 90 x 53 x 30 cm / weicher Samtstoff","preis":"134.00","sku":"CJFU25964430002","gewicht_g":4286}],
+      "bleibt":["Schwarz / Kunstleder","Hellgrau / Samtstoff"]},
+    {"handle":"hundesofa-samt-80cm-gepolstert","produkt":"gid://shopify/Product/15235600384323","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068826833219","titel":"Schwarz / 80 x 45 x 30 cm / Samt","preis":"104.00","sku":"CJFU25964440002","gewicht_g":3289}],
+      "bleibt":["Dunkelgrau / 80 x 45 x 30 cm / Samt"]},
+    {"handle":"schuhbank-sitzpolster-102cm-massiv","produkt":"gid://shopify/Product/15235586064707","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068803928387","titel":"Schwarz","preis":"104.00","sku":"CJFU25996730002","gewicht_g":11884},
+      {"id":"gid://shopify/ProductVariant/54068803961155","titel":"Schwarze Eichenoptik","preis":"104.00","sku":"CJFU25996730007","gewicht_g":10841}],
+      "bleibt":["Betongrau","Weiss"]},
+    {"handle":"schuhbank-kompakt-62cm-sitzpolster","produkt":"gid://shopify/Product/15235619520835","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068852064579","titel":"Schwarz","preis":"89.00","sku":"CJFU25996740002","gewicht_g":6573}],
+      "bleibt":["Schwarze Eichenoptik","Betongrau","Altholz","Raucheiche","Sonoma Grau","Weiss"]},
+    {"handle":"handtuch-set-12-teilig-baumwolle","produkt":"gid://shopify/Product/15235658121539","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54068935983427","titel":"Anthrazit","preis":"59.00","sku":"CJYS25958750001","gewicht_g":1048}],
+      "bleibt":["Schwarz","Grau"]},
+    {"handle":"gartenstuhl-verstellbar-pe-rattan","produkt":"gid://shopify/Product/15236120838467","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54071681646915","titel":"Hellgrau / Liniengeflecht","preis":"284.00","sku":"CJFU25980130006","gewicht_g":9299}],
+      "bleibt":["Schwarz x2","Braun x2","Grau / Liniengeflecht"]},
+    {"handle":"hartschalen-kofferset-3-teilig","produkt":"gid://shopify/Product/15236167827779","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54071993401667","titel":"Pink / 1 / 4","preis":"199.99","sku":"CJNS26001910006","gewicht_g":4740}],
+      "bleibt":["neun weitere Farben"]},
+    {"handle":"hartschalen-kofferset-3-teilig-abs","produkt":"gid://shopify/Product/15236168483139","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54071994745155","titel":"Silber / 4","preis":"119.99","sku":"CJNS26001710002","gewicht_g":3878}],
+      "bleibt":["Schwarz / 4"]},
+    {"handle":"holz-pflanzkasten-kiefernholz-60cm","produkt":"gid://shopify/Product/15236172906819","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54072010506563","titel":"Natur-Kiefer / 1","preis":"49.90","sku":"CJYL25997290001","gewicht_g":2903}],
+      "bleibt":["Natur-Kiefer / 2"]},
+    {"handle":"pflanzkasten-akazienholz-stahl-80cm","produkt":"gid://shopify/Product/15236174774595","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54072015356227","titel":"110 x 30 x 27.5 cm","preis":"114.99","sku":"CJYL25979650002","gewicht_g":3946}],
+      "bleibt":["80 x 30 x 27.5 cm"]},
+    {"handle":"design-pflanzkuebel-stahl-wetterfest","produkt":"gid://shopify/Product/15236179493187","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54072024531267","titel":"Wetterfester Stahl / 50 x 32 x 40 cm","preis":"64.99","sku":"CJYL26001350002","gewicht_g":2767}],
+      "bleibt":["32 x 32 x 40 cm"]},
+    {"handle":"waschmaschinenschrank-ueberbau","produkt":"gid://shopify/Product/15236457693507","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54073054232899","titel":"Schwarz / 1","preis":"89.99","sku":"CJJY25992150002","gewicht_g":9979}],
+      "bleibt":["sieben weitere Farben"]},
+    {"handle":"transportroller-2er-set-moebel","produkt":"gid://shopify/Product/15243709612355","geloescht":[
+      {"id":"gid://shopify/ProductVariant/54102020129091","titel":"80 x 55 x 11.5 cm","preis":"94.99","sku":"CJZD25963490002","gewicht_g":5321}],
+      "bleibt":["50 x 35 x 11.5 cm"]}
+  ]
+}

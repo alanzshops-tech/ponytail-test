@@ -1,0 +1,58 @@
+name: Bild-Zoom pruefen
+
+# Prueft auf dem echten Handy-Viewport, ob Pinch-Zoom technisch erlaubt
+# ist und ob ein Tap auf das Produktbild eine vergroesserte Ansicht
+# oeffnet. Siehe PRODUKTBILDER.md: rund 40 % der Shops scheitern daran
+# (Baymard Institute) -- ein Screenshot allein beweist das nicht, nur
+# ein echter Tap im Browser.
+on:
+  workflow_dispatch:
+    inputs:
+      pfad:
+        description: "Produktpfad, z. B. /products/led-taschenlampe-aufladbar-zoom-warnlicht"
+        required: true
+        default: "/products/led-taschenlampe-aufladbar-zoom-warnlicht"
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Browser einrichten
+        run: |
+          pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+
+      - name: Zoom pruefen
+        run: python3 scripts/zoomprobe.py --pfad "${{ inputs.pfad }}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f ZOOMPROBE.md ] && cat ZOOMPROBE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bilder ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Zoomprobe vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

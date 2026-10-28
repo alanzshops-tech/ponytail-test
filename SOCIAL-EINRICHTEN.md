@@ -1,0 +1,420 @@
+# Einrichten: von null bis zum ersten Beitrag
+
+Begleitpapier zu `scripts/posten.py` und `.github/workflows/posten.yml`.
+Die Herleitung, **warum** das kostenlos geht, steht in
+`SOCIAL-SELBSTHOSTEN.md`. Hier steht nur, **was zu tun ist**.
+
+Die Stufen sind nach Aufwand sortiert, nicht nach Wichtigkeit. Stufe 1
+ist der bequeme Einstieg — aber für Homeeins liegt die Reichweite bei
+Instagram, und wer die will, fängt bei **Stufe 2** an. Das kostet einen
+Abend in Metas Entwicklerkonsole statt zwanzig Minuten. Die Stufen sind
+voneinander unabhängig; man kann jede einzeln machen.
+
+**Für den Instagram-Start direkt zu [Stufe 2](#stufe-2--meta-instagram-und-facebook).**
+
+---
+
+## Der Ablauf für jeden Kanal ist immer derselbe
+
+1. Zugangsdaten besorgen (siehe unten)
+2. Als Secret eintragen: **Settings → Secrets and variables → Actions**
+3. **Actions → Posten → Run workflow**, Haken bei **`zugang`**
+4. Steht dort `OK`, weiter. Steht dort `FEHLER`, sagt die Meldung was fehlt
+5. Erst dann ein echter Beitrag mit `probe: false`
+
+**Schritt 3 ist der wichtigste.** Die Zugangsprobe ruft je Kanal einen
+lesenden Endpunkt auf, veröffentlicht nichts und kann beliebig oft
+laufen. Sie sagt nicht nur „geht nicht", sondern was zu tun ist —
+abgelaufenes Token, fehlende Berechtigung oder falsche ID sind drei
+verschiedene Meldungen.
+
+---
+
+## Stufe 1 — die vier ohne Antrag (ein Abend)
+
+### Telegram
+1. In Telegram **@BotFather** anschreiben, `/newbot`, Namen vergeben
+2. Der Bot-Token kommt sofort → Secret `TELEGRAM_BOT_TOKEN`
+3. Bot als **Administrator** in den eigenen Kanal aufnehmen
+4. Secret `TELEGRAM_CHAT_ID` = `@kanalname`
+
+### Discord
+1. Kanal → **Bearbeiten → Integrationen → Webhooks → Neuer Webhook**
+2. URL kopieren → Secret `DISCORD_WEBHOOK`
+
+### Mastodon
+1. **Einstellungen → Entwicklung → Neue Anwendung**
+2. Recht **`write:statuses`** genügt
+3. „Zugriffsschlüssel" kopieren → Secret `MASTODON_TOKEN`
+4. Bei anderem Server als mastodon.social: `MASTODON_SERVER` setzen
+
+### Bluesky — der kürzeste Weg von allen, geht vom Handy
+
+1. **Einstellungen → Datenschutz und Sicherheit → App-Passwörter**
+2. **App-Passwort hinzufügen**, Namen vergeben (z. B. `homeeins-posten`)
+3. Kopieren — es sieht aus wie `abcd-efgh-ijkl-mnop`
+4. Als Secret **`BLUESKY_APP_PASSWORD`** eintragen
+
+**Das ist alles.** Das Handle steht fest im Skript
+(`homeeins.bsky.social`) — es ist öffentlich und gehört nicht in die
+Secrets. `BLUESKY_HANDLE` gibt es weiterhin und gewinnt, falls einmal
+ein anderes Konto bespielt werden soll.
+
+> **Nicht das Kontopasswort verwenden.** App-Passwörter lassen sich
+> einzeln zurückziehen, das Kontopasswort nicht.
+
+---
+
+## Stufe 2 — Meta: Instagram und Facebook
+
+### Es gibt zwei Wege. Nimm den ersten.
+
+Meta bietet für Instagram zwei getrennte Verfahren an. Sie sehen
+ähnlich aus, haben aber verschiedene Adressen, verschiedene Rechte und
+verschiedene Ablauffristen. Wer sie vermischt, bekommt Token-Fehler,
+die nach kaputten Zugangsdaten aussehen, obwohl nur die Adresse nicht
+passt.
+
+| | **Instagram-Login** *(empfohlen)* | Facebook-Login |
+|---|---|---|
+| Adresse | `graph.instagram.com` | `graph.facebook.com` |
+| Facebook-Seite nötig? | **nein** | ja, verknüpft |
+| Token | 60 Tage, verlängerbar | Seiten-Token, läuft nicht ab |
+| Secret nötig? | **keins** | **keins** — am Token erkannt |
+| `token_erneuern` zuständig? | ja | nein (braucht es nicht) |
+
+Für Homeeins ist der **Instagram-Login** der richtige: weniger
+Schritte, keine Facebook-Seite als Zwischenglied, und der
+Verlängerungsbefehl im Werkzeug bedient genau diesen Weg.
+
+### Voraussetzung, an der die meisten scheitern
+
+Das Instagram-Konto muss ein **Business- oder Creator-Konto** sein. Ein
+privates Konto kann über die API nicht veröffentlichen — die API
+antwortet dann mit einem Berechtigungsfehler, der aussieht, als fehle
+der App ein Recht. Umstellen in der Instagram-App:
+**Einstellungen → Konto → Kontotyp**.
+
+Zweitens, und in mehreren fremden Anleitungen als der meistübersehene
+Punkt genannt: Das Konto muss der App **bekannt** sein — entweder als
+Administrator, oder unter **App-Rollen → Instagram-Tester**, und die
+Einladung muss in der Instagram-App unter **Einstellungen → Apps und
+Websites** angenommen werden. Nicht nachgemessen (diese
+Arbeitsumgebung erreicht Meta nicht); wenn das Token erzeugt wird und
+trotzdem nichts geht, ist das die erste Stelle zum Nachsehen.
+
+### Die Schritte
+
+1. Instagram-Konto auf **Business** oder **Creator** umstellen (siehe
+   oben)
+2. `developers.facebook.com` → **Meine Apps → App erstellen**
+3. Als App-Typ **Business** wählen
+4. Produkt hinzufügen: **Instagram** → **„API setup with Instagram
+   business login"** (NICHT „API setup with Facebook login")
+5. Die App bleibt im **Entwicklungsmodus** — das ist gewollt und der
+   ganze Grund, warum das kostenlos und ohne App-Review geht. Solange
+   nur auf eigene Konten gepostet wird, ist kein Review nötig.
+6. Dich selbst als **Administrator** der App eintragen. Das ist der
+   Punkt, an dem der Entwicklungsmodus greift — ohne diesen Eintrag
+   gilt dein Konto der App als fremd.
+7. Rechte: **`instagram_business_basic`** und
+   **`instagram_business_content_publish`**. Ohne das zweite kann die
+   App lesen, aber nicht posten.
+8. Auf derselben Seite, Abschnitt **„2. Generate access tokens"**:
+   Dort steht dein Instagram-Konto mit einem Knopf **„Generate
+   token"**. Das Token aus **diesem Knopf ist langlebig (60 Tage)**.
+   Token aus dem Login-Fluss gelten nur **eine Stunde** — die sind
+   hier falsch.
+9. Ein Secret eintragen: **`INSTAGRAM_TOKEN`**. Mehr nicht.
+
+    > **`INSTAGRAM_USER_ID` wird nicht gebraucht.** Hier stand bis zum
+    > 22.10.2026, die Konto-ID müsse nachgetragen werden. Das war
+    > falsch: `instagram()` holt sie beim Senden selbst über
+    > `/me?fields=user_id`. Die Zugangsprobe hat trotzdem danach
+    > verlangt — ein Messgerät, das nach einem Secret schickt, das
+    > niemand braucht. Behoben und in beide Richtungen geprüft.
+
+    > **Kein Secret mit dem Wert `1` oder einer anderen kurzen Zahl
+    > anlegen.** GitHub ersetzt jedes Vorkommen eines Secret-Wertes im
+    > Protokoll durch `***`. Ein Secret `1` schwärzt jede `1` im ganzen
+    > Protokoll — aus `"code":190` wird `"code":***9`, aus einem Datum
+    > `2025-09-***9`. Genau das ist am 03.09.2026 passiert und hat die
+    > Fehlersuche behindert. Deshalb ist der Instagram-Login jetzt der
+    > Standard und braucht gar kein Schaltsecret mehr.
+10. **Actions → Posten → Run workflow**, `kanaele` = `instagram`,
+    Haken bei **`zugang`**
+
+Bei Schritt 10 muss dort stehen:
+
+```
+  instagram  OK — Konto homeeins (Instagram-Login), Konto-ID 1784…
+             beim Senden selbst ermittelt. INSTAGRAM_USER_ID ist
+             nicht nötig
+```
+
+Steht in der Klammer **Facebook-Login**, ist versehentlich
+`INSTAGRAM_UEBER_FACEBOOK` gesetzt. Steht dort ein `FEHLER`, nennt die
+Meldung den Grund — bei einem abgelaufenen Token auch das Datum.
+
+> Die Menübezeichnungen in Metas Konsole ändern sich mehrmals im Jahr,
+> und diese Arbeitsumgebung erreicht `developers.facebook.com` nicht —
+> die Schrittnamen oben sind also nicht nachgemessen. Was nachgemessen
+> ist, sind die Rechte, die Adressen und die Secret-Namen; die prüft
+> die Zugangsprobe. Wenn ein Menü anders heißt, such nach dem Recht
+> `instagram_business_content_publish` — daran hängt alles.
+
+### Der Graph API Explorer — der Umweg, der vier Runden gekostet hat
+
+**Nimm ihn nur, wenn der Weg oben nicht geht.** Er führt über eine
+Facebook-Seite, und genau dort ist die Einrichtung am 22.10.2026
+hängengeblieben: Die Seitenliste kam leer zurück, und eine leere Liste
+heißt bei Meta entweder „Recht fehlt" oder „Seite im Anmeldefenster
+nicht angehakt" — beides sieht in der Antwort gleich aus. Der Weg über
+**„API setup with Instagram business login"** hat diese Stelle gar
+nicht.
+
+Es geht hier auf **einer einzigen Seite** — vorausgesetzt, das
+Instagram-Konto ist mit einer Facebook-Seite verknüpft
+(Instagram-App → Einstellungen → Verknüpfte Konten).
+
+`developers.facebook.com/tools/explorer`
+
+1. Oben rechts die eigene App auswählen
+2. Bei **Meta App** auf **User Token** stellen
+3. Unter **Berechtigungen hinzufügen** diese **fünf** eintragen:
+   `instagram_basic`, `instagram_content_publish`,
+   `pages_show_list`, `pages_read_engagement`,
+   **`pages_manage_posts`**
+4. **Generate Access Token** → einmal anmelden, Seite und
+   Instagram-Konto **ausdrücklich anhaken**
+5. Mit dem Kopiersymbol kopieren
+
+> **Der Haken bei Schritt 4 ist die häufigste Fehlerquelle.** Facebook
+> fragt „Welche Seiten möchtest du verwenden?" und wählt **nichts**
+> vor. Wer durchklickt, bekommt ein gültiges Token, das keine einzige
+> Seite sieht. Meta meldet das nicht als Fehler, sondern gibt eine
+> leere Liste zurück — die Zugangsprobe übersetzt es.
+
+**Die fünfte Berechtigung schaltet Facebook mit frei.** Ohne
+`pages_manage_posts` funktioniert Instagram, Facebook aber nicht.
+Nachträglich hinzuzufügen hieße: dasselbe Anmeldefenster ein zweites
+Mal.
+
+> Das Umschalten von **User Token** auf **Page Token** ist **nicht**
+> nötig. Beide Tokenarten funktionieren: Bei einem Nutzer-Token holt
+> sich das Werkzeug über `/me/accounts` die Seite samt ihrem eigenen
+> Token. Der Umschalter sitzt in einem leicht übersehenen Auswahlfeld,
+> und ein Nutzer-Token an der falschen Stelle meldet Meta als
+> „(#100) Tried accessing nonexisting field
+> (instagram_business_account)" — was klingt, als fehle eine
+> Berechtigung. Es fehlt aber nichts.
+
+Dann **ein** Secret:
+
+| Name | Wert |
+|---|---|
+| `INSTAGRAM_TOKEN` | das Seiten-Token (beginnt mit `EAA`) |
+
+Mehr nicht. Welcher der beiden Meta-Wege gilt, erkennt das Werkzeug am
+Präfix des Tokens (`EAA` → Facebook, `IGAA`/`IGQ` → Instagram-Login),
+und die Konto-ID holt die Zugangsprobe selbst — auf diesem Weg fragt
+sie die Seite nach dem verknüpften Instagram-Konto.
+
+> `INSTAGRAM_UEBER_FACEBOOK` gibt es weiterhin als Notüberschreibung,
+> falls Meta die Präfixe eines Tages ändert. Gesetzt gewinnt es gegen
+> die Erkennung. Im Normalfall braucht es das nicht.
+
+> Das Seiten-Token aus dem Explorer ist zunächst kurzlebig. Läuft es
+> nach ein paar Stunden ab, meldet die Zugangsprobe das als
+> „Token abgelaufen" — dann im Explorer neu erzeugen. Ein Seiten-Token
+> aus einem **langlebigen** Nutzertoken läuft dagegen nicht ab.
+
+### Facebook braucht keine eigenen Secrets — aber nur auf dem Seitenweg
+
+**Das gilt nur für den Facebook-Login.** Ein Token aus dem
+Instagram-Login gehört dem Instagram-Konto und kennt überhaupt keine
+Facebook-Seite; `/me/accounts` antwortet darauf mit einer
+OAuthException, die wie ein kaputtes Token aussieht. Das Werkzeug
+liest jetzt den Präfix und überspringt Facebook mit einer klaren
+Ansage, statt in diesen Fehler zu laufen:
+
+```
+facebook  übersprungen — INSTAGRAM_TOKEN stammt aus dem
+          Instagram-Login und gilt nur für Instagram. Für Facebook
+          braucht es FACEBOOK_PAGE_TOKEN
+```
+
+Auf dem **Facebook-Login** dagegen hängen Instagram und Facebook an
+**demselben Seiten-Token**, und das löst das Werkzeug aus
+`INSTAGRAM_TOKEN` auf. Der Kanal `facebook` läuft dann mit, sobald
+Instagram läuft — vorausgesetzt, `pages_manage_posts` war bei den
+Berechtigungen dabei.
+
+Der Probelauf sagt, welches Token er nehmen würde:
+
+```
+facebook  Probe: …/photos (aus INSTAGRAM_TOKEN abgeleitet), mit Bild
+```
+
+`FACEBOOK_PAGE_TOKEN` und `FACEBOOK_PAGE_ID` gelten weiterhin und
+gewinnen gegen den Rückfall — nötig nur, wenn auf eine **andere** Seite
+gepostet werden soll als die, an der das Instagram-Konto hängt.
+
+### Danach: alle zwei Monate das Token verlängern
+
+Token aus dem Instagram-Login laufen nach rund 60 Tagen ab.
+**Actions → Posten → Run workflow**, Haken bei **`token_erneuern`**.
+Die Ausgabe nennt die neue Restlaufzeit; das neue Token von Hand ins
+Secret `INSTAGRAM_TOKEN` übertragen.
+
+Auf dem Facebook-Login-Weg ist das nicht nötig — ein Seiten-Token aus
+einem langlebigen Nutzertoken läuft nicht ab. Der Befehl überspringt
+dort und sagt das auch.
+
+> Automatisch ginge die Verlängerung nur, wenn das Token im Repository
+> läge — und Zugangsdaten gehören nicht dorthin (`CLAUDE.md`, Regel 4).
+
+**Gemessen am 22.10.2026:** Das im Secret `INSTAGRAM_TOKEN` liegende
+Token ist **am 03.09.2026 abgelaufen** — Metas Antwort nennt das Datum
+selbst.
+
+> **Korrektur vom 28.10.2026.** Hier stand zuerst „09.10.2026". Diese
+> Zahl stand in keiner Messung: Die Antwort war damals bei
+> „has expired on Thurs" abgeschnitten, und ich habe das Datum
+> ergänzt, statt es offenzulassen. Erst `ablaufdatum()` hat es
+> sichtbar gemacht: **Thursday, 03-Sep-26 11:00:00 PDT**. Der Fehler
+> ist dieselbe Sorte, die dieses Projekt sonst bei anderen findet —
+> eine Zahl nennen, die nicht gemessen wurde. Die Zugangsprobe schneidet es jetzt heraus und zeigt es an,
+weil es die einzige Angabe ist, an der sich ein frisch erzeugtes Token
+von dem alten unterscheiden lässt.
+
+Was daraus **nicht** folgt: welche Berechtigungen fehlen. Ein
+abgelaufenes Token beantwortet die Frage nicht, Meta prüft die Rechte
+gar nicht erst. `meta_rechte()` steht bereit, kommt aber erst am neuen
+Token zum Zug.
+
+### Bilder müssen öffentlich erreichbar sein
+
+Instagram holt das Bild selbst ab. Ein Pfad im Repository geht nicht,
+eine `http`-Adresse auch nicht. **Die Shopify-CDN-Adressen der
+Produktbilder sind öffentlich und funktionieren** — im Shop-Adminbereich
+das Bild öffnen und die Adresse kopieren.
+
+---
+
+## Was schon feststeht (aus Metricool ausgelesen, 03.09.2026)
+
+Die Metricool-Verbindung des Kontos `alanz.shops@gmail.com` nennt für
+die Marke **Homeeins** diese Kennungen. Sie sind gemessen, nicht
+geraten — und ersparen das Suchen in den jeweiligen Konsolen:
+
+| Kanal | Kennung | wofür |
+|---|---|---|
+| Facebook-Seite | `114802748346176` | `FACEBOOK_PAGE_ID` |
+| Instagram | `homeeins.de` | der Kontoname |
+| Bluesky | `homeeins.bsky.social` | `BLUESKY_HANDLE` |
+| TikTok | `homeeins.de` | |
+| YouTube | `UCfj7YreSwaqWj_whl0ivQRw` | Kanal-ID |
+| Pinterest | `homeeins` | |
+
+Keine davon ist ein Geheimnis — es sind öffentliche Kennungen, keine
+Zugangsdaten. Deshalb dürfen sie hier stehen (`CLAUDE.md`, Regel 4
+betrifft Schlüssel, nicht Namen).
+
+**Der wichtigste Schluss daraus:** Metricool veröffentlicht auf
+Instagram. Das geht nur mit einem **Business- oder Creator-Konto, das
+mit einer Facebook-Seite verknüpft ist**. Beides ist also bereits
+erfüllt — die häufigste Fehlerquelle der ganzen Einrichtung fällt
+damit weg, ohne dass wir sie prüfen müssen.
+
+---
+
+## Stufe 3 — TikTok
+
+**Aufwand ehrlich eingeschätzt:** Das ist die aufwendigste der drei
+Stufen, nicht die einfachste. Eigene App, eigenes Produkt, eigener
+OAuth-Durchlauf — dieselbe Art Konsole wie bei Meta, mit mehr
+Schritten. Am Telefon ist es kaum zu machen.
+
+1. `developers.tiktok.com` → App anlegen
+2. Produkt **Content Posting API** hinzufügen
+3. Scope **`video.upload`** — *nicht* `video.publish`. Der erste
+   braucht kein Audit, der zweite schon.
+4. Login-Kit durchlaufen, Zugriffstoken → Secret `TIKTOK_ACCESS_TOKEN`
+
+**Aus dem Instagram-Weg gelernt und hier vorweggenommen:** Das Werkzeug
+prüft vor dem ersten Aufruf, ob überhaupt ein Token eingetragen ist
+oder aus Versehen der **Client Key** bzw. das **Client Secret** — die
+stehen in TikToks Konsole direkt daneben und sind deutlich kürzer.
+Ebenso, ob die Videoadresse `https` ist. Beides hat bei Instagram je
+eine Runde gekostet.
+
+> **Was hier nicht nachgemessen ist:** die Menüführung von TikToks
+> Konsole und das Format des Tokens. Diese Arbeitsumgebung erreicht
+> `developers.tiktok.com` nicht. Deshalb prüft das Werkzeug bei TikTok
+> ausdrücklich **kein** Präfix — nur was formatunabhängig feststeht
+> (Leerzeichen, reine Ziffernfolge, zu kurz). Eine aus der Erinnerung
+> geschriebene Musterliste hat in diesem Repository schon dreimal
+> gesunde Fälle beanstandet.
+
+**Das Video landet als Entwurf im TikTok-Postfach.** Veröffentlicht
+wird mit einem Fingertipp in der App. Das ist der Preis dafür, kein
+Auditverfahren zu durchlaufen.
+
+Zur Videoquelle: Das Werkzeug versucht zuerst `PULL_FROM_URL` (TikTok
+holt selbst) und weicht bei einer Domain-Beanstandung automatisch auf
+`FILE_UPLOAD` aus — dabei lädt das Skript das Video herunter und
+schiebt die Bytes selbst hoch. **Keine Domain-Verifizierung nötig.**
+
+---
+
+## Wenn etwas nicht geht
+
+| Meldung | Bedeutung |
+|---|---|
+| `Token ungültig oder abgelaufen` | Bei Instagram: `token_erneuern`. Sonst neu erzeugen |
+| `Berechtigung fehlt` | App hat das Recht nicht, **oder** das Instagram-Konto ist privat statt Business |
+| `ID stimmt nicht` | Konto-, Seiten- oder Kanal-ID prüfen |
+| `url_ownership_unverified` | passiert automatisch — das Werkzeug weicht auf FILE_UPLOAD aus |
+| `übersprungen (Instagram braucht ein Bild)` | `bild` mit einer öffentlichen `https`-Adresse füllen |
+| `ÜBERSPRUNGEN — Bild muss öffentlich per https` | `http` reicht nicht, Instagram holt es selbst ab |
+| Zugangsprobe sagt `(Facebook-Login)`, obwohl Instagram-Login eingerichtet ist | Secret `INSTAGRAM_UEBER_FACEBOOK` ist gesetzt und gehört weg |
+| `Cannot parse access token` | **Nicht abgelaufen** — die Zeichenkette ist gar kein Token. Vollständig neu kopieren; nicht App-ID oder App-Geheimnis erwischen |
+| `das eingetragene Token …` | Die Zugangsprobe hat schon an der Gestalt gesehen, was eingetragen wurde — Ziffernfolge, App-Geheimnis, Facebook-Token, abgeschnitten oder mit Leerzeichen. Der Satz nennt den Fall |
+
+### Woran man das Richtige erkennt
+
+Auf der Einrichtungsseite stehen mehrere Werte untereinander. Nur einer
+davon ist das Token:
+
+| | sieht so aus | |
+|---|---|---|
+| App-ID | 15–16 **Ziffern** | ❌ |
+| App-Geheimnis | 32 Zeichen | ❌ |
+| Konto-ID | 17 Ziffern, ab `1784…` | ❌ (holt die Zugangsprobe selbst) |
+| **Zugriffstoken** | **~200 Zeichen, beginnt mit `IGAA` oder `IGQ`** | ✅ |
+
+Ein Token, das mit `EAA` anfängt, ist ein **Facebook**-Token — richtig
+für die Seite, falsch für diesen Weg.
+
+**Nimm das Kopiersymbol, nicht die Maus.** Bei 200 Zeichen markiert ein
+Doppelklick nur einen Teil, und ein halbes Token meldet Meta als
+„Cannot parse access token" — dieselbe Meldung wie bei einem völlig
+falschen Wert.
+
+Die Zugangsprobe (`zugang: true`) übersetzt die API-Meldungen in diese
+Sätze. Sie lässt sich beliebig oft laufen, weil sie nichts postet.
+
+---
+
+## Was bewusst nicht gebaut ist
+
+**Kein Browser-Automat.** Es wäre technisch möglich, mit dem
+vorhandenen Playwright einen angemeldeten Browser fernzusteuern und so
+ganz ohne API zu posten — kostenlos und ohne jedes Limit. Dagegen
+sprechen zwei Dinge: Es verstößt bei den meisten Plattformen gegen die
+Nutzungsbedingungen, und es bricht bei jeder Oberflächenänderung. Der
+API-Weg ist langweiliger und hält.
+
+**Keine automatische Token-Ablage.** Siehe oben — Zugangsdaten gehören
+nicht ins Repository.
