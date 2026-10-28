@@ -239,3 +239,55 @@ zum nachgewiesenen Muster. Die Reihenfolge nach heutiger Messung:
 *Gemessen über die Shopify-Admin-Anbindung, 22.10.2026. Die
 Stichprobe für Titel, Rabatt-Texte und Adressen umfasst die ersten 50
 der 74 Produkte im Preisband; die übrigen 24 sind nicht geprüft.*
+
+## ⚠️ 28.10.2026: Die SEO-Titel von heute früh zielten ins Leere
+
+Google Trends, 12 Monate, Deutschland, Gruppe `hundemoebel-nische`.
+Relativwerte innerhalb der Gruppe, `hundebett` als Maßstab:
+
+| Begriff | Schnitt | Spitze | letzte 4 Wochen |
+|---|---:|---:|---:|
+| **hundebett** | **74,8** | 100 | 87,0 |
+| orthopädisches hundebett | 6,7 | 11 | 8,0 |
+| hundesofa | 3,2 | 7 | 3,2 |
+| hundebett xxl | 2,1 | 4 | 2,5 |
+| **hundebett erhöht** | **0,0** | 0 | 0,0 |
+
+**Ich hatte heute früh sechs SEO-Titel auf „Erhöhtes Hundebett …"
+gebaut.** Der Begriff liegt über zwölf Monate bei null. Die Titel waren
+sauber geschrieben, gut formatiert — und auf einen Suchbegriff
+optimiert, den niemand eingibt.
+
+Korrigiert: Alle sechs führen jetzt mit **„Hundebett"** plus Maß und
+Material. Der beschreibende Teil bleibt, die Reihenfolge ändert sich.
+
+```
+vorher:   Erhöhtes Hundebett 95 cm – Kunstleder & Samt – Homeeins
+nachher:  Hundebett 95 cm – Kunstleder & Samt, bis 50 kg – Homeeins
+```
+
+**Was eine 0,0 bei Google Trends wirklich heißt:** nicht „niemand
+sucht das", sondern „zu selten, um gegen den Gruppenhöchstwert
+gemessen zu werden". Für die Titelwahl läuft es aufs Gleiche hinaus —
+als Hauptbegriff taugt er nicht.
+
+**Nicht gemessen:** ob „mit Beinen", „bis 50 kg" oder „gepolstert" als
+Zusatz gesucht werden. Die Maße stehen drin, weil sie die Frage
+beantworten, die ein Käufer wirklich hat.
+
+### Der Befund, der mehr wert ist als die Titel
+
+`hundebett` steht im **November und Dezember bei 92 gegenüber 75 im
+Jahresschnitt** — die Spitze des Jahres liegt am 23.11.2025 bei 100.
+
+Hundebetten sind ein **Weihnachtsgeschenk**. Das deckt sich exakt mit
+dem einzigen belegten Kaufmuster dieses Shops: alle sieben jemals
+verkauften Artikel waren verschenkbare Wohn-Deko zwischen 30 und
+130 €. Das Fenster ist offen und schließt sich Ende Dezember.
+
+**`orthopädisches hundebett` ist mit 6,7 der stärkste Nischenbegriff
+— doppelt so stark wie `hundesofa`.** Als Titel verwendbar ist er
+trotzdem nur, wenn ein Produkt wirklich orthopädisch ist. Die
+vorhandenen sind Samt-Sofas, keine Memory-Foam-Betten. Eine
+Produkteigenschaft zu behaupten, die es nicht gibt, wäre dieselbe
+Sorte Fehler wie eine erfundene Frist.
