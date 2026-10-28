@@ -275,8 +275,16 @@ dort und sagt das auch.
 > läge — und Zugangsdaten gehören nicht dorthin (`CLAUDE.md`, Regel 4).
 
 **Gemessen am 22.10.2026:** Das im Secret `INSTAGRAM_TOKEN` liegende
-Token ist **am 09.10.2026 abgelaufen** — Metas Antwort nennt das Datum
-selbst. Die Zugangsprobe schneidet es jetzt heraus und zeigt es an,
+Token ist **am 03.09.2026 abgelaufen** — Metas Antwort nennt das Datum
+selbst.
+
+> **Korrektur vom 28.10.2026.** Hier stand zuerst „09.10.2026". Diese
+> Zahl stand in keiner Messung: Die Antwort war damals bei
+> „has expired on Thurs" abgeschnitten, und ich habe das Datum
+> ergänzt, statt es offenzulassen. Erst `ablaufdatum()` hat es
+> sichtbar gemacht: **Thursday, 03-Sep-26 11:00:00 PDT**. Der Fehler
+> ist dieselbe Sorte, die dieses Projekt sonst bei anderen findet —
+> eine Zahl nennen, die nicht gemessen wurde. Die Zugangsprobe schneidet es jetzt heraus und zeigt es an,
 weil es die einzige Angabe ist, an der sich ein frisch erzeugtes Token
 von dem alten unterscheiden lässt.
 
