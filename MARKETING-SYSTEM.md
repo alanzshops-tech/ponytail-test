@@ -82,3 +82,57 @@ Marketing-Playbooks empfehlen routinemäßig Verknappungs-Zähler,
 Bewertungen vor dem ersten Käufer und Kalt-E-Mails an Firmen. Alles drei
 ist hier verboten. **`CLAUDE.md` schlägt jeden Skill.** Wenn ein Skill
 etwas vorschlägt, das hier nicht geht, wird es gemeldet statt ausgeführt.
+
+
+## Dauer-Agenten (Routines) — Stand 28.10.2026
+
+Die 24 Agenten des Plugins sind Unter-Agenten *innerhalb* einer
+Sitzung, keine laufenden Prozesse. Was dauerhaft arbeitet, sind
+**Routines** — jede mit genau einem Zuständigkeitsgebiet.
+
+| Routine | Takt | Gebiet | Connectors |
+|---|---|---|---|
+| Homeeins: posten und Shop verbessern | Mo/Mi/Fr 08:00 | Social + Sortiment | **fehlen** |
+| Homeeins SEO-Agent (Sichtbarkeit) | Di 07:41 | nur organische Suche | **fehlen** |
+| Homeeins Wochen-Check | Mo 08:50 | Bericht an den Inhaber | alle 17 |
+| Wöchentliche GSC-Erinnerung | Mo 08:00 | Nachfrage GSC-Lauf | — |
+
+### ⚠️ Der Grund, warum zwei davon nichts bewirken
+
+`create_trigger` antwortet auf den Parameter `connectors`:
+
+```
+the connectors parameter is not available for this organization
+```
+
+Zweimal versucht, am 22.10. und am 28.10. **Ein Agent ohne Connectors
+sieht weder Shopify noch Metricool.** Die Routine „posten und Shop
+verbessern" ist am 28.10. um 08:17 gelaufen und hat nichts tun können;
+sie steht seit dem 22.10. so da.
+
+**Nur ein Mensch kann das beheben:** claude.ai → Routines → Routine
+öffnen → Connectors → **Shopify** und **Metricool** anhaken.
+
+Beide Routine-Texte fangen den Fall ab: Fehlen die Connectors, melden
+sie das in einem Satz und beenden — statt eine Ersatzhandlung zu
+erfinden.
+
+## Bewertungen — was geht und was nicht
+
+**Importierte, erfundene oder gekaufte Bewertungen: nein.** Anhang zu
+§ 3 Abs. 3 Nr. 23b/23c UWG, ohne Abwägung verboten. Genau dafür wurde
+Judge.me am 22.10.2026 deinstalliert, nachdem die App trotz gelöschter
+Sterne weiter `aggregateRating` auslieferte.
+
+**Echte Bewertungen: vorbereitet.** Loox ist installiert und am
+22.10.2026 als unauffällig gemessen — es schreibt kein
+`aggregateRating` und rendert nichts, solange es nichts gibt. Es fragt
+Käufer nach dem Kauf. Es gibt derzeit **null Käufer in 2026**, also
+nichts zu fragen. Der erste echte Verkauf löst die erste echte
+Bewertung aus; vorher ist jede Bewertung auf dieser Seite eine
+Fälschung.
+
+**Was stattdessen Vertrauen schafft, ohne zu lügen:** klare
+Lieferzeit, sichtbares Widerrufsrecht, Impressum, Zahlungsarten, echte
+Produktmasse — und der Satz, der hier wirklich stimmt:
+*Versand innerhalb Deutschlands kostenlos.*
