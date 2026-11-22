@@ -1,0 +1,70 @@
+name: Variantenauswahl prüfen
+
+# Misst, was die Variantenauswahl auf den Produktseiten dem Besucher
+# tatsächlich zeigt. Die abgeschottete Arbeitsumgebung erreicht
+# homeeins.de nicht — der Egress-Proxy lässt nur GitHub, PyPI und npm
+# durch. Deshalb läuft die Messung hier.
+#
+# Hintergrund: Die Admin-API zeigt am 22.11.2026 auf elf Produkten
+# "Farbe: default", auf drei "Attribute: <Lieferanten-Artikelnummer>" und
+# auf vier englische Optionsnamen. Ob der Besucher das sieht, entscheidet
+# aber Dawn — eine Auswahl wird bei nur einer Standardvariante gar nicht
+# gerendert. Diese Frage beantwortet nur die ausgelieferte Seite.
+#
+# Das Skript eicht sich selbst: ein Produkt, auf dem eine Auswahl stehen
+# MUSS, und eines, auf dem keine stehen darf. Fällt eine der beiden
+# Proben durch, bricht der Lauf ab, statt ein wertloses Urteil zu
+# committen.
+on:
+  workflow_dispatch:
+    inputs:
+      pfade:
+        description: "Nur diese Produktpfade messen, Leerzeichen-getrennt (leer = alle aus der Sitemap)"
+        required: false
+        default: ""
+      committen:
+        description: "Ergebnis als OPTIONEN.md committen"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  messen:
+    runs-on: ubuntu-latest
+    # Rund 100 Seiten mit 0,4 s Pause sind gut zwei Minuten. Der Rest ist
+    # Puffer für einen langsamen Shop.
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Kein pip-Schritt: Das Skript benutzt nur die Standardbibliothek.
+      # Eine Abhängigkeit weniger ist eine Fehlerquelle weniger.
+      - name: Selbsttest der Urteilsfunktion
+        run: python3 scripts/optionen.py --selbsttest
+
+      - name: Messen
+        run: |
+          if [ -n "${{ inputs.pfade }}" ]; then
+            python3 scripts/optionen.py --pfade ${{ inputs.pfade }}
+          else
+            python3 scripts/optionen.py
+          fi
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f OPTIONEN.md ] && cat OPTIONEN.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: ${{ inputs.committen }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add OPTIONEN.md daten/optionen-*.json
+          git diff --staged --quiet && echo "Nichts geändert." && exit 0
+          git commit -m "Variantenauswahl gemessen: was der Besucher wirklich sieht"
+          git push
