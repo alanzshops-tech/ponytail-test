@@ -1,0 +1,155 @@
+# Google Search Console — homeeins
+
+Zeitraum: 2026-07-15 bis 2026-08-11 (28 Tage) · Vergleich mit den 28 Tagen davor
+
+| | Aktuell | Vorher | Veränderung |
+|---|---:|---:|---:|
+| Klicks | 0 | 0 | – |
+| Impressionen | 57 | 80 | -29 % |
+| CTR | 0.0 % | 0.0 % | |
+| Ø Position | 52.2 | 54.4 | |
+
+> **218 von 275 Impressionen sind anonymisiert.** Über Suchanfragen sichtbar: 57. Über Seiten sichtbar: 275. Die Kennzahlen oben stammen aus der Anfragen-Dimension und zeigen daher nur den sichtbaren Rest — die Durchschnittsposition ist dadurch schlechter, als die Domain tatsächlich steht.
+
+## Sitemap
+
+**Keine Sitemap in der Search Console eingereicht.** Laut Recherche (13.08.2026) einer der häufigsten Gründe, warum neue Shops gar nicht oder nur langsam indexiert werden. Einreichen unter search.google.com/search-console -> Sitemaps -> `sitemap.xml` (Shopify erzeugt sie automatisch unter `/sitemap.xml`).
+
+## Seiten auf Position 1–5
+
+10 Seiten stehen weit vorn, 10 davon ohne einen einzigen Klick. Wo Ranking da ist und Klicks fehlen, liegt es am Snippet, an der Sprache oder an der Suchabsicht — nicht an fehlender Autorität.
+
+| Seite | Position | Impressionen | Klicks |
+|---|---:|---:|---:|
+| https://www.homeeins.de/collections/garten-outdoor | 2.8 | 39 | 0 |
+| https://www.homeeins.de/collections/gartenmobel | 2.1 | 34 | 0 |
+| https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz | 1.0 | 25 | 0 |
+| https://www.homeeins.de/collections/mobel-1 | 2.3 | 12 | 0 |
+| https://www.homeeins.de/collections/ordnung-aufbewahrung | 4.8 | 8 | 0 |
+| https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet?variant=54073054298435&country=AT&currency=EUR | 1.1 | 8 | 0 |
+| https://www.homeeins.de/collections/bad-wellness | 3.4 | 7 | 0 |
+| https://www.homeeins.de/collections/dekoration | 4.5 | 6 | 0 |
+| https://www.homeeins.de/en/collections/gartenmobel | 2.8 | 6 | 0 |
+| https://www.homeeins.de/products/gartentisch-pe-rattan-akazienholz | 1 | 5 | 0 |
+
+## Wonach diese Seiten gefunden werden
+
+Ohne die Anfrage ist jede Snippet-Änderung geraten. Die Kombination Seite+Anfrage zeigt nur die nicht anonymisierten Anfragen — die Spalte „sichtbar“ sagt, auf wieviel der Impressionen sich die Zeilen darunter überhaupt stützen.
+
+### https://www.homeeins.de/collections/garten-outdoor
+
+Position 2.8, 39 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/collections/gartenmobel
+
+Position 2.1, 34 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/en/products/gartentisch-pe-rattan-akazienholz
+
+Position 1.0, 25 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/collections/mobel-1
+
+Position 2.3, 12 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/collections/ordnung-aufbewahrung
+
+Position 4.8, 8 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/en/products/washing-machine-cabinet-70-5x25-washing-machine-cabinet-70-5x25-washing-machine-cabinet?variant=54073054298435&country=AT&currency=EUR
+
+Position 1.1, 8 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/collections/bad-wellness
+
+Position 3.4, 7 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/collections/dekoration
+
+Position 4.5, 6 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/en/collections/gartenmobel
+
+Position 2.8, 6 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+> Abgeschaltete Sprachfassung. Seit dem 09.08.2026 antwortet `/en/` mit 404 oder leitet auf die deutsche Seite um — hier ist **nichts zu optimieren**. Steht diese Zeile in einem Bericht, dessen Zeitraum vor dem 09.08.2026 endet, beschreibt sie einen bereits behobenen Zustand.
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+### https://www.homeeins.de/products/gartentisch-pe-rattan-akazienholz
+
+Position 1, 5 Impressionen, 0 Klicks. Über Anfragen sichtbar: 0 (0 %).
+
+Keine einzige Anfrage sichtbar — alle Impressionen dieser Seite sind anonymisiert. Für diese Seite lässt sich das Snippet **nicht** datengestützt schreiben.
+
+## Anfragen auf Position 5–20
+
+Keine mit mindestens 5 Impressionen.
+
+Unterhalb der Schwelle, mit weniger als 5 Impressionen: luxus hundesofa (15), pflanzkübel industrial (16.5)
+
+## Meiste Impressionen
+
+| Anfrage | Impressionen | Klicks | Position |
+|---|---:|---:|---:|
+| tierwagen | 8 | 0 | 50.2 |
+| möbel eins | 6 | 0 | 49.5 |
+| bad organizer holz | 3 | 0 | 48.3 |
+| couchtisch hochglanz schwarz | 3 | 0 | 56 |
+| hundesofa luxus | 3 | 0 | 57 |
+| ordnungssystem waschtischunterschrank | 3 | 0 | 95.7 |
+| couchtisch schwarz hochglanz | 2 | 0 | 42.5 |
+| kicker klappbar | 2 | 0 | 46.5 |
+| möbel-eins unterneukirchen | 2 | 0 | 50 |
+| pflanzkübel industrial | 2 | 0 | 16.5 |
+| auto hundebox alu | 1 | 0 | 63 |
+| balkonset 3 teilig modern | 1 | 0 | 49 |
+| bürostuhl mit fussablage | 1 | 0 | 63 |
+| cortenstahl baum | 1 | 0 | 78 |
+| dartscheibe garten | 1 | 0 | 48 |
+| dartspiel outdoor | 1 | 0 | 55 |
+| fußball goal net rebounder | 1 | 0 | 42 |
+| hundesofa erhöht | 1 | 0 | 59 |
+| klappbarer tischkicker | 1 | 0 | 52 |
+| luxus hundesofa | 1 | 0 | 15 |
+| moebel-eins | 1 | 0 | 46 |
+| möbel eins unterneukirchen | 1 | 0 | 52 |
+| möbel-eins online shop | 1 | 0 | 45 |
+| rattanliege xxl | 1 | 0 | 36 |
+| rollbrett action | 1 | 0 | 48 |
+
+## Weiter hinten, ohne Klicks
+
+Werden gefunden, aber nicht angeklickt — hier vermutlich schlicht wegen der Position.
+
+| Seite | Impressionen | Position |
+|---|---:|---:|
+| https://www.homeeins.de/collections/bad-organisation | 15 | 35.5 |
+
+## Geräte
+
+| Gerät | Klicks | Impressionen | CTR | Position |
+|---|---:|---:|---:|---:|
+| MOBILE | 3 | 29 | 10.34 % | 37.4 |
+| DESKTOP | 0 | 99 | 0 % | 24.1 |
+

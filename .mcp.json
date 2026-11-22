@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "shopify-dev": {
+      "command": "npx",
+      "args": ["-y", "@shopify/dev-mcp@latest"],
+      "env": {
+        "LIQUID_VALIDATION_MODE": "partial"
+      }
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y", "chrome-devtools-mcp@latest",
+        "--headless", "--isolated",
+        "--executablePath", "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+      ],
+      "env": {}
+    }
+  }
+}

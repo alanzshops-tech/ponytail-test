@@ -1,0 +1,462 @@
+# KDP-Veröffentlichung: Was er nie gefragt hat
+
+Band 2 der Reihe „Die Reinhardt-Brüder". Stand 24.08.2026.
+**Am Manuskript wird nichts mehr geändert** — 64 Kapitel, 69.294 Wörter
+Fließtext.
+
+Dieselbe Kennzeichnung wie in `KDP-LAUNCH.md`:
+
+| | Bedeutung |
+|---|---|
+| **[M]** | Aus dem Manuskript, nachzählbar |
+| **[K]** | Aktuelle KDP-/Amazon-Regel, mit Quelle |
+| **[E]** | Meine Empfehlung — Urteil, keine Messung |
+
+---
+
+## 1. Was tatsächlich im Buch steht [M]
+
+Gemessen über alle 64 Kapitel. Wo eine Wortsuche in die Irre führt,
+steht daneben, warum.
+
+| Trope | Befund | Belege |
+|---|---|---|
+| **Secret Marriage** | **TRÄGT DAS BUCH** | Die Ehe besteht bei Beginn seit vierzehn Monaten und ist niemandem bekannt. Das Geheimnis ist bei Kapitel 5 vollständig ausgesprochen — es ist nicht die Spannung, es ist die Ausgangslage. |
+| **Marriage in Trouble** | **STARK VORHANDEN** | Der eigentliche Stoff: zwei Menschen, die juristisch verheiratet sind und die Ehe nie geführt haben. Vier Gegenstände von ihm in ihrer Wohnung nach siebzehn Monaten (Kapitel 19). |
+| **Family Saga** | **STARK VORHANDEN** | Vier Brüder, eine Mutter, ein toter Vater, eine Chronik über einhundertdreiundneunzig Objekte mit einer Spalte, die es vorher nicht gab. |
+| **Slow Burn** | **VORHANDEN, umgedreht** | *Die Wortsuche hilft hier nicht.* Gemessen an den Beats: erster Kuss vor Zeugen bei 50 %, erste Verabredung bei 51 %, das erste Mal ohne Termin bei 56 %. Sie sind von Anfang an ein Paar — verbrannt wird trotzdem langsam, nur in der falschen Reihenfolge. |
+| **Grumpy/Sunshine** | **NICHT VORHANDEN** | Beide sind eher verschlossen. Wer das sucht, findet es nicht. |
+| **Enemies to Lovers** | **NICHT VORHANDEN** | Sie streiten fachlich, nie feindlich. |
+| **Secret Baby** | **NICHT VORHANDEN** | Band 1s Trope. Hier gibt es ein Kind, aber im letzten Zehntel und ohne Geheimnis. |
+| **Billionaire** | **SCHWACH** | Die Firma ist groß, Theo hält neunzehn Prozent. Er lebt davon nicht sichtbar. Wer Reichtum als Fantasie sucht, bekommt Vergaberecht. |
+
+**Konsequenz:** Beworben werden **Secret Marriage, Marriage in Trouble,
+Family Saga und Slow Burn**. *Secret Baby*, *Enemies to Lovers* und
+*Billionaire* kommen in keinem Keyword und keinem Klappentext vor —
+auch nicht, weil sie in Band 1 funktioniert haben.
+
+---
+
+## 2. Untertitel
+
+**Auf dem Cover:** Verheiratet und noch nie miteinander aus. (Band 2)
+
+**Im KDP-Feld [E]:**
+> Sie sind längst verheiratet. Jetzt müssen sie lernen, eine Ehe zu sein – Liebesroman (Die Reinhardt-Brüder 2)
+
+**Geändert am 01.09.2026.** Vorher stand hier die Aufzählung *„Eine
+geheime Ehe, eine Frist und eine Familie, die alles regelt"*. Sie folgte
+der gemessenen Nischenkonstruktion, benannte aber die Prämisse nicht.
+`schaufenster.py` hat es sichtbar gemacht: Die Prämisse — beide sind
+schon verheiratet und müssen erst lernen, eine Ehe zu sein — stand
+**ausschließlich im Klappentext** (Wort 2 und 5) und fehlte in Titel,
+Untertitel und Cover-Genrezeile vollständig. Alles, was ein stöbernder
+Leser zuerst sieht, sprach von Behörde, Frist und Familie.
+
+Drei Fassungen durchgerechnet:
+
+| Fassung | Prämisse | Kollisionen |
+|---|---|---:|
+| „Sie sind längst verheiratet. Jetzt müssen sie lernen…" | Wort 3 und 8 | 0 |
+| „Verheiratet – und noch nie zusammen aus" | nur erste Hälfte | 0 |
+| „Eine heimliche Ehe, entdeckt – jetzt müssen sie beweisen…" | nur zweite Hälfte | **1** (*heimliche* sperrt Feld 5) |
+
+Die gewählte Fassung behält von der gemessenen Konstruktion das
+Genrewort und die Reihe in Klammern (23 bzw. 21 von 30 Spitzentiteln)
+und ersetzt nur die Dreier-Aufzählung durch den Satz, der sagt, was das
+Buch von den anderen unterscheidet. 114 Zeichen gegen vorher 103.
+
+Begründung der alten Fassung, zur Nachvollziehbarkeit: Dieselbe
+gemessene Konstruktion wie bei Band 1
+(`../KDP-NISCHEN.md`: Dreier-Aufzählung, dann das Genrewort, dann die
+Reihe in Klammern — 24 von 30 Spitzentiteln haben einen Untertitel nach
+Trennzeichen, 23 von 30 tragen *Liebesroman* oder *Romance*, 21 von 30
+den Reihennamen in Klammern).
+
+---
+
+## 3. Klappentext
+
+Drei Fassungen. Keine verrät die Anhörung, das Kind oder Band 3.
+
+### Version A — die Frist
+
+> **Seit vierzehn Monaten ist sie mit ihm verheiratet.
+> Seit vierzehn Monaten weiß es niemand.
+> Am Montag muss sie das Land verlassen.**
+>
+> Amira Haddad vermisst Risse in hundertdreißig Jahre alten Wänden. Sie
+> weiß auf den Millimeter, was ein Gebäude aushält, bevor es nachgibt,
+> und sie hat elf Jahre gebraucht, um in Hamburg die Frau zu werden, die
+> man dafür anruft.
+>
+> Über ihre eigene Ehe existieren sieben Fotos.
+>
+> Als die Ausländerbehörde ihre Aufenthaltserlaubnis prüft, wird aus dem
+> Geheimnis ein Verdacht: keine gemeinsame Adresse, kein gemeinsames
+> Konto, niemand, der die beiden je zusammen gesehen hat. Am Montag um
+> elf sitzen sie in getrennten Räumen und sollen beweisen, dass ihre Ehe
+> echt ist.
+>
+> Sie ist echt. Sie ist nur nie gelebt worden.
+>
+> **Was sie in den nächsten sechs Monaten nachholen müssen, hätten sie
+> längst gehabt — wenn einer von beiden gefragt hätte.**
+>
+> *Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit
+> Happy End — kein Cliffhanger für dieses Paar. Emotional und sinnlich,
+> ohne explizite Szenen.*
+
+### Version B — seine Seite
+
+> **„Warum weiß ich das nicht?"
+> „Weil es meine Sache war."**
+>
+> Theo Reinhardt hat mit neunzehn am Grab seines Vaters gestanden und
+> sich geschworen, dass mindestens eine Sache in seinem Leben nicht erst
+> von der Familie genehmigt werden muss.
+>
+> Also hat er in Kopenhagen geheiratet. Ohne Gäste. Ohne ein Wort.
+>
+> Vierzehn Monate später ruft seine Frau seinen Bruder an, weil sie am
+> Montag ausreisen muss, und in derselben Woche begreift Theo, dass er
+> genau das getan hat, was er seinem Vater sein Leben lang vorwirft: Er
+> hat entschieden und es hinterher mitgeteilt.
+>
+> Was jetzt kommt, kann er nicht regeln. Er kann nur fragen — und die
+> Antwort aushalten.
+>
+> **Eine Geschichte über eine Ehe, die es auf dem Papier gibt und sonst
+> nirgends. Und über einen Mann, der lernen muss, dass Fürsorge und
+> Kontrolle sich zum Verwechseln ähnlich sehen.**
+>
+> *Band 2 der Reihe „Die Reinhardt-Brüder". Abgeschlossen, mit Happy
+> End. Ohne explizite Szenen.*
+
+### Version C — die falsche Reihenfolge
+
+> Sie sind verheiratet. Sie waren noch nie miteinander aus.
+>
+> Vierzehn Monate lang wusste es niemand. Dann stand die Ausländerbehörde vor der Tür.
+>
+> Kopenhagen, März 2025: eine Standesbeamtin und ein Zeuge, den sie sich von der Straße geholt haben. Sie schweigen darüber — sie, weil ihr Gutachten für seine Familie sonst angreifbar wird. Er, weil er zum ersten Mal etwas haben will, das keiner besichtigt.
+>
+> Jetzt sitzen die beiden in getrennten Räumen und sollen beweisen, dass ihre Ehe echt ist.
+>
+> Sie ist echt. Sie ist nur nie gelebt worden.
+>
+> Was dann kommt, machen sie zum ersten Mal: zusammenwohnen. Sich streiten, wo jemand zusieht. Seine Bücher zwischen ihre stellen.
+>
+> Und irgendwann klingelt er unten an ihrer Haustür, an der sein eigener Name steht — weil sie einmal im Leben hören will, dass jemand für sie klingelt.
+>
+> Sie haben alles in der falschen Reihenfolge gemacht. Jetzt holen sie es nach.
+>
+> Band 2 der Reihe „Die Reinhardt-Brüder". In sich abgeschlossen, mit Happy End — kein Cliffhanger für dieses Paar. Sinnlich, ohne explizite Szenen.
+
+### Empfehlung [E]
+
+> **Version C**, überarbeitet am 01.09.2026.
+
+**Was geändert wurde und warum.** `schaufenster.py` misst, was auf dem
+Handy vor „mehr lesen" überhaupt ankommt — rund 200 Zeichen. Die alte
+Fassung hatte dort die Prämisse, aber **nichts, was auf dem Spiel
+steht**: Die Behörde tauchte erst bei Zeichen 370 auf, also hinter dem
+Schnitt. Jetzt steht sie in Zeile drei.
+
+| | alt | neu |
+|---|---:|---:|
+| Einsatz in der Vorschau sichtbar | nein | **ja** |
+| längster Absatz (Wörter) | 55 | **42** |
+| Absätze | 6 | **9** |
+| Zeichen | 1.146 | 1.048 |
+
+Dabei ist ein **Sachfehler** aufgefallen: Die alte Fassung setzte die
+Klingel-Szene auf „einen Freitag im Dezember". Sie steht in Kapitel 33,
+und Kapitel 33 spielt 2027 — der Dezember gehört zu Kapitel 32, wo
+Amira den Wunsch erst ausspricht. Für „Freitag" gibt es keinen Beleg.
+Beides ist raus.
+
+Begründung: A verkauft die Frist, und die Frist ist die schwächste
+Hälfte des Buches — sie ist bei 40 % entschieden. B verkauft Theo, aber
+er ist der weniger zugängliche der beiden. C verkauft das, was dieses
+Buch von jedem anderen Liebesroman dieser Nische unterscheidet: **ein
+Ehepaar, das eine Verabredung nachholt.** Das ist eine Prämisse, die man
+in drei Zeilen versteht und die es sonst kaum gibt.
+
+Und die Klingel-Szene steht drin, weil sie die Sorte Bild ist, die
+Leserinnen weitererzählen.
+
+---
+
+## 4. Die Nischen, gemessen am 31.08.2026 [M]
+
+Fünf Begriffe auf amazon.de, je zehn Spitzentitel
+(`../KDP-NISCHEN.md`).
+
+| Nische | BSR Median | Bewertungen Median | Preis Median | in KU | gesponsert |
+|---|---:|---:|---:|---:|---:|
+| geheime ehe liebesroman | 10.091 | 81 | 5,72 € | 8/10 | **4/10** |
+| scheinehe roman | 19.277 | 22 | 3,47 € | 9/10 | 0/10 |
+| ehe roman deutsch | **1.567** | 97 | 24,32 € | 9/10 | 0/10 |
+| **familiengeheimnis liebesroman** | **2.989** | **60** | 5,78 € | 9/10 | 0/10 |
+| slow burn liebesroman deutsch | 21.795 | 19 | 11,58 € | 5/10 | 0/10 |
+
+### Der unangenehme Befund zuerst
+
+**Band 2 steht in schwächeren Nischen als Band 1.** Zum Vergleich, aus
+demselben Werkzeug: *geheimes baby liebesroman* hat einen BSR-Median
+von **829**, *milliardär liebesroman* **409**. Die beste hier
+tatsächlich passende Nische liegt bei **2.989** — also grob eine
+Größenordnung weniger Nachfrage.
+
+Das ist keine Schwäche des Buches, sondern eine des Tropes: *Geheime
+Ehe* ist in Deutschland eine kleinere Nische als *Geheimes Baby*.
+Bekannt zu sein, bevor die ersten Verkaufszahlen kommen, ist besser,
+als es hinterher zu erklären.
+
+**Konsequenz [E]:** Band 2 lebt stärker von den Leserinnen von Band 1
+als von eigener Nischen-Sichtbarkeit. Die Reihenseite und der Hinweis
+im Nachspann von Band 1 sind hier wichtiger als jedes Keyword.
+
+### Drei Fallen, die die Messung sichtbar macht
+
+**1. *ehe roman deutsch* hat die beste Nachfrage und ist trotzdem
+falsch.** BSR-Median 1.567 — aber Preis-Median **24,32 €**, **0 von 10**
+im 70-%-Fenster, und die Spitzentitel sind Psychothriller
+(*„Seine zweite Ehe"*), Domestic Thriller, Mafia-Romanzen und ein
+expliziter Erotik-Titel. Dort wird kein Liebesroman gesucht, dort wird
+eine kaputte Ehe gesucht. Wer sich dort hineinstellt, bekommt die
+Bewertungen von Leserinnen, die etwas anderes wollten.
+
+**2. *slow burn liebesroman deutsch* ist eine Hitzegrad-Falle.**
+Von fünf Titeln mit Angabe sind **drei ausdrücklich explizit**, die
+Spitzenplätze belegen *Dark Mafia Romance* und Maya Banks. Wer diesen
+Begriff eingibt, erwartet Hitze. Dieses Buch hat eine Liebesszene, und
+die Tür geht zu. **Der Begriff kommt nicht in die Keywords**, obwohl
+der Trope inhaltlich zutrifft.
+
+**3. *geheime ehe liebesroman* ist als Einziges beworben** (4 von 10
+gesponsert) — dort ist Geld im Markt. Die Spitzentitel sind allerdings
+zu großen Teilen Serienware (*„Ihre Ehe in der Krise 55"*, *„… 46"*,
+*„… 110"*) und Übersetzungen. Bewertungen-Median 81 heißt: Die
+Führenden sitzen fest.
+
+### Die beste passende Nische [M]
+
+**familiengeheimnis liebesroman.** BSR-Median 2.989, Bewertungen-Median
+nur 60, Preis 5,78 €, 9 von 10 in KU. Und die Spitzentitel klingen wie
+dieses Buch:
+
+> *Solange wir uns widerstehen: Ein berührender Liebesroman über alte
+> Wunden, unerwartete Nähe und den Mut, zu bleiben* — Karla Linden
+> *Sanddorn, Karamell und Küstenglück … über ein altes Familiengeheimnis* — Lina Martens
+> *Das Geheimnis seiner Liebe … über ein Familiengeheimnis, zweite Chancen und einen Neuanfang* — Leni Lund
+
+Drei deutsche Autorinnennamen an der Spitze, dieselbe Beobachtung wie
+bei Band 1s breiter Nische. **Jule Norden passt hier besser hin als in
+jede andere gemessene Nische.**
+
+### Die sieben Keywords [E, auf gemessener Grundlage]
+
+**Gesperrt** (steht in Titel oder Untertitel, wäre ein verschenktes
+Feld): *was, er, nie, gefragt, hat, geheime, Ehe, Frist, Familie,
+Liebesroman, Reinhardt, Brüder.*
+
+| Feld | Keyword | Zeichen | Grundlage |
+|---:|---|---:|---|
+| 1 | `familiengeheimnis roman` | 23 | **gemessen**, beste passende Nische (BSR 2.989, nur 60 Bewertungen) |
+| 2 | `geheime hochzeit` | 16 | die Prämisse; Nische *geheime ehe* ist als Einzige beworben (4/10 gesponsert) |
+| 3 | `scheinehe` | 9 | **gemessen** (BSR 19.277), locker besetzt: Bewertungen-Median 22 |
+| 4 | `familiensaga deutsche autorin` | 29 | Trope *Family Saga: STARK VORHANDEN*; an der Nischenspitze stehen deutsche Autorinnennamen |
+| 5 | `gefühlvoller frauenroman` | 24 | breiter Kategoriebegriff statt Spezialphrase |
+| 6 | `romance deutsch gefühlvoll` | 26 | breiter Kategoriebegriff, deutsch-englische Mischform ist in der Nische üblich |
+| 7 | `emotionale liebesgeschichte ohne spice` | 38 | fängt die Erwartungsfrage ab, die bei Falle 2 zum Problem würde |
+
+**Nachgerechnet, nicht behauptet.** Ein Prüfskript hat jedes Feld gegen
+Titel und Untertitel gehalten, und dabei zwei Fehler in meiner ersten
+Fassung gefunden: *scheinehe **liebesroman*** und *emotionaler
+**liebesroman** ohne spice* enthielten beide **Liebesroman**, und das
+steht im Untertitel. Zwei von sieben Feldern wären verschenkt gewesen.
+
+Feld 2 heißt jetzt `scheinehe roman` — das ist ohnehin der gemessene
+Suchbegriff. Feld 7 sagt *Liebesgeschichte* statt *Liebesroman*.
+
+**Feld 4 ausgetauscht am 01.09.2026.** Dort stand `alleinerziehend
+zweite chance`. Beides beschreibt **Band 1, nicht Band 2**: Amira ist
+nicht alleinerziehend, und der Bericht lehnt zwei Abschnitte weiter die
+Kategorie *Zweite Chancen* mit genau dem Satz ab, der auch für das
+Keyword gilt — *„Die beiden bekommen keine zweite Chance, sie führen
+eine erste zu Ende."* Ein Keyword, das ein anderes Buch beschreibt,
+holt Leserinnen, die etwas anderes wollten. Dazu ist *zweite chance*
+gemessen die schwächste Nachfrage im ganzen Lauf.
+
+Ersetzt durch `geheime hochzeit roman`. Der Begriff war unter dem
+**alten** Untertitel gesperrt (*„Eine **geheime** Ehe …"*) und ist erst
+durch dessen Neufassung frei geworden — nachgerechnet mit
+`schaufenster.py` gegen beide Fassungen. Er benennt die Prämisse
+und zielt in die einzige gemessene Nische, in der Geld im Markt ist:
+*geheime ehe liebesroman* ist als Einzige beworben, 4 von 10
+Spitzentiteln gesponsert.
+
+Ein früherer Entwurf für Feld 6 lautete `brüder saga deutsch`. Gestrichen:
+*Brüder* steht im Untertitel in der Reihenklammer, und ob Amazon die
+Teile eines Bindestrich-Kompositums mitindiziert, lässt sich von außen
+nicht messen. Ein Feld, das vielleicht verschenkt ist, ist ein
+verschenktes Feld.
+
+**Feld 6 ausgetauscht am 01.09.2026.** Dort stand `verschwiegene
+beziehung roman` — eine Phrase, die niemand so eintippt, und im Bericht
+selbst als *ungemessen* markiert. Ersetzt durch `familiensaga hamburg
+roman`. Begründung aus der eigenen Trope-Messung in Abschnitt 1:
+*Family Saga — **STARK VORHANDEN**: Vier Brüder, eine Mutter, ein toter
+Vater, eine Chronik über einhundertdreiundneunzig Objekte.* Das ist
+neben dem Familiengeheimnis der zweitstärkste Stoff im Buch und war in
+den Keywords überhaupt nicht vertreten.
+
+**Was bewusst liegen bleibt.** Nach Nachfrage mal Besetzung sortiert
+liegen vier gemessene Nischen vor der besten, die dieses Buch bedienen
+kann:
+
+| Nische | Score | Warum nicht |
+|---|---:|---|
+| geheimes baby liebesroman | 29k | Band 1s Trope |
+| milliardär liebesroman | 51k | 1 Reichtumsmarker auf 70.000 Wörter |
+| ehe roman deutsch | 152k | dort werden Psychothriller gesucht |
+| billionaire romance deutsch | 172k | besetzt (403 Bewertungen) und falsch |
+| **familiengeheimnis liebesroman** | **179k** | **trägt das Buch — Feld 1** |
+
+Die stärkste ehrlich bedienbare Nische liegt auf Platz fünf. Das ist
+kein Versäumnis der Keywords, sondern die Folge davon, was im Buch
+steht.
+
+**Vollständig neu gefasst am 01.09.2026, zweiter Durchgang.** Der
+vorherige Satz war auf Passgenauigkeit und Kollisionsfreiheit
+optimiert, aber nicht darauf, ob die Begriffe überhaupt jemand
+eintippt. `speicherstadt roman` und `heimlich geheiratet kopenhagen`
+sind Formulierungen, die außerhalb dieses Projekts niemand sucht — fünf
+von sieben Feldern waren enge Long-Tail-Wetten.
+
+Jetzt drei gemessene Träger (Felder 1–3) und drei breite
+Kategoriebegriffe (4–6), die Amazon mit Titel und Untertitel
+kombiniert. Feld 7 bleibt.
+
+Auch entfernt: *roman* stand dreimal. Amazon kombiniert die Felder
+untereinander; dreimal dasselbe Wort ist zweimal verschenkter Platz.
+
+⚠️ **Suchvolumen ist weiterhin nicht gemessen.** Ahrefs ist auf diesem
+Zugang gesperrt (`Insufficient plan`), für Amazons interne Suche gibt
+es kein öffentliches Volumen. Die beste verfügbare Quelle ist Amazons
+eigene Autovervollständigung — in der App `liebesroman ` eintippen und
+die Vorschläge lesen. Das sind echte, häufige Kundenanfragen und
+schlägt jede Ableitung von außen.
+
+**Frühere Fassung, zur Nachvollziehbarkeit — Feld 3 und Feld 5 entdoppelt.** Feld 3 gab *hamburg* an Feld 6 ab,
+Feld 5 gab *hochzeit* an Feld 4 ab. Beide Dopplungen sind erst beim
+Nachzählen aufgefallen, nachdem die neuen Felder drin waren — ein
+Austausch kann eine Kollision erzeugen, die vorher nicht da war. Amazon kombiniert
+die Felder untereinander und mit Titel und Untertitel — ein Wort
+doppelt einzutragen verschenkt Platz. *speicherstadt* und *hamburg*
+stehen jetzt je einmal und ergeben die Kombination trotzdem.
+
+**Stand nach Prüfung:** 7 Felder, alle ≤ 50 Zeichen (Maximum 38), keine
+Kommas, keine Kollision mit Titel oder Untertitel — auch nicht mit den
+Bestandteilen von *Reinhardt-Brüder*.
+
+⚠️ **Suchvolumen ist nicht gemessen.** Für die Amazon-interne Suche gibt
+es kein öffentliches Volumen. Was gemessen ist, sind BSR, Bewertungen,
+Preis und KU-Anteil der Spitzentitel — nicht, wie oft jemand den
+Begriff eingibt.
+
+---
+
+## 5. Kategorien [M/E]
+
+**[K]** Drei sind beim Veröffentlichen wählbar, jederzeit unter
+*Buchdetails* änderbar.
+
+**Beobachtet** am 31.08.2026 auf den Produktseiten der Spitzentitel.
+Die Namen sind Amazons Anzeigenamen; im KDP-Formular können sie
+abweichen.
+
+| Priorität | Kategorie | Warum | Beobachtet |
+|---|---|---|---|
+| 1 | **Liebesroman** (allgemein) | Trägt das Buch, und es ist die einzige gemessene Kategorie mit Luft | bester Rang **173** — mit Abstand der lockerste Wert im ganzen Lauf |
+| 2 | **Moderne Belletristik für Frauen** | Familienstrang, Chronik, die beiden Mütter | bester Rang 59 |
+| 3 | **Zeitgenössische Frauenliteratur** | Gegenwart, Hamburg, Beruf | bester Rang 318 |
+
+**Bewusst nicht genommen, obwohl die Ränge locken:**
+
+*Partnersuche & Partnerwahl* (bester Rang 1) und *Ferienliebesromane*
+(Rang 7) sind praktisch leere Kategorien — dort steht ein Titel auf
+Platz eins, weil sonst kaum jemand drin ist. Ein Abzeichen in einer
+Kategorie, die niemand ansieht, ist keins.
+
+*Scheidung* und *Scheidung & Trennung* (bester Rang 13 bzw. 15) tragen
+die halbe *geheime-ehe*-Nische — **in diesem Buch wird sich niemand
+scheiden lassen.** Falsche Einordnung verstößt gegen die
+KDP-Richtlinien und holt Rückgaben.
+
+*Zweite-Chance-Romanze* war Band 1s stärkste Kategorie und trifft hier
+nicht: Die beiden bekommen keine zweite Chance, sie führen eine erste
+zu Ende.
+
+---
+
+## 4b. Länge — ein Befund, der eine Entscheidung verlangt [M]
+
+| | Seiten Median | Spanne |
+|---|---:|---|
+| familiengeheimnis liebesroman | **330** | 266–460 |
+| geheime ehe liebesroman | 315 | 120–416 |
+
+Dieses Buch hat **69.294 Wörter ≈ 277 Druckseiten** (Faustregel 250
+Wörter je Seite, dieselbe wie bei Band 1).
+
+Das liegt **innerhalb** der Spanne, aber deutlich unter dem Median —
+dieselbe Lage, in der Band 1 am 16.08. war, bevor sechs Kapitel
+dazukamen. Bei Kindle Unlimited wird pro gelesener Seite bezahlt, also
+ist das keine Kosmetik.
+
+**Empfehlung [E]: so lassen.** Band 1 wurde ausgebaut, weil er mit
+69.603 Wörtern *unter* der damaligen Untergrenze lag. Band 2 liegt
+darüber, und die Kapitel, die man jetzt noch einzöge, gäbe es nur
+wegen einer Zahl. Das kostet mehr, als die Seiten einbringen.
+
+---
+
+## 6. Preis [E]
+
+**Startpreis 3,99 €**, nach sechs bis acht Wochen auf 4,99 € — dieselbe
+Logik wie bei Band 1 (`../KDP-LAUNCH.md`, Abschnitt 10).
+
+**[K]** Das 70-%-Fenster gilt seit dem 7. Juli 2026 für 2,99 € bis
+12,99 €. Die Liefergebühr liegt bei rund 0,12 € je MB; die Datei hat
+1,1 MB, also etwa **0,14 €**.
+
+**Eine Abweichung zu Band 1:** Wenn Band 1 zuerst erscheint, ist der
+richtige Zeitpunkt für Band 2 *nicht sofort*. Sinnvoll sind vier bis
+sechs Wochen Abstand — lange genug, dass Band 1 Rezensionen sammelt,
+kurz genug, dass die Leserin sich erinnert. **[E]**
+
+---
+
+## 7. KDP Select [E]
+
+**Ja**, aus denselben gemessenen Gründen wie Band 1: In den
+Hauptnischen liegen 10 von 10 Spitzentiteln in Kindle Unlimited
+(`../KDP-NISCHEN.md`). Eine Reihe, deren Bände aufeinander verweisen,
+ist genau das Muster, mit dem KU funktioniert.
+
+**Wichtig für die Reihe:** Beide Bände in Select, oder keiner. Ein Band
+in KU und einer nicht bricht das Durchlesen.
+
+---
+
+## 8. Was nur der Kontoinhaber kann
+
+| Punkt | Anmerkung |
+|---|---|
+| **KI-Angabe** im Veröffentlichungsformular | Text **und** Bild: jeweils *Ja, KI-generiert*. Pflicht. Nicht öffentlich sichtbar |
+| **US-Steuerinterview** | Falls für Band 1 schon erledigt, gilt es fürs Konto und nicht je Titel |
+| **Reihenseite anlegen** | Erst möglich, wenn beide Bände online sind. Dann *Serie erstellen*, Reihenname „Die Reinhardt-Brüder" |
+| **§ 19 UStG** | Mit dem Steuerberater klären, wie bei Band 1 |

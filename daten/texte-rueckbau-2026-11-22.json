@@ -1,0 +1,246 @@
+{
+  "_zweck": "Textstellen, die am 22.11.2026 korrigiert wurden, weil sie Varianten versprachen, die am 26.10.2026 geloescht worden waren.",
+  "_ursache": "Beim Loeschen der 44 unverkaeuflichen Varianten wurden die Beschreibungstexte nicht mitgezogen. Irrefuehrende Angabe nach § 5 UWG.",
+  "_zusatz": "In denselben Durchgang fiel die unbelegte Aussage 'Schneller Versand' (ersetzt durch die gemessene Aussage 'Versand innerhalb Deutschlands kostenlos') und beim Code MEHRHUNDE15 die fehlende Bedingung 'ab 2 Artikeln' (gemessen: greaterThanOrEqualToQuantity = 2, Kollektion hundemobel-haustierzubehor).",
+  "_rueckbau": "Zum Zurueckschreiben die 'vorher'-Zeile wieder an die Stelle der 'nachher'-Zeile setzen. Die uebrigen Absaetze blieben unveraendert.",
+  "produkte": [
+    {
+      "handle": "hochstuhl-ergonomisch-fussstuetze-stehtisch",
+      "vorher": [
+        "<strong>Farben:</strong> Schwarz, Grau, Pink – feste oder bewegliche Armlehnen"
+      ],
+      "nachher": [
+        "<strong>Ausführung:</strong> Schwarz, mit verstellbarer Armlehne"
+      ]
+    },
+    {
+      "handle": "aufbewahrungskorb-stoff-design",
+      "vorher": [
+        "ist in drei Größen und drei Farben erhältlich",
+        "<strong>Drei Größen zur Wahl:</strong> Ø 38×46, 43×38 oder 51×33 cm",
+        "<strong>Drei Farbvarianten:</strong> Beige, Braun, Grau-Weiß",
+        "<strong>Größen:</strong> Ø 38 × 46 cm, Ø 43 × 38 cm oder Ø 51 × 33 cm"
+      ],
+      "nachher": [
+        "ist in zwei Farben erhältlich",
+        "<strong>Maße:</strong> Ø 38 × 46 cm",
+        "<strong>Zwei Farben:</strong> Braun, Grau-Weiß",
+        "<strong>Maße:</strong> Ø 38 × 46 cm"
+      ]
+    },
+    {
+      "handle": "tennisnetz-mobil-301x90-wetterfest",
+      "vorher": [
+        "📐 Vier Längen zur Wahl",
+        "Von 301 cm bis 595 cm Länge – finde die passende Größe für deinen Garten, Hof oder Hallenbereich.",
+        "<strong>Größen:</strong> 301, 396, 494,5 oder 595 cm Länge (jeweils ca. 90 × 87 cm)"
+      ],
+      "nachher": [
+        "📐 Länge 494,5 cm",
+        "Mit 494,5 cm Länge passt es in den Garten, auf den Hof oder in die Halle.",
+        "<strong>Maße:</strong> 494,5 × 90 × 87 cm"
+      ]
+    },
+    {
+      "handle": "selbstreinigende-katzentoilette-65l",
+      "vorher": [
+        "<strong>🎉 Jetzt mit Code WILLKOMMEN10</strong> – 10% Rabatt auf deine erste Bestellung.",
+        "Schneller Versand, einfache Rückgabe und persönlicher Support, falls du Fragen zur Einrichtung oder App-Verbindung hast."
+      ],
+      "nachher": [
+        "<strong>🎉 Jetzt mit Code WELCOME10</strong> – 10% Rabatt auf deine erste Bestellung.",
+        "Versand innerhalb Deutschlands kostenlos, einfache Rückgabe und persönlicher Support, falls du Fragen zur Einrichtung oder App-Verbindung hast."
+      ],
+      "_grund": "Keine geloeschte Variante, sondern ein abgelaufener Rabattcode: WILLKOMMEN10 lief am 07.08.2026 ab, WELCOME10 ist aktiv ohne Enddatum (gemessen ueber discountNodes)."
+    },
+    {
+      "handle": "metall-pflanzkuebel-modern",
+      "vorher": [
+        "schlanke Metall-Pflanzkübel mit bis zu 170 cm Höhe",
+        "<strong>Schlanke, hohe Form:</strong> Bis 170 cm Höhe für vertikale Akzente",
+        "<strong>Drei Größen:</strong> Für unterschiedliche Platzverhältnisse",
+        "<strong>Farben:</strong> Grau, Schwarz",
+        "<strong>Größen:</strong> 35×30×135 cm, 70×30×135 cm oder 105×30×170 cm"
+      ],
+      "nachher": [
+        "schlanke Metall-Pflanzkübel mit 135 cm Höhe",
+        "<strong>Schlanke, hohe Form:</strong> 135 cm Höhe bei nur 30 cm Tiefe",
+        "<strong>Passt an die schmale Wand:</strong> Dort, wo ein runder Kübel im Weg steht",
+        "<strong>Farbe:</strong> Schwarz",
+        "<strong>Maße:</strong> 70 × 30 × 135 cm"
+      ]
+    },
+    {
+      "handle": "trekking-rucksack-60-100-liter",
+      "vorher": [
+        "Trekking-Rucksack mit bis zu 100 L Volumen",
+        "<strong>Großes Volumen:</strong> 60, 80 oder 100 Liter je nach Bedarf",
+        "<strong>Farben:</strong> Grün-Camouflage, Camel-Braun, Camouflage, Khaki",
+        "<strong>Kapazitäten:</strong> 60 L (37×20×65 cm), 80 L (40×20×78 cm), 100 L (40×22×90 cm)"
+      ],
+      "nachher": [
+        "Trekking-Rucksack mit 80 L Volumen",
+        "<strong>80 Liter Volumen:</strong> Platz für Zelt, Schlafsack und Ausrüstung einer Mehrtagestour",
+        "<strong>Farbe:</strong> Camouflage",
+        "<strong>Maße:</strong> 40 × 20 × 78 cm (80 L)"
+      ]
+    },
+    {
+      "handle": "hartschalen-kofferset-4-teilig",
+      "vorher": [
+        "4-teilige Travel Elite Trolley Set",
+        "🎨 Elegante Farbwelt",
+        "Anthrazit, Champagner oder Kaffeebraun – zeitlose Töne statt greller Trendfarben."
+      ],
+      "nachher": [
+        "4-teiliges Kofferset",
+        "🎨 Farbe Champagner",
+        "Ein zeitloser, warmer Ton statt greller Trendfarben – und am Gepäckband gut wiederzuerkennen."
+      ]
+    },
+    {
+      "handle": "buerostuhl-premium-relaxfunktion-135-grad",
+      "vorher": [
+        "<strong>Farben:</strong> Blau, Grau, Grün"
+      ],
+      "nachher": [
+        "<strong>Farben:</strong> Blau, Grün"
+      ]
+    },
+    {
+      "handle": "outdoor-loungemoebel-aluminium-modular",
+      "vorher": [
+        "lässt sich flexibel zu Einzelsitzen, Ecksofas oder größeren Kombinationen zusammenstellen",
+        "<strong>Modular kombinierbar:</strong> Einzel-, Zwei- oder Dreisitzer plus Tisch",
+        "<strong>Sitzplätze:</strong> 1, 2 oder 3 Personen je nach Variante"
+      ],
+      "nachher": [
+        "lässt sich flexibel zu Ecksofas oder größeren Kombinationen zusammenstellen",
+        "<strong>Modular kombinierbar:</strong> Mittelsofa, Ecksofa, Ecke mit Mittelsitz und Tisch",
+        "<strong>Varianten:</strong> 2× Mittelsofa, 2× Ecke + Mittelsitz, Ecksofa, 2× Ecksofa, Tisch"
+      ]
+    },
+    {
+      "handle": "kratzbaum-katzen-kompakt-plusch",
+      "vorher": [
+        "In Blau, Grau oder Grau mit Pfotenmuster fügt sich der Kratzbaum unauffällig",
+        "<strong>Farben:</strong> Blau, Grau, Grau mit Pfotenmuster"
+      ],
+      "nachher": [
+        "In Grau oder Grau mit Pfotenmuster fügt sich der Kratzbaum unauffällig",
+        "<strong>Farben:</strong> Grau, Grau mit Pfotenmuster"
+      ]
+    },
+    {
+      "handle": "hundebett-xxl-kuschelig-grosse-hunde",
+      "vorher": [
+        "extra große Hundebett (XL/XXL)",
+        "<strong>Extra große Liegefläche:</strong> Auch für große Hunde ausreichend Platz",
+        "<strong>Größen:</strong> 90 × 70 × 20 cm (XL) oder 110 × 80 × 21 cm (XXL)",
+        "<strong>Farbe:</strong> Braun &amp; Beige",
+        "Die Farbkombination Braun/Beige fügt sich unauffällig in jede Einrichtung ein."
+      ],
+      "nachher": [
+        "extra große Hundebett in XXL (110 × 80 cm)",
+        "<strong>Extra große Liegefläche:</strong> 110 × 80 cm – auch für große Hunde ausreichend Platz",
+        "<strong>Maße:</strong> 110 × 80 × 21 cm (XXL)",
+        "<strong>Farbe:</strong> Beige",
+        "Der ruhige Beigeton fügt sich unauffällig in jede Einrichtung ein."
+      ]
+    },
+    {
+      "handle": "couchtisch-hochglanz-design-wohnzimmer",
+      "vorher": [
+        "📐 Zwei Größen, zwei Farben",
+        "Erhältlich in Schwarz oder Weiß, jeweils in zwei Größen (85 cm oder 115 cm) – so findest du die passende Variante für dein Wohnzimmer.",
+        "<strong>Farben:</strong> Weiß oder Schwarz"
+      ],
+      "nachher": [
+        "📐 Die verfügbaren Varianten",
+        "Schwarz in 85 cm oder 115 cm Breite, Weiß in 115 cm – so findest du die passende Variante für dein Wohnzimmer.",
+        "<strong>Varianten:</strong> Schwarz 85 cm, Schwarz 115 cm, Weiß 115 cm"
+      ]
+    },
+    {
+      "handle": "aufbewahrungskorb-deckel-37cm-gross",
+      "vorher": [
+        "<strong>Farben:</strong> Schwarz, Braun"
+      ],
+      "nachher": [
+        "<strong>Farbe:</strong> Braun"
+      ]
+    },
+    {
+      "handle": "aufbewahrungskoerbe-modern-stoffkoerbe",
+      "vorher": [
+        "<strong>Farben:</strong> Braun-Weiß, Grau"
+      ],
+      "nachher": [
+        "<strong>Farbe:</strong> Grau"
+      ]
+    },
+    {
+      "handle": "hundesofa-samt-kunstleder-95cm",
+      "vorher": [
+        "<strong>🎉 Jetzt mit Code MEHRHUNDE15</strong> – 15% Rabatt auf Hundemöbel.",
+        "🐶 Zwei Materialien, ein Ziel: dein Hund entspannt statt kratzt",
+        "Hunde-Sofa aus Kunstleder &amp; Samt",
+        "<strong>Materialmix:</strong> Kunstleder-Basis (pflegeleicht, abwischbar) + weicher Samt-Liegebereich",
+        "🎨 4 Farben zur Wahl",
+        "Ob dezent in Hellgrau/Dunkelgrau/Schwarz oder als farbiger Akzent in Blau – dieses Hundesofa passt sich deinem Einrichtungsstil an, statt wie reines \"Tierzubehör\" auszusehen.",
+        "<strong>Material:</strong> Kunstleder (100% PVC) &amp; Samt (100% Polyester)",
+        "<strong>Farben:</strong> Blau, Dunkelgrau, Hellgrau, Schwarz",
+        "<strong>Größen:</strong> 70 × 45 × 30 cm oder 95 × 55 × 30 cm"
+      ],
+      "nachher": [
+        "<strong>🎉 Code MEHRHUNDE15</strong> – 15% Rabatt ab 2 Artikeln aus „Hundemöbel & Haustierzubehör\".",
+        "🐶 Samt auf Massivholz: dein Hund entspannt statt kratzt",
+        "Hunde-Sofa mit Samtbezug",
+        "<strong>Weicher Samtbezug:</strong> Angenehme Liegefläche (100% Polyester)",
+        "🎨 Zwei Ausführungen",
+        "Dunkelgrau in 70 × 45 × 30 cm für kleinere Hunde, Hellgrau in 95 × 55 × 30 cm für mittelgroße bis große Hunde.",
+        "<strong>Bezug:</strong> Samt (100% Polyester)",
+        "<strong>Varianten:</strong> Dunkelgrau 70 × 45 × 30 cm, Hellgrau 95 × 55 × 30 cm",
+        "(Groessenzeile entfernt, in Varianten aufgegangen)"
+      ]
+    },
+    {
+      "handle": "hundesofa-samt-kunstleder-90cm",
+      "vorher": [
+        "<strong>🎉 Jetzt mit Code MEHRHUNDE15</strong> – 15% Rabatt auf Hundemöbel.",
+        "<strong>Materialwahl:</strong> Hochwertiges Kunstleder oder weicher Samtstoff – du entscheidest",
+        "In Schwarz, Hellgrau oder Dunkelgrau fügt sich das Sofa dezent in jeden Raum ein",
+        "<strong>Material:</strong> Kunstleder (100% Polyurethan) oder Samt (100% Polyester)",
+        "<strong>Farben:</strong> Dunkelgrau, Hellgrau, Schwarz"
+      ],
+      "nachher": [
+        "<strong>🎉 Code MEHRHUNDE15</strong> – 15% Rabatt ab 2 Artikeln aus „Hundemöbel & Haustierzubehör\".",
+        "<strong>Zwei Ausführungen:</strong> Schwarz in pflegeleichtem Kunstleder oder Hellgrau in weichem Samtstoff",
+        "Ob Schwarz oder Hellgrau – das Sofa fügt sich dezent in jeden Raum ein",
+        "<strong>Varianten:</strong> Schwarz / Kunstleder (100% Polyurethan) oder Hellgrau / Samtstoff (100% Polyester)",
+        "(Farbenzeile entfernt, in Varianten aufgegangen)"
+      ]
+    },
+    {
+      "handle": "hundesofa-samt-80cm-gepolstert",
+      "vorher": [
+        "<strong>🎉 Jetzt mit Code MEHRHUNDE15</strong> – 15% Rabatt auf Hundemöbel.",
+        "🐶 Das perfekte Hundesofa für Hunde &amp; kompakte Wohnungen",
+        "ideal für Hunde oder als Zweitbett",
+        "<strong>Materialmix:</strong> Robuste Kunstleder-Basis + weicher Velvet-Bezug",
+        "In Schwarz oder Dunkelgrau fügt sich das Sofa unauffällig in dein Zuhause ein",
+        "<strong>Material:</strong> Kunstleder (100% Polyurethan) &amp; Velvet (100% Polyester)",
+        "<strong>Farben:</strong> Dunkelgrau, Schwarz"
+      ],
+      "nachher": [
+        "<strong>🎉 Code MEHRHUNDE15</strong> – 15% Rabatt ab 2 Artikeln aus „Hundemöbel & Haustierzubehör\".",
+        "🐶 Das platzsparende Hundesofa für kompakte Wohnungen",
+        "ideal für kleinere Hunde oder als Zweitbett",
+        "<strong>Weicher Samtbezug:</strong> Angenehme Liegefläche (100% Polyester)",
+        "Das Dunkelgrau fügt sich unauffällig in dein Zuhause ein",
+        "<strong>Bezug:</strong> Samt (100% Polyester)",
+        "<strong>Farbe:</strong> Dunkelgrau"
+      ]
+    }
+  ]
+}

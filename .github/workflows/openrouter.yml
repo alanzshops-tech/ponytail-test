@@ -1,0 +1,180 @@
+name: OpenRouter
+
+# Prüft den Zugang zu OpenRouter und macht einen echten Rundlauf.
+#
+# Läuft hier und nicht in der Arbeitsumgebung, weil die nur GitHub, PyPI
+# und npm erreicht — openrouter.ai ist gesperrt. Der Runner ist Augen und
+# Netz, das Ergebnis kommt als Commit zurück.
+#
+# Der Schlüssel liegt in den Repository-Secrets als OPEN_ROUTER und wird
+# nur als Umgebungsvariable durchgereicht. Er steht in keinem Befehl und
+# damit in keinem Protokoll.
+on:
+  workflow_dispatch:
+    inputs:
+      frage:
+        description: "Text für den Rundlauf; leer = nur Zugang prüfen"
+        type: string
+        default: "Antworte mit genau einem kurzen deutschen Satz über Hundesofas."
+      modell:
+        description: "Modell-ID; leer = das günstigste mit Preis"
+        type: string
+        default: ""
+      websuche:
+        description: "Echte Websuche (Exa) vor die Antwort hängen statt nur Modellwissen"
+        type: boolean
+        default: false
+      info:
+        description: "Steckbriefe aller Modelle, deren ID diesen Text enthält"
+        type: string
+        default: ""
+      bild_prompt:
+        description: "Bild erzeugen/bearbeiten: Text-Anweisung. Gesetzt = eigener Weg, kein normaler Rundlauf."
+        type: string
+        default: ""
+      bild_eingabe:
+        description: "Referenzbild für --bild-prompt: URL oder Pfad im Repo (z. B. bilder/products-....jpg). Leer = reine Text-zu-Bild-Erzeugung."
+        type: string
+        default: ""
+      bild_modell:
+        description: "Bildmodell für --bild-prompt"
+        type: string
+        default: "google/gemini-3.1-flash-lite-image"
+      lektorat_kapitel:
+        description: "Kapitel von fremden Modellen lesen lassen, z. B. '1 5 12'. Gesetzt = eigener Weg."
+        type: string
+        default: ""
+      lektorat_modelle:
+        description: "Modell-Muster für das Lektorat, Leerzeichen-getrennt (werden gegen die Modellliste aufgelöst)"
+        type: string
+        default: "openai/gpt google/gemini"
+      lektorat_buch:
+        description: "Buchordner für das Lektorat (buch = Band 1, buch2 = Band 2)"
+        type: string
+        default: "buch"
+      bild_ausgabe:
+        description: "Zieldatei für --bild-prompt, damit mehrere Läufe sich nicht überschreiben"
+        type: string
+        default: "bilder/openrouter/ausgabe.png"
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Schlüssel vorhanden?
+        env:
+          TOKEN: ${{ secrets.OPEN_ROUTER }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::OPEN_ROUTER fehlt in den Repository-Secrets."
+            exit 1
+          fi
+          # Nur die Länge, nie der Wert.
+          echo "Schlüssel vorhanden, ${#TOKEN} Zeichen."
+
+      - name: Zugang prüfen
+        env:
+          # Das Secret heißt OPEN_ROUTER, das Skript liest die übliche
+          # Variable OPENROUTER_API_KEY. Umgehängt wird genau hier.
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER }}
+          # Der Rückfall ist wichtig: bei einem Push gibt es keine
+          # `inputs`, das Feld wäre leer und der Lauf hätte nur den
+          # Schlüssel gelesen. Genau so lief der erste Versuch am
+          # 10.08.2026 — grün, aber ohne echten Rundlauf.
+          FRAGE: ${{ inputs.frage || 'Antworte mit genau einem kurzen deutschen Satz über Hundesofas.' }}
+          MODELL: ${{ inputs.modell }}
+          WEBSUCHE: ${{ inputs.websuche }}
+          INFO: ${{ inputs.info }}
+          BILD_PROMPT: ${{ inputs.bild_prompt }}
+          BILD_EINGABE: ${{ inputs.bild_eingabe }}
+          BILD_MODELL: ${{ inputs.bild_modell || 'google/gemini-3.1-flash-lite-image' }}
+          BILD_AUSGABE: ${{ inputs.bild_ausgabe || 'bilder/openrouter/ausgabe.png' }}
+          LEKTORAT_KAPITEL: ${{ inputs.lektorat_kapitel }}
+          LEKTORAT_MODELLE: ${{ inputs.lektorat_modelle || 'openai/gpt google/gemini' }}
+          LEKTORAT_BUCH: ${{ inputs.lektorat_buch || 'buch' }}
+        run: |
+          # Kein eval und keine zusammengebaute Zeichenkette: `frage` ist
+          # ein Eingabefeld, und in einer eval-Zeile wäre daraus ein
+          # eingeschleuster Befehl geworden. Als Array bleibt jedes
+          # Argument ein Argument.
+          # Die if-Blöcke statt `[ -n .. ] && ..`, weil GitHub die Schritte
+          # mit `bash -e` fährt: ein fehlschlagender Test als letzter
+          # Befehl einer Zeile würde den Schritt abbrechen.
+          # --info und --bild-prompt sind eigene Wege: sie schreiben ihr
+          # eigenes Ergebnis und machen keinen normalen Rundlauf.
+          if [ -n "$INFO" ]; then
+            python3 scripts/openrouter.py --info "$INFO"
+            exit 0
+          fi
+          if [ -n "$LEKTORAT_KAPITEL" ]; then
+            python3 scripts/lektorat.py --kapitel $LEKTORAT_KAPITEL \
+              --modelle $LEKTORAT_MODELLE --buch "$LEKTORAT_BUCH"
+            exit 0
+          fi
+          if [ -n "$BILD_PROMPT" ]; then
+            ARGS=(--bild-prompt "$BILD_PROMPT" --bild-modell "$BILD_MODELL"
+                  --bild-ausgabe "$BILD_AUSGABE")
+            if [ -n "$BILD_EINGABE" ]; then ARGS+=(--bild-eingabe "$BILD_EINGABE"); fi
+            python3 scripts/openrouter.py "${ARGS[@]}"
+            exit 0
+          fi
+          ARGS=(--pruefen)
+          if [ -n "$FRAGE" ]; then ARGS+=(--fragen "$FRAGE"); fi
+          if [ -n "$MODELL" ]; then ARGS+=(--modell "$MODELL"); fi
+          if [ "$WEBSUCHE" = "true" ]; then ARGS+=(--websuche); fi
+          python3 scripts/openrouter.py "${ARGS[@]}"
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f OPENROUTER.md ] && cat OPENROUTER.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        env:
+          BILD_AUSGABE_PFAD: ${{ inputs.bild_ausgabe }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add OPENROUTER.md MODELLINFO.md daten/openrouter.json bilder/openrouter 2>/dev/null || true
+          git add LEKTORAT.md daten/lektorat.json 2>/dev/null || true
+          git add buch2/LEKTORAT.md daten/lektorat-buch2.json 2>/dev/null || true
+          # Am 15.08.2026 lief eine Bilderzeugung durch, meldete Erfolg --
+          # und das Bild war weg. Der Ausgabepfad lag ausserhalb der oben
+          # aufgezaehlten Verzeichnisse, `git add` nahm ihn nicht mit, und
+          # der Runner wurde samt Datei abgeraeumt. Ein Werkzeug, das sein
+          # Ergebnis still wegwirft und dabei gruen meldet, ist schlimmer
+          # als eins, das scheitert. Deshalb wird der tatsaechlich
+          # angeforderte Pfad immer mitgenommen.
+          # Nicht der Dateiname, sondern sein Verzeichnis: Das Skript
+          # setzt die Endung nach dem tatsaechlichen Medientyp der
+          # Antwort. Angefordert war jonas.png, geschrieben wurde
+          # jonas.jpg -- ein `git add` auf den exakten Namen fand nichts,
+          # und der Lauf meldete wieder "Keine Aenderung." bei gruenem
+          # Haken.
+          if [ -n "${BILD_AUSGABE_PFAD}" ]; then
+            git add "$(dirname "${BILD_AUSGABE_PFAD}")" 2>/dev/null || true
+          fi
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "OpenRouter-Zugang geprüft, $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

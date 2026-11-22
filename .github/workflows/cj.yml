@@ -1,0 +1,213 @@
+name: CJ-Katalog durchsuchen
+
+# Sucht im CJ-Katalog nach Artikeln mit geprüftem Bestand im deutschen
+# Lager. Die Webseite von CJ verlangt bei Such- und Listenseiten eine
+# Captcha-Prüfung; die offizielle API ist der vorgesehene Weg und liefert
+# obendrein Bestand, Bearbeitungszeit und die Zahl der Händler, die den
+# Artikel bereits führen.
+#
+# Ohne das Secret CJ_API_KEY läuft der Job durch und gibt die
+# Einrichtungsanleitung aus, statt rot zu werden.
+on:
+  workflow_dispatch:
+    inputs:
+      begriffe:
+        description: "Suchbegriffe (englisch, Komma-getrennt) statt cj.config.json"
+        required: false
+      faktor:
+        description: "Mindestaufschlag auf den Einstandspreis (Standard 2.5)"
+        required: false
+        default: "2.5"
+      kassetten:
+        description: "Echte CJ-Antworten aufzeichnen (fuer die Tests)"
+        type: boolean
+        default: false
+      skus:
+        description: "SKUs vollstaendig abrufen (Komma-getrennt), fuer neue Produkte"
+        required: false
+      bildgroessen:
+        description: "Echte Pixelmaße der SKU-Produktbilder mitmessen"
+        type: boolean
+        default: false
+  # Sonntags 04:00 UTC, eine Stunde nach der Seitenprüfung. Bestände und
+  # Listungszahlen ändern sich; eine Zeitreihe zeigt, was sich bewegt.
+permissions:
+  contents: write
+
+jobs:
+  cj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Meldet ausschließlich die Zeichenzahl, nie den Wert. Das trennt
+      # "gar nicht gesetzt" von "unter einem anderen Namen gesetzt" und
+      # von "gesetzt, aber leer" — drei Fälle, die im Log sonst gleich
+      # aussehen. GitHub schwärzt Secrets ohnehin, aber eine Länge ist
+      # auch dann unbedenklich, wenn sie irgendwo hängen bleibt.
+      - name: Zugang prüfen
+        env:
+          A: ${{ secrets.CJ_API_KEY }}
+          B: ${{ secrets.CJ_APIKEY }}
+          C: ${{ secrets.CJ_KEY }}
+          D: ${{ secrets.CJ_TOKEN }}
+          E: ${{ secrets.CJDROPSHIPPING_API_KEY }}
+          # Der Reiter "Variables" liegt direkt neben "Secrets" auf
+          # derselben Seite. Dort gelandet, heißt es vars statt secrets —
+          # eine Verwechslung, die im Log genauso aussieht wie "fehlt".
+          V: ${{ vars.CJ_API_KEY }}
+          # Beweist, dass in diesem Job überhaupt Secrets ankommen.
+          T: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch:     ${{ github.ref_name }}"
+          echo ""
+          for n in A B C D E V T; do
+            wert="${!n}"
+            case "$n" in
+              A) name="secrets.CJ_API_KEY";; B) name="secrets.CJ_APIKEY";;
+              C) name="secrets.CJ_KEY";;     D) name="secrets.CJ_TOKEN";;
+              E) name="secrets.CJDROPSHIPPING_API_KEY";;
+              V) name="vars.CJ_API_KEY";;
+              T) name="secrets.GITHUB_TOKEN (Kontrolle)";;
+            esac
+            printf '%-38s %s Zeichen\n' "$name" "${#wert}"
+          done
+          echo ""
+          echo "Der CJ-Schlüssel hat rund 40 bis 60 Zeichen."
+          echo "Hat die Kontrollzeile GITHUB_TOKEN eine Länge > 0, kommen"
+          echo "Secrets in diesem Job grundsätzlich an — dann liegt es am"
+          echo "Namen, am Reiter oder am Repository."
+
+      # Nimmt echte Antworten auf, damit die Tests gegen die Wirklichkeit
+      # laufen statt gegen handgeschriebene Attrappen. Zugangsdaten werden
+      # vor dem Schreiben geschwärzt und die Dateien danach gegengelesen —
+      # findet die Prüfung etwas, löscht sie die Kassette und bricht ab.
+      - name: Antworten aufzeichnen
+        if: inputs.kassetten
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+        run: |
+          pip install --quiet vcrpy
+          python3 scripts/aufzeichnen.py
+
+      # Holt alles zu einzelnen SKUs und legt es ungefiltert ab — Bilder,
+      # Varianten, Beschreibung. Grundlage, um daraus deutsche Produkte
+      # anzulegen.
+      - name: Produktdaten holen
+        if: inputs.skus != ''
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          SKUS: ${{ inputs.skus }}
+          BILDGROESSEN: ${{ inputs.bildgroessen }}
+        run: |
+          ARGS=(--skus "$SKUS")
+          if [ "$BILDGROESSEN" = "true" ]; then ARGS+=(--bildgroessen); fi
+          python3 scripts/produktdaten.py "${ARGS[@]}"
+
+      # Die Eingabe geht über eine Umgebungsvariable und von dort als
+      # Argument ins Skript. Direkt in die Shell-Zeile eingesetzt wäre sie
+      # ausführbarer Text — eine Eingabe, die jeder mit Schreibrechten
+      # setzen kann, gehört nicht in eine Kommandozeile.
+      - name: Katalog abfragen
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          BEGRIFFE: ${{ inputs.begriffe }}
+        run: |
+          if [ -n "$BEGRIFFE" ]; then
+            python3 scripts/cj.py --config cj.config.json --out daten \
+              --begriffe "$BEGRIFFE"
+          else
+            python3 scripts/cj.py --config cj.config.json --out daten
+          fi
+
+      # Direkt hinterher, solange das Token gilt: Fracht und Wechselkurs
+      # holen und ausrechnen, welcher Verkaufspreis den Faktor traegt.
+      - name: Verkaufspreise rechnen
+        continue-on-error: true
+        env:
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+          FAKTOR: ${{ inputs.faktor }}
+        run: python3 scripts/marge.py --faktor "${FAKTOR:-2.5}"
+
+      # Laeuft bei jedem Lauf mit, auch ohne frische Aufnahme. Faellt ein
+      # Test um, hat CJ etwas geaendert -- besser hier als in einer
+      # Auswertung, die niemand mehr nachrechnet.
+      - name: Tests gegen die Aufzeichnungen
+        if: always()
+        run: |
+          if [ -d kassetten ]; then
+            pip install --quiet pyyaml
+            python3 tests/test_kassetten.py
+          else
+            echo "Keine Kassetten vorhanden, Tests übersprungen."
+          fi
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: |
+          if [ -f CJ.md ]; then
+            cat CJ.md >> $GITHUB_STEP_SUMMARY
+          else
+            {
+              echo "### Keine Katalogdaten"
+              echo ""
+              echo "Vermutlich fehlt das Secret CJ_API_KEY. Die Anleitung"
+              echo "steht im Log des Schritts \"Katalog abfragen\"."
+            } >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Ergebnis committen
+        run: |
+          if [ ! -f CJ.md ] && [ ! -f daten/produkte-roh.json ]; then
+            echo "Nichts abgefragt, nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten/cj-*.json daten/marge-aktuell.json CJ.md MARGE.md
+          [ -f daten/produkte-roh.json ] && git add daten/produkte-roh.json || true
+          [ -d kassetten ] && git add kassetten || true
+          if git diff --cached --quiet; then
+            echo "Keine Änderung."
+            exit 0
+          fi
+          git commit -m "CJ-Katalog vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: cj
+          path: |
+            daten/cj-*.json
+            daten/marge-aktuell.json
+            CJ.md
+            MARGE.md
+          retention-days: 90
+          if-no-files-found: warn

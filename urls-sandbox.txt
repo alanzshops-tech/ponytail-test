@@ -1,0 +1,15 @@
+# Sandbox-Vorschau. Dieselben Seiten wie urls-shop.txt, damit sich die
+# Messungen direkt vergleichen lassen.
+#
+# ACHTUNG, die Nummer altert. Bis zum 10.08.2026 stand hier 182665347395 --
+# das war da laengst das VEROEFFENTLICHTE Theme. Beide Listen zeigten also
+# auf denselben Shop, und ein Vergleich "Sandbox gegen Live" haette
+# zuverlaessig "kein Unterschied" ergeben. Vor jedem Vergleich pruefen,
+# dass diese ID wirklich ein unveroeffentlichtes Theme ist.
+# Stand 10.08.2026: 182664790339 "Sandbox Ausbau - Claude".
+https://www.homeeins.de/?preview_theme_id=182664790339
+https://www.homeeins.de/collections/hunde?preview_theme_id=182664790339
+https://www.homeeins.de/products/hundesofa-samt-erhoeht-xxl?preview_theme_id=182664790339
+https://www.homeeins.de/products/sitzbank-stauraum-gepolstert-klappbar?preview_theme_id=182664790339
+https://www.homeeins.de/cart?preview_theme_id=182664790339
+https://www.homeeins.de/products/samt-sessel-design-armlehnen-holzbeine?preview_theme_id=182664790339

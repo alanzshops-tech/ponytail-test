@@ -1,0 +1,9 @@
+extends: existence
+message: "Erklärt dem Leser, was er sieht: '%s'"
+level: suggestion
+ignorecase: true
+tokens:
+  - was bedeutet, dass
+  - was so viel heißt wie
+  - mit anderen Worten
+  - das heißt also

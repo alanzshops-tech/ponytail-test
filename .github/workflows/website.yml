@@ -1,0 +1,266 @@
+name: Shop messen
+
+# Fotografiert den Shop und misst, was ein Besucher erlebt. Die
+# abgeschottete Arbeitsumgebung erreicht den Shop nicht — ohne diesen
+# Lauf gibt es weder Bilder noch Ladezeiten, und ohne beides kein Urteil
+# über Design oder Conversion.
+#
+# Zusätzlich Lighthouse, Googles eigenes Messwerkzeug: Es liefert die
+# Kennzahlen, nach denen Google selbst bewertet.
+on:
+  workflow_dispatch:
+    inputs:
+      zoom_pfad:
+        description: "Zusätzlich Bild-Zoom auf dem Handy prüfen für diesen Produktpfad (leer = überspringen)"
+        required: false
+        default: ""
+      schema_urls:
+        description: "Zusätzlich strukturierte Daten (JSON-LD) prüfen, Leerzeichen-getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      bild_urls:
+        description: "Bild-URLs herunterladen, Leerzeichen-getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      bild_ordner:
+        description: "Zielordner für bild_urls, unter bilder/"
+        required: false
+        default: "bilder/heruntergeladen"
+      kdp_begriffe:
+        description: "KDP-Nischen messen, Begriffe durch | getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      kdp_markt:
+        description: "Marktplatz für die KDP-Messung: de oder com"
+        required: false
+        default: "de"
+      cover_begriffe:
+        description: "Cover der Nischen messen, Begriffe durch | getrennt (leer = überspringen)"
+        required: false
+        default: ""
+      cover_anzahl:
+        description: "Cover je Nische"
+        required: false
+        default: "12"
+      ohne_shop:
+        description: "true = Shop-Fotos und Lighthouse überspringen (für reine Cover- oder Nischenläufe)"
+        required: false
+        default: "false"
+      url_datei:
+        description: "Welche URL-Liste fotografieren (z. B. urls-vorschau.txt)"
+        required: false
+        default: "urls-shop.txt"
+      praefix:
+        description: "Präfix für die Bilddateien, z. B. nachher- (sonst überschreibt die Aufnahme die alte)"
+        required: false
+        default: ""
+  # Montags 07:00 UTC, nach dem Search-Console-Bericht.
+permissions:
+  contents: write
+
+# Zwei gleichzeitige Laeufe haben sich am 14.08.2026 ueberholt (18:33 und
+# 18:45). Der Commit-Schritt rebased mit -X theirs -- das ist fuer
+# Bildschirmfotos richtig (Binaerdateien, der frischere Lauf hat recht),
+# fuer Datendateien aber falsch: Es fuehrt JSON hunk-weise zusammen. Das
+# Ergebnis war eine syntaktisch gueltige, inhaltlich vermischte Datei mit
+# 15 statt 8 Eintraegen, in der ein Eintrag das Etikett des einen Laufs
+# und die Daten des anderen trug.
+# Hier an der Wurzel behoben: Laeufe warten aufeinander, statt sich zu
+# ueberholen. cancel-in-progress bleibt aus, weil ein halb fertiger
+# Messlauf schlimmer ist als ein spaeterer.
+concurrency:
+  group: shop-messen
+  cancel-in-progress: false
+
+jobs:
+  messen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Browser einrichten
+        run: |
+          pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+
+      # Ueberspringbar, damit ein reiner Cover-Lauf nicht eine halbe
+      # Stunde den Shop fotografiert. Standard bleibt: laeuft.
+      - name: Fotografieren und messen
+        if: inputs.ohne_shop != 'true'
+        env:
+          URL_DATEI: ${{ inputs.url_datei || 'urls-shop.txt' }}
+          PRAEFIX: ${{ inputs.praefix }}
+        run: python3 scripts/webcheck.py --urls "$URL_DATEI" --praefix "$PRAEFIX"
+
+      # Rein zum Herunterladen -- die Arbeitsumgebung erreicht
+      # cdn.shopify.com nicht, der Runner schon.
+      - name: Bilder herunterladen
+        if: inputs.bild_urls != ''
+        continue-on-error: true
+        env:
+          BILD_URLS: ${{ inputs.bild_urls }}
+          BILD_ORDNER: ${{ inputs.bild_ordner }}
+        run: |
+          pip install --quiet requests
+          python3 scripts/bilder_holen.py --urls $BILD_URLS --ordner "$BILD_ORDNER"
+
+      # Misst Nachfrage und Wettbewerb fuer Buchnischen. Kleinvolumig und
+      # nur lesend -- Amazons Nutzungsbedingungen untersagen
+      # automatisierten Zugriff, das ist eine Grauzone und im Skriptkopf
+      # dokumentiert. Deshalb Pausen und wenige Seiten je Lauf.
+      # Der Trenner ist |, nicht das Leerzeichen: Suchbegriffe wie
+      # "milliardär liebesroman" bestehen aus mehreren Woertern.
+      - name: KDP-Nischen messen
+        if: inputs.kdp_begriffe != ''
+        continue-on-error: true
+        env:
+          KDP_BEGRIFFE: ${{ inputs.kdp_begriffe }}
+          KDP_MARKT: ${{ inputs.kdp_markt }}
+        run: |
+          python3 - <<'PY' > /tmp/begriffe.txt
+          import os
+          for b in os.environ["KDP_BEGRIFFE"].split("|"):
+              b = b.strip()
+              if b:
+                  print(b)
+          PY
+          mapfile -t BEGRIFFE < /tmp/begriffe.txt
+          printf 'Begriffe: %s\n' "${BEGRIFFE[@]}"
+          python3 scripts/kdp_nischen.py --markt "$KDP_MARKT" \
+            --begriffe "${BEGRIFFE[@]}"
+
+      # Holt die Cover der Spitzentitel und misst sie. Eigenes Messgeraet,
+      # weil "schau dir an, was in deiner Nische funktioniert" ohne
+      # Kontaktbogen und Zahlen nur Erinnerung ist.
+      # Zuerst die Kalibrierung, allein: Schlaegt sie fehl, wird gar nicht
+      # gemessen. Deshalb hier KEIN continue-on-error auf dem Selbsttest.
+      - name: Cover-Messgerät kalibrieren
+        if: inputs.cover_begriffe != ''
+        run: |
+          pip install --quiet pillow
+          python3 scripts/cover.py --selbsttest
+
+      - name: Cover holen und messen
+        if: inputs.cover_begriffe != ''
+        continue-on-error: true
+        env:
+          COVER_BEGRIFFE: ${{ inputs.cover_begriffe }}
+          COVER_MARKT: ${{ inputs.kdp_markt }}
+          COVER_ANZAHL: ${{ inputs.cover_anzahl }}
+        run: |
+          python3 - <<'PY' > /tmp/cover_begriffe.txt
+          import os
+          for b in os.environ["COVER_BEGRIFFE"].split("|"):
+              b = b.strip()
+              if b:
+                  print(b)
+          PY
+          mapfile -t BEGRIFFE < /tmp/cover_begriffe.txt
+          printf 'Cover-Begriff: %s\n' "${BEGRIFFE[@]}"
+          python3 scripts/cover.py --markt "$COVER_MARKT" \
+            --anzahl "$COVER_ANZAHL" --begriffe "${BEGRIFFE[@]}"
+
+      # Eigener, optionaler Schritt: prueft echten Tap-Zoom auf dem Handy,
+      # nicht nur ob die Seite laedt. Siehe PRODUKTBILDER.md.
+      - name: Bild-Zoom pruefen
+        if: inputs.zoom_pfad != ''
+        continue-on-error: true
+        env:
+          ZOOM_PFAD: ${{ inputs.zoom_pfad }}
+        run: python3 scripts/zoomprobe.py --pfad "$ZOOM_PFAD"
+
+      # Rein lesend: prueft, ob und wie vollstaendig Product-Schema
+      # (JSON-LD) auf den Seiten steht. Siehe TRAFFIC.md.
+      - name: Strukturierte Daten pruefen
+        if: inputs.schema_urls != ''
+        continue-on-error: true
+        env:
+          SCHEMA_URLS: ${{ inputs.schema_urls }}
+        run: python3 scripts/schemaprobe.py --urls $SCHEMA_URLS
+
+      # Lighthouse misst nach Googles eigenen Kriterien. Mobil, weil dort
+      # die Mehrheit ankommt und die Schwächen sichtbarer sind.
+      - name: Lighthouse
+        if: inputs.ohne_shop != 'true'
+        continue-on-error: true
+        run: |
+          npm install -g lighthouse@12 --silent
+          mkdir -p daten/lighthouse
+          while read -r u; do
+            case "$u" in ''|\#*) continue;; esac
+            name=$(echo "$u" | sed 's|https://www.homeeins.de||; s|[^A-Za-z0-9]|-|g; s|^-*||; s|-*$||')
+            [ -z "$name" ] && name=startseite
+            echo "Lighthouse: $u"
+            lighthouse "$u" --quiet --preset=desktop --output=json \
+              --output-path="daten/lighthouse/$name.json" \
+              --chrome-flags="--headless --no-sandbox" \
+              --only-categories=performance,accessibility,best-practices,seo \
+              || echo "  fehlgeschlagen"
+          done < urls-shop.txt
+          python3 - <<'PY'
+          import json, pathlib
+          zeilen = ["", "## Lighthouse (Google-Bewertung, Desktop)", "",
+                    "| Seite | Tempo | Barrierefreiheit | Praxis | SEO |",
+                    "|---|---:|---:|---:|---:|"]
+          for f in sorted(pathlib.Path("daten/lighthouse").glob("*.json")):
+              try:
+                  d = json.loads(f.read_text())
+              except Exception:
+                  continue
+              c = d.get("categories", {})
+              def s(k):
+                  v = (c.get(k) or {}).get("score")
+                  return round(v * 100) if v is not None else "–"
+              zeilen.append(f"| {f.stem} | {s('performance')} | "
+                            f"{s('accessibility')} | {s('best-practices')} | {s('seo')} |")
+          zeilen += ["", "Skala 0 bis 100. Unter 50 ist rot, ab 90 gut.", ""]
+          p = pathlib.Path("WEBSITE.md")
+          p.write_text(p.read_text(encoding="utf-8") + "\n".join(zeilen) + "\n",
+                       encoding="utf-8")
+          print("Lighthouse-Werte an WEBSITE.md angehängt")
+          PY
+
+      - name: Bericht in die Zusammenfassung
+        if: always()
+        run: '[ -f WEBSITE.md ] && cat WEBSITE.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bilder WEBSITE.md daten/webcheck-aktuell.json 2>/dev/null || true
+          git add ZOOMPROBE.md daten/zoomprobe.json 2>/dev/null || true
+          git add SCHEMAPROBE.md daten/schemaprobe.json 2>/dev/null || true
+          git add KDP-NISCHEN.md daten/kdp-nischen.json 2>/dev/null || true
+          git add cover COVER.md daten/cover.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Shop-Messung vom $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1

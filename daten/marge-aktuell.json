@@ -1,0 +1,1079 @@
+{
+  "stand": "2026-08-13",
+  "faktor": 2.5,
+  "kurs_usd_eur": 1.0,
+  "kursdatum": "keine Umrechnung",
+  "umsatzsteuer_prozent": 0.0,
+  "zeilen": [
+    {
+      "nische": "Bürostuhl",
+      "name": "Swivel Shower Chair For Inside Shower, Adjustable Round Shower Stool With Back Scrubber, Shower Seat For Inside Tub Bathroom Ben",
+      "sku": "CJSD3017761",
+      "gelistet_von": 2,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 24.86,
+      "fracht_usd": 0.0,
+      "einstand_eur": 24.86,
+      "vk_ohne_steuer": 62.15,
+      "vk": 62.15,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Bürostuhl",
+      "name": "PU Leather Ergonomic Office Chair Swivel Computer Gaming Chair With Lumbar Support",
+      "sku": "CJJT2388879",
+      "gelistet_von": 175,
+      "bestand_liste": 37,
+      "bestand_de": 37,
+      "bestand_welt": 37,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 63.59,
+      "fracht_usd": 0.0,
+      "einstand_eur": 63.59,
+      "vk_ohne_steuer": 158.98,
+      "vk": 158.98,
+      "versandart": "UPS DE to DE",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Raumteiler",
+      "name": "67 X 24 In Grid Wall Panels, 2 Packs Wire Gridwall Display Racks Tower With T-Base, Floorstanding Double Side Gridwall Panels, Retail Display With Extra Clips And Hooks For Art Craft Shows",
+      "sku": "CJSB2825204",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 54.75,
+      "fracht_usd": 0.0,
+      "einstand_eur": 54.75,
+      "vk_ohne_steuer": 136.88,
+      "vk": 136.88,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Dampfreiniger",
+      "name": "Cleaner Multipurpose Steamer 21-Piece Accessory Kit Floor Mop Handheld Steam Cleaner",
+      "sku": "CJSD3017752",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 35.05,
+      "fracht_usd": 0.0,
+      "einstand_eur": 35.05,
+      "vk_ohne_steuer": 87.62,
+      "vk": 87.62,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Dampfreiniger",
+      "name": "Handheld Steam Cleaner, Cleaning Essentials & Perfect Gift, 5Bar High-Pressure Steam With 2000Ml Water Tank, 180° Swivel Nozzle, Plastic, For Home Kitchen Bathroom Tiles Car",
+      "sku": "CJSD3017815",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 100.44,
+      "fracht_usd": 0.0,
+      "einstand_eur": 100.44,
+      "vk_ohne_steuer": 251.1,
+      "vk": 251.1,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Polsterreiniger",
+      "name": "Classic Fabric Cleaner, 400W 9KPa Handheld Carpet Cleaner, Portable Spray-Suction All-in-One Washer For Car/Sofa/Pet Hair/Stain Removal",
+      "sku": "CJSD3017763",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 46.83,
+      "fracht_usd": 0.0,
+      "einstand_eur": 46.83,
+      "vk_ohne_steuer": 117.07,
+      "vk": 117.07,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Polsterreiniger",
+      "name": "Handheld High Power Carpet Cleaner For Pet Hair Sofa Curtain Spray Suction Integrated Machine Household Clean Machine Vacuum",
+      "sku": "CJSD3017732",
+      "gelistet_von": 2,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 40.96,
+      "fracht_usd": 0.0,
+      "einstand_eur": 40.96,
+      "vk_ohne_steuer": 102.4,
+      "vk": 102.4,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Nass-Trockensauger",
+      "name": "Compatible With Dyson Vacuum Cleaner Accessories: Roller Suction Heads V7/V8/V10/V11 Compatible With Dyson V7V8V10V11 Anti-entanglement Direct Drive Suction Heads",
+      "sku": "CJSD2785133",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 43.45,
+      "fracht_usd": 0.0,
+      "einstand_eur": 43.45,
+      "vk_ohne_steuer": 108.62,
+      "vk": 108.62,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Nass-Trockensauger",
+      "name": "1-Piece Universal Vacuum Cleaner Attachment Replacement For V6, DC45, DC59, DC61, DC62 Models - Reusable And Durable, Long-Lasting Cleaning Performance - Essential",
+      "sku": "CJSD3018048",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 22.17,
+      "fracht_usd": 0.0,
+      "einstand_eur": 22.17,
+      "vk_ohne_steuer": 55.43,
+      "vk": 55.43,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Akkustaubsauger",
+      "name": "Wall Mount Charging Dock For Dyson V7 V8 Cordless Vacuum Cleaner Models",
+      "sku": "CJSD3017838",
+      "gelistet_von": 2,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 13.2,
+      "fracht_usd": 0.0,
+      "einstand_eur": 13.2,
+      "vk_ohne_steuer": 33.0,
+      "vk": 33.0,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Akkustaubsauger",
+      "name": "120W Cordless Handheld Vacuum Cleaner Vacuum Cleaner Lithium Battery For Car Office Home",
+      "sku": "CJSD3017779",
+      "gelistet_von": 10,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 20.1,
+      "fracht_usd": 0.0,
+      "einstand_eur": 20.1,
+      "vk_ohne_steuer": 50.25,
+      "vk": 50.25,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Hochdruckreiniger",
+      "name": "1000W Handheld Steam Cleaner Steam Cleaner Multi-Cleaner High Pressure Cleaner 280ml",
+      "sku": "CJSD3017799",
+      "gelistet_von": 2,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 25.97,
+      "fracht_usd": 0.0,
+      "einstand_eur": 25.97,
+      "vk_ohne_steuer": 64.92,
+      "vk": 64.92,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Akkuschrauber",
+      "name": "Pagoda Drill Bit 3-piece Set, Hexagonal Handle Straight Groove Metric Large 3PC Iron Box (380g)",
+      "sku": "CJSD2785006",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 15.85,
+      "fracht_usd": 0.0,
+      "einstand_eur": 15.85,
+      "vk_ohne_steuer": 39.62,
+      "vk": 39.62,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Akkuschrauber",
+      "name": "Electric Screwdriver Set 9 Bits USB Rechargeable Cordless Lithium Battery Power Screwdriver Kit Black Box",
+      "sku": "CJSD3017710",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 19.87,
+      "fracht_usd": 0.0,
+      "einstand_eur": 19.87,
+      "vk_ohne_steuer": 49.68,
+      "vk": 49.68,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Werkzeugkoffer",
+      "name": "TIRE REPAIR SET 58 PCS MOTORCYCLE/CAR TIRE PATCH KIT EMERGENCY TOOL SET",
+      "sku": "CJSD3017807",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 13.75,
+      "fracht_usd": 0.0,
+      "einstand_eur": 13.75,
+      "vk_ohne_steuer": 34.38,
+      "vk": 34.38,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Werkzeugkoffer",
+      "name": "Engine Adjustment Tool Timing Locking Tool Set For Audi/ Seat/ Skoda/ Volkswagen",
+      "sku": "CJSD2785312",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 14.1,
+      "fracht_usd": 0.0,
+      "einstand_eur": 14.1,
+      "vk_ohne_steuer": 35.25,
+      "vk": 35.25,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Batterietester",
+      "name": "Battery Tester 6/12V Battery Tester Battery Battery Car Automotive Car Battery Charging Tester",
+      "sku": "CJSD3017789",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 17.93,
+      "fracht_usd": 0.0,
+      "einstand_eur": 17.93,
+      "vk_ohne_steuer": 44.83,
+      "vk": 44.83,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Anhängerkupplung",
+      "name": "Heavy-Duty 3T Car Tow Bar With Spring Damping - 3000kg Capacity - Easy Installation, Red For High Visibility, Includes Portable Storage Pouch - Ideal For Roadside Breakdown Assistance",
+      "sku": "CJSD3017974",
+      "gelistet_von": 0,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 41.74,
+      "fracht_usd": 0.0,
+      "einstand_eur": 41.74,
+      "vk_ohne_steuer": 104.35,
+      "vk": 104.35,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Anhängerkupplung",
+      "name": "4Pcs Caravan Jack Pads Leveller Wheel Foot Leg Support Jacking Lift Pad Support Stand For Trailers RV Universal Jack Lift Pad",
+      "sku": "CJSD2785094",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 17.85,
+      "fracht_usd": 0.0,
+      "einstand_eur": 17.85,
+      "vk_ohne_steuer": 44.62,
+      "vk": 44.62,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Drehmomentschlüssel",
+      "name": "Preset Torque Wrench 15-piece Set Suitable For Bicycle DIY, Workshop Work, Factory Maintenance, And Other Industries",
+      "sku": "CJSD3018017",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 22.22,
+      "fracht_usd": 0.0,
+      "einstand_eur": 22.22,
+      "vk_ohne_steuer": 55.55,
+      "vk": 55.55,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Drehmomentschlüssel",
+      "name": "Pipe Cutter Exhaust Pipe Cutter 18-90mm Chain Pipe Cutter Pipe Wrench",
+      "sku": "CJSD3017801",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 19.51,
+      "fracht_usd": 0.0,
+      "einstand_eur": 19.51,
+      "vk_ohne_steuer": 48.78,
+      "vk": 48.78,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Stirnlampe",
+      "name": "99000000LM Stärkste Wiederaufladbare Stirnlampe Superhelles LED Kopf Taschenlamp",
+      "sku": "CJLY2830642",
+      "gelistet_von": 1,
+      "bestand_liste": 690,
+      "bestand_de": 690,
+      "bestand_welt": 1380,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 10.25,
+      "fracht_usd": 0.0,
+      "einstand_eur": 10.25,
+      "vk_ohne_steuer": 25.62,
+      "vk": 25.62,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Stirnlampe",
+      "name": "LED Stirnlampe Super Hell 60000LM USB Wiederaufladbar Bewegungssensor Kopflampe",
+      "sku": "CJLY2830636",
+      "gelistet_von": 2,
+      "bestand_liste": 460,
+      "bestand_de": 460,
+      "bestand_welt": 920,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 9.2,
+      "fracht_usd": 0.0,
+      "einstand_eur": 9.2,
+      "vk_ohne_steuer": 23.0,
+      "vk": 23.0,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Taschenlampe",
+      "name": "2 / 4 Stück 3000mAh 3.7V Akku Und Ladegerät Für Akkus Wie Taschenlampen Ersatz",
+      "sku": "CJDD2839051",
+      "gelistet_von": 1,
+      "bestand_liste": 460,
+      "bestand_de": 460,
+      "bestand_welt": 920,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 6.91,
+      "fracht_usd": 0.0,
+      "einstand_eur": 6.91,
+      "vk_ohne_steuer": 17.27,
+      "vk": 17.27,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Taschenlampe",
+      "name": "Kleine Taschenlampe Mini Handheld Ultrahelle Leistungsstarke LED Taktische Lampe",
+      "sku": "CJLY2839087",
+      "gelistet_von": 1,
+      "bestand_liste": 460,
+      "bestand_de": 460,
+      "bestand_welt": 920,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 8.55,
+      "fracht_usd": 0.0,
+      "einstand_eur": 8.55,
+      "vk_ohne_steuer": 21.38,
+      "vk": 21.38,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Arbeitsleuchte",
+      "name": "8 Inches 84 LED Work Light",
+      "sku": "CJSD2785037",
+      "gelistet_von": 3,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 17.89,
+      "fracht_usd": 0.0,
+      "einstand_eur": 17.89,
+      "vk_ohne_steuer": 44.73,
+      "vk": 44.73,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Solar-Halterung",
+      "name": "4-saitige PV Kombinationskasten 15 A Sicherungskasten, 500 V Wohnungsverteiler, IP65 Schutzart Zählerschrank Leitungsschutzschalter Für Solarpaneel",
+      "sku": "CJFU2708245",
+      "gelistet_von": 0,
+      "bestand_liste": 95,
+      "bestand_de": 95,
+      "bestand_welt": 95,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 77.64,
+      "fracht_usd": 0.0,
+      "einstand_eur": 77.64,
+      "vk_ohne_steuer": 194.1,
+      "vk": 194.1,
+      "versandart": "DPD DE to DE",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Solar-Halterung",
+      "name": "12cm U-shaped Rail Solar Photovoltaic Bracket Silver Rail Six-piece Set",
+      "sku": "CJSD2785023",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 20.06,
+      "fracht_usd": 0.0,
+      "einstand_eur": 20.06,
+      "vk_ohne_steuer": 50.15,
+      "vk": 50.15,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Akku-Ladegerät",
+      "name": "4 Stück Wiederaufladbare Li-Ionen-Akkus 3,7 V 1300 MAh Mehrzweck-Akkus+Ladegerät",
+      "sku": "CJDD2839079",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 8.0,
+      "fracht_usd": 0.0,
+      "einstand_eur": 8.0,
+      "vk_ohne_steuer": 20.0,
+      "vk": 20.0,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Duschhocker",
+      "name": "Commode Chair, Height Adjustable Shower Wheelchair, Foldable Bath Chair, Toilet Chair With Padded Seat & Bedpan, Stable & Comfortable",
+      "sku": "CJSD3017772",
+      "gelistet_von": 0,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 27.14,
+      "fracht_usd": 0.0,
+      "einstand_eur": 27.14,
+      "vk_ohne_steuer": 67.85,
+      "vk": 67.85,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Duschhocker",
+      "name": "Commode Chair, Height Adjustable Shower Wheelchair, Foldable Bath Chair, Toilet Chair With Padded Seat & Bedpan, Stable & Comfortable",
+      "sku": "CJSD3017771",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 22.87,
+      "fracht_usd": 0.0,
+      "einstand_eur": 22.87,
+      "vk_ohne_steuer": 57.18,
+      "vk": 57.18,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Atemschutzmaske",
+      "name": "Reusable Full Face Cover 16 In 1 Gas Cover Organic Vapor Respirator For Painting Machine Polishing Welding Work Protection",
+      "sku": "CJSD2785371",
+      "gelistet_von": 1,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 18.69,
+      "fracht_usd": 0.0,
+      "einstand_eur": 18.69,
+      "vk_ohne_steuer": 46.73,
+      "vk": 46.73,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Atemschutzmaske",
+      "name": "Halbe Gesicht Maske Atemschutzgerät Mit Filters Wiederverwendbar Gesichtsschutz",
+      "sku": "CJBG2839063",
+      "gelistet_von": 2,
+      "bestand_liste": 460,
+      "bestand_de": 460,
+      "bestand_welt": 920,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 8.55,
+      "fracht_usd": 0.0,
+      "einstand_eur": 8.55,
+      "vk_ohne_steuer": 21.38,
+      "vk": 21.38,
+      "versandart": "DHL DE to DE #4",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #4",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Kettensäge",
+      "name": "4pcs Original Saw Chain 35cm 3/8\" 52 Drive Links 1.1mm, Compatible With Makita DUC353 Chainsaw Models",
+      "sku": "CJSD3017736",
+      "gelistet_von": 0,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 10.32,
+      "fracht_usd": 0.0,
+      "einstand_eur": 10.32,
+      "vk_ohne_steuer": 25.8,
+      "vk": 25.8,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Wäschespinne",
+      "name": "13m Wall Mounted Retractable Double Clothesline, Indoor Outdoor Retracting Laundry Drying Rack",
+      "sku": "CJSD3017774",
+      "gelistet_von": 4,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 230,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 15.09,
+      "fracht_usd": 0.0,
+      "einstand_eur": 15.09,
+      "vk_ohne_steuer": 37.73,
+      "vk": 37.73,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Katzenhaus draußen",
+      "name": "Beheiztes Katzenhaus, Katzenunterschlupf Für Draußen Mit Einstellbarer Temperatur Und Timer, Faltbarer Katzenunterschlupf Aus 600D Oxford-Gewebe Mit Beheiztem Kissen Für Den Winter",
+      "sku": "CJFU2708253",
+      "gelistet_von": 0,
+      "bestand_liste": 289,
+      "bestand_de": 289,
+      "bestand_welt": 289,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 63.51,
+      "fracht_usd": 0.0,
+      "einstand_eur": 63.51,
+      "vk_ohne_steuer": 158.78,
+      "vk": 158.78,
+      "versandart": "DPD DE to DE",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Katzenhaus draußen",
+      "name": "Beheiztes Katzenhaus, Katzenunterschlupf Für Draußen Mit Einstellbarer Temperatur Und Timer, Faltbarer Katzenunterschlupf Aus 600D Oxford-Gewebe Mit Beheiztem Kissen Für Den Winter,",
+      "sku": "CJFU2708252",
+      "gelistet_von": 0,
+      "bestand_liste": 189,
+      "bestand_de": 189,
+      "bestand_welt": 189,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 61.22,
+      "fracht_usd": 0.0,
+      "einstand_eur": 61.22,
+      "vk_ohne_steuer": 153.05,
+      "vk": 153.05,
+      "versandart": "DPD DE to DE",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DPD DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "DHL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "UPS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "PPL DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "Fedex DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        },
+        {
+          "name": "GLS DE to DE",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    },
+    {
+      "nische": "Gewichtsdecke",
+      "name": "Class A Mica Cool Silk Single Summer Quilt Ice Cream Solid Color Double Stitching",
+      "sku": "CJYD2100152",
+      "gelistet_von": 5,
+      "bestand_liste": 2014,
+      "bestand_de": 2014,
+      "bestand_welt": 725372,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 3.69,
+      "fracht_usd": 8.94,
+      "einstand_eur": 12.63,
+      "vk_ohne_steuer": 31.57,
+      "vk": 31.57,
+      "versandart": "DE-DHL",
+      "laufzeit": "1-3",
+      "versand_inklusive": 0,
+      "versandoptionen": [
+        {
+          "name": "DE-DHL",
+          "preis": 8.94,
+          "dauer": "1-3"
+        },
+        {
+          "name": "DE-GLS",
+          "preis": 10.87,
+          "dauer": "2-6"
+        }
+      ]
+    },
+    {
+      "nische": "Wasserfilter Kanne",
+      "name": "Super Value! 6-Pack Activated Carbon Water Filter Pitcher Cartridges, Bulk 120-Count Box For Home & Kitchen, Universal Fit, Clean & Fresh Taste, Easy Installation",
+      "sku": "CJSD2785109",
+      "gelistet_von": 4,
+      "bestand_liste": 230,
+      "bestand_de": 230,
+      "bestand_welt": 460,
+      "lager": "Germany Warehouse",
+      "einkauf_usd": 19.2,
+      "fracht_usd": 0.0,
+      "einstand_eur": 19.2,
+      "vk_ohne_steuer": 48.0,
+      "vk": 48.0,
+      "versandart": "DHL DE to DE #3",
+      "laufzeit": "3-5",
+      "versand_inklusive": 1,
+      "versandoptionen": [
+        {
+          "name": "DHL DE to DE #3",
+          "preis": 0.0,
+          "dauer": "3-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+extends: existence
+message: "Klischee in dieser Nische: '%s'"
+level: warning
+ignorecase: true
+tokens:
+  - Liebe auf den ersten Blick
+  - (ihr|sein) Herz machte einen Sprung
+  - (ihr|sein) Herz schlug bis zum Hals
+  - wie aus dem Nichts
+  - eine gefühlte Ewigkeit
+  - Schmetterlinge im Bauch
+  - (sie|er) hielt den Atem an
+  - Zeit schien stillzustehen

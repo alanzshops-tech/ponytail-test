@@ -1,0 +1,3103 @@
+{
+  "stand": "2026-08-13",
+  "schluessel": {
+    "data": {
+      "is_management_key": false,
+      "is_provisioning_key": false,
+      "limit": null,
+      "limit_reset": null,
+      "limit_remaining": null,
+      "usage": 0.07532702,
+      "usage_daily": 0,
+      "usage_weekly": 0.07532702,
+      "usage_monthly": 0.07532702,
+      "is_free_tier": false,
+      "expires_at": null,
+      "rate_limit": {
+        "requests": -1,
+        "interval": "10s",
+        "note": "This field is deprecated and safe to ignore."
+      }
+    }
+  },
+  "guthaben": {
+    "data": {
+      "total_credits": 6,
+      "total_usage": 0.07532702
+    }
+  },
+  "modelle": [
+    {
+      "id": "bytedance-seed/seed-2-1-turbo",
+      "name": "ByteDance Seed: Seed 2.1 Turbo",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "qwen/qwen3.8-2.4t-a95b",
+      "name": "Qwen: Qwen3.8 2.4T A95B",
+      "kontext": 1000000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-code",
+      "name": "ByteDance Seed: Seed-2.0-Code",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro-0813",
+      "name": "DeepSeek: DeepSeek V4 Pro 0813",
+      "kontext": 1048576,
+      "preis_eingabe": 0.435,
+      "preis_ausgabe": 0.87
+    },
+    {
+      "id": "x-ai/grok-4.6",
+      "name": "SpaceXAI: Grok 4.6",
+      "kontext": 500000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "name": "LiquidAI: LFM2.5-2.6B (free)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning",
+      "name": "NVIDIA: Nemotron 3.5 Lightning",
+      "kontext": 1048576,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.25
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "kontext": 1000000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "sakana/sakana-namazu",
+      "name": "Sakana: Sakana Namazu",
+      "kontext": 262144,
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "upstage/solar-pro4",
+      "name": "Upstage: Solar Pro 4",
+      "kontext": 524288,
+      "preis_eingabe": 0.03,
+      "preis_ausgabe": 0.12
+    },
+    {
+      "id": "meta/muse-glimmer-30b",
+      "name": "Meta: Muse Glimmer 30B",
+      "kontext": 131072,
+      "preis_eingabe": 0.35,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "meta/muse-spark-1.2",
+      "name": "Meta: Muse Spark 1.2",
+      "kontext": 1048576,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 4.25
+    },
+    {
+      "id": "qwen/qwen3.8-max",
+      "name": "Qwen: Qwen3.8 Max",
+      "kontext": 1000000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "~deepseek/deepseek-v4-flash-latest",
+      "name": "DeepSeek V4 Flash Latest",
+      "kontext": 1048576,
+      "preis_eingabe": 0.08,
+      "preis_ausgabe": 0.252
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash-0731",
+      "name": "DeepSeek: DeepSeek V4 Flash 0731",
+      "kontext": 1048576,
+      "preis_eingabe": 0.08,
+      "preis_ausgabe": 0.18
+    },
+    {
+      "id": "thinkingmachines/inkling-small",
+      "name": "Thinking Machines: Inkling Small",
+      "kontext": 524288,
+      "preis_eingabe": 0.45,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "qwen/qwen3.7-flash",
+      "name": "Qwen: Qwen3.7 Flash",
+      "kontext": 1000000,
+      "preis_eingabe": 0.03,
+      "preis_ausgabe": 0.13
+    },
+    {
+      "id": "anthropic/claude-opus-5-fast",
+      "name": "Claude Opus 5 (Fast)",
+      "kontext": 1000000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 50.0
+    },
+    {
+      "id": "anthropic/claude-opus-5",
+      "name": "Claude Opus 5",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "anthropic/claude-opus-5:batch",
+      "name": "Claude Opus 5 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash",
+      "name": "Ling-3.0-flash",
+      "kontext": 262144,
+      "preis_eingabe": 0.021,
+      "preis_ausgabe": 0.063
+    },
+    {
+      "id": "poolside/laguna-s-2.1",
+      "name": "Poolside: Laguna S 2.1",
+      "kontext": 1048576,
+      "preis_eingabe": 0.09,
+      "preis_ausgabe": 0.18
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "name": "Poolside: Laguna S 2.1 (free)",
+      "kontext": 262144,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "google/gemini-3.6-flash",
+      "name": "Google: Gemini 3.6 Flash",
+      "kontext": 1048576,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "google/gemini-3.6-flash:batch",
+      "name": "Google: Gemini 3.6 Flash (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.75,
+      "preis_ausgabe": 3.75
+    },
+    {
+      "id": "google/gemini-3.5-flash-lite",
+      "name": "Google: Gemini 3.5 Flash Lite",
+      "kontext": 1048576,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "google/gemini-3.5-flash-lite:batch",
+      "name": "Google: Gemini 3.5 Flash Lite (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "meituan/longcat-2.0",
+      "name": "Meituan: LongCat 2.0",
+      "kontext": 1048756,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "thinkingmachines/inkling",
+      "name": "Thinking Machines: Inkling",
+      "kontext": 1048576,
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.05
+    },
+    {
+      "id": "thinkingmachines/inkling:batch",
+      "name": "Thinking Machines: Inkling (batch)",
+      "kontext": 524288,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.025
+    },
+    {
+      "id": "openrouter/auto-beta",
+      "name": "Auto Router (Beta)",
+      "kontext": 2000000,
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "moonshotai/kimi-k3",
+      "name": "MoonshotAI: Kimi K3",
+      "kontext": 1048576,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "meta/muse-spark-1.1",
+      "name": "Meta: Muse Spark 1.1",
+      "kontext": 1048576,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 4.25
+    },
+    {
+      "id": "kwaipilot/kat-coder-air-v2.5",
+      "name": "Kwaipilot: KAT-Coder-Air V2.5",
+      "kontext": 256000,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "kwaipilot/kat-coder-pro-v2.5",
+      "name": "Kwaipilot: KAT-Coder-Pro V2.5",
+      "kontext": 256000,
+      "preis_eingabe": 0.74,
+      "preis_ausgabe": 2.96
+    },
+    {
+      "id": "openai/gpt-5.6-luna-pro",
+      "name": "OpenAI: GPT-5.6 Luna Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-5.6-luna-pro:batch",
+      "name": "OpenAI: GPT-5.6 Luna Pro (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-5.6-luna",
+      "name": "OpenAI: GPT-5.6 Luna",
+      "kontext": 1050000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-5.6-luna:batch",
+      "name": "OpenAI: GPT-5.6 Luna (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-5.6-terra-pro",
+      "name": "OpenAI: GPT-5.6 Terra Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-5.6-terra-pro:batch",
+      "name": "OpenAI: GPT-5.6 Terra Pro (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-5.6-terra",
+      "name": "OpenAI: GPT-5.6 Terra",
+      "kontext": 1050000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-5.6-terra:batch",
+      "name": "OpenAI: GPT-5.6 Terra (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-5.6-sol-pro",
+      "name": "OpenAI: GPT-5.6 Sol Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "openai/gpt-5.6-sol-pro:batch",
+      "name": "OpenAI: GPT-5.6 Sol Pro (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "openai/gpt-5.6-sol",
+      "name": "OpenAI: GPT-5.6 Sol",
+      "kontext": 1050000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "openai/gpt-5.6-sol:batch",
+      "name": "OpenAI: GPT-5.6 Sol (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "x-ai/grok-4.5",
+      "name": "SpaceXAI: Grok 4.5",
+      "kontext": 500000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "~x-ai/grok-latest",
+      "name": "xAI: Grok Latest",
+      "kontext": 500000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "aion-labs/aion-3.0-mini",
+      "name": "AionLabs: Aion-3.0-Mini",
+      "kontext": 131072,
+      "preis_eingabe": 0.7,
+      "preis_ausgabe": 1.4
+    },
+    {
+      "id": "aion-labs/aion-3.0",
+      "name": "AionLabs: Aion-3.0",
+      "kontext": 131072,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "tencent/hy3",
+      "name": "Tencent: Hy3",
+      "kontext": 262144,
+      "preis_eingabe": 0.132,
+      "preis_ausgabe": 0.528
+    },
+    {
+      "id": "poolside/laguna-xs-2.1",
+      "name": "Poolside: Laguna XS 2.1",
+      "kontext": 262144,
+      "preis_eingabe": 0.06,
+      "preis_ausgabe": 0.12
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Poolside: Laguna XS 2.1 (free)",
+      "kontext": 262144,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-5",
+      "name": "Anthropic: Claude Sonnet 5",
+      "kontext": 1000000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-5:batch",
+      "name": "Anthropic: Claude Sonnet 5 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite-image",
+      "name": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "kontext": 65536,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "nex-agi/nex-n2-mini",
+      "name": "Nex AGI: Nex-N2-Mini",
+      "kontext": 262144,
+      "preis_eingabe": 0.025,
+      "preis_ausgabe": 0.1
+    },
+    {
+      "id": "sakana/fugu-ultra",
+      "name": "Sakana: Fugu Ultra",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "kontext": 131072,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-pro-image",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+      "kontext": 131072,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "kontext": 256000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "z-ai/glm-5.2",
+      "name": "Z.ai: GLM 5.2",
+      "kontext": 1048576,
+      "preis_eingabe": 0.63,
+      "preis_ausgabe": 1.98
+    },
+    {
+      "id": "z-ai/glm-5.2:batch",
+      "name": "Z.ai: GLM 5.2 (batch)",
+      "kontext": 512000,
+      "preis_eingabe": 0.7,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "openrouter/fusion",
+      "name": "OpenRouter: Fusion",
+      "kontext": 1000000,
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "moonshotai/kimi-k2.7-code",
+      "name": "MoonshotAI: Kimi K2.7 Code",
+      "kontext": 262144,
+      "preis_eingabe": 0.67,
+      "preis_ausgabe": 3.4
+    },
+    {
+      "id": "moonshotai/kimi-k2.7-code:batch",
+      "name": "MoonshotAI: Kimi K2.7 Code (batch)",
+      "kontext": 262144,
+      "preis_eingabe": 0.475,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "~anthropic/claude-fable-latest",
+      "name": "Anthropic: Claude Fable Latest",
+      "kontext": 1000000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 50.0
+    },
+    {
+      "id": "anthropic/claude-fable-5",
+      "name": "Anthropic: Claude Fable 5",
+      "kontext": 1000000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 50.0
+    },
+    {
+      "id": "anthropic/claude-fable-5:batch",
+      "name": "Anthropic: Claude Fable 5 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "nex-agi/nex-n2-pro",
+      "name": "Nex AGI: Nex-N2-Pro",
+      "kontext": 262144,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b",
+      "name": "NVIDIA: Nemotron 3 Ultra",
+      "kontext": 512288,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 3.6
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
+      "name": "NVIDIA: Nemotron 3 Ultra (batch)",
+      "kontext": 512288,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.8
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "name": "NVIDIA: Nemotron 3 Ultra (free)",
+      "kontext": 1000000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "qwen/qwen3.7-plus",
+      "name": "Qwen: Qwen3.7 Plus",
+      "kontext": 1000000,
+      "preis_eingabe": 0.32,
+      "preis_ausgabe": 1.28
+    },
+    {
+      "id": "minimax/minimax-m3",
+      "name": "MiniMax: MiniMax M3",
+      "kontext": 1048576,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "minimax/minimax-m3:batch",
+      "name": "MiniMax: MiniMax M3 (batch)",
+      "kontext": 524288,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "stepfun/step-3.7-flash",
+      "name": "StepFun: Step 3.7 Flash",
+      "kontext": 262144,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 1.15
+    },
+    {
+      "id": "anthropic/claude-opus-4.8-fast",
+      "name": "Anthropic: Claude Opus 4.8 (Fast)",
+      "kontext": 1000000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 50.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.8",
+      "name": "Anthropic: Claude Opus 4.8",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.8:batch",
+      "name": "Anthropic: Claude Opus 4.8 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "qwen/qwen3.7-max",
+      "name": "Qwen: Qwen3.7 Max",
+      "kontext": 1000000,
+      "preis_eingabe": 1.475,
+      "preis_ausgabe": 4.425
+    },
+    {
+      "id": "x-ai/grok-build-0.1",
+      "name": "SpaceXAI: Grok Build 0.1",
+      "kontext": 256000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "google/gemini-3.5-flash",
+      "name": "Google: Gemini 3.5 Flash",
+      "kontext": 1048576,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 9.0
+    },
+    {
+      "id": "google/gemini-3.5-flash:batch",
+      "name": "Google: Gemini 3.5 Flash (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.75,
+      "preis_ausgabe": 4.5
+    },
+    {
+      "id": "anthropic/claude-opus-4.7-fast",
+      "name": "Anthropic: Claude Opus 4.7 (Fast)",
+      "kontext": 1000000,
+      "preis_eingabe": 30.0,
+      "preis_ausgabe": 150.0
+    },
+    {
+      "id": "perceptron/perceptron-mk1",
+      "name": "Perceptron: Perceptron Mk1",
+      "kontext": 32768,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "inclusionai/ring-2.6-1t",
+      "name": "inclusionAI: Ring-2.6-1T",
+      "kontext": 262144,
+      "preis_eingabe": 0.075,
+      "preis_ausgabe": 0.625
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite",
+      "name": "Google: Gemini 3.1 Flash Lite",
+      "kontext": 1048576,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite:batch",
+      "name": "Google: Gemini 3.1 Flash Lite (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.125,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "openai/gpt-chat-latest",
+      "name": "OpenAI: GPT Chat Latest",
+      "kontext": 400000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "x-ai/grok-4.3",
+      "name": "SpaceXAI: Grok 4.3",
+      "kontext": 1000000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "ibm-granite/granite-4.1-8b",
+      "name": "IBM: Granite 4.1 8B",
+      "kontext": 131072,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.1
+    },
+    {
+      "id": "mistralai/mistral-medium-3-5",
+      "name": "Mistral: Mistral Medium 3.5",
+      "kontext": 262144,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "name": "NVIDIA: Nemotron 3 Nano Omni (free)",
+      "kontext": 256000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "~anthropic/claude-haiku-latest",
+      "name": "Anthropic Claude Haiku Latest",
+      "kontext": 200000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "~openai/gpt-mini-latest",
+      "name": "OpenAI GPT Mini Latest",
+      "kontext": 400000,
+      "preis_eingabe": 0.75,
+      "preis_ausgabe": 4.5
+    },
+    {
+      "id": "~google/gemini-pro-latest",
+      "name": "Google Gemini Pro Latest",
+      "kontext": 1048576,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "~moonshotai/kimi-latest",
+      "name": "MoonshotAI Kimi Latest",
+      "kontext": 1048576,
+      "preis_eingabe": 2.8,
+      "preis_ausgabe": 14.0
+    },
+    {
+      "id": "~google/gemini-flash-latest",
+      "name": "Google Gemini Flash Latest",
+      "kontext": 1048576,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "~anthropic/claude-sonnet-latest",
+      "name": "Anthropic Claude Sonnet Latest",
+      "kontext": 1000000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "~openai/gpt-latest",
+      "name": "OpenAI GPT Latest",
+      "kontext": 1050000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "qwen/qwen3.5-plus-20260420",
+      "name": "Qwen: Qwen3.5 Plus 2026-04-20",
+      "kontext": 1000000,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.8
+    },
+    {
+      "id": "qwen/qwen3.6-flash",
+      "name": "Qwen: Qwen3.6 Flash",
+      "kontext": 1000000,
+      "preis_eingabe": 0.1875,
+      "preis_ausgabe": 1.125
+    },
+    {
+      "id": "qwen/qwen3.6-35b-a3b",
+      "name": "Qwen: Qwen3.6 35B A3B",
+      "kontext": 262144,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "qwen/qwen3.6-max-preview",
+      "name": "Qwen: Qwen3.6 Max Preview",
+      "kontext": 262144,
+      "preis_eingabe": 1.027,
+      "preis_ausgabe": 6.162
+    },
+    {
+      "id": "qwen/qwen3.6-27b",
+      "name": "Qwen: Qwen3.6 27B",
+      "kontext": 262144,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 3.6
+    },
+    {
+      "id": "openai/gpt-5.5-pro",
+      "name": "OpenAI: GPT-5.5 Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 30.0,
+      "preis_ausgabe": 180.0
+    },
+    {
+      "id": "openai/gpt-5.5-pro:batch",
+      "name": "OpenAI: GPT-5.5 Pro (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 90.0
+    },
+    {
+      "id": "openai/gpt-5.5",
+      "name": "OpenAI: GPT-5.5",
+      "kontext": 1050000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "openai/gpt-5.5:batch",
+      "name": "OpenAI: GPT-5.5 (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro",
+      "name": "DeepSeek: DeepSeek V4 Pro",
+      "kontext": 1048576,
+      "preis_eingabe": 1.168,
+      "preis_ausgabe": 2.336
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash",
+      "name": "DeepSeek: DeepSeek V4 Flash 0423",
+      "kontext": 1048576,
+      "preis_eingabe": 0.14,
+      "preis_ausgabe": 0.28
+    },
+    {
+      "id": "inclusionai/ling-2.6-1t",
+      "name": "inclusionAI: Ling-2.6-1T",
+      "kontext": 262144,
+      "preis_eingabe": 0.075,
+      "preis_ausgabe": 0.625
+    },
+    {
+      "id": "tencent/hy3-preview",
+      "name": "Tencent: Hy3 preview",
+      "kontext": 262144,
+      "preis_eingabe": 0.063,
+      "preis_ausgabe": 0.21
+    },
+    {
+      "id": "xiaomi/mimo-v2.5-pro",
+      "name": "Xiaomi: MiMo-V2.5-Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 0.435,
+      "preis_ausgabe": 0.87
+    },
+    {
+      "id": "xiaomi/mimo-v2.5",
+      "name": "Xiaomi: MiMo-V2.5",
+      "kontext": 1050000,
+      "preis_eingabe": 0.14,
+      "preis_ausgabe": 0.28
+    },
+    {
+      "id": "openai/gpt-5.4-image-2",
+      "name": "OpenAI: GPT-5.4 Image 2",
+      "kontext": 272000,
+      "preis_eingabe": 8.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "inclusionai/ling-2.6-flash",
+      "name": "inclusionAI: Ling-2.6-flash",
+      "kontext": 262144,
+      "preis_eingabe": 0.01,
+      "preis_ausgabe": 0.03
+    },
+    {
+      "id": "~anthropic/claude-opus-latest",
+      "name": "Anthropic: Claude Opus Latest",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "openrouter/pareto-code",
+      "name": "Pareto Code Router",
+      "kontext": 2000000,
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "moonshotai/kimi-k2.6",
+      "name": "MoonshotAI: Kimi K2.6",
+      "kontext": 262144,
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.7",
+      "name": "Anthropic: Claude Opus 4.7",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.7:batch",
+      "name": "Anthropic: Claude Opus 4.7 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "z-ai/glm-5.1",
+      "name": "Z.ai: GLM 5.1",
+      "kontext": 204800,
+      "preis_eingabe": 1.4,
+      "preis_ausgabe": 4.4
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it",
+      "name": "Google: Gemma 4 26B A4B ",
+      "kontext": 262144,
+      "preis_eingabe": 0.12,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "name": "Google: Gemma 4 26B A4B  (free)",
+      "kontext": 262144,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "google/gemma-4-31b-it",
+      "name": "Google: Gemma 4 31B",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.34
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "name": "Google: Gemma 4 31B (free)",
+      "kontext": 262144,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "qwen/qwen3.6-plus",
+      "name": "Qwen: Qwen3.6 Plus",
+      "kontext": 1000000,
+      "preis_eingabe": 0.325,
+      "preis_ausgabe": 1.95
+    },
+    {
+      "id": "z-ai/glm-5v-turbo",
+      "name": "Z.ai: GLM 5V Turbo",
+      "kontext": 202752,
+      "preis_eingabe": 1.2,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "arcee-ai/trinity-large-thinking",
+      "name": "Arcee AI: Trinity Large Thinking",
+      "kontext": 262144,
+      "preis_eingabe": 0.22,
+      "preis_ausgabe": 0.85
+    },
+    {
+      "id": "x-ai/grok-4.20-multi-agent",
+      "name": "SpaceXAI: Grok 4.20 Multi-Agent",
+      "kontext": 2000000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "x-ai/grok-4.20",
+      "name": "SpaceXAI: Grok 4.20",
+      "kontext": 2000000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "name": "Google: Lyria 3 Pro Preview",
+      "kontext": 1048576,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "name": "Google: Lyria 3 Clip Preview",
+      "kontext": 1048576,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "kwaipilot/kat-coder-pro-v2",
+      "name": "Kwaipilot: KAT-Coder-Pro V2",
+      "kontext": 262144,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "rekaai/reka-edge",
+      "name": "Reka Edge",
+      "kontext": 16384,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.1
+    },
+    {
+      "id": "minimax/minimax-m2.7",
+      "name": "MiniMax: MiniMax M2.7",
+      "kontext": 204800,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "openai/gpt-5.4-nano",
+      "name": "OpenAI: GPT-5.4 Nano",
+      "kontext": 400000,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "openai/gpt-5.4-nano:batch",
+      "name": "OpenAI: GPT-5.4 Nano (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.625
+    },
+    {
+      "id": "openai/gpt-5.4-mini",
+      "name": "OpenAI: GPT-5.4 Mini",
+      "kontext": 400000,
+      "preis_eingabe": 0.75,
+      "preis_ausgabe": 4.5
+    },
+    {
+      "id": "openai/gpt-5.4-mini:batch",
+      "name": "OpenAI: GPT-5.4 Mini (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.375,
+      "preis_ausgabe": 2.25
+    },
+    {
+      "id": "mistralai/mistral-small-2603",
+      "name": "Mistral: Mistral Small 4",
+      "kontext": 262144,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "z-ai/glm-5-turbo",
+      "name": "Z.ai: GLM 5 Turbo",
+      "kontext": 202752,
+      "preis_eingabe": 1.2,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b",
+      "name": "NVIDIA: Nemotron 3 Super",
+      "kontext": 1000000,
+      "preis_eingabe": 0.085,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "name": "NVIDIA: Nemotron 3 Super (free)",
+      "kontext": 262144,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-lite",
+      "name": "ByteDance Seed: Seed-2.0-Lite",
+      "kontext": 262144,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "qwen/qwen3.5-9b",
+      "name": "Qwen: Qwen3.5-9B",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.15
+    },
+    {
+      "id": "openai/gpt-5.4-pro",
+      "name": "OpenAI: GPT-5.4 Pro",
+      "kontext": 1050000,
+      "preis_eingabe": 30.0,
+      "preis_ausgabe": 180.0
+    },
+    {
+      "id": "openai/gpt-5.4-pro:batch",
+      "name": "OpenAI: GPT-5.4 Pro (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 90.0
+    },
+    {
+      "id": "openai/gpt-5.4",
+      "name": "OpenAI: GPT-5.4",
+      "kontext": 1050000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "openai/gpt-5.4:batch",
+      "name": "OpenAI: GPT-5.4 (batch)",
+      "kontext": 1050000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "inception/mercury-2",
+      "name": "Inception: Mercury 2",
+      "kontext": 128000,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite-preview",
+      "name": "Google: Gemini 3.1 Flash Lite Preview",
+      "kontext": 1048576,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-mini",
+      "name": "ByteDance Seed: Seed-2.0-Mini",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "google/gemini-3.1-flash-image-preview",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+      "kontext": 65536,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "qwen/qwen3.5-35b-a3b",
+      "name": "Qwen: Qwen3.5-35B-A3B",
+      "kontext": 262144,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "qwen/qwen3.5-27b",
+      "name": "Qwen: Qwen3.5-27B",
+      "kontext": 262144,
+      "preis_eingabe": 0.195,
+      "preis_ausgabe": 1.56
+    },
+    {
+      "id": "qwen/qwen3.5-122b-a10b",
+      "name": "Qwen: Qwen3.5-122B-A10B",
+      "kontext": 262144,
+      "preis_eingabe": 0.29,
+      "preis_ausgabe": 2.4
+    },
+    {
+      "id": "qwen/qwen3.5-flash-02-23",
+      "name": "Qwen: Qwen3.5-Flash",
+      "kontext": 1000000,
+      "preis_eingabe": 0.065,
+      "preis_ausgabe": 0.26
+    },
+    {
+      "id": "google/gemini-3.1-pro-preview-customtools",
+      "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
+      "kontext": 1048576,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "openai/gpt-5.3-codex",
+      "name": "OpenAI: GPT-5.3-Codex",
+      "kontext": 400000,
+      "preis_eingabe": 1.75,
+      "preis_ausgabe": 14.0
+    },
+    {
+      "id": "aion-labs/aion-2.0",
+      "name": "AionLabs: Aion-2.0",
+      "kontext": 131072,
+      "preis_eingabe": 0.8,
+      "preis_ausgabe": 1.6
+    },
+    {
+      "id": "google/gemini-3.1-pro-preview",
+      "name": "Google: Gemini 3.1 Pro Preview",
+      "kontext": 1048576,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "google/gemini-3.1-pro-preview:batch",
+      "name": "Google: Gemini 3.1 Pro Preview (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.6",
+      "name": "Anthropic: Claude Sonnet 4.6",
+      "kontext": 1000000,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.6:batch",
+      "name": "Anthropic: Claude Sonnet 4.6 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "qwen/qwen3.5-plus-02-15",
+      "name": "Qwen: Qwen3.5 Plus 2026-02-15",
+      "kontext": 1000000,
+      "preis_eingabe": 0.26,
+      "preis_ausgabe": 1.56
+    },
+    {
+      "id": "qwen/qwen3.5-397b-a17b",
+      "name": "Qwen: Qwen3.5 397B A17B",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.6
+    },
+    {
+      "id": "minimax/minimax-m2.5",
+      "name": "MiniMax: MiniMax M2.5",
+      "kontext": 204800,
+      "preis_eingabe": 0.22,
+      "preis_ausgabe": 0.9
+    },
+    {
+      "id": "z-ai/glm-5",
+      "name": "Z.ai: GLM 5",
+      "kontext": 204800,
+      "preis_eingabe": 0.95,
+      "preis_ausgabe": 2.55
+    },
+    {
+      "id": "qwen/qwen3-max-thinking",
+      "name": "Qwen: Qwen3 Max Thinking",
+      "kontext": 262144,
+      "preis_eingabe": 0.78,
+      "preis_ausgabe": 3.9
+    },
+    {
+      "id": "anthropic/claude-opus-4.6",
+      "name": "Anthropic: Claude Opus 4.6",
+      "kontext": 1000000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.6:batch",
+      "name": "Anthropic: Claude Opus 4.6 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "qwen/qwen3-coder-next",
+      "name": "Qwen: Qwen3 Coder Next",
+      "kontext": 262144,
+      "preis_eingabe": 0.12,
+      "preis_ausgabe": 0.8
+    },
+    {
+      "id": "openrouter/free",
+      "name": "Free Models Router",
+      "kontext": 200000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "stepfun/step-3.5-flash",
+      "name": "StepFun: Step 3.5 Flash",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "moonshotai/kimi-k2.5",
+      "name": "MoonshotAI: Kimi K2.5",
+      "kontext": 262144,
+      "preis_eingabe": 0.57,
+      "preis_ausgabe": 2.85
+    },
+    {
+      "id": "upstage/solar-pro-3",
+      "name": "Upstage: Solar Pro 3",
+      "kontext": 131072,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "minimax/minimax-m2-her",
+      "name": "MiniMax: MiniMax M2-her",
+      "kontext": 65536,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "writer/palmyra-x5",
+      "name": "Writer: Palmyra X5",
+      "kontext": 1040000,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-audio",
+      "name": "OpenAI: GPT Audio",
+      "kontext": 128000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "openai/gpt-audio-mini",
+      "name": "OpenAI: GPT Audio Mini",
+      "kontext": 128000,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 2.4
+    },
+    {
+      "id": "z-ai/glm-4.7-flash",
+      "name": "Z.ai: GLM 4.7 Flash",
+      "kontext": 202752,
+      "preis_eingabe": 0.06,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "openai/gpt-5.2-codex",
+      "name": "OpenAI: GPT-5.2-Codex",
+      "kontext": 400000,
+      "preis_eingabe": 1.75,
+      "preis_ausgabe": 14.0
+    },
+    {
+      "id": "bytedance-seed/seed-1.6-flash",
+      "name": "ByteDance Seed: Seed 1.6 Flash",
+      "kontext": 262144,
+      "preis_eingabe": 0.075,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "bytedance-seed/seed-1.6",
+      "name": "ByteDance Seed: Seed 1.6",
+      "kontext": 262144,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "minimax/minimax-m2.1",
+      "name": "MiniMax: MiniMax M2.1",
+      "kontext": 204800,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "z-ai/glm-4.7",
+      "name": "Z.ai: GLM 4.7",
+      "kontext": 204800,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 1.75
+    },
+    {
+      "id": "google/gemini-3-flash-preview",
+      "name": "Google: Gemini 3 Flash Preview",
+      "kontext": 1048576,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-flash-preview:batch",
+      "name": "Google: Gemini 3 Flash Preview (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-30b-a3b",
+      "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
+      "kontext": 262144,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-30b-a3b:free",
+      "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+      "kontext": 256000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "openai/gpt-5.2-chat",
+      "name": "OpenAI: GPT-5.2 Chat",
+      "kontext": 128000,
+      "preis_eingabe": 1.75,
+      "preis_ausgabe": 14.0
+    },
+    {
+      "id": "openai/gpt-5.2-pro",
+      "name": "OpenAI: GPT-5.2 Pro",
+      "kontext": 400000,
+      "preis_eingabe": 21.0,
+      "preis_ausgabe": 168.0
+    },
+    {
+      "id": "openai/gpt-5.2-pro:batch",
+      "name": "OpenAI: GPT-5.2 Pro (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 10.5,
+      "preis_ausgabe": 84.0
+    },
+    {
+      "id": "openai/gpt-5.2",
+      "name": "OpenAI: GPT-5.2",
+      "kontext": 400000,
+      "preis_eingabe": 1.75,
+      "preis_ausgabe": 14.0
+    },
+    {
+      "id": "openai/gpt-5.2:batch",
+      "name": "OpenAI: GPT-5.2 (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.875,
+      "preis_ausgabe": 7.0
+    },
+    {
+      "id": "relace/relace-search",
+      "name": "Relace: Relace Search",
+      "kontext": 256000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "z-ai/glm-4.6v",
+      "name": "Z.ai: GLM 4.6V",
+      "kontext": 131072,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 0.9
+    },
+    {
+      "id": "openrouter/bodybuilder",
+      "name": "Body Builder (beta)",
+      "kontext": 128000,
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "openai/gpt-5.1-codex-max",
+      "name": "OpenAI: GPT-5.1-Codex-Max",
+      "kontext": 400000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "amazon/nova-2-lite-v1",
+      "name": "Amazon: Nova 2 Lite",
+      "kontext": 1000000,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "mistralai/ministral-14b-2512",
+      "name": "Mistral: Ministral 3 14B 2512",
+      "kontext": 262144,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "mistralai/ministral-8b-2512",
+      "name": "Mistral: Ministral 3 8B 2512",
+      "kontext": 262144,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.15
+    },
+    {
+      "id": "mistralai/ministral-3b-2512",
+      "name": "Mistral: Ministral 3 3B 2512",
+      "kontext": 131072,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.1
+    },
+    {
+      "id": "mistralai/mistral-large-2512",
+      "name": "Mistral: Mistral Large 3 2512",
+      "kontext": 262144,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "deepseek/deepseek-v3.2",
+      "name": "DeepSeek: DeepSeek V3.2",
+      "kontext": 163840,
+      "preis_eingabe": 0.269,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "anthropic/claude-opus-4.5",
+      "name": "Anthropic: Claude Opus 4.5",
+      "kontext": 200000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 25.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.5:batch",
+      "name": "Anthropic: Claude Opus 4.5 (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "allenai/olmo-3-32b-think",
+      "name": "AllenAI: Olmo 3 32B Think",
+      "kontext": 65536,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.5
+    },
+    {
+      "id": "google/gemini-3-pro-image-preview",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+      "kontext": 65536,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "deepcogito/cogito-v2.1-671b",
+      "name": "Deep Cogito: Cogito v2.1 671B",
+      "kontext": 128000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "openai/gpt-5.1",
+      "name": "OpenAI: GPT-5.1",
+      "kontext": 400000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "openai/gpt-5.1:batch",
+      "name": "OpenAI: GPT-5.1 (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.625,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "openai/gpt-5.1-codex",
+      "name": "OpenAI: GPT-5.1-Codex",
+      "kontext": 400000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "openai/gpt-5.1-codex-mini",
+      "name": "OpenAI: GPT-5.1-Codex-Mini",
+      "kontext": 400000,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "moonshotai/kimi-k2-thinking",
+      "name": "MoonshotAI: Kimi K2 Thinking",
+      "kontext": 262144,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "amazon/nova-premier-v1",
+      "name": "Amazon: Nova Premier 1.0",
+      "kontext": 1000000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 12.5
+    },
+    {
+      "id": "perplexity/sonar-pro-search",
+      "name": "Perplexity: Sonar Pro Search",
+      "kontext": 200000,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "mistralai/voxtral-small-24b-2507",
+      "name": "Mistral: Voxtral Small 24B 2507",
+      "kontext": 32000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "openai/gpt-oss-safeguard-20b",
+      "name": "OpenAI: gpt-oss-safeguard-20b",
+      "kontext": 131072,
+      "preis_eingabe": 0.075,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "nvidia/nemotron-nano-12b-v2-vl:free",
+      "name": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "minimax/minimax-m2",
+      "name": "MiniMax: MiniMax M2",
+      "kontext": 204800,
+      "preis_eingabe": 0.255,
+      "preis_ausgabe": 1.02
+    },
+    {
+      "id": "qwen/qwen3-vl-32b-instruct",
+      "name": "Qwen: Qwen3 VL 32B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.104,
+      "preis_ausgabe": 0.416
+    },
+    {
+      "id": "ibm-granite/granite-4.0-h-micro",
+      "name": "IBM: Granite 4.0 Micro",
+      "kontext": 131000,
+      "preis_eingabe": 0.017,
+      "preis_ausgabe": 0.112
+    },
+    {
+      "id": "openai/gpt-5-image-mini",
+      "name": "OpenAI: GPT-5 Image Mini",
+      "kontext": 400000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "anthropic/claude-haiku-4.5",
+      "name": "Anthropic: Claude Haiku 4.5",
+      "kontext": 200000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "anthropic/claude-haiku-4.5:batch",
+      "name": "Anthropic: Claude Haiku 4.5 (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "qwen/qwen3-vl-8b-thinking",
+      "name": "Qwen: Qwen3 VL 8B Thinking",
+      "kontext": 131072,
+      "preis_eingabe": 0.18,
+      "preis_ausgabe": 2.1
+    },
+    {
+      "id": "qwen/qwen3-vl-8b-instruct",
+      "name": "Qwen: Qwen3 VL 8B Instruct",
+      "kontext": 262144,
+      "preis_eingabe": 0.117,
+      "preis_ausgabe": 0.455
+    },
+    {
+      "id": "openai/gpt-5-image",
+      "name": "OpenAI: GPT-5 Image",
+      "kontext": 400000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "google/gemini-2.5-flash-image",
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "kontext": 32768,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "qwen/qwen3-vl-30b-a3b-thinking",
+      "name": "Qwen: Qwen3 VL 30B A3B Thinking",
+      "kontext": 262144,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 2.4
+    },
+    {
+      "id": "qwen/qwen3-vl-30b-a3b-instruct",
+      "name": "Qwen: Qwen3 VL 30B A3B Instruct",
+      "kontext": 262144,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-5-pro",
+      "name": "OpenAI: GPT-5 Pro",
+      "kontext": 400000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 120.0
+    },
+    {
+      "id": "openai/gpt-5-pro:batch",
+      "name": "OpenAI: GPT-5 Pro (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 7.5,
+      "preis_ausgabe": 60.0
+    },
+    {
+      "id": "z-ai/glm-4.6",
+      "name": "Z.ai: GLM 4.6",
+      "kontext": 204800,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.5",
+      "name": "Anthropic: Claude Sonnet 4.5",
+      "kontext": 1000000,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.5:batch",
+      "name": "Anthropic: Claude Sonnet 4.5 (batch)",
+      "kontext": 1000000,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 7.5
+    },
+    {
+      "id": "deepseek/deepseek-v3.2-exp",
+      "name": "DeepSeek: DeepSeek V3.2 Exp",
+      "kontext": 163840,
+      "preis_eingabe": 0.27,
+      "preis_ausgabe": 0.41
+    },
+    {
+      "id": "thedrummer/cydonia-24b-v4.1",
+      "name": "TheDrummer: Cydonia 24B V4.1",
+      "kontext": 131072,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 0.5
+    },
+    {
+      "id": "relace/relace-apply-3",
+      "name": "Relace: Relace Apply 3",
+      "kontext": 256000,
+      "preis_eingabe": 0.85,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "qwen/qwen3-vl-235b-a22b-thinking",
+      "name": "Qwen: Qwen3 VL 235B A22B Thinking",
+      "kontext": 131072,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "qwen/qwen3-vl-235b-a22b-instruct",
+      "name": "Qwen: Qwen3 VL 235B A22B Instruct",
+      "kontext": 262144,
+      "preis_eingabe": 0.26,
+      "preis_ausgabe": 1.04
+    },
+    {
+      "id": "qwen/qwen3-max",
+      "name": "Qwen: Qwen3 Max",
+      "kontext": 262144,
+      "preis_eingabe": 0.78,
+      "preis_ausgabe": 3.9
+    },
+    {
+      "id": "qwen/qwen3-coder-plus",
+      "name": "Qwen: Qwen3 Coder Plus",
+      "kontext": 1000000,
+      "preis_eingabe": 0.65,
+      "preis_ausgabe": 3.25
+    },
+    {
+      "id": "openai/gpt-5-codex:batch",
+      "name": "OpenAI: GPT-5 Codex (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.625,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "deepseek/deepseek-v3.1-terminus",
+      "name": "DeepSeek: DeepSeek V3.1 Terminus",
+      "kontext": 163840,
+      "preis_eingabe": 0.27,
+      "preis_ausgabe": 0.95
+    },
+    {
+      "id": "qwen/qwen3-coder-flash",
+      "name": "Qwen: Qwen3 Coder Flash",
+      "kontext": 1000000,
+      "preis_eingabe": 0.195,
+      "preis_ausgabe": 0.975
+    },
+    {
+      "id": "qwen/qwen3-next-80b-a3b-thinking",
+      "name": "Qwen: Qwen3 Next 80B A3B Thinking",
+      "kontext": 262144,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "qwen/qwen3-next-80b-a3b-instruct",
+      "name": "Qwen: Qwen3 Next 80B A3B Instruct",
+      "kontext": 262144,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 1.1
+    },
+    {
+      "id": "qwen/qwen-plus-2025-07-28",
+      "name": "Qwen: Qwen Plus 0728",
+      "kontext": 1000000,
+      "preis_eingabe": 0.26,
+      "preis_ausgabe": 0.78
+    },
+    {
+      "id": "qwen/qwen-plus-2025-07-28:thinking",
+      "name": "Qwen: Qwen Plus 0728 (thinking)",
+      "kontext": 1000000,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "nvidia/nemotron-nano-9b-v2:free",
+      "name": "NVIDIA: Nemotron Nano 9B V2 (free)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "moonshotai/kimi-k2-0905",
+      "name": "MoonshotAI: Kimi K2 0905",
+      "kontext": 262144,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "qwen/qwen3-30b-a3b-thinking-2507",
+      "name": "Qwen: Qwen3 30B A3B Thinking 2507",
+      "kontext": 81920,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 2.4
+    },
+    {
+      "id": "nousresearch/hermes-4-70b",
+      "name": "Nous: Hermes 4 70B",
+      "kontext": 131072,
+      "preis_eingabe": 0.13,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "nousresearch/hermes-4-405b",
+      "name": "Nous: Hermes 4 405B",
+      "kontext": 131072,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "deepseek/deepseek-chat-v3.1",
+      "name": "DeepSeek: DeepSeek V3.1",
+      "kontext": 163840,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 0.95
+    },
+    {
+      "id": "mistralai/mistral-medium-3.1",
+      "name": "Mistral: Mistral Medium 3.1",
+      "kontext": 131072,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "z-ai/glm-4.5v",
+      "name": "Z.ai: GLM 4.5V",
+      "kontext": 65536,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 1.8
+    },
+    {
+      "id": "ai21/jamba-large-1.7",
+      "name": "AI21: Jamba Large 1.7",
+      "kontext": 256000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 8.0
+    },
+    {
+      "id": "openai/gpt-5",
+      "name": "OpenAI: GPT-5",
+      "kontext": 400000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "openai/gpt-5:batch",
+      "name": "OpenAI: GPT-5 (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.625,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "openai/gpt-5-mini",
+      "name": "OpenAI: GPT-5 Mini",
+      "kontext": 400000,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "openai/gpt-5-mini:batch",
+      "name": "OpenAI: GPT-5 Mini (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.125,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "openai/gpt-5-nano",
+      "name": "OpenAI: GPT-5 Nano",
+      "kontext": 400000,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "openai/gpt-5-nano:batch",
+      "name": "OpenAI: GPT-5 Nano (batch)",
+      "kontext": 400000,
+      "preis_eingabe": 0.025,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "openai/gpt-oss-120b",
+      "name": "OpenAI: gpt-oss-120b",
+      "kontext": 131072,
+      "preis_eingabe": 0.03,
+      "preis_ausgabe": 0.17
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "name": "OpenAI: gpt-oss-20b",
+      "kontext": 131072,
+      "preis_eingabe": 0.03,
+      "preis_ausgabe": 0.13
+    },
+    {
+      "id": "openai/gpt-oss-20b:free",
+      "name": "OpenAI: gpt-oss-20b (free)",
+      "kontext": 131072,
+      "preis_eingabe": 0.0,
+      "preis_ausgabe": 0.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.1",
+      "name": "Anthropic: Claude Opus 4.1",
+      "kontext": 200000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 75.0
+    },
+    {
+      "id": "anthropic/claude-opus-4.1:batch",
+      "name": "Anthropic: Claude Opus 4.1 (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 7.5,
+      "preis_ausgabe": 37.5
+    },
+    {
+      "id": "mistralai/codestral-2508",
+      "name": "Mistral: Codestral 2508",
+      "kontext": 256000,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 0.9
+    },
+    {
+      "id": "qwen/qwen3-coder-30b-a3b-instruct",
+      "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
+      "kontext": 262144,
+      "preis_eingabe": 0.07,
+      "preis_ausgabe": 0.28
+    },
+    {
+      "id": "qwen/qwen3-30b-a3b-instruct-2507",
+      "name": "Qwen: Qwen3 30B A3B Instruct 2507",
+      "kontext": 262144,
+      "preis_eingabe": 0.0481,
+      "preis_ausgabe": 0.193
+    },
+    {
+      "id": "z-ai/glm-4.5",
+      "name": "Z.ai: GLM 4.5",
+      "kontext": 131072,
+      "preis_eingabe": 0.6,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "z-ai/glm-4.5-air",
+      "name": "Z.ai: GLM 4.5 Air",
+      "kontext": 131072,
+      "preis_eingabe": 0.13,
+      "preis_ausgabe": 0.85
+    },
+    {
+      "id": "qwen/qwen3-235b-a22b-thinking-2507",
+      "name": "Qwen: Qwen3 235B A22B Thinking 2507",
+      "kontext": 262144,
+      "preis_eingabe": 0.23,
+      "preis_ausgabe": 2.3
+    },
+    {
+      "id": "qwen/qwen3-coder",
+      "name": "Qwen: Qwen3 Coder 480B A35B",
+      "kontext": 262144,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "bytedance/ui-tars-1.5-7b",
+      "name": "ByteDance: UI-TARS 7B ",
+      "kontext": 128000,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "google/gemini-2.5-flash-lite",
+      "name": "Google: Gemini 2.5 Flash Lite",
+      "kontext": 1048576,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "google/gemini-2.5-flash-lite:batch",
+      "name": "Google: Gemini 2.5 Flash Lite (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "qwen/qwen3-235b-a22b-2507",
+      "name": "Qwen: Qwen3 235B A22B Instruct 2507",
+      "kontext": 262144,
+      "preis_eingabe": 0.09,
+      "preis_ausgabe": 0.55
+    },
+    {
+      "id": "moonshotai/kimi-k2",
+      "name": "MoonshotAI: Kimi K2 0711",
+      "kontext": 131072,
+      "preis_eingabe": 0.57,
+      "preis_ausgabe": 2.3
+    },
+    {
+      "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+      "name": "Venice: Uncensored",
+      "kontext": 128000,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 0.9
+    },
+    {
+      "id": "tencent/hunyuan-a13b-instruct",
+      "name": "Tencent: Hunyuan A13B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.14,
+      "preis_ausgabe": 0.57
+    },
+    {
+      "id": "morph/morph-v3-large",
+      "name": "Morph: Morph V3 Large",
+      "kontext": 262144,
+      "preis_eingabe": 0.9,
+      "preis_ausgabe": 1.9
+    },
+    {
+      "id": "morph/morph-v3-fast",
+      "name": "Morph: Morph V3 Fast",
+      "kontext": 81920,
+      "preis_eingabe": 0.8,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "baidu/ernie-4.5-vl-424b-a47b",
+      "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
+      "kontext": 123000,
+      "preis_eingabe": 0.42,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "mistralai/mistral-small-3.2-24b-instruct",
+      "name": "Mistral: Mistral Small 3.2 24B",
+      "kontext": 256000,
+      "preis_eingabe": 0.0938,
+      "preis_ausgabe": 0.25
+    },
+    {
+      "id": "minimax/minimax-m1",
+      "name": "MiniMax: MiniMax M1",
+      "kontext": 1000000,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "google/gemini-2.5-flash",
+      "name": "Google: Gemini 2.5 Flash",
+      "kontext": 1048576,
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "google/gemini-2.5-flash:batch",
+      "name": "Google: Gemini 2.5 Flash (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "google/gemini-2.5-pro",
+      "name": "Google: Gemini 2.5 Pro",
+      "kontext": 1048576,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "google/gemini-2.5-pro:batch",
+      "name": "Google: Gemini 2.5 Pro (batch)",
+      "kontext": 1048576,
+      "preis_eingabe": 0.625,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "openai/o3-pro",
+      "name": "OpenAI: o3 Pro",
+      "kontext": 200000,
+      "preis_eingabe": 20.0,
+      "preis_ausgabe": 80.0
+    },
+    {
+      "id": "openai/o3-pro:batch",
+      "name": "OpenAI: o3 Pro (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 40.0
+    },
+    {
+      "id": "google/gemini-2.5-pro-preview",
+      "name": "Google: Gemini 2.5 Pro Preview 06-05",
+      "kontext": 1048576,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "deepseek/deepseek-r1-0528",
+      "name": "DeepSeek: R1 0528",
+      "kontext": 163840,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 2.15
+    },
+    {
+      "id": "anthropic/claude-opus-4",
+      "name": "Anthropic: Claude Opus 4",
+      "kontext": 200000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 75.0
+    },
+    {
+      "id": "anthropic/claude-sonnet-4",
+      "name": "Anthropic: Claude Sonnet 4",
+      "kontext": 1000000,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "google/gemma-3n-e4b-it",
+      "name": "Google: Gemma 3n 4B",
+      "kontext": 32768,
+      "preis_eingabe": 0.06,
+      "preis_ausgabe": 0.12
+    },
+    {
+      "id": "mistralai/mistral-medium-3",
+      "name": "Mistral: Mistral Medium 3",
+      "kontext": 131072,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "google/gemini-2.5-pro-preview-05-06",
+      "name": "Google: Gemini 2.5 Pro Preview 05-06",
+      "kontext": 1048576,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "arcee-ai/virtuoso-large",
+      "name": "Arcee AI: Virtuoso Large",
+      "kontext": 131072,
+      "preis_eingabe": 0.75,
+      "preis_ausgabe": 1.2
+    },
+    {
+      "id": "meta-llama/llama-guard-4-12b",
+      "name": "Meta: Llama Guard 4 12B",
+      "kontext": 1048576,
+      "preis_eingabe": 0.18,
+      "preis_ausgabe": 0.18
+    },
+    {
+      "id": "qwen/qwen3-30b-a3b",
+      "name": "Qwen: Qwen3 30B A3B",
+      "kontext": 131072,
+      "preis_eingabe": 0.12,
+      "preis_ausgabe": 0.5
+    },
+    {
+      "id": "qwen/qwen3-8b",
+      "name": "Qwen: Qwen3 8B",
+      "kontext": 131072,
+      "preis_eingabe": 0.117,
+      "preis_ausgabe": 0.455
+    },
+    {
+      "id": "qwen/qwen3-14b",
+      "name": "Qwen: Qwen3 14B",
+      "kontext": 131072,
+      "preis_eingabe": 0.12,
+      "preis_ausgabe": 0.24
+    },
+    {
+      "id": "qwen/qwen3-32b",
+      "name": "Qwen: Qwen3 32B",
+      "kontext": 131072,
+      "preis_eingabe": 0.08,
+      "preis_ausgabe": 0.28
+    },
+    {
+      "id": "qwen/qwen3-235b-a22b",
+      "name": "Qwen: Qwen3 235B A22B",
+      "kontext": 131072,
+      "preis_eingabe": 0.455,
+      "preis_ausgabe": 1.82
+    },
+    {
+      "id": "openai/o4-mini-high",
+      "name": "OpenAI: o4 Mini High",
+      "kontext": 200000,
+      "preis_eingabe": 1.1,
+      "preis_ausgabe": 4.4
+    },
+    {
+      "id": "openai/o4-mini-high:batch",
+      "name": "OpenAI: o4 Mini High (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "openai/o3",
+      "name": "OpenAI: o3",
+      "kontext": 200000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 8.0
+    },
+    {
+      "id": "openai/o3:batch",
+      "name": "OpenAI: o3 (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "openai/o4-mini",
+      "name": "OpenAI: o4 Mini",
+      "kontext": 200000,
+      "preis_eingabe": 1.1,
+      "preis_ausgabe": 4.4
+    },
+    {
+      "id": "openai/o4-mini:batch",
+      "name": "OpenAI: o4 Mini (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "openai/gpt-4.1",
+      "name": "OpenAI: GPT-4.1",
+      "kontext": 1047576,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 8.0
+    },
+    {
+      "id": "openai/gpt-4.1:batch",
+      "name": "OpenAI: GPT-4.1 (batch)",
+      "kontext": 1047576,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "openai/gpt-4.1-mini",
+      "name": "OpenAI: GPT-4.1 Mini",
+      "kontext": 1047576,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 1.6
+    },
+    {
+      "id": "openai/gpt-4.1-mini:batch",
+      "name": "OpenAI: GPT-4.1 Mini (batch)",
+      "kontext": 1047576,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 0.8
+    },
+    {
+      "id": "openai/gpt-4.1-nano",
+      "name": "OpenAI: GPT-4.1 Nano",
+      "kontext": 1047576,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "openai/gpt-4.1-nano:batch",
+      "name": "OpenAI: GPT-4.1 Nano (batch)",
+      "kontext": 1047576,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "meta-llama/llama-4-maverick",
+      "name": "Meta: Llama 4 Maverick",
+      "kontext": 1048576,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 0.696
+    },
+    {
+      "id": "meta-llama/llama-4-scout",
+      "name": "Meta: Llama 4 Scout",
+      "kontext": 1310720,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "deepseek/deepseek-chat-v3-0324",
+      "name": "DeepSeek: DeepSeek V3 0324",
+      "kontext": 163840,
+      "preis_eingabe": 0.27,
+      "preis_ausgabe": 1.12
+    },
+    {
+      "id": "openai/o1-pro",
+      "name": "OpenAI: o1-pro",
+      "kontext": 200000,
+      "preis_eingabe": 150.0,
+      "preis_ausgabe": 600.0
+    },
+    {
+      "id": "openai/o1-pro:batch",
+      "name": "OpenAI: o1-pro (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 75.0,
+      "preis_ausgabe": 300.0
+    },
+    {
+      "id": "mistralai/mistral-small-3.1-24b-instruct",
+      "name": "Mistral: Mistral Small 3.1 24B",
+      "kontext": 128000,
+      "preis_eingabe": 0.351,
+      "preis_ausgabe": 0.555
+    },
+    {
+      "id": "google/gemma-3-4b-it",
+      "name": "Google: Gemma 3 4B",
+      "kontext": 131072,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.1
+    },
+    {
+      "id": "google/gemma-3-12b-it",
+      "name": "Google: Gemma 3 12B",
+      "kontext": 131072,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.15
+    },
+    {
+      "id": "cohere/command-a",
+      "name": "Cohere: Command A",
+      "kontext": 256000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "rekaai/reka-flash-3",
+      "name": "Reka Flash 3",
+      "kontext": 65536,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "google/gemma-3-27b-it",
+      "name": "Google: Gemma 3 27B",
+      "kontext": 262144,
+      "preis_eingabe": 0.08,
+      "preis_ausgabe": 0.45
+    },
+    {
+      "id": "thedrummer/skyfall-36b-v2",
+      "name": "TheDrummer: Skyfall 36B V2",
+      "kontext": 32768,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 0.8
+    },
+    {
+      "id": "perplexity/sonar-reasoning-pro",
+      "name": "Perplexity: Sonar Reasoning Pro",
+      "kontext": 128000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 8.0
+    },
+    {
+      "id": "perplexity/sonar-pro",
+      "name": "Perplexity: Sonar Pro",
+      "kontext": 200000,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "perplexity/sonar-deep-research",
+      "name": "Perplexity: Sonar Deep Research",
+      "kontext": 128000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 8.0
+    },
+    {
+      "id": "mistralai/mistral-saba",
+      "name": "Mistral: Saba",
+      "kontext": 32768,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/o3-mini-high",
+      "name": "OpenAI: o3 Mini High",
+      "kontext": 200000,
+      "preis_eingabe": 1.1,
+      "preis_ausgabe": 4.4
+    },
+    {
+      "id": "openai/o3-mini-high:batch",
+      "name": "OpenAI: o3 Mini High (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "aion-labs/aion-rp-llama-3.1-8b",
+      "name": "AionLabs: Aion-RP 1.0 (8B)",
+      "kontext": 32768,
+      "preis_eingabe": 0.8,
+      "preis_ausgabe": 1.6
+    },
+    {
+      "id": "qwen/qwen2.5-vl-72b-instruct",
+      "name": "Qwen: Qwen2.5 VL 72B Instruct",
+      "kontext": 128000,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "qwen/qwen-plus",
+      "name": "Qwen: Qwen-Plus",
+      "kontext": 1000000,
+      "preis_eingabe": 0.26,
+      "preis_ausgabe": 0.78
+    },
+    {
+      "id": "openai/o3-mini",
+      "name": "OpenAI: o3 Mini",
+      "kontext": 200000,
+      "preis_eingabe": 1.1,
+      "preis_ausgabe": 4.4
+    },
+    {
+      "id": "openai/o3-mini:batch",
+      "name": "OpenAI: o3 Mini (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 0.55,
+      "preis_ausgabe": 2.2
+    },
+    {
+      "id": "mistralai/mistral-small-24b-instruct-2501",
+      "name": "Mistral: Mistral Small 3",
+      "kontext": 32768,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.08
+    },
+    {
+      "id": "perplexity/sonar",
+      "name": "Perplexity: Sonar",
+      "kontext": 127072,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "deepseek/deepseek-r1-distill-llama-70b",
+      "name": "DeepSeek: R1 Distill Llama 70B",
+      "kontext": 8192,
+      "preis_eingabe": 0.8,
+      "preis_ausgabe": 0.8
+    },
+    {
+      "id": "deepseek/deepseek-r1",
+      "name": "DeepSeek: R1",
+      "kontext": 163840,
+      "preis_eingabe": 0.7,
+      "preis_ausgabe": 2.5
+    },
+    {
+      "id": "minimax/minimax-01",
+      "name": "MiniMax: MiniMax-01",
+      "kontext": 1000192,
+      "preis_eingabe": 0.2,
+      "preis_ausgabe": 1.1
+    },
+    {
+      "id": "microsoft/phi-4",
+      "name": "Microsoft: Phi 4",
+      "kontext": 16384,
+      "preis_eingabe": 0.07,
+      "preis_ausgabe": 0.14
+    },
+    {
+      "id": "deepseek/deepseek-chat",
+      "name": "DeepSeek: DeepSeek V3",
+      "kontext": 163840,
+      "preis_eingabe": 0.2574,
+      "preis_ausgabe": 1.0287
+    },
+    {
+      "id": "sao10k/l3.3-euryale-70b",
+      "name": "Sao10K: Llama 3.3 Euryale 70B",
+      "kontext": 131072,
+      "preis_eingabe": 0.65,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "openai/o1",
+      "name": "OpenAI: o1",
+      "kontext": 200000,
+      "preis_eingabe": 15.0,
+      "preis_ausgabe": 60.0
+    },
+    {
+      "id": "openai/o1:batch",
+      "name": "OpenAI: o1 (batch)",
+      "kontext": 200000,
+      "preis_eingabe": 7.5,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "cohere/command-r7b-12-2024",
+      "name": "Cohere: Command R7B (12-2024)",
+      "kontext": 128000,
+      "preis_eingabe": 0.0375,
+      "preis_ausgabe": 0.15
+    },
+    {
+      "id": "meta-llama/llama-3.3-70b-instruct",
+      "name": "Meta: Llama 3.3 70B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.32
+    },
+    {
+      "id": "amazon/nova-lite-v1",
+      "name": "Amazon: Nova Lite 1.0",
+      "kontext": 300000,
+      "preis_eingabe": 0.06,
+      "preis_ausgabe": 0.24
+    },
+    {
+      "id": "amazon/nova-micro-v1",
+      "name": "Amazon: Nova Micro 1.0",
+      "kontext": 128000,
+      "preis_eingabe": 0.035,
+      "preis_ausgabe": 0.14
+    },
+    {
+      "id": "amazon/nova-pro-v1",
+      "name": "Amazon: Nova Pro 1.0",
+      "kontext": 300000,
+      "preis_eingabe": 0.8,
+      "preis_ausgabe": 3.2
+    },
+    {
+      "id": "openai/gpt-4o-2024-11-20",
+      "name": "OpenAI: GPT-4o (2024-11-20)",
+      "kontext": 128000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "mistralai/mistral-large-2407",
+      "name": "Mistral Large 2407",
+      "kontext": 131072,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "qwen/qwen-2.5-coder-32b-instruct",
+      "name": "Qwen2.5 Coder 32B Instruct",
+      "kontext": 32768,
+      "preis_eingabe": 0.66,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "thedrummer/unslopnemo-12b",
+      "name": "TheDrummer: UnslopNemo 12B",
+      "kontext": 1024000,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "anthracite-org/magnum-v4-72b",
+      "name": "Magnum v4 72B",
+      "kontext": 32768,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "qwen/qwen-2.5-7b-instruct",
+      "name": "Qwen: Qwen2.5 7B Instruct",
+      "kontext": 32768,
+      "preis_eingabe": 0.1,
+      "preis_ausgabe": 0.2
+    },
+    {
+      "id": "thedrummer/rocinante-12b",
+      "name": "TheDrummer: Rocinante 12B",
+      "kontext": 65536,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 0.5
+    },
+    {
+      "id": "meta-llama/llama-3.2-1b-instruct",
+      "name": "Meta: Llama 3.2 1B Instruct",
+      "kontext": 60000,
+      "preis_eingabe": 0.027,
+      "preis_ausgabe": 0.201
+    },
+    {
+      "id": "meta-llama/llama-3.2-3b-instruct",
+      "name": "Meta: Llama 3.2 3B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.33
+    },
+    {
+      "id": "qwen/qwen-2.5-72b-instruct",
+      "name": "Qwen2.5 72B Instruct",
+      "kontext": 32768,
+      "preis_eingabe": 0.36,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "cohere/command-r-08-2024",
+      "name": "Cohere: Command R (08-2024)",
+      "kontext": 128000,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "cohere/command-r-plus-08-2024",
+      "name": "Cohere: Command R+ (08-2024)",
+      "kontext": 128000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "sao10k/l3.1-euryale-70b",
+      "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+      "kontext": 131072,
+      "preis_eingabe": 0.85,
+      "preis_ausgabe": 0.85
+    },
+    {
+      "id": "nousresearch/hermes-3-llama-3.1-70b",
+      "name": "Nous: Hermes 3 70B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.7,
+      "preis_ausgabe": 0.7
+    },
+    {
+      "id": "nousresearch/hermes-3-llama-3.1-405b",
+      "name": "Nous: Hermes 3 405B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 1.0
+    },
+    {
+      "id": "sao10k/l3-lunaris-8b",
+      "name": "Sao10K: Llama 3 8B Lunaris",
+      "kontext": 8192,
+      "preis_eingabe": 0.04,
+      "preis_ausgabe": 0.05
+    },
+    {
+      "id": "openai/gpt-4o-2024-08-06",
+      "name": "OpenAI: GPT-4o (2024-08-06)",
+      "kontext": 128000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "meta-llama/llama-3.1-70b-instruct",
+      "name": "Meta: Llama 3.1 70B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.4,
+      "preis_ausgabe": 0.4
+    },
+    {
+      "id": "meta-llama/llama-3.1-8b-instruct",
+      "name": "Meta: Llama 3.1 8B Instruct",
+      "kontext": 131072,
+      "preis_eingabe": 0.05,
+      "preis_ausgabe": 0.08
+    },
+    {
+      "id": "mistralai/mistral-nemo",
+      "name": "Mistral: Mistral Nemo",
+      "kontext": 131072,
+      "preis_eingabe": 0.019,
+      "preis_ausgabe": 0.03
+    },
+    {
+      "id": "openai/gpt-4o-mini",
+      "name": "OpenAI: GPT-4o-mini",
+      "kontext": 128000,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-4o-mini-2024-07-18",
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "kontext": 128000,
+      "preis_eingabe": 0.15,
+      "preis_ausgabe": 0.6
+    },
+    {
+      "id": "openai/gpt-4o-mini:batch",
+      "name": "OpenAI: GPT-4o-mini (batch)",
+      "kontext": 128000,
+      "preis_eingabe": 0.075,
+      "preis_ausgabe": 0.3
+    },
+    {
+      "id": "google/gemma-2-27b-it",
+      "name": "Google: Gemma 2 27B",
+      "kontext": 8192,
+      "preis_eingabe": 0.65,
+      "preis_ausgabe": 0.65
+    },
+    {
+      "id": "openai/gpt-4o",
+      "name": "OpenAI: GPT-4o",
+      "kontext": 128000,
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "openai/gpt-4o-2024-05-13",
+      "name": "OpenAI: GPT-4o (2024-05-13)",
+      "kontext": 128000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "openai/gpt-4o:batch",
+      "name": "OpenAI: GPT-4o (batch)",
+      "kontext": 128000,
+      "preis_eingabe": 1.25,
+      "preis_ausgabe": 5.0
+    },
+    {
+      "id": "mistralai/mixtral-8x22b-instruct",
+      "name": "Mistral: Mixtral 8x22B Instruct",
+      "kontext": 65536,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "microsoft/wizardlm-2-8x22b",
+      "name": "WizardLM-2 8x22B",
+      "kontext": 65535,
+      "preis_eingabe": 0.62,
+      "preis_ausgabe": 0.62
+    },
+    {
+      "id": "openai/gpt-4-turbo",
+      "name": "OpenAI: GPT-4 Turbo",
+      "kontext": 128000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "openai/gpt-4-turbo:batch",
+      "name": "OpenAI: GPT-4 Turbo (batch)",
+      "kontext": 128000,
+      "preis_eingabe": 5.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "anthropic/claude-3-haiku",
+      "name": "Anthropic: Claude 3 Haiku",
+      "kontext": 200000,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.25
+    },
+    {
+      "id": "mistralai/mistral-large",
+      "name": "Mistral Large",
+      "kontext": 128000,
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 6.0
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-0613",
+      "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+      "kontext": 4095,
+      "preis_eingabe": 1.0,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "openai/gpt-4-turbo-preview",
+      "name": "OpenAI: GPT-4 Turbo Preview",
+      "kontext": 128000,
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 30.0
+    },
+    {
+      "id": "openrouter/auto",
+      "name": "Auto Router",
+      "kontext": 2000000,
+      "preis_eingabe": -1000000.0,
+      "preis_ausgabe": -1000000.0
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-instruct",
+      "name": "OpenAI: GPT-3.5 Turbo Instruct",
+      "kontext": 4095,
+      "preis_eingabe": 1.5,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "openai/gpt-3.5-turbo-16k",
+      "name": "OpenAI: GPT-3.5 Turbo 16k",
+      "kontext": 16385,
+      "preis_eingabe": 3.0,
+      "preis_ausgabe": 4.0
+    },
+    {
+      "id": "mancer/weaver",
+      "name": "Mancer: Weaver (alpha)",
+      "kontext": 8000,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "undi95/remm-slerp-l2-13b",
+      "name": "ReMM SLERP 13B",
+      "kontext": 6144,
+      "preis_eingabe": 0.45,
+      "preis_ausgabe": 0.65
+    },
+    {
+      "id": "gryphe/mythomax-l2-13b",
+      "name": "MythoMax 13B",
+      "kontext": 8192,
+      "preis_eingabe": 0.06,
+      "preis_ausgabe": 0.06
+    },
+    {
+      "id": "openai/gpt-3.5-turbo",
+      "name": "OpenAI: GPT-3.5 Turbo",
+      "kontext": 16385,
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "openai/gpt-3.5-turbo:batch",
+      "name": "OpenAI: GPT-3.5 Turbo (batch)",
+      "kontext": 16385,
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 0.75
+    },
+    {
+      "id": "openai/gpt-4",
+      "name": "OpenAI: GPT-4",
+      "kontext": 8191,
+      "preis_eingabe": 30.0,
+      "preis_ausgabe": 60.0
+    }
+  ],
+  "kostenlos": [
+    "liquid/lfm-2.5-2.6b:free",
+    "nvidia/nemotron-3.5-lightning:free",
+    "poolside/laguna-s-2.1:free",
+    "poolside/laguna-xs-2.1:free",
+    "cohere/north-mini-code:free",
+    "nvidia/nemotron-3.5-content-safety:free",
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "google/gemma-4-26b-a4b-it:free",
+    "google/gemma-4-31b-it:free",
+    "google/lyria-3-pro-preview",
+    "google/lyria-3-clip-preview",
+    "nvidia/nemotron-3-super-120b-a12b:free",
+    "openrouter/free",
+    "nvidia/nemotron-3-nano-30b-a3b:free",
+    "nvidia/nemotron-nano-12b-v2-vl:free",
+    "nvidia/nemotron-nano-9b-v2:free",
+    "openai/gpt-oss-20b:free"
+  ],
+  "modell_felder": [
+    "architecture",
+    "canonical_slug",
+    "context_length",
+    "created",
+    "default_parameters",
+    "description",
+    "expiration_date",
+    "hugging_face_id",
+    "id",
+    "knowledge_cutoff",
+    "links",
+    "name",
+    "per_request_limits",
+    "pricing",
+    "reasoning",
+    "supported_parameters",
+    "supported_voices",
+    "top_provider"
+  ],
+  "architektur_felder": [
+    "input_modalities",
+    "instruct_type",
+    "modality",
+    "output_modalities",
+    "tokenizer"
+  ],
+  "guenstigstes": "inclusionai/ling-2.6-flash",
+  "bild_modelle": [
+    {
+      "id": "google/gemini-3.1-flash-lite-image",
+      "name": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.25,
+      "preis_ausgabe": 1.5
+    },
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-pro-image",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "openai/gpt-5.4-image-2",
+      "name": "OpenAI: GPT-5.4 Image 2",
+      "rein": [
+        "image",
+        "text",
+        "file"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 8.0,
+      "preis_ausgabe": 15.0
+    },
+    {
+      "id": "google/gemini-3.1-flash-image-preview",
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.5,
+      "preis_ausgabe": 3.0
+    },
+    {
+      "id": "google/gemini-3-pro-image-preview",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.0,
+      "preis_ausgabe": 12.0
+    },
+    {
+      "id": "openai/gpt-5-image-mini",
+      "name": "OpenAI: GPT-5 Image Mini",
+      "rein": [
+        "file",
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 2.5,
+      "preis_ausgabe": 2.0
+    },
+    {
+      "id": "openai/gpt-5-image",
+      "name": "OpenAI: GPT-5 Image",
+      "rein": [
+        "image",
+        "text",
+        "file"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 10.0,
+      "preis_ausgabe": 10.0
+    },
+    {
+      "id": "google/gemini-2.5-flash-image",
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "rein": [
+        "image",
+        "text"
+      ],
+      "raus": [
+        "image",
+        "text"
+      ],
+      "preis_eingabe": 0.3,
+      "preis_ausgabe": 2.5
+    }
+  ],
+  "probe": {
+    "modell": "inclusionai/ling-2.6-flash",
+    "auswahl": "guenstigste bezahlte",
+    "antwort": "Konkretes Produkt, das aktuell (August 2026) eine sehr erfolgreiche, virale Werbeanzeige hat und zusätzlich im Aufwärtstrend ist:\n\n- Produktname: Cable Organizer Box (Kabelfutter-Box / Aufbewahrungsbox für Ladekabel)\n- Kategorie: Zubehör für Schreibtisch/Stationery / Kabelorganisation\n- Warum die Anzeige gut performt (laut den Quellen):\n  - Hook: Visueller “Before-After”-Transformations-Clip – im Sekunden-Takt wird das kabelgeschmierte Desk混乱 zu einem sauberen, aufgeräumten Schreibtisch gezeigt. Das Format ist kurz, klar und sofort verständlich („saubere Arbeitsfläche in drei Sekunden“).\n  - Angebot: Sub-$4-Preis macht es zu einem Impulskauf; leicht testbar mit geringem Risiko für den Käufer.\n  - Format: Kurzes, motivationsarmes Video eignet sich optimal für TikTok und Facebook-Reels; hohe Abspielfrequenz und klare Nutzungs情境e (Dorm Room Setup, Clean Desk) steigern die Wiederverwendbarkeit der Inhalte.\n  - Zusätzliche Performance-Faktoren: Es lässt sich gut bundlen (z. B. mit Phone Stand, LED-Lightbox), hat hohe Conversion durch den Clean-Desk-Trend und eignet sich für Influencer-Mashups mit dem Laptop-Camping-Set-Up.\n\n- China-Bezug: Ja – über CJ Dropshipping und ähnliche Dropshipper (Alibaba-/1688-gestützte Lieferketten) lieferbar.\n\nQuellen:\n- TikTok Viral Products August 2026: „The cable organizer box is the quiet workhorse of every clean desk setup video. It hides the charger-cable tangle … before/after demos remain TikTok’s highest-engagement format.“ [astools.app](https://news.astools.app/en/blog/tiktok-viral-products-august-2026)\n- 10 Best Dropshipping Products to Sell in August 2026: Desk cable organizer als Top-Performance-Item für Dorm-Room",
+    "websuche": true,
+    "verbrauch": {
+      "prompt_tokens": 2929,
+      "completion_tokens": 500,
+      "total_tokens": 3429,
+      "cost": 0.00704429,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 4.429e-05,
+        "upstream_inference_prompt_cost": 2.929e-05,
+        "upstream_inference_completions_cost": 1.5e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "versuche": []
+  }
+}

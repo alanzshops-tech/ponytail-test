@@ -1,0 +1,158 @@
+{
+  "brand_name": "Homeeins",
+  "brand_slug": "homeeins",
+  "created_at": "2026-10-28T09:09:06.745748",
+  "updated_at": "2026-10-28T09:10:15.720797",
+  "schema_version": "1.0.0",
+  "identity": {
+    "tagline": "",
+    "mission": "Wohn-Deko und Haustiermöbel, die man verschenken kann, zu Preisen zwischen 30 und 130 Euro.",
+    "vision": "",
+    "values": [
+      "keine erfundene Knappheit",
+      "keine Bewertung ohne Käufer",
+      "nichts behaupten, was nicht gemessen ist"
+    ],
+    "unique_selling_proposition": "OFFEN UND UNGELOEST. Das Sortiment stammt aus dem CJ-Dropshipping-Katalog; dieselben Artikel mit denselben Fotos verkaufen Dutzende andere Shops. Einziges echtes Unterscheidungsmerkmal heute: kostenloser Versand innerhalb Deutschlands. Das reicht nicht und ist die wichtigste offene Aufgabe.",
+    "positioning_statement": "",
+    "elevator_pitch": "Homeeins ist ein kleiner deutscher Onlineshop fuer Wohn-Deko, Aufbewahrung und Haustiermoebel. Alan Lorenz GbR, Bochum."
+  },
+  "business_model": {
+    "type": "B2C eCommerce / DTC (Dropshipping ueber CJ)",
+    "revenue_model": "transactional",
+    "price_range": "30-130 EUR (Band aller sieben jemals getaetigten Verkaeufe); Katalog insgesamt 19-575 EUR",
+    "sales_cycle_length": "einmaliger Impulskauf",
+    "average_deal_size": "30-130 EUR",
+    "customer_lifetime_value": "unbekannt - sieben Bestellungen in drei Jahren, keine Wiederkaeufer gemessen"
+  },
+  "industry": {
+    "primary": "Home & Living / Wohn-Deko",
+    "secondary": [
+      "Haustierbedarf",
+      "Garten & Balkon",
+      "Aufbewahrung",
+      "Reisegepaeck",
+      "Spiel & Sport"
+    ],
+    "regulated": true,
+    "regulation_codes": [
+      "UWG § 5a/5b (Omnibus-Richtlinie) - keine erfundene Knappheit, keine Fantasie-Streichpreise",
+      "Anhang zu § 3 Abs. 3 Nr. 23b/23c UWG - keine Bewertungen ohne echten Kauf",
+      "§ 7 UWG - Kalt-E-Mails an Unternehmen abmahnfaehig (1.500-3.000 EUR je Fall); telefonische B2B-Akquise zulaessig",
+      "§ 19 UStG - Kleinunternehmer, keine Umsatzsteuer, kein Netto/Brutto, nur ein Preis",
+      "§ 3a Abs. 5 UStG - bei digitalen Produkten an Privatkunden gilt das Bestimmungsland"
+    ],
+    "compliance_notes": "Am 09.08.2026 wurden Dark Patterns aus dem Shop entfernt, am 22.10.2026 erneut sechs Produkte mit erfundener Frist bereinigt. Judge.me wurde wegen erfundener Bewertungen deinstalliert. Bewertungs-Import (AliExpress, CSV) ist dauerhaft ausgeschlossen. VERSAND: kostenlos NUR innerhalb Deutschlands (gemessen 28.10.2026); Ausland 14,99-199,99 EUR je Gewicht. Jede Versandaussage muss 'innerhalb Deutschlands' tragen."
+  },
+  "target_markets": [
+    "DE"
+  ],
+  "brand_voice": {
+    "formality": 6,
+    "energy": 3,
+    "humor": 2,
+    "authority": 6,
+    "personality_traits": [
+      "sachlich",
+      "konkret",
+      "ruhig",
+      "ehrlich",
+      "nuechtern"
+    ],
+    "tone_keywords": [
+      "benennt das Problem im Alltag",
+      "eine Zahl oder ein Material statt eines Adjektivs"
+    ],
+    "avoid_words": [
+      "zeitlich begrenzt",
+      "nur heute",
+      "nur noch wenige",
+      "Jetzt zuschlagen",
+      "revolutionaer",
+      "unschlagbar",
+      "Hammerpreis",
+      "Emojis am Titelanfang",
+      "Ausrufezeichen",
+      "versandkostenfrei (ohne 'innerhalb Deutschlands')"
+    ],
+    "prefer_words": [
+      "Masse",
+      "Material",
+      "Belastbarkeit",
+      "wofuer es im Alltag gut ist"
+    ],
+    "this_not_that": [
+      {
+        "say": "Hunde schlafen 12 bis 14 Stunden am Tag. Die Liegeflaeche ist das Moebelstueck, das sie am laengsten benutzen.",
+        "not": "Das beste Hundebett aller Zeiten - jetzt zugreifen!"
+      },
+      {
+        "say": "Der Platz ueber der Waschmaschine ist der am haeufigsten verschenkte Quadratmeter im Bad.",
+        "not": "Schaffen Sie endlich Ordnung in Ihrem Badezimmer!"
+      }
+    ],
+    "sample_content": [
+      "https://www.instagram.com/p/De7MxKvlk41/",
+      "https://bsky.app/profile/homeeins.bsky.social/post/3myposb34ay2l"
+    ]
+  },
+  "channels": {
+    "active": [
+      "facebook",
+      "instagram",
+      "bluesky",
+      "pinterest",
+      "tiktok",
+      "google_business_profile",
+      "youtube"
+    ],
+    "primary": "pinterest",
+    "handles": {
+      "facebook": "114802748346176",
+      "instagram": "homeeins.de",
+      "bluesky": "homeeins.bsky.social",
+      "pinterest": "homeeins (Board 1072490167452344718)",
+      "tiktok": "homeeins.de",
+      "google_business_profile": "accounts/111544804615703223785/locations/16039327397366963745",
+      "youtube": "UCfj7YreSwaqWj_whl0ivQRw"
+    }
+  },
+  "competitors": [],
+  "goals": {
+    "primary_objective": "Der erste Verkauf seit Januar 2026. Null Bestellungen in 2026, sieben in drei Jahren.",
+    "kpis": [
+      "Sitzungen aus organischer Suche: 17 in 12 Monaten (Stand 26.10.2026) - das ist die Engpass-Kennzahl",
+      "Bestellungen 2026: 0",
+      "Sitzungen gesamt 12 Monate: 2.380, davon 94% 'direct' und zu grossen Teilen eigene Messwerkzeuge",
+      "Facebook 94 Sitzungen / Instagram 2 / Pinterest 1 in 12 Monaten",
+      "abgebrochene Warenkoerbe: 0 - niemand legt etwas in den Warenkorb"
+    ],
+    "budget_range": "0 EUR. Keine bezahlte Werbung. Harte Vorgabe des Inhabers.",
+    "team_size": "1 Person plus dieser Agent"
+  },
+  "language": {
+    "primary_language": "de",
+    "secondary_languages": [
+      "en"
+    ],
+    "content_languages": [
+      "de"
+    ],
+    "do_not_translate": [
+      "Homeeins"
+    ],
+    "translation_preferences": {
+      "anrede": "Du"
+    },
+    "locale_formatting": {
+      "date_format": "TT.MM.JJJJ",
+      "number_format": "1.234,56",
+      "measurement": "metrisch"
+    }
+  },
+  "ai_disclosure": {
+    "mode": "claude-surfaces",
+    "text": null,
+    "author": null
+  }
+}

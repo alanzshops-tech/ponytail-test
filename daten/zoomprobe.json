@@ -1,0 +1,64 @@
+{
+  "pfad": "/products/led-taschenlampe-aufladbar-zoom-warnlicht",
+  "widerruf_button": {
+    "gefunden": true,
+    "elternpfad": [
+      {
+        "tag": "BUTTON",
+        "id": null,
+        "klassen": "widerruf-trigger-button widerruf-trigger-button--floating widerruf-trigger-button--floating-left",
+        "data_attribute": [
+          "data-widerruf-popup-open=\"\"",
+          "data-widerruf-popup-bound=\"true\""
+        ]
+      },
+      {
+        "tag": "DIV",
+        "id": null,
+        "klassen": "widerruf-popup-source widerruf-popup-source--embed",
+        "data_attribute": [
+          "data-widerruf-popup-source-root=\"true\"",
+          "data-widerruf-popup-source=\"\"",
+          "data-widerruf-popup-source-kind=\"embed\"",
+          "data-widerruf-popup-css-url=\"https://cdn.shopify.com/extensions/019fe83d-98b8-7eb3-9910-09ce4c58d9cc/revoq-eu-withdrawal"
+        ]
+      }
+    ],
+    "fremde_skripte": [
+      "https://cdn-bundler.nice-team.net/app/js/bundler.js?shop=7a0a31.myshopify.com",
+      "https://cdn.trustedsite.com/js/partner-shopify.js?shop=7a0a31.myshopify.com",
+      "https://metashop.dolphinsuite.com/ow_static/plugins/biolink/js/clicktracking.js?t=1706697725&shop=7a0a31.myshopify.com",
+      "https://app.cjdropshipping.com/static/shopify/pod/cjpodflag.js?shop=7a0a31.myshopify.com",
+      "https://www.googletagmanager.com/gtag/js?id=GT-K55447S&cx=c&gtm=4e68c0",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://shop.app/checkouts/internal/preloads.js?locale=de-US&shop_id=75888525635",
+      "https://bundler.nice-team.net/app/shop/status/7a0a31.myshopify.com.js?1786642353",
+      "https://cdn-bundler.nice-team.net/app/js/bundler-script.js?shop=7a0a31.myshopify.com&1785857358",
+      "https://www.googletagmanager.com/gtag/js?id=G-138EQ9NKMZ",
+      "https://www.googletagmanager.com/gtag/js?id=GT-K55447S"
+    ]
+  },
+  "viewport_meta": "width=device-width,initial-scale=1",
+  "user_scalable_no": false,
+  "maximum_scale_1": false,
+  "pinch_zoom_technisch_moeglich": true,
+  "vorher": {
+    "bilder": 13,
+    "dialoge_offen": 0,
+    "scrollHoehe": 4405
+  },
+  "bild_vorher": "bilder/zoomprobe-1-vorher.jpg",
+  "bild_selektor": ".product__media img",
+  "tap_fehler": "Locator.tap: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\".product__media img\").first\n    - locator resolved to <img width=\"1946\" height=\"1946\" class=\"image-magnify-lightbox\" alt=\"LED-T",
+  "nachher": {
+    "bilder": 13,
+    "dialoge_offen": 0,
+    "scrollHoehe": 4405
+  },
+  "bild_nachher": "bilder/zoomprobe-2-nach-tap.jpg",
+  "dialog_geoeffnet": false,
+  "seite_veraendert": false,
+  "doppeltipp_fehler": "Locator.dblclick: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\".product__media img\").first\n    - locator resolved to <img width=\"1946\" height=\"1946\" class=\"image-magnify-lightbox\" alt=\"",
+  "dialog_nach_doppeltipp": false,
+  "bild_nach_doppeltipp": "bilder/zoomprobe-3-doppeltipp.jpg"
+}

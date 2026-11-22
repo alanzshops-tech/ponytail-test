@@ -1,0 +1,47 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Connection:
+      - close
+      Content-Type:
+      - application/json
+      Host:
+      - developers.cjdropshipping.com
+      User-Agent:
+      - Python-urllib/3.12
+    method: GET
+    uri: https://developers.cjdropshipping.com/api2.0/v1/product/globalWarehouseList
+  response:
+    body:
+      string: "{\"success\":true,\"code\":0,\"message\":null,\"data\":[{\"areaCn\":null,\"areaEn\":null,\"areaId\":2,\"countryCode\":\"US\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Vereinigte
+        Staaten von Amerika\",\"zh\":\"\u7F8E\u56FD\",\"id\":\"Amerika Serikat\",\"fr\":\"les
+        \xE9tats-unis d'Am\xE9rique\",\"th\":\"\u0E2A\u0E2B\u0E23\u0E31\u0E10\u0E2D\u0E40\u0E21\u0E23\u0E34\u0E01\u0E32\",\"en\":\"United
+        States\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":1,\"countryCode\":\"CN\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"China\",\"zh\":\"\u4E2D\u56FD\",\"id\":\"Cina\",\"fr\":\"Chine\",\"th\":\"\u0E08\u0E35\u0E19\",\"en\":\"China\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":12,\"countryCode\":\"MX\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Mexiko\",\"zh\":\"\u58A8\u897F\u54E5\",\"id\":\"Meksiko\",\"fr\":\"Mexique\",\"th\":\"\u0E40\u0E21\u0E47\u0E01\u0E0B\u0E34\u0E42\u0E01\",\"en\":\"Mexico\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":11,\"countryCode\":\"CA\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Kanada\",\"zh\":\"\u52A0\u62FF\u5927\",\"id\":\"Kanada\",\"fr\":\"Canada\",\"th\":\"\u0E41\u0E04\u0E19\u0E32\u0E14\u0E32\",\"en\":\"Canada\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":17,\"countryCode\":\"GB\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"VEREINIGTES
+        K\xD6NIGREICH.\",\"zh\":\"\u82F1\u56FD\",\"id\":\"Inggris\",\"fr\":\"ROYAUME-UNI.\",\"th\":\"\u0E2A\u0E2B\u0E23\u0E32\u0E0A\u0E2D\u0E32\u0E13\u0E32\u0E08\u0E31\u0E01\u0E23\",\"en\":\"United
+        Kingdom\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":4,\"countryCode\":\"DE\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Deutschland\",\"zh\":\"\u5FB7\u56FD\",\"id\":\"Jerman\",\"fr\":\"Allemagne\",\"th\":\"\u0E40\u0E22\u0E2D\u0E23\u0E21\u0E19\u0E35\",\"en\":\"Germany\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":19,\"countryCode\":\"FR\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Frankreich\",\"zh\":\"\u6CD5\u56FD\",\"id\":\"Perancis\",\"fr\":\"France\",\"th\":\"\u0E1D\u0E23\u0E31\u0E48\u0E07\u0E40\u0E28\u0E2A\",\"en\":\"France\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":9,\"countryCode\":\"AU\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Australien\",\"zh\":\"\u6FB3\u5927\u5229\u4E9A\",\"id\":\"Australia\",\"fr\":\"Australie\",\"th\":\"\u0E2D\u0E2D\u0E2A\u0E40\u0E15\u0E23\u0E40\u0E25\u0E35\u0E22\",\"en\":\"Australia\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":30,\"countryCode\":\"AE\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Vereinigte
+        Arabische Emirate\",\"zh\":\"\u963F\u8054\u914B\",\"id\":\"Uni Emirat Arab\",\"fr\":\"\xC9mirats
+        arabes unis\",\"th\":\"\u0E2A\u0E2B\u0E23\u0E31\u0E10\u0E2D\u0E32\u0E2B\u0E23\u0E31\u0E1A\u0E40\u0E2D\u0E21\u0E34\u0E40\u0E23\u0E15\u0E2A\u0E4C\",\"en\":\"United
+        Arab Emirates\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":31,\"countryCode\":\"ES\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Spanien\",\"zh\":\"\u897F\u73ED\u7259\",\"id\":\"Spanyol\",\"fr\":\"Espagne\",\"th\":\"\u0E2A\u0E40\u0E1B\u0E19\",\"en\":\"Spain\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":26,\"countryCode\":\"PH\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"die
+        Philippinen\",\"zh\":\"\u83F2\u5F8B\u5BBE\",\"id\":\"Filipina\",\"fr\":\"les
+        Philippines\",\"th\":\"\u0E1F\u0E34\u0E25\u0E34\u0E1B\u0E1B\u0E34\u0E19\u0E2A\u0E4C\",\"en\":\"Philippines\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":25,\"countryCode\":\"VN\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Vietnam\",\"zh\":\"\u8D8A\u5357\",\"id\":\"Vietnam\",\"fr\":\"Vi\xEAt
+        Nam\",\"th\":\"\u0E40\u0E27\u0E35\u0E22\u0E14\u0E19\u0E32\u0E21\",\"en\":\"Vietnam\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":23,\"countryCode\":\"RO\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Rum\xE4nien\",\"zh\":\"\u7F57\u9A6C\u5C3C\u4E9A\",\"id\":\"Rumania\",\"fr\":\"Roumanie\",\"th\":\"\u0E42\u0E23\u0E21\u0E32\u0E40\u0E19\u0E35\u0E22\",\"en\":\"Romania\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":18,\"countryCode\":\"MY\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Malaysia\",\"zh\":\"\u9A6C\u6765\u897F\u4E9A\",\"id\":\"Malaysia\",\"fr\":\"Malaisie\",\"th\":\"\u0E21\u0E32\u0E40\u0E25\u0E40\u0E0B\u0E35\u0E22\",\"en\":\"Malaysia\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":10,\"countryCode\":\"JP\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Japan\",\"zh\":\"\u65E5\u672C\",\"id\":\"Jepang\",\"fr\":\"Japon\",\"th\":\"\u0E0D\u0E35\u0E48\u0E1B\u0E38\u0E48\u0E19\",\"en\":\"Japan\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":3,\"countryCode\":\"TH\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Thailand\",\"zh\":\"\u6CF0\u56FD\",\"id\":\"Thailand\",\"fr\":\"Tha\xEFlande\",\"th\":\"\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28\u0E44\u0E17\u0E22\",\"en\":\"Thailand\"},{\"areaCn\":null,\"areaEn\":null,\"areaId\":64,\"countryCode\":\"NG\",\"nameEn\":null,\"valueEn\":null,\"disabled\":null,\"de\":\"Nigeria\",\"zh\":\"\u5C3C\u65E5\u5229\u4E9A\",\"id\":\"Nigeria\",\"fr\":\"Nig\xE9ria\",\"th\":\"\u0E44\u0E19\u0E08\u0E35\u0E40\u0E23\u0E35\u0E22\",\"en\":\"Nigeria\"}],\"requestId\":\"8fd584d79151447ba8b7ae9754442c5f\"}"
+    headers:
+      Connection:
+      - close
+      Content-Length:
+      - '3943'
+      Content-Type:
+      - application/json;charset=UTF-8
+      Date:
+      - Sun, 09 Aug 2026 19:52:51 GMT
+      Server:
+      - nginx
+      Vary:
+      - Origin
+      - Access-Control-Request-Method
+      - Access-Control-Request-Headers
+    status:
+      code: 200
+      message: ''
+version: 1

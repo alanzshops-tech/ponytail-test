@@ -1,0 +1,218 @@
+name: Theme aufräumen
+
+# Löscht benannte Dateien aus einem UNVERÖFFENTLICHTEN Theme.
+#
+# Ablauf: Theme herunterladen, die genannten Dateien örtlich löschen,
+# zurückschieben. `shopify theme push` gleicht ab und entfernt dabei
+# alles, was örtlich fehlt — deshalb die Sicherungen unten. Eine
+# leere oder halbe Kopie hochzuschieben würde das Theme leeren.
+on:
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme-ID (muss unveröffentlicht sein)"
+        type: string
+        default: "182664790339"
+      dateien:
+        description: "Zu löschende Dateien, Komma-getrennt"
+        type: string
+        required: true
+      wirklich:
+        description: "Zum Bestätigen LOESCHEN eintippen"
+        type: string
+        required: true
+
+permissions:
+  contents: write
+
+# Früher stand hier LIVE_THEME als feste Nummer. Am 10.08.2026 zeigte sie
+# auf 182664626499 — ein Theme, das längst nicht mehr veröffentlicht war.
+# Die Sperre schützte also das falsche und hätte das echte Live-Theme zum
+# Löschen freigegeben. Eine Nummer, die von Hand nachgezogen werden muss,
+# ist keine Sperre. Jetzt wird bei jedem Lauf gefragt, welches Theme
+# gerade veröffentlicht ist.
+
+jobs:
+  aufraeumen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Sicherungen
+        env:
+          THEME: ${{ inputs.theme }}
+          WIRKLICH: ${{ inputs.wirklich }}
+        run: |
+          if [ "$WIRKLICH" != "LOESCHEN" ]; then
+            echo "::error::Bestätigung fehlt."; exit 1
+          fi
+          if [ -z "$THEME" ]; then
+            echo "::error::Ohne Theme-ID würde die CLI das Live-Theme wählen."; exit 1
+          fi
+
+      - name: Shopify CLI
+        run: |
+          npm install -g --silent @shopify/cli@latest
+          shopify version
+
+      - name: Ist das Ziel wirklich unveröffentlicht?
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        run: |
+          shopify theme list --json --no-color > themen.json || true
+          # Fällt aus, wenn die Ausgabe nicht lesbar ist oder kein
+          # veröffentlichtes Theme darin steht. Lieber ein Abbruch als eine
+          # Sperre, die stillschweigend nichts prüft.
+          python3 - "$THEME" <<'PY'
+          import json, sys
+          ziel = sys.argv[1]
+          try:
+              roh = json.load(open("themen.json"))
+          except Exception as e:
+              sys.exit(f"::error::Themenliste nicht lesbar ({e}). Abbruch.")
+          themen = roh.get("themes", roh) if isinstance(roh, dict) else roh
+          if not isinstance(themen, list) or not themen:
+              sys.exit("::error::Themenliste leer. Abbruch.")
+          def lebt(t):
+              return (str(t.get("role", "")).lower() in ("main", "live")
+                      or t.get("live") is True)
+          live = [str(t.get("id")) for t in themen if lebt(t)]
+          if not live:
+              sys.exit("::error::Kein veröffentlichtes Theme erkannt — die "
+                       "Ausgabeform hat sich geändert. Abbruch.")
+          print("Veröffentlicht:", ", ".join(live))
+          if ziel in live:
+              sys.exit(f"::error::Theme {ziel} ist veröffentlicht. Abbruch.")
+          print(f"Ziel {ziel} ist nicht veröffentlicht. Weiter.")
+          PY
+
+      - name: Theme herunterladen
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        run: |
+          rm -rf arbeitskopie && mkdir -p arbeitskopie
+          shopify theme pull --path arbeitskopie --theme "$THEME" --no-color
+          VORHER=$(find arbeitskopie -type f | wc -l)
+          echo "VORHER=$VORHER" >> $GITHUB_ENV
+          echo "Heruntergeladen: $VORHER Dateien"
+          # Ein unvollständiger Download wäre die gefährlichste Lage:
+          # Push würde die fehlenden Dateien im Shop löschen.
+          if [ "$VORHER" -lt 300 ]; then
+            echo "::error::Nur $VORHER Dateien — das sieht nach einem abgebrochenen Download aus. Abbruch."
+            exit 1
+          fi
+
+      - name: Dateien örtlich löschen
+        env:
+          DATEIEN: ${{ inputs.dateien }}
+        run: |
+          GELOESCHT=0
+          IFS=',' read -ra LISTE <<< "$DATEIEN"
+          for f in "${LISTE[@]}"; do
+            f=$(echo "$f" | xargs)
+            [ -z "$f" ] && continue
+            case "$f" in
+              ../*|/*|*..*) echo "::error::Unzulässiger Pfad: $f"; exit 1;;
+            esac
+            if [ -f "arbeitskopie/$f" ]; then
+              rm "arbeitskopie/$f"; echo "  gelöscht: $f"; GELOESCHT=$((GELOESCHT+1))
+            else
+              echo "  nicht vorhanden, übersprungen: $f"
+            fi
+          done
+          NACHHER=$(find arbeitskopie -type f | wc -l)
+          echo "Vorher $VORHER, nachher $NACHHER, gelöscht $GELOESCHT"
+          if [ $((VORHER - NACHHER)) -ne "$GELOESCHT" ]; then
+            echo "::error::Zahlen gehen nicht auf. Abbruch."; exit 1
+          fi
+          if [ "$GELOESCHT" -eq 0 ]; then
+            echo "::error::Nichts zu löschen."; exit 1
+          fi
+
+      - name: Zurückschieben
+        env:
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: 7a0a31.myshopify.com
+          THEME: ${{ inputs.theme }}
+        # Hier stand `--allow-live=false || <derselbe Befehl ohne Schalter>`.
+        # Das war doppelt falsch: laut Shopifys Dokumentation ist
+        # `-a, --allow-live` ein Schalter, der das Schreiben ins Live-Theme
+        # *erlaubt* — es gibt kein `=false`. Und der Rückfall hinter `||`
+        # hätte bei jedem Fehlschlag genau den Befehl ohne Schutz
+        # nachgeschoben. Ohne den Schalter weigert sich die CLI von selbst,
+        # ein veröffentlichtes Theme zu überschreiben. Kein Rückfall.
+        run: shopify theme push --path arbeitskopie --theme "$THEME" --no-color
+
+      - name: Theme Check danach
+        continue-on-error: true
+        run: |
+          mkdir -p daten
+          shopify theme check --path arbeitskopie --output json --no-color \
+            --fail-level crash > daten/themecheck-sandbox.json || true
+
+      - name: Auswerten
+        if: always()
+        run: |
+          python3 scripts/themecheck.py --json daten/themecheck-sandbox.json --pfad arbeitskopie
+          mv THEMECHECK.md THEMECHECK-SANDBOX.md 2>/dev/null || true
+
+      - name: Bericht
+        if: always()
+        run: '[ -f THEMECHECK-SANDBOX.md ] && cat THEMECHECK-SANDBOX.md >> $GITHUB_STEP_SUMMARY || true'
+
+      - name: Ergebnis committen
+        if: always()
+        run: |
+          # Bricht ein vorheriger Schritt ab, gibt es keine arbeitskopie.
+          # Ohne diese Prüfung meldete der Schritt dann ein rotes Kreuz
+          # ("cp: cannot stat 'arbeitskopie'"), obwohl die Sperre genau
+          # richtig gearbeitet hat.
+          if [ ! -d arbeitskopie ]; then
+            echo "Keine Arbeitskopie -- vorheriger Schritt ist gewollt abgebrochen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Hier wurde bisher die komplette Theme-Kopie ins Repository
+          # gelegt: 361 Dateien, rund 137.000 Zeilen -- und bis auf eine
+          # Datei identisch mit theme/live, das ohnehin gepflegt wird.
+          # Gelesen hat sie nie jemand. Zusammen mit theme/sandbox-neu
+          # machten diese Kopien 412.890 der 507.648 hinzugefuegten Zeilen
+          # aus, also gut 80 Prozent des Repositorys. Der Bericht bleibt,
+          # die Kopie nicht.
+          git add THEMECHECK-SANDBOX.md daten/themecheck-sandbox.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Sandbox aufgeräumt, Stand $(date +%Y-%m-%d)"
+          for v in 1 2 3; do
+            # Ein gescheiterter Rebase laesst das Verzeichnis im
+            # Konfliktzustand zurueck. Ohne diesen Abbruch scheitert jeder
+            # weitere Versuch garantiert am selben Zustand -- die Schleife
+            # lief dreimal leer und meldete am Ende nur "exit 1". Genau so
+            # ist der Pruefstand am 10.08.2026 rot geworden, als sich zwei
+            # Laeufe ueberholt haben.
+            git rebase --abort 2>/dev/null || true
+            git fetch origin "${GITHUB_REF_NAME}" || { sleep $((v * 5)); continue; }
+            # -X theirs meint beim Rebase die eigenen Commits, nicht die der
+            # Gegenseite -- beim Rebase sind die Rollen vertauscht.
+            # Aufnahmen sind Binaerdateien und lassen sich nicht
+            # zusammenfuehren; sie sind erzeugt, nicht geschrieben, also hat
+            # der frischere Lauf recht.
+            if git rebase --autostash -X theirs "origin/${GITHUB_REF_NAME}"; then
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push-Versuch $v fehlgeschlagen, neuer Versuch ..."
+            sleep $((v * 5))
+          done
+          exit 1
