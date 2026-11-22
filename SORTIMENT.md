@@ -291,3 +291,50 @@ trotzdem nur, wenn ein Produkt wirklich orthopädisch ist. Die
 vorhandenen sind Samt-Sofas, keine Memory-Foam-Betten. Eine
 Produkteigenschaft zu behaupten, die es nicht gibt, wäre dieselbe
 Sorte Fehler wie eine erfundene Frist.
+
+## ⚠️ 22.11.2026: Die Texte versprechen, was es nicht mehr gibt
+
+Beim Löschen der 44 unverkäuflichen Varianten am 26.10. wurden die
+**Beschreibungstexte nicht mitgezogen.** Sechs von sechs geprüften
+Produkten werben seither für Farben und Größen, die der Laden nicht
+mehr anbietet:
+
+| Produkt | Text verspricht | Es gibt |
+|---|---|---|
+| Hochstuhl | „Schwarz, Grau, Pink – feste oder bewegliche Armlehnen" | nur Schwarz / verstellbar |
+| Tennisnetz | „**Vier Längen**: 301, 396, 494,5, 595 cm" | nur 494,5 |
+| Trekking-Rucksack | „Grün-Camouflage, Camel-Braun, Camouflage, Khaki · 60/80/100 L" | nur Camouflage, 80 L |
+| Kofferset 4-teilig | „Anthrazit, Champagner oder Kaffeebraun" | nur Champagner |
+| Metall-Pflanzkübel | „Drei Größen · Grau, Schwarz" | nur Schwarz, eine Größe |
+| Aufbewahrungskorb Stoff | „drei Größen und drei Farben" | zwei Farben, eine Größe |
+| Hundebett 95 cm | „4 Farben: Blau, Dunkelgrau, Hellgrau, Schwarz" | Dunkelgrau, Hellgrau |
+
+**Wer „vier Längen zur Wahl" liest und eine findet, fühlt sich
+getäuscht.** Nach § 5 UWG ist das eine irreführende Angabe über die
+Ausstattung — und am Kaufknopf ist es der Moment, in dem jemand geht.
+
+Die Ursache ist eine Lücke in meinem eigenen Vorgehen: Ich habe
+Varianten als Datensätze behandelt und vergessen, dass sie auch im
+Fließtext stehen.
+
+**Erledigt (22.11.):** Hochstuhl, Tennisnetz, Aufbewahrungskorb Stoff.
+Rückbau in `daten/texte-rueckbau-2026-11-22.json`.
+
+**Offen:** die übrigen ~24 Produkte aus
+`daten/varianten-rueckbau-2026-10-26-alle.json`.
+
+### Nebenbefund: „Schneller Versand" steht überall
+
+Jede geprüfte Beschreibung endet mit „Schneller Versand, einfache
+Rückgabe". **Nicht gemessen und bei Dropshipping aus China
+zweifelhaft.** In den drei korrigierten Texten steht jetzt
+„Versand innerhalb Deutschlands kostenlos" — das ist belegt (0,00 €
+in den Versandprofilen). Die Lieferzeit fehlt weiterhin überall, und
+vor Weihnachten ist das die Angabe, nach der am meisten gesucht wird.
+
+### Und ein abgelaufener Rabattcode
+
+`WILLKOMMEN10` ist seit dem **07.08.2026 abgelaufen** (geprüft über die
+Rabattliste). Die Selbstreinigende Katzentoilette bewirbt ihn
+weiterhin. Wer ihn an der Kasse eingibt, bekommt eine Fehlermeldung.
+`MEHRHUNDE15`, `INSTA10`, `TIKTOK10` und `WELCOME10` sind aktiv.

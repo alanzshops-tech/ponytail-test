@@ -1,0 +1,43 @@
+{
+  "_zweck": "Textstellen, die am 22.11.2026 korrigiert wurden, weil sie Varianten versprachen, die am 26.10.2026 geloescht worden waren.",
+  "_ursache": "Beim Loeschen der 44 unverkaeuflichen Varianten wurden die Beschreibungstexte nicht mitgezogen. Irrefuehrende Angabe nach § 5 UWG.",
+  "produkte": [
+    {
+      "handle": "hochstuhl-ergonomisch-fussstuetze-stehtisch",
+      "vorher": [
+        "<strong>Farben:</strong> Schwarz, Grau, Pink – feste oder bewegliche Armlehnen"
+      ],
+      "nachher": [
+        "<strong>Ausführung:</strong> Schwarz, mit verstellbarer Armlehne"
+      ]
+    },
+    {
+      "handle": "aufbewahrungskorb-stoff-design",
+      "vorher": [
+        "ist in drei Größen und drei Farben erhältlich",
+        "<strong>Drei Größen zur Wahl:</strong> Ø 38×46, 43×38 oder 51×33 cm",
+        "<strong>Drei Farbvarianten:</strong> Beige, Braun, Grau-Weiß",
+        "<strong>Größen:</strong> Ø 38 × 46 cm, Ø 43 × 38 cm oder Ø 51 × 33 cm"
+      ],
+      "nachher": [
+        "ist in zwei Farben erhältlich",
+        "<strong>Maße:</strong> Ø 38 × 46 cm",
+        "<strong>Zwei Farben:</strong> Braun, Grau-Weiß",
+        "<strong>Maße:</strong> Ø 38 × 46 cm"
+      ]
+    },
+    {
+      "handle": "tennisnetz-mobil-301x90-wetterfest",
+      "vorher": [
+        "📐 Vier Längen zur Wahl",
+        "Von 301 cm bis 595 cm Länge – finde die passende Größe für deinen Garten, Hof oder Hallenbereich.",
+        "<strong>Größen:</strong> 301, 396, 494,5 oder 595 cm Länge (jeweils ca. 90 × 87 cm)"
+      ],
+      "nachher": [
+        "📐 Länge 494,5 cm",
+        "Mit 494,5 cm Länge passt es in den Garten, auf den Hof oder in die Halle.",
+        "<strong>Maße:</strong> 494,5 × 90 × 87 cm"
+      ]
+    }
+  ]
+}
